@@ -2,7 +2,7 @@ from langchain_core.output_parsers import JsonOutputParser
 from langchain_core.prompts import PromptTemplate
 from langchain_core.pydantic_v1 import BaseModel, Field
 from langchain_openai import ChatOpenAI
-from config import OPENAI_KEY, DEFAULT_PROMPT
+from config import TOGETHER_API_KEY, DEFAULT_PROMPT
 
 class MCQQuestion(BaseModel):
     question: str = Field(description="The multiple-choice question")
@@ -23,6 +23,12 @@ def create_prompt_chain(prompt_text=DEFAULT_PROMPT):
             "format_instructions": mcq_parser.get_format_instructions(),
         },
     )
-    model = ChatOpenAI(model="gpt-4o", temperature=0.5, api_key=OPENAI_KEY)
+    # Changed to use Together API
+    model = ChatOpenAI(
+        model="deepseek-ai/DeepSeek-V3", 
+        temperature=0.5, 
+        api_key=TOGETHER_API_KEY,
+        base_url="https://api.together.xyz/v1"
+    )
     chain = prompt_template | model | mcq_parser
     return chain

@@ -3,7 +3,8 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-OPENAI_KEY = os.getenv("OPENAI_KEY")
+# Changed from OPENAI_KEY to TOGETHER_API_KEY
+TOGETHER_API_KEY = os.getenv("TOGETHER_API_KEY")
 
 DEFAULT_PROMPT = """Based on the following educational content, generate a multiple-choice question with four answer options where only one is correct. The question and its options must adhere to the following rule:
 

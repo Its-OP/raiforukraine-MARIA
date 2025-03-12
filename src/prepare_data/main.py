@@ -5,7 +5,7 @@ from utils import load_test_set, get_all_txt_contents_from_folders
 
 
 def main():
-    path_lisa = "../../data/lisa_sheets"
+    path_lisa = "../../data/lisa_sheets/"
     path_test_folders = "../../data/train_test_split/test_folders.json"
     path_train_folders = "../../data/train_test_split/train_folders.json"
 
