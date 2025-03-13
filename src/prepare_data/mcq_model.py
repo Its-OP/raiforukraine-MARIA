@@ -25,7 +25,7 @@ def create_prompt_chain(prompt_text=DEFAULT_PROMPT):
     )
     # Changed to use Together API
     model = ChatOpenAI(
-        model="deepseek-ai/DeepSeek-V3", 
+        model="meta-llama/Llama-3.3-70B-Instruct-Turbo", 
         temperature=0.5, 
         api_key=TOGETHER_API_KEY,
         base_url="https://api.together.xyz/v1"
