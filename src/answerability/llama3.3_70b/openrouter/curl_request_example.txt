@@ -1,0 +1,28 @@
+curl -X POST 'https://openrouter.ai/api/v1/chat/completions' \
+  -H "Content-Type: application/json" \
+  -H "Authorization: Bearer $OPENROUTER_API_KEY" \
+  -H "HTTP-Referer: https://your-site.com" \
+  -H "X-Title: MCQ Evaluation Script" \
+  -d '{
+    "model": "meta-llama/llama-3.3-70b-instruct",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant that answers multiple choice questions with JSON objects."
+      },
+      {
+        "role": "user",
+        "content": "Answer the following mathematics multiple-choice question:\n\nQuestion: What is the value of 2 + 2?\nOptions:\nA: 3\nB: 4\nC: 5\nD: 6\n\nReturn your answer as a JSON object with a single field '\''answer'\'' containing the letter (A, B, C, or D) corresponding to the correct answer.\nExample: {\"answer\": \"A\"}\n\nOnly provide the JSON object, nothing else."
+      }
+    ],
+    "provider" :  {
+        "order": [
+            "Fireworks",
+        ],
+        "quantizations": [
+            "fp16"
+        ]
+    },
+    "temperature": 0.5,
+    "response_format": {"type": "json_object"}
+  }'

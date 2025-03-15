@@ -1,0 +1,802 @@
+[
+    {
+        "id": "38f20899-3b8d-4e87-9b0f-6fbcfcf0f215",
+        "correct_option": "A",
+        "llm_response": "A",
+        "is_correct": true,
+        "time": 1.6544349193572998,
+        "full_response": "{\"answer\": \"A\"}"
+    },
+    {
+        "id": "7b2a9322-e4fd-4282-ae41-d2db753f9114",
+        "correct_option": "C",
+        "llm_response": "C",
+        "is_correct": true,
+        "time": 0.5772063732147217,
+        "full_response": "{\"answer\": \"C\"}"
+    },
+    {
+        "id": "9de4c458-aab3-44a1-a75f-c395ccafc3ab",
+        "correct_option": "A",
+        "llm_response": "A",
+        "is_correct": true,
+        "time": 0.4990239143371582,
+        "full_response": "{\"answer\": \"A\"}"
+    },
+    {
+        "id": "45521705-d58d-4315-a437-c2a40962d1c3",
+        "correct_option": "C",
+        "llm_response": "C",
+        "is_correct": true,
+        "time": 0.4053184986114502,
+        "full_response": "{\"answer\": \"C\"}"
+    },
+    {
+        "id": "4cb190ab-e927-4d7b-b958-bcda14248cb7",
+        "correct_option": "A",
+        "llm_response": "A",
+        "is_correct": true,
+        "time": 0.3089609146118164,
+        "full_response": "{\"answer\": \"A\"}"
+    },
+    {
+        "id": "e42b4658-c5c0-4825-b211-bd8139bcc824",
+        "correct_option": "B",
+        "llm_response": "B",
+        "is_correct": true,
+        "time": 0.715120792388916,
+        "full_response": "{\"answer\": \"B\"}"
+    },
+    {
+        "id": "4e2ea062-74ce-4b21-9b7f-278dc46a96f0",
+        "correct_option": "A",
+        "llm_response": "A",
+        "is_correct": true,
+        "time": 0.6135845184326172,
+        "full_response": "{\"answer\": \"A\"}"
+    },
+    {
+        "id": "06d3891a-b9c0-4e5b-a3b6-b9ab94c09b40",
+        "correct_option": "A",
+        "llm_response": "A",
+        "is_correct": true,
+        "time": 0.8132398128509521,
+        "full_response": "{\"answer\": \"A\"}"
+    },
+    {
+        "id": "89953ad8-7926-4ac1-8fff-80bce07db5d1",
+        "correct_option": "A",
+        "llm_response": "A",
+        "is_correct": true,
+        "time": 0.8283200263977051,
+        "full_response": "{\"answer\": \"A\"}"
+    },
+    {
+        "id": "a86261e6-1a7b-43c0-8b78-454ace0ca79b",
+        "correct_option": "A",
+        "llm_response": "A",
+        "is_correct": true,
+        "time": 0.4052302837371826,
+        "full_response": "{\"answer\": \"A\"}"
+    },
+    {
+        "id": "e3fc64cf-3046-4fd5-a373-2794e702814c",
+        "correct_option": "A",
+        "llm_response": "A",
+        "is_correct": true,
+        "time": 0.6142110824584961,
+        "full_response": "{\"answer\": \"A\"}"
+    },
+    {
+        "id": "b05cd128-8c35-488b-aed3-18157fe6349c",
+        "correct_option": "B",
+        "llm_response": "B",
+        "is_correct": true,
+        "time": 1.1285405158996582,
+        "full_response": "{\"answer\": \"B\"}"
+    },
+    {
+        "id": "77309952-ca56-4600-baab-e651d73f194c",
+        "correct_option": "C",
+        "llm_response": "C",
+        "is_correct": true,
+        "time": 0.45835351943969727,
+        "full_response": "{\"answer\": \"C\"}"
+    },
+    {
+        "id": "977c3848-75af-4ca7-bdfd-1f811a8282ac",
+        "correct_option": "A",
+        "llm_response": "A",
+        "is_correct": true,
+        "time": 0.5623085498809814,
+        "full_response": "{\"answer\": \"A\"}"
+    },
+    {
+        "id": "96d9fb07-cab8-43f5-9871-4c47c6a38874",
+        "correct_option": "B",
+        "llm_response": "B",
+        "is_correct": true,
+        "time": 0.7168693542480469,
+        "full_response": "{\"answer\": \"B\"}"
+    },
+    {
+        "id": "e0857dbb-e7ad-4976-a556-981802ffcaaa",
+        "correct_option": "C",
+        "llm_response": "C",
+        "is_correct": true,
+        "time": 0.40856218338012695,
+        "full_response": "{\"answer\": \"C\"}"
+    },
+    {
+        "id": "a997ceac-936d-419d-9e06-e45a46844480",
+        "correct_option": "D",
+        "llm_response": "D",
+        "is_correct": true,
+        "time": 0.7172415256500244,
+        "full_response": "{\"answer\": \"D\"}"
+    },
+    {
+        "id": "9242648b-44d6-4df9-b6d0-14dca59c8df0",
+        "correct_option": "B",
+        "llm_response": "B",
+        "is_correct": true,
+        "time": 0.511599063873291,
+        "full_response": "{\"answer\": \"B\"}"
+    },
+    {
+        "id": "893d18ee-9398-49c5-b7f8-a1b62e87f4ce",
+        "correct_option": "D",
+        "llm_response": "D",
+        "is_correct": true,
+        "time": 0.5157816410064697,
+        "full_response": "{\"answer\": \"D\"}"
+    },
+    {
+        "id": "6ca3395e-003a-44db-b775-72f8701b1109",
+        "correct_option": "A",
+        "llm_response": "A",
+        "is_correct": true,
+        "time": 0.6147699356079102,
+        "full_response": "{\"answer\": \"A\"}"
+    },
+    {
+        "id": "88f8df26-97b9-4b9c-948b-48d53169fe89",
+        "correct_option": "C",
+        "llm_response": "C",
+        "is_correct": true,
+        "time": 0.4254882335662842,
+        "full_response": "{\"answer\": \"C\"}"
+    },
+    {
+        "id": "4350ef2d-c270-4a9d-852f-21b0c5a36f58",
+        "correct_option": "D",
+        "llm_response": "D",
+        "is_correct": true,
+        "time": 0.5058274269104004,
+        "full_response": "{\"answer\": \"D\"}"
+    },
+    {
+        "id": "2da398ad-100b-4440-8129-7f67adcaa628",
+        "correct_option": "A",
+        "llm_response": "D",
+        "is_correct": false,
+        "time": 1.5239758491516113,
+        "full_response": "{\"answer\": \"D\"}"
+    },
+    {
+        "id": "3474e44c-5fc0-475d-81cf-57576f70dcb1",
+        "correct_option": "D",
+        "llm_response": "D",
+        "is_correct": true,
+        "time": 0.917912483215332,
+        "full_response": "{\"answer\": \"D\"}"
+    },
+    {
+        "id": "f5c9b2d4-fb0d-4895-ae3e-a72d5d2dbb44",
+        "correct_option": "B",
+        "llm_response": "B",
+        "is_correct": true,
+        "time": 0.4115474224090576,
+        "full_response": "{\"answer\": \"B\"}"
+    },
+    {
+        "id": "84658904-3855-47b5-9307-99efb9d90b0d",
+        "correct_option": "D",
+        "llm_response": "D",
+        "is_correct": true,
+        "time": 0.8761043548583984,
+        "full_response": "{\"answer\": \"D\"}"
+    },
+    {
+        "id": "39aff31f-e0c4-4f9c-b242-27199b5a217b",
+        "correct_option": "B",
+        "llm_response": "B",
+        "is_correct": true,
+        "time": 0.3820819854736328,
+        "full_response": "{\"answer\": \"B\"}"
+    },
+    {
+        "id": "41ace6f5-aa0e-4b77-b112-8d71b7056e21",
+        "correct_option": "C",
+        "llm_response": "C",
+        "is_correct": true,
+        "time": 0.6381394863128662,
+        "full_response": "{\"answer\": \"C\"}"
+    },
+    {
+        "id": "c2502c7a-5826-4be2-888c-fc7a711cceba",
+        "correct_option": "B",
+        "llm_response": "B",
+        "is_correct": true,
+        "time": 2.196784019470215,
+        "full_response": "{\"answer\": \"B\"}"
+    },
+    {
+        "id": "70008df9-a7dc-48bd-a112-c7bc5a2de56d",
+        "correct_option": "B",
+        "llm_response": "B",
+        "is_correct": true,
+        "time": 0.7159457206726074,
+        "full_response": "{\"answer\": \"B\"}"
+    },
+    {
+        "id": "5a099680-e853-4b92-9d5c-de8c86f55891",
+        "correct_option": "B",
+        "llm_response": "B",
+        "is_correct": true,
+        "time": 0.3858175277709961,
+        "full_response": "{\"answer\": \"B\"}"
+    },
+    {
+        "id": "b514b6eb-a981-4f35-9139-952cc3ea38bb",
+        "correct_option": "B",
+        "llm_response": "B",
+        "is_correct": true,
+        "time": 0.4453909397125244,
+        "full_response": "{\"answer\": \"B\"}"
+    },
+    {
+        "id": "37f535c3-de49-408f-8cea-7f6483b49de0",
+        "correct_option": "D",
+        "llm_response": "D",
+        "is_correct": true,
+        "time": 2.240171194076538,
+        "full_response": "{\"answer\": \"D\"}"
+    },
+    {
+        "id": "e4cc3f6b-61da-455d-87d8-9f4c3a4d236c",
+        "correct_option": "C",
+        "llm_response": "C",
+        "is_correct": true,
+        "time": 2.520562171936035,
+        "full_response": "{\"answer\": \"C\"}"
+    },
+    {
+        "id": "98454d5c-4a1a-4ec9-bb78-cc4885bbb28d",
+        "correct_option": "C",
+        "llm_response": "C",
+        "is_correct": true,
+        "time": 1.4731335639953613,
+        "full_response": "{\"answer\": \"C\"}"
+    },
+    {
+        "id": "553ab8cb-990d-4763-8e30-1ccf64db4761",
+        "correct_option": "B",
+        "llm_response": "B",
+        "is_correct": true,
+        "time": 0.5148947238922119,
+        "full_response": "{\"answer\": \"B\"}"
+    },
+    {
+        "id": "d1229a21-3c77-4386-a5b0-f11ffef59a42",
+        "correct_option": "C",
+        "llm_response": "C",
+        "is_correct": true,
+        "time": 0.4054605960845947,
+        "full_response": "{\"answer\": \"C\"}"
+    },
+    {
+        "id": "aa2ac2d5-4d1e-493a-86cf-c5a01af0f761",
+        "correct_option": "C",
+        "llm_response": "C",
+        "is_correct": true,
+        "time": 1.023454189300537,
+        "full_response": "{\"answer\": \"C\"}"
+    },
+    {
+        "id": "40605e6e-5f75-4561-8873-d7cd2921d4d0",
+        "correct_option": "D",
+        "llm_response": "D",
+        "is_correct": true,
+        "time": 1.0250353813171387,
+        "full_response": "{\"answer\": \"D\"}"
+    },
+    {
+        "id": "b7492bb7-c8c5-41b5-8eaa-7e79d45e0a69",
+        "correct_option": "C",
+        "llm_response": "C",
+        "is_correct": true,
+        "time": 0.40819478034973145,
+        "full_response": "{\"answer\": \"C\"}"
+    },
+    {
+        "id": "8c185b21-4db8-499e-a78f-685e7747e2ee",
+        "correct_option": "D",
+        "llm_response": "D",
+        "is_correct": true,
+        "time": 0.5118978023529053,
+        "full_response": "{\"answer\": \"D\"}"
+    },
+    {
+        "id": "5e0966ec-5f74-467c-a96d-d9c80470f312",
+        "correct_option": "C",
+        "llm_response": "C",
+        "is_correct": true,
+        "time": 0.40946197509765625,
+        "full_response": "{\"answer\": \"C\"}"
+    },
+    {
+        "id": "8e8e9959-22e7-4739-a4ee-22d96fc4a7a3",
+        "correct_option": "B",
+        "llm_response": "B",
+        "is_correct": true,
+        "time": 0.4949498176574707,
+        "full_response": "{\"answer\": \"B\"}"
+    },
+    {
+        "id": "086d021b-af51-42e1-b696-cf266ff3783d",
+        "correct_option": "D",
+        "llm_response": "D",
+        "is_correct": true,
+        "time": 1.757598638534546,
+        "full_response": "{\"answer\": \"D\"}"
+    },
+    {
+        "id": "d8d6f4b5-15c9-4098-8e3a-e1fe22fcbb33",
+        "correct_option": "B",
+        "llm_response": "B",
+        "is_correct": true,
+        "time": 0.4556751251220703,
+        "full_response": "{\"answer\": \"B\"}"
+    },
+    {
+        "id": "2f4c3008-f11b-4618-8750-abd722798590",
+        "correct_option": "A",
+        "llm_response": "A",
+        "is_correct": true,
+        "time": 1.5059077739715576,
+        "full_response": "{\"answer\": \"A\"}"
+    },
+    {
+        "id": "9e2004fe-9143-41cb-a7b1-d1575641500a",
+        "correct_option": "B",
+        "llm_response": "C",
+        "is_correct": false,
+        "time": 0.723607063293457,
+        "full_response": "{\"answer\": \"C\"}"
+    },
+    {
+        "id": "eed438a3-38f5-43d6-9028-baec44b2a309",
+        "correct_option": "A",
+        "llm_response": "A",
+        "is_correct": true,
+        "time": 0.3602883815765381,
+        "full_response": "{\"answer\": \"A\"}"
+    },
+    {
+        "id": "cf68c0e0-ba61-4e96-a02b-6ceb377404d0",
+        "correct_option": "A",
+        "llm_response": "A",
+        "is_correct": true,
+        "time": 0.6414458751678467,
+        "full_response": "{\"answer\": \"A\"}"
+    },
+    {
+        "id": "dd571925-f335-48c5-a8a7-cb56b8fab7ec",
+        "correct_option": "D",
+        "llm_response": "B",
+        "is_correct": false,
+        "time": 1.1274306774139404,
+        "full_response": "{\"answer\": \"B\"}"
+    },
+    {
+        "id": "db4e04f6-7272-4290-8057-0fcc841d1002",
+        "correct_option": "C",
+        "llm_response": "C",
+        "is_correct": true,
+        "time": 0.45493340492248535,
+        "full_response": "{\"answer\": \"C\"}"
+    },
+    {
+        "id": "ceee0430-4bf0-4ad8-88b0-db1bd8a03e08",
+        "correct_option": "B",
+        "llm_response": "B",
+        "is_correct": true,
+        "time": 0.8734102249145508,
+        "full_response": "{\"answer\": \"B\"}"
+    },
+    {
+        "id": "18156abc-94cd-406e-92ba-7dbed0bde5b6",
+        "correct_option": "A",
+        "llm_response": "A",
+        "is_correct": true,
+        "time": 0.4078493118286133,
+        "full_response": "{\"answer\": \"A\"}"
+    },
+    {
+        "id": "e5b58f45-08de-4167-a911-bb3edda73378",
+        "correct_option": "A",
+        "llm_response": "A",
+        "is_correct": true,
+        "time": 0.725473165512085,
+        "full_response": "{\"answer\": \"A\"}"
+    },
+    {
+        "id": "7c7dc71c-c1cc-4580-83d7-31b5382c5cae",
+        "correct_option": "D",
+        "llm_response": "C",
+        "is_correct": false,
+        "time": 1.4307105541229248,
+        "full_response": "{\"answer\": \"C\"}"
+    },
+    {
+        "id": "765c59e4-4893-4eee-ab34-ed483f5909c8",
+        "correct_option": "D",
+        "llm_response": "D",
+        "is_correct": true,
+        "time": 0.35454750061035156,
+        "full_response": "{\"answer\": \"D\"}"
+    },
+    {
+        "id": "859f8c5e-3832-4a9c-9037-55e1dd0d6035",
+        "correct_option": "B",
+        "llm_response": "B",
+        "is_correct": true,
+        "time": 0.7162470817565918,
+        "full_response": "{\"answer\": \"B\"}"
+    },
+    {
+        "id": "0cff9a14-c5d8-4379-ab37-d348dfbef8f3",
+        "correct_option": "C",
+        "llm_response": "C",
+        "is_correct": true,
+        "time": 0.38527703285217285,
+        "full_response": "{\"answer\": \"C\"}"
+    },
+    {
+        "id": "d9730de5-95de-4324-a978-c0112468406f",
+        "correct_option": "A",
+        "llm_response": "A",
+        "is_correct": true,
+        "time": 0.4820413589477539,
+        "full_response": "{\"answer\": \"A\"}"
+    },
+    {
+        "id": "c8dc8558-97cb-497d-982e-f60a0796359b",
+        "correct_option": "D",
+        "llm_response": "D",
+        "is_correct": true,
+        "time": 1.4331142902374268,
+        "full_response": "{\"answer\": \"D\"}"
+    },
+    {
+        "id": "450eeaef-8fc0-46ee-865a-da8528e09be5",
+        "correct_option": "A",
+        "llm_response": "B",
+        "is_correct": false,
+        "time": 1.3002479076385498,
+        "full_response": "{\"answer\": \"B\"}"
+    },
+    {
+        "id": "92246a0c-38d7-4b0d-8480-e4bec7fa41da",
+        "correct_option": "B",
+        "llm_response": "B",
+        "is_correct": true,
+        "time": 0.4405386447906494,
+        "full_response": "{\"answer\": \"B\"}"
+    },
+    {
+        "id": "a2880da5-a527-4389-9d16-271120635d17",
+        "correct_option": "A",
+        "llm_response": "A",
+        "is_correct": true,
+        "time": 0.40946292877197266,
+        "full_response": "{\"answer\": \"A\"}"
+    },
+    {
+        "id": "c156d1c0-609b-4cc1-b902-67dbab0607b5",
+        "correct_option": "C",
+        "llm_response": "C",
+        "is_correct": true,
+        "time": 0.614262580871582,
+        "full_response": "{\"answer\": \"C\"}"
+    },
+    {
+        "id": "0bfc2a56-43b8-44c9-b2a7-ad6a03511cfe",
+        "correct_option": "A",
+        "llm_response": "A",
+        "is_correct": true,
+        "time": 0.6134042739868164,
+        "full_response": "{\"answer\": \"A\"}"
+    },
+    {
+        "id": "321d92df-5b41-4df5-8501-73a4708bf704",
+        "correct_option": "B",
+        "llm_response": "B",
+        "is_correct": true,
+        "time": 0.45264315605163574,
+        "full_response": "{\"answer\": \"B\"}"
+    },
+    {
+        "id": "1161e35b-3780-4150-9387-21da03a9be2c",
+        "correct_option": "B",
+        "llm_response": "B",
+        "is_correct": true,
+        "time": 1.9024906158447266,
+        "full_response": "{\"answer\": \"B\"}"
+    },
+    {
+        "id": "d922b8b9-5aaf-4cea-8710-fc766e601d83",
+        "correct_option": "C",
+        "llm_response": "C",
+        "is_correct": true,
+        "time": 0.4089193344116211,
+        "full_response": "{\"answer\": \"C\"}"
+    },
+    {
+        "id": "0a4d96cb-938c-4df0-ae75-fa2750ede13e",
+        "correct_option": "C",
+        "llm_response": "C",
+        "is_correct": true,
+        "time": 0.40944838523864746,
+        "full_response": "{\"answer\": \"C\"}"
+    },
+    {
+        "id": "7b97500b-b26b-4b9e-a225-8f66813a17ed",
+        "correct_option": "B",
+        "llm_response": "B",
+        "is_correct": true,
+        "time": 0.9214158058166504,
+        "full_response": "{\"answer\": \"B\"}"
+    },
+    {
+        "id": "c608ba1e-f15d-48d2-bae1-80841dfdeaa2",
+        "correct_option": "B",
+        "llm_response": "B",
+        "is_correct": true,
+        "time": 1.535423755645752,
+        "full_response": "{\"answer\": \"B\"}"
+    },
+    {
+        "id": "ac6de9dc-ff07-4ad0-a80d-2f9c07e18922",
+        "correct_option": "C",
+        "llm_response": "C",
+        "is_correct": true,
+        "time": 0.6031413078308105,
+        "full_response": "{\"answer\": \"C\"}"
+    },
+    {
+        "id": "980146bc-5ce1-4c73-aaa3-e36595cd6893",
+        "correct_option": "C",
+        "llm_response": "C",
+        "is_correct": true,
+        "time": 0.4611642360687256,
+        "full_response": "{\"answer\": \"C\"}"
+    },
+    {
+        "id": "4dab582a-d949-4135-8e89-434304b4e840",
+        "correct_option": "A",
+        "llm_response": "D",
+        "is_correct": false,
+        "time": 2.152785301208496,
+        "full_response": "{\"answer\": \"D\"}"
+    },
+    {
+        "id": "b37bf548-18db-465c-bac5-8bf1987eec2b",
+        "correct_option": "B",
+        "llm_response": "B",
+        "is_correct": true,
+        "time": 1.2904853820800781,
+        "full_response": "{\"answer\": \"B\"}"
+    },
+    {
+        "id": "908e012f-a76b-480d-bd99-b419f4a791ac",
+        "correct_option": "A",
+        "llm_response": "A",
+        "is_correct": true,
+        "time": 1.8200628757476807,
+        "full_response": "{\"answer\": \"A\"}"
+    },
+    {
+        "id": "598bcc45-6061-4552-9a61-5fc003255aa6",
+        "correct_option": "C",
+        "llm_response": "C",
+        "is_correct": true,
+        "time": 2.583319902420044,
+        "full_response": "{\"answer\": \"C\"}"
+    },
+    {
+        "id": "c2a92350-84e7-4cbd-a70c-5cdcf6fb1ed7",
+        "correct_option": "D",
+        "llm_response": "D",
+        "is_correct": true,
+        "time": 1.1217339038848877,
+        "full_response": "{\"answer\": \"D\"}"
+    },
+    {
+        "id": "a19894f4-b776-46a9-ba57-32ebce393f32",
+        "correct_option": "C",
+        "llm_response": "C",
+        "is_correct": true,
+        "time": 0.4051177501678467,
+        "full_response": "{\"answer\": \"C\"}"
+    },
+    {
+        "id": "4f2c5ab3-2e73-4f09-b67e-62767811aeb0",
+        "correct_option": "B",
+        "llm_response": "B",
+        "is_correct": true,
+        "time": 1.9540715217590332,
+        "full_response": "{\"answer\": \"B\"}"
+    },
+    {
+        "id": "95f96871-e66c-417c-91ec-a71d05751c28",
+        "correct_option": "D",
+        "llm_response": "D",
+        "is_correct": true,
+        "time": 1.206679344177246,
+        "full_response": "{\"answer\": \"D\"}"
+    },
+    {
+        "id": "92e72deb-d0bc-485c-81a3-6af699e85c8a",
+        "correct_option": "B",
+        "llm_response": "B",
+        "is_correct": true,
+        "time": 1.9630610942840576,
+        "full_response": "{\"answer\": \"B\"}"
+    },
+    {
+        "id": "2bafc96d-30e8-4b14-8f5f-99b2a3c97bab",
+        "correct_option": "B",
+        "llm_response": "B",
+        "is_correct": true,
+        "time": 1.242335319519043,
+        "full_response": "{\"answer\": \"B\"}"
+    },
+    {
+        "id": "c9d5b739-e65a-49e4-a055-2d0000cf1de9",
+        "correct_option": "C",
+        "llm_response": "C",
+        "is_correct": true,
+        "time": 0.5151386260986328,
+        "full_response": "{\"answer\": \"C\"}"
+    },
+    {
+        "id": "bfa5b6a3-1fec-465d-9428-19a31f107dc0",
+        "correct_option": "D",
+        "llm_response": "D",
+        "is_correct": true,
+        "time": 0.494948148727417,
+        "full_response": "{\"answer\": \"D\"}"
+    },
+    {
+        "id": "206de78f-95de-410a-b6c5-fe71677c99b4",
+        "correct_option": "A",
+        "llm_response": "A",
+        "is_correct": true,
+        "time": 0.5133464336395264,
+        "full_response": "{\"answer\": \"A\"}"
+    },
+    {
+        "id": "0311430e-a627-4434-b53e-65d049fbb5f3",
+        "correct_option": "B",
+        "llm_response": "B",
+        "is_correct": true,
+        "time": 0.5089390277862549,
+        "full_response": "{\"answer\": \"B\"}"
+    },
+    {
+        "id": "1e00e636-cb9f-4661-b314-de54f7e0fa89",
+        "correct_option": "C",
+        "llm_response": "C",
+        "is_correct": true,
+        "time": 1.3382229804992676,
+        "full_response": "{\"answer\": \"C\"}"
+    },
+    {
+        "id": "79c57d71-3356-44e1-ad86-5a0e48b2210d",
+        "correct_option": "D",
+        "llm_response": "D",
+        "is_correct": true,
+        "time": 2.3531670570373535,
+        "full_response": "{\"answer\": \"D\"}"
+    },
+    {
+        "id": "8c2454fc-b660-4a2f-9a9a-5762dcf759eb",
+        "correct_option": "A",
+        "llm_response": "A",
+        "is_correct": true,
+        "time": 0.5067150592803955,
+        "full_response": "{\"answer\": \"A\"}"
+    },
+    {
+        "id": "3a2dc97c-e576-4a1f-b91c-2e2323022029",
+        "correct_option": "A",
+        "llm_response": "A",
+        "is_correct": true,
+        "time": 0.5141372680664062,
+        "full_response": "{\"answer\": \"A\"}"
+    },
+    {
+        "id": "0d395f98-5801-4fda-b5a9-2963cf583adc",
+        "correct_option": "A",
+        "llm_response": "A",
+        "is_correct": true,
+        "time": 0.4074869155883789,
+        "full_response": "{\"answer\": \"A\"}"
+    },
+    {
+        "id": "e1bc0617-a6e3-4f28-880e-f5f5d2c1354c",
+        "correct_option": "A",
+        "llm_response": "A",
+        "is_correct": true,
+        "time": 0.9213352203369141,
+        "full_response": "{\"answer\": \"A\"}"
+    },
+    {
+        "id": "e4b33d65-1288-43ff-a556-5c3a5a8b71c4",
+        "correct_option": "A",
+        "llm_response": "A",
+        "is_correct": true,
+        "time": 0.717606782913208,
+        "full_response": "{\"answer\": \"A\"}"
+    },
+    {
+        "id": "0039a2e3-71dd-4b29-9429-0f48a2f1b176",
+        "correct_option": "A",
+        "llm_response": "A",
+        "is_correct": true,
+        "time": 1.5365581512451172,
+        "full_response": "{\"answer\": \"A\"}"
+    },
+    {
+        "id": "7a038185-a481-44b3-8879-64cf38f62c5d",
+        "correct_option": "B",
+        "llm_response": "B",
+        "is_correct": true,
+        "time": 1.7382831573486328,
+        "full_response": "{\"answer\": \"B\"}"
+    },
+    {
+        "id": "5f150bd8-3d1d-447d-8130-b0b8283a2573",
+        "correct_option": "C",
+        "llm_response": "C",
+        "is_correct": true,
+        "time": 1.3651318550109863,
+        "full_response": "{\"answer\": \"C\"}"
+    },
+    {
+        "id": "077a63b4-4ac1-4163-b344-c4e78504d55f",
+        "correct_option": "C",
+        "llm_response": "C",
+        "is_correct": true,
+        "time": 0.3816356658935547,
+        "full_response": "{\"answer\": \"C\"}"
+    },
+    {
+        "id": "06b01318-bc2e-49b2-828c-31c9c991f523",
+        "correct_option": "B",
+        "llm_response": "B",
+        "is_correct": true,
+        "time": 0.5339004993438721,
+        "full_response": "{\"answer\": \"B\"}"
+    },
+    {
+        "id": "1df75b51-d069-4de0-9958-e51c68fb9bf8",
+        "correct_option": "C",
+        "llm_response": "C",
+        "is_correct": true,
+        "time": 1.3056540489196777,
+        "full_response": "{\"answer\": \"C\"}"
+    }
+]

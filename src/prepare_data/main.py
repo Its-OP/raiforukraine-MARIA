@@ -17,6 +17,7 @@ def main():
     chain = create_prompt_chain()
     
     test_generated_questions = run_in_parallel(test_set, chain, max_workers=10)
+    #test_generated_questions = run_in_parallel(test_set[:10], chain, max_workers=10)
     # train_generated_questions = run_in_parallel(train_set, chain, max_workers=10)
     
     with open("test_generated_questions.json", "w") as f:

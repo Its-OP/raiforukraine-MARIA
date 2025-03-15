@@ -1,0 +1,5 @@
+#+title: Instructions
+#+date: [2025-03-15 Sat]
+#+author: Adam Sanchez
+
+python -m src.main

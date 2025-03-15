@@ -1,0 +1,5 @@
+temperature
+0.1 Accuracy: 3674/4000 (91.85%)
+0.5 Accuracy: 3667/4000 (91.67%)
+0.7 Accuracy: 3677/4000 (91.92%)
+		
