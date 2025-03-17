@@ -1,14 +1,24 @@
 from tqdm import tqdm
+from openai import OpenAI
+from pydantic import BaseModel
 
 tqdm.pandas()
 
-from pydantic import BaseModel
-
+def create_client(api_key):
+    """Create and return an API client for LLM calls"""
+    return OpenAI(
+        #together.ai
+        #api_key=api_key,
+        #base_url="https://api.together.xyz/v1"  # Together.ai base URL
+        #ollama
+        api_key="ollama",
+        base_url="http://localhost:11434/v1"  # Together.ai base URL
+    )
 
 def call_openai_api(client, system_prompt, user_prompt, temp=0.5, max_completion_tokens = 1):
     try:
         response = client.chat.completions.create(
-            model="gpt-4o",
+            model="llama3.2:3b",
             temperature=temp,
             max_completion_tokens=max_completion_tokens,
             messages=[

@@ -19,8 +19,7 @@ def compute_answerability_for_df(df: pd.DataFrame,
                                  temp: float,
                                  max_completion_tokens: int):
 
-    client = OpenAI(api_key = api_key)
-            
+    client = create_client(api_key)  # Use the new function            
     def answerability_applicable(row):
         user_prompt = generate_prompt_for_question(row,
                                                    question_col=question_col,
