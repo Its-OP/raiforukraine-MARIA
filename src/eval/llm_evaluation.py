@@ -7,6 +7,8 @@ tqdm.pandas()
 def create_client(api_key):
     """Create and return an API client for LLM calls"""
     return OpenAI(
+        #api_key=os.environ.get("OPENAI_API_KEY"),
+        #base_url="https://api.openai.com/v1"
         #together.ai
         #api_key=api_key,
         #base_url="https://api.together.xyz/v1"  # Together.ai base URL
