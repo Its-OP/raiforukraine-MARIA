@@ -16,7 +16,7 @@ from dotenv import load_dotenv
 
 # Configuration for API calls
 API_CONFIG = {
-    'temperature': 0.1,  # Centralized temperature setting
+    'temperature': 0.7,  # Centralized temperature setting
     'max_tokens': 1,
     'rpm_limit': 300,
     'batch_size': 50

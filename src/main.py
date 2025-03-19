@@ -34,7 +34,7 @@ def main():
     df_eval = eval_dataframe_parallel(df_mcqs=df_mcq,
                                         df_lisa_sheets=df_lisa_sheets,
                                         openai_key=OPENAI_API_KEY,
-                                        num_workers=20,
+                                        num_workers=10,
                                         lisa_sheet_id_col='id',
                                         lisa_sheet_col='content_gpt',
                                         answerability_system_prompt=system_prompts['answerability_prompt'],
