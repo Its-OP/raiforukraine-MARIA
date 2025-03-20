@@ -1,0 +1,105 @@
+import pandas as pd
+import numpy as np
+
+def calculate_mcq_metrics(file_path):
+    """
+    Calculate various metrics from the MCQ evaluation CSV file.
+    
+    Parameters:
+    file_path (str): Path to the CSV file
+    
+    Returns:
+    dict: Dictionary containing calculated metrics
+    """
+    # Read the CSV file
+    df = pd.read_csv(file_path)
+    
+    # Print a sample of the boolean columns to verify the correct format
+    print("Sample of the boolean columns before conversion:")
+    print(df[['starts_with_negation', 'is_question', 'disclosure']].head())
+    
+    # Convert string boolean values to actual booleans (using string comparison)
+    df['starts_with_negation_bool'] = df['starts_with_negation'].astype(str) == 'True'
+    df['is_question_bool'] = df['is_question'].astype(str) == 'True'
+    df['disclosure_bool'] = df['disclosure'].astype(str) == 'True'
+    
+    # Print after conversion to verify
+    print("\nSample after conversion:")
+    print(df[['starts_with_negation', 'starts_with_negation_bool', 
+              'is_question', 'is_question_bool', 
+              'disclosure', 'disclosure_bool']].head())
+    
+    # Calculate metrics
+    metrics = {
+        'originality': {
+            'average': df['originality'].mean()
+        },
+        'readability': {
+            'average': df['readability'].mean()
+        },
+        'starts_with_negation': {
+            'percentage_true': df['starts_with_negation_bool'].sum() / len(df) * 100
+        },
+        'is_question': {
+            'percentage_true': df['is_question_bool'].sum() / len(df) * 100
+        },
+        'relevance': {
+            'average': df['relevance'].mean()
+        },
+        'ambiguity': {
+            'average': df['ambiguity'].mean()
+        },
+        'gpt_answer': {
+            'percentage_correct': (df['gpt_answer'].str.lower() == df['correct_option'].str.lower()).sum() / len(df) * 100
+        },
+        'disclosure': {
+            'percentage_false': (~df['disclosure_bool']).sum() / len(df) * 100
+        },
+        'difficulty': {
+            'average': df['difficulty'].mean()
+        }
+    }
+    
+    return metrics
+
+def format_metrics(metrics):
+    """
+    Format the metrics dictionary into a readable string.
+    
+    Parameters:
+    metrics (dict): Dictionary containing calculated metrics
+    
+    Returns:
+    str: Formatted metrics string
+    """
+    result = "MCQ Evaluation Metrics:\n"
+    result += "=" * 50 + "\n\n"
+    
+    result += f"1. Originality: {metrics['originality']['average']:.4f} (average)\n"
+    result += f"2. Readability: {metrics['readability']['average']:.2f} (average)\n"
+    result += f"3. Starts with negation: {metrics['starts_with_negation']['percentage_true']:.2f}% (percentage of true)\n"
+    result += f"4. Is question: {metrics['is_question']['percentage_true']:.2f}% (percentage of true)\n"
+    result += f"5. Relevance: {metrics['relevance']['average']:.4f} (average)\n"
+    result += f"6. Ambiguity: {metrics['ambiguity']['average']:.4f} (average)\n"
+    result += f"7. GPT answer: {metrics['gpt_answer']['percentage_correct']:.2f}% (percentage correct)\n"
+    result += f"8. Disclosure: {metrics['disclosure']['percentage_false']:.2f}% (percentage of false)\n"
+    result += f"9. Difficulty: {metrics['difficulty']['average']:.2f} (average)\n"
+    
+    return result
+
+if __name__ == "__main__":
+    # Replace with your actual file path
+    file_path = "./mcq_eval_llama3.3_70b-eval_gpt4-o-0.1.csv"
+    
+    try:
+        metrics = calculate_mcq_metrics(file_path)
+        print("\n" + format_metrics(metrics))
+        
+        # You could also save the results to a file
+        with open("mcq_metrics_results.txt", "w") as f:
+            f.write(format_metrics(metrics))
+            
+        print(f"Results have been saved to mcq_metrics_results.txt")
+        
+    except Exception as e:
+        print(f"An error occurred: {str(e)}")

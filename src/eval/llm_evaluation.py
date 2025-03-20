@@ -1,32 +1,37 @@
+import os
 from tqdm import tqdm
 from openai import OpenAI
 from pydantic import BaseModel
+from tenacity import retry, stop_after_attempt, wait_exponential
 
 tqdm.pandas()
 
 def create_client(api_key):
     """Create and return an API client for LLM calls"""
     return OpenAI(
-        #api_key=os.environ.get("OPENAI_API_KEY"),
-        #base_url="https://api.openai.com/v1"
+        api_key=os.environ.get("OPENAI_API_KEY"),
+        base_url="https://api.openai.com/v1"
         #together.ai
         #api_key=api_key,
         #base_url="https://api.together.xyz/v1"  # Together.ai base URL
         #ollama
-        api_key="ollama",
-        base_url="http://localhost:11434/v1"  # Together.ai base URL
+        #api_key="ollama",
+        #base_url="http://localhost:11434/v1"  # Together.ai base URL
     )
 
-def call_openai_api(client, system_prompt, user_prompt, temp=0.5, max_completion_tokens = 1):
+@retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=2, max=10))
+def call_openai_api(client, system_prompt, user_prompt, temp=0.7, max_completion_tokens = 1):
     try:
         response = client.chat.completions.create(
-            model="llama3.2:3b",
+            #model="llama3.2:3b",
+            model="gpt-4o",
             temperature=temp,
             max_completion_tokens=max_completion_tokens,
             messages=[
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_prompt}
             ],
+            timeout=30
         )
         return response.choices[0].message.content
     except Exception as e:

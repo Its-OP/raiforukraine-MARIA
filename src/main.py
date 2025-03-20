@@ -22,13 +22,13 @@ from dotenv import load_dotenv
 def main():
     load_dotenv()
     OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
-    with open('/home/adam/Conda/lig/raiforukraine-MARIA/src/eval/prompts.json', 'r') as file:
+    with open('/home/adam/Conda/lig/raiforukraine-MARIA-worktree-ollama-eval/src/eval/prompts.json', 'r') as file:
         system_prompts = json.load(file)
     df_mcq = pd.read_csv(os.environ.get('MODEL_MCQ_PATH'))
     df_lisa_sheets = pd.read_csv(os.environ.get('LISA_SHEETS_PATH'))
     # test small subset
     common_ids = df_mcq['id'].isin(df_lisa_sheets['id'])
-    #df_mcq = df_mcq[common_ids].iloc[:2000]
+    #df_mcq = df_mcq[common_ids].iloc[:10]
     df_mcq = df_mcq[common_ids]
     df_lisa_sheets = df_lisa_sheets[df_lisa_sheets['id'].isin(df_mcq['id'])]
     df_eval = eval_dataframe_parallel(df_mcqs=df_mcq,

@@ -3,7 +3,7 @@ import json
 import pandas as pd
 from openai import OpenAI
 
-from src.eval.llm_evaluation import generate_prompt_for_question, call_openai_api
+from src.eval.llm_evaluation import generate_prompt_for_question, call_openai_api, create_client
 
 
 def compute_difficulty_for_df(df: pd.DataFrame,
@@ -14,6 +14,7 @@ def compute_difficulty_for_df(df: pd.DataFrame,
                               temp: float,
                               max_completion_tokens: int):
 
+    from tqdm import tqdm
     client = create_client(api_key)  # Use the new function            
     def difficulty_applicable(row):
         user_prompt = generate_prompt_for_question(row,

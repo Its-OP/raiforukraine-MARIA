@@ -1,0 +1,12 @@
+MCQ Evaluation Metrics:
+==================================================
+
+1. Originality: 0.7673 (average)
+2. Readability: 13.64 (average)
+3. Starts with negation: 0.00% (percentage of true)
+4. Is question: 100.00% (percentage of true)
+5. Relevance: 0.7867 (average)
+6. Ambiguity: 0.6833 (average)
+7. GPT answer: 98.81% (percentage correct)
+8. Disclosure: 92.05% (percentage of false)
+9. Difficulty: 2.83 (average)
