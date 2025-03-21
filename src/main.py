@@ -40,6 +40,7 @@ def main():
                                         answerability_system_prompt=system_prompts['answerability_prompt'],
                                         disclosure_system_prompt=system_prompts['disclosure_prompt'],
                                         difficulty_system_prompt=system_prompts['difficulty_prompt'],
+                                        distractor_quality_system_prompt=system_prompts['distractor_quality_prompt'],
                                         )
     df_eval.to_csv(os.environ.get('MODEL_MCQ_EVAL_EXPORT_PATH'), index=False)
 

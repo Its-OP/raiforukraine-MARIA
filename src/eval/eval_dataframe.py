@@ -9,6 +9,7 @@ from src.eval.question_check import is_question
 from src.eval.readability import calculate_readability_for_df
 from src.eval.relevance import calculate_relevance_for_df
 from src.eval.difficulty import compute_difficulty_for_df
+from src.eval.distractor_quality import compute_distractor_quality_for_df
 
 from concurrent.futures import ProcessPoolExecutor
 from tqdm import tqdm
@@ -51,6 +52,10 @@ def eval_dataframe(df_merged: pd.DataFrame,
                    compute_difficulty=True,
                    difficulty_system_prompt=None,
                    difficulty_col='difficulty',
+                   # distractor_quality params,
+                   compute_distractor_quality=True,
+                   distractor_quality_system_prompt=None,
+                   distractor_quality_col='distractor_quality',
                    # general df params
                    question_col='question',
                    option_a_col='option_a',
@@ -122,6 +127,15 @@ def eval_dataframe(df_merged: pd.DataFrame,
                                                     question_col=question_col,
                                                     difficulty_col=difficulty_col,
                                                     system_prompt=difficulty_system_prompt,
+                                                    temp=temp,
+                                                    max_completion_tokens=max_completion_tokens)
+
+        if compute_distractor_quality and distractor_quality_system_prompt is not None:
+            df_merged = compute_distractor_quality_for_df(df_merged,
+                                                    api_key=openai_key,
+                                                    question_col=question_col,
+                                                    distractor_quality_col=distractor_quality_col,
+                                                    system_prompt=distractor_quality_system_prompt,
                                                     temp=temp,
                                                     max_completion_tokens=max_completion_tokens)
     finally:
