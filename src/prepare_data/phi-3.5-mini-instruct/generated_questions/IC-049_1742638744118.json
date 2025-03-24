@@ -1,0 +1,22 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-12-B\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=B\n|Title=Understanding the epidemiology of precocious puberty\n|Description=None\n|Rubric=Epidemiology\n|Contributors=\n|Order=12}}\nPrecocious puberty is much more often central, and much more frequent in girls than in boys (approximately 1000 central precocious puberties in France per year in girls, and 100 in boys). Precocious puberty is most often idiopathic in girls and organic in boys.\n\n<br />",
+  "question": {
+    "properties": {
+      "question": "What is the most common cause of precocious puberty in girls in France?",
+      "option_a": "Idiopathic central precocious puberty",
+      "option_b": "Organic central precocious puberty",
+      "option_c": "Hormonal imbalances",
+      "option_d": "Genetic disorders",
+      "correct_option": "A"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

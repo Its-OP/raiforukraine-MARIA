@@ -1,0 +1,22 @@
+{
+  "folder": "IC-112",
+  "content": "{{knowledge objective\n|Identifiant=OIC-112-04-A\n|Item_parent=Bullous dermatosis of the skin and/or external mucous membranes\n|Item_parent_short=Bullous dermatosis affecting the skin and/or external mucous membranes\n|Rank=A\n|Title=Knowing the value of a biopsy for bullous dermatosis\n|Description=None\n|Rubric=Additional examinations\n|Contributors=\n|Order=4}}\nSkin (or mucous membrane) biopsy with direct immunofluorescence examination is used to confirm the diagnosis of autoimmune bullous disease or to suggest a non-autoimmune cause of bullous disease. If the direct immunofluorescence test is negative, it can rule out the diagnosis of autoimmune bullous dermatosis and point to other causes of bullous lesions. It can also be used to distinguish between the group of sub-epidermal dermatoses (pemphigoid for autoimmune causes) and intra-epidermal dermatoses (pemphigus group for autoimmune causes).",
+  "question": {
+    "properties": {
+      "question": "What is the primary purpose of performing a skin biopsy with direct immunofluorescence examination in patients with bullous dermatosis?",
+      "option_a": "To determine the patient's blood type",
+      "option_b": "To confirm the diagnosis of autoimmune bullous disease or suggest non-autoimmune causes",
+      "option_c": "To assess the patient's response to topical steroid treatment",
+      "option_d": "To evaluate the effectiveness of antiviral medication",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-073",
+  "content": "{{knowledge objective\n|Identifiant=OIC-073-05-B\n|Item_parent=Different types of psychotherapeutic techniques\n|Item_parent_short=Different types of psychotherapeutic techniques\n|Rank=B\n|Title=Knowing the principles common to all psychotherapies\n|Description=Common theoretical and practical principles underlying all psychotherapies\n|Rubric=Taking charge\n|Contributors=Amaury MENGIN\n|Order=5}}\n\n====Principles common to all psychotherapies====\nCommon definition :\n\n- Therapeutic technique using psychic processes\n\nPoints in common:\n\n- Theoretical model of the psyche\n\n- Therapeutic framework: objective, duration, tools, limits, etc.\n\n- Quality psychotherapist/patient relationship or therapeutic alliance\n\n- Patient involvement\n\n- Defined intervention process\n\n- Behavioural, cognitive and affective learning",
+  "question": {
+    "question": "Which of the following is NOT a common principle found in all psychotherapeutic techniques?",
+    "option_a": "Use of pharmacological interventions",
+    "option_b": "Theoretical model of the psyche",
+    "option_c": "Quality psychotherapist/patient relationship",
+    "option_d": "Defined intervention process",
+    "correct_option": "Use of pharmacological interventions"
+  }
+}

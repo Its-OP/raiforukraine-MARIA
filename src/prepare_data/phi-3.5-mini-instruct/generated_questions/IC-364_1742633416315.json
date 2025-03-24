@@ -1,0 +1,22 @@
+{
+  "folder": "IC-364",
+  "content": "{{knowledge objective\n|Identifiant=OIC-364-09-A\n|Item_parent=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Item_parent_short=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Rank=A\n|Title=Identifying the signs of severity of a supracondylar fracture\n|Description=Screening for neurovascular complications\n|Topic=Identifying the emergency\n|Contributors=\n|Order=9}}\nKnow that a supracondylar fracture can be complicated by vascular, nerve and skin lesions; know how to palpate the pulses and observe the colouration of the extremities in the event of a supracondylar fracture of the humerus in children; know how to briefly test the 3 main nerve trunks in the upper limb. Know that incomplete, temporary or complete ischaemia can lead to compartment syndrome of the forearm. Know that pain is the first sign of compartment syndrome. Know that the first action in the event of compartmental syndrome is to open the cast.",
+  "question": {
+    "properties": {
+      "question": "What is the first sign of compartment syndrome in a child with a supracondylar fracture of the humerus?",
+      "option_a": "Elevated temperature in the affected limb",
+      "option_b": "Pain in the affected limb",
+      "option_c": "Bruising around the fracture site",
+      "option_d": "Loss of sensation in the fingers",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

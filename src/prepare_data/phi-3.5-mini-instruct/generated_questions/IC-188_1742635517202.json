@@ -1,0 +1,22 @@
+{
+  "folder": "IC-188",
+  "content": "{{knowledge objective\n|Identifiant=OIC-188-14-A\n|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Rank=A\n|Title=Knowing the main occupational aetiologies\n|Description=Main agents and professions concerned\n|Rubric=Etiologies\n|Contributors=\n|Order=14}}\nCf above : [[Knowing the main occupations at risk of occupational asthma 2C-188-ET-B01|Knowing the main occupations at risk of occupational asthma]]",
+  "question": {
+    "properties": {
+      "question": "Which of the following occupations is NOT commonly associated with an increased risk of occupational asthma?",
+      "option_a": "Textile workers handling synthetic fibers",
+      "option_b": "Bakers exposed to flour dust",
+      "option_c": "Office workers using computer-based software",
+      "option_d": "Petroleum workers exposed to hydrocarbons",
+      "correct_option": "option_c"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

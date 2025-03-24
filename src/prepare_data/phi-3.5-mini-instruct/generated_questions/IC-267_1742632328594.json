@@ -1,0 +1,22 @@
+{
+  "folder": "IC-267",
+  "content": "{{knowledge objective\n|Identifiant=OIC-267-39-A\n|Item_parent=Disorders of acid-base equilibrium and hydro-electrolytic disorders\n|Item_parent_short=Disorders of acid-base balance and fluid and electrolyte disorders\n|Rank=A\n|Title=Knowing the main aetiologies of hypocalcaemia (diagnostic tree)\n|Description=Chronic renal failure, post-surgery hypoparathyroidism, post radiotherapy\n|Rubric=Etiologies\n|Contributors=P. Rieu,B. Moulin,M. Flamant\n|Order=39}}\n\n*Before investigating the aetiology of hypocalcaemia, it is important to check that\n**the sample has not been taken in a citrate tube (citrate chelates calcium)\n**that it is not a pseudo hypocalcaemia (hypoalbuminaemia)\n\n* The etiological investigation is detailed in the table below. It is based on a syndromic approach in relation to the values of\n** total and ionised calcium levels\n** PTH\n** calcitriol\n** vitamin D\n** calciuria\n\n[[File:Capture table hypo.jpg|vignette|Causes of hypocalcaemia by a mechanistic approach]]",
+  "question": {
+    "properties": {
+      "question": "When investigating the aetiology of hypocalcaemia, which of the following factors should be considered first based on the syndromic approach using total and ionised calcium levels, PTH, calcitriol, vitamin D, and calciuria?",
+      "option_a": "Evaluation of dietary calcium intake",
+      "option_b": "Checking for the presence of citrate in the sample",
+      "option_c": "Assessment of renal function and calcium reabsorption",
+      "option_d": "Measurement of blood glucose levels",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

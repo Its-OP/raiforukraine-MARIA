@@ -1,0 +1,22 @@
+{
+  "folder": "IC-235",
+  "content": "{{knowledge objective\n|Identifiant=OIC-235-07-A\n|Item_parent=Acute pericarditis\n|Item_parent_short=Acute pericarditis\n|Rank=A\n|Title=Electrocardiogram (ECG) of acute pericarditis\n|Description=None\n|Rubric=Multimedia content\n|Contributors=Jennifer Cautela\n|Order=7}}\n\n[[File:Ecg typique.jpg|centr\u00e9|vignette|900x900px|Sus d\u00e9calage de ST, diffuse, non-systematis\u00e9, concave vers le haut, sans miroir ni onde Q ET sous d\u00e9calage PQ]]",
+  "question": {
+    "properties": {
+      "question": "On un \u00e9lectrocardiogram (ECG) typique de l'acute pericardite, quel est l'un des signes caract\u00e9ristiques observ\u00e9s?",
+      "option_a": "Sus d\u00e9calage de ST concave vers le haut et sans miroir",
+      "option_b": "Sus de repolarisation fractionn\u00e9e",
+      "option_c": "Onde Q concave vers le bas avec miroir",
+      "option_d": "D\u00e9calage PQ syst\u00e9matique",
+      "correct_option": "a"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

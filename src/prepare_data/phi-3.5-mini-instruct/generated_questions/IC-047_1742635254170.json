@@ -1,0 +1,22 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-17-A\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=A\n|Title=Know the definition of dental caries\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=17}}\n\nCaries is the destruction of tooth enamel and dentine, with the formation of a cavity. It is caused by bacteria naturally present in the mouth.",
+  "question": {
+    "properties": {
+      "question": "What is dental caries?",
+      "option_a": "The inflammation of gum tissue caused by plaque accumulation.",
+      "option_b": "The destruction of tooth enamel and dentine, leading to cavity formation, caused by bacteria in the mouth.",
+      "option_c": "The alignment of teeth into proper positioning through orthodontic treatment.",
+      "option_d": "The loss of tooth structure due to abrasion from aggressive brushing.",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

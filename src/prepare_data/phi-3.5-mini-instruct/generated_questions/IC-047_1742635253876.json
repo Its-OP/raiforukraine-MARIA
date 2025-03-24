@@ -1,0 +1,22 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-28-A\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=A\n|Title=Scoliosis in children: knowing the clinical examination\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=28}}\nSpinal deformity in all 3 planes\n\n'''PAINLESS'''\n\nHighlighting of a '''GIBBOSITE'''",
+  "question": {
+    "properties": {
+      "question": "At what age should a clinical examination for scoliosis typically begin in children?",
+      "option_a": "6-8 years old, during growth spurts",
+      "option_b": "10-12 years old, around the onset of puberty",
+      "option_c": "15-18 years old, during late adolescence",
+      "option_d": "25-30 years old, in early adulthood",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

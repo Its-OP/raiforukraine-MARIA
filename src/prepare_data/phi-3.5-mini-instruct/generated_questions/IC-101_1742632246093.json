@@ -1,0 +1,22 @@
+{
+  "folder": "IC-101",
+  "content": "{{knowledge objective\n|Identifiant=OIC-101-06-A\n|Item_parent=Facial paralysis\n|Item_parent_short=Facial paralysis\n|Rank=A\n|Title=Search for arguments in favour of facial paralysis a frigore in the face of a facial deficit.\n|Description=None\n|Rubric=Etiologies\n|Contributors=\n|Order=6}}\nThese arguments generally make it easy to diagnose facial palsy with frigidity ([[Facial palsy SDD-127|facial palsy]]):\n\n- Mode of onset, in the morning on waking or after exposure to cold (travel), immediately maximal or progressing over a few hours.\n\n- Isolated, severe facial involvement (other cranial nerves unaffected).\n\n- Associated symptoms are usually absent in cases of PFP of other origin: retro-auricular pain in the preceding hours, sometimes with a sensation of numbness in the half-face, hyperacusis ([[Motor and/or sensory deficit of the limbs|sensory and/or motor deficit]]; [[Cervico-facial pain SDD-144|cervico-facial pain]]).",
+  "question": {
+    "properties": {
+      "question": "Which of the following is NOT a typical argument in favor of diagnosing facial paralysis due to frigidity?",
+      "option_a": "Onset of symptoms in the morning or after exposure to cold.",
+      "option_b": "Severe facial involvement with other cranial nerves unaffected.",
+      "option_c": "Presence of retro-auricular pain and numbness in the half-face.",
+      "option_d": "Absence of hyperacusis along with other cranial nerve deficits."
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ],
+    "correct_option": "D"
+  }
+}

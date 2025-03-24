@@ -1,0 +1,12 @@
+{
+  "folder": "IC-157",
+  "content": "{{knowledge objective\n|Identifiant=OIC-157-03-A\n|Item_parent=Bacteremia/Fungemia in adults and children\n|Item_parent_short=Bacteremia/Fungemia in adults and children\n|Rank=A\n|Heading=Knowing how to use anamnesis and clinical findings to determine the site of infection and secondary sepsis.\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=David Lebeaux,Florence Robert-Gangneux\n|Order=3}}\n\nIn cases of [[Hyperthermia/fever SD-044|fever]], [[Sepsis and septic shock in children and adults|sepsis or septic shock]], the interview and physical examination must be complete.\n\nAt this stage, blood cultures have just been taken and the first results will not be available for another 24 hours.\n\nIt is therefore first and foremost on the basis of clinical data that it will be possible to guide management by looking for the route of entry, the site of infection and any secondary sites (see below).\n\n\nIn the case of fungemia, secondary septic sites must be sought in all cases, especially in the face of persistent fever or non-negativation of blood cultures under treatment. In this context, retinal localization (fundus examination) and endocarditis (transoesophageal echocardiography) should be systematically sought, and catheters checked. If necessary, removal of an infected catheter should be considered. Examination of the skin can identify cutaneous metastases. Hepatosplenomegaly and/or disturbances in the liver function tests should be investigated for hepatosplenic candidiasis using abdominal imaging combined with biological markers.",
+  "question": {
+    "question": "When considering a patient with persistent fever and non-negativation of blood cultures under treatment, which of the following is the most appropriate next step in the investigation of secondary sites of infection?",
+    "option_a": "Perform a chest X-ray to check for pulmonary infections.",
+    "option_b": "Conduct a fundus examination to look for retinal localization indicative of fungemia.",
+    "option_c": "Order a CT scan of the abdomen to investigate potential hepatosplenic candidiasis.",
+    "option_d": "Administer a broad-spectrum antibiotic and reassess after 48 hours.",
+    "correct_option": "B"
+  }
+}

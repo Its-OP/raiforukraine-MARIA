@@ -1,0 +1,9 @@
+{
+  "folder": "IC-026",
+  "content": "{{knowledge objective\n|Identifiant=OIC-026-04-B\n|Item_parent=Acute abdominal pain in a pregnant woman\n|Item_parent_short=Acute abdominal pain in pregnant women\n|Rank=B\n|Title=Knowing how to manage acute abdominal pain in pregnant women\n|Description=Know how to guide the clinical examination and suggest appropriate paraclinical tests during management.\n|Rubric=Multimedia content\n|Contributors=Louis Marcellin,Philippe Deruelle\n|Order=4}}\n\n[[File:Douleurs abdominales de la femme enceinte.jpg|vignette|'''Douleurs abdominales de la femme enceinte'']]",
+  "question": {
+    "properties": {
+      "question": "What is the recommended initial paraclinical test for a pregnant woman presenting with acute abdominal pain?\n    "
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-233",
+  "content": "{{knowledge objective\n|Identifiant=OIC-233-11-B\n|Item_parent=Valvulopathies\n|Item_parent_short=Valvulopathies\n|Rank=B\n|Title=Know the main indications for percutaneous treatment of AR and MI\n|Description=None\n|Topic=Management\n|Contributors=Myriam Akodad,Florence Leclercq\n|Order=11}}\n\nPercutaneous treatment of valve disease is usually performed in cases of AR or MI. Other valvulopathies are currently being evaluated (in particular IA in cases of contraindication or very high surgical risk).\n\n* Aortic stenosis:\n** The decision is always based on a multidisciplinary meeting (\"Heart team\") comprising at least one cardiac surgeon and one interventional cardiologist (an \"imaging\" cardiologist and a geriatrician are sometimes necessary).\n** Patients who are candidates for TAVI are those with a life expectancy of > 1 year and :\n*** in the event of surgical contraindication (porcelain aorta, hostile thorax, serious co-morbidities)\n*** in patients at high risk of surgery\n*** indications have also been validated in patients at intermediate risk > 75 years if the anatomy is favourable to TAVI via the femoral route.\n*** Likely to be extended in the short term to low-risk patients > 65-70 years old\n* Mitral insufficiency:''''\n** Mitraclip is indicated for organic MI in patients contraindicated for surgery (e.g. LVEF < 30%) or at high surgical risk.\n** Mitraclip is indicated for functional MI in patients with persistent CHF despite optimisation of medical treatment for CHF and causative heart disease.",
+  "question": {
+    "question": "What is the primary indication for percutaneous treatment of mitral insufficiency (MI)?",
+    "option_a": "Mitraclip for patients with an ejection fraction greater than 50%",
+    "option_b": "Mitraclip for patients with contraindications or high surgical risk due to organic MI with an ejection fraction less than 30%",
+    "option_c": "Mitral valve replacement surgery for all patients with mitral insufficiency",
+    "option_d": "Mitraclip for patients with persistent CHF despite optimisation of medical treatment for CHF and causative heart disease, regardless of ejection fraction",
+    "correct_option": "b"
+  }
+}

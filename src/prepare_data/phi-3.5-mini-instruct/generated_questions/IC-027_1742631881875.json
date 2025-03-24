@@ -1,0 +1,22 @@
+{
+  "folder": "IC-027",
+  "content": "{{knowledge objective\n|Identifiant=OIC-027-24-B\n|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Rank=B\n|Title=Knowing the risk of bacterial vaginosis during pregnancy\n|Description=Risk of threatened premature delivery\n|Section=Follow-up and/or prognosis\n|Contributors=Alexandre Vivanti, Philippe Deruelle\n|Order=24}}\nBacterial vaginosis has been suspected of favouring premature delivery. This risk is currently being called into question.",
+  "question": {
+    "properties": {
+      "question": "What is the suspected risk associated with bacterial vaginosis during pregnancy?",
+      "option_a": "Increased risk of gestational diabetes",
+      "option_b": "Higher likelihood of threatened premature delivery",
+      "option_c": "Elevated chance of congenital heart defects",
+      "option_d": "Increased risk of fetal growth restriction",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

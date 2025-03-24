@@ -1,0 +1,22 @@
+{
+  "folder": "IC-310",
+  "content": "{{knowledge objective\n|Identifiant=OIC-310-01-B\n|Item_parent=Prostate tumours\n|Item_parent_short=Prostate tumours\n|Rank=B\n|Title=Knowing the main benign and malignant lesions of the prostate gland\n|Description=Benign prostatic hyperplasia (adenomyomatous), adenocarcinoma\n|Rubric=Definition\n|Contributors=Alexandra MASSON-LECOMTE,Laurent BRUREAU\n|Order=1}}\n\n<br />\n\n*The most common tumour in men over the age of 50. It is usually asymptomatic at the time of diagnosis and progresses slowly in most cases.\n\n*Benign prostatic hyperplasia 127]] should not be confused with prostate cancer. It develops at the expense of the transition zone.\n*Adenocarcinoma is the most common form (95% of prostate cancers) and develops preferentially in the peripheral zone of the prostate.\n*Other very rare histological forms include neuroendocrine carcinoma, lymphoma and sarcoma.\n*The ISUP histo-pronostic score (formerly Gleason) characterises the degree of differentiation of the tumour. Tumours with a score of 1 are the best differentiated (least aggressive) and tumours with a score of 5 are the least differentiated (most aggressive).\n\n<br />\n\n*\n\n'''Prognostic groups of the ISUP 2016 classification'''\n{| class=\"wikitable\"\n|'''Group 1'''\n|Formerly Gleason score 6 (3+3)\n|-\n|'''Group 2'''\n|Gleason score 7 (3 majoritarian) (3+4)\n|-\n|'''Group 3'''\n|Gleason score 7 (4 majority) (4+3)\n|-\n|'''Group 4'''\n|Gleason score 8 (4+4, 3+5, or 5+3)\n|-\n|'''Group 5'''\n|Gleason score 9 or 10\n|}",
+  "question": {
+    "properties": {
+      "question": "What is the most common form of prostate cancer, and where does it predominantly develop in the prostate?",
+      "option_a": "Squamous cell carcinoma, develops in the central zone",
+      "option_b": "Adenocarcinoma, develops in the peripheral zone",
+      "option_c": "Neuroendocrine carcinoma, develops in the transitional zone",
+      "option_d": "Lymphoma, develops in the anterior lobe",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-230",
+  "content": "{{knowledge objective\n|Identifiant=OIC-230-09-A\n|Item_parent=Acute chest pain\n|Item_parent_short=Acute chest pain\n|Rank=A\n|Title=Knowing the biological tests to be prescribed and their interpretation for the four cardiovascular emergencies\n|Description=None\n|Rubric=Additional tests\n|Contributors=Vincent Roul\u00e9\n|Order=9}}\n'''Knowledge of the biological tests to be prescribed and their interpretation for the 4 cardiovascular emergencies'''\n\n- Standard biological work-up: CBC/platelets, blood ion count with creatinine, coagulation test (PT, APTT)\n\n- <u>ultrasensitive troponins</u> ('''elevation of cardiac enzymes'' in ACS, less so in PE) with cycle of 2 measurements 1 hour or 2 hours apart if the first is normal. NB= Troponins are also elevated in cases of myocarditis associated with pericarditis.\n\nIt should be noted that elevation of troponin alone is not sufficient to make the diagnosis of ACS (the context and the clinic must be taken into account, since troponin may be elevated in the context of other pathologies).\n\n- <u>D-dimer:</u> in case of low or moderate suspicion of PE (PE ruled out if D-dimer normal), rule out aortic dissection if also normal. Do not confirm any diagnosis\n\n- CRP (C-reactive protein): indicator of inflammatory syndrome, of interest especially for pericarditis but non-specific '''(elevation of C-reactive protein, CRP)''''\n\n- <u>Blood gas</u> '''(analysis of a blood gas result)''': especially if respiratory distress, shunt effect suggestive of PE",
+  "question": {
+    "question": "Which biological test is specifically used to rule out aortic dissection when D-dimer is normal in the context of suspected pulmonary embolism (PE)?",
+    "option_a": "Standard biological work-up: CBC/platelets",
+    "option_b": "Ultrasensitive troponins",
+    "option_c": "Blood gas analysis",
+    "option_d": "CRP (C-reactive protein)",
+    "correct_option": "C"
+  }
+}

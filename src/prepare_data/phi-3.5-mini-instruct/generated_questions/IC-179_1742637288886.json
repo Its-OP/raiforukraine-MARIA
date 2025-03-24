@@ -1,0 +1,22 @@
+{
+  "folder": "IC-179",
+  "content": "{{knowledge objective\n|Identifiant=OIC-179-09-A\n|Item_parent=Health risks linked to water and food. Food poisoning\n|Item_parent_short=Sanitary risks related to water and food. Food poisoning\n|Rank=A\n|Title=Knowing how to detect and report a suspected CFTI\n|Description=None\n|Section=Definition\n|Contributors=Pr Christophe DE CHAMPS DE SAINT LEGER, Dr Johann CAILHOL\n|Ordre=9}}\nA CFT is suspected when there are clustered cases of gastrointestinal or neurological disorders. The diagnosis is made if the clustered cases are compatible with the definition of CFTI, in an environment that is often collective, and where hygiene measures are not respected.\n\nCFTI is a notifiable disease.\n\nReports are made to the ARS via a specific form, without waiting for the investigation or documentation.",
+  "question": {
+    "properties": {
+      "question": "When is a clustered case of gastrointestinal or neurological disorders classified as a suspected CFTI?",
+      "option_a": "When diagnosed individually in a non-collective environment with proper hygiene measures",
+      "option_b": "When diagnosed individually in a collective environment with proper hygiene measures",
+      "option_c": "When diagnosed in a collective environment where hygiene measures are not respected",
+      "option_d": "When diagnosed in a collective environment with excessive hygiene measures",
+      "correct_option": "c"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

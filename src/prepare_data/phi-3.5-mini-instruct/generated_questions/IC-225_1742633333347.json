@@ -1,0 +1,12 @@
+{
+  "folder": "IC-225",
+  "content": "{{knowledge objective\n|Identifiant=OIC-225-08-B\n|Item_parent=Arteriopathy of the aorta, visceral arteries and lower limbs; aneurysms\n|Item_parent_short=Arteriopathy of the aorta, visceral arteries and lower limbs; aneurysms\n|Rank=B\n|Title=Knowing the other causes of acute ischaemia\n|Description=None\n|Rubric=Etiologies\n|Contributors=Christian Boissier,Lucie Salomon Du Mont, Anne Long, Alessandra Bura, Patrick Feugier\n|Order=8}}\n\nIn the acute phase, we investigate whether the cause of the ischaemia is an embolism (migration of a clot of cardiac or aortic origin) or thrombosis (obliteration of a pathological artery, more rarely a healthy bypass or stent). It is the history, the circumstances of the onset, the sudden onset or otherwise of the symptoms, the cardiac examination and the comparative examination of the lower limbs that enable the mechanism of the obstruction to be suspected as a matter of urgency. There are usually 2 main types of obstruction, although they may be interrelated:\n\n*embolism: very abrupt onset, rapidly sensory-motor ischaemia and contralateral peripheral pulses present, no known arterial disease, cardiac arrhythmia discovered;\n*thrombosis: more gradual onset, less severe ischaemia, history of lower limb arterial disease, sinus rhythm.\n[File:Arterio.jpg|vignette]]\nIn the event of embolism, it is important to look for involvement of another arterial territory (particularly mesenteric). In all cases, the patient must be treated in a specialist hospital.",
+  "question": {
+    "question": "What is a distinguishing feature of an embolic acute ischaemia compared to thrombotic acute ischaemia?",
+    "option_a": "It has a more gradual onset and is associated with a history of lower limb arterial disease.",
+    "option_b": "It is characterized by a very abrupt onset, rapidly sensory-motor ischaemia, and contralateral peripheral pulses are present.",
+    "option_c": "It involves the mesenteric arterial territory and requires immediate specialist hospital treatment.",
+    "option_d": "It is typically associated with a cardiac arrhythmia discovered during examination.",
+    "correct_option": "B"
+  }
+}

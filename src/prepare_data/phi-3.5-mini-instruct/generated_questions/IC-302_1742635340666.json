@@ -1,0 +1,22 @@
+{
+  "folder": "IC-302",
+  "content": "{{knowledge objective\n|Identifiant=OIC-302-17-A\n|Item_parent=Cutaneous, epithelial and melanoma tumours\n|Item_parent_short=Cutaneous, epithelial and melanoma tumours\n|Rank=A\n|Title=Photography of a melanoma\n|Description=Photograph of a typical melanoma\n|Rubric=Multimedia content\n|Contributors=\n|Order=17}}\n\n[[File:Figure E.jpg|vignette|typical melanoma: asymmetric pigmented lesion with irregular margins, heterogeneously coloured, 18mm in diameter and recently changed. ]]",
+  "question": {
+    "properties": {
+      "question": "What are the characteristic features of a typical melanoma based on the provided photograph?",
+      "option_a": "Symmetrical pigmented lesion with uniform margins, monochromatic coloration, 10mm in diameter, stable over time.",
+      "option_b": "Asymmetric pigmented lesion with irregular margins, heterogeneously coloured, 18mm in diameter, recently changed.",
+      "option_c": "Asymmetric pigmented lesion with smooth margins, homogeneously coloured, 5mm in diameter, rapidly growing.",
+      "option_d": "Symmetrical pigmented lesion with regular margins, varying coloration, 20mm in diameter, no recent changes.",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

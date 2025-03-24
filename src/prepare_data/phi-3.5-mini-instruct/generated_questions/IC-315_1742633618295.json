@@ -1,0 +1,22 @@
+{
+  "folder": "IC-315",
+  "content": "{{knowledge objective\n|Identifiant=OIC-315-10-B\n|Item_parent=Acute leukaemia\n|Item_parent_short=Acute leukaemia\n|Rank=B\n|Title=Knowing the indications for performing a myelogram in children\n|Description=None\n|Topic=Positive diagnosis\n|Contributors=Virginie Gandemer\n|Order=10}}\n'''Impairment of 2 or 3 blood lines'' (anaemia, thrombocytopenia, neutropenia) on the haemogram requires a myelogram before any specific treatment as it suggests a bone marrow cause for the cytopenias. Circulating blastosis is not necessary for a myelogram to be indicated.\n\nThis will show > 25% blasts on rich MO in the case of acute leukaemia. This examination should be systematically supplemented by CSF analysis, even in the absence of any neurological symptoms.\n\nSDS link\n\n- Reasoned request/prescription and choice of a diagnostic examination SD-178]]\n\n- Interpretation of an SD-221 myelogram\n\n- Preventing pain in healthcare SD-258",
+  "question": {
+    "properties": {
+      "question": "When is a myelogram indicated for children with blood cell line impairments?",
+      "option_a": "Only when there is a presence of circulating blasts greater than 25% in the bone marrow.",
+      "option_b": "When there are signs of neurological symptoms, regardless of blood cell line impairments.",
+      "option_c": "When there is impairment of 2 or 3 blood lines (anaemia, thrombocytopenia, neutropenia) on the haemogram, even without circulating blasts.",
+      "option_d": "Exclusively when CSF analysis shows abnormalities, irrespective of blood cell line impairments.",
+      "correct_option": "c"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

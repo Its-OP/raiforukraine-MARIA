@@ -1,0 +1,22 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-03-B\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=B\n|Title=Know the definition of the electronic cigarette\n|Description=Basic principle of operation\n|Rubric=Definition\n|Contributors=\n|Order=3}}\n\n\n* Mixture (propylene glycol + nicotine + water + flavourings + glycerol) propelled in the form of vapour and inhaled.\n* To date, no adverse reactions or cases of intoxication have been reported.\n* Possible allergic reactions\n* Considered as consumer products.\n\n<br />",
+  "question": {
+    "properties": {
+      "question": "What is the basic principle of operation for an electronic cigarette?",
+      "option_a": "A device that heats a liquid mixture to produce smoke for inhalation.",
+      "option_b": "A device that uses a mixture of propylene glycol, nicotine, water, flavourings, and glycerol to produce vapour for inhalation.",
+      "option_c": "A device that combusts tobacco to produce smoke for inhalation.",
+      "option_d": "A device that uses ultraviolet light to vaporize nicotine for inhalation.",
+      "correct_option": "b"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

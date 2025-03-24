@@ -1,0 +1,12 @@
+{
+  "folder": "IC-039",
+  "content": "{{knowledge objective\n|Identifiant=OIC-039-01-A\n|Item_parent=Medical assistance for procreation: the main biological, medical and ethical aspects\n|Item_parent_short=Medical assistance in procreation: the main biological, medical and ethical aspects\n|Rank=A\n|Title=Knowing the definition of medically assisted procreation\n|Description=None\n|Rubric=Definition\n|Contributors=Patricia Fauque,Fabrice Guerif,Charlotte Sonigo,Geoffroy Robin,Pierre-Emmanuel Bouet,St\u00e9phanie Huberlant,Nathalie Rives\n|Order=1}}\n\nMedically Assisted Procreation (MAP) refers to the clinical and biological practices involved in in vitro conception, embryo transfer and artificial insemination, as well as the use of fertility preservation techniques (gamete and germ tissue preservation).\n\nAMP is used, among other things, to remedy a couple's infertility ([[Difficult\u00e9s \u00e0 procr\u00e9er SD-033|Difficult\u00e9s \u00e0 procr\u00e9er]]) or to prevent the transmission of a particularly serious disease to the child or a member of the couple.\n\nSince the 2021 revision of the Bioethics Act, MAP has been accessible to any couple consisting of a man and a woman, or two women, or any unmarried woman.\n\n \n\n\n\n<br />",
+  "question": {
+    "question": "What does Medically Assisted Procreation (MAP) encompass?",
+    "option_a": "Only in vitro fertilization procedures for couples.",
+    "option_b": "In vitro conception, embryo transfer, artificial insemination, and fertility preservation techniques.",
+    "option_c": "Pregnancy care and prenatal screening for women.",
+    "option_d": "Genetic modification of embryos to prevent hereditary diseases.",
+    "correct_option": "B"
+  }
+}

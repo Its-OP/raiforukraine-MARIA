@@ -1,0 +1,22 @@
+{
+  "folder": "IC-183",
+  "content": "{{knowledge objective\n|Identifiant=OIC-183-03-B\n|Item_parent=Organisation of occupational medicine. Prevention of occupational risks\n|Item_parent_short=Organisation of occupational medicine. Occupational risk prevention\n|Rank=B\n|Item_parent_short=Organisation of occupational medicine.\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=3}}\nThe occupational health physician's tools concern :\n\n1. employee health monitoring, organised in partnership with occupational health nurses (see specific objective)\n\n2. actions in the field, organised in partnership with the multidisciplinary team (workstation studies, adaptation of workstations, advice on preventing occupational risks)",
+  "question": {
+    "properties": {
+      "question": "Which of the following is NOT a responsibility of an occupational health physician according to the Organisation of Occupational Medicine's prevention of occupational risks approach?",
+      "option_a": "Monitoring employee health in partnership with occupational health nurses.",
+      "option_b": "Conducting workstation studies and adapting workstations in partnership with the multidisciplinary team.",
+      "option_c": "Prescribing medication for chronic illnesses unrelated to occupational risks.",
+      "option_d": "Providing advice on preventing occupational risks in collaboration with the multidisciplinary team.",
+      "correct_option": "c"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

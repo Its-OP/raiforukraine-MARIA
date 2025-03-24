@@ -1,0 +1,12 @@
+{
+  "folder": "IC-342",
+  "content": "{{knowledge objective\n|Identifiant=OIC-342-10-A\n|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=A\n|Heading=Know the severity of malaise according to its cause and the monitoring to be undertaken.\n|Description=None\n|Item=Identification of the emergency\n|Contributors=\n|Order=10}}\nSeverity linked to the aetiology, particularly cardiac causes - hospitalisation with continuous monitoring of cardiac rhythm\n\n<br />",
+  "question": {
+    "question": "According to the severity of malaise and its cause, what is the recommended monitoring protocol for cardiac-related emergencies in adults?",
+    "option_a": "Routine outpatient follow-up with annual physical exams",
+    "option_b": "Hospitalisation with continuous monitoring of cardiac rhythm",
+    "option_c": "Immediate discharge with advice for rest and hydration",
+    "option_d": "Emergency room visit for immediate surgery",
+    "correct_option": "option_b"
+  }
+}

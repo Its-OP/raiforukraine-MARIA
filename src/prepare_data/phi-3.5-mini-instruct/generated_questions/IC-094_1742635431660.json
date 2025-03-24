@@ -1,0 +1,12 @@
+{
+  "folder": "IC-094",
+  "content": "{{knowledge objective\n|Identifiant=OIC-094-15-B\n|Item_parent=Rachialgia\n|Item_parent_short=Rachialgia\n|Rank=B\n|Title=Knowing the diagnostic approach to sacralgia\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Bisseriex H\u00e9l\u00e8ne,Nguyen Christelle\n|Order=15}}\n\n'''Positive diagnosis:'''\n\n- pain localised around the sacrum, which may radiate to the buttocks and posterior thighs,\n\n- reproduced by palpation/mobilisation of the sacrum or sacroiliac joints (sacroiliac tests)\n\n- functional discomfort: walking, sitting\n\n- look for signs of seriousness (red flags): general signs, inflammatory syndrome, history of trauma or weakening osteopathy, etc.\n\n'''Differential diagnosis''': coccygodynia, low back pain with sacral irradiation\n\n'''Duration of evolution:''' acute or chronic\n\n'''Etiological diagnosis:'''\n\n- look for trauma to the pelvis\n\n- frontal X-rays of the pelvis and de S\u00e8ze clich\u00e9: to look for lumbosacral and sacroiliac osteoarthritis or signs of sacroiliitis\n\n- discuss a CT scan of the pelvis or a bone scan if there is a suspicion of a fracture of the sacrum (sudden onset of sacralgia in elderly patients and/or those with weakening osteopathy, even if there is no traumatic factor)\n\n- discuss an MRI of the pelvis if inflammatory rheumatism or another secondary cause is suspected\n\n- extra-spinal cause: constipation, pelvic anomaly",
+  "question": {
+    "question": "What is the recommended diagnostic approach for a patient presenting with sacralgia?",
+    "option_a": "Perform an MRI of the thoracic spine to assess for central nervous system causes.",
+    "option_b": "Conduct a CT scan of the pelvis to evaluate for sacral fractures or signs of sacroiliitis.",
+    "option_c": "Administer a lumbar puncture to rule out meningitis.",
+    "option_d": "Order a complete blood count (CBC) to check for infection.",
+    "correct_option": "B"
+  }
+}

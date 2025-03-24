@@ -1,0 +1,12 @@
+{
+  "folder": "IC-263",
+  "content": "{{knowledge objective\n|Identifiant=OIC-263-09-A\n|Item_parent=Vascular nephropathy\n|Item_parent_short=Vascular nephropathy\n|Rank=A\n|Intitle=Knowing renal infarction, renal artery stenosis, benign nephroangiosclerosis, cholesterol crystal embolism disease\n|Description=None\n|Rubric=Definition\n|Contributors=Jean-Jacques Boffa\n|Order=9}}\n\n'''Renal infarction:'''\n\n* Acute occlusion of a renal artery or its branches may occur :\n** an abnormality in the vascular wall: dissection of the renal artery\n** by arterial embolism (atrial fibrillation, valvulopathy)\n** linked to thrombophilia.\n\n'''Cholesterol crystal emboli disease:'''\n\n* A disease linked to the obstruction of arterioles and capillaries by cholesterol crystals following the rupture of an atheromatous plaque, often revealed by cutaneous signs.\n\n\n'''Benign nephroangiosclerosis:'''\n\n* Chronic vascular nephropathy, a late consequence of long-standing, inadequately controlled hypertension.\n* This condition can lead to end-stage renal failure.\n* Anatomically, it corresponds to progressive obliteration of the small vessels by fibrous endarteritis.\n\n<br />",
+  "question": {
+    "question": "What is a common cause of renal infarction?",
+    "option_a": "Chronic dehydration leading to renal tissue damage",
+    "option_b": "Aortic aneurysm pressing on the renal artery",
+    "option_c": "Arterial embolism from atrial fibrillation or valvulopathy",
+    "option_d": "Excessive consumption of vitamin C causing renal obstruction",
+    "correct_option": "C"
+  }
+}

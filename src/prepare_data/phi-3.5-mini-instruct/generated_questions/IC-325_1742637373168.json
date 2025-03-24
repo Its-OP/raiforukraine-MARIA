@@ -1,0 +1,22 @@
+{
+  "folder": "IC-325",
+  "content": "{{knowledge objective\n|Identifiant=OIC-325-07-A\n|Item_parent=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medicinal errors (see items 4 and 5)\n|Item_parent_short=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medication errors (see items 4 and 5)\n|Rank=A\n|Title=Know the characteristics of ADRs in the elderly\n|Description=None\n|Section=Definition\n|Contributors=Marie Briet\n|Order=7}}\n\n\n== Characteristics of ADRs in elderly subjects ==\n\n* Increased frequency and severity (co-morbidities, multiple medications, age-related pharmacokinetic changes)\n* Varied symptomatology, atypical clinical presentations\n* Main drugs involved: cardiovascular drugs, psychotropic drugs, anticoagulants, non-steroidal anti-inflammatory drugs, etc.\n\n<br />",
+  "question": {
+    "properties": {
+      "question": "Which factor does NOT contribute to the increased frequency and severity of Adverse Drug Reactions (ADRs) in elderly subjects?",
+      "option_a": "Co-morbidities and multiple medications",
+      "option_b": "Age-related pharmacokinetic changes",
+      "option_c": "Decreased liver and kidney function",
+      "option_d": "Less frequent use of cardiovascular drugs",
+      "correct_option": "d"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

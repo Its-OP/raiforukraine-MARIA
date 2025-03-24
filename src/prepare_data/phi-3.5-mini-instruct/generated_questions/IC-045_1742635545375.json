@@ -1,0 +1,22 @@
+{
+  "folder": "IC-045",
+  "content": "{{knowledge objective\n|Identifiant=OIC-045-10-A\n|Item_parent=Specificities of genetic diseases. (see item 9)\n|Item_parent_short=Specificities of genetic diseases. (see item 9)\n|Rank=A\n|Title=Savoir \u00e9voquer le diagnostic clinique de trisomie 21 en postnatal.\n|Description=Epidemiology and main postnatal clinical signs of trisomy 21.\n|Rubric=Positive diagnosis\n|Contributors=Elise Launay,Damien Sanlaville,Marie-B\u00e9reng\u00e8re Troadec\n|Order=10}}\n\nThe diagnosis is currently made most often (80-90%) in the ante-natal period. If this is not the case, the diagnosis is made in the neonatal period on the basis of the triad:\n\n- Axial hypotonia\n\n- Heart murmur on auscultation ([[Discovery of abnormalities on cardiac auscultation SD-018|discovery of abnormalities on cardiac auscultation]])\n\n- Facial dysmorphia\n\nVery rarely, the diagnosis may be made later (mosaic trisomy 21) based on the following factors\n\n- Psychomotor retardation ([[Psychomotor development abnormality SD-115|psychomotor development abnormality]])\n\n- Learning difficulties associated with immaturity",
+  "question": {
+    "properties": {
+      "question": "What are the main clinical signs used for the diagnosis of trisomy 21 in the neonatal period?",
+      "option_a": "Craniofacial dysmorphia, cardiac murmur, and axial hypotonia",
+      "option_b": "Cardiac murmur, psychomotor retardation, and hyperactivity",
+      "option_c": "Facial dysmorphia, psychomotor retardation, and heart murmur",
+      "option_d": "Axial hypotonia, hyperactivity, and craniofacial dysmorphia",
+      "correct_option": "C"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

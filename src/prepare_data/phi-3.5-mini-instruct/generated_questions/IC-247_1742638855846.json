@@ -1,0 +1,12 @@
+{
+  "folder": "IC-247",
+  "content": "{{knowledge objective\n|Identifiant=OIC-247-17-A\n|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Rank=A\n|Title=Knowing how to identify an acute metabolic complication\n|Description=None\n|Rubric=Identifying the emergency\n|Contributors=Claire Briet\n|Order=17}}\n-Clinic\n\n*polyuro-polydipsic syndrome: look for hyperglycaemia\n*dehydration: think of hyperglycaemia\n*acute abdominal pain in children and adults|abdominal pain]], [[Nausea SD-012|nausea]]: think of ketosis\n*adrenergic signs in a diabetic (sweating, pallor, tachycardia): think of hypoglycaemia\n*disturbance of vigilance: think of hyper or hypoglycaemia: calm coma: hyperglycaemia, agitated coma: hypoglycaemia [[Coma and consciousness disorders SD-028]].\n\n- Organic\n\n*hyperglycaemia greater than 2.5 g/l: ketone levels should be measured\n*hypoglycaemia <70 mg/l, life-threatening <54 mg/l, severe if re-sugaring by a third party is required or associated loss of alertness\n*dehydration or renal failure, remember to check blood glucose, if high: ketonemia and osmolarity\n\n'''see previous chapter on hyperosmolar coma, ketoacidosis and hypoglycaemia'''",
+  "question": {
+    "question": "In a child or adult with diabetes experiencing acute metabolic complications, which of the following symptoms is most indicative of hyperglycaemia?",
+    "option_a": "Polyuria and polydipsia",
+    "option_b": "Nausea and vomiting",
+    "option_c": "Adrenergic signs such as sweating and tachycardia",
+    "option_d": "Disturbed vigilance and calm coma",
+    "correct_option": "A"
+  }
+}

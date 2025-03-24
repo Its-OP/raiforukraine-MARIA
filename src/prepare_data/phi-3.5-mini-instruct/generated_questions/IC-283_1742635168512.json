@@ -1,0 +1,22 @@
+{
+  "folder": "IC-283",
+  "content": "{{knowledge objective\n|Identifiant=OIC-283-01-B\n|Item_parent=Constipation in children and adults\n|Item_parent_short=Constipation in children and adults\n|Rank=B\n|Title=Knowing the prevalence of constipation in children\n|Description=None\n|Rubric=Epidemiology\n|Contributors=\n|Order=1}}\nConstipation is a frequent reason for consultation in young children.\n\nThis symptom accounts for almost 5% of paediatric consultations in private practice.\n\nConstipation most often appears between the ages of 1 and 4 and can affect up to a third of school-age children.",
+  "question": {
+    "properties": {
+      "question": "What percentage of paediatric consultations is due to constipation in private practice?",
+      "option_a": "10%",
+      "option_b": "5%",
+      "option_c": "2%",
+      "option_d": "15%",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

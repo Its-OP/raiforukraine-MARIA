@@ -1,0 +1,22 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-22-A\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=A\n|Title=Congenital hip dislocation: finding out about screening procedures\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=22}}\nInspection: shortening of the thigh, symmetry of skin folds\n\nSearch for abduction limitations (norm > 60\u00b0)\n\nSearch for hip instability: Barlow manoeuvre (jerk)",
+  "question": {
+    "properties": {
+      "question": "What is the primary method used to screen for congenital hip dislocation in infants during a routine health examination?",
+      "option_a": "Palpating the skull for abnormalities",
+      "option_b": "Inspecting for symmetry of skin folds and searching for abduction limitations (norm > 60\u00b0)",
+      "option_c": "Listening for heart murmurs with a stethoscope",
+      "option_d": "Measuring blood pressure to check for orthopedic issues",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-312",
+  "content": "{{knowledge objective\n|Identifiant=OIC-312-06-A\n|Item_parent=Breast tumours\n|Item_parent_short=Breast tumours\n|Rank=A\n|Title=Knowing the clinical presentations of breast tumours\n|Description=Clinical breast signs: nodule, discharge, inflammation, skin lesions\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=6}}\nThe clinical examination includes :\n\n* An interview to look for breast pain, self-exploration of nodules, changes in general condition (''asthenia'', ''weight loss'').\n\n* An inspection to look for changes in the skin of the breast or nipple: retraction, dimpling or flattening, deviation or invagination of the nipple, \"nipple discharge\" or eczematous appearance of the nipple, orange peel skin, skin oedema, \"skin ulcer\", inflammation with breast enlargement, localised or diffuse \"erythema\" and local heat (suggestive of inflammatory breast cancer).\n* Bilateral palpation of the breasts and the axillary, supra- and sub-clavicular lymph nodes to look for a nodule in the breast, or single or multiple adenopathies (axillary or supra- or sub-clavicular lymph nodes).",
+  "question": {
+    "question": "Which of the following clinical signs is NOT typically associated with breast tumours during a clinical examination?",
+    "option_a": "Nipple retraction",
+    "option_b": "Skin dimpling",
+    "option_c": "Hypertension",
+    "option_d": "Erythema",
+    "correct_option": "C"
+  }
+}

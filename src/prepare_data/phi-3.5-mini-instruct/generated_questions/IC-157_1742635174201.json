@@ -1,0 +1,22 @@
+{
+  "folder": "IC-157",
+  "content": "{{knowledge objective\n|Identifiant=OIC-157-11-A\n|Item_parent=Bacteremia/Fungemia in adults and children\n|Item_parent_short=Bacteremia/Fungemia in adults and children\n|Rank=A\n|Title=Knowing how to interpret bio-inflammatory markers during bacteremia/fungemia\n|Description=None\n|Rubric=Additional tests\n|Contributors=David Lebeaux\n|Order=11}}\n'''[[Elevated c-reactive protein (cr) SD-203|Inflammatory biomarkers]] (CRP, procalcitonin)'''''\n\n- Non-specific, orientation value only\n\n- Procalcitonin < 0.25 ng/ml makes bacteremia/fungemia unlikely\n\n- No reason to measure them systematically",
+  "question": {
+    "properties": {
+      "question": "Which of the following statements best describes the utility of measuring procalcitonin (PCT) levels in the context of bacteremia/fungemia?",
+      "option_a": "Procalcitonin levels above 0.5 ng/ml are always indicative of bacteremia/fungemia.",
+      "option_b": "Procalcitonin < 0.25 ng/ml makes bacteremia/fungemia unlikely.",
+      "option_c": "Procalcitonin levels are irrelevant for diagnosing bacteremia/fungemia.",
+      "option_d": "Procalcitonin levels should be measured daily to monitor the progress of bacteremia/fungemia.",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

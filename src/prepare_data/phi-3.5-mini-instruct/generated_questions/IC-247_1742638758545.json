@@ -1,0 +1,12 @@
+{
+  "folder": "IC-247",
+  "content": "{{knowledge objective\n|Identifiant=OIC-247-07-A\n|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Rank=A\n|Title=Knowing the risk factors for the onset of macroangiopathic disorders\n|Description=None\n|Section=Follow-up and/or prognosis\n|Contributors=Gaetan Pr\u00e9vost,Eva Feigerlova,H\u00e9l\u00e8ne Bihan,Etienne Larger,Claire Briet\n|Order=7}}\n\nThe macrovascular damage caused by diabetes is concentrated in the heart (risk of coronary heart disease X2 to 4) and the large vessels (risk of OIA X5 and risk of stroke X2).\n\nThe pathophysiology shares many similarities with non-diabetic atheroma, although a few clinical differences can be identified in diabetic patients: onset at an earlier age, lesions that are often more extensive and less symptomatic (less neuropathy-related pain).\n\n\nFollow-up studies have shown that the risk factors for macrovascular disease in T2DM patients, after adjustment for age and sex, are as follows\n\n1/ glycaemic control (HbA1c)\n\n2/ lipid balance (especially LDL, but also low HDL) [[Analyse du bilan lipidique SD-195]]\n\n3/ Blood pressure balance (systolic BP) [[Hypertension SD-042]] [[Hypertension in adults and children]]\n\n4/Smoking [[Prevention of tobacco-related risks SD-314]]  [[Male/female smoking 2C-075-PE-A02]]",
+  "question": {
+    "question": "Which of the following is NOT identified as a risk factor for macrovascular disease in T2DM patients after adjustment for age and sex?",
+    "option_a": "Glycaemic control (HbA1c)",
+    "option_b": "Lipid balance (especially LDL, but also low HDL)",
+    "option_c": "Blood pressure balance (systolic BP)",
+    "option_d": "Physical activity level",
+    "correct_option": "d"
+  }
+}

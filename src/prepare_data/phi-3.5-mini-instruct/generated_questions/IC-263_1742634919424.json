@@ -1,0 +1,22 @@
+{
+  "folder": "IC-263",
+  "content": "{{knowledge objective\n|Identifiant=OIC-263-05-B\n|Item_parent=Vascular nephropathy\n|Item_parent_short=Vascular nephropathy\n|Rank=B\n|Title=Know how to diagnose typical HUS\n|Description=Know the signs of typical HUS, particularly in children (after bloody diarrhoea, fatigue, anaemia, etc.).\n|Rubric=Positive diagnosis\n|Contributors=Jean-Jacques Boffa\n|Order=5}}\n\nCombination of acute renal failure, haemolytic anaemia and thrombocytopenia following food contamination causing bloody diarrhoea. Diagnosis is confirmed by isolation of the STEC strain (shigatoxin-producing Escherichia coli) or PCR detection of shigatoxin-encoding genes in stools.\n\nAtypical HUS occurs more frequently in adults, without diarrhoea, and is most often linked to an acquired or genetic abnormality of the complement pathway. It often recurs, particularly after renal transplantation, and has a more severe prognosis. Treatment is based on plasma exchange and/or complement inhibition.",
+  "question": {
+    "properties": {
+      "question": "Which of the following is a key factor in diagnosing typical Hemolytic Uremic Syndrome (HUS) in children after bloody diarrhea?",
+      "option_a": "Isolation of a non-STEC strain of E. coli",
+      "option_b": "Presence of shigatoxin-producing Escherichia coli (STEC) or PCR detection of shigatoxin-encoding genes in stools",
+      "option_c": "Detection of antibiotic-resistant bacteria in blood samples",
+      "option_d": "Identification of a genetic mutation in the patient's DNA unrelated to the complement pathway",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

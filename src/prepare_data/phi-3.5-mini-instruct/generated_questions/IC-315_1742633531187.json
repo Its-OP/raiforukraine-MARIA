@@ -1,0 +1,22 @@
+{
+  "folder": "IC-315",
+  "content": "{{knowledge objective\n|Identifiant=OIC-315-06-A\n|Item_parent=Acute leukaemia\n|Item_parent_short=Acute leukaemia\n|Rank=A\n|Title=Knowing how to identify the signs suggestive of the diagnosis of LA on the haemogram\n|Description=None\n|Topic=Positive diagnosis\n|Contributors=\n|Order=6}}\nThe blood count is always abnormal. It reflects bone marrow failure:\n\n- normo- or macrocytic anaemia, almost constant and sometimes severe\n\n- thrombocytopenia, almost constant and sometimes severe\n\n- neutropenia, almost constant and sometimes severe\n\n- circulating blasts, inconstant, may represent the majority of leukocytes",
+  "question": {
+    "properties": {
+      "question": "Which of the following blood count abnormalities is most consistent with an acute leukaemia diagnosis?",
+      "option_a": "Mild lymphocytosis",
+      "option_b": "Normo- or macrocytic anaemia, almost constant and sometimes severe",
+      "option_c": "Elevated platelet count",
+      "option_d": "Increased red blood cell count",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

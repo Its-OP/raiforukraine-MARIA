@@ -1,0 +1,22 @@
+{
+  "folder": "IC-027",
+  "content": "{{knowledge objective\n|Identifiant=OIC-027-17-A\n|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Rank=A\n|Title=Human immunodeficiency virus (HIV): knowing the elements of prevention through screening\n|Description=Knowing the methods of maternal screening\n|Rubric=Management\n|Contributors=Alexandre Vivanti, Philippe Deruelle\n|Ordre=17}}\nFor the sake of the child (and the mother), the mother's [[Interpretation of an SD-236 serology result|HIV status]] should be known. Screening should be offered systematically at the beginning of pregnancy (at the time of notification), even if it is not compulsory.",
+  "question": {
+    "properties": {
+      "question": "When should systematic HIV screening be offered to pregnant women according to the guidelines for preventing foetal risks?",
+      "option_a": "Only after the child is born",
+      "option_b": "During the second trimester regardless of initial notification",
+      "option_c": "At the time of notification, at the beginning of pregnancy",
+      "option_d": "At the time of delivery",
+      "correct_option": "c"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

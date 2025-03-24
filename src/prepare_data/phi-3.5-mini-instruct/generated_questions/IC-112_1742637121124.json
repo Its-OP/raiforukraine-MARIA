@@ -1,0 +1,22 @@
+{
+  "folder": "IC-112",
+  "content": "{{knowledge objective\n|Identifiant=OIC-112-07-B\n|Item_parent=Bullous dermatosis of the skin and/or external mucous membranes\n|Item_parent_short=Bullous dermatosis affecting the skin and/or external mucous membranes\n|Rank=B\n|Title=Photograph of bullous pemphigoid\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=7}}\n\n[[File:PB.jpg|vignette|Tensive bubbles with clear or haemorrhagic content, and round crusts on urticarial skin, located on the arm, in a man with bullous pemphigoid]]",
+  "question": {
+    "properties": {
+      "question": "What is the primary characteristic of bullous pemphigoid as seen in the provided photograph?",
+      "option_a": "Hyperpigmented patches on the skin",
+      "option_b": "Tense blisters with clear or haemorrhagic content",
+      "option_c": "Purple discoloration of the skin",
+      "option_d": "Swelling of the subcutaneous tissue",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

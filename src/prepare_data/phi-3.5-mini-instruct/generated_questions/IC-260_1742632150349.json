@@ -1,0 +1,22 @@
+{
+  "folder": "IC-260",
+  "content": "{{knowledge objective\n|Identifiant=OIC-260-11-A\n|Item_parent=Hematuria\n|Item_parent_short=Hematuria\n|Rank=A\n|Title=Knowing the diagnostic tree for haematuria\n|Description=Figure\n|Rubric=Positive diagnosis\n|Contributors=Charles Dariane, Bruno Moulin\n|Order=11}}\n\n[[File:Figure 6 diagnostic tree.png|thumbnail|1050x1050px|\n<big>'''Figure 6. Diagnostic tree for haematuria'''</big>|alt=|neant]]\n\n\n\n\n\n<br />",
+  "question": {
+    "properties": {
+      "question": "In the diagnostic tree for haematuria, which of the following is NOT a typical initial step in the evaluation process?",
+      "option_a": "Urinalysis to confirm the presence of blood in the urine",
+      "option_b": "Imaging studies such as ultrasound or CT scan",
+      "option_c": "Blood tests to assess kidney function and screen for other conditions",
+      "option_d": "Immediate referral for urological surgery",
+      "correct_option": "D"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

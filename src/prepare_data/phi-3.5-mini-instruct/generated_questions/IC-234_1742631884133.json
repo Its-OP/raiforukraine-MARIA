@@ -1,0 +1,12 @@
+{
+  "folder": "IC-234",
+  "content": "{{knowledge objective\n|Identifiant=OIC-234-03-A\n|Item_parent=Adult heart failure\n|Item_parent_short=Adult heart failure\n|Rank=A\n|Title=Knowing what cardiogenic acute pulmonary oedema (PAO) is\n|Description=Left heart failure leading to transudative pulmonary oedema\n|Rubric=Definition\n|Contributors=Olivier Huttin\n|Order=3}}\nPathophysiological definition:\n\n- Sudden onset of acute respiratory distress associated with an increase in left ventricular filling pressure.\n\n- CI leads to a sudden increase in left ventricular filling pressures. This increase in LV pressure is associated with an increase in pressure in the left atrium and pulmonary capillaries (> 25 mmHg). This pressure is higher than the interstitial oncotic pressure and results in the formation of a transudate in the pulmonary alveoli. The alveoli are \"flooded\" and haematosis is altered.\n\nRemarks :\n\n- OAP results in impaired gas exchange leading to hypoxaemia.\n\n- It is associated with a compensatory mechanism resulting in hyperventilation, leading initially to hypocapnia.\n\n- Clinical picture of acute respiratory failure associating :\n\no Dyspnoea with orthopnoea,\n\no Frothy expectoration\n\no Anxiety and agitation, sweating\n\no Peripheral cyanosis\n\no Crackles on pulmonary auscultation\n\nThis is a therapeutic emergency.",
+  "question": {
+    "question": "What is the primary pathophysiological event leading to cardiogenic acute pulmonary oedema (PAO)?",
+    "option_a": "A sudden decrease in left ventricular filling pressure resulting in reduced pulmonary capillary pressure.",
+    "option_b": "An increase in left ventricular filling pressure causing a rise in pressure in the left atrium and pulmonary capillaries above 25 mmHg, leading to transudative pulmonary oedema.",
+    "option_c": "A chronic reduction in pulmonary capillary oncotic pressure resulting in fluid accumulation in the alveoli.",
+    "option_d": "A genetic mutation in the pulmonary vasculature causing increased permeability and fluid leakage.",
+    "correct_option": "B"
+  }
+}

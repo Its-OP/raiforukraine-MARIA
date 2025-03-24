@@ -1,0 +1,12 @@
+{
+  "folder": "IC-112",
+  "content": "{{knowledge objective\n|Identifiant=OIC-112-05-B\n|Item_parent=Bullous dermatosis of the skin and/or external mucous membranes\n|Item_parent_short=Bullous dermatosis affecting the skin and/or external mucous membranes\n|Rank=B\n|Title=Knowing other aetiologies of bullous diseases\n|Description=Toxidermia bullosa, erythema multiforme bullosa, thermal origin, caustic origin, phytophotodermatosis, sunburn, insect bite, vasculitis\n|Rubric=Etiologies\n|Contributors=\n|Order=5}}\nOther etiologies of bullous diseases are as follows:\n\n- bullous toxidermia (Lyell's syndrome, see item 115)\n\n- erythema multiforme bullosa (see item 115)\n\n- Thermal bubbles (the appearance of bubbles after exposure to cold, a heat source or rubbing)\n\n- Caustic bubbles (the appearance of bubbles after exposure to a chemical substance)\n\n- phytophotodermatosis (appearance of bullous lesions on contact areas)\n\n- sunburn (appearance of an erythema in the hours following exposure to the sun, followed by the formation of bubbles)\n\n- insect bites (appearance of blisters in the centre of lesions that are often purplish, particularly on the lower limbs)\n\n- vasculitis (see item 193)",
+  "question": {
+    "question": "Which of the following is NOT an aetiology of bullous diseases?",
+    "option_a": "Lyell's syndrome",
+    "option_b": "Erythema multiforme bullosa",
+    "option_c": "Contact dermatitis",
+    "option_d": "Phytophotodermatosis",
+    "correct_option": "C"
+  }
+}

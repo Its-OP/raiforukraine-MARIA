@@ -1,0 +1,22 @@
+{
+  "folder": "IC-351",
+  "content": "{{knowledge objective\n|Identifiant=OIC-351-12-A\n|Item_parent=Agitation and acute delirium\n|Item_parent_short=Agitation and acute delirium\n|Rank=A\n|Title=Knowing the indications and conditions of free hospitalisation and hospitalisation without consent according to age\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=12}}\nCf item 2C-015",
+  "question": {
+    "properties": {
+      "question": "Under which age group is hospitalisation without consent typically allowed for agitation and acute delirium, assuming all other conditions are met and the patient is unable to provide consent?",
+      "option_a": "Patients aged 12-17 with parental consent",
+      "option_b": "Patients aged 18-21 who are legally emancipated",
+      "option_c": "Patients aged under 18 without parental consent",
+      "option_d": "Patients aged 65 and above with a living will",
+      "correct_option": "c"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

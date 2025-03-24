@@ -1,0 +1,22 @@
+{
+  "folder": "IC-342",
+  "content": "{{knowledge objective\n|Identifiant=OIC-342-18-B\n|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=B\n|Title=Know the recommendations and organisation of the follow-up of a patient seen for malaise, syncope or reflex lipothymia.\n|Description=Benignity, patient education\n|Rubric=Management\n|Contributors=\n|Order=18}}\npatient reassurance (benignity) - education",
+  "question": {
+    "properties": {
+      "question": "What is the recommended initial approach for a patient experiencing malaise, syncope, or reflex lipothymia?",
+      "option_a": "Immediate surgical intervention",
+      "option_b": "Prescription of strong sedatives",
+      "option_c": "Patient reassurance and education",
+      "option_d": "Intensive physical therapy",
+      "correct_option": "C"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "folder": "IC-364",
+  "content": "{{knowledge objective\n|Identifiant=OIC-364-05-A\n|Item_parent=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Item_parent_short=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Rank=A\n|Title=Knowing the signs that should lead to suspicion of maltreatment in the event of a fracture in a child\n|Description=None\n|Rubric=Identification of the emergency\n|Contributors=\n|Order=5}}\n[Know that the following factors are suggestive of maltreatment: fracture before the age of walking, unexplained context or unclear context; delay in the child's presentation; metaphyseal or torsional location; presence of ecchymosis, petechiae or haematomas, especially of different ages (how long ago); radiological discovery of trauma of different ages (how long ago), of unusual location (scapula, sternum, etc.), of frequent but unusual location (shoulder blade, sternum, etc.), of frequent but unusual location (shoulder blade, sternum, etc.).Several different types of trauma (burns, wounds, haematomas or ecchymoses, fractures, cranial trauma, etc.) of different ages (how long ago they occurred).",
+  "question": {
+    "properties": {
+      "question": "When assessing a child with a fracture for potential maltreatment, which of the following factors should raise suspicion?",
+      "option_a": "A fracture that occurred during a well-documented fall at school.",
+      "option_b": "A fracture in a child who is able to walk and explain how it happened.",
+      "option_c": "Multiple fractures at different ages, radiological evidence of trauma from different times, and injuries in unusual locations such as the scapula or sternum.",
+      "option_d": "A single fracture with a clear, consistent explanation and no other signs of injury.",
+      "correct_option": "C"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

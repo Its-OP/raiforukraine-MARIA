@@ -1,0 +1,12 @@
+{
+  "folder": "IC-045",
+  "content": "{{knowledge objective\n|Identifiant=OIC-045-02-B\n|Item_parent=Specificities of genetic diseases. (see item 9)\n|Item_parent_short=Specificities of genetic diseases. (see item 9)\n|Rank=B\n|Title=Knowing the repercussions of the diagnosis of a genetic disease in a family.\n|Description=Explain the problems associated with the disease and the repercussions of the arrival of a child suffering from a genetic disease on the couple and the family.\n|Rubric=Definition\n|Contributors=Elise Launay,Damien Sanlaville,Marie-B\u00e9reng\u00e8re Troadec\n|Order=2}}\n\nWhen parents are told that their child has been diagnosed with a genetic disease, medical and psychological support should be offered to the parents and, if necessary, to the siblings. Similarly, it is important not to list all the possible complications and disabilities that may be seen as inescapable, without overlooking the difficulties. It is preferable to focus as much as possible on relatively short-term objectives and to value the child's skills.\n\nIt is important to put the child and not the disease first. The child is a carrier of a genetic disease.\n\nIt is impossible to predict the evolutionary trajectory of a child with a genetic disease. In fact, there are varying degrees of variability depending on the disease. Some parents are interested in the existence of parents' associations.\n\nFinally, in very rare cases, some parents will ask for the child to be put up for adoption.",
+  "question": {
+    "question": "What is a recommended approach when a child is diagnosed with a genetic disease?",
+    "option_a": "Focusing on the inevitability of all possible complications and disabilities.",
+    "option_b": "Prioritizing the child's skills and relatively short-term objectives over the disease.",
+    "option_c": "Predicting the exact evolutionary trajectory of the child's condition.",
+    "option_d": "Immediately considering adoption as the only solution.",
+    "correct_option": "b"
+  }
+}

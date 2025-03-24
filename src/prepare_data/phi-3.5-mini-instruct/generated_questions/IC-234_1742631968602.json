@@ -1,0 +1,22 @@
+{
+  "folder": "IC-234",
+  "content": "{{knowledge objective\n|Identifiant=OIC-234-15-A\n|Item_parent=Adult heart failure\n|Item_parent_short=Adult heart failure\n|Rank=A\n|Title=Chest radiography of PAO of haemodynamic origin\n|Description=None\n|Rubric=Multimedia content\n|Contributors=Olivier Huttin\n|Order=15}}\n\n[[File:Example of chest film of acute lung oedema.png|vignette|538x538px|Example of chest film of acute lung oedema]]",
+  "question": {
+    "properties": {
+      "question": "What is a common radiographic finding in a patient with acute lung oedema due to haemodynamic origin in adult heart failure?",
+      "option_a": "Clear lung fields with no evidence of fluid accumulation",
+      "option_b": "Unilateral pleural effusion",
+      "option_c": "Bilateral pulmonary edema with alveolar infiltrates",
+      "option_d": "Cardiomegaly without evidence of lung pathology",
+      "correct_option": "C"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

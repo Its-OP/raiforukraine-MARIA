@@ -1,0 +1,22 @@
+{
+  "folder": "IC-342",
+  "content": "{{knowledge objective\n|Identifiant=OIC-342-17-B\n|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=B\n|Title=Know the recommendations and organisation of the follow-up of a patient seen for malaise, syncope or lipothymia of rhythmic cause.\n|Description=Preventing the risk of sudden death\n|Section=Management\n|Contributors=\n|Order=17}}\ncardiological monitoring - prevention of the risk of sudden death",
+  "question": {
+    "question": "What is the recommended follow-up action for an adult patient who experienced malaise, syncope, or lipothymia of rhythmic cause to prevent the risk of sudden death?",
+    "options": {
+      "option_a": "Routine annual check-ups with a general practitioner only.",
+      "option_b": "Cardiological monitoring with periodic assessments to prevent the risk of sudden death.",
+      "option_c": "Immediate surgical intervention to correct any potential heart abnormalities.",
+      "option_d": "Lifestyle changes including diet and exercise without further medical evaluation.",
+      "correct_option": "option_b"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

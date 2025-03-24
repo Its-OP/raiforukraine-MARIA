@@ -1,0 +1,22 @@
+{
+  "folder": "IC-188",
+  "content": "{{knowledge objective\n|Identifiant=OIC-188-09-A\n|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Rank=A\n|Title=Knowing how to diagnose asthma exacerbations in children and adults.\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=9}}\nThe diagnosis is clinical:\n\no progressive increase in symptoms lasting at least two days and requiring a change in treatment\n\no not soothed by rapid-acting bronchodilators used frequently and in large quantities\n\no without returning to the usual state",
+  "question": {
+    "properties": {
+      "question": "Which of the following is NOT a clinical sign of an asthma exacerbation in children and adults?",
+      "option_a": "A progressive increase in symptoms lasting at least two days and requiring a change in treatment",
+      "option_b": "Symptoms not soothed by rapid-acting bronchodilators used frequently and in large quantities",
+      "option_c": "Returning to the usual state of health after the exacerbation",
+      "option_d": "Frequent and large use of rapid-acting bronchodilators without symptom relief",
+      "correct_option": "C"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

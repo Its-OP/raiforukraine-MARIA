@@ -1,0 +1,22 @@
+{
+  "folder": "IC-229",
+  "content": "{{knowledge objective\n|Identifiant=OIC-229-01-A\n|Item_parent=Venous access monitoring and complications\n|Item_parent_short=Venous access monitoring and complications\n|Rank=A\n|Title=Knowing the different types of venous ports\n|Description=Types of venous access (central - including implantable chambers, tunnelled or peripheral - and peripheral), insertion sites, main indications for the different devices.\n|Rubric=Definition\n|Contributors= Philippe Lacroix, Simon Rickenbach\n|Order=1}}\n\n[[File:Figure 1 item 229.jpg|vignette|Insertion sites for central and peripheral venous approaches]]\n(\"''[[Prescribing and monitoring a vascular approach SD-271|prescribing and monitoring a vascular approach]]\")''''",
+  "question": {
+    "properties": {
+      "question": "What is the primary indication for using an implantable central venous access port?",
+      "option_a": "Frequent blood draws for routine blood tests",
+      "option_b": "Long-term medication administration and parenteral nutrition",
+      "option_c": "Short-term procedures requiring peripheral access",
+      "option_d": "Immediate blood transfusions in emergency situations",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

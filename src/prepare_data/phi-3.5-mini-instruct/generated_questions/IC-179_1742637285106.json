@@ -1,0 +1,12 @@
+{
+  "folder": "IC-179",
+  "content": "{{knowledge objective\n|Identifiant=OIC-179-11-A\n|Item_parent=Health risks linked to water and food. Food poisoning\n|Item_parent_short=Health risks associated with food and water. Food poisoning\n|Rank=A\n|Title=Knowing how to prevent foodborne infections\n|Description=None\n|Section=Definition\n|Contributors=Pr Christophe DE CHAMPS DE SAINT LEGER, Dr Johann CAILHOL\n|Ordre=11}}\n'''Preventive measures outside the context of a TIAC''' :\n\nThe preventive measures consist of applying scrupulous hygiene rules throughout the food preparation chain (source of food, transport, preparation), with staff education and the principle of moving forward in collective kitchens.\n\nPrevention also involves medical surveillance of staff and the exclusion of certain agents depending on the risk, as well as routine microbiological sampling in the catering sector.\n\n'''Preventive measures in the presence of a TIAC''' :\n\nConsignment of suspect foodstuffs\n\nEviction of the source as soon as it is identified\n\nSuspension of catering activities at an establishment pending the results of the investigation",
+  "question": {
+    "question": "What is the immediate action to take when a foodborne infection source is identified in a catering establishment?",
+    "option_a": "Evacuate all staff and close off the establishment permanently.",
+    "option_b": "Continue catering activities while isolating the identified source.",
+    "option_c": "Evict the source as soon as it is identified.",
+    "option_d": "Conduct a staff training session on hygiene practices.",
+    "correct_option": "c"
+  }
+}

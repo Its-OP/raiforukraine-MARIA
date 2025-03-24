@@ -1,0 +1,22 @@
+{
+  "folder": "IC-188",
+  "content": "{{knowledge objective\n|Identifiant=OIC-188-03-B\n|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Rank=B\n|Title=Knowing the physiopathology and immunopathology of asthma and allergic rhinitis\n|Description=None\n|Rubric=Physiopathology\n|Contributors=\n|Order=3}}\nInflammatory reaction in the airways manifested by\n\n* hyperplasia of the mucous glands,\n* thickening of the basement membrane,\n* vascular hyperpermeability causing oedema of the mucosa,\n* hyperplasia and hypertrophy of smooth muscle cells (mainly in asthma),\n* bronchial hyperreactivity (in asthma)\n* bronchial remodelling (for asthma)\n\nThese elements contribute to the obstruction of the bronchial wall and upper airways, and to the hypersecretion of mucus.\n\nThere are 2 main phenotypes (clinical-biological pictures) of asthma, depending on the type of airway inflammation:\n\n* Th2 asthma: inflammation of the airways involving, in particular, Th2 lymphocytes and eosinophils. This mechanism is observed in allergic asthma and non-allergic eosinophilic asthma.\n* Non-Th2 asthma: inflammation not dependent on Th2 lymphocytes or eosinophils. Neutrophils may play a role in this type of asthma.",
+  "question": {
+    "properties": {
+      "question": "Which of the following is NOT a characteristic feature of Th2 asthma?",
+      "option_a": "Inflammation involving Th2 lymphocytes and eosinophils",
+      "option_b": "Hyperplasia of the mucous glands",
+      "option_c": "Neutrophil-dominated inflammation",
+      "option_d": "Eosinophilic inflammation",
+      "correct_option": "C"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

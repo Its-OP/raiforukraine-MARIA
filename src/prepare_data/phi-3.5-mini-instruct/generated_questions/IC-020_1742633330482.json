@@ -1,0 +1,12 @@
+{
+  "folder": "IC-020",
+  "content": "{{knowledge objective\n|Identifiant=OIC-020-11-B\n|Item_parent=Health research methodology\n|Item_parent_short=Health research methodology\n|Rank=B\n|Title=Descriptive analyses: knowing how to calculate statistical parameters\n|Description=Knowing how to calculate the parameters of position (mode, mean, median, quartile, percentile) and dispersion (variance, standard deviation, interquartile distance, range)\n|Rubric=Definition\n|Contributors=Julie Berbis (CUESP),David Hajage (CIMES)\n|Order=11}}\n\n'''Description of qualitative variables''': number and proportion (or percentage) of each mode\n\n'''Description of quantitative variables''' :\n\n# Position parameters :\n#* Average: sum of the values divided by their number.\n#* Mode: among a set of values, the mode is the most frequently found value.\n#* Quantiles: if values are ordered, the quantiles are the values which divide these values into parts of equal size. Examples of quantiles are the median (divides values into 2 parts of the same size), quartiles (divides values into 4 parts of the same size) and percentiles (divides values into 100 parts of the same size).  \n# Dispersion parameters :\n#* Variance and standard deviation: The variance measures the dispersion of a set of values around their mean. It is the average of the squares of the deviations from the mean. The standard deviation is the square root of the variance.\n#* Interquartile distance: difference between the third and first quartile.\n#* Range: difference between the maximum value and the minimum value.",
+  "question": {
+    "question": "In a descriptive analysis of a dataset, which of the following is the correct definition of the median?",
+    "option_a": "The most frequently found value in a set of data.",
+    "option_b": "The average of all the values in a dataset.",
+    "option_c": "The value that divides the dataset into two equal parts when ordered from smallest to largest.",
+    "option_d": "The difference between the third and first quartile.",
+    "correct_option": "C"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "folder": "IC-082",
+  "content": "{{knowledge objective\n|Identifiant=OIC-082-13-B\n|Item_parent=Acute visual impairment\n|Item_parent_short=Acute visual impairment\n|Rank=B\n|Title=Photograph of Papilledema\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=13}}\n\n[[File:OP.jpg|left|vignette|Papillary edema of the right eye. In this photo, the papilla appears blurred, in relief, and it is not possible to draw its border. When we say that the papilla is \"sharp-edged\", it is to express the absence of papilloedema.|434x434px]]",
+  "question": {
+    "properties": {
+      "question": "What does a clear papillary edge in a fundoscopic examination indicate?",
+      "option_a": "Presence of Papilledema",
+      "option_b": "Normal, sharp-edged papilla indicating no papilloedema",
+      "option_c": "Optic nerve atrophy",
+      "option_d": "Central retinal vein occlusion",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

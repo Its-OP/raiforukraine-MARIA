@@ -1,0 +1,22 @@
+{
+  "folder": "IC-112",
+  "content": "{{knowledge objective\n|Identifiant=OIC-112-06-A\n|Item_parent=Bullous dermatosis of the skin and/or external mucous membranes\n|Item_parent_short=Bullous dermatosis affecting the skin and/or external mucous membranes\n|Rank=A\n|Title=Recognising a bullous lesion\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=6}}\n\n[[File:L\u00e9sion bulleuse.jpg|vignette|Bulle tendue \u00e0 contenu clair si\u00e9geant sur le dessus du pied ]]",
+  "question": {
+    "properties": {
+      "question": "What is the primary characteristic of a bullous lesion as seen in Bullous dermatosis affecting the skin and/or external mucous membranes?",
+      "option_a": "A flat, discolored area on the skin surface",
+      "option_b": "A raised, solid-colored patch on the skin surface",
+      "option_c": "A fluid-filled blister with a clear or cloudy content",
+      "option_d": "A small, itchy rash with red bumps",
+      "correct_option": "C"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

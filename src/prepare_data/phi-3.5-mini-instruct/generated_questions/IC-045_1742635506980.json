@@ -1,0 +1,12 @@
+{
+  "folder": "IC-045",
+  "content": "{{knowledge objective\n|Identifiant=OIC-045-05-A\n|Item_parent=Specificities of genetic diseases. (see item 9)\n|Item_parent_short=Specificities of genetic diseases. (see item 9)\n|Rank=A\n|Title=Know how antenatal screening for trisomy 21 is carried out.\n|Description=Know the procedures for antenatal screening for trisomy 21\n|Rubric=Positive diagnosis\n|Contributors=Elise Launay,Damien Sanlaville,Marie-B\u00e9reng\u00e8re Troadec\n|Order=5}}\n\nDoctors must inform patients of the possibility of [[Prenatal screening for trisomy 21 SD-307|prenatal screening for trisomy 21]], which is covered by the health insurance scheme but is not compulsory.\n\nScreening includes a combined 1st trimester test based on :\n\n- Maternal age ;\n\n- Nuchal translucency measurement in the 1st trimester ;\n\n- Measurement of serum markers in the 1st trimester (PAPP-A, free beta-HCG).\n\n\nThe course of action varies according to the result of the combined test:\n\n- If the risk is less than 1/1000, simple pregnancy monitoring is recommended;\n\n- If the risk is between 1/51 and 1/1000, non-invasive prenatal screening is proposed (test on free foetal DNA circulating in maternal blood, DPNI):\n\no If the DPNI is negative: continuation of the usual ultrasound monitoring of the pregnancy;\n\no If the DPNI is positive: proposal of a foetal karyotype. The FISH test has a very good positive and negative predictive value, but does not allow a definite diagnosis of trisomy 21 to be made. Therefore, no termination of pregnancy will be carried out on the basis of a positive result from an NIPD test.\n\n- If the risk is greater than or equal to 1/50, a foetal karyotype is proposed straight away. However, the woman may ask to undergo an INFP.\n\n\nIf it has not been possible to carry out screening in the 1st trimester of pregnancy, it is possible to propose the measurement of serum markers in the 2nd trimester (hCG, alpha-feto-protein, oestriol).",
+  "question": {
+    "question": "What is the recommended course of action if the combined test risk for trisomy 21 is less than 1/1000 during antenatal screening?",
+    "option_a": "Non-invasive prenatal screening (DPNI) is proposed.",
+    "option_b": "Foetal karyotype is immediately proposed.",
+    "option_c": "Simple pregnancy monitoring is recommended.",
+    "option_d": "Termination of pregnancy is considered.",
+    "correct_option": "c"
+  }
+}

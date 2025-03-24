@@ -1,0 +1,22 @@
+{
+  "folder": "IC-186",
+  "content": "{{knowledge objective\n|Identifiant=OIC-186-05-B\n|Item_parent=Hypersensitivities and allergies in children and adults: physiopathological, epidemiological and diagnostic aspects and principles of treatment\n|Item_parent_short=Hypersensitivities and allergies in children and adults: pathophysiological, epidemiological and diagnostic aspects and principles of treatment\n|Rank=B\n|Title=Knowing the physiopathological elements of allergies to hymenoptera venoms: prevalence, mortality, etc.\n|Description=None\n|Rubric=Physiopathology\n|Contributors=\n|Order=5}}\nHymenoptera venom allergies are type 1 hypersensitivities mediated by venom-specific IgE antibodies.\n\nsee details in 2C-186-PE-B01\n\n<br />",
+  "question": {
+    "properties": {
+      "question": "What is the primary immunoglobulin involved in type 1 hypersensitivity reactions to hymenoptera venom?",
+      "option_a": "IgA",
+      "option_b": "IgE",
+      "option_c": "IgG",
+      "option_d": "IgM",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

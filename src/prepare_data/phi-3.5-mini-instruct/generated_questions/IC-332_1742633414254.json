@@ -1,0 +1,12 @@
+{
+  "folder": "IC-332",
+  "content": "{{knowledge objective\n|Identifiant=OIC-332-07-B\n|Item_parent=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.\n|Item_parent_short=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.\n|Rank=B\n|Title=Know the investigation strategy for haemorrhagic shock\n|Description=None\n|Rubric=Additional investigations\n|Contributors=Julien Poissy\n|Order=7}}\n\nA distinction is made between\n\n1\u00b0) Biological tests. The aim is to confirm the haemorrhage, quantify the blood loss and assess its severity.\n\nThis is how it works:\n\n- CBC-platelets\n\n- Arterial GDS with lactataemia\n\n- Haemostasis: PT, APTT, fibrinogen, ionised calcium\n\n- Group ABO-Rh\n\n\n2\u00b0) Etiological examinations :\n\n1.      External haemorrhage\n\no Haematemesis, melena, rectal discharge: FOGD+/-rectosigmoidioscopy\n\no Vascular wound/traumatic wound: external compression/twist and call the surgeon\n\no Gynaeco-obstetric haemorrhage: under-valve examination, uterine revision\n\n2.      Non-external haemorrhage\n\no Traumatic context: FAST-echo, chest x-ray, pelvic x-ray +/- injected thoraco-abdominal-pelvic CT scan\n\no Non-trauma: injected thoraco-abdomino-pelvic scan",
+  "question": {
+    "question": "What is the first step in investigating haemorrhagic shock according to the provided content?",
+    "option_a": "Conduct a CBC-platelets test",
+    "option_b": "Perform an external compression on a vascular wound",
+    "option_c": "Initiate an echo FAST scan",
+    "option_d": "Undergo a uterine revision for gyneco-obstetric haemorrhage",
+    "correct_option": "A"
+  }
+}

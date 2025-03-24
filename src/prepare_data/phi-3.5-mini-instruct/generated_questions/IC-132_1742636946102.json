@@ -1,0 +1,12 @@
+{
+  "folder": "IC-132",
+  "content": "{{knowledge objective\n|Identifiant=OIC-132-12-B\n|Item_parent=Cognitive disorders in the elderly. (see item 108)\n|Item_parent_short=Cognitive disorders in the elderly. (see item 108)\n|Rank=B\n|Title=Knowing the therapeutic approach to agitation or aggression in the context of a neuro-cognitive disorder.\n|Description=Know the main principles of hierarchical medical, psychosocial and drug management SEE ITEM 347\n|Rubric=Management\n|Contributors=\n|Order=12}}\nIn the event of disruptive behavioural problems (agitation, aggression, aberrant motor behaviour, etc.)\n\n1.     Rule out confusional syndrome+++ (break with previous state? disturbance of alertness?), which represents a diagnostic emergency.\n\nLook for a factor triggering or aggravating the behavioural problems (INFECTION, IATROGENIA, URINARY WITHHOLDING, PAIN, anxiety-depressive syndrome, change in environment, caregivers, etc.).\n\n2 ''Protecting the patient and protecting oneself'' (assessing the patient's self- and hetero-aggressiveness and the dangerousness of the environment)\n\n3.     Give priority to \"non-medicinal approaches\": calm, soothing words, not contradicting words, occupational activities.\n\n4.     If necessary (if there is a danger to the patient or those around them), medication: give preference to benzodiazepines with a short half-life, or atypical antipsychotics can be used temporarily as part of short courses of treatment (2 to 3 weeks). The side effects of these drugs are numerous and patients receiving them must be monitored.\n\n5.     Reassessment of the appropriateness of the medicinal and non-medicinal approaches used.\n\n6.     Therapeutic education for carers",
+  "question": {
+    "question": "When managing disruptive behavioural problems in a patient with a neuro-cognitive disorder, which of the following is the preferred initial approach?",
+    "option_a": "Immediate administration of long-term antipsychotic medication",
+    "option_b": "Assessment and protection measures, followed by non-medicinal approaches",
+    "option_c": "Restraint and seclusion techniques to manage aggressive behaviour",
+    "option_d": "Intensive physical exercise to distract from agitation",
+    "correct_option": "B"
+  }
+}

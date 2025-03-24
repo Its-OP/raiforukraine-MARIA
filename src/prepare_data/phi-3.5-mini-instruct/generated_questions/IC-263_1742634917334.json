@@ -1,0 +1,22 @@
+{
+  "folder": "IC-263",
+  "content": "{{knowledge objective\n|Identifiant=OIC-263-02-A\n|Item_parent=Vascular nephropathy\n|Item_parent_short=Vascular nephropathy\n|Rank=A\n|Title=Know the definition of thrombotic microangiopathy syndrome\n|Description=None\n|Rubric=Definition\n|Contributors=Jean-Jacques Boffa\n|Order=2}}\n\nThe MAT syndrome meets a biological definition combining :\n\n* haemolytic anaemia (collapsed haptoglobin, elevated LDH), mechanical type (presence of schizocytes);\n* consumption thrombocytopenia;\n* associated with one or more organ dysfunctions.\n\n\nHistologically, it corresponds to the thrombotic microangiopathy lesion.",
+  "question": {
+    "properties": {
+      "question": "What are the three primary components of thrombotic microangiopathy syndrome (TMA)?",
+      "option_a": "Hypertension, renal failure, and liver dysfunction",
+      "option_b": "Hemolytic anemia, thrombocytopenia, and organ dysfunction",
+      "option_c": "Elevated white blood cell count, platelet aggregation, and kidney stones",
+      "option_d": "Platelet activation, increased fibrinogen, and anemia",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

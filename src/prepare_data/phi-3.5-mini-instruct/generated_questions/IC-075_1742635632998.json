@@ -1,0 +1,22 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-21-A\n|Item_parent=Smoking addiction\n|Item_parent_short=Tobacco addiction\n|Rank=A\n|Title=Knowing the signs of smoking cessation\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=21}}\nThe signs of withdrawal appear rapidly after stopping :\n\n* Depressed mood\n* Irritability\n* Frustration\n* Anger\n* Insomnia\n* Anxiety\n* Difficulty concentrating\n* Increased appetite => weight gain\n\n<br />",
+  "question": {
+    "properties": {
+      "question": "Which of the following is NOT typically a sign of withdrawal after stopping smoking?",
+      "option_a": "Increased appetite",
+      "option_b": "Depressed mood",
+      "option_c": "Improved concentration",
+      "option_d": "Anxiety",
+      "correct_option": "C"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "folder": "IC-198",
+  "content": "{{knowledge objective\n|Identifiant=OIC-198-21-B\n|Item_parent=Microcrystalline arthropathies\n|Item_parent_short=Microcrystalline arthropathies\n|Rank=B\n|Title=Know the two main conditions associated with PPCa deposits\n|Description=haemochromatosis and primary hyperparthyroidism\n|Rubric=Etiologies\n|Contributors=\n|Order=21}}\nHaemochromatosis\n\nPrimary hyperparathyroidism\n\n<br />",
+  "question": {
+    "properties": {
+      "question": "Which of the following are the two main conditions associated with PPCa (Parathyroid C Cell) deposits?",
+      "option_a": "Diabetes mellitus and hyperthyroidism",
+      "option_b": "Haemochromatosis and primary hyperparathyroidism",
+      "option_c": "Osteoporosis and hypoparathyroidism",
+      "option_d": "Renal failure and thyroiditis",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-09-B\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=B\n|Title=Knowing the causes of urethritis in men\n|Description=None\n|Rubric=Etiologies\n|Contributors=\n|Order=9}}\n'''Venereal origin:''''\n\n- Gonorrhoea: acute anterior ++, purulent urethral discharge (90% of cases)\n\n- Chlamydia: urethritis (less noisy than for gonococcus) +/- urethral discharge present (< 50% of cases), usually clear, moderate and intermittent.\n\n- Trichomoniasis: subacute urethritis, morning discharge, +/- pruritus\n\n\n'''Non-venereal origin:'''\n\n- Infectious: Escherichia, Klebsiella, Enterobacter, Serratia, etc.\n\n- Traumatic\n\n- Radique\n\n- Tumoral\n\n- Irritating",
+  "question": {
+    "properties": {
+      "question": "What is a common symptom of urethritis in men caused by Chlamydia?",
+      "option_a": "Acute anterior urethral discharge",
+      "option_b": "Intermittent, moderate and clear urethral discharge",
+      "option_c": "Subacute urethritis with morning discharge",
+      "option_d": "Purulent urethral discharge",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

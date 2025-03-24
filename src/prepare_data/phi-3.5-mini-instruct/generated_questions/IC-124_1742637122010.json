@@ -1,0 +1,22 @@
+{
+  "folder": "IC-124",
+  "content": "{{knowledge objective\n|Identifiant=OIC-124-11-B\n|Item_parent=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)\n|Item_parent_short=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)\n|Rank=B\n|Title=Knowing the contraindications of HRT\n|Description=None\n|Heading=Management\n|Contributors=Florence Tr\u00e9mollieres,Anna Gosset\n|Order=11}}\n\n[[File:CI du THM.jpg|vignette|CI du THM]]\n'''Certain situations require the choice of the non-oral route of administration.'''\n\nThese are essentially certain metabolic conditions such as hypertriglyceridaemia or hypertension, or in women with venous thrombo-embolic risk factors.",
+  "question": {
+    "properties": {
+      "question": "In which of the following situations is the non-oral route of administration for Hormone Replacement Therapy (HRT) considered necessary?",
+      "option_a": "For patients with a preference for oral medication",
+      "option_b": "For individuals with hypertriglyceridaemia or hypertension",
+      "option_c": "For patients who have difficulty swallowing pills",
+      "option_d": "For women without any risk factors for venous thrombo-embolism",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

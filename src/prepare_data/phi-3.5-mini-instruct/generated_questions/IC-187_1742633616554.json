@@ -1,0 +1,12 @@
+{
+  "folder": "IC-187",
+  "content": "{{knowledge objective\n|Identifiant=OIC-187-03-A\n|Item_parent=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Item_parent_short=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Rank=A\n|Title=Knowing how to diagnose superficial and deep urticaria\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=3}}\n\n\n\n[[File:Figure 5 .png|vignette|alt=]]\nSuperficial urticaria\n\nThe primary lesion is an edematous papule (Figure 5), erythematous with a clear border and sometimes a lighter centre.\nThere is no particular topography.\nThe shape and size of the papules may vary; there may be annular or polycyclic lesions, and the papules may range from a few millimetres to large, geographically-contoured plaques.\nThe 3 major characteristics of these oedematous papules in superficial urticaria are their \"puriginous, fleeting and migratory\" nature.\n\n\n\n\nDeep urticaria or angioedema\n[[File:Figure 6 .jpg|vignette|''urticaria profunda or angioedema of the lips.'']]\nThe primary lesion is a firm, non-itchy, pinkish-white oedema (Figure 6) with a sensation of tension or pain. This oedema is transient, receding within 72 hours without scarring, and most often occurs in areas rich in mast cells: the face, extremities and external genitalia.\nIn the case of anaphylaxis, the oedema may be of laryngeal or pharyngeal origin, which may affect the prognosis.\n\n'''Superficial urticaria is isolated in 50% of cases.'''\n\n'''Superficial urticaria is associated with deep urticaria in 40% of cases.'''\n\n'''Deep urticaria is isolated in 10% of cases.'''\n\n<br />",
+  "question": {
+    "question": "In the context of urticaria, what percentage of cases involves isolated superficial urticaria?",
+    "option_a": "50%",
+    "option_b": "40%",
+    "option_c": "10%",
+    "option_d": "25%",
+    "correct_option": "A"
+  }
+}

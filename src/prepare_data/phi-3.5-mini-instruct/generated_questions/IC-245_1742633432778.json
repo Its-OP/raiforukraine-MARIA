@@ -1,0 +1,12 @@
+{
+  "folder": "IC-245",
+  "content": "{{knowledge objective\n|Identifiant=OIC-245-02-A\n|Item_parent=Adrenal insufficiency in adults and children\n|Item_parent_short=Adrenal insufficiency in adults and children\n|Rank=A\n|Title=Know the semiological characteristics of the two types of slow adrenal insufficiency: peripheral and central.\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Claire Briet,St\u00e9phanie Espiard\n|Order=2}}\nThe semiological characteristics are summarised in Table 1.\n\n'''Table 1: Comparison of the semiological characteristics of primary slow adrenal insufficiency (=peripheral, adrenal damage) and secondary (=central=corticotropic insufficiency, pituitary damage)'''\n{| class=\"wikitable\"\n|\n|'''Primary adrenal insufficiency''''\n|'''Secondary adrenal insufficiency'''\n|-\n|General condition\n|Fatigue ([[Asthenia SD-021]])'','' depression, anorexia'','' [[Nausea SD-012]], [[Weight loss SD-017]], hypotension [[Discovery of arterial hypotension SD-043|(Discovery of arterial hypotension SD-043)], orthostatic hypotension\n|Idem but less marked signs, particularly hypotension and digestive signs\n|-\n|Skin and mucous membranes\n|hyperpigmentation\n|Pallor, even without anaemia\n|-\n|Ion disorders\n|Hyperkalaemia ([[Dyskalaemia SD-201]])\n\nHyponatremia due to salt loss ([[Dysnatremia SD-202]])\n\nIncreased natriuresis\n|Normal kalaemia\n\nDilution hyponatremia\n|-\n|Associated biological signs\n|Hypoglycaemia SD-209 (decompensation?)\n\nCBC abnormalities (moderate anaemia, normochromic, normocytic, leukopenia, hypereosinophilia)\n<br />Hypoglycaemia\n|Hypoglycaemia (children, if associated somatotropic insufficiency)\n<br />\n|-\n|Associated diseases or symptoms\n|Associated autoimmune disease (hypothyroidism, vitiligo, etc.)\n\nTuberculosis\n\nCancers, HIV, etc. (see etiologies)\n|Signs of pituitary insufficiency\n\nTumour syndrome: headaches, visual disturbances\n|}",
+  "question": {
+    "question": "Which of the following is a semiological characteristic of primary slow adrenal insufficiency (peripheral) that differentiates it from secondary (central) adrenal insufficiency?",
+    "option_a": "Normal kalaemia",
+    "option_b": "Hypernatremia due to salt loss",
+    "option_c": "Hyperpigmentation",
+    "option_d": "Hypoglycaemia associated with somatotropic insufficiency",
+    "correct_option": "C"
+  }
+}

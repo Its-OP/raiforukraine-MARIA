@@ -1,0 +1,22 @@
+{
+  "folder": "IC-364",
+  "content": "{{knowledge objective\n|Identifiant=OIC-364-06-A\n|Item_parent=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Item_parent_short=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Rank=A\n|Title=Knowing the principles of initial management of childhood trauma\n|Description=To treat pain and prescribe imaging\n|Heading=Management\n|Contributors=\n|Order=6}}\nknow how to evoke the diagnosis of a fracture without excessive manipulation of the limb, know how to immediately prescribe temporary immobilisation, know how to prescribe a level 2 or 3 painkiller in children, know how to locate the lesion and prescribe imaging targeted at the region concerned.",
+  "question": {
+    "properties": {
+      "question": "In the initial management of a child with a suspected fracture, which of the following is the most appropriate immediate action?",
+      "option_a": "Perform a detailed physical examination to identify the exact type of fracture.",
+      "option_b": "Immediately prescribe a level 2 or 3 painkiller and provide temporary immobilization.",
+      "option_c": "Apply heat to the affected area to reduce pain before any imaging is done.",
+      "option_d": "Encourage the child to move the limb to assess the extent of the injury.",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

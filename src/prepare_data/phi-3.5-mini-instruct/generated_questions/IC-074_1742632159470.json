@@ -1,0 +1,22 @@
+{
+  "folder": "IC-074",
+  "content": "{{knowledge objective\n|Identifiant=OIC-074-05-B\n|Item_parent=Prescription and monitoring of psychotropic drugs (see item 330)\n|Item_parent_short=Prescription and monitoring of psychotropic drugs (see item 330)\n|Rank=B\n|Title=Antipsychotics: knowing the rules for correct use at all stages of life, particularly in elderly patients and/or those suffering from dementia.\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=5}}\nThe ''pre-therapeutic assessment'' prior to antipsychotic treatment includes a search for contraindications (ECG), any pregnancy, associated treatments and screening for metabolic disorders.\n\n'''Rules for the proper use''' of antipsychotics :\n\n* First-line molecules: second-generation antipsychotics;\n* Choice of drug based on response to previous treatments, contraindications and patient preferences;\n* Favour the drug with the fewest side effects;\n* Do not combine two QT-prolonging drugs;\n* Look for monotherapy and the minimum effective dose;\n* In emergencies, reserve the intramuscular route for states of intense agitation and avoid dose escalation or repetition;\n* Monitor clinical efficacy and adverse effects.",
+  "question": {
+    "properties": {
+      "question": "What is a crucial step in the pre-therapeutic assessment before initiating antipsychotic treatment?",
+      "option_a": "Conducting an ECG to search for contraindications",
+      "option_b": "Prescribing the highest possible dose for immediate effect",
+      "option_c": "Combining two QT-prolonging drugs for synergistic effects",
+      "option_d": "Immediate initiation of monotherapy without considering patient history",
+      "correct_option": "A"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

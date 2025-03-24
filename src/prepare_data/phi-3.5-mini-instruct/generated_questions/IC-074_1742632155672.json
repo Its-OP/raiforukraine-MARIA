@@ -1,0 +1,22 @@
+{
+  "folder": "IC-074",
+  "content": "{{knowledge objective\n|Identifiant=OIC-074-21-A\n|Item_parent=Prescription and monitoring of psychotropic drugs (see item 330)\n|Item_parent_short=Prescription and monitoring of psychotropic drugs (see item 330)\n|Rank=A\n|Title=Thymoregulators: knowing the main classes and molecules\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=21}}\nThymoregulators'' are ''psychotropic'' drugs whose main clinical action is to '''reduce the frequency''', '''duration''' and '''intensity''' of '''thymic episodes''' (manic and depressive).\n\nThey represent a fairly restricted pharmacological class which includes :\n\n* lithium salts,\n* anticonvulsant thymoregulators: valpromide, sodium divalproate, carbamazepine, lamotrigine, etc.",
+  "question": {
+    "properties": {
+      "question": "Which of the following is NOT a characteristic of thymoregulators?",
+      "option_a": "Reduce the frequency of thymic episodes",
+      "option_b": "Reduce the duration of thymic episodes",
+      "option_c": "Increase the intensity of thymic episodes",
+      "option_d": "Reduce the intensity of thymic episodes",
+      "correct_option": "C"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

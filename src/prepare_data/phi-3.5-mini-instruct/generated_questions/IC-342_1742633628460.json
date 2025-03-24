@@ -1,0 +1,22 @@
+{
+  "folder": "IC-342",
+  "content": "<gallery>\nFile:Malaise2.PNG\n</gallery>{{knowledge objective\n|Identifiant=OIC-342-07-A\n|Item_parent=Malaise, loss of consciousness, comitial seizure in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=A\n|Title=Know the cardiovascular and non-cardiovascular causes of syncope/lipothymia\n|Description=reflex, hypotensive, cardiac\n|Rubric=Etiologies\n|Contributors=\n|Order=7}}\n",
+  "question": {
+    "properties": {
+      "question": "What is NOT a common cause of syncope (fainting) or lipothymia (transient loss of consciousness) in adults?",
+      "option_a": "Reflex syncope due to sudden standing up",
+      "option_b": "Hypotensive syncope from dehydration",
+      "option_c": "Cardiac syncope from arrhythmia",
+      "option_d": "Transient ischemic attack (TIA) due to cerebral blood flow",
+      "correct_option": "A"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

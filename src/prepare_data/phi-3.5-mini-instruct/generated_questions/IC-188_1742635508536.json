@@ -1,0 +1,22 @@
+{
+  "folder": "IC-188",
+  "content": "{{knowledge objective\n|Identifiant=OIC-188-18-B\n|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Rank=B\n|Title=Knowing how to use beta-2 mimetics (inhalation, aerosol) and inhaled corticosteroids in asthma.\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=18}}\nThe choice of inhaled treatment device should be guided by the patient's co-ordination skills (necessary for certain metered dose inhalers) and inspiratory capacities (greater inspiratory flow required for powders).\n\nAny prescription for inhaled treatment must be accompanied by instruction in the use of the inhalation device. Inhalation technique should be checked at each consultation.\n\nA dedicated website with videos demonstrating the treatments available is freely accessible to patients and carers: <nowiki>https://splf.fr/videos-zephir/</nowiki>",
+  "question": {
+    "properties": {
+      "question": "When prescribing inhaled treatments for asthma, which factor is NOT considered in choosing the appropriate inhalation device?",
+      "option_a": "Patient's coordination skills",
+      "option_b": "Patient's inspiratory capacities",
+      "option_c": "Patient's preference for medication color",
+      "option_d": "Ability to use a spacer device",
+      "correct_option": "C"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-328",
+  "content": "{{knowledge objective\n|Identifiant=OIC-328-02-A\n|Item_parent=Non-drug therapies and medical devices\n|Item_parent_short=Non-drug therapies and medical devices\n|Rank=A\n|Intitle=Know the definition of a medical device\n|Description=None\n|Rubric=Definition\n|Contributors=Bisseriex H\u00e9l\u00e8ne,De Boissezon Xavier\n|Order=2}}\n\n'''Medical device:''' any instrument, apparatus, equipment, material, product (with the exception of products of human origin) including accessories and software, used alone or in combination, for medical purposes in humans, and whose principal intended action is not obtained by pharmacological, immunological or metabolic means ''(ANSM)''.\n\nA new European regulation (EU regulation 2017/745) dating from May 2021 aims to standardise the marketing and commissioning of medical devices within the European Union (without regulating prices and reimbursements by social organisations).\n\n<br />",
+  "question": {
+    "question": "What constitutes a medical device according to the ANSM definition?",
+    "option_a": "Products that are pharmacological in nature.",
+    "option_b": "Instruments or equipment used solely for surgical procedures.",
+    "option_c": "Instruments, apparatus, equipment, material, or product (excluding human origin products) used for medical purposes, whose principal action is not obtained by pharmacological, immunological, or metabolic means.",
+    "option_d": "Products that are exclusively software applications for health management.",
+    "correct_option": "C"
+  }
+}

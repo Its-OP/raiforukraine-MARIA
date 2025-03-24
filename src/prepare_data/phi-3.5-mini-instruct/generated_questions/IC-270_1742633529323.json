@@ -1,0 +1,12 @@
+{
+  "folder": "IC-270",
+  "content": "{{knowledge objective\n|Identifiant=OIC-270-03-A\n|Item_parent=Acute low back pain\n|Item_parent_short=Acute low back pain\n|Rank=A\n|Intitle=Identify a medical or surgical emergency\n|Description=Know the signs of severity, arguments in favour of a secondary cause, neurological examination\n|Rubric=Identifying an emergency\n|Contributors=Fran\u00e7ois-Xavier NOUHAUD\n|Order=3}}\n\n\n== The signs of acute low back pain are: ==\n\n* sepsis, septic shock [[Sepsis and septic shock in children and adults|158]]\n* oligo-anuria, acute renal failure\n* acute anaemia, arterial hypotension, haemorrhagic shock [[State of shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic|332]]\n* heart rhythm disorder [[Atrial fibrillation|232]]\n* abdominal defence or contracture, intestinal obstruction\n* severe dyspnoea, respiratory distress [[Acute respiratory distress and failure in infants, children and adults|359]]\n\n* motor deficit\n* abnormal neurological examination\n\n== For a urological cause, you need: ==\n\n*Identify complicated renal colic:\n**[[2C-161|Febrile nephritic colic 161]] and [[2C-265|265]] (obstructive pyelonephritis): hyperthermia, clinical signs of sepsis.\n**2C-265|Hyperalgesic nephritic colitis 265]: pain resistant to well-administered IV analgesic treatment combining NSAIDs and morphine analgesics, level 3 in titration.\n**anuric nephritic colic: oligo-anuria, acute renal failure\n**Hyperalgesic nephritic colic resistant to well-administered medical treatment (fluid restriction, NSAIDs, morphine).\n\n*Identify [[2C-161|acute pyelonephritis 161]] that is complicated or at risk of complication.\n*Identify a [[2C-050|torsion of the spermatic cord 50]]",
+  "question": {
+    "question": "In the context of acute low back pain, which of the following signs would indicate a urological cause requiring immediate attention?",
+    "option_a": "Motor deficit",
+    "option_b": "Abnormal neurological examination",
+    "option_c": "Oligo-anuria, acute renal failure",
+    "option_d": "Severe dyspnoea, respiratory distress",
+    "correct_option": "c"
+  }
+}

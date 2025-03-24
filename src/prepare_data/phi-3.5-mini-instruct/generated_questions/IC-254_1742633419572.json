@@ -1,0 +1,22 @@
+{
+  "folder": "IC-254",
+  "content": "{{knowledge objective\n|Identifiant=OIC-254-01-B\n|Item_parent=Nutritional needs of pregnant women\n|Item_parent_short=Nutritional needs of pregnant women\n|Rank=B\n|Title=Knowing the nutritional needs of pregnant women\n|Description=Modification of energy, iron, vitamin D and calcium requirements\n|Rubric=Physiopathology\n|Contributors=\n|Order=1}}\n\nPregnant women's energy requirements increase during pregnancy (by an average of 70, 260 and 500 kcal/d in the 1<sup>st</sup>, 2<sup>th</sup> and 3<sup>th</sup> trimesters, respectively). This increase in energy requirements is usually covered by an increase in ingesta.\n\nRequirements for certain vitamins and micronutrients are also increased. Part of these needs are covered by the increase in ingesta. In addition, intestinal absorption of iron and calcium increases.\n\nHowever, as dietary habits are sometimes quite different from the standards recommended for the general population, certain needs (vitamins A, B9, C and D, iron and iodine) may not be covered by increasing dietary intake alone.",
+  "question": {
+    "properties": {
+      "question": "During pregnancy, how do the energy requirements of a woman typically change?",
+      "option_a": "Decrease by an average of 50 kcal/d in each trimester",
+      "option_b": "Increase by an average of 70 kcal/d in the 1st trimester, 260 kcal/d in the 2nd trimester, and 500 kcal/d in the 3rd trimester",
+      "option_c": "Remain the same throughout the pregnancy",
+      "option_d": "Increase by a fixed amount of 150 kcal/d in each trimester",
+      "correct_option": "b"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

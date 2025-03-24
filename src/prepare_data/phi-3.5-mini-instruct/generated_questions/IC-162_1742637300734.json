@@ -1,0 +1,22 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-32-B\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=B\n|Title=Knowing the parasitic aetiologies of STIs\n|Description=Trichomoniasis, Pthirosis\n|Rubric=Etiologies\n|Contributors=\n|Order=32}}\n'''- Trichomoniasis :''' ''Trichomonas vaginalis,'' flagellate protozoan, anaerobic\n\n- Scabies: ''Sarcoptes scabiei hominis'', sarcoptes*.\n\n- Pediculosis of the pubis: ''Phtirius inguinalis\n\n<nowiki>*</nowiki> its mode of transmission makes it similar to an STI, which requires research into risky behaviour and, where appropriate, screening for other STIs",
+  "question": {
+    "properties": {
+      "question": "Which of the following is the correct parasitic aetiology of Trichomoniasis?",
+      "option_a": "Sarcoptes scabiei hominis",
+      "option_b": "Pthirus pubis",
+      "option_c": "Trichomonas vaginalis",
+      "option_d": "Giardia lamblia",
+      "correct_option": "C"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

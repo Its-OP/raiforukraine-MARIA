@@ -1,0 +1,12 @@
+{
+  "folder": "IC-183",
+  "content": "{{knowledge objective\n|Identifiant=OIC-183-07-B\n|Item_parent=Organisation of occupational medicine. Prevention of occupational risks\n|Item_parent_short=Organisation of occupational medicine. Occupational risk prevention\n|Rank=B\n|Title=Knowing the risk assessment process\n|Description=Hierarchy and methods of a risk assessment process\n|Rubric=Definition\n|Contributors=\n|Order=7}}\n\n\nHi\u00e9rachisation des risques professionnels is ''obligatoire'' in companies and ''under the responsibility of the employer'', but the multidisciplinary occupational health team and the occupational physician must contribute to it.\n\n===3 steps===\n\n====1.      Hazard identification and characterisation:====\n\n*knowledge of workstations\n*knowledge of product composition (safety data sheets)\n\n====2.      Exposure assessment:====\n\n*ambient and individual measurements: e.g. noise metrology\n*measurements of biological indicators of exposure (toxins or metabolites measured in the biological media of exposed subjects).\n*ergonomic studies of workstations\n\n====3.      Estimated risks:====\n\n*Comparison of measured exposures with exposure limit values that must not be exceeded to protect health.\n*Limit values: based on dose-response relationships published in the literature, exist for a large number of dangerous chemical agents, asbestos, noise and ionising radiation....\n\n\nMust be followed by a ''prevention plan'' formalising the ''risk management approach''.",
+  "question": {
+    "question": "In the hierarchy of occupational risk assessment, which step directly follows after exposure assessment?",
+    "option_a": "Implementation of control measures",
+    "option_b": "Development of a prevention plan",
+    "option_c": "Review of hazard identification and characterisation",
+    "option_d": "Performance of a cost-benefit analysis",
+    "correct_option": "B"
+  }
+}

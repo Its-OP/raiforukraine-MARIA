@@ -1,0 +1,22 @@
+{
+  "folder": "IC-233",
+  "content": "{{knowledge objective\n|Identifiant=OIC-233-01-A\n|Item_parent=Valvulopathies\n|Item_parent_short=Valvulopathies\n|Rank=A\n|Title=Know the definition of mitral insufficiency (MI), aortic stenosis (AS), aortic insufficiency (AI), mitral stenosis (MS).\n|Description=None\n|Rubric=Definition\n|Contributors=Myriam Akodad,Florence Leclercq\n|Order=1}}\n\n* Mitral insufficiency'' (MI): Dysfunction of the mitral valve with systolic closure defect resulting in regurgitation of blood from the left ventricle (LV) into the left atrium (LA) during systole.\n* Aortic stenosis'' (AS): Dysfunction of the aortic valve with limited opening, resulting in an obstacle to systolic ejection from the LV.\n* Aortic insufficiency'' (AI): Dysfunction of the aortic valve with closure defect in diastole resulting in regurgitation of blood from the aorta into the LV in diastole.\n* Mitral narrowing'' (MR): Dysfunction of the mitral valve with limited opening in diastole, resulting in an obstacle to the flow of blood from the OG to the LV at the time of cardiac filling.",
+  "question": {
+    "properties": {
+      "question": "Which of the following heart valve disorders is characterized by a closure defect during diastole, leading to regurgitation of blood from the aorta into the left ventricle?",
+      "option_a": "Mitral insufficiency (MI)",
+      "option_b": "Aortic stenosis (AS)",
+      "option_c": "Aortic insufficiency (AI)",
+      "option_d": "Mitral stenosis (MS)",
+      "correct_option": "C"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

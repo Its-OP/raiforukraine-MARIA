@@ -1,0 +1,12 @@
+{
+  "folder": "IC-124",
+  "content": "{{knowledge objective\n|Identifiant=OIC-124-03-B\n|Item_parent=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)\n|Item_parent_short=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)\n|Rank=B\n|Title=Know the definition and diagnosis of premature ovarian failure.\n|Description=None\n|Topic=Positive diagnosis\n|Contributors=Florence Tr\u00e9mollieres,Anna Gosset\n|Order=3}}\n\nPremature ovarian failure (POI) is defined by\n\n- primary or secondary amenorrhoea lasting more than 4 months\n\n- '''before the age of 40'''\n\n- associated with an ''increase in pituitary gonadotropins''.\n\nDiagnostic confirmation is based on an increase in FSH > 25 IU/l combined with estradiol < 20 pg/ml on 2 occasions 4 weeks apart.\n\nIts prevalence is around 1 to 2%.\n\nFamilial forms account for 10-15% of cases, but in 80% of cases no aetiology is found.\n\nThe main causes of POI are :\n{| class=\"wikitable\"\n|'''Causes'''\n|'''Pathologies'''\n|'''Mechanisms'''\n|-\n|'''Genetics'''\n|Turner Syndrome\n\nPremutation of the FMR1 gene\n\nOther genetic causes : ''Gonadal dysgenesis ...''\n<br />\n|Acceleration of apoptosis\n<br />\n|-\n|'''Auto-immune'''''\n|Type I (APECED) and type II polyendocrinopathy\n\nPOI associated with other autoimmune diseases\n\nIsolated ovarian failure\n|Blockage of follicular maturation\n|-\n|Toxicology\n|Chemotherapy\n\nRadiotherapy\n|Acceleration of apoptosis\n<br />\n|}",
+  "question": {
+    "question": "What is the primary diagnostic criterion for premature ovarian failure (POI)?",
+    "option_a": "Primary or secondary amenorrhoea lasting more than 6 months",
+    "option_b": "Before the age of 40",
+    "option_c": "FSH > 30 IU/l combined with estradiol < 15 pg/ml",
+    "option_d": "Increase in pituitary gonadotropins",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "folder": "IC-347",
+  "content": "{{knowledge objective\n|Identifiant=OIC-347-07-A\n|Item_parent=Acute urine retention\n|Item_parent_short=Acute urine retention\n|Rank=A\n|Title=Knowing the initial assessment of urinary retention\n|Description=None\n|Rubric=Additional tests\n|Contributors=Jonathan Olivier\n|Order=7}}\n\n* No further tests are required as a matter of urgency.\n* If there is any doubt about the diagnosis, a suprapubic ultrasound may be performed to assess bladder fullness.",
+  "question": {
+    "properties": {
+      "question": "What is the initial assessment step for a patient with acute urine retention if the diagnosis is not immediately clear?",
+      "option_a": "Immediate catheterization to relieve urinary retention",
+      "option_b": "Perform a suprapubic ultrasound to assess bladder fullness",
+      "option_c": "Administer a bladder scan to evaluate urinary output",
+      "option_d": "Conduct a renal ultrasound to check for kidney stones",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-208",
+  "content": "{{knowledge objective\n|Identifiant=OIC-208-14-B\n|Item_parent=Chronic respiratory failure\n|Item_parent_short=Chronic respiratory failure\n|Rank=B\n|Title=Knowing the indications for imaging examinations in chronic respiratory failure\n|Description=None\n|Rubric=Additional examinations\n|Contributors=\n|Order=14}}\nEtiological diagnosis and monitoring of CKD is based primarily on functional respiratory investigations.\n\nChest X-rays are routinely ordered at the time of diagnosis, and can sometimes be used to confirm the diagnosis. It may be supplemented by a thoracic CT scan, particularly if PID is suspected.  ",
+  "question": {
+    "question": "When is a thoracic CT scan typically ordered in the context of chronic respiratory failure?",
+    "option_a": "As a routine initial diagnostic test.",
+    "option_b": "When pulmonary infiltrates (PID) is suspected.",
+    "option_c": "To monitor the progression of chronic kidney disease (CKD).",
+    "option_d": "When chest X-rays fail to confirm the diagnosis.",
+    "correct_option": "B"
+  }
+}

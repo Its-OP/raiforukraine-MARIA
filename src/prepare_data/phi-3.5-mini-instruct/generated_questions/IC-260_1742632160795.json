@@ -1,0 +1,22 @@
+{
+  "folder": "IC-260",
+  "content": "{{knowledge objective\n|Identifiant=OIC-260-07-A\n|Item_parent=Hematuria\n|Item_parent_short=Hematuria\n|Rank=A\n|Title=Photographs of a typical example of macroscopic haematuria\n|Description=None\n|Rubric=Multimedia content\n|Contributors=Charles Dariane,Bruno Moulin\n|Order=7}}\n\n<br /><big>'''Figure 3.''' Urine collecting bag reflecting macroscopic haematuria</big>\n[[File:Figure 3 urine collection bag HUbis.jpg|neant|vignette|<big>'''Figure 3.''' Urine collecting bag reflecting macroscopic haematuria</big>]]",
+  "question": {
+    "properties": {
+      "question": "What does macroscopic haematuria in a urine sample indicate?",
+      "option_a": "Presence of bacteria indicating a urinary tract infection",
+      "option_b": "High levels of protein suggesting kidney disease",
+      "option_c": "Visible blood in the urine, which may be due to various conditions",
+      "option_d": "An increase in urine acidity",
+      "correct_option": "C"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

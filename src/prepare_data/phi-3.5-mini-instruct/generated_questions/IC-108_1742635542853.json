@@ -1,0 +1,12 @@
+{
+  "folder": "IC-108",
+  "content": "{{knowledge objective\n|Identifiant=OIC-108-02-A\n|Item_parent=Confusion, dementia. (see item 132)\n|Item_parent_short=Confusion, dementia. (see item 132)\n|Rank=A\n|Heading=Know the definition of confusion and dementia.\n|Description=Description of the main symptoms\n|Heading=Definition\n|Contributors=\n|Order=2}}\nConfusion (mental confusion, confusional syndrome) ('''[[Mental confusion/disorientation SD-119|mental confusion/disorientation]]'''):\n\n- Attention deficit disorder''([[Attention Deficit Disorder SDD-129|attention deficit disorder]])'''' severe associated with moderate impairment of alertness''([[Coma and Consciousness Disorder SDD-028|coma and consciousness disorder]])''''''\n\n- acute or subacute, fluctuating (reversal of nycthemeral rhythm) '''([[Sleep disorders, insomnia or hypersomnia SDD-135|sleep disorders, insomnia or hypersomnia]])''''\n\n- leading to disorganised thinking (mental confusion/disorientation) and behavioural disorders (agitation; apathy; hallucinations; delusions)\n\n\nDementia (or major neurocognitive disorder): a syndrome defined by\n\n- a lasting and acquired deterioration in one or more cognitive and/or behavioural functions (impression of decline felt by the patient, an informant or the clinician AND cognitive impairment on neuropsychological assessment)\n\n- a consequential impairment (= having no other cause than the cognitive disorder) of autonomy in daily life '''([[Progressive loss of autonomy SDD-031|progressive loss of autonomy]])''''\n\n- the disorders are not linked to a confusional syndrome or another mental disorder (mental retardation, psychiatric disorder)",
+  "question": {
+    "question": "What is a key distinguishing feature of dementia compared to confusion?",
+    "option_a": "Dementia is characterized by an acute onset of symptoms.",
+    "option_b": "Dementia involves a reversible decline in cognitive function.",
+    "option_c": "Dementia entails a progressive and irreversible decline in cognitive and behavioral functions, impacting daily autonomy.",
+    "option_d": "Dementia is solely defined by behavioral disorders such as agitation and hallucinations.",
+    "correct_option": "c"
+  }
+}

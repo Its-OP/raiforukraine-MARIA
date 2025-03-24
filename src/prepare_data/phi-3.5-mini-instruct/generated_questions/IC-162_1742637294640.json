@@ -1,0 +1,12 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-27-A\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=A\n|Title=Knowing the serological tests for syphilis\n|Description=None\n|Rubric=Additional tests\n|Contributors=\n|Order=27}}\n\n\n=== - Treponemal tests (TT): specific reaction for treponematoses === - ELISA: automatic enzyme-linked immunosorbent assay, IgM and IgG levels\n- ELISA: automatic enzyme-linked immunosorbent assay, IgM and IgG levels\n\n- TPHA is a manual agglutination and fluorescence test; result expressed in dilution\n\n- Kinetics: TT + between 7<sup>th</sup> and 10<sup>th</sup> day of canker.\n\n=== - Non-treponemal tests (NTT): VDRL and RPR (Rapid Plasma Reagin) are not specific reactions for treponematoses (+++). ===\n\n\n- TT- and TNT-: no or very recent treponaematosis (or cured and treated early)\n\n- TT+ and TNT+: interpretation according to TNT kinetics (onset of syphilis with increase in TNT, treated syphilis with decrease in TNT)\n\n- TT- and TNT+: false positive\n\n- TT+ and TNT-: cured or very early treponematosis or very old tertiary syphilis",
+  "question": {
+    "question": "Which serological test combination indicates a recent or very recent treponematosis or early cure of syphilis?",
+    "option_a": "TT+ and TNT+",
+    "option_b": "TT- and TNT+",
+    "option_c": "TT- and TNT-",
+    "option_d": "TT+ and TNT-",
+    "correct_option": "C"
+  }
+}

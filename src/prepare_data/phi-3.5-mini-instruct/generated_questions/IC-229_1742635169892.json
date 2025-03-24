@@ -1,0 +1,22 @@
+{
+  "folder": "IC-229",
+  "content": "{{knowledge objective\n|Identifiant=OIC-229-03-A\n|Item_parent=Venous access monitoring and complications\n|Item_parent_short=Venous access monitoring and complications\n|Rank=A\n|Title=Knowing the technique for inserting a peripheral venous line\n|Description=Link to a video filming and explaining the insertion of a VVP\n|Topic=Management\n|Contributors= Philippe Lacroix, Simon Rickenbach\n|Order=3}}\n[https://videotheque.uness.fr/w/8kikHuJrr7kTcLQJ4QuY7y Learn how to insert a peripheral venous line]",
+  "question": {
+    "properties": {
+      "question": "What is the correct angle of insertion for a peripheral venous line to minimize complications?",
+      "option_a": "90 degrees to the skin surface",
+      "option_b": "45 degrees to the skin surface",
+      "option_c": "30 degrees to the skin surface",
+      "option_d": "180 degrees relative to the skin surface",
+      "correct_option": "C"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

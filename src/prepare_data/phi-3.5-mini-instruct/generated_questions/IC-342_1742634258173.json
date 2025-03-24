@@ -1,0 +1,12 @@
+{
+  "folder": "IC-342",
+  "content": "{{knowledge objective\n|Identifiant=OIC-342-16-A\n|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=A\n|Title=Know the symptomatic treatment of malaise\n|Description=None\n|Heading=Management\n|Contributors=\n|Order=16}}\nFirst aid treatment - Safety position - Lateral safety position if unconscious - Leg elevation if blood pressure low",
+  "question": {
+    "question": "What is the recommended first aid treatment position for an adult experiencing malaise and low blood pressure?",
+    "option_a": "Supine position with legs flat on the ground",
+    "option_b": "Prone position with a pillow under the head",
+    "option_c": "Lateral safety position if unconscious, legs elevated if blood pressure is low",
+    "option_d": "Sitting upright with arms crossed",
+    "correct_option": "c"
+  }
+}

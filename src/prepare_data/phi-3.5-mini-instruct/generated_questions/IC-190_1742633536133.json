@@ -1,0 +1,22 @@
+{
+  "folder": "IC-190",
+  "content": "{{knowledge objective\n|Identifiant=OIC-190-01-A\n|Item_parent=Prolonged fever\n|Item_parent_short=Prolonged fever\n|Rank=A\n|Title=Know the definition of \"classic\" prolonged fever\n|Description=\u226538\u00b0C on several occasions, \u22653 weeks, without diag after appropriate investigations (3 days in hospital or 3 cs)\n|Section=Definition\n|Contributors=\n|Order=1}}\nDefinition of \"classic\" prolonged fever '''([[Hyperthermia/fever SD-044|hyperthermia/fever]])'''''\n\n* Occurrence in a subject with no particular medical condition (non-immunocompromised, not hospitalised)\n* Temperature (taken at rest) \u2265 38.3\u00b0C on several occasions,\n* For \u2265 3 weeks,\n* No cause identified after appropriate investigations carried out during three days in hospital or after three consultations. There is no pre-established, definitive list of these investigations, which vary according to the clinical context of each patient.\n\n\nNote: there is no pre-established, definitive list of appropriate investigations (which vary depending on the patient) before making the diagnosis of prolonged fever.",
+  "question": {
+    "properties": {
+      "question": "What is the definition of 'classic' prolonged fever according to the provided content?",
+      "option_a": "A fever that persists for 3 days with a temperature of \u226538.3\u00b0C in a hospitalized patient.",
+      "option_b": "A fever that lasts for 3 weeks with a temperature of \u226538.3\u00b0C in a non-immunocompromised individual, with no cause identified after three hospital days or consultations.",
+      "option_c": "A continuous fever for more than 3 weeks in any individual, regardless of the temperature or investigations conducted.",
+      "option_d": "A fever that lasts exactly 3 weeks, with a temperature of exactly 38\u00b0C, and is caused by an identifiable infection.",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

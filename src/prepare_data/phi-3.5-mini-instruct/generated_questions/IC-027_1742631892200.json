@@ -1,0 +1,12 @@
+{
+  "folder": "IC-027",
+  "content": "{{knowledge objective\n|Identifiant=OIC-027-45-B\n|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Rank=B\n|Title=Knowing the mechanisms of action of irradiation on the foetus\n|Description=None\n|Rubric=Physiopathology\n|Contributors=Alexandre Vivanti, Philippe Deruelle\n|Order=45}}\nThere are two main conditions to be aware of, and their consequences:\n\n- '''Cell death''', which can occur from a threshold of 100-200 mGy :\n\n- in the central nervous system, neurons are sensitive from the threshold of 100-200 mGy (no repercussions below 100 mGy), with a dose-effect relationship from 500 mGy. The main consequences of severe irradiation, such as Hiroshima or high direct abdominal irradiation, come from their death: reduced IQ, microcephaly, cataracts, IUGR. The period of greatest sensitivity is between 10 and 27 weeks' gestation, depending on where you are:\n\n- between 10 and 17 weeks' gestation (neuronal multiplication): severe reduction in IQ: -30 points, risk of 40% of profound mental retardation from 1000 mGy,\n\n- between 18 and 27 ADT (neuronal migration): smaller reduction in IQ;\n\n- the other organs are better preserved. At very high doses, however, severe irradiation causes IUGR; in extreme cases, death in utero;\n\n- DNA damage'', which can lead to a 40% increase in the risk of leukaemia or cancer (i.e. \u00d7 1.4), with no really known threshold effect and a dose-response relationship (the risk starts with low levels of radiation, and rises with the dose). Insofar as the risk of leukaemia/cancer in children is spontaneously between 0.2 and 0.3%, foetal irradiation raises this gross risk to 0.3 to 0.4%, which remains low for a given individual.",
+  "question": {
+    "question": "At what gestational age range is the fetus most sensitive to severe irradiation, potentially leading to a significant reduction in IQ and a risk of profound mental retardation?",
+    "option_a": "Between 10 and 17 weeks' gestation",
+    "option_b": "Between 18 and 27 weeks' gestation",
+    "option_c": "After 27 weeks' gestation",
+    "option_d": "During the first trimester",
+    "correct_option": "a"
+  }
+}

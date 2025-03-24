@@ -1,0 +1,12 @@
+{
+  "folder": "IC-161",
+  "content": "{{knowledge objective\n|Identifiant=OIC-161-14-A\n|Item_parent=Urinary infections in children and adults\n|Item_parent_short=Urinary infections in children and adults\n|Rank=A\n|Title=Know how to treat male urinary tract infections and know how to prevent them.\n|Description=Know the conditions for the urological management of male urinary tract infections.\n|Rubric=Management\n|Contributors=Maxime Vall\u00e9e, Alice Faure\n|Order=14}}\n\n\n*The treatment of MUI is detailed in the figure below.\n*Note that drainage of a patient with [[Acute retention of urine|acute retention of urine 347]] in this context must be carried out urgently either by urethral catheterisation (bladder catheterisation is no longer a contraindication subject to an atraumatic procedure, to learn how to catheterise: <nowiki>https://www.youtube.com/watch?v=TMPPG_CnU-M</nowiki>) or suprapubic catheterisation.\n*The duration of treatment currently recommended is 14 days if fluroroquinolones, IV C3G or cotrimoxazole are used. For other molecules, the current duration is 21 days.\n*The occurrence of an infectious episode in men should systematically prompt a search for an underlying aetiology: [[Benign prostatic hyperplasia|symptomatic benign prostatic hyperplasia 127]], urethral stricture, [[Urinary incontinence and micturition disorders in adults and the elderly|bladder failure 125]], etc.\n\n<br />[[File:Table.png|vignette|993x993px|alt=|neant]]\n<br /><big>''HAS recommendations; May 2019''</big>",
+  "question": {
+    "question": "What is the recommended duration of treatment for male urinary tract infections (MUI) when using fluroroquinolones, IV C3G, or cotrimoxazole?",
+    "option_a": "7 days",
+    "option_b": "14 days",
+    "option_c": "21 days",
+    "option_d": "28 days",
+    "correct_option": "b"
+  }
+}

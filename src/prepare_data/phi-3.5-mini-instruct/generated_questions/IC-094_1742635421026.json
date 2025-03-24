@@ -1,0 +1,12 @@
+{
+  "folder": "IC-094",
+  "content": "{{knowledge objective\n|Identifiant=OIC-094-08-B\n|Item_parent=Rachialgia\n|Item_parent_short=Rachialgia\n|Rank=B\n|Title=Knowing the factors favouring the development of chronic spinal pain\n|Description=List of prognostic factors / yellow and black flags\n|Rubric=Follow-up and/or prognosis\n|Contributors=Bisseriex H\u00e9l\u00e8ne,Nguyen Christelle\n|Order=8}}\n\n'''YELLOW FLAGS = Risk factors for the transition to chronicity'''\n\no Emotional problems: anxiety, depression '''([[Anxiety SDD-116|anxiety]], [[Sad mood/moral pain SDD-123|sad mood/moral pain]])''', isolation\n\no Inappropriate attitudes and representations in relation to back pain (false beliefs about physical activity and/or work)\n\no Inappropriate pain behaviour, passive tendency (e.g. catastrophising, avoidance)\n\no Work-related problems: conflict, dissatisfaction, work stoppage, work-related accident, work-related illness\n\n'''BLACK FLAGS = Prognostic factors linked to company policy, the care and insurance system'''\n\no Absence of measures facilitating return to or retention in employment: employer policy preventing gradual reintegration or change of post\n\no Financial insecurity\n\no Compensation system criteria\n\no Financial incentives\n\no Lack of contact with the workplace\n\no Length of time off work: after 2 years off work, the probability of returning to work is 0%.",
+  "question": {
+    "question": "Which of the following is considered a 'BLACK FLAG' prognostic factor for the development of chronic spinal pain according to the provided educational content?",
+    "option_a": "Anxiety and depression",
+    "option_b": "Inappropriate pain behaviour, such as catastrophizing",
+    "option_c": "Financial insecurity",
+    "option_d": "Work stoppage",
+    "correct_option": "c"
+  }
+}

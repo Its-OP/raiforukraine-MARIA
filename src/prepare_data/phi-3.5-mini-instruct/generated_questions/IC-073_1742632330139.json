@@ -1,0 +1,12 @@
+{
+  "folder": "IC-073",
+  "content": "{{knowledge objective\n|Identifiant=OIC-073-06-B\n|Item_parent=Different types of psychotherapeutic techniques\n|Item_parent_short=Different types of psychotherapeutic techniques\n|Rank=B\n|Title=Knowing supportive psychotherapy\n|Description=Theoretical and practical principles\n|Rubric=Taking charge\n|Contributors=Amaury MENGIN\n|Order=6}}\n\n==== Supportive psychotherapy ====\nAt the root of all psychotherapy, the most widely practised and least theorised form of psychotherapy.\n\nMain objectives:\n\n- Accompanying a patient through a stressful life situation (separation, professional difficulties, bereavement, etc.)\n\n- Allowing painful emotions to be expressed and relieved\n\n- Encouraging a change of perspective\n\n- Restoring hope and boosting feelings of personal effectiveness\n\nPractical details:\n\n- Identifying and structuring patient requests\n\n- Empathetic listening\n\n- Reformulation\n\n- Home/validation of emotions\n\n- Support/encouragement/strengthening of personal resources",
+  "question": {
+    "question": "Which of the following is NOT a main objective of supportive psychotherapy?",
+    "option_a": "Teaching coping mechanisms for stressful life situations",
+    "option_b": "Allowing painful emotions to be expressed and relieved",
+    "option_c": "Encouraging a change of perspective",
+    "option_d": "Prescribing medication to manage symptoms",
+    "correct_option": "d"
+  }
+}

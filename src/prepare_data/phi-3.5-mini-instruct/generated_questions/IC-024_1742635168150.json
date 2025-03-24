@@ -1,0 +1,12 @@
+{
+  "folder": "IC-024",
+  "content": "{{knowledge objective\n|Identifiant=OIC-024-24-A\n|Item_parent=Main complications of pregnancy.\n|Item_parent_short=Main complications of pregnancy.\n|Rank=A\n|Title=Knowing the work-up for fever during pregnancy\n|Description=Biologies and complementary examinations according to clinical examination\n|Rubric=Positive diagnosis\n|Contributors=Paul Berveiller,Philippe Deruelle\n|Order=24}}\n\nIn all cases, we will carry out :\n\n- ECBU\n\n- ''NFS - CRP\n\n- blood cultures (if fever > 38.5\u00b0C with search for Listeria M)\n\n- serologies according to context (rubella, toxoplasmosis, hepatitis, CMV, HIV, PB19)\n\n- Others according to signs of orientation: PCR (COVID), rapid influenza test, streto test, etc.\n\n- RCF and tocometry\n\n- obstetrical ultrasound: EPF, foetal well-being and amount of LA.\n\n[[Reasoned request/prescription and choice of a diagnostic examination SD-178]]; [[Urine dipstick analysis SD-182]]; [[Acute or chronic inflammatory syndrome SD-186]]; [[Analysis of a urine cytobacteriological examination (ecbu) SD-189]]; [[Leukocyte abnormality SD-216]]; [[Interpretation of haemogram SD-223]]\n\n<br />",
+  "question": {
+    "question": "What is the initial diagnostic workup for fever during pregnancy according to the provided educational content?",
+    "option_a": "Urine dipstick analysis",
+    "option_b": "Blood cultures if fever > 38.5\u00b0C and search for Listeria monocytogenes",
+    "option_c": "Rapid influenza test",
+    "option_d": "Obstetrical ultrasound for epf and foetal well-being",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-132",
+  "content": "{{knowledge objective\n|Identifiant=OIC-132-11-B\n|Item_parent=Cognitive disorders in the elderly. (see item 108)\n|Item_parent_short=Cognitive disorders in the elderly. (see item 108)\n|Rank=B\n|Title=Knowing the psychological and behavioural symptoms of dementia.\n|Description=Know how to identify the main behavioural disorders associated with diseases responsible for neuro-cognitive disorders.\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=11}}\nThese symptoms should be looked for at each consultation, as some carers will not talk about them spontaneously, or the symptoms may be trivialised. The Neuro-Psychiatric Inventory can be used to assess the frequency and impact (severity) of each of these symptoms.\n{| class=\"wikitable\"\n|Depression/dysphoria\n\nAnxiety\n\nIrritability/stability\n\nApathy\n\nExaltation/euphoria\n\nDisinhibition\n\nDelusional ideas\n\nHallucinations Agitation/aggression\n\nAberrant motor behaviour\n\nSleep disorders\n\nAppetite disorders\n|}\nThese can have major consequences in terms of :\n\n* quality of life and adaptation of patients to their environment;\n* quality of care, with the risk of abuse or neglect;\n* functional prognosis of the disease\n* inappropriate drug prescribing;\n* increased risk of hospitalisation and institutionalisation;\n* quality of life and physical and mental health of carers.",
+  "question": {
+    "question": "Which of the following is NOT a common behavioural symptom associated with dementia?",
+    "option_a": "Depression/dysphoria",
+    "option_b": "Anxiety",
+    "option_c": "Enhanced memory recall",
+    "option_d": "Disinhibition",
+    "correct_option": "C"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-183",
+  "content": "{{knowledge objective\n|Identifiant=OIC-183-06-A\n|Item_parent=Organisation of occupational medicine. Prevention of occupational risks\n|Item_parent_short=Organisation of occupational medicine. Occupational risk prevention\n|Rank=A\n|Title=Knowing the principles of the different levels of medical and technical prevention (primary, secondary, tertiary).\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=6}}\n\n\n===''Primary prevention:'''===\n\n*Aims to prevent the appearance of deleterious effects in employees exposed to occupational risks,\n*Concerns all types of risk,\n*It is a \"collective technique\" (e.g. machine enclosures to reduce noise),\n*Then \"individual technical\" (e.g. providing earplugs to protect against noise),\n*It can be ''medical'': vaccination for example.\n\n===''Secondary prevention'''===\n\n*Aims to ''detect'' pathologies linked to the occupational risk concerned as early as possible,\n*Mainly medical.\n*For example: audiograms.\n\n===''Tertiary prevention'''===\n\n*Aims to ''keep people in work'' with work-related illnesses,\n*Technical/organisational: adapting the workstation (accessibility, working hours),\n*Medical: medical treatment to prevent the condition or disability from worsening.",
+  "question": {
+    "question": "Which of the following best describes the aim of tertiary prevention in occupational medicine?",
+    "option_a": "To prevent the initial occurrence of occupational diseases through collective techniques.",
+    "option_b": "To detect early signs of work-related pathologies for immediate medical intervention.",
+    "option_c": "To maintain employees in their work roles by adapting workstations and providing medical treatment to manage existing conditions.",
+    "option_d": "To implement individual technical measures like personal protective equipment to reduce exposure to occupational hazards.",
+    "correct_option": "c"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "folder": "IC-336",
+  "content": "{{knowledge objective\n|Identifiant=OIC-336-02-B\n|Item_parent=Non-traumaticoma in adults and children\n|Item_parent_short=Non-traumatic coma in adults and children\n|Rank=B\n|Title=Know the mechanisms that can contribute to coma\n|Description=Knowing the nerve centres of awakening and consciousness\n|Rubric=Physiopathology\n|Contributors=Nicolas Weiss\n|Order=2}}\n\n<gallery widths=\"300\" heights=\"300\">\nFile:Pathophysiological elements coma.jpg\n</gallery>",
+  "question": {
+    "properties": {
+      "question": "Which of the following is NOT a recognized mechanism contributing to coma?",
+      "option_a": "Severe hypoxia affecting the brain stem",
+      "option_b": "Excessive accumulation of neurotransmitters in the cerebral cortex",
+      "option_c": "Disruption of thalamocortical circuits",
+      "option_d": "Stable and adequate cerebral perfusion",
+      "correct_option": "D"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

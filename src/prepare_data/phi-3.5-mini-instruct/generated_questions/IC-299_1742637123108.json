@@ -1,0 +1,22 @@
+{
+  "folder": "IC-299",
+  "content": "{{knowledge objective\n|Identifiant=OIC-299-02-A\n|Item_parent=Intracranial tumours\n|Item_parent_short=Intra-cranial tumours\n|Rank=A\n|Title=Know the definition of primary intracranial tumours: central nervous system and adnexa\n|Description=Know the distinction between tumours originating in the CNS and tumours originating in its adnexa\n|Rubric=Definition\n|Contributors=Dr Thi\u00e9baud PICART (Hospices Civils de Lyon),Dr Pierre ANTH\u00c9RIEU (Toulouse University Hospital),Pr Fran\u00e7ois VASSAL (Saint-Etienne University Hospital)\n|Order=2}}\n\n- Primary brain tumour =''' intra-axial, developed within the brain itself (i.e. brain, trunk, cerebellum), e.g. glioblastoma\n\n- Primary adnexal tumour = extra-axial, developed from the meninges and cranial nerves, e.g. meningioma and schwannoma/neuroma of the vestibular nerve.",
+  "question": {
+    "properties": {
+      "question": "Which of the following best describes a primary intracranial tumour?",
+      "option_a": "A tumour that originates in the brain tissue itself, such as glioblastoma.",
+      "option_b": "A tumour that originates in the meninges or cranial nerves, such as meningioma or schwannoma.",
+      "option_c": "A tumour that originates in the spinal cord and spreads to the brain.",
+      "option_d": "A tumour that originates in the lungs and metastasizes to the brain.",
+      "correct_option": "A"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

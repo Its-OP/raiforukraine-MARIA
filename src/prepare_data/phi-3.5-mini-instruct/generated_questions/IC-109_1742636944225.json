@@ -1,0 +1,12 @@
+{
+  "folder": "IC-109",
+  "content": "{{knowledge objective\n|Identifiant=OIC-109-03-B\n|Item_parent=Gait and balance disorders\n|Item_parent_short=Gait and balance disorders\n|Rank=B\n|Title=Knowing the scales for analysing balance and walking (clinical examination, diagnostic approach)\n|Description=Berg scales, 6-minute walking tests, etc.\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=3}}\n- Walking barefoot in an open corridor\n\n- Romberg test\n\n- Postural tests\n\n- Get up and go test\n\n- Frontal and sagittal posture\n\n.        6-minute walk test\n\n.        Functional ambulation classification (FAC)\n\n.        Berg equilibrium scale",
+  "question": {
+    "question": "Which of the following is a clinical test specifically designed to assess balance and walking ability in patients with gait and balance disorders?",
+    "option_a": "Tinel's sign",
+    "option_b": "Berg equilibrium scale",
+    "option_c": "McMurray's test",
+    "option_d": "Lachman's test",
+    "correct_option": "B"
+  }
+}

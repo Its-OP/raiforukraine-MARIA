@@ -1,0 +1,22 @@
+{
+  "folder": "IC-364",
+  "content": "{{knowledge objective\n|Identifiant=OIC-364-08-B\n|Item_parent=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Item_parent_short=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Rank=B\n|Title=Know the principles of management of fractures in children\n|Description=Know the risks of cast immobilisation\n|Rubric=Management\n|Contributors=\n|Order=8}}\nTo know the therapeutic principles of fractures in children: orthopaedic treatment and its monitoring, surgical treatment and its monitoring. Know that osteosynthesis in children differs from that in adults. Know that the growth plate must be rigorously preserved during osteosynthesis in children. Know that plaster cast immobilisation is well tolerated in children and that it is also used after osteosynthesis. Know that there is no indication for physiotherapy after plaster cast immobilisation for fractures in children.",
+  "question": {
+    "properties": {
+      "question": "What is the recommended post-treatment approach for fractures in children after plaster cast immobilisation?",
+      "option_a": "Initiation of physiotherapy sessions immediately after cast removal.",
+      "option_b": "Continuation of physiotherapy sessions as prescribed before cast application.",
+      "option_c": "No indication for physiotherapy after plaster cast immobilisation.",
+      "option_d": "Regular physiotherapy sessions to be scheduled every two weeks following cast removal.",
+      "correct_option": "c"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

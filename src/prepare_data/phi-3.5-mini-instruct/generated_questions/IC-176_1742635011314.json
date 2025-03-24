@@ -1,0 +1,22 @@
+{
+  "folder": "IC-176",
+  "content": "{{knowledge objective\n|Identifiant=OIC-176-12-A\n|Item_parent=Infectious diarrhoea in adults and children\n|Item_parent_short=Infectious diarrhoea in adults and children\n|Rank=A\n|Title=Knowing the principles of symptomatic management of diarrhoea\n|Description=None\n|Rubric=Management\n|Contributors=Alexis de Rougemont,Christophe Deschamps\n|Order=12}}\n\n'''In adults'''\n\n1.     Correct or prevent dehydration, giving preference to the oral route whenever possible\n\n2.     Reduce the intensity of diarrhoea\n\n'''In children''': previous item",
+  "question": {
+    "properties": {
+      "question": "What is the primary goal of symptomatic management of diarrhoea in adults and children?",
+      "option_a": "Correct or prevent dehydration, giving preference to the oral route whenever possible",
+      "option_b": "Reduce the intensity of diarrhoea",
+      "option_c": "Administer anti-diarrhoeal medications to stop the diarrhoea",
+      "option_d": "Identify and treat the underlying cause of the diarrhoea",
+      "correct_option": "A"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

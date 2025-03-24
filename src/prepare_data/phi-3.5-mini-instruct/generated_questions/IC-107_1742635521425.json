@@ -1,0 +1,22 @@
+{
+  "folder": "IC-107",
+  "content": "{{knowledge objective\n|Identifiant=OIC-107-04-A\n|Item_parent=Anomalous movements\n|Item_parent_short=Anomalous movements\n|Rank=A\n|Title=Recognising the main abnormal movements on typical video cases\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=4}}\nPlease refer to the CEN website where videos are available:\n\nhttps://www.cen-neurologie.fr/videotheque",
+  "question": {
+    "properties": {
+      "question": "Which of the following is NOT a typical abnormal movement observed in neurological disorders?",
+      "option_a": "Choreiform movements",
+      "option_b": "Myoclonic jerks",
+      "option_c": "Bradykinesia",
+      "option_d": "Hyperkinesia",
+      "correct_option": "d"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

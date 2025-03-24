@@ -1,0 +1,22 @@
+{
+  "folder": "IC-208",
+  "content": "{{knowledge objective\n|Identifiant=OIC-208-12-B\n|Item_parent=Chronic respiratory failure\n|Item_parent_short=Chronic respiratory failure\n|Rank=B\n|Title=Knowing the medico-social implications of CKD (Long Term Disability)\n|Description=None\n|Rubric=Prise en charge\n|Contributors=\n|Order=12}}\nSevere CKD (Pa02<60mmHg) entitles the patient to exemption from co-payment under ALD 14.",
+  "question": {
+    "properties": {
+      "question": "Under which condition is a patient with Chronic Kidney Disease (CKD) entitled to exemption from co-payment according to ALD 14?",
+      "option_a": "When the patient's creatinine clearance is above 90 mL/min",
+      "option_b": "When the patient is undergoing dialysis treatment",
+      "option_c": "When the patient's Pa02 level is below 60 mmHg",
+      "option_d": "When the patient has a urine albumin-to-creatinine ratio above 30 mg/g",
+      "correct_option": "C"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-30-B\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=B\n|Title=Knowing the methods of long-term management: knowing that relapses are the rule, hence the systematic proposal to stop smoking.\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=30}}\nRelapses are the rule => systematically suggest quitting\n\n*Craving and withdrawal syndrome are factors in relapse.\n*Alcohol and cannabis use are factors in relapse.\n\nThe quality and frequency of follow-up improve the chances of successful weaning.\n\n* The frequency should be agreed with the smoker (6 to 12 months).\n* A \"successful\" withdrawal is one that lasts \u2265 1 year.\n* Regular follow-up helps prevent relapses.\n\nRelapse must be played down (often a necessary stage in learning to live without tobacco).\n\n* reward the efforts made\n* analyse the circumstances of the relapse\n* maintaining follow-up with a view to a new attempt.",
+  "question": {
+    "question": "Which of the following is a recommended strategy for managing smoking addiction and preventing relapses?",
+    "option_a": "Ignoring the signs of a potential relapse to build resilience.",
+    "option_b": "Regularly scheduled follow-up meetings tailored to the smoker's preference, aiming for at least 1 year of successful withdrawal.",
+    "option_c": "Encouraging the smoker to self-quit without any form of support or monitoring.",
+    "option_d": "Advising the smoker to increase their nicotine intake gradually to reduce withdrawal symptoms.",
+    "correct_option": "B"
+  }
+}

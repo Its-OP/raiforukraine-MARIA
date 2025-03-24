@@ -1,0 +1,22 @@
+{
+  "folder": "IC-027",
+  "content": "{{knowledge objective\n|Identifiant=OIC-027-22-B\n|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Rank=B\n|Title=Knowing the mechanisms of maternal-fetal transmission of streptococcus B\n|Description=None\n|Topic=Physiopathology\n|Contributors=Alexandre Vivanti, Philippe Deruelle\n|Order=22}}\nThe prevalence of vaginal carriage in France is between 10 and 20%.\n\nMaternal-foetal infection with streptococcus B occurs via the vaginal, ascending route, with contamination during passage through the maternal genital tract during childbirth or prolonged rupture of foetal membranes.",
+  "question": {
+    "properties": {
+      "question": "How does maternal-fetal infection with streptococcus B typically occur?",
+      "option_a": "Through breastfeeding",
+      "option_b": "By vertical transmission during childbirth or prolonged rupture of foetal membranes",
+      "option_c": "Through the placenta during the second trimester",
+      "option_d": "By ingestion of contaminated food during pregnancy",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

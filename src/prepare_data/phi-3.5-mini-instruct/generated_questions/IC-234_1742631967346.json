@@ -1,0 +1,22 @@
+{
+  "folder": "IC-234",
+  "content": "{{knowledge objective\n|Identifiant=OIC-234-21-B\n|Item_parent=Adult heart failure\n|Item_parent_short=Adult heart failure\n|Rank=B\n|Title=Knowing the main complications of heart failure and their management\n|Description=Death, decompensation, rhythm disorder, embolism, hypotension, renal failure.\n|Section=Follow-up and/or prognosis\n|Contributors=Olivier Huttin\n|Order=21}}\n- Heart failure is a serious disease\n\n- Deaths: average mortality of 50% at five years\n\n\nCauses of death :\n\n- Chronic refractory heart failure, cardiac cachexia, cardiogenic shock leading to multivisceral failure\n\n- End-stage renal failure: cardiorenal syndrome\n\n- Episodes of acute heart failure\n\n- Sudden death secondary to ventricular rhythm disturbances (VT, VF); sudden death due to electromechanical dissociation\n\n- Thromboembolic complications: systemic embolism (stroke), pulmonary embolism (episodes of bed rest).",
+  "question": {
+    "properties": {
+      "question": "Which of the following is NOT a common complication of adult heart failure?",
+      "option_a": "Chronic refractory heart failure",
+      "option_b": "Cardiogenic shock leading to multivisceral failure",
+      "option_c": "Renal failure due to cardiorenal syndrome",
+      "option_d": "Hyperthyroidism",
+      "correct_option": "D"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

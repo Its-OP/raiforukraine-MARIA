@@ -1,0 +1,22 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic anomalies, visual, hearing and dental problems. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=B\n|Title=Congenital hip dislocation: knowing the indication for imaging\n|Description=None\n|Order=24\n|Identifiant=OIC-047-24-B\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic anomalies, visual, hearing and dental problems. Compulsory health examinations. School medicine. Child mortality and morbidity\n}}\n[[File:LCH.png|neant|vignette|319x319px|LCH decision tree according to 2013 HAS recommendations<ref>[https://www.has-sante.fr/upload/docs/application/pdf/2013-11/luxation_hanche_v2_mel.pdf Fiche m\u00e9mo Luxation cong\u00e9nitale de la hanche : d\u00e9pistage]</ref>]]\nIf abnormality at follow-up: ultrasound up to 3 months, X-ray from the 4th month (3 months completed).\n<references />",
+  "question": {
+    "properties": {
+      "question": "At what age should an ultrasound be conducted for infants with suspected congenital hip dislocation if an abnormality is detected during follow-up?",
+      "option_a": "Immediately after birth",
+      "option_b": "Up to 3 months",
+      "option_c": "From the 4th month onwards",
+      "option_d": "At 6 months",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

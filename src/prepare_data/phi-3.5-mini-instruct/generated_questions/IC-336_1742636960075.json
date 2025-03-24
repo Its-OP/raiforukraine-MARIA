@@ -1,0 +1,22 @@
+{
+  "folder": "IC-336",
+  "content": "{{knowledge objective\n|Identifiant=OIC-336-07-A\n|Item_parent=Non-traumaticoma in adults and children\n|Item_parent_short=Non-traumatic coma in adults and children\n|Rank=A\n|Title=Knowing the clinical signs of hypoglycaemia and correcting it\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Nicolas Weiss\n|Order=7}}\n\n- coma or any neurological disorder\n\n- evoked by capillary blood glucose, confirmed by blood glucose (blood glucose < 3 mmol/L)\n\n- emergency resucration with direct IV glucose serum (G30% 1 ampoule) if consciousness is impaired\n\n- orally, if you are conscious enough: sugar cubes, orange juice, etc.\n\n- revaluation",
+  "question": {
+    "properties": {
+      "question": "What is the immediate treatment for a patient in a hypoglycemic coma?",
+      "option_a": "Administer a high dose of insulin",
+      "option_b": "Provide oral glucose tablets if the patient is conscious",
+      "option_c": "Emergency resuscitation with direct IV glucose serum (G30% 1 ampoule) if consciousness is impaired",
+      "option_d": "Administer a glucagon injection",
+      "correct_option": "c"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

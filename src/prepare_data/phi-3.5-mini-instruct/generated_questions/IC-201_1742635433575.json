@@ -1,0 +1,22 @@
+{
+  "folder": "IC-201",
+  "content": "{{knowledge objective\n|Identifiant=OIC-201-07-B\n|Item_parent=Organ transplants: epidemiological and immunological aspects; principles of treatment and monitoring; complications and prognosis; ethical and legal aspects. Organ procurement and legislation\n|Item_parent_short=Organ transplants: epidemiological and immunological aspects; principles of treatment and monitoring; complications and prognosis; ethical and legal aspects. Organ procurement and legislation\n|Rank=B\n|Title=Knowing the criteria for encephalic death\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Dany Anglicheau\n|Order=7}}\n\nThe diagnosis of brain death is based on :\n\n*clinical criteria:\n**Total absence of consciousness and spontaneous motor activity;\n**Abolition of all brainstem reflexes;\n**Total absence of spontaneous ventilation verified by a hypercapnia test.\n*and paraclinical criteria:\n**2 null and reactive electroencephalograms for 30 minutes performed 4 hours apart;\n**or cerebral angiography showing cessation of encephalic circulation.",
+  "question": {
+    "properties": {
+      "question": "What are the clinical criteria for diagnosing brain death?",
+      "option_a": "Presence of spontaneous motor activity and intact brainstem reflexes.",
+      "option_b": "Total absence of consciousness and spontaneous ventilation.",
+      "option_c": "Total absence of consciousness and spontaneous motor activity, and abolition of all brainstem reflexes.",
+      "option_d": "Normal electroencephalogram readings and preserved cerebral circulation.",
+      "correct_option": "c"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

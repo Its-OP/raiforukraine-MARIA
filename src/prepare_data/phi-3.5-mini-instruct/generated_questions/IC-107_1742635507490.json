@@ -1,0 +1,12 @@
+{
+  "folder": "IC-107",
+  "content": "{{knowledge objective\n|Identifiant=OIC-107-07-B\n|Item_parent=Anomalous movements\n|Item_parent_short=Anomalous movements\n|Rank=B\n|Title=Knowing the main forms of dyskinesias\n|Description=Dyskinesias induced by L-dopa and neuroleptics\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=7}}\nThe term dyskinesias is most often used to describe choreic and/or dystonic movements. The term dyskinesia is usually reserved :\n\n- or to abnormal involuntary movements induced by L-dopa in Parkinson's disease: peak-dose (or mid-dose) dyskinesias or biphasic dyskinesias (beginning or end of dose);\n\n- or dyskinesias induced by antipsychotics, including acute dyskinesias (cervical dystonia, oculogyric seizures, trismus, more common in young subjects), late dyskinesias during prolonged treatment (oral-facial-masticatory dyskinesias causing problems with phonation, swallowing and poor dental condition) which are difficult to treat, and akathisia (incessant trampling).\n\nSee the CEN website: www.cen-neurologie.fr where videos are available",
+  "question": {
+    "question": "What are the main forms of dyskinesias?",
+    "option_a": "Choreic and dystonic movements induced by L-dopa in Parkinson's disease.",
+    "option_b": "Abnormal involuntary movements induced by antipsychotics, including acute dyskinesias and late dyskinesias.",
+    "option_c": "Muscle spasms and rigidity caused by physical trauma.",
+    "option_d": "Voluntary movements enhanced by physical exercise.",
+    "correct_option": "A"
+  }
+}

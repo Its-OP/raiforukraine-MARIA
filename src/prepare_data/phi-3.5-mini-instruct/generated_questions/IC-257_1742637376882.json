@@ -1,0 +1,22 @@
+{
+  "folder": "IC-257",
+  "content": "{{knowledge objective\n|Identifiant=OIC-257-01-A\n|Item_parent=Localised or generalised lower limb oedema\n|Item_parent_short=Localised or generalised oedema of the lower limbs\n|Rank=A\n|Intitle=Know the definition of oedema\n|Description=None\n|Rubric=Definition\n|Contributors=JJ Boffa,B Moulin\n|Order=1}}\n\nOedema is defined as the visible or palpable accumulation of fluid in the interstitial tissue.\n\nA distinction must be made between :\n\n* oedema caused locally by inflammation, venous or lymphatic insufficiency;\n* generalised oedema resulting from a positive sodium and water balance (extracellular hyperhydration). In the most severe forms, this is known as hydrops.",
+  "question": {
+    "properties": {
+      "question": "What is the primary distinction between localised and generalised oedema as defined in the context of lower limb conditions?",
+      "option_a": "Localised oedema is caused by positive sodium and water balance, while generalised oedema is due to inflammation or insufficiency.",
+      "option_b": "Generalised oedema results from extracellular hyperhydration, whereas localised oedema is caused by venous or lymphatic insufficiency or inflammation.",
+      "option_c": "Both localised and generalised oedema are primarily caused by genetic factors.",
+      "option_d": "Localised oedema is a psychological condition, while generalised oedema is due to excessive exercise.",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "folder": "IC-257",
+  "content": "{{knowledge objective\n|Identifiant=OIC-257-04-A\n|Item_parent=Localised or generalised oedema of the lower limbs\n|Item_parent_short=Localised or generalised oedema of the lower limbs\n|Rank=A\n|Intitle=Photographs: appearance of oedema due to fluid retention, bucket sign\n|Description=None\n|Rubric=Multimedia content\n|Contributors=Jean-Jacques Boffa,Bruno Moulin\n|Order=4}}\n\n[[File:Image oedema.png|vignette|\u0152dema of the lower limbs with bucket]]",
+  "question": {
+    "properties": {
+      "question": "What does the 'bucket sign' on a photograph of oedema in the lower limbs indicate?",
+      "option_a": "A bone fracture in the affected area",
+      "option_b": "A collection of fluid in the lower limbs resembling a bucket",
+      "option_c": "A sign of muscle atrophy due to prolonged immobility",
+      "option_d": "A pattern of skin discoloration unrelated to fluid retention",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

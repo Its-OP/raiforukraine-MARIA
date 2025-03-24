@@ -1,0 +1,12 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-21-B\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=B\n|Title=Knowing the therapeutic methods for upper genital infections in women\n|Description=None\n|Heading=Management\n|Contributors=\n|Order=21}}\nProbabilistic treatment: 2018 recommendations (CNGOF - SPILF) recommend:\n\n- Uncomplicated IGH: Ceftriaxone 1g IV/IM single dose + Doxycycline 100mg/12h po 10 days + Metronidazole 500mg/12h po 10 days\n\n\n- Gonococcus: Ceftriaxone (1 g/d, IV, 14 days).\n\n- Chlamydia: Doxycycline (100 mg/12 hours, \"per os\" or IV, 14 days).",
+  "question": {
+    "question": "According to the 2018 recommendations by CNGOF - SPILF, what is the appropriate treatment regimen for a patient with an uncomplicated IGH infection?",
+    "option_a": "Ceftriaxone 1g IV/IM single dose + Doxycycline 100mg/12h po 7 days + Metronidazole 500mg/12h po 7 days",
+    "option_b": "Ceftriaxone 1g IV/IM single dose + Doxycycline 100mg/12h po 10 days + Metronidazole 500mg/12h po 10 days",
+    "option_c": "Azithromycin 500mg/12h po 3 days + Doxycycline 100mg/12h po 10 days",
+    "option_d": "Ceftriaxone 250mg/12h po 10 days + Azithromycin 200mg/12h po 3 days",
+    "correct_option": "B"
+  }
+}

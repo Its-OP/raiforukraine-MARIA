@@ -1,0 +1,22 @@
+{
+  "folder": "IC-124",
+  "content": "{{knowledge objective\n|Identifiant=OIC-124-13-B\n|Item_parent=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)\n|Item_parent_short=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)\n|Rank=B\n|Title=Knowing how to provide information on educational and hygienic-dietary measures for menopausal women.\n|Description=None\n|Rubric=Management\n|Contributors=Florence Tr\u00e9mollieres,Anna Gosset\n|Order=13}}\n\nThe recommended dietary hygiene measures for menopausal women are\n\n* Avoidance of cardiovascular risk factors (tobacco, alcohol)\n* Increasing energy expenditure: regular physical activity\n* Moderate carbohydrate and fat energy intake.\n* Adequate calcium and vitamin D intake: supplementation if necessary, particularly in cases of osteoporosis.",
+  "question": {
+    "properties": {
+      "question": "Which of the following is NOT recommended as a dietary measure for menopausal women?",
+      "option_a": "Increasing intake of trans fats",
+      "option_b": "Moderate carbohydrate and fat energy intake",
+      "option_c": "Adequate calcium and vitamin D intake",
+      "option_d": "Regular physical activity",
+      "correct_option": "Increasing intake of trans fats"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

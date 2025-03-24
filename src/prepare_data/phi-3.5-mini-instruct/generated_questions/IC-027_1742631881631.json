@@ -1,0 +1,12 @@
+{
+  "folder": "IC-027",
+  "content": "{{knowledge objective\n|Identifiant=OIC-027-27-A\n|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Rank=A\n|Title=Knowing the diagnosis of antierythrocyte alloimmunisation\n|Description=Biological tests and their indications for diagnosing alloimmunisation\n|Rubric=Positive diagnosis\n|Contributors=Alexandre Vivanti, Philippe Deruelle\n|Order=27}}\nAll pregnant women should have their rhesus group phenotype determined and irregular agglutinins (antibodies) tested (RAI) during the 1st trimester of pregnancy.\n\nIn RhD-negative women (Rh-) or women who have previously received blood transfusions, IATs will be prescribed again at the 6th, 8th or 9th month.\n\nIn the event of a positive IAT, the antibody must be identified and titrated. Identification is used to determine whether the antibody in question is a risk factor for foetal or neonatal complications (anti-D in particular, but also anti-Kell, anti-c, etc.). Titration and weight assay are used to assess the affinity and quantity of the antibody.\n\n'''312. [[Prevention of foetal risks SD-312|Prevention of foetal risks]]''''",
+  "question": {
+    "question": "When should irregular agglutinins (antibodies) be tested in pregnant women, and what is the purpose of identifying and titrating a positive IAT result?",
+    "option_a": "Test during the first trimester to determine the mother's blood type.",
+    "option_b": "Test during the second trimester to decide on the mode of delivery.",
+    "option_c": "Test at 6th, 8th, or 9th month to identify and titrate antibodies that may pose a risk to the fetus.",
+    "option_d": "Test during labor to assess the baby's immune response.",
+    "correct_option": "C"
+  }
+}

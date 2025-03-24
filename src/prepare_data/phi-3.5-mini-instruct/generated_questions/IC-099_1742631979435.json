@@ -1,0 +1,22 @@
+{
+  "folder": "IC-099",
+  "content": "{{knowledge objective\n|Identifiant=OIC-099-17-B\n|Item_parent=Migraine, trigeminal neuralgia and facial pain\n|Item_parent_short=Migraine, trigeminal neuralgia and facial pain\n|Rank=B\n|Title=From a video interview, evoke the diagnosis of migraine, facial vascular pain, trigeminal neuralgia.\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=17}}\nPlease refer to the CEN website: www.cen-neurologie.fr where videos are available.",
+  "question": {
+    "properties": {
+      "question": "In a video interview discussing neurological conditions, which diagnosis is primarily associated with episodic, severe facial pain often triggered by touch or temperature changes?",
+      "option_a": "Migraine with aura",
+      "option_b": "Trigeminal neuralgia",
+      "option_c": "Cluster headache",
+      "option_d": "Tension-type headache",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

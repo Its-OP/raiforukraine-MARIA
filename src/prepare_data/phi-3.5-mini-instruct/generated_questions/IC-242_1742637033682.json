@@ -1,0 +1,22 @@
+{
+  "folder": "IC-242",
+  "content": "{{knowledge objective\n|Identifiant=OIC-242-08-B\n|Item_parent=Hyperthyroidism\n|Item_parent_short=Hyperthyroidism\n|Rank=B\n|Title=Knowing the indications for thyroid scintigraphy and ultrasonography\n|Description=Etiological diagnosis of hyperthyroidism\n|Section=Additional examinations\n|Contributors=Dr Camille Buffet,Dr Magalie Haissaguerre\n|Order=8}}\n\n[[File:Place of ultrasound and thyroid scintigraphy in the aetiological approach to hyperthyroidism.jpg|vignette]]",
+  "question": {
+    "properties": {
+      "question": "In the aetiological diagnosis of hyperthyroidism, which imaging modality is primarily used to assess the size and structure of the thyroid gland?",
+      "option_a": "Thyroid scintigraphy",
+      "option_b": "Ultrasonography",
+      "option_c": "Magnetic Resonance Imaging (MRI)",
+      "option_d": "Computed Tomography (CT) Scan",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

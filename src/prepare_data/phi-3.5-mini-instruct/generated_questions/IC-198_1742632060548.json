@@ -1,0 +1,22 @@
+{
+  "folder": "IC-198",
+  "content": "{{knowledge objective\n|Identifiant=OIC-198-06-B\n|Item_parent=Microcrystalline arthropathies\n|Item_parent_short=Microcrystalline arthropathies\n|Rank=B\n|Title=Radiography of the pelvis: calcifications of the pubic symphysis and femoral cartilages\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=6}}\n<gallery widths=\"401\" heights=\"400\">\nFile:Pelvis radiography femoral cartilage calcifications .PNG|Pelvis radiography: femoral cartilage calcifications.\n</gallery><gallery widths=\"400\" heights=\"400\">\nFile:Radiography of pelvis calcifications of the pubic symphysis .PNG|Radiography of pelvis: calcifications of the pubic symphysis\n</gallery>",
+  "question": {
+    "properties": {
+      "question": "In radiography of the pelvis, which location is most commonly associated with calcifications that can be mistaken for pathological conditions?",
+      "option_a": "Lumbar vertebrae",
+      "option_b": "Pubic symphysis",
+      "option_c": "Hip joint cartilages",
+      "option_d": "Knee joint",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "folder": "IC-020",
+  "content": "{{knowledge objective\n|Identifiant=OIC-020-15-B\n|Item_parent=Health research methodology\n|Item_parent_short=Health research methodology\n|Rank=B\n|Title=Implementing good practice in the use of health informatics to support clinical research and in particular clinical trials\n|Description=Health informatics and clinical research\n|Section=Support\n|Contributors=Julie Berbis (CUESP),Rosy Tsopras (CIMES),Pascal Staccini (CIMES)\n|Order=15}}\n\nHealth data is personal data and is considered sensitive. It is subject to special protection under the law (European regulation on the protection of personal data - RGPD, Loi Informatique et Libert\u00e9s, Code de la sant\u00e9 publique, etc.) in order to guarantee respect for the privacy of individuals.",
+  "question": {
+    "properties": {
+      "question": "Under European regulations, how is health data classified in relation to personal data protection?",
+      "option_a": "As non-sensitive data that can be freely shared without consent.",
+      "option_b": "As sensitive data that requires special protection to respect individual privacy.",
+      "option_c": "As public data that is exempt from personal data protection laws.",
+      "option_d": "As general information that does not require any specific handling according to privacy laws.",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

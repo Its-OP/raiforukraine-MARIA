@@ -1,0 +1,22 @@
+{
+  "folder": "IC-176",
+  "content": "{{knowledge objective\n|Identifiant=OIC-176-05-A\n|Item_parent=Infectious diarrhoea in adults and children\n|Item_parent_short=Infectious diarrhoea in adults and children\n|Rank=A\n|Title=Know how to diagnose choleriform, dysenteric and gastroenteric syndrome.\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Alexis de Rougemont,Christophe Deschamps, Johann Cailhol\n|Order=5}}\n\nCf [[Know the elements of aetiological orientation of acute infectious diarrhoea|table]]\n\nIn children, viral watery diarrhoea is often accompanied by fever (especially rotavirus).\n\nClostridium difficile diarrhoea is rare in children and (almost) non-existent before the age of 4 because of the absence of a toxin receptor. On the other hand, children are readily colonised by C. difficile, including toxin-secreting organisms. it is therefore unnecessary to test young children for C. difficile.",
+  "question": {
+    "properties": {
+      "question": "Which of the following statements is correct regarding Clostridium difficile diarrhoea in children?",
+      "option_a": "C. difficile diarrhoea is common in children under the age of 4 due to the presence of a toxin receptor.",
+      "option_b": "C. difficile diarrhoea is rare in children and almost non-existent before the age of 4 because of the absence of a toxin receptor.",
+      "option_c": "C. difficile diarrhoea is equally common in children and adults, regardless of age.",
+      "option_d": "C. difficile diarrhoea is only found in children with a history of antibiotic use.",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

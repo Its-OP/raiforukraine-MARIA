@@ -1,0 +1,22 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-32-A\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=A\n|Title=Knowing the compulsory medical examinations for infants and children.\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=32}}\n20 compulsory examinations: day 8 (certificate no. 1): during the first 8 days, 14 days (2<sup>th</sup> week), 1 month, 2 months, 3 months, 4 months, 5 months, 6 months, 9 months (certificate no. 2), 12 months, 13 months, 16-18 months, 24-25 months (certificate no. 3), 3 years, 4 years, 5 years, 6 years, 8-9 years, 11-13 years, 15-16 years",
+  "question": {
+    "properties": {
+      "question": "At what age is the compulsory medical examination for visual abnormalities typically scheduled?",
+      "option_a": "8 days",
+      "option_b": "1 month",
+      "option_c": "16-18 months",
+      "option_d": "5 years",
+      "correct_option": "b"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

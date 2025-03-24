@@ -1,0 +1,12 @@
+{
+  "folder": "IC-267",
+  "content": "{{knowledge objective\n|Identifiant=OIC-267-34-A\n|Item_parent=Disorders of acid-base equilibrium and hydro-electrolytic disorders\n|Item_parent_short=Disorders of acid-base balance and fluid and electrolyte disorders\n|Rank=A\n|Title=Know when to prescribe blood calcium levels and define hypocalcaemia.\n|Description=Threshold, interpretation according to albumin level, ionised calcaemia\n|Rubric=Definition\n|Contributors=P Rieu; B Moulin; M Flamant\n|Order=34}}\n\n\n*Definitions\n**Total hypocalcaemia is defined as a plasma concentration of less than 2.20 mmol/L, and ionised hypocalcaemia as a concentration of less than 1.15 mmol/L.\n**<A distinction must be made between true hypocalcaemia, with a decrease in ionised calcium (regulated fraction), and false hypocalcaemia due to a decrease in the protein-bound fraction. More than 40% of serum calcium is bound to proteins, mainly albumin. In the case of hypoalbuminemia: corrected Ca = (40 - albumin) \u00d7 0.025 + [total Ca].\n\n<br />\n\n*Calcemia measurement to look for hypocalcemia when :\n**symptoms suggestive of hypocalcaemia (neuromuscular disorders, cardiac disorders)\n**pathology at risk of hypocalcaemia (chronic renal failure, history of parathyroid surgery).",
+  "question": {
+    "question": "When should blood calcium levels be prescribed and interpreted to define hypocalcaemia?",
+    "option_a": "When total plasma calcium is less than 2.20 mmol/L, regardless of albumin levels.",
+    "option_b": "When ionised calcium is less than 1.15 mmol/L, considering albumin adjustment for hypoalbuminemia.",
+    "option_c": "When total plasma calcium is less than 1.15 mmol/L, without considering albumin levels.",
+    "option_d": "When ionised calcium is greater than 2.20 mmol/L, indicating hypercalcemia.",
+    "correct_option": "B"
+  }
+}

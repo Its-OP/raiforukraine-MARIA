@@ -1,0 +1,22 @@
+{
+  "folder": "IC-101",
+  "content": "{{knowledge objective\n|Identifiant=OIC-101-09-B\n|Item_parent=Facial paralysis\n|Item_parent_short=Facial paralysis\n|Rank=B\n|Title=Photograph/video of post-paralytic facial hemispasm\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=9}}\nPlease refer to the CEN website: www.cen-neurologie.fr where videos are available.",
+  "question": {
+    "properties": {
+      "question": "In the context of post-paralytic facial hemispasm, what is the primary purpose of analyzing a photograph/video?",
+      "option_a": "To assess the patient's ability to smile symmetrically",
+      "option_b": "To evaluate the effectiveness of facial muscle retraining exercises",
+      "option_c": "To determine the presence and severity of hemispasm",
+      "option_d": "To monitor changes in facial skin texture over time",
+      "correct_option": "C"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

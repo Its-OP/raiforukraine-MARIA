@@ -1,0 +1,12 @@
+{
+  "folder": "IC-284",
+  "content": "{{knowledge objective\n|Identifiant=OIC-284-04-A\n|Item_parent=Functional colorectal disease\n|Item_parent_short=Functional colopathy\n|Rank=A\n|Title=Knowing the clinical features\n|Description=Characterisation of abdominal pain and transit disorders\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=4}}\nThe main symptom reported is chronic abdominal pain, spasm-like, most often localised in the left iliac fossa or hypogastrium (but may be present over the entire colonic frame), usually not present at night and may be exacerbated by eating. It is intermittent and occurs in fits and starts. It is often aggravated by episodes of stress or anxiety and subsides during periods of rest, such as holidays. The pain is linked to transit (improvement or worsening after defecation).\n\nAbdominal bloating and a subjective feeling of fullness or abdominal discomfort are very often associated.\n\n           The second key symptom of the disease is transit disorders. This may be constipation, clinically defined as fewer than 3 bowel movements per week, hard stools or difficulty in evacuating. There may be diarrhoea, defined as frequent stools, i.e. at least 3 a day (often postprandial, soft to liquid). These bowel movements may be urgent, and some patients develop toilet-seeking syndrome (locating available toilets in anticipation of a journey), or alternating diarrhoea and constipation.\n\n\n           IBS is often associated with other functional symptoms. These include functional dyspepsia with the presence of upper gastrointestinal symptoms (early satiety, pyrosis, epigastric heaviness), fibromyalgia (diffuse myalgias and arthralgias with no organic substrate) and chronic fatigue syndrome.",
+  "question": {
+    "question": "Which of the following is NOT a characteristic symptom of functional colorectal disease?",
+    "option_a": "Chronic abdominal pain localized in the left iliac fossa, spasm-like, and intermittent.",
+    "option_b": "Transit disorders, including constipation or diarrhoea, and urgency.",
+    "option_c": "Frequent upper respiratory infections.",
+    "option_d": "Association with other functional symptoms like functional dyspepsia and fibromyalgia.",
+    "correct_option": "C"
+  }
+}

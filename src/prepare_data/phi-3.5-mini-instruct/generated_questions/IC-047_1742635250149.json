@@ -1,0 +1,12 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-35-A\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=A\n|Title=Know the components of the health record and their usefulness.\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=35}}\n<br /><references />Carnet de sant\u00e9 2018<ref>[https://solidarites-sante.gouv.fr/IMG/pdf/carnet_de_sante-num-.pdf Carnet de sant\u00e9 in its latest update (2018)]</ref>\n\nPersonal and family history, allergies\n\nNeonatal data: prenatal monitoring, delivery, term, adaptation to extra-uterine life, maternity monitoring, feeding, weight gain, stool colouring, etc.\n\nFollow-up data with summary of examination and conclusions (follow-up consultations, acute conditions)\n\nGrowth: weight, height, CP, BMI curves, growth rate\n\nOral health\n\nHospitalisation, irradiating examinations, blood products\n\nVaccinations (CERFA) and infectious diseases\n\nThroughout the booklet: advice on childcare, nutrition, parenting, etc.",
+  "question": {
+    "question": "What is NOT typically included in a comprehensive health record for children and adolescents according to the Carnet de sant\u00e9 guidelines?",
+    "option_a": "Personal and family medical history",
+    "option_b": "Details of vaccinations and infectious diseases",
+    "option_c": "Information on the child's favorite video games",
+    "option_d": "Growth measurements including weight and height",
+    "correct_option": "C"
+  }
+}

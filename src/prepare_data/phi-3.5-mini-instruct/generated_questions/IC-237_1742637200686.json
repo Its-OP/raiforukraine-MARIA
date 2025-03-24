@@ -1,0 +1,12 @@
+{
+  "folder": "IC-237",
+  "content": "{{knowledge objective\n|Identifiant=OIC-237-03-A\n|Item_parent=Palpitations\n|Item_parent_short=Palpitations\n|Rank=A\n|Title=Knowing the concept of electro-clinical parallelism\n|Description=correlation between ECG and clinic, strategy for demonstrating ECG diagnosis\n|Topic=Positive diagnosis\n|Contributors=Arnaud Bisson\n|Order=3}}\n'''There are two types of ECG recording:'''\n\n* The '''percritical''' ECG:'''\n** i.e. concomitant with palpitations, allows an electroclinical correlation to be established. This is the only way of obtaining a definite diagnosis.\n** Because palpitations are often transient in nature, it is rarely obtained on admission to the emergency department or on consultation.\n** If it cannot be obtained during the initial treatment, a ''Holter ECG'' is performed, with a recording time of 24 to 96 hours in the case of frequent palpitations (>1/week) or a ''long-term ambulatory ECG'' (7 to 21 days) in the case of less frequent symptoms.\n** If triggering circumstances are identified, a recording should be made under the usual conditions in which the palpitations occur, to make the examination more sensitive (e.g. stress test).\n* The ''inter-critical'' ECG\n** Carried out without palpitations, the ECG is often normal.\n** However, it can also provide clues as to the mechanism of the palpitations (e.g. ST segment elevation, ventricular pre-excitation, etc.).",
+  "question": {
+    "question": "When attempting to establish a definitive diagnosis for palpitations, which type of ECG recording is considered essential due to its concomitance with palpitations?",
+    "option_a": "Inter-critical ECG",
+    "option_b": "Percritical ECG",
+    "option_c": "Long-term ambulatory ECG",
+    "option_d": "Stress test ECG",
+    "correct_option": "B"
+  }
+}

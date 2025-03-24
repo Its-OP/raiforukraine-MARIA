@@ -1,0 +1,22 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-04-B\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=B\n|Title=Knowing the toxicity of nicotine, tars and tobacco smoke\n|Description=None\n|Topic=Physiopathology\n|Contributors=\n|Order=4}}\n\n\n* One cigarette = 7,000 compounds, 69 of which are carcinogenic.\n* Nicotine is not considered to be carcinogenic.\n* Nicotine is the main agent responsible for addiction.\n* Tars (carcinogenic) cause epithelial cell changes (but will be replaced by healthy cells if you stop).\n* Free radicals from smoke stimulate degradation of the alveolar wall and inhibit protective enzymes.\n* Carbon monoxide (CO) causes cardiovascular problems.",
+  "question": {
+    "properties": {
+      "question": "Which of the following substances found in tobacco smoke is not considered carcinogenic?",
+      "option_a": "Tars",
+      "option_b": "Nicotine",
+      "option_c": "Carbon monoxide",
+      "option_d": "7,000 compounds",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

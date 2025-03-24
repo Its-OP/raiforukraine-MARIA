@@ -1,0 +1,22 @@
+{
+  "folder": "IC-187",
+  "content": "{{knowledge objective\n|Identifiant=OIC-187-04-A\n|Item_parent=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Item_parent_short=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Rank=A\n|Intitle=Photography of a urticaria\n|Description=Photo of edematous patches of urticaria\n|Rubric=Multimedia content\n|Contributors=\n|Order=4}}\n\n[[File:Figure 7 .png|centre|thumb|''edematous papules of urticaria'']]\nSee also Figure 5.",
+  "question": {
+    "properties": {
+      "question": "What is the primary characteristic of urticaria visible in the provided photo?",
+      "option_a": "Red, raised, itchy welts on the skin",
+      "option_b": "Dry, flaky skin patches",
+      "option_c": "White, scaly lesions",
+      "option_d": "Bluish, swollen areas of the skin",
+      "correct_option": "A"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

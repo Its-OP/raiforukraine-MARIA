@@ -1,0 +1,22 @@
+{
+  "folder": "IC-109",
+  "content": "{{knowledge objective\n|Identifiant=OIC-109-05-A\n|Item_parent=Gait and balance disorders\n|Item_parent_short=Gait and balance disorders\n|Rank=A\n|Title=Know how to diagnose lameness (clinical examination, diagnostic approach)\n|Description=Clinical and video evidence in favour of a lameness in dodging, saluting and Trendelebourg.\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=5}}\nClinical and video evidence in favour of eschewing, saluting and Trendelebourg lameness",
+  "question": {
+    "properties": {
+      "question": "What is the correct clinical observation to diagnose lameness in a horse during a clinical examination?",
+      "option_a": "Noticeable limping during saluting",
+      "option_b": "Absence of lameness during dodging and Trendelebourg",
+      "option_c": "Visible discomfort when trotting on hard ground",
+      "option_d": "Normal gait observed during all activities",
+      "correct_option": "a"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

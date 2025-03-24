@@ -1,0 +1,12 @@
+{
+  "folder": "IC-186",
+  "content": "{{knowledge objective\n|Identifiant=OIC-186-14-A\n|Item_parent=Hypersensitivities and allergies in children and adults: physiopathological, epidemiological and diagnostic aspects and principles of treatment\n|Item_parent_short=Hypersensitivities and allergies in children and adults: pathophysiological, epidemiological and diagnostic aspects and principles of treatment\n|Rank=A\n|Title=Knowing the principles of therapeutic education in food allergy (PAI, indication for auto-injectable adrenaline...)\n|Description=None\n|Topic=Follow-up and/or prognosis\n|Contributors=\n|Order=14}}\nTherapeutic education is a ''fundamental aspect of the management of food allergy''. It aims to empower allergic patients (and/or their families in the case of children) and is part of the secondary prevention of allergy.\n\n\n- In the ''avoidance diet'' of allergens (learning to read labels for processed foods, identifying high-risk foods)\n\n- In the '''' use of the emergency kit''': assessment of symptoms leading to its use, definition of what to do, learning how to handle products, in particular self-injectable adrenaline (pen)\n\n- The emergency kit contains :\n\no H1 antihistamines and oral corticosteroids, bronchodilators if there is a history of bronchospasm, auto-injectable adrenaline if there is a history of or risk of anaphylaxis.\n\n\nThe ''projet d'accueil individualis\u00e9'' (PAI), in the case of a child, is drawn up at the request of the parents. The PAI is a ''waiver of doctor-patient confidentiality'' and makes it possible to draw up: 1) a list of dietary restrictions to be observed, 2) a treatment protocol in the event of an accidental allergic reaction at school or during the children's extra-curricular activities.\n\n<br />",
+  "question": {
+    "question": "What is a key component of therapeutic education in managing food allergies?",
+    "option_a": "Understanding the nutritional value of various foods to improve diet.",
+    "option_b": "Learning to read food labels for processed foods and identifying high-risk foods.",
+    "option_c": "Developing a personalized exercise regimen to boost immune response.",
+    "option_d": "Taking regular antihistamines to prevent allergic reactions.",
+    "correct_option": "B"
+  }
+}

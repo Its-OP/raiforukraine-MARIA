@@ -1,0 +1,22 @@
+{
+  "folder": "IC-364",
+  "content": "{{knowledge objective\n|Identifiant=OIC-364-01-A\n|Item_parent=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Item_parent_short=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Rank=A\n|Title=General information on fractures: understanding typical fractures in children\n|Description=Familiarising children with typical fractures\n|Rubric=Definition\n|Contributors=Bruno Dohin\n|Order=1}}\n\nKnowledge of epiphyseal fracture-decollement according to the Salter and Harris classification\n\nBe familiar with the types of fracture specific to children: subperiosteal, green wood, butterball, etc.\n\nKnowing about apophyseal avulsion fractures<br />.",
+  "question": {
+    "properties": {
+      "question": "According to the Salter and Harris classification, which type of fracture is characterized by a separation along the growth plate and is most common in children?",
+      "option_a": "Greenwood fracture",
+      "option_b": "Butterball fracture",
+      "option_c": "Epiphyseal fracture-decollement",
+      "option_d": "Apophyseal avulsion fracture",
+      "correct_option": "c"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

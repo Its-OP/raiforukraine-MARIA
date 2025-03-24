@@ -1,0 +1,22 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-25-A\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=A\n|Title=Knowing the purpose of pelvic ultrasound and radiography of the hand and wrist in pathological puberty\n|Description=None\n|Rubric=Additional examinations\n|Contributors=\n|Order=25}}\nPelvic ultrasound in girls to rule out an ovarian tumour/cyst and measure uterine length (if > 35 mm, oestrogen impregnation=early puberty).\n\nThe purpose of a wrist X-ray is to measure bone age\n\n\n\n<br />",
+  "question": {
+    "properties": {
+      "question": "What is the primary purpose of conducting a pelvic ultrasound and radiography of the hand and wrist in cases of pathological puberty?",
+      "option_a": "To diagnose potential thyroid issues",
+      "option_b": "To rule out an ovarian tumor/cyst and measure uterine length (if > 35 mm, indicating early puberty)",
+      "option_c": "To assess the presence of bone abnormalities in the hand and wrist",
+      "option_d": "To determine the nutritional status of the patient",
+      "correct_option": "b"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

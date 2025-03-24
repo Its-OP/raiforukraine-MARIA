@@ -1,0 +1,22 @@
+{
+  "folder": "IC-188",
+  "content": "{{knowledge objective\n|Identifiant=OIC-188-11-B\n|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Rank=B\n|Title=Knowing the PR semiology of thoracic distension\n|Description=Hyperclarity of the lung fields with flattening of the diaphragmatic cupolas and horizontalization of the ribs.\n|Rubric=Multimedia content\n|Contributors=\n|Order=11}}\ncf identical chapter in item COPD",
+  "question": {
+    "properties": {
+      "question": "In a chest X-ray showing hyperclarity of lung fields with flattening of the diaphragmatic cupolas and horizontalization of the ribs, which condition is most likely indicated?",
+      "option_a": "Pneumothorax",
+      "option_b": "Asthma",
+      "option_c": "Pulmonary edema",
+      "option_d": "Chronic obstructive pulmonary disease (COPD)",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

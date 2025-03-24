@@ -1,0 +1,22 @@
+{
+  "folder": "IC-102",
+  "content": "{{knowledge objective\n|Identifiant=OIC-102-07-A\n|Item_parent=Diplopia\n|Item_parent_short=Diplopia\n|Rank=A\n|Title=Photography/video of VI paralysis\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=7}}\n\n[[File:VI.jpg|left|vignette|666x666px|Paralysis of the right VI: abolition of abduction of the right eye]]",
+  "question": {
+    "properties": {
+      "question": "In a patient with right VI paralysis, what is the expected effect on eye movement when looking to the left?",
+      "option_a": "The right eye will exhibit normal abduction.",
+      "option_b": "The right eye will show limited adduction.",
+      "option_c": "The left eye will exhibit normal adduction.",
+      "option_d": "The patient will experience diplopia due to the inability of the right eye to move laterally.",
+      "correct_option": "d"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

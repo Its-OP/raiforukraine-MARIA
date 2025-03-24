@@ -1,0 +1,46 @@
+{
+  "folder": "IC-086",
+  "content": "{{knowledge objective\n|Identifiant=OIC-086-07-A\n|Item_parent=Eyelid pathology\n|Item_parent_short=Eyelid pathology\n|Rank=A\n|Title=Photograph of a chalazion\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=7}}\n\n[[File:Chalazion interne.jpg|left|vignette|Chalazion with internal extension to the eyelid (tarsal surface)]]\n\n[[File:Chalazion externe.jpg|gauche|vignette|Chalazion with extension to the outer surface of the eyelid (cutaneous surface)]]",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Question",
+        "description": "What is the primary difference between a chalazion and a hordeolum (stye) as seen in the photographs?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Option A",
+        "description": "A chalazion is an infection of the eyelid, while a hordeolum is a blockage of the meibomian gland.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Option B",
+        "description": "A chalazion is typically painful, whereas a hordeolum is usually painless.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Option C",
+        "description": "A chalazion is caused by an infection of the meibomian gland, while a hordeolum is caused by an external staphylococcus bacterial infection.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Option D",
+        "description": "A chalazion typically presents as a painless, localized swelling within the eyelid, whereas a hordeolum is a painful, localized swelling at the edge of the eyelid.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "D",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

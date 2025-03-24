@@ -1,0 +1,12 @@
+{
+  "folder": "IC-124",
+  "content": "{{knowledge objective\n|Identifiant=OIC-124-18-B\n|Item_parent=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)\n|Item_parent_short=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)\n|Rank=B\n|Title=Know the main differential diagnoses of age-related androgen deficiency.\n|Description=None\n|Topic=Positive diagnosis\n|Contributors=Benjamin Pradere\n|Order=18}}\n\n==When a TDS is mentioned, differential diagnoses must be ruled out because the clinical symptoms are not very specific :==\n\n*Thyroid pathology: ''[[Hypothyroidism|Hypothyroidism 243]]''''\n*[[Pituitary adenoma|A hypothalamic central involvement 244]]\n*A [[Pituitary adenoma|A hypothalamic central involvement 244]]: '''prolactin adenoma''''\n*Iatrogenic hypogonadism (spironolactone, ketoconazole, flutamide, cyproterone etc.)\n*Hypogonadism secondary to another pathology (haemochromatosis, Cushing's disease, [[Cirrhosis and complications|cirrhosis 279]], [[Childhood and adult obesity (see item 71)|pathological obesity 253]], [[Pituitary adenoma|Hypopituitarism 244]] etc.).\n*Natural ageing 123\n\nIn the event of a confirmed diagnosis of TDS, initial treatment will be based on natural testosterone supplementation via the transdermal or intramuscular route. The management of all symptoms secondary to TDS must not be forgotten ([[Normal ageing: biological, functional and relational aspects. Epidemiological and sociological data. Prevention of pathological ageing|osteoporosis 123]], [[Brittle osteopathies|128]], [[Cardiovascular risk factors and prevention|metabolic syndrome 222]] etc.).",
+  "question": {
+    "question": "Which of the following is NOT a differential diagnosis for age-related androgen deficiency (TDS)?",
+    "option_a": "Hypothyroidism",
+    "option_b": "Prolactin adenoma",
+    "option_c": "Iatrogenic hypogonadism",
+    "option_d": "Diabetes Mellitus",
+    "correct_option": "D"
+  }
+}

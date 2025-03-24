@@ -1,0 +1,12 @@
+{
+  "folder": "IC-070",
+  "content": "{{knowledge objective\n|Identifiant=OIC-070-06-A\n|Item_parent=Psychological disorders in the elderly\n|Item_parent_short=Psychological disorders in the elderly\n|Rank=A\n|Title=Knowing the semiology of psycho-behavioural symptoms in the demented elderly subject\n|Description=Send item 108\n|Rubric=Positive diagnosis\n|Contributors=Pierre Vandel,Marie Tournier\n|Order=6}}\n\n'''Different possible symptoms:''''\n\nDelusions either of persecution or of disturbed identification. Most frequent visual hallucinations. Depressive symptoms, apathy, anxiety symptoms and euphoria [[Semiology of psycho-behavioural symptoms in the elderly demented patient 2C-070-DP-A02#%20msocom%201|[mt1]]]. Agitation, aggressiveness and inversion of the nycthemeral rhythm are also common.\n\nSystematic assessment of BPSD in dementia. Diagnostic approach with identification of the type of BPSD, context, severity and impact. Aetiological investigation, as it is often multifactorial. General medical and paraclinical clinical examination. Think about pain, bladder globe, faecal impaction, infection, change of environment and stress factors...\n----[[Semiology of psycho-behavioural symptoms in the demented elderly patient 2C-070-DP-A02#%20msoanchor%201|[mt1]]]Agitation, aggression, inversion of the nycthemeral rhythm are not included?",
+  "question": {
+    "question": "Which of the following is NOT commonly observed as a behavioral and psychological symptom of dementia (BPSD) in elderly patients?",
+    "option_a": "Delusions of persecution",
+    "option_b": "Agitation",
+    "option_c": "Inversion of the nycthemeral rhythm",
+    "option_d": "Improved cognitive function",
+    "correct_option": "D"
+  }
+}

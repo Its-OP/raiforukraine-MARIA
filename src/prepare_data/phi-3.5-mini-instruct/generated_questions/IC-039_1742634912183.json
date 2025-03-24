@@ -1,0 +1,12 @@
+{
+  "folder": "IC-039",
+  "content": "{{knowledge objective\n|Identifiant=OIC-039-05-B\n|Item_parent=Medical assistance for procreation: the main biological, medical and ethical aspects\n|Item_parent_short=Medical assistance in procreation: the main biological, medical and ethical aspects\n|Rank=B\n|Title=Knowing the frequency of recourse to MAP in France\n|Description=None\n|Rubric=Epidemiology\n|Contributors=Patricia Fauque,Fabrice Guerif,Charlotte Sonigo,Geoffroy Robin,Pierre-Emmanuel Bouet,St\u00e9phanie Huberlant,Nathalie Rives\n|Order=5}}\n\n'''Around 1 in 4 to 6 couples''' seek help for infertility in France today.\n\n\nIn 2021, according to figures from the Agence de la Biom\u00e9decine, there will be :\n\n- just over 48,000 IUI attempts\n\n- just over 62,000 oocyte retrievals with a view to IVF +/- ICSI\n\n- just over 28,000 births after MAP, i.e. ''3.7% of births in France''.\n\n<br />",
+  "question": {
+    "question": "What percentage of births in France in 2021 were a result of Medical Assisted Procreation (MAP)?",
+    "option_a": "2.7%",
+    "option_b": "3.0%",
+    "option_c": "3.7%",
+    "option_d": "4.2%",
+    "correct_option": "C"
+  }
+}

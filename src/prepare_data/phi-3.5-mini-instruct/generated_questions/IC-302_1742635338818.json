@@ -1,0 +1,22 @@
+{
+  "folder": "IC-302",
+  "content": "{{knowledge objective\n|Identifiant=OIC-302-16-B\n|Item_parent=Cutaneous, epithelial and melanoma tumours\n|Item_parent_short=Cutaneous, epithelial and melanoma tumours\n|Rank=B\n|Title=Photograph of a squamous cell carcinoma\n|Description=Photograph of a typical squamous cell carcinoma\n|Rubric=Multimedia content\n|Contributors=\n|Order=16}}\n\n[[File:FIgure D.jpg|vignette|Squamous cell carcinoma: irregular ulcerative-vegetative tumour, covered with crusts, with inflammatory margins and indurated base. ]]",
+  "question": {
+    "properties": {
+      "question": "What is a characteristic feature of the presented squamous cell carcinoma in the provided photograph?",
+      "option_a": "A uniform, smooth, and flat surface with no signs of inflammation",
+      "option_b": "An irregular, ulcerative-vegetative tumour with crusts and inflammatory margins",
+      "option_c": "A well-circumscribed, small, and non-ulcerative lesion",
+      "option_d": "A large, cystic lesion with clear fluid and no surface irregularities",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-37-B\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=B\n|Title=Photograph of a condyloma\n|Description=Photography of a condyloma\n|Rubric=Multimedia content\n|Contributors=\n|Order=37}}\n<gallery>\nFile:Condyloma LISA.jpg|Condylomata acuminata on the labia majora\n</gallery>",
+  "question": {
+    "properties": {
+      "question": "What is the primary cause of condyloma acuminata, as seen in the photograph provided?",
+      "option_a": "Herpes simplex virus",
+      "option_b": "Human papillomavirus (HPV)",
+      "option_c": "Syphilis bacterium",
+      "option_d": "Trichomoniasis protozoa",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

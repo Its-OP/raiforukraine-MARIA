@@ -1,0 +1,22 @@
+{
+  "folder": "IC-235",
+  "content": "{{knowledge objective\n|Identifiant=OIC-235-13-A\n|Item_parent=Acute pericarditis\n|Item_parent_short=Acute pericarditis\n|Rank=A\n|Title=Know how to list the main complications of acute pericarditis\n|Description= Abundant pericardial effusion, tamponade, myocarditis, recurrent pericarditis, chronic pericarditis, constrictive pericarditis.\n|Rubric=Follow-up and/or prognosis\n|Contributors=Jennifer Cautela\n|Order=13}}\n\n\n* '''Myocarditis = myo-pericarditis:''''\n** elevation of troponin\n** diagnosis on cardiac MRI (subepicardial enhancement),\n** risk of heart failure and ventricular rhythm disorders\n\n* '''Tamponnade'''\n* Recurrence (frequent in benign acute viral pericarditis)\n* Pericardial constriction = chronic calcifying pericarditis, progressive evolution towards right heart failure, diagnosed on right catheterisation (dip plateau, equalisation of diastolic pressures).",
+  "question": {
+    "properties": {
+      "question": "Which of the following is NOT a main complication of acute pericarditis?",
+      "option_a": "Abundant pericardial effusion",
+      "option_b": "Tamponade",
+      "option_c": "Elevation of troponin",
+      "option_d": "Chronic obstructive pulmonary disease (COPD)",
+      "correct_option": "COPD"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

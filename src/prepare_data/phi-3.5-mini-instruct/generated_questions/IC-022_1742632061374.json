@@ -1,0 +1,22 @@
+{
+  "folder": "IC-022",
+  "content": "{{knowledge objective\n|Identifiant=OIC-022-01-A\n|Item_parent=Rare diseases\n|Item_parent_short=Rare diseases\n|Rank=A\n|Title=Knowing the definition of a rare disease\n|Description=A rare disease has a prevalence of < 1/2000. 80% of rare diseases are genetic in origin.\n|Rubric=Definition\n|Contributors=Sylvie Odent\n|Order=1}}\n\nRare disease: a disease that affects less than one person in 2,000 in the general population (definition from the European Regulation on Orphan Medicinal Products).",
+  "question": {
+    "properties": {
+      "question": "What is the prevalence threshold for a disease to be classified as 'rare' according to the European Regulation on Orphan Medicinal Products?",
+      "option_a": "One person in 1,000",
+      "option_b": "One person in 2,000",
+      "option_c": "One person in 5,000",
+      "option_d": "One person in 10,000",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

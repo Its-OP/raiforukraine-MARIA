@@ -1,0 +1,22 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-11-B\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=B\n|Title=Knowing the clinical signs of an upper genital infection in women (salpingitis, endometritis)\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=11}}\n- PID:\n\n- +/- fever\n\n- Pelvic pain, metrorrhagia, +/- leucorrhoea\n\n- Gynaecological examination: pain on vaginal touch, endocervical inflammation\n\n\n- Endometritis: fever +++, increased pelvic pain on VT, discharge from the cervical os",
+  "question": {
+    "properties": {
+      "question": "Which of the following is a common clinical sign of endometritis in women?",
+      "option_a": "Decreased pelvic pain on vaginal touch",
+      "option_b": "Fever +++, increased pelvic pain on vaginal touch, discharge from the cervical os",
+      "option_c": "Lack of leukorrhea",
+      "option_d": "Painless cervical examination",
+      "correct_option": "b"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "folder": "IC-027",
+  "content": "{{knowledge objective\n|Identifiant=OIC-027-23-B\n|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Rank=B\n|Title=Knowing the medicinal management of bacterial vaginosis\n|Description=Prescription of metronidazole\n|Rubric=Management\n|Contributors=Alexandre Vivanti, Philippe Deruelle\n|Order=23}}\nTreatment of bacterial vaginosis caused by Gardnerella vaginalis is based on oral metronidazole (1 g/d for 7 days or 2 g as a single dose). In view of the possibility of recurrence, it is recommended that the treatment be checked once every three months and repeated if necessary (HAS, 2001). As a matter of principle, any symptomatic bacterial vaginosis caused by Gardnerella vaginalis should be treated during pregnancy.",
+  "question": {
+    "properties": {
+      "question": "What is the recommended treatment for bacterial vaginosis caused by Gardnerella vaginalis during pregnancy?",
+      "option_a": "Oral clindamycin for 7 days",
+      "option_b": "Oral metronidazole for 7 days or 2 g as a single dose",
+      "option_c": "Intravenous vancomycin for 5 days",
+      "option_d": "Topical gentian violet for 3 days",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

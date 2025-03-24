@@ -1,0 +1,22 @@
+{
+  "folder": "IC-265",
+  "content": "{{knowledge objective\n|Identifiant=OIC-265-13-B\n|Item_parent=Urinary lithiasis\n|Item_parent_short=Urinary lithiasis\n|Rank=B\n|Title=Knowing the main metabolic abnormalities associated with calcium lithiasis\n|Description=Primary hyperparathyroidism, chronic hypercalcaemia, idiopathic hypercalciuria\n|Rubric=Etiologies\n|Contributors=Romain Boissier\n|Order=13}}\n\n'''The main metabolic abnormalities associated with calcium lithiasis are:''''\n\n* Hyperparathyroidism\n* Hypercalciuria\n* Hyperoxaluria\n* Renal tubular acidosis\n* Nephrocalcinosis\n* Granulomatosis\n\n<br />",
+  "question": {
+    "properties": {
+      "question": "Which of the following is NOT a main metabolic abnormality associated with calcium lithiasis?",
+      "option_a": "Primary hyperparathyroidism",
+      "option_b": "Chronic hypercalcaemia",
+      "option_c": "Idiopathic hypercalciuria",
+      "option_d": "Hypocalciuria",
+      "correct_option": "D"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

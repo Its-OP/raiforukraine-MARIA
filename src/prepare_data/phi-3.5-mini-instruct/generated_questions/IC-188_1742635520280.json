@@ -1,0 +1,22 @@
+{
+  "folder": "IC-188",
+  "content": "{{knowledge objective\n|Identifiant=OIC-188-16-A\n|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Rank=A\n|Title=Knowing the therapeutic principles of allergic rhinitis\n|Description=To understand the role of anti-histamines and corticosteroids in allergic rhinitis.\n|Rubric=Management\n|Contributors=\n|Order=16}}\n\n\n* Avoidance of the allergen\n* Nasal cleansing with saline solution\n* Medication (alone or in combination, depending on severity):\nOral and/or topical anti-histamines ** Rhinocorticoids\n** Rhinocorticoids",
+  "question": {
+    "properties": {
+      "question": "Which of the following is a recommended therapeutic principle for managing allergic rhinitis?",
+      "option_a": "Avoiding exposure to cold air at all times",
+      "option_b": "Nasal cleansing with saline solution",
+      "option_c": "Regular use of decongestant nasal sprays",
+      "option_d": "Increased exposure to the allergen to build tolerance",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

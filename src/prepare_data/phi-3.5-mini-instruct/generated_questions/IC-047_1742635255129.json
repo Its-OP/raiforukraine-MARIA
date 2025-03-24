@@ -1,0 +1,12 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-40-A\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=A\n|Title=Childhood mortality and morbidity\n|Description=including accidentology and according to age\n|Rubric=Epidemiology\n|Contributors=\n|Order=40}}\nMortality and morbidity in children, and more generally in children and adolescents, are a reflection of the overall state of health of a population.\n\nInfant mortality in 2019 = 3.6 per 1,000 live births, a rising trend in recent years whereas it is falling in other European countries ([[Prevention of unexplained infant death SD-318]])\n[[File:Causes mortality.png|neant|vignette|330x330px|Causes of mortality in children and young adults according to 2016 INSEE data]]\nMorbidity by age\n\n           Neonatal period: prematurity\n\n           Infants: respiratory infections, atopy (eczema, allergies, asthma)\n\n           Children: atopy, learning disabilities\n\n           Adolescents: mental disorders, behavioural problems, decompensation of chronic illnesses\n\nAll ages: the need for prevention and screening\n\nPreventive measures include obesity, abuse, psychological disorders, accidents and environmental exposure.\n<br />",
+  "question": {
+    "question": "According to the provided content, which of the following is NOT a common cause of morbidity in children and adolescents?",
+    "option_a": "Respiratory infections",
+    "option_b": "Atopy (eczema, allergies, asthma)",
+    "option_c": "Mental disorders",
+    "option_d": "Type 1 diabetes",
+    "correct_option": "d"
+  }
+}

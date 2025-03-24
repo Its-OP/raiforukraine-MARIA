@@ -1,0 +1,22 @@
+{
+  "folder": "IC-107",
+  "content": "{{knowledge objective\n|Identifiant=OIC-107-06-A\n|Item_parent=Anomalous movements\n|Item_parent_short=Anomalous movements\n|Rank=A\n|Title=Knowing the main expressions of tics\n|Description=Motor tics and vocal tics\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=6}}\nTics may be benign and isolated, occurring most often in childhood and not compromising socio-professional adaptation, or they may correspond to Tourette's disease defined by a combination of simple and complex motor and vocal tics present every day, having an impact on the patient's functioning and socio-professional adaptation, and sometimes associated with co-morbidities (obsessive-compulsive disorder, depression, anxiety, attention-deficit hyperactivity disorder, self-mutilation or autism).\n\nThe positive diagnosis of tic is based on clinical findings, as is the diagnosis of Tourette's syndrome.",
+  "question": {
+    "properties": {
+      "question": "Which of the following is NOT a characteristic of Tourette's syndrome?",
+      "option_a": "Simple and complex motor tics occurring daily",
+      "option_b": "Socio-professional impairment due to tics",
+      "option_c": "Tics that are present most often in childhood",
+      "option_d": "Tics that are always accompanied by obsessive-compulsive disorder",
+      "correct_option": "d"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

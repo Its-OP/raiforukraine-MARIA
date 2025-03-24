@@ -1,0 +1,22 @@
+{
+  "folder": "IC-245",
+  "content": "{{knowledge objective\n|Identifiant=OIC-245-18-B\n|Item_parent=Adrenal insufficiency in adults and children\n|Item_parent_short=Adrenal insufficiency in adults and children\n|Rank=B\n|Title=Knowing the causes of decompensation in treated adrenal insufficiency\n|Description=None\n|Rubric=Etiologies\n|Contributors=Claire Briet,St\u00e9phanie Espiard\n|Order=18}}\nAny intercurrent pathology (vomiting, diarrhoea, infection, fracture, myocardial infarction, surgery, anaesthesia, invasive diagnostic procedure, major physical effort, intense psychological stress, etc.) is a cause of decompensation of treated adrenal insufficiency.\n\nAnd the patient's failure to adapt hydrocortisone treatment sufficiently to these situations: Importance of therapeutic education in adrenal insufficiency.",
+  "question": {
+    "properties": {
+      "question": "What is a common cause of decompensation in treated adrenal insufficiency?",
+      "option_a": "Excessive physical exercise without adjusting hydrocortisone dosage",
+      "option_b": "Consuming a diet high in salt",
+      "option_c": "Vomiting or diarrhea not adequately managed with hydrocortisone adjustment",
+      "option_d": "Increased water intake",
+      "correct_option": "c"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

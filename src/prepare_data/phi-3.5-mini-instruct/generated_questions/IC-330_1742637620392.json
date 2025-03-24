@@ -1,0 +1,12 @@
+{
+  "folder": "IC-330",
+  "content": "{{knowledge objective\n|Identifiant=OIC-330-10-A\n|Item_parent=Prescription and monitoring of the most common classes of medicines in adults and children, excluding anti-infectives (see item 177). Knowing the correct use of the main therapeutic classes.\n|Item_parent_short=Prescribing and monitoring the most common classes of medicines for adults and children, excluding anti-infectives (see item 177). Knowing the correct use of the main therapeutic classes.\n|Rank=A\n|Title=Serotonin reuptake inhibitors: mechanisms of action, indications, side effects, drug interactions, monitoring procedures and main causes of failure.\n|Description=Knowing the mechanisms of action\n|Rubric=Management\n|Contributors=\n|Order=10}}\nSee ITEM 74",
+  "question": {
+    "question": "What is a common side effect of Serotonin Reuptake Inhibitors (SSRIs) that clinicians must monitor for during treatment?",
+    "option_a": "Hypertension",
+    "option_b": "Weight loss",
+    "option_c": "Insomnia",
+    "option_d": "Hypoglycemia",
+    "correct_option": "C"
+  }
+}

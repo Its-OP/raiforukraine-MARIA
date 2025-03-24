@@ -1,0 +1,12 @@
+{
+  "folder": "IC-226",
+  "content": "{{knowledge objective\n|Identifiant=OIC-226-16-B\n|Item_parent=Deep vein thrombosis and pulmonary embolism (see item 330)\n|Item_parent_short=Deep vein thrombosis and pulmonary embolism (see item 330)\n|Rank=B\n|Title=Knowing how to evoke the long-term complications of VTE (post-thrombotic syndrome, PAH)\n|Description=None\n|Topic=Follow-up and/or prognosis\n|Contributors=Gilles Pernod, Virginie Dufrost, Guillaume Mah\u00e9\n|Order=16}}\nLong-term complications include post-thrombotic syndrome (PTS) and post-embolic pulmonary hypertension (PH).\n\n20-50% of DVTs will become complicated with TPS despite well-managed treatment (5-10% will develop severe TPS)\n\nThe risk is particularly high in cases of iliofemoral thrombosis.\n\nThe severity of TPS is assessed using the [[Post-thrombotic syndrome 2C-227-DE-A02|Villalta score]].\n\nL''''HTP'''''occurs after severe PE or recurrent PE. It leads to heart failure (left and right) 2C-234-EP-B01|right heart failure ([[Performing and interpreting an electrocardiogram (ecg) SDD-185|SDD: performing and interpreting an electrocardiogram]]).",
+  "question": {
+    "question": "What is the estimated percentage range of Deep Vein Thrombosis (DVT) cases that will develop severe Post-Thrombotic Syndrome (PTS) despite well-managed treatment?",
+    "option_a": "1-5%",
+    "option_b": "10-20%",
+    "option_c": "20-50%",
+    "option_d": "50-70%",
+    "correct_option": "C"
+  }
+}

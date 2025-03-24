@@ -1,0 +1,12 @@
+{
+  "folder": "IC-245",
+  "content": "{{knowledge objective\n|Identifiant=OIC-245-20-B\n|Item_parent=Adrenal insufficiency in adults and children\n|Item_parent_short=Adrenal insufficiency in adults and children\n|Rank=B\n|Title=Knowing the principles of prevention of acute adrenal insufficiency\n|Description=Therapeutic education, not stopping treatment\n|Rubric=Management\n|Contributors=Claire Briet,St\u00e9phanie Espiard\n|Order=20}}\n\n\n* In the event of potential decompensation factors: increase hydrocortisone doses (see chapter on \"Understanding the principles of pharmacological adaptation in acute adrenal insufficiency in the event of stress\").\n\n<br />\n\n* Inform the attending physician:\n** increase hydrocortisone doses in case of intercurrent pathology\n** recognise acute adrenal insufficiency\n** start treatment at home before referring the patient to hospital.\n\n<br />\n\n* The emergency doctor or anaesthetist receiving a patient with adrenal insufficiency in a stressful situation must :\n** be aware of the risk of acute adrenal insufficiency\n** know how to prevent it: if oral treatment is impossible: hydrocortisone IM or IV: 25 mg every 6 hours or 100 mg continuous IV at SAP.\n\n<br />\n\n* In the event of surgery, the following may be offered:\n** 100 mg IV or IM initially ;\n** then, in the case of major surgery, 100 mg/24 hours continuous IV to the SAP until feeding is resumed;\n** then return to treatment with hydrocortisone \"per os\" by tripling the usual dose (minimum 60 mg per 24 hours in three or four doses (including one taken at night), then gradually reducing over a few days to the usual doses.\n\n<br />\n\n* In patients with primary adrenal insufficiency, fludrocortisone should not be increased.",
+  "question": {
+    "question": "What is the recommended initial intravenous (IV) or intramuscular (IM) hydrocortisone dose for a patient with adrenal insufficiency undergoing major surgery?",
+    "option_a": "50 mg every 6 hours",
+    "option_b": "100 mg every 6 hours",
+    "option_c": "100 mg continuous IV at SAP",
+    "option_d": "200 mg continuous IV at SAP",
+    "correct_option": "c"
+  }
+}

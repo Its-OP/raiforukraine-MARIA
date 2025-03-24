@@ -1,0 +1,22 @@
+{
+  "folder": "IC-302",
+  "content": "{{knowledge objective\n|Identifiant=OIC-302-08-A\n|Item_parent=Cutaneous, epithelial and melanoma tumours\n|Item_parent_short=Cutaneous, epithelial and melanoma tumours\n|Rank=A\n|Title=Know the definition and main risk factors for nevi\n|Description=Know the definition, risk factors, different clinical forms and evolutionary profiles of nevi\n|Rubric=Definition\n|Contributors=\n|Order=8}}\nThere are 2 main categories of nevi:\n\n* Common melanocytic/pigmentary/acquired nevi, commonly known as \"moles\".) These are the most common melanocytic lesions. These benign tumours are made up of melanocytes grouped together in clusters (theca) in the epidermis and/or dermis.\n* Congenital nevi present from birth. These are much rarer (1% of births). <br />\n\nThe clinical appearance of a common nevus can vary greatly (size, shape, pigmentation), but in a given individual, all the nevi usually have a comparable appearance.\n\n\nCongenital nevi vary greatly in size.  Progressively, their surface may become irregular with hypertrichosis. Large congenital nevi (defined as having a projected diameter of > 20 cm in adulthood) are rare. They may even be giant and extend over a large part of the body, with a tendency towards metameric distribution, most often dorsal.\n\n\nThe blue nevus is a deep dermal nevus with a high melanin load.\n\nAchromic nevi are unpigmented, usually tuberous and predominantly on the face or trunk.\n\n\n\nFactors responsible for the development of nevi :\n\n* Intrinsic factors: constitutional, genetic susceptibility\n** Correlation between number of nevi and ethnic origin (more nevi in Caucasian > Asian > black population)\n** Link between number of nevi and phototype (most common: phototype II)\n** Family predisposition: density of nevi in children correlated with that of parents\n* Extrinsic factors\n** Environmental, behavioural: correlation between number of nevi and sun exposure\n** Immunological status: Immunodepression \u00e8 Increase in the number of nevi",
+  "question": {
+    "properties": {
+      "question": "What is a common characteristic of congenital nevi?",
+      "option_a": "They are always small and have uniform pigmentation.",
+      "option_b": "They are present from birth and can vary greatly in size, sometimes becoming irregular with hypertrichosis.",
+      "option_c": "They are caused exclusively by environmental factors such as sun exposure.",
+      "option_d": "They are typically found only on the limbs and are associated with a high melanin load.",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

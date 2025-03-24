@@ -1,0 +1,8 @@
+{
+  "folder": "IC-050",
+  "content": "{{knowledge objective\n|Identifiant=OIC-050-14-A\n|Item_parent=Genito-scrotal pathology in boys and men\n|Item_parent_short=Genito-scrotal pathology in boys and men\n|Rank=A\n|Title=Know the principles of the management of preputial infections, phimosis and paraphimosis.\n|Description=None\n|Rubric=Management\n|Contributors=C\u00e9dric Leb\u00e2cle, Alice Faure\n|Order=14}}\n\n<br />\n\n*In children, physiological phimosis cannot be treated before the age of 3-4 years.\n*Balanoposthitis requires a prescription for local antiseptic-based care in a penis bath.\n*The release of preputial adhesions can be helped by the application of dermocorticoids for several weeks.\n*From the age of 5-6 years, if local treatments fail, or in adults, surgical treatment (foreskin plasty or post-hectomy) may be considered.\n*The onset of paraphimosis requires emergency manual reduction. The operator must perform a recalibration manoeuvre by tilting the preputial ring forwards with the index and middle fingers while exerting pressure on the glans with the thumbs. If this fails, an emergency posthectomy should be considered.\n\n<br />",
+  "question": {
+    "question": "What is the initial management approach for physiological phimosis in children under 3-4 years old?",
+    "option_a": "Immediate foreskin plasty or post-hectomy surgery"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "folder": "IC-342",
+  "content": "{{knowledge objective\n|Identifiant=OIC-342-06-A\n|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=A\n|Title=Know the characteristics of an epileptic and non-epileptic event (pseudo-seizure).\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=6}}\ncf item 105",
+  "question": {
+    "properties": {
+      "question": "Which of the following characteristics is NOT typically associated with a non-epileptic pseudo-seizure (pseudo-epileptic event)?",
+      "option_a": "Abrupt cessation of consciousness without warning",
+      "option_b": "Muscle rigidity followed by rhythmic jerking movements",
+      "option_c": "Responsiveness to verbal or physical stimuli during the event",
+      "option_d": "Electroencephalogram (EEG) showing generalized spike-and-wave discharges",
+      "correct_option": "d"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

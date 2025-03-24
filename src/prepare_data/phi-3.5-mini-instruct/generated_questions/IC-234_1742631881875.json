@@ -1,0 +1,12 @@
+{
+  "folder": "IC-234",
+  "content": "{{knowledge objective\n|Identifiant=OIC-234-22-A\n|Item_parent=Adult heart failure\n|Item_parent_short=Adult heart failure\n|Rank=A\n|Title=Know how to diagnose cardiogenic shock\n|Description=Arterial pressure, peripheral perfusion, oliguria, consciousness refer a item 332\n|Heading=Identification of the emergency\n|Contributors=Olivier Huttin\n|Order=22}}\nThe diagnosis of cardiogenic shock is made on clinical examination when there are\n\n- Signs of heart failure\n\n- low blood pressure\n\n- associated with signs of peripheral hypoperfusion: oliguria, skin mottling, cold extremities, cyanosis, consciousness disorders.\n\n\nThe cardiogenic character is confirmed by the demonstration of a heart attack by echocardiography or catheterisation after exclusion or correction of hypovolaemia.\n\nThe haemodynamic criteria are as follows:\n\n- systolic blood pressure < 90 mmHg, for at least 30 minutes ;\n\n- low cardiac output (index < 2.2 L/min/m2) ;\n\n- pulmonary arterial occlusion pressure (PAPO) > 15 mm Hg.\n\n\nDetails of treatment are given in item 232.",
+  "question": {
+    "question": "Which combination of symptoms and criteria are indicative of cardiogenic shock?",
+    "option_a": "High blood pressure, peripheral perfusion, normal urine output, alert consciousness.",
+    "option_b": "Low blood pressure, signs of heart failure, oliguria, cold extremities, and low cardiac output index.",
+    "option_c": "Normal blood pressure, skin flushing, increased urine output, and normal pulmonary arterial occlusion pressure.",
+    "option_d": "Elevated blood pressure, no signs of heart failure, normal urine output, and high pulmonary arterial occlusion pressure.",
+    "correct_option": "B"
+  }
+}

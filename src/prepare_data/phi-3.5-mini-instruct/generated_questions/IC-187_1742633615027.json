@@ -1,0 +1,22 @@
+{
+  "folder": "IC-187",
+  "content": "{{knowledge objective\n|Identifiant=OIC-187-07-A\n|Item_parent=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Item_parent_short=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Rank=A\n|Title=Knowing how to treat acute urticaria\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=7}}\n- '''Etiological treatment'''\n\nAvoidance of favouring/triggering factors\n\n- '''Symptomatic treatment'''\n\n2<sup>th</sup> generation anti-H1 antihistamines 1 to 2 tablets/day.\n\nIn the event of chronic acute urticaria and/or poor response; 2nd<sup>th</sup> generation anti H1 antihistamines may be increased to 4 tsp/day.\n\n\nIn the event of associated signs of anaphylaxis, treatment should be guided by the symptoms presented;\n\n\u00d8 Parenteral adrenaline in cases of anaphylactic shock or asphyxiant angioedema,\n\n\u00d8 Oxygen therapy if desaturation,\n\n\u00d8 vascular filling if anaphylactic shock,\n\n\u00d8 administration of inhaled beta-2 mimetics in the event of bronchospasm.",
+  "question": {
+    "properties": {
+      "question": "What is the recommended initial dosage of 2nd generation anti-H1 antihistamines for the treatment of acute urticaria?",
+      "option_a": "1 to 2 tablets/day",
+      "option_b": "4 to 8 tablets/day",
+      "option_c": "8 to 16 tablets/day",
+      "option_d": "24 to 48 tablets/day",
+      "correct_option": "A"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

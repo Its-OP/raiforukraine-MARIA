@@ -1,0 +1,22 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-01-A\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic anomalies, visual, hearing and dental disorders. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=A\n|Title=Know the definitions of children's age groups\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=1}}\nNewborn: 0-1 months\n\nInfant: 1 -23 months\n\nChildren: 2 years- < puberty\n\nTeenager: > puberty",
+  "question": {
+    "properties": {
+      "question": "At what age range is a child considered a teenager?",
+      "option_a": "0-1 months",
+      "option_b": "1-23 months",
+      "option_c": "2 years- < puberty",
+      "option_d": "> puberty",
+      "correct_option": "d"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

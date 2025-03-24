@@ -1,0 +1,22 @@
+{
+  "folder": "IC-187",
+  "content": "{{knowledge objective\n|Identifiant=OIC-187-18-A\n|Item_parent=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Item_parent_short=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Rank=A\n|Title=Knowing the main principles of treating contact eczema\n|Description=None\n|Rubric=Management\n|Contributors=Nad\u00e8ge Cordel; Fr\u00e9d\u00e9ric B\u00e9rard\n|Order=18}}The treatment of contact eczema is based on 2 principles:\n\n* Avoid contact with the allergen: this is the most important aspect of the treatment (secondary prevention).\n* Dermocorticoid'', 1 application daily until the eczema has healed, usually about ten days.\n** Cream or ointment depending on the site:\n*** cream (folds or oozing lesion)\n*** ointment (the rest of the body outside the folds, and on non-oozing lesions).\n\nAfter an eczema flare-up, a ''moisturising cream'' is recommended to combat skin flaking, which follows the inflammatory phase of eczema.\n<br />",
+  "question": {
+    "properties": {
+      "question": "Which of the following is NOT a recommended treatment principle for contact eczema?",
+      "option_a": "Avoid contact with the allergen as a primary prevention measure.",
+      "option_b": "Apply a dermatocorticoid once daily until the eczema heals, typically about ten days.",
+      "option_c": "Use a moisturising cream after an eczema flare-up to combat skin flaking.",
+      "option_d": "Apply a high-potency corticosteroid cream on all body areas daily for continuous treatment.",
+      "correct_option": "D"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

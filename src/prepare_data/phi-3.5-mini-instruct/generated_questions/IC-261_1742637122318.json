@@ -1,0 +1,12 @@
+{
+  "folder": "IC-261",
+  "content": "{{knowledge objective\n|Identifiant=OIC-261-11-B\n|Item_parent=Glomerular nephropathy\n|Item_parent_short=Glomerular nephropathy\n|Rank=B\n|Title=Know the clinical and biological elements leading to suspicion of extra-membranous glomerulopathy (GEM)\n|Description=Know the mode of presentation of GEM, suspect paraneoplastic GEM in a subject at risk (smoker, etc.).\n|Rubric=Positive diagnosis\n|Contributors=Eric Daugas,Bruno Moulin\n|Order=11}}\n\n'''B.     Extra-membranous glomerulopathy''''\n\n'''Diagnosis:'''\n\n*In over 85% of cases, there is a nephrotic syndrome which is often impure.\n*Diagnosis is based on renal biopsy:\n**light microscopy :\n***an absence of proliferation,\n***normal or thickened and spiculated MBG on the outer surface;\n**immunofluorescence: granular extramembranous deposits of IgG and C3.\n*GEMs often present with extramembranous deposits of IgG targeting at the same site an autoantigen expressed by podocytes, in the vast majority of cases the phospholipase A2 receptor (PLA2-R). These anti-PLA2-R IgGs (autoantibodies) are detected in the serum.\n*GEM is sometimes diagnosed without a renal biopsy when there is a combination of nephrotic syndrome and anti-PLA2R serum antibodies.\n\n*GEM can be :\n**primary (85% of cases).\n**secondary (15% of cases): table 6.\n\n\nTable 6: Causes of secondary GEM\n{| class=\"wikitable\"\n|Solid cancers +++\n|- Especially if age > 50 years\n\n- Lung, breast, colon and melanoma cancers\n|-\n|Systemic lupus erythematosus ++.\n|- Women aged 20 to 55\n|-\n|Other autoimmune diseases\n|- Sj\u00f6gren's syndrome, thyroiditis...\n|-\n|Infections\n|- Hepatitis B (and C), syphilis, leprosy, filariasis..,\n|-\n|Medicines\n|- NSAIDS\n|}\n\n\n'''Complications:'''\n\n*Complications associated with nephrotic syndrome.\n*Specific complication: thrombosis of the renal veins.",
+  "question": {
+    "question": "Which of the following is a common presentation and diagnostic feature of extra-membranous glomerulopathy (GEM)?",
+    "option_a": "Proliferation of podocytes with granular immunofluorescence deposits of IgA",
+    "option_b": "Nephrotic syndrome with impure urine and granular immunofluorescence deposits of IgG and C3",
+    "option_c": "IgE-mediated allergic reaction leading to nephrotic syndrome",
+    "option_d": "Hypercellularity of the glomeruli with negative immunofluorescence staining",
+    "correct_option": "B"
+  }
+}

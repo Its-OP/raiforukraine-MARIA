@@ -1,0 +1,22 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-06-A\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=A\n|Title=Photograph of a genital herpes infection\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=6}}\n<gallery>\nFile:Herpes LISA.jpeg|Genital herpes: painful postvesicular millimetric lesions with an inflammatory border of the glans.\n</gallery>",
+  "question": {
+    "properties": {
+      "question": "What is the characteristic appearance of genital herpes lesions as seen in the provided photograph?",
+      "option_a": "Millimetric lesions with a smooth, flat surface and central clearing",
+      "option_b": "Painful postvesicular lesions with an inflammatory border of the glans",
+      "option_c": "Small, clustered vesicles filled with clear fluid on an erythematous base",
+      "option_d": "Painless, singular, large ulcerative lesion with a yellowish discharge",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

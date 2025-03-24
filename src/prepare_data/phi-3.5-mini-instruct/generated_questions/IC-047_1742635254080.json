@@ -1,0 +1,22 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-07-A\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=A\n|Title=Know the indications for referring a child to an ophthalmologist.\n|Description=None\n|Rubric=Management\n|Contributors=Elise Launay\n|Order=7}}\n\nRefer to ophthalmologist if\n\n* personal or family history: risk factors = ophthalmological examination between 3 and 12 months, even in the absence of warning signs.\n* abnormality or doubt on inspection\n* abnormality or doubt on screening test\n* warning signs\n* inability to measure visual acuity (verbal age)\n\n'''IN EMERGENCY if'''\n\no leukocoria,\n\no cloudy cornea (glaucoma)\n\no sudden onset of strabismus\n\no recent onset of nystagmus",
+  "question": {
+    "properties": {
+      "question": "Under what circumstances should a child be referred to an ophthalmologist?",
+      "option_a": "If the child has perfect vision and no family history of eye problems.",
+      "option_b": "If the child exhibits leukocoria, cloudy cornea, or sudden onset of strabismus or nystagmus.",
+      "option_c": "If the child prefers to have their eyes examined during a routine check-up.",
+      "option_d": "If the child has a minor eye irritation that resolves on its own.",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

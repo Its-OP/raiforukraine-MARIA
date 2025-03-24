@@ -1,0 +1,12 @@
+{
+  "folder": "IC-312",
+  "content": "{{knowledge objective\n|Identifiant=OIC-312-09-B\n|Item_parent=Breast tumours\n|Item_parent_short=Breast tumours\n|Rank=B\n|Title=Knowing the indications for breast biopsy\n|Description=Indication and non-indication\n|Rubric=Additional examinations\n|Contributors=\n|Order=9}}\n\n[[File:Bi-Rad Classification.png|vignette|Bi-Rad Classification]]\n'''Lesions classified as Bi-rads 4 and 5 (imaging classification) must be biopsied, as must lesions classified as Bi-rads 3 in BRCA mutated patients or patients who are otherwise carriers of a malignant biopsied lesion.'''\n\n'''These biopsies are carried out preoperatively, reducing the need for peroperative extemporaneous examination and making it possible to define a course of action with the patient before the operation'''.\n\nBreast biopsies are performed in 2 ways: microbiopsies or macrobiopsies. Microbiopsies are usually performed under ultrasound guidance (ultrasound mass) and macrobiopsies are usually performed under stereotaxis (mammographic microcalcification focus). Macrobiopsies may also be performed under MRI when the lesion classified as Bi-rads 4 or 5 is not visible on mammography or ultrasound. The biopsy is used to confirm the histological diagnosis and assess a number of prognostic factors.\n\nCytology samples are not recommended for a mass or a focus of microcalcifications. However, cytology of a suspicious axillary adenopathy or of a nipple discharge in the case of a suspicious discharge (bloody +++) may be useful.\n\nFinally, in the event of radio-clinical discordance ''or if it is impossible to reach the lesion (focus of deep microcalcifications in a small breast)'', a surgical biopsy may exceptionally be indicated.",
+  "question": {
+    "question": "Which of the following is NOT a recommended indication for breast biopsy according to the provided content?",
+    "option_a": "A lesion classified as Bi-rads 4 or 5",
+    "option_b": "A lesion classified as Bi-rads 3 in BRCA mutated patients",
+    "option_c": "A suspicious nipple discharge",
+    "option_d": "A benign cystic lesion with no other suspicious features",
+    "correct_option": "d"
+  }
+}

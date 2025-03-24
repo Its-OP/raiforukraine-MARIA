@@ -1,0 +1,12 @@
+{
+  "folder": "IC-164",
+  "content": "{{knowledge objective\n|Identifiant=OIC-164-06-A\n|Item_parent=Febrile rash in children\n|Item_parent_short=Children's febrile panthemas\n|Rank=A\n|Intitle=Infectious eruptive diseases: megalerythema epidemic\n|Description=epidemiology (B), clinical features (A), risk for pregnant women (A)\n|Rubric=Etiologies\n|Contributors=Christ\u00e8le Gras-Le Guen,Emmanuel Grimprel,Elise Launay\n|Order=6}}\n\n'''Epidemiology:''''\n\n- '''Parvovirus B19''', DNA virus, belongs to the Parvoviridae family\n\n- Human-to-human transmission by respiratory route (saliva, droplets) (or transplacental)\n\n- very frequent infection, generally from childhood to school age, 40 to 80% of adults are immune\n\n\nClinical features\n\n- incubates for 6 to 18 days\n\n- In 2 phases\n\n           - pre-eruptive (invasion): low fever and aspecific general signs, short (48h-72h)\n\n           - eruption: appearance of a \"maculopapular eruption\" starting on the cheeks (very red and infiltrated cheeks), then affecting the trunk and limbs with an \"arabesque\" appearance (erythema reticulata) which may persist for up to 3 weeks. The rash may be accompanied by a low-grade fever.\n[[File:Megalerythema.jpg|neant|thumb]]\n\n\nOther eruptive forms include \"socks and gloves\" syndrome, erythema multiforme or, more rarely, livedo or erythema nodosum.\n\nJoint involvement such as arthralgia or arthritis may accompany the rash, and is more common in adults.\n\n\n'''Complications/ Risks for pregnant women'''\n\nInfection of erythrobastic precursors by the virus can lead to haematological complications in the foetus (hydrops, death in utero) and in children with underlying red cell disease (aggravated chronic haemolytic anaemia with erythroblastopenia).",
+  "question": {
+    "question": "What is the incubation period for Parvovirus B19 infection?",
+    "option_a": "2 to 4 days",
+    "option_b": "6 to 18 days",
+    "option_c": "10 to 14 days",
+    "option_d": "1 to 3 days",
+    "correct_option": "b"
+  }
+}

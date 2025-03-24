@@ -1,0 +1,22 @@
+{
+  "folder": "IC-265",
+  "content": "{{knowledge objective\n|Identifiant=OIC-265-11-A\n|Item_parent=Urinary lithiasis\n|Item_parent_short=Urinary lithiasis\n|Rank=A\n|Title=Knowing the emergency biological tests to be carried out for renal colic\n|Description=(Urine dipstick), CBC, ionogram, creatininaemia, CRP\n|Rubric=Additional tests\n|Contributors=Romain Boissier\n|Order=11}}\n\n\n== Biological tests carried out in the emergency department are designed to identify severe/complicated forms of renal colic: ==\n\n*urine dipstick\n*cytobacteriological examination of urine,\n*blood cultures if febrile renal colic is suspected,\n*serum creatinine measurement.",
+  "question": {
+    "properties": {
+      "question": "Which of the following is NOT a biological test typically performed in the emergency department for severe renal colic?",
+      "option_a": "Urine dipstick",
+      "option_b": "Blood cultures if febrile renal colic is suspected",
+      "option_c": "Electrocardiogram (ECG)",
+      "option_d": "Serum creatinine measurement",
+      "correct_option": "C"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

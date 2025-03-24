@@ -1,0 +1,22 @@
+{
+  "folder": "IC-332",
+  "content": "{{knowledge objective\n|Identifiant=OIC-332-10-B\n|Item_parent=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.\n|Item_parent_short=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.\n|Rank=B\n|Title=Know the principles of management of septic shock\n|Description=Cf item created\n|Rubric=Management\n|Contributors=Pierre Asfar\n|Order=10}}\n\n<gallery widths=\"300\" heights=\"300\">\nFile:Septic shock algorithm.pdf\n</gallery>",
+  "question": {
+    "properties": {
+      "question": "What is NOT a primary aetiology of septic shock?",
+      "option_a": "Hypovolaemic shock due to blood loss",
+      "option_b": "Septic shock from bacterial infection",
+      "option_c": "Cardiogenic shock due to heart failure",
+      "option_d": "Neurogenic shock from spinal cord injury",
+      "correct_option": "A"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

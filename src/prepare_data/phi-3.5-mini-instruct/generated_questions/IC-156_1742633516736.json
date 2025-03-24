@@ -1,0 +1,22 @@
+{
+  "folder": "IC-156",
+  "content": "{{knowledge objective\n|Identifiant=OIC-156-18-B\n|Item_parent=Infections in the bones and joints (IOA) of children and adults\n|Item_parent_short=Infections osteo articulaires (IOA) de l'enfant et de l'adulte\n|Rank=B\n|Title=Photograph of a toe infection\n|Description=\n|Rubric=Multimedia content\n|Contributors=\n|Order=18}}\n[[File:Photograph of a toe infection.jpg|left|thumb|Photograph of a toe infection]]",
+  "question": {
+    "properties": {
+      "question": "What is the most likely cause of an infection in a toe, as depicted in the provided photograph?",
+      "option_a": "A bacterial infection due to a puncture wound.",
+      "option_b": "A viral infection from a common cold.",
+      "option_c": "A fungal infection from athlete's foot.",
+      "option_d": "An autoimmune reaction causing inflammation.",
+      "correct_option": "A"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

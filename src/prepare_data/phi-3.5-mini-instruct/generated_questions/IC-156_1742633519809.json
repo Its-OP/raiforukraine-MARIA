@@ -1,0 +1,22 @@
+{
+  "folder": "IC-156",
+  "content": "{{knowledge objective\n|Identifiant=OIC-156-09-A\n|Item_parent=Infections in the bones and joints (IOA) of children and adults\n|Item_parent_short=Infections osteo articulaires (IOA) de l'enfant et de l'adulte\n|Rank=A\n|Title=Identifying septic arthritis (= therapeutic emergency)\n|Description=None\n|Rubric=Identifying the emergency\n|Contributors=Dr Florent Valour\n|Order=9}}\nUrgent hospital management to limit the risk of complications",
+  "question": {
+    "properties": {
+      "question": "What is the most immediate imaging modality used to diagnose septic arthritis in children and adults?",
+      "option_a": "X-ray, as it can quickly show joint space narrowing and bone changes.",
+      "option_b": "MRI, due to its superior soft tissue contrast and ability to detect early joint inflammation.",
+      "option_c": "CT scan, because it provides detailed images of bone structures and can identify subtle fractures.",
+      "option_d": "Ultrasound, for its real-time imaging and ability to detect joint effusions.",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

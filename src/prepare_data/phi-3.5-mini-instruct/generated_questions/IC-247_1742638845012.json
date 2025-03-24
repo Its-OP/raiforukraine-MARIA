@@ -1,0 +1,12 @@
+{
+  "folder": "IC-247",
+  "content": "{{knowledge objective\n|Identifiant=OIC-247-19-A\n|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Rank=A\n|Title=Know the emergency tests for suspected hyperglycaemic imbalance.\n|Description=None\n|Rubric=Additional tests\n|Contributors=Claire Briet\n|Order=19}}\nIn the event of hyperglycaemia, perform the following tests as a matter of urgency\n\n''<u>For diagnostic purposes:</u>''\n\n- capillary ketonemia\n\n- blood ionogram, urea, creatinine,\n\n- calculation of the anion gap if hyperglycaemia with positive ketonemia: (Na<sup>+</sup> + K<sup>+</sup>) - (Cl<sup>-</sup> + HCO<sub>3</sub><sup>-</sup>).\n\n- osmolarity calculation if hyperglycaemia with negative ketonemia: (Na<sup>+</sup> + 13) \u00d7 2 + Gly in mmol/l\n\n- Venous pH\n\n''<u>Aetiological aim</u>''\n\n-ECG\n\n- BU, clinical search for infectious outbreaks, blood culture, PCR COVID\n\n- Clinical examination for wounds (particularly foot wounds)",
+  "question": {
+    "question": "Which emergency test is NOT typically performed for suspected hyperglycaemic imbalance in a patient with diabetes mellitus?",
+    "option_a": "Capillary ketonemia",
+    "option_b": "Blood ionogram, urea, creatinine, and calculation of the anion gap",
+    "option_c": "Venous pH measurement",
+    "option_d": "ECG to check for potential cardiac events unrelated to hyperglycaemia",
+    "correct_option": "D"
+  }
+}

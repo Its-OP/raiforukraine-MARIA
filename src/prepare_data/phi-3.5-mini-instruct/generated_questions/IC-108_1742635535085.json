@@ -1,0 +1,12 @@
+{
+  "folder": "IC-108",
+  "content": "{{knowledge objective\n|Identifiant=OIC-108-14-B\n|Item_parent=Confusion, dementia. (see item 132)\n|Item_parent_short=Confusion, dementia. (see item 132)\n|Rank=B\n|Title=Knowing the imaging semiology of chronic subdural haematoma (SDH)\n|Description=extraparenchymal collection with fluid content, sometimes associated with recent bleeding, usually crescent-shaped, limited by the dural sinuses, and quite often bilateral.\n|Rubric=Additional examinations\n|Contributors=\n|Order=14}}\nSubdural haematoma '''([[Discovery of a brain abnormality on medical imaging examination SD-226|discovery of a brain abnormality on medical imaging examination]])''':\n\n- extraparenchymal fluid collection in the meningeal spaces (between the dura and arachnoid)\n\n- crescent-moon appearance, often bilateral\n\n- hypodense on cerebral X-ray if the haematoma is chronic\n\n- mixture of hypodense and hyperdense areas (fresh blood) in cases of recent bleeding\n\n'''Insert figure 18.5 from the manual'''",
+  "question": {
+    "question": "What is a key characteristic of a chronic subdural haematoma (SDH) on medical imaging examination?",
+    "option_a": "A hyperdense appearance throughout the brain parenchyma.",
+    "option_b": "A crescent-moon shaped extraparenchymal fluid collection, often bilateral.",
+    "option_c": "A homogeneous hypodense area confined to the ventricles.",
+    "option_d": "Multiple high-density lesions indicating acute cerebral infarction.",
+    "correct_option": "B"
+  }
+}

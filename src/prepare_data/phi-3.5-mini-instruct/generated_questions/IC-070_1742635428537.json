@@ -1,0 +1,12 @@
+{
+  "folder": "IC-070",
+  "content": "{{knowledge objective\n|Identifiant=OIC-070-08-B\n|Item_parent=Psychological disorders in the elderly\n|Item_parent_short=Psychological disorders in the elderly\n|Rank=B\n|Title=Knowing the clinical and paraclinical assessment specific to the elderly subject\n|Description=Mood disorders (item 64 and item 66)Anxiety disorders (item 66)Alcohol- and drug-related disorders (item 77 and item 77)Acute agitation and delirium (item 352)\n|Rubric=Additional examinations\n|Contributors=Pierre Vandel,Marie Tournier\n|Order=8}}\n\nIn the elderly, we need to look for non-psychiatric co-morbidities (pain, cardiovascular pathologies, cancers, neurological and neurodegenerative diseases, etc.) as well as psychiatric ones (anxiety disorders, addictions, personality disorders, etc.).\n\nThe clinical examination should look for pain, faecal impaction, a bladder globe, infection, etc.\n\nComplementary tests depend on the presenting symptoms: CBC, blood ionogram, blood calcium, blood albumin, TSH, vitamins B9-B12, ECG, kidney and liver function, urine dipstick, protid, blood albumin, blood sugar, chest X-ray, brain imaging, etc.",
+  "question": {
+    "question": "In the clinical assessment of elderly patients, which of the following is NOT a typical non-psychiatric comorbidity to consider?",
+    "option_a": "Chronic pain management",
+    "option_b": "Cardiovascular pathologies",
+    "option_c": "Personality disorders",
+    "option_d": "Neurodegenerative diseases",
+    "correct_option": "C"
+  }
+}

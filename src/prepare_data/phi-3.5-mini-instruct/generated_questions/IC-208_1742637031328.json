@@ -1,0 +1,12 @@
+{
+  "folder": "IC-208",
+  "content": "{{knowledge objective\n|Identifiant=OIC-208-11-B\n|Item_parent=Chronic respiratory failure\n|Item_parent_short=Chronic respiratory failure\n|Rank=B\n|Title=Knowing the indications and procedures for long-term oxygen therapy\n|Description=None\n|Heading=Management\n|Contributors=\n|Order=11}}\nThe aim of long-term oxygen therapy (LTO) is to correct the consequences of chronic hypoxaemia (polycythemia, pulmonary hypertension) and to reduce mortality. It is not a symptomatic treatment for dyspnoea.\n\nIndication in stable obstructive CKD:''\n\n* ''PaO<sub>2</sub> < 55 mmHg (7.3 kPa)''\n* ''oIndication in stable obstructive CKD:u PaO<sub>2</sub> between 55 mmHg (7.3 kPa) and 60 mmHg (8 kPa) with clinical signs of tissue hypoxia:''\n** ''polyglobuliIndication in obstructive CKD in stable state:e (haematocrit > 55%)''\n** ''inIndication in stable obstructive CKD:right ventricular adequacy (clinical or echocardiographic or via catheterisation)''\n** ''not indicated in stable obstructive CKD: non-apnoeic nocturnal arterial saturations (mean nocturnal SpO<sub>2</sub> \u2264 88%)''\n\nIndication in stable obstructive CKD:''\n\n''Indication in restrictive CKD in stable state: PaO<sub>2</sub> < 60 mmHg.''\n\nOxygen therapy is administered :\n\n- At home, using nasal cannula (masks can deliver larger quantities of O<sub>2</sub>),\n\n- Ideally 24 hours a day, at least 15 hours a day, including nights and physical activity,\n\n- With a flow rate required to obtain a PaO<sub>2</sub> > 60 mmHg or a SpO<sub>2</sub> or a SaO<sub>2</sub> > 90% at rest and during exercise\n\n- Gaseous oxygen (by extractor or in the form of gaseous cylinders for ambulation) is preferred for moderate flow rates. Liquid oxygen is used for high oxygen flow rates.\n\n- It is delivered by a home service provider.",
+  "question": {
+    "question": "What is the preferred method of oxygen delivery for long-term oxygen therapy in stable obstructive CKD patients?",
+    "option_a": "Liquid oxygen for high flow rates",
+    "option_b": "Gaseous oxygen by extractor",
+    "option_c": "Gaseous oxygen in the form of cylinders for ambulation",
+    "option_d": "Nasal cannula with low flow rates",
+    "correct_option": "c"
+  }
+}

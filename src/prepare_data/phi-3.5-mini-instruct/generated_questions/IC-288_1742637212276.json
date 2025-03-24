@@ -1,0 +1,22 @@
+{
+  "folder": "IC-288",
+  "content": "{{knowledge objective\n|Identifiant=OIC-288-11-A\n|Item_parent=Hemorrhoidal pathology\n|Item_parent_short=Hemorrhoidal pathology\n|Rank=A\n|Intitle=Photographs of haemorrhoidal thrombosis\n|Description=\n|Rubric=Multimedia content\n|Contributors=\n|Order=11}}\n\n<gallery widths=\"320\" heights=\"320\">\nFile:Image of haemorrhoidal thrombosis.PNG|External haemorrhoidal thrombosis with ulceration at the top of the clot\n</gallery>",
+  "question": {
+    "properties": {
+      "question": "What is a characteristic feature of haemorrhoidal thrombosis as seen in the provided photograph?",
+      "option_a": "A visible external clot with surrounding inflammation",
+      "option_b": "A soft, bulging hemorrhoid without any clot formation",
+      "option_c": "A clot located within the rectum accompanied by ulceration",
+      "option_d": "Multiple clots spreading throughout the rectal lining",
+      "correct_option": "C"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

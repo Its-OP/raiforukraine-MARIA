@@ -1,0 +1,12 @@
+{
+  "folder": "IC-265",
+  "content": "{{knowledge objective\n|Identifiant=OIC-265-10-B\n|Item_parent=Urinary lithiasis\n|Item_parent_short=Urinary lithiasis\n|Rank=B\n|Title=Knowing the indication for imaging examinations for urinary lithiasis\n|Description=Unprepared ultrasound-abdomen pair, CT scan\n|Rubric=Complementary examinations\n|Contributors=Romain Boissier\n|Order=10}}\n\n'''<u>In emergency,</u>''' imaging tests are indicated to confirm the diagnosis of renal colic (within 24 hours if uncomplicated and urgently if complicated renal colic), assess its severity (single kidney, urinoma), and at a distance to confirm whether or not the stone has been expelled: renal-vesical ultrasound/ASP (only for simple renal colic or stone follow-up), or ideally a low-dose abdominal-pelvic CT scan (except in obese patients) without injection of contrast (within 24 hours for simple renal colic and urgently in the case of complicated renal colic).\n\nIn an emergency, a CT scan may be injected if there is diagnostic doubt on the non-injected sections (absence of obstacle, absence of dilatation) to rule out a differential diagnosis (splenic infarction, cholecystitis, pancreatitis, retro-caecal appendicitis....).\n\n'''<u>In the non-emergency setting</u>''', imaging is indicated to determine the dimensions, number of calculi, their location, UH density to deduce the composition and probability of spontaneous expulsion and thus decide on the most appropriate treatment technique (a uro CT scan is indicated in this setting) (AFU 2022 Lithiasis Committee recommendations).\n\nASP-ultrasound may be indicated 24-48 hours after a simple renal colic or to monitor a calculus.\n\nUrinary ultrasound alone may be useful for monitoring non-radiopaque stones.\n\nUric acid and drug stones are not seen on PSA (they are said to be radiolucent).\n\nAll stones are seen on CT except those caused by drugs.",
+  "question": {
+    "question": "When is a low-dose abdominal-pelvic CT scan without injection of contrast indicated for patients with urinary lithiasis?",
+    "option_a": "Only in cases of complicated renal colic requiring urgent diagnosis within 24 hours",
+    "option_b": "For simple renal colic or stone follow-up, ideally within 24 hours",
+    "option_c": "To determine the dimensions, number, and location of calculi in the non-emergency setting",
+    "option_d": "For monitoring non-radiopaque stones using urinary ultrasound alone",
+    "correct_option": "b"
+  }
+}

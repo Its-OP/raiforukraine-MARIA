@@ -1,0 +1,12 @@
+{
+  "folder": "IC-070",
+  "content": "{{knowledge objective\n|Identifiant=OIC-070-07-B\n|Item_parent=Psychological disorders in the elderly\n|Item_parent_short=Psychological disorders in the elderly\n|Rank=B\n|Title=Knowing the specificities of differential and comorbid diagnosis in the elderly subject\n|Description=Differential and comorbid diagnosis with neurodegenerative and cerebrovascular pathologies; Cross-reference item 108, item 132, item 343 and item 352\n|Rubric=Positive diagnosis\n|Contributors=Pierre Vandel,Marie Tournier\n|Order=7}}\n\n== '''Mood disorders''' ==\n'''Eliminate:''' non-psychiatric medical pathologies (iatrogenic, ionic, metabolic, endocrine, neurological and cardiovascular disorders); psychiatric disorders, in particular delusions during psychotic manifestations; neurodegenerative pathologies with BPSD.\n\n== '''Aged and late-onset psychotic disorders''' ==\n'''Eliminate:'''\n\n* Mood disorders with psychotic features;\n* Psychobehavioural symptoms of dementia;\n* Non-psychiatric psychotic symptoms or symptoms induced by a psychoactive substance: frequent confusion in the elderly, neurological, metabolic and endocrine pathologies. Possible medicinal causes, particularly with morphine or psychotropic drugs, benzodiazepine withdrawal or alcohol;\n* A full clinical examination is essential and will guide any paraclinical tests that may be necessary.\n\n== '''SCPD''' ==\ndifferential diagnosis with confusional syndrome, mood, anxiety or psychotic disorders.\n\n== Alcohol and drug use disorders ==\nPsychiatric differential diagnoses: mood disorders, anxiety disorders and other addictive disorders.\n\nnon-psychiatric differential diagnoses: other psychoactive substances, neurological, metabolic and iatrogenic pathologies.",
+  "question": {
+    "question": "In the differential diagnosis of psychiatric disorders in the elderly, which of the following conditions should be eliminated when considering SCPD (Substance-Induced Psychotic Disorder)?",
+    "option_a": "Mood disorders with psychotic features",
+    "option_b": "Neurological pathologies induced by substance use",
+    "option_c": "Anxiety disorders with a clear history of substance abuse",
+    "option_d": "Non-psychiatric psychotic symptoms induced by psychoactive substances",
+    "correct_option": "D"
+  }
+}

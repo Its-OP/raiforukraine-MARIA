@@ -1,0 +1,22 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-31-B\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic anomalies, visual, hearing and dental problems. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=B\n|Title=Know how to diagnose thoracic kyphosis in children\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=31}}\nCyphosis = vertebral deformity in the sagittal plane. Aggravation of dorsal kyphosis (more rarely inversion of lordosis).\n\nMost frequent cause = spinal growth dystrophy (Scheuermann's disease)\n\nPainful",
+  "question": {
+    "properties": {
+      "question": "In diagnosing thoracic kyphosis in children, which of the following is the most frequent cause?",
+      "option_a": "Scheuermann's disease",
+      "option_b": "Osteoporosis",
+      "option_c": "Vertebral fracture due to trauma",
+      "option_d": "Poor posture from prolonged sitting",
+      "correct_option": "A"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-112",
+  "content": "{{knowledge objective\n|Identifiant=OIC-112-02-A\n|Item_parent=Bullous dermatitis of the skin and/or external mucous membranes\n|Item_parent_short=Bullous dermatosis affecting the skin and/or external mucous membranes\n|Rank=A\n|Title=Knowing how to diagnose autoimmune bullous dermatosis\n|Description=Bulls, post-bullous erosions, mucosal erosions, wet linen detachment, Nikolsky's sign -> Cutaneous history and direct IF\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=2}}\nAutoimmune bullous dermatosis should of course be suspected clinically in the presence of skin lesions such as bullae, post-bullous erosion, wet linen detachment and Nikolsky's sign. However, it should also be suspected in the presence of vesicular lesions, urticarial plaques, eczematous lesions and mucosal erosions (oral, conjunctival, nasal, genital, anal, oesophageal, laryngopharyngeal).\n\nDiagnostic confirmation requires two skin biopsies, one for standard histological analysis and the other for direct immunofluorescence examination.\n\nHistological analysis makes it possible to distinguish where the bulla forms in the skin (intraepidermally or subepidermally) but does not specify the mechanism of bulla formation.\n\n''''' A positive direct immunofluorescence test, which reveals the presence of autoantibodies within the lesions, confirms the autoimmune nature of bullous dermatosis. If the direct immunofluorescence test is negative, the diagnosis of autoimmune bullous dermatosis is ruled out. '''''",
+  "question": {
+    "question": "What confirms the autoimmune nature of bullous dermatosis in a patient presenting with bullae, post-bullous erosion, wet linen detachment, and Nikolsky's sign?",
+    "option_a": "Positive histological analysis showing intraepidermal bulla formation",
+    "option_b": "Negative direct immunofluorescence test revealing no autoantibodies",
+    "option_c": "Presence of autoantibodies within the lesions detected by direct immunofluorescence test",
+    "option_d": "Identification of vesicular lesions and urticarial plaques",
+    "correct_option": "c"
+  }
+}

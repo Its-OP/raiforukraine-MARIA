@@ -1,0 +1,22 @@
+{
+  "folder": "IC-187",
+  "content": "{{knowledge objective\n|Identifiant=OIC-187-08-B\n|Item_parent=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Item_parent_short=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Rank=B\n|Title=Knowing the factors responsible for atopy\n|Description=Genetic, immunological and environmental factors\n|Heading=Pathophysiological factors\n|Contributors=\n|Order=8}}\nAtopy is defined as a predisposing condition to abnormal IgE-mediated immunological reactivity to certain environmental antigens (allergens).\n\nAtopic dermatitis (AD) is the most common and earliest clinical manifestation associated with atopy. It is a complex polygenic disease involving 2 groups of genes: on the one hand, epidermal barrier genes (filaggrin gene++); on the other, genes regulating the adaptive and innate immune system.   \n\nEnvironmental factors play a major role in the pathophysiology of atopic dermatitis, but these have not yet been clearly identified. On the other hand, a number of favourable factors have been documented (e.g. exposure to cats in early childhood).",
+  "question": {
+    "properties": {
+      "question": "Which of the following is considered a major contributor to the pathophysiology of atopic dermatitis (AD)?",
+      "option_a": "Exposure to sunlight during early childhood",
+      "option_b": "Genetic factors including epidermal barrier genes and immune system genes",
+      "option_c": "Consumption of certain foods like dairy and eggs",
+      "option_d": "Frequent use of antihistamines",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

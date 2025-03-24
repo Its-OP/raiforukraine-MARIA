@@ -1,0 +1,22 @@
+{
+  "folder": "IC-086",
+  "content": "{{knowledge objective\n|Identifiant=OIC-086-08-A\n|Item_parent=Eyelid pathology\n|Item_parent_short=Eyelid pathology\n|Rank=A\n|Title=Photography of a stye\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=8}}\n\n[[File:Stye.jpg|vignette|532x532px|Lower eyelid stye]]",
+  "question": {
+    "properties": {
+      "question": "In the context of eyelid pathology, what is a stye typically characterized by?",
+      "option_a": "A benign growth on the conjunctiva",
+      "option_b": "An inflammation of the meibomian gland",
+      "option_c": "A corneal ulcer",
+      "option_d": "A retinal detachment",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

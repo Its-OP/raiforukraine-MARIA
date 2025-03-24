@@ -1,0 +1,22 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-36-B\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=B\n|Title=Know how compulsory systematic monitoring of infants and children is organised and compensated.\n|Description=None\n|Rubric=Support\n|Contributors=\n|Ordre=36}}\n100% health insurance cover for compulsory follow-up consultations\n\nBy the child's GP, paediatrician or general practitioner, or by the PMI (up to the age of 6).<br /><references />.",
+  "question": {
+    "properties": {
+      "question": "At what age does the compulsory follow-up system for infants and children end according to the Belgian health insurance policy?",
+      "option_a": "Up to the age of 6",
+      "option_b": "Up to the age of 12",
+      "option_c": "Up to the age of 18",
+      "option_d": "Up to the age of 25",
+      "correct_option": "a"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

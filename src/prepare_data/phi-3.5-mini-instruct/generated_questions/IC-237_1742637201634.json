@@ -1,0 +1,12 @@
+{
+  "folder": "IC-237",
+  "content": "{{knowledge objective\n|Identifiant=OIC-237-08-B\n|Item_parent=Palpitations\n|Item_parent_short=Palpitations\n|Rank=B\n|Title=Identifying Wolff Parkinson White\n|Description=ECG diagnosis\n|Rubric=Etiologies\n|Contributors=Arnaud Bisson\n|Order=8}}\n\n\n* Presence of an '''atrio-ventricular accessory pathway'' connecting the atria to the ventricles (Kent's bundle) '''responsible for junctional tachycardias.'''\n* ECG manifestations: ventricular pre-excitation is evoked in sinus rhythm in the presence of the triad:\n** '''Short PR''' (<120ms)\n** wide QRS\n** QRS initial phase thickening (''delta wave'' (\u03b4))\n\n[[File:Ventricular pre-excitation.png|centric|vignette|900x900px|ECG inter critical revealing a short PR interval and a delta wave]]\n<br />",
+  "question": {
+    "question": "Which of the following ECG characteristics is indicative of Wolff-Parkinson-White (WPW) syndrome?",
+    "option_a": "Prolonged PR interval with a negative QRS complex",
+    "option_b": "Short PR interval with a positive QRS complex and delta wave",
+    "option_c": "Normal PR interval with a broad QRS complex and no delta wave",
+    "option_d": "Short PR interval with a flat T wave and no delta wave",
+    "correct_option": "b"
+  }
+}

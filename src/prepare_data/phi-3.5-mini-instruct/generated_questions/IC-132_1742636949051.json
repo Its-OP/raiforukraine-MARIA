@@ -1,0 +1,22 @@
+{
+  "folder": "IC-132",
+  "content": "{{knowledge objective\n|Identifiant=OIC-132-15-B\n|Item_parent=Cognitive disorders in the elderly. (see item 108)\n|Item_parent_short=Cognitive disorders in the elderly. (see item 108)\n|Rank=B\n|Title=Know the broad outlines of the results expected from MRI in neurocognitive disorders.\n|Description=Application of HAS 2011 criteria\n|Section=Additional examinations\n|Contributors=\n|Order=15}}\nCerebral imaging (MRI at best if no contraindication) should be performed for any neurocognitive disorder of recent discovery (initial diagnosis).\n\nTwo objectives\n\n1.     Rule out a curable cause of cognitive impairment (subdural haematoma, normal pressure hydrocephalus, tumour, etc.).\n\n2.     To obtain morphological elements that may point to the aetiology of cognitive disorders\n\na.     Localised atrophy (T1, hippocampal coronal sections, etc.)\n\nb.     Vascular lesions (FLAIR) Microbleeds (T2*) Recent ischaemia (diffusion)",
+  "question": {
+    "properties": {
+      "question": "When performing an MRI for a patient with a recent diagnosis of a neurocognitive disorder, which of the following findings would be most relevant for determining the aetiology of the disorder?",
+      "option_a": "Localized atrophy in the hippocampus",
+      "option_b": "Vascular lesions visible on FLAIR sequences",
+      "option_c": "Microbleeds detected on T2* sequences",
+      "option_d": "Ischemic changes observed on diffusion-weighted imaging",
+      "correct_option": "b"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

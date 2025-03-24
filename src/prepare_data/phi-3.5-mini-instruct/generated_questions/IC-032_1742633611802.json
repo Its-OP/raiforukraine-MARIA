@@ -1,0 +1,12 @@
+{
+  "folder": "IC-032",
+  "content": "{{knowledge objective\n|Identifiant=OIC-032-02-B\n|Item_parent=Assessment and care of the newborn at term\n|Item_parent_short=Assessment and care of the newborn at term\n|Rank=B\n|Title=Clinical assessment of the term newborn: understanding paediatric criteria for maturing term newborns\n|Description=Know the elements taken into account to assess the maturation of a newborn baby (tone, archaic reflexes).\n|Rubric=Positive diagnosis\n|Contributors=Guillaume Mortamet\n|Order=2}}\n\nGestational age is determined by early ultrasound (10-12 weeks' amenorrhoea (SA)) or, failing that, from the date of the last menstrual period. Birth is said to be \"at term\" if it takes place between 37 and 41 weeks' amenorrhoea.\n\nThe maturation of the newborn is assessed clinically by morphological and neurological criteria, in particular tonus and archaic reflexes '''([[Examination of the term newborn SD-039|Examination of the term newborn]])'''.\n\n# Neonatal tone\n## Passive tone (the more mature the newborn, the more flexed the posture):  - spontaneous quadriflexion posture; - return to flexion of the upper limbs after extension by the examiner; - scarf sign; - examination of angles: popliteal angle (\u226490\u00b0), dorsiflexion of the foot (between 0 and 20\u00b0), heel-ear angle (\u226490\u00b0), adductor angles (between 40 and 70\u00b0).\n## Active tone: - pull-sit manoeuvre; - full sit-up.\n# '''Primary automatisms (or archaic reflexes)'''   Present in term newborns: sucking, cardinal points, grasping, moro reflex, cross-lengthening, automatic walking.  Absence always pathological. Disappearance between 2 and 4 months of age.\n\n<br />",
+  "question": {
+    "question": "At what age is birth considered 'at term'?",
+    "option_a": "35-36 weeks' amenorrhoea",
+    "option_b": "37-41 weeks' amenorrhoea",
+    "option_c": "42-43 weeks' amenorrhoea",
+    "option_d": "30-34 weeks' amenorrhoea",
+    "correct_option": "b"
+  }
+}

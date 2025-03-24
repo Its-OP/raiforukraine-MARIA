@@ -1,0 +1,22 @@
+{
+  "folder": "IC-190",
+  "content": "{{knowledge objective\n|Identifiant=OIC-190-02-A\n|Item_parent=Prolonged fever\n|Item_parent_short=Prolonged fever\n|Rank=A\n|Title=Know the three main categories of causes of prolonged fever\n|Description=Infectious/Neoplastic/Non-infectious inflammatory\n|Rubric=Etiologies\n|Contributors=\n|Order=2}}\n\n\n* infectious causes\n* neoplastic causes\n* Non-infectious inflammatory causes.",
+  "question": {
+    "properties": {
+      "question": "Which of the following is NOT one of the three main categories of causes for prolonged fever?",
+      "option_a": "Bacterial infections",
+      "option_b": "Viral infections",
+      "option_c": "Autoimmune diseases",
+      "option_d": "Allergic reactions",
+      "correct_option": "D"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

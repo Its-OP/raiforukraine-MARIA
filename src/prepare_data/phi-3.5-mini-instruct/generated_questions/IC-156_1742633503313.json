@@ -1,0 +1,22 @@
+{
+  "folder": "IC-156",
+  "content": "{{knowledge objective\n|Identifiant=OIC-156-11-B\n|Item_parent=Infections in the bones and joints (IOA) of children and adults\n|Item_parent_short=Infections osteo articulaires (IOA) de l'enfant et de l'adulte\n|Rank=B\n|Title=Knowing the complications of acute septic arthritis\n|Description=None\n|Topic=Follow-up and/or prognosis\n|Contributors=Dr Florent Valour\n|Order=11}}\n- Sepsis, septic shock\n\n- Abscesses of adjacent soft tissue\n\n- Contiguous osteitis\n\n- Joint destruction with functional sequelae\n\n- Linked to bacteremia: infective endocarditis, other secondary localizations",
+  "question": {
+    "properties": {
+      "question": "Which of the following is NOT a common complication of acute septic arthritis?",
+      "option_a": "Sepsis",
+      "option_b": "Abscesses of adjacent soft tissue",
+      "option_c": "Contiguous osteitis",
+      "option_d": "Chronic obstructive pulmonary disease (COPD)",
+      "correct_option": "d"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

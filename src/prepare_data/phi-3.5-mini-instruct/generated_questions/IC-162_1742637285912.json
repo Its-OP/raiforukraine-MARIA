@@ -1,0 +1,12 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-22-A\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=A\n|Title=Know how to prevent STIs\n|Description=Prevention (including vaccination)\n|Heading=Management\n|Contributors=\n|Order=22}}\n'''For all STIs, you need:'''\n\nProtecting sexual relations by using condoms\n\nPreventive vaccination for HPV, hepatitis B (and hepatitis A in men who have sex with men)\n\nIdentify the contaminated or contaminating partner(s) and propose screening, diagnosis and/or probabilistic treatment;\n\nSystematically offer :\n\n- HIV serology,\n\n- treponemal test,\n\n- hepatitis B serology\n\n- Urinary or genital PCR for Neisseria gonorrhoeae and Chlamydia trachomatis\n\n- Pharyngeal and anal PCR according to sexual practices\n\nEmphasise the risks of recontamination (education).\n\nConsider PrEP (Pre-Exposure Prophylaxis) type treatment against HIV if you take risks too regularly",
+  "question": {
+    "question": "Which of the following is NOT a recommended preventive measure for sexually transmitted infections (STIs) according to the provided educational content?",
+    "option_a": "Using condoms during sexual relations",
+    "option_b": "Preventive vaccination for HPV and hepatitis B",
+    "option_c": "Periodic screening for HIV and hepatitis B in all individuals regardless of risk",
+    "option_d": "Pharyngeal and anal PCR testing based on sexual practices",
+    "correct_option": "C"
+  }
+}

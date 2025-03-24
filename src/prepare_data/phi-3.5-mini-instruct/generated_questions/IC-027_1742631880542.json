@@ -1,0 +1,12 @@
+{
+  "folder": "IC-027",
+  "content": "{{knowledge objective\n|Identifiant=OIC-027-06-A\n|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Rank=A\n|Intitul\u00e9=Toxoplasmose : conna\u00eetre les principaux conseils de pr\u00e9vention de la toxoplasmose\n|Description=Wash your hands before eating, after touching the ground or petting an animal; wash fruit and vegetables; cook meat; be careful with cat litter; avoid eating away from home.\n|Rubric=Care\n|Contributors=Alexandre Vivanti, Philippe Deruelle\n|Order=6}}\n'''Primary prevention'''\n\nIt involves hygienic and dietary recommendations to reduce the risk of seroconversion:\n\n- eat meat well cooked, prefer frozen food ;\n\n- Wash hands before and after handling food;\n\n- Wash raw vegetables and salads thoroughly;\n\n- avoid contact with cats and wear gloves when cleaning the cat's litter tray and doing the gardening.\n\nSecondary prevention\n\nThis includes monthly serological screening (see previous chapter), administration of antiparasitic medication in the event of proven seroconversion and monitoring in the CPDPN (amniocentesis, ultrasound +/- foetal MRI).\n\n'''[[Fetal risk prevention SD-312|312. Fetal risk prevention]]''''",
+  "question": {
+    "question": "Which of the following is NOT a recommended practice for primary prevention of toxoplasmosis according to the provided educational content?",
+    "option_a": "Eating well-cooked meat and frozen food.",
+    "option_b": "Washing hands before and after handling food.",
+    "option_c": "Avoiding contact with cats and wearing gloves when cleaning cat litter.",
+    "option_d": "Feeding raw fish to pregnant women to boost immunity.",
+    "correct_option": "d"
+  }
+}

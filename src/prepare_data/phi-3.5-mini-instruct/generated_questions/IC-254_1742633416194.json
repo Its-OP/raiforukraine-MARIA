@@ -1,0 +1,22 @@
+{
+  "folder": "IC-254",
+  "content": "{{knowledge objective\n|Identifiant=OIC-254-04-A\n|Item_parent=Nutritional needs of pregnant women\n|Item_parent_short=Nutritional needs of pregnant women\n|Rank=A\n|Title=Knowing populations at nutritional risk during pregnancy\n|Description=Disadvantaged areas, teenagers, dieting, alcoholism, smoking, obesity, diabetes, history of malformations, etc.\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=4}}\nThe following populations, to varying degrees, are at risk of deficiency and/or malformation:\n\n- Disadvantaged backgrounds;\n\n- Teenage girls ;\n\n- Restrictive or unbalanced diets;\n\n- Twin pregnancies, closely-spaced pregnancies ;\n\n- Smoking, alcoholism, other addictions ;\n\n- Excess weight, diabetes, eating disorders;\n\n- History of neural tube defect or cleft lip and palate.",
+  "question": {
+    "properties": {
+      "question": "Which of the following populations is NOT typically considered at nutritional risk during pregnancy?",
+      "option_a": "Women with a balanced diet and no known health issues",
+      "option_b": "Teenage girls with restrictive diets",
+      "option_c": "Women with a history of malformations",
+      "option_d": "Women with excess weight and diabetes",
+      "correct_option": "A"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

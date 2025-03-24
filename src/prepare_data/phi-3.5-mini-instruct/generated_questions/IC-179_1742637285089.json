@@ -1,0 +1,12 @@
+{
+  "folder": "IC-179",
+  "content": "{{knowledge objective\n|Identifiant=OIC-179-05-A\n|Item_parent=Health risks linked to water and food. Food poisoning\n|Item_parent_short=Health risks associated with food and water. Food poisoning\n|Rank=A\n|Title=Knowing how to prevent water-related health risks\n|Description=None\n|Rubric=Definition\n|Contributors=Pr Christophe DE CHAMPS DE SAINT LEGER, Dr Johann CAILHOL\n|Order=5}}\nThe prevention of water-related health risks is based on a system that covers everything from source to distribution.\n\n- Protection of water catchment points\n\n- Water filtration and treatment, physical or chemical\n\n- Distribution network maintenance\n\n- Quality control, on entry into the distribution network and at the point of consumption\n- Control of pollution-generating activities: shellfish production areas, etc.",
+  "question": {
+    "question": "Which of the following is NOT a measure included in the system for preventing water-related health risks?",
+    "option_a": "Regular testing of water quality at the source",
+    "option_b": "Maintenance of the distribution network to prevent leaks",
+    "option_c": "Implementation of strict regulations on pollution-generating activities",
+    "option_d": "Ensuring the use of antibiotics in water treatment plants",
+    "correct_option": "d"
+  }
+}

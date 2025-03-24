@@ -1,0 +1,22 @@
+{
+  "folder": "IC-006",
+  "content": "{{knowledge objective\n|Identifiant=OIC-006-04-B\n|Item_parent=The organisation of clinical practice and the methods that make it possible to secure the patient pathway\n|Item_parent_short=The organisation of clinical practice and the methods which make it possible to secure the patient pathway\n|Rank=B\n|Title=Multi-professional protocols: understanding the definition, objectives and challenges of multi-professional protocols\n|Description=Task transfer\n|Section=Definition\n|Contributors=Virginie Migeot\n|Order=4}}\n\nA ''multi-professional protocol'' is the expression of a consensus concerning the management of an acute or chronic illness, by several professionals, within a care structure or in a region, and according to the state of the art at the time. It includes memory aids, checklists, prescription aids and facilitates teamwork. It can be used to validate the continuing professional development (CPD) obligation.\n\nFigure 2: Example of a multi-professional care protocol - Maison m\u00e9dicale de la Plaine, Val-de-Reuil - source : Facult\u00e9 de Rouen - Les ateliers de l'exercice coordonn\u00e9 - mars 2018\n[[File:Item 6 Fig 2.png|thumb]]\n<br />",
+  "question": {
+    "properties": {
+      "question": "What is NOT a component of a multi-professional protocol?",
+      "option_a": "Memory aids for patient management",
+      "option_b": "Checklists for procedure standardization",
+      "option_c": "Prescription aids to ensure medication accuracy",
+      "option_d": "Individual professional decision-making without team consultation",
+      "correct_option": "D"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

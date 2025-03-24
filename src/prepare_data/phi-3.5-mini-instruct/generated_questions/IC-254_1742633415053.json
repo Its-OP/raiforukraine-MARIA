@@ -1,0 +1,12 @@
+{
+  "folder": "IC-254",
+  "content": "{{knowledge objective\n|Identifiant=OIC-254-06-A\n|Item_parent=Nutritional needs of pregnant women\n|Item_parent_short=Nutritional needs of pregnant women\n|Rank=A\n|Title=Knowing how to prevent listeriosis and toxoplasmosis in non-immune women\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=6}}\nTo reduce the risk of food-borne infection, general hygiene measures should be applied (washing raw vegetables and fruit).\n\n\nIn addition, certain foods should be avoided:\n\n- All raw or undercooked meats;\n\n- Cooked charcuterie products requiring cold storage (e.g. rillettes, p\u00e2t\u00e9s, jellied products);\n\n- Charcuterie products made from raw pork liver (e.g. figatelle, liver sausage), raw or lightly cooked pork liver;\n\n- Raw milk ;\n\n- Raw milk cheeses, with the exception of pressed cooked cheeses (such as Gruy\u00e8re or Comt\u00e9);\n\n- Soft cheeses with a bloomy rind (such as Camembert and Brie) and a washed rind (such as Munster and Pont l'Ev\u00eaque);\n\n- Cheeses sold grated;\n\n- Raw eggs and raw or undercooked egg products;\n\n- Raw shellfish, raw fish (sushi, sashimi, tarama), smoked fish.\n\n- Peeled crustaceans sold cooked and requiring cold storage.",
+  "question": {
+    "question": "Which of the following foods should pregnant non-immune women avoid to prevent listeriosis and toxoplasmosis?",
+    "option_a": "Fresh fruits and vegetables, properly washed",
+    "option_b": "Cooked poultry and lean meats, well-cooked",
+    "option_c": "Pressed cooked cheeses like Gruy\u00e8re and Comt\u00e9",
+    "option_d": "Raw milk and soft cheeses with bloomy or washed rind",
+    "correct_option": "d"
+  }
+}

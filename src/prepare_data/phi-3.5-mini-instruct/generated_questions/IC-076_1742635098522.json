@@ -1,0 +1,22 @@
+{
+  "folder": "IC-076",
+  "content": "{{knowledge objective\n|Identifiant=OIC-076-13-A\n|Item_parent=Alcohol dependence\n|Item_parent_short=Alcohol dependence\n|Rank=A\n|Title=Knowing the basic principles of primary prevention of alcohol misuse\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=13}}\nObjective: to prevent or delay the first use of psychoactive substances, in particular by acting on early use.\n\n- Takes into account the person rather than the substance\n\n- Frees itself from any judgmental or stigmatising attitude.\n\nThe main tools are information and education for future users, to reduce risk factors and promote healthy behaviour. <br />",
+  "question": {
+    "properties": {
+      "question": "Which approach is most effective in primary prevention of alcohol misuse by targeting early use?",
+      "option_a": "Providing strict legal penalties for underage drinking.",
+      "option_b": "Implementing educational programs that focus on the risks of alcohol use.",
+      "option_c": "Offering free alcohol samples in controlled environments to promote responsible drinking.",
+      "option_d": "Increasing taxes on alcohol products to reduce consumption.",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-325",
+  "content": "{{knowledge objective\n|Identifiant=OIC-325-21-B\n|Item_parent=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medicinal errors (see items 4 and 5)\n|Item_parent_short=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medication errors (see items 4 and 5)\n|Rank=B\n|Title=Know how to refer a case to ONIAM\n|Description=None\n|Section=Definition\n|Contributors=Clara Locher\n|Order=21}}\n\n==No-fault liability==\nThe French Public Health Code ([https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020628252/ article L1142-1]) provides for ''two liability regimes'' in medical law:\n\n*A fault-based liability regime,\n*no-fault liability.\n\nThe aim of no-fault liability is to make good the loss suffered by compensating the victim (or his heirs) \"without having to prove fault\" on the part of the person who caused the loss.\n\n==Role of ONIAM===\nIn the event of a medical accident, the victim (or his/her heirs) may refer the matter to the ''Commission de Conciliation et d'Indemnisation'' [CCI] in his/her region. In the case of ''no-fault'' liability, the victim will be compensated by the Office National d'Indemnisation des Accidents M\u00e9dicaux, des Affections Iatrog\u00e8nes et des Infections Nosocomiales (ONIAM) on the basis of ''national solidarity''.\n\nThe ONIAM's mission is therefore to organise a system of \"out-of-court\", rapid and free compensation for victims of medical accidents, whether at fault (in the event of insurance failure) or not, \"without going to court\".",
+  "question": {
+    "question": "Under the French Public Health Code, which liability regime allows for compensation to victims of medical accidents without proving fault?",
+    "option_a": "Fault-based liability",
+    "option_b": "Strict liability",
+    "option_c": "No-fault liability",
+    "option_d": "Contributory negligence",
+    "correct_option": "c"
+  }
+}

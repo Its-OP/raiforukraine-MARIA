@@ -1,0 +1,12 @@
+{
+  "folder": "IC-074",
+  "content": "{{knowledge objective\n|Identifiant=OIC-074-20-A\n|Item_parent=Prescription and monitoring of psychotropic drugs (see item 330)\n|Item_parent_short=Prescription and monitoring of psychotropic drugs (see item 330)\n|Rank=A\n|Heading=Hypnotics: knowledge of frequent or serious adverse effects, main drug interactions at all stages of life, particularly in elderly patients.\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=20}}\nZopiclone and zolpidem have the same potential adverse effects as benzodiazepines, particularly in the elderly.\n\nLike benzodiazepines, they can both lead to \"pharmacological tolerance\", \"use disorders\" and \"rebound anxiety\" when stopped.\n\nFor other treatments, please refer to the relevant sections.",
+  "question": {
+    "question": "Which of the following is a common adverse effect shared by zopiclone and zolpidem with benzodiazepines, especially in elderly patients?",
+    "option_a": "Increased alertness",
+    "option_b": "Pharmacological tolerance",
+    "option_c": "Enhanced memory function",
+    "option_d": "Decreased appetite",
+    "correct_option": "B"
+  }
+}

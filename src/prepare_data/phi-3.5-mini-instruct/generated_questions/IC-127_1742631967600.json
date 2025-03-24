@@ -1,0 +1,12 @@
+{
+  "folder": "IC-127",
+  "content": "{{knowledge objective\n|Identifiant=OIC-127-06-B\n|Item_parent=Benign prostatic hypertrophy\n|Item_parent_short=Benign prostatic hypertrophy\n|Rank=B\n|Title=Knowing the paraclinical investigations to be carried out in the first instance\n|Description=ECBU, flow meter, post-mictional residue\n|Rubric=Additional tests\n|Contributors=Alexandre Ingels, Jonathan Olivier\n|Order=6}}\n\n\n==The paraclinical investigations to be carried out as a first-line assessment of BPH are:==\n\n*''ECBU:''' is used to test for [[Haematuria|a haematuria 260]], [[Benign prostatic hyperplasia|urinary tract infection 161]] (differential diagnoses of BPH).\n\n<br />\n\n*Flowmetry:''' is used to identify urinary disorders and incontinence in adults and the elderly|dysuria 125]]. The key parameters in its interpretation are the maximum flow rate and the shape of the curve.\n**A urine volume >150mL provides a more reliable assessment.\n**A maximum flow rate < 15ml/s is considered pathological.\n**A normal curve is bell-shaped, whereas a flat curve indicates an emptying disorder.\n\n<br />[[File:Item 127.jpg|vignette|611x611px|alt=|neant]]\n\n*Post-micturition residue: the presence of a significant quantity of urine (more than 100ml) in the bladder after micturition. It is assessed using ultrasound or a device such as Bladder Scan\u00a9.\n\nA post-micturition residue is not in itself an indication for surgery, especially as a residue may be linked to subvesical obstruction or bladder hypoactivity.\n\n\n\n<br />",
+  "question": {
+    "question": "What is the significance of a post-micturition residue measurement greater than 100ml in the context of benign prostatic hypertrophy (BPH)?",
+    "option_a": "It is an immediate indication for surgical intervention.",
+    "option_b": "It suggests a normal bladder function unaffected by BPH.",
+    "option_c": "It may indicate subvesical obstruction or bladder hypoactivity, not directly indicative of BPH severity.",
+    "option_d": "It confirms the presence of urinary tract infection.",
+    "correct_option": "c"
+  }
+}

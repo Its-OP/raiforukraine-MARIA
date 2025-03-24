@@ -1,0 +1,22 @@
+{
+  "folder": "IC-332",
+  "content": "{{knowledge objective\n|Identifiant=OIC-332-05-A\n|Item_parent=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.\n|Item_parent_short=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.\n|Rank=A\n|Title=Know the elements of the anamnesis and the clinic for the aetiological diagnosis according to the anamnesis and the clinic.\n|Description=Know how to collect the anamnestic and clinical elements necessary for diagnostic orientation\n|Rubric=Positive diagnosis\n|Contributors=Julien Poissy\n|Order=5}}\n\nThe elements of etiological orientation in the initial phase of the evaluation of a state of shock are above all clinical.<gallery widths=\"300\" heights=\"300\">\nFile:Algorithme enquete en \u00e9tiologique \u00e9tat de choc.jpg\n</gallery>",
+  "question": {
+    "properties": {
+      "question": "In the initial evaluation of a state of shock, which of the following is considered the most crucial element for etiological diagnosis according to the anamnesis and clinical presentation?",
+      "option_a": "Patient's dietary habits",
+      "option_b": "Patient's exercise routine",
+      "option_c": "Clinical symptoms and signs",
+      "option_d": "Patient's employment history",
+      "correct_option": "C"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

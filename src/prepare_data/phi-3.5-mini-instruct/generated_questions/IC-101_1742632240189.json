@@ -1,0 +1,22 @@
+{
+  "folder": "IC-101",
+  "content": "{{knowledge objective\n|Identifiant=OIC-101-11-A\n|Item_parent=Facial paralysis\n|Item_parent_short=Facial paralysis\n|Rank=A\n|Intitle=Clinical iconography of a typical example of unilateral PFP\n|Description=Visualise facial asymmetry to mimicry with immobility of superior and inferior territory\n|Rubric=Multimedia content\n|Contributors=\n|Order=11}}\nPlease refer to the CEN website: www.cen-neurologie.fr where videos are available.",
+  "question": {
+    "properties": {
+      "question": "In the clinical iconography of unilateral Paralysis of Facial Nerve (PFP), which of the following best describes the observed facial asymmetry?",
+      "option_a": "Mobility of both superior and inferior facial regions",
+      "option_b": "Immobility of the superior facial region with normal movement in the inferior region",
+      "option_c": "Immobility of both superior and inferior facial regions",
+      "option_d": "Mobility of the inferior facial region with slight immobility in the superior region",
+      "correct_option": "c"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

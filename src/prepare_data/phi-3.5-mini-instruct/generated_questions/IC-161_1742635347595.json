@@ -1,0 +1,21 @@
+{
+  "folder": "IC-161",
+  "content": "{{knowledge objective\n|Identifiant=OIC-161-22-B\n|Item_parent=Urinary infections in children and adults\n|Item_parent_short=Urinary infections in children and adults\n|Rank=B\n|Title=Urinary infections in children: understanding the epidemiology\n|Description=None\n|Rubric=Epidemiology\n|Contributors=Maxime Vall\u00e9e, Alice Faure\n|Order=22}}\n\n\n*Urinary tract infection is one of the most common bacterial infections in children.\n*Favoured by: immaturity with abnormal bladder emptying (constipation plays a role) and bacterial reservoir (prepuce in young boys).\n*In the first few months of life, urinary tract infections are more common in boys (up to 20% of infants under 3 months with an isolated fever) than in girls.\n*Often associated with RVU (functional or malformative).",
+  "question": {
+    "properties": {
+      "question": "What factor contributes to a higher incidence of urinary tract infections (UTIs) in boys during the first few months of life?",
+      "option_a": "Boys have a more developed immune system.",
+      "option_b": "Constipation plays a role in abnormal bladder emptying.",
+      "option_c": "Boys have a smaller urinary tract.",
+      "option_d": "Hormonal differences between boys and girls."
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

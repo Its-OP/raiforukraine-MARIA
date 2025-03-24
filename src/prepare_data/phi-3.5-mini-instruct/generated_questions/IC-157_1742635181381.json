@@ -1,0 +1,22 @@
+{
+  "folder": "IC-157",
+  "content": "{{knowledge objective\n|Identifiant=OIC-157-12-A\n|Item_parent=Bacteremia/Fungemia in adults and children\n|Item_parent_short=Bacteremia/Fungemia in adults and children\n|Rank=A\n|Title=Know the general principles of the probabilistic therapeutic management of bacteremia/fungemia\n|Description=None\n|Topic=Management\n|Contributors=\n|Order=12}}\n- Hospital admission essential\n\n- Antimicrobial = therapeutic emergency\n\n- Choice of antimicrobial: ''probabilistic depending on the suspected clinical route of entry''.\n\n- Parenteral antimicrobial initially\n\n- Bactericide or fungicide\n\n- Combinations (dual therapy) have limited indications, mainly to broaden the spectrum of treatments.\n\n- Antimicrobial treatment is secondarily adapted to :\n\n* Direct examination of blood cultures (Gram stain)\n* Species identification\n* Antibiotic susceptibility testing / antifungal susceptibility testing",
+  "question": {
+    "properties": {
+      "question": "When managing bacteremia/fungemia, which of the following is the initial approach for antimicrobial therapy?",
+      "option_a": "Administering oral antibiotics based on patient's history of allergies",
+      "option_b": "Choosing a bactericide or fungicide intravenously as a therapeutic emergency",
+      "option_c": "Selecting antimicrobials based on the most probable clinical route of entry",
+      "option_d": "Using broad-spectrum antibiotics as a first-line treatment without culture results",
+      "correct_option": "b"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

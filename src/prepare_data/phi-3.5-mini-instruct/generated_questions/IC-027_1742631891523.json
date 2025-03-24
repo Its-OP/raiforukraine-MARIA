@@ -1,0 +1,22 @@
+{
+  "folder": "IC-027",
+  "content": "{{knowledge objective\n|Identifiant=OIC-027-04-A\n|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Rank=A\n|Title=Toxoplasmosis: knowing the consequences of IMF\n|Description=Knowing the risks according to the term of the pregnancy\n|Rubric=Definition\n|Contributors=Alexandre Vivanti, Philippe Deruelle\n|Order=4}}\nMaternal-foetal transmission depends on the gestational age at infection. It increases as pregnancy progresses. It is very low in the periconceptional period (1% between 0 and 7 weeks' gestation; 6 to 10% up to 13 weeks' gestation), while in the 2nd trimester, maternal-foetal transmission is around 40%. In the 3rd trimester, it is 72%.\n\nThe severity of lesions decreases with gestational age:\n\n- Severe embryopathy and foetopathy more frequent in the 1st trimester (61%);\n\n- Foetopathies or sub-clinical forms (serological) in the 2nd trimester (25%) ;\n\n- Pure serological forms (no foetal repercussions) in the 3rd trimester\n\nIn all, 70% of children infected \"in utero\" have a sub-clinical condition; 25% have a mild form, mainly ocular (chorioretinitis); less than 5% have a severe form with neurological manifestations (ventricular dilatation, hydrocephalus, etc.).",
+  "question": {
+    "properties": {
+      "question": "At what gestational age is the risk of maternal-foetal transmission of Toxoplasma gondii the highest?",
+      "option_a": "0-7 weeks' gestation",
+      "option_b": "8-13 weeks' gestation",
+      "option_c": "2nd trimester",
+      "option_d": "3rd trimester",
+      "correct_option": "d"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

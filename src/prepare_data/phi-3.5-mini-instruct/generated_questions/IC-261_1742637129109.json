@@ -1,0 +1,22 @@
+{
+  "folder": "IC-261",
+  "content": "{{knowledge objective\n|Identifiant=OIC-261-09-B\n|Item_parent=Glomerular nephropathy\n|Item_parent_short=Glomerular nephropathy\n|Rank=B\n|Title=Knowing the principles of SNLGM\n|Description=To know the elements of the treatment of a SNLGM (to know the principles of corticotherapy and its follow-up).\n|Rubric=Management\n|Contributors=Eric Daugas,Bruno Moulin\n|Order=9}}\n\nTreatment of idiopathic SNLGM\n\n* Symptomatic treatment of nephrotic syndrome.\n* Prolonged high-dose oral corticosteroid therapy, with adjuvant treatments (diet, calcium, vitamin D, etc.).",
+  "question": {
+    "properties": {
+      "question": "What is the initial treatment approach for idiopathic SNLGM?",
+      "option_a": "Immediate dialysis to manage kidney function.",
+      "option_b": "High-dose oral corticosteroid therapy, with adjuvant treatments.",
+      "option_c": "Lifelong immunosuppressive therapy without corticosteroids.",
+      "option_d": "Surgical intervention to remove affected kidney tissue.",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

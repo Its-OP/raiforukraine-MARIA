@@ -1,0 +1,12 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-14-B\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=B\n|Title=Knowing the extra-genital manifestations of STIs\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=14}}\n'''Gonococcus:'''\n\n- Anorectitis: asymptomatic +++, anal pruritus, anitis, purulent rectal discharge, diarrhoea, anorectal bleeding, rectal syndrome (tenesmus, epithelial discharge, mucopurulent diarrhoea) and/or feeling of incomplete defecation.\n\n- Oropharyngitis: asymptomatic +++\n\n- Gonococcal septicaemia: fever, skin involvement (petechial purpura; acral or periarticular papules or papulo-pustules), and/or joint involvement (septic mono- or oligo-arthritis; tenosynovitis).\n\n- Other: peri-hepatitis, endocarditis or meningitis.\n\n\n'''Chlamydia:''''\n\n- Pharyngitis\n\n- Anorectitis : asymptomatic +++\n\n- Oculourethro-synovial syndrome: acute or subacute reactive polyarthritis, urethritis, bilateral conjunctivitis, balanitis circinata, psoriasiform palmoplantar keratoderma, keratoconjunctivitis, arthritis.\n\n- In newborns: keratoconjunctivitis, pneumopathy\n\n- Other: peri-hepatitis\n\n\n'''Secondary syphilis:'''\n\n- Syphilitic roseola: 1st secondary syphilis rash, 6 weeks after the chancroid, pinkish macules on the trunk, no other functional symptoms\n\n- Syphilis: papular, palmoplantar\n\n- Other skin symptoms: false perlchea, acneiform papules on the chin, patchy depilation of the tongue, depilation of the eyebrows, etc.\n\n- General signs: fever, headache, poly-ADP, poly-arthralgia, neuro-syphilis, ophthalmic manifestations, etc.",
+  "question": {
+    "question": "Which of the following is NOT an extra-genital manifestation of gonorrhea?",
+    "option_a": "Anorectitis with purulent rectal discharge",
+    "option_b": "Oropharyngitis",
+    "option_c": "Peri-hepatitis",
+    "option_d": "Anemia",
+    "correct_option": "D"
+  }
+}

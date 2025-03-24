@@ -1,0 +1,22 @@
+{
+  "folder": "IC-245",
+  "content": "{{knowledge objective\n|Identifiant=OIC-245-24-B\n|Item_parent=Adrenal insufficiency in adults and children\n|Item_parent_short=Adrenal insufficiency in adults and children\n|Rank=B\n|Title=Knowing the specificities of the biological diagnosis of adrenal insufficiency in children\n|Description=None\n|Section=Additional tests\n|Contributors=Claire Briet,St\u00e9phanie Espiard\n|Order=24}}\nThe specificities concern the aetiological diagnosis with the determination of 17 OH progesterone in the context of 21 hydroxylase block. This assay has been performed systematically on blotting paper in all newborns in France since 1995 on the 3rd day of life. [Systematic newborn screening SD-308\n\nIn adrenoleukodystrophy, long-chain fatty acids are measured.",
+  "question": {
+    "properties": {
+      "question": "In the context of diagnosing adrenal insufficiency in children, which specific test is systematically performed on newborns in France since 1995 to measure a steroid precursor?",
+      "option_a": "Cortisol level measurement in blood",
+      "option_b": "17 OH progesterone determination on blotting paper",
+      "option_c": "Long-chain fatty acids measurement",
+      "option_d": "Adrenaline assay in urine",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

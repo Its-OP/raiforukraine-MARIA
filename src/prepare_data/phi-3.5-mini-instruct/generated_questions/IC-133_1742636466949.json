@@ -1,0 +1,10 @@
+{
+  "folder": "IC-133",
+  "content": "{{knowledge objective\n|Identifiant=OIC-133-03-A\n|Item_parent=Autonomy and dependence in the elderly\n|Item_parent_short=Autonomy and dependence in elderly people\n|Rank=A\n|Title=Knowing the main causes of loss of functional independence\n|Description=Know and be able to explain Wood's sequence\n|Rubric=Definition\n|Contributors=\n|Order=3}}\n'''The main causes of loss of functional independence:'''\n\n- Illness (physical or mental)\n\n- Care (hospitalisation, adverse drug reactions)\n\n- A life event (widowhood, moving to an unsuitable home, etc.)\n\n- Socio-economic difficulties (financial difficulties, isolation, etc.)\n\n\n'''Know and be able to explain the Wood sequence'''\n\nWood's functional analysis of diseases distinguishes :\n\n- '''Deficiency''' corresponds to\u0300 an anomaly of an organ, apparatus or system. This anomaly may have no pathological consequences, but more often than not it is symptomatic and equivalent to disease.\n\n- Disability is one of the consequences of impairment and is expressed in terms of function or performance.\n\n- Disability is the disadvantage resulting from incapacity. It reflects the gap between the person's physical and intellectual incapacity and the usual standards of quality of life. Disability is proportional to the material and social resources available to compensate for the incapacity\u0301.",
+  "question": {
+    "properties": {
+      "question": "According to Wood's functional analysis of diseases, which of the following best represents the relationship between deficiency, disability, and disadvantage?",
+      "option_a": "Deficiency is a sympten\n\n\n\n\n\n"
+    }
+  }
+}

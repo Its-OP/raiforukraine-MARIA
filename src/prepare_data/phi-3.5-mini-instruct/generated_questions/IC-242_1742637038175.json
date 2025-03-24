@@ -1,0 +1,22 @@
+{
+  "folder": "IC-242",
+  "content": "{{knowledge objective\n|Identifiant=OIC-242-01-A\n|Item_parent=Hyperthyroidism\n|Item_parent_short=Hyperthyroidism\n|Rank=A\n|Title=Know the definition of hyperthyroidism and thyrotoxicosis\n|Description=None\n|Rubric=Definition\n|Contributors=Dr Camille Buffet,Dr Magalie Haissaguerre\n|Order=1}}\n\nHyperthyroidism = excess production of thyroid hormones linked to hyperfunction of the thyroid gland.\n\nThyrotoxicosis = consequences of excess thyroid hormones in target tissues, whatever the cause:\n\n* release of thyroid hormones, as in De Quervain's sub-acute thyroiditis, for example\n* hyperproduction of thyroid hormones by the thyroid gland, as in Graves' disease, for example\n* exogenous supply of thyroid hormones (factitious thyrotoxicosis).\n\n<br />",
+  "question": {
+    "properties": {
+      "question": "What is the primary distinction between hyperthyroidism and thyrotoxicosis?",
+      "option_a": "Hyperthyroidism is caused by autoimmune disease, while thyrotoxicosis can be due to any cause of excess thyroid hormones.",
+      "option_b": "Hyperthyroidism refers to excess production of thyroid hormones due to hyperfunction of the thyroid gland, while thyrotoxicosis refers to the consequences of excess thyroid hormones in target tissues, regardless of the cause.",
+      "option_c": "Hyperthyroidism is a milder form of thyroid dysfunction compared to thyrotoxicosis.",
+      "option_d": "Thyrotoxicosis is a treatment method for hyperthyroidism.",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

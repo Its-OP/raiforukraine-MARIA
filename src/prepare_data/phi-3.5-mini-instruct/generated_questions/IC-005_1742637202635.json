@@ -1,0 +1,12 @@
+{
+  "folder": "IC-005",
+  "content": "{{knowledge objective\n|Identifiant=OIC-005-11-A\n|Item_parent=Medical criminal, civil, administrative and disciplinary liability. The management of errors and complaints; therapeutic hazards\n|Item_parent_short=Penal, civil, administrative and disciplinary medical liability. The management of errors and complaints; the therapeutic hazard\n|Rank=A\n|Title=Knowing the definition of therapeutic hazard\n|Description=None\n|Rubric=Definition\n|Contributors=Bastien Boussat\n|Order=11}}\n\nThe therapeutic hazard is distinguished from errors by its inevitability. It is an undesirable event, the cause of which is a compliant and error-free care action. It is linked to the realisation of a risk inherent in the care provided. An example is the occurrence of a side effect of a correctly prescribed and administered medicine.  Therapeutic hazard is defined as a medical accident (an unforeseen event causing damage with a certain causal link to the medical act), an iatrogenic condition (the care provided to the patient caused the damage) or a nosocomial infection (the infection appears after hospitalisation and was absent on the day of admission) which occurred without any responsibility on the part of the healthcare professionals or the healthcare establishment. According to case law, the therapeutic hazard consists of \"the occurrence, through no fault of the practitioner, of an accidental risk inherent in the medical act and which could not be controlled\".  Any risk inherent in the act of treatment, diagnosis or prevention may constitute a therapeutic hazard.",
+  "question": {
+    "question": "What distinguishes a therapeutic hazard from an error in medical practice?",
+    "option_a": "Therapeutic hazards are caused by negligence or lack of skill.",
+    "option_b": "Therapeutic hazards are always preventable with proper care.",
+    "option_c": "Therapeutic hazards occur despite a compliant and error-free care action.",
+    "option_d": "Therapeutic hazards are minor side effects that do not require any medical intervention.",
+    "correct_option": "c"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-242",
+  "content": "{{knowledge objective\n|Identifiant=OIC-242-03-A\n|Item_parent=Hyperthyroidism\n|Item_parent_short=Hyperthyroidism\n|Rank=A\n|Title=Knowing the clinical signs of hyperthyroidism\n|Description=Including ophthalmological signs\n|Rubric=Positive diagnosis\n|Contributors=Dr Camille Buffet,Dr Magalie Haissaguerre\n|Order=3}}\n\nThe intensity of the clinical signs depends on the severity of the thyrotoxicosis, its duration and the patient's condition. It is the combination of several disorders that prompts the diagnosis.\n\nThe main signs and symptoms associated with thyrotoxicosis in adults are :\n\n- [[Agitation SD-114|nervousness]] and [[Sleep disorders in children and adults|sleep disorders]]\n\n- the [[Tachycardia SD-166|tachycardia]] of rest, regular, sinusoidal \u00b1 [[Palpitations SD-165|palpitations]]\n\n- the [[Asthenia SD-021|asthenia]]\n\n- tremors\n\n- weight loss SD-017|weight loss]] with preserved appetite\n\n- thermophobia, often accompanied by [[Hypersudation SD-025|hypersudation]], sometimes accompanied by polydipsia\n\n- sometimes [[Dyspnoea SD-162|dyspnoea]] of effort\n\n- Muscular weakness SD-074|muscular fatigability]] which can lead to amyotrophy, especially in the elderly.\n\n- [[Diarrhea SD-002|diarrhea]]\n\nThe ophthalmological signs are specific to Graves' disease and, apart from the glare which may occur whatever the cause of the excess of thyroid hormones, are observed in Graves' disease. They are mainly :\n\n- retraction of the upper eyelid uncovering the iris, with oculopalpebral asynergy and sometimes conjunctival redness;\n\n- exophthalmos ;\n\n- oedema [[Palpebral anomalies SD-139|palpebral]].",
+  "question": {
+    "question": "Which of the following is NOT a typical clinical sign of hyperthyroidism?",
+    "option_a": "Agitation and sleep disorders",
+    "option_b": "Tachycardia and palpitations",
+    "option_c": "Diarrhea",
+    "option_d": "Hypertension",
+    "correct_option": "d"
+  }
+}

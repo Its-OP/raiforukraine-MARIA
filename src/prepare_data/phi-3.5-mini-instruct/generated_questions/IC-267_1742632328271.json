@@ -1,0 +1,22 @@
+{
+  "folder": "IC-267",
+  "content": "{{knowledge objective\n|Identifiant=OIC-267-01-A\n|Item_parent=Disorders of acid-base balance and fluid-electrolyte disorders\n|Item_parent_short=Disorders of acid-base equilibrium and fluid-electrolyte disorders\n|Rank=A\n|Title=Knowing the indications for gasometry\n|Description=Know the situations in which it is necessary to perform arterial GDS (shock, acute respiratory failure) and venous GDS (suspected ketoacidosis).\n|Rubric=Positive diagnosis\n|Contributors=P Rieu,B Moulin,M Flamant\n|Order=1}}\n\n*Dyspnoea;\n*Suspicion of acute or chronic hypoxaemic lung disease;\n*Clinical suspicion of acid-base imbalance (metabolic or respiratory);\n*suspicion of ketoacidosis;\n*Severe acute renal failure;\n*Metabolic toxicities responsible for metabolic acidosis;\n*Shock;\n*Disturbances of consciousness, coma",
+  "question": {
+    "properties": {
+      "question": "In which of the following clinical situations is it necessary to perform arterial blood gas (ABG) analysis?",
+      "option_a": "Patient with chronic cough and mild shortness of breath",
+      "option_b": "Patient with suspected shock due to severe acute renal failure",
+      "option_c": "Patient with a slight headache and photophobia",
+      "option_d": "Patient with stable angina pectoris and controlled hypertension",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

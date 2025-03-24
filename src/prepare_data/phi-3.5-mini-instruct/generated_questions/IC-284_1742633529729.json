@@ -1,0 +1,12 @@
+{
+  "folder": "IC-284",
+  "content": "{{knowledge objective\n|Identifiant=OIC-284-05-A\n|Item_parent=Functional colorectal disease\n|Item_parent_short=Functional colopathy\n|Rank=A\n|Heading=Know the clinical elements that should lead to a colonoscopy to rule out organic disease.\n|Description=Family history, age > 50 years, worsening of symptoms or resistance to treatment, weight loss, digestive haemorrhage, clinical abnormalities.\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=5}}\nThe presence of certain symptoms known as clinical warning signs should prompt a colonoscopy to rule out organic causes.\n\n- Symptoms appear after the age of 50;\n\n- Blood in the stools (rectorrhagia or melena);\n\n- Nocturnal symptoms;\n\n- Weight loss;\n\n- Recent onset or modification of symptoms;\n\n- Terrain at risk of colonic neoplasia (family history of colorectal cancer see item 301).\n\nThese factors must therefore be systematically investigated during questioning. If an abnormality is found on abdominal physical examination, including a digital rectal examination in forms with constipation, or if there is resistance to the proposed medical treatment, colonoscopy is also indicated.",
+  "question": {
+    "question": "Which of the following is NOT a clinical element that should lead to a colonoscopy to rule out organic disease in a patient with functional colorectal disease?",
+    "option_a": "Family history of colorectal cancer",
+    "option_b": "Age over 50 years with worsening symptoms",
+    "option_c": "Presence of nocturnal symptoms",
+    "option_d": "Patient's preference for dietary supplements",
+    "correct_option": "d"
+  }
+}

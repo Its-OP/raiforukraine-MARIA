@@ -1,0 +1,22 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-20-B\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=B\n|Title=Knowing how to identify a dental articulation disorder\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=20}}\nDental articulation = relationship between the maxillary and mandibular teeth\n\nJoint disorder = conflict between the 2 dental arches\n\nManifested by: an open bite, lateral deviation of the mandible, prognathia, abutting incisors, overlapping, maxillary proaleviation\n\nOrthodontic treatment before the age of 16",
+  "question": {
+    "properties": {
+      "question": "Which of the following is NOT a typical manifestation of a dental articulation disorder?",
+      "option_a": "Open bite",
+      "option_b": "Lateral deviation of the mandible",
+      "option_c": "Prognathia",
+      "option_d": "Auditory impairment",
+      "correct_option": "D"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

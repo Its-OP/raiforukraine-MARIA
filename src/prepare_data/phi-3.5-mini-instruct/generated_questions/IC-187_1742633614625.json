@@ -1,0 +1,22 @@
+{
+  "folder": "IC-187",
+  "content": "{{knowledge objective\n|Identifiant=OIC-187-10-A\n|Item_parent=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Item_parent_short=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Rank=A\n|Title=Photo of atopic dermatitis\n|Description=Photo of atopic dermatitis in infants in flare-up.\n|Rubric=Multimedia content\n|Contributors=\n|Order=10}}\n\n[[File:DA poussee.jpg|vignette|Dermatitis atopique du nourrisson en pouss\u00e9e]]",
+  "question": {
+    "properties": {
+      "question": "What is the most common trigger for atopic dermatitis in infants, as illustrated in the provided image?",
+      "option_a": "Exposure to cold temperatures",
+      "option_b": "Contact with irritants like soap or detergents",
+      "option_c": "Genetic predisposition and immune system dysregulation",
+      "option_d": "Direct sunlight exposure",
+      "correct_option": "b"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

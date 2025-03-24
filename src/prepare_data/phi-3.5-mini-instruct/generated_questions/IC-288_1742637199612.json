@@ -1,0 +1,12 @@
+{
+  "folder": "IC-288",
+  "content": "{{knowledge objective\n|Identifiant=OIC-288-03-B\n|Item_parent=Hemorrhoidal pathology\n|Item_parent_short=Hemorrhoidal pathology\n|Rank=B\n|Title=Knowing the pathophysiology of haemorrhoids\n|Description=None\n|Rubric=Physiopathology\n|Contributors=\n|Order=3}}\nHaemorrhoidal disease refers to all complaints associated with changes in haemorrhoidal tissue. It is referred to as an \"attack\" when complaints are of short duration and include a painful component, or as a chronic disease when signs are regular. Symptoms are usually accompanied by a morphological change in the haemorrhoids, but there is no anatomo-clinical correlation (people can complain of small haemorrhoids, or have large haemorrhoids without feeling them). The pathogenesis of haemorrhoidal disease is only partially understood. There are two theories that lead to a normal, asymptomatic anatomical component becoming symptomatic: the mechanical theory and the vascular theory.\n\n- The mechanical theory is based on a weakening of the support tissue or anchoring material of the internal haemorrhoids: long bowel movements, straining (dyschesia), changes in stool consistency (hard stools) and childbirth are risk factors for the onset of haemorrhoidal signs. Many patients express the fact that the onset of signs of haemorrhoidal disease coincides with childbirth.\n\n- Vascular theory likens haemorrhoidal disease to venous insufficiency. However, haemorrhoids are not veins (they do not have congenital valves) and the red bleeding of a haemorrhoidal crisis is not venous. However, the increase in size of haemorrhoidal tissue at the end of pregnancy and the short-term effectiveness of so-called veinotonic treatments support this hypothesis.\n\nCf item ''[[2C-288-ET-B01]]''''",
+  "question": {
+    "question": "What is a common risk factor for the onset of haemorrhoidal signs according to the mechanical theory?",
+    "option_a": "Long bowel movements",
+    "option_b": "Viral infections",
+    "option_c": "High blood pressure",
+    "option_d": "Excessive alcohol consumption",
+    "correct_option": "A"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-27-A\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=A\n|Title=Scoliosis in children: knowing the risk factors\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=27}}\nIdiopathic in 80% of cases = systematic screening\n\nIn 20% of cases: underlying diseases (neuromuscular diseases or polymalformative syndrome, for example)\n\nWorsens with growth, vigilance +++ around puberty",
+  "question": {
+    "properties": {
+      "question": "At what stage does idiopathic scoliosis typically worsen, necessitating increased vigilance?",
+      "option_a": "Infancy",
+      "option_b": "Early childhood",
+      "option_c": "Around puberty",
+      "option_d": "Adulthood",
+      "correct_option": "c"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

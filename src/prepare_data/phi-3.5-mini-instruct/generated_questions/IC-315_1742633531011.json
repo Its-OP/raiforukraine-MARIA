@@ -1,0 +1,12 @@
+{
+  "folder": "IC-315",
+  "content": "{{knowledge objective\n|Identifiant=OIC-315-08-A\n|Item_parent=Acute leukaemia\n|Item_parent_short=Acute leukaemia\n|Rank=A\n|Title=Knowing the epidemiological features of childhood LA\n|Description=Prevalence of acute leukaemia in children\n|Rubric=Epidemiology\n|Contributors=Virginie Gandemer\n|Order=8}}\nAcute leukaemia (ALL) accounts for 30-35% of childhood cancers (the most common cancer). There are 2 types of blast cell proliferation:\n\n- Lymphoblastic AL = 80% of childhood leukaemias\n\n- in 75%: immature B-lineage lymphoblasts\n\n\u00d8 400 ALLs in France <15 years / year\n\n- peak frequency 2 - 6 years\n\n- girl = boy\n\n- Myeloblastic LA = 20%.\n\n\u00d8 100 LAM in France /year",
+  "question": {
+    "question": "What is the peak frequency of acute lymphoblastic leukaemia (ALL) occurrence in children?",
+    "option_a": "1-3 years",
+    "option_b": "2-6 years",
+    "option_c": "7-10 years",
+    "option_d": "11-15 years",
+    "correct_option": "b"
+  }
+}

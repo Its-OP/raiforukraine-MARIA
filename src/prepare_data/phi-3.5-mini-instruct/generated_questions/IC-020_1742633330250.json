@@ -1,0 +1,12 @@
+{
+  "folder": "IC-020",
+  "content": "{{knowledge objective\n|Identifiant=OIC-020-25-A\n|Item_parent=Health research methodology\n|Item_parent_short=Health research methodology\n|Rank=A\n|Intitle=Calculating the number of subjects required\n|Description=Know how to define\n|Rubric=Definition\n|Contributors=Julie Berbis (CUESP),J\u00e9r\u00f4me Lambert (CIMES),David Hajage (CIMES),Alexandra Rouquette (CIMES)\n|Order=25}}\n\nThe number of subjects required to be included in a study must always be calculated a priori.\n\nFor \"descriptive studies\", this is the minimum number of subjects required to ensure the desired \"precision\" (precision = half-width of the confidence interval, CI) of the estimated parameter (prevalence, incidence rate, etc.). It therefore depends on the alpha confidence level of the CI (generally 5%), the desired precision and the expected value of the estimated parameter.\n\nFor ''analytical and experimental studies'', this is the minimum number of subjects that must be included in the sample (and analysed) to guarantee sufficient ''power'' for the study (cf. [[Factors likely to influence the power of a study 2C-020-DE-A10]]). It depends on statistical parameters (risk of 1<sup>rst</sup> alpha species, risk of 2<sup>th</sup> beta species) and clinical parameters (effect size - see [[Effect size 2C-323-DE-A06]] - and variability of the endpoint).",
+  "question": {
+    "question": "When calculating the number of subjects required for a health research study, which of the following factors is NOT considered for determining the sample size?",
+    "option_a": "The alpha confidence level of the confidence interval",
+    "option_b": "The desired precision of the estimated parameter",
+    "option_c": "The effect size and variability of the endpoint",
+    "option_d": "The color of the researchers' lab coats",
+    "correct_option": "d"
+  }
+}

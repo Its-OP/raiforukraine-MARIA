@@ -1,0 +1,22 @@
+{
+  "folder": "IC-315",
+  "content": "{{knowledge objective\n|Identifiant=OIC-315-04-A\n|Item_parent=Acute leukaemia\n|Item_parent_short=Acute leukaemia\n|Rank=A\n|Title=Knowing the clinical signs of bone marrow failure\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=4}}\n- Anaemic syndrome, often rapid in onset and therefore poorly tolerated\n\n- Haemorrhagic syndrome secondary to thrombocytopenia (mucocutaneous bleeding, purpura, etc.) sometimes aggravated by disseminated intravascular coagulation secondary to the disease.\n\n- Infectious syndrome associated with neutropenia: fever, ulcerative colitis, pneumonia, etc. The clinical picture is usually poor.",
+  "question": {
+    "properties": {
+      "question": "Which of the following clinical signs is NOT typically associated with acute leukaemia?",
+      "option_a": "Anaemic syndrome with rapid onset",
+      "option_b": "Haemorrhagic syndrome secondary to thrombocytopenia",
+      "option_c": "Infectious syndrome associated with neutropenia",
+      "option_d": "Hyperglycemia unrelated to blood cell counts",
+      "correct_option": "D"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

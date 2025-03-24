@@ -1,0 +1,46 @@
+{
+  "folder": "IC-217",
+  "content": "{{knowledge objective\n|Identifiant=OIC-217-03-B\n|Item_parent=Mononucleosis syndrome\n|Item_parent_short=Mononucleosis syndrome\n|Rank=B\n|Title=Photo of blood smear\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=3}}\nBlood smear of mononucleosis syndrome. Presence of activated lymphocytes (hyperbasophilic lymphocytes). (Illustration provided by Dr Karim MALOUM, Haematology Department, Piti\u00e9-Salp\u00eatri\u00e8re Hospital)\n[[File:Sd Mononucleosique.jpg|vignette|Blood smear of a mononucleosis syndrome. Presence of activated lymphocytes (hyperbasophilic lymphocytes). ]]\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Question",
+        "description": "In a blood smear of a patient with mononucleosis syndrome, which type of cell is predominantly observed due to hyperactivation?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Option A",
+        "description": "Neutrophils are predominantly observed, indicating a bacterial infection.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Option B",
+        "description": "Eosinophils are predominantly observed, suggesting an allergic reaction or parasitic infection.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Option C",
+        "description": "Hyperbasophilic lymphocytes are predominantly observed, indicating mononucleosis syndrome.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Option D",
+        "description": "Basophils are predominantly observed, indicating an immediate hypersensitivity reaction.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "C",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

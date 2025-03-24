@@ -1,0 +1,22 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-20-A\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=A\n|Title=Knowing how to diagnose addiction\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=20}}\n'''Nicotine is the main agent responsible for addiction'''\n\n'''Tobacco use harmful to health (ICD-10 criteria)'''\n\n* Consumption that is harmful to health but does not meet the criteria for dependence.\n* Complications may be physical or psychological, but the patient is unaware of the links between harm and consumption.\n\n''Tobacco dependence (ICD-10 criteria)'': at least 3 of the following criteria:\n\n*Strong or compulsive desire to smoke\n*Difficulties in controlling tobacco use (initiation or interruption of consumption or levels of use);\n*Withdrawal syndrome when cutting down or stopping.\n*Tolerance (increasing doses to obtain the same effects).\n*Giving up other sources of pleasure and interest in favour of tobacco use or increasing the time spent obtaining the substance, using it or recovering from its effects.\n*Continued use of the substance despite the occurrence of harmful consequences.",
+  "question": {
+    "properties": {
+      "question": "Which of the following is NOT a criterion for diagnosing tobacco dependence according to ICD-10 criteria?",
+      "option_a": "Strong or compulsive desire to smoke",
+      "option_b": "Difficulties in controlling tobacco use",
+      "option_c": "Tolerance to tobacco leading to increased doses for the same effect",
+      "option_d": "Regular consumption of alcohol to alleviate withdrawal symptoms",
+      "correct_option": "d"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

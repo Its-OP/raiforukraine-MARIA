@@ -1,0 +1,22 @@
+{
+  "folder": "IC-325",
+  "content": "{{knowledge objective\n|Identifiant=OIC-325-01-A\n|Item_parent=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medicinal errors (see items 4 and 5)\n|Item_parent_short=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medication errors (see items 4 and 5)\n|Rank=A\n|Title=Know the definition of an adverse drug reaction (ADR)\n|Description=None\n|Topic=Definition\n|Contributors=Marie Briet\n|Order=1}}\n\n==Definition of an adverse drug reaction== (ADR)\nAn ''adverse drug reaction'' [ADR] is any suspected ''noxious'' and ''unintended'' response to a medicinal product that occurs under conditions of use consistent or inconsistent with the terms of the authorisation or registration of the medicinal product, including in cases of\n\n* use without a marketing authorisation,\n* overdose\n* misuse,\n* abuse,\n* medication errors\n* interaction,\n* when taken during pregnancy or breast-feeding,\n* occupational exposure.",
+  "question": {
+    "properties": {
+      "question": "What constitutes an adverse drug reaction (ADR)?",
+      "option_a": "A beneficial and intended response to a medicinal product.",
+      "option_b": "A noxious and unintended response to a medicinal product under normal use conditions.",
+      "option_c": "A noxious and unintended response to a medicinal product under conditions of use inconsistent with the authorisation or registration.",
+      "option_d": "An expected side effect that occurs at recommended dosage levels.",
+      "correct_option": "C"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

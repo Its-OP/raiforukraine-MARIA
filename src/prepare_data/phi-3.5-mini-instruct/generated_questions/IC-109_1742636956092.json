@@ -1,0 +1,22 @@
+{
+  "folder": "IC-109",
+  "content": "{{knowledge objective\n|Identifiant=OIC-109-13-A\n|Item_parent=Gait and balance disorders\n|Item_parent_short=Gait and balance disorders\n|Rank=A\n|Title=Cite the main complementary examinations other than imaging in the presence of a walking or balance disorder.\n|Description=Depending on the aetiology EMG, biology...\n|Rubric= Complementary examinations\n|Contributors=\n|Order=13}}\nBiological work-up (hypoglycaemia, ionic disorders: dyskalaemia, hypercalcaemia, hypocalcaemia, hyponatraemia, anaemia) blood gas, PR (pulmonary embolism)\n\nECG: rhythm disorders\n\nInjection-free brain scan: (subdural haematoma, extra-dural haematoma, stroke)",
+  "question": {
+    "properties": {
+      "question": "Which of the following is NOT a main complementary examination for walking or balance disorders, aside from imaging?",
+      "option_a": "Electromyography (EMG)",
+      "option_b": "Blood gas analysis",
+      "option_c": "Pulmonary embolism (PR) assessment",
+      "option_d": "Magnetic Resonance Imaging (MRI)",
+      "correct_option": "d"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

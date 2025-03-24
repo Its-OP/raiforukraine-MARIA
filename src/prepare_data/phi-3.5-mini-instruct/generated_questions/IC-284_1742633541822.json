@@ -1,0 +1,21 @@
+{
+  "folder": "IC-284",
+  "content": "{{knowledge objective\n|Identifiant=OIC-284-07-B\n|Item_parent=Functional colopathy\n|Item_parent_short=Functional colopathy\n|Rank=B\n|Title=Know the differential diagnoses and the additional tests needed to rule them out\n|Description=NFS, CRP, TSH, Ac anti-transglutaminase +-parasitological examination of stools\n|Section=Positive diagnosis\n|Contributors=\n|Order=7}}\nThe main differential diagnoses are inflammatory bowel disease, coeliac disease, microscopic colitis and iatrogenicity (drugs that alter transit or cause abdominal pain: metformin, colchicine, NSAIDs, etc.). It is useful to carry out a biological work-up in patients presenting with IBS. The aim is to rule out an organic pathology. A CBC will rule out anaemia, and a CRP will look for an inflammatory syndrome.  In diarrhoea-predominant IBS, it is also advisable to measure TSH to rule out hyperthyroidism and IgA-type anti-transglutaminase antibodies to look for coeliac disease. A parasitological examination of the stools is recommended in the diarrhoeal subtype to rule out lambliasis. Radiological examinations have no place in typical forms of IBS.\n\n<br />",
+  "question": {
+    "properties": {
+      "question": "Which of the following is NOT recommended as part of the biological work-up for a patient with diarrhea-predominant IBS to rule out organic pathology?",
+      "option_a": "Complete Blood Count (CBC) to rule out anemia",
+      "option_b": "C-reactive protein (CRP) to look for an inflammatory syndrome",
+      "option_c": "Thyroid-Stimulating Hormone (TSH) to rule out hyperthyroidism",
+      "option_d": "Electroencephalogram (EEG) to assess brain activity"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

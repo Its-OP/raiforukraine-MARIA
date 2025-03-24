@@ -1,0 +1,12 @@
+{
+  "folder": "IC-265",
+  "content": "{{knowledge objective\n|Identifiant=OIC-265-07-A\n|Item_parent=Urinary lithiasis\n|Item_parent_short=Urinary lithiasis\n|Rank=A\n|Title=Knowing the clinical aspects of simple renal colic\n|Description=Pain, radiation, nausea...\n|Rubric=Positive diagnosis\n|Contributors=Romain Boissier\n|Order=7}}\n\nRenal colic is said to be \"simple\" when it occurs :\n\n* without fever or chills,\n* no biological renal failure or oligo-anuria\n* and that it subsides with analgesic treatment with NSAIDs.\n\n<br />",
+  "question": {
+    "question": "Which of the following is NOT a characteristic of simple renal colic?",
+    "option_a": "Pain that resolves with NSAIDs",
+    "option_b": "Presence of fever and chills",
+    "option_c": "No evidence of renal failure",
+    "option_d": "Pain that radiates to the lower abdomen",
+    "correct_option": "B"
+  }
+}

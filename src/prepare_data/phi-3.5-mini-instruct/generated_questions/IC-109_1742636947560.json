@@ -1,0 +1,22 @@
+{
+  "folder": "IC-109",
+  "content": "{{knowledge objective\n|Identifiant=OIC-109-07-B\n|Item_parent=Gait and balance disorders\n|Item_parent_short=Gait and balance disorders\n|Rank=B\n|Title=Knowing the aetiologies of astasia-abasia\n|Description=None\n|Rubric=Etiologies\n|Contributors=\n|Order=7}}\n- Psychogenic astasia abasia (depressive syndrome, sliding syndrome)\n\n- Secondary astasia-abasia (non-psychogenic): apraxia of walking or frontal ataxia",
+  "question": {
+    "properties": {
+      "question": "What is a common non-psychogenic cause of astasia-abasia?",
+      "option_a": "Psychogenic stress leading to temporary balance issues.",
+      "option_b": "Apraxia of walking or frontal ataxia.",
+      "option_c": "Long-term vestibular disorders.",
+      "option_d": "Muscular dystrophy affecting lower limb strength.",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

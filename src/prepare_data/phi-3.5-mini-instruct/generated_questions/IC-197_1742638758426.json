@@ -1,0 +1,12 @@
+{
+  "folder": "IC-197",
+  "content": "{{knowledge objective\n|Identifiant=OIC-197-10-A\n|Item_parent=Spondyloarthritis\n|Item_parent_short=Spondyloarthritis\n|Rank=A\n|Title=Radiography of the spine\n|Description=How to recognise a syndesmophyte\n|Rubric=Multimedia content\n|Contributors=\n|Order=10}}\n\n[[File:Front radiograph of the lumbar spine with syndesmophytosis.jpg|vignette|Front radiograph of the lumbar spine with syndesmophytosis]]\n[[File:Radiographie de profil du rachis lombaire.jpg|vignette|Radiographie du rachis lombaire avec syndesmophytose]]Syndesmophytes are thin, vertical bony structures between two vertebrae.",
+  "question": {
+    "question": "In the radiography of the spine, how are syndesmophytes typically characterized?",
+    "option_a": "As horizontal bony bridges connecting vertebrae",
+    "option_b": "As thin, vertical bony structures between two vertebrae",
+    "option_c": "As large, irregular bony growths on the vertebral bodies",
+    "option_d": "As soft tissue swellings adjacent to the vertebral column",
+    "correct_option": "B"
+  }
+}

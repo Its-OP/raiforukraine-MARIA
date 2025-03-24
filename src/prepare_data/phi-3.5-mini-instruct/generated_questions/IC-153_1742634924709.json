@@ -1,0 +1,12 @@
+{
+  "folder": "IC-153",
+  "content": "{{knowledge objective\n|Identifiant=OIC-153-06-B\n|Item_parent=Surveillance of wearers of valvular prostheses\n|Item_parent_short=Surveillance of wearers of valvular prostheses\n|Rank=B\n|Title=Know how to diagnose the removal of a prosthetic valve, including haemolysis.\n|Description=None\n|Topic=Positive diagnosis\n|Contributors=Thomas SENAGE\n|Order=6}}\nThere are two main causes of prosthesis deinsertion:\n\n- In the event of early onset: loosening of the suture of the prosthesis or paravalvular leakage due to significant calcification\n\n- In the event of medium- or long-term onset: deleterious infective endocarditis, which should be systematically investigated\n\n\nThe clinical picture varies, depending in particular on the severity of the induced regurgitation and the speed at which it develops. Disinsertion may be completely asymptomatic, or it may progress to a state of cardiogenic shock.\n\n\nPhysical examination revealed a regurgitant murmur, diastolic at the aortic site in the case of a prosthesis in the aortic position, and systolic at the mitral site in the case of a prosthesis in the mitral position.\n\n'''The key examination is first and foremost TTE, generally supplemented by TEE.''' Colour Doppler can be used to identify a paraprosthetic leak, i.e. a leak between the prosthesis and the native valve annulus. Ultrasound is used to quantify the leak and assess its impact, particularly on the left ventricle.\n\nBlood cultures should be taken systematically to avoid ignoring infective endocarditis.\n\nFrom a biological point of view, there is generally an aspecific inflammatory syndrome and sometimes haemolysis. In the case of haemolysis, LDH is increased and haptoglobin is reduced. The presence of schizocytes indicates the mechanical origin of the anaemia.\n\n\nManagement is complex. If the deinsertion is moderate, stable, asymptomatic and has no impact on the TTE, simple monitoring may suffice. In the event of complications, interventional or surgical management may be required.",
+  "question": {
+    "question": "What is the primary diagnostic examination for identifying prosthetic valve deinsertion?",
+    "option_a": "Chest X-ray",
+    "option_b": "Transthoracic echocardiogram (TTE)",
+    "option_c": "Magnetic Resonance Imaging (MRI)",
+    "option_d": "Computed Tomography (CT) Scan",
+    "correct_option": "B"
+  }
+}

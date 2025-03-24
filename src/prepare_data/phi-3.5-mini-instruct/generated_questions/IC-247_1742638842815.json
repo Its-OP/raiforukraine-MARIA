@@ -1,0 +1,12 @@
+{
+  "folder": "IC-247",
+  "content": "{{knowledge objective\n|Identifiant=OIC-247-21-A\n|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Rank=A\n|Title=Knowing the principles and methods of self-monitoring in T1DM\n|Description=None\n|Section=Management\n|Contributors=Eva Feigerlova,H\u00e9l\u00e8ne Bihan,Claire Briet,Etienne Larger,Gaetan Prevost\n|Order=21}}\n\nFor the patient, the aims of SMBG are :\n\n- to monitor their diabetes;\n\n- adapt insulin doses;\n\n- give an idea of the average glycaemic balance;\n\n- to manage emergency situations. [Hypoglycaemia SD-209; Hyperglycaemia SD-208.\n\nPatients should be aware that HbA1c is used to estimate blood glucose control over the 2 to 3 months prior to blood sampling, and should know their HbA1c target.\n\nSelf-monitoring of blood glucose levels should be carried out by the patient: \"4-6 times a day\". For a long time, self-monitoring of blood glucose was based on capillary blood tests obtained by finger pricking. The availability, with reimbursement, of glucose sensors that measure glucose levels continuously has revolutionised the monitoring of insulin-treated diabetes.\n\nIn the presence of unexplained and prolonged hyperglycaemia, \u00b1 associated with digestive symptoms, patients are taught to look for the presence of ketone bodies in the urine or in the blood using capillary sampling, in order to detect ketotic decompensation at an early stage. [Prescription of insulin therapy, follow-up consultation, education of a type 1 diabetic patient SD-280]]\n\n<ref>Polycopy of the College of Teachers of Endocrinology, Diabetes and Metabolic Diseases (4th edition, 2019)</ref>\n<references />",
+  "question": {
+    "question": "How frequently should patients with T1DM perform self-monitoring of blood glucose levels according to the educational content provided?",
+    "option_a": "Once a week",
+    "option_b": "4-6 times a day",
+    "option_c": "Daily",
+    "option_d": "Before every meal",
+    "correct_option": "b"
+  }
+}

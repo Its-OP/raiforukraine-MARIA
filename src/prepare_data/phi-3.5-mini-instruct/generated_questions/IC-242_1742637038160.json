@@ -1,0 +1,22 @@
+{
+  "folder": "IC-242",
+  "content": "{{knowledge objective\n|Identifiant=OIC-242-06-A\n|Item_parent=Hyperthyroidism\n|Item_parent_short=Hyperthyroidism\n|Rank=A\n|Title=Knowing how to interpret hormone assays\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Dr Camille Buffet,Dr Magalie Haissaguerre\n|Order=6}}\n\nTSH = [[Reasoned request/prescription and choice of diagnostic test SD-178|first-line test]] :\n\n- Always collapsed in cases of peripheral hyperthyroidism.\n\n- If TSH is low, second-line T4L assay to assess the severity of thyrotoxicosis.\n\n- Determination of T3L, if T4L is normal, to look for T3 hyperthyroidism.\n\nA distinction is made between frust or sub-clinical thyroid disease (with normal peripheral hormones) and frank thyroid disease (with elevated peripheral hormones).",
+  "question": {
+    "properties": {
+      "question": "In the context of diagnosing hyperthyroidism, what is the initial diagnostic test recommended when TSH levels are low, and why is it chosen?",
+      "option_a": "TSH test to confirm the presence of hyperthyroidism because it is the most sensitive indicator of thyroid dysfunction.",
+      "option_b": "T4L assay to assess the severity of thyrotoxicosis because TSH is already low, indicating possible hyperthyroidism.",
+      "option_c": "T3L test to identify T3 hyperthyroidism when T4L is normal, as TSH levels are not informative in this scenario.",
+      "option_d": "Blood glucose test to rule out diabetes, which can sometimes present with similar symptoms to hyperthyroidism.",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

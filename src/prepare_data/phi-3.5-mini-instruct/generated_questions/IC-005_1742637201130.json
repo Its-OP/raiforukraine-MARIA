@@ -1,0 +1,12 @@
+{
+  "folder": "IC-005",
+  "content": "{{knowledge objective\n|Identifiant=OIC-005-12-B\n|Item_parent=Medical criminal, civil, administrative and disciplinary liability. The management of errors and complaints; therapeutic hazards\n|Item_parent_short=Penal, civil, administrative and disciplinary medical liability. The management of errors and complaints; the therapeutic hazard\n|Rank=B\n|Title=Identifying the main factors leading to litigation following a medical accident\n|Description=None\n|Rubric=Epidemiology\n|Contributors=Bastien Boussat\n|Order=12}}\n\nThe factors may be related:\n\n- the patient: state of health, seriousness of associated illnesses, communication difficulties (language, conflict with carers, etc.), vulnerability of certain patient populations (the elderly, patients with chronic illnesses, children, adolescents, people with disabilities, the underprivileged, etc.);\n\n- the tasks to be carried out ;\n\n- to the team: communication within the team and with the patient in the therapeutic relationship, traceability of information in the patient file, supervision of junior staff undergoing training;\n\n- the working environment: physical (premises, equipment, supplies, etc.) or organisational (availability of qualified human resources, work organisation, working hours, etc.);\n\n- organisation and management: policies for replacing absent staff (no replacement, temporary staff, relocation), continuous training, equipment management, etc;\n\n- the institutional context: national and regional public health policies, adverse event reporting systems, etc.",
+  "question": {
+    "question": "What is NOT considered a main factor leading to litigation following a medical accident?",
+    "option_a": "The patient's state of health and seriousness of associated illnesses",
+    "option_b": "Communication difficulties within the therapeutic relationship",
+    "option_c": "The institutional context, including adverse event reporting systems",
+    "option_d": "The color of the walls in the patient's room",
+    "correct_option": "D"
+  }
+}

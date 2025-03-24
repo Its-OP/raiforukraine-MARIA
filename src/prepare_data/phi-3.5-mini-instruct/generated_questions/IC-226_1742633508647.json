@@ -1,0 +1,12 @@
+{
+  "folder": "IC-226",
+  "content": "{{knowledge objective\n|Identifiant=OIC-226-13-A\n|Item_parent=Deep vein thrombosis and pulmonary embolism (see item 330)\n|Item_parent_short=Deep vein thrombosis and pulmonary embolism (see item 330)\n|Rank=A\n|Title=Knowing the situations requiring VTE prevention\n|Description=None\n|Heading=Management\n|Contributors=Gilles Pernod, , Virginie Dufrost, Guillaume Mah\u00e9\n|Order=13}}\nVenous thromboembolism risk assessment should be carried out systematically for all bedridden patients, whether in a medical or surgical environment, in hospital or at home. Risk factors for VTE specific to the patient and the clinical situation must be taken into account.\n\nThromboprophylaxis is usually prescribed when there is a high risk of VTE:\n\n*in medicine, in patients with multiple risk factors for VTE;\n*in surgery, in the case of orthopaedic (hip, knee), carcinological or bariatric surgery, or in the presence of multiple risk factors for VTE.\nThere are 3 ways of preventing VTE:\n\n*Physical: early ambulation, combating dehydration;\n*mechanical: intermittent pneumatic compression if thromboprophylaxis is contraindicated;\n*medicinal: anticoagulants in prophylactic or preventive doses. The duration of prophylaxis is codified according to the clinical situation and, in practice, must cover the duration of the risk situation.",
+  "question": {
+    "question": "Which of the following is NOT an approved method for preventing venous thromboembolism (VTE) in high-risk patients?",
+    "option_a": "Administration of anticoagulants in prophylactic doses",
+    "option_b": "Intermittent pneumatic compression therapy",
+    "option_c": "Early ambulation and combating dehydration",
+    "option_d": "High-intensity interval training",
+    "correct_option": "d"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "folder": "IC-227",
+  "content": "{{knowledge objective\n|Identifiant=OIC-227-06-B\n|Item_parent=Chronic venous insufficiency. Varicose veins\n|Item_parent_short=Chronic venous insufficiency. Varicose veins\n|Rank=B\n|Title=Knowing the prevalence of CVI\n|Description=To understand the prevalence of chronic venous insufficiency and its impact on the quality of life of sufferers\n|Rubric=Epidemiology\n|Contributors=Simon Soudet, Marie-Antoine Sevestre Pietri, Sophie Blaise\n|Order=6}}\nChronic venous insufficiency (CVI) of the lower limbs is a major public health problem. Its overall prevalence is estimated at between 30% and 60%, depending on the study, in industrialised countries, with a clear preponderance of women (male-female sex ratio = 1/3), although this tends to even out with age. In 2011 in France, around 20 million patients had a CVI and over 400,000 patients had a venous ulcer.",
+  "question": {
+    "properties": {
+      "question": "What is the estimated prevalence range of chronic venous insufficiency (CVI) in industrialized countries?",
+      "option_a": "10% to 20%",
+      "option_b": "30% to 60%",
+      "option_c": "5% to 15%",
+      "option_d": "70% to 80%",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

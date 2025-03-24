@@ -1,0 +1,22 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-10-A\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=A\n|Title=Knowing the clinical signs of a lower genital infection in women\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=10}}\n- Cervicitis :\n\n- Leucorrhoea ;\n\n- Pelvic heaviness ;\n\n- Signs of associated urethritis ;\n\n- Cervix +/- inflammatory and discharge from the cervical os\n\n\n- Vulvovaginitis: pruritus, dyspareunia, leucorrhoea, oedematous vulva",
+  "question": {
+    "properties": {
+      "question": "Which of the following is NOT a clinical sign of lower genital infection in women?",
+      "option_a": "Leucorrhoea",
+      "option_b": "Pelvic heaviness",
+      "option_c": "Signs of associated urethritis",
+      "option_d": "Hypertension",
+      "correct_option": "D"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

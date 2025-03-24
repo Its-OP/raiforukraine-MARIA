@@ -1,0 +1,22 @@
+{
+  "folder": "IC-188",
+  "content": "{{knowledge objective\n|Identifiant=OIC-188-23-B\n|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Rank=B\n|Title=Knowing the complications of asthma\n|Description=None\n|Heading=Follow-up and/or prognosis\n|Contributors=\n|Order=23}}\no Absenteeism from school or work in the case of poorly controlled asthma\n\no A sedentary lifestyle",
+  "question": {
+    "properties": {
+      "question": "Which of the following is a recognized complication of poorly controlled asthma?",
+      "option_a": "Increased physical endurance",
+      "option_b": "Absenteeism from school or work",
+      "option_c": "Improved respiratory function",
+      "option_d": "Decreased risk of cardiovascular disease",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

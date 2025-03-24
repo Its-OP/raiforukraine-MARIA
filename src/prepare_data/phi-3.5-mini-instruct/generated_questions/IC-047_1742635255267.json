@@ -1,0 +1,12 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-38-B\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=B\n|Title=Know the objectives and items contained in the three medical certificates accompanying the compulsory systematic monitoring of infants.\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=38}}\nCommon objectives cf ''[[To know the elements of systematic questioning and clinical examination of a child according to age and context 2C-047-PC-A01|To know the elements of systematic questioning and clinical examination of a child according to age and context]]'''\n\nSpecific objectives\n\n*https://www.formulaires.service-public.fr/gf/cerfa_12596.do 8<sup>th</sup> day]: history, pregnancy, delivery, condition at birth, pathologies in the first week, congenital anomalies, breastfeeding, vaccinations (BCG or HBV), newborn hearing screening,\n*https://www.formulaires.service-public.fr/gf/cerfa_12597.do 9<sup>th</sup> month]: history, vaccinations, eye and hearing tests, psychomotor development, measurements, breastfeeding, risk of lead poisoning, current medical conditions.\n*https://www.formulaires.service-public.fr/gf/cerfa_12598.do 24<sup>\u00e8me</sup> mois]: idem 9th month + dental condition",
+  "question": {
+    "question": "Which of the following is NOT included in the medical examination for a child at 24 months according to the compulsory systematic monitoring of infants?",
+    "option_a": "Breastfeeding status",
+    "option_b": "Eye and hearing tests",
+    "option_c": "Dental condition",
+    "option_d": "Assessment of puberty development",
+    "correct_option": "d"
+  }
+}

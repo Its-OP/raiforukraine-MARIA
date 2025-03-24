@@ -1,0 +1,22 @@
+{
+  "folder": "IC-157",
+  "content": "{{knowledge objective\n|Identifiant=OIC-157-01-A\n|Item_parent=Bacteremia/Fungemia in adults and children\n|Item_parent_short=Bacteremia/Fungemia in adults and children\n|Rank=A\n|Title=Know the definition of bacteraemia, fungaemia and their evolutionary risk.\n|Description=None\n|Rubric=Definition\n|Contributors=David Lebeaux\n|Order=1}}\n'''Microbiological definition:'''\n\n- <u>Bacteremia</u>: presence of bacteria in the blood detectable in a blood culture bottle\n\n- <u>Fungemia</u>: presence of fungi in the blood\n\n- The term \"septicaemia\" should be abandoned as imprecise\n\n'''We must distinguish and always look for:'''\n\n- Entry point (source of bacteria: mucous membrane, wound, urine, etc.)\n\n- The source of the infection (origin of the bacteremia: pneumonia, pyelonephritis, meningitis, etc.)\n\n- Any secondary locations (osteoarticular, etc.) and any endovascular relays (endocarditis, etc.)\n\n\nIn the absence of appropriate treatment, the risk is progression to sepsis, septic shock and death.",
+  "question": {
+    "properties": {
+      "question": "What does the term 'bacteraemia' refer to?",
+      "option_a": "Presence of viruses in the blood",
+      "option_b": "Presence of bacteria in the blood detectable in a blood culture bottle",
+      "option_c": "Presence of fungi in the blood",
+      "option_d": "Presence of parasites in the blood",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

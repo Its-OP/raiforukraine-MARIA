@@ -1,0 +1,12 @@
+{
+  "folder": "IC-254",
+  "content": "{{knowledge objective\n|Identifiant=OIC-254-05-A\n|Item_parent=Nutritional needs of pregnant women\n|Item_parent_short=Nutritional needs of pregnant women\n|Rank=A\n|Title=Knowing how to prevent iron, vitamin D and calcium deficiency\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=5}}\n\n\n== Iron deficiency ==\nThe French National Authority for Health (HAS) recommends supplementation (with 50 mg of iron metal per day) only for patients with anaemia proven by CBC (Hb < 11 g/dL in the 1st<sup> and 2nd<sup> trimester, Hb < 10.5 g/dL in the 3rd trimester) or a low ferritin level (< 12 \u03bcg/dL).\n<br />\n\n== '''Vitamin D and calcium deficiency''' ==\nVitamin D supplementation is systematically recommended at the end of the 2nd trimester (100,000 IU per os in a single dose).\n\n\nIntakes of > 1000 mg of calcium per day are recommended during pregnancy. This corresponds to the consumption of 3 to 4 dairy products per day.",
+  "question": {
+    "question": "How much calcium per day is recommended during pregnancy according to the French National Authority for Health (HAS)?",
+    "option_a": "500 mg",
+    "option_b": "700 mg",
+    "option_c": "1000 mg",
+    "option_d": "1500 mg",
+    "correct_option": "c"
+  }
+}

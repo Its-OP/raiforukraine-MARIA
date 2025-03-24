@@ -1,0 +1,12 @@
+{
+  "folder": "IC-024",
+  "content": "{{knowledge objective\n|Identifiant=OIC-024-12-A\n|Item_parent=Main complications of pregnancy.\n|Item_parent_short=Main complications of pregnancy.\n|Rank=A\n|Title=Knowing the elements of severity\n|Description=Severity criteria\n|Heading=Follow-up and/or prognosis\n|Contributors=Paul Berveiller,Philippe Deruelle\n|Order=12}}\n\n- Severe or uncontrolled hypertension (SAP \u2265 160 mmHg and/or DBP \u2265 110 mmHg)\n\n- '''Proteinuria > 3g/24h'''\n\n- Creatinemia \u2265 90 \u00b5mol/L\n\n- '''Oliguria \u2264 500 mL/24h or \u2264 25 mL/h''''\n\n- '''Thrombocytopenia < 100,000/mm<sup>3</sup>''''\n\n- '''Hepatic cytolysis with ASAT/ALAT >2N'''\n\n- '''Epigastric abdominal pain and/or persistent or severe right hypochondrium pain'''\n\n- Chest pain, dyspnoea, OAP\n\n- '''Neurological signs:''' severe headaches unresponsive to treatment, persistent visual or auditory disturbances, vivid, diffuse and polykinetic ROT.\n\n[Platelet abnormality SD-215\n\n[Anomaly of the erythrocyte indices (haemoglobin level, haematocrit...) SD-214]]\n\n[Abdominal pain SD-004\n\n[Proteinuria SD-212\n\n[Headache SD-118\n\n<br />",
+  "question": {
+    "question": "Which of the following is NOT considered a criterion for severity in preeclampsia?",
+    "option_a": "Proteinuria > 3g/24h",
+    "option_b": "Creatinemia \u2265 90 \u00b5mol/L",
+    "option_c": "Thrombocytopenia < 100,000/mm^3",
+    "option_d": "Elevated blood glucose levels",
+    "correct_option": "d"
+  }
+}

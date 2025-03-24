@@ -1,0 +1,22 @@
+{
+  "folder": "IC-267",
+  "content": "{{knowledge objective\n|Identifiant=OIC-267-04-A\n|Item_parent=Disorders of acid-base balance and fluid-electrolyte disorders\n|Item_parent_short=Disorders of acid-base balance and fluid and electrolyte disorders\n|Rank=A\n|Title=Knowing the serious clinical abnormalities to look for\n|Description=None\n|Rubric=Identification of the emergency\n|Contributors=P Rieu; B Moulin; M Flamant\n|Order=4}}\n\nLife-threatening if pH < 7.10 or bicarbonaemia < 8 mmol/L: reduced cardiac and tissue output, dyspnoea, catecholamine resistance, ventricular arrhythmias, inhibition of cellular metabolism and coma.",
+  "question": {
+    "properties": {
+      "question": "At what pH level and bicarbonate concentration (mmol/L) does a patient's condition become life-threatening, potentially leading to reduced cardiac and tissue output, dyspnoea, catecholamine resistance, ventricular arrhythmias, inhibition of cellular metabolism, and coma?",
+      "option_a": "pH 7.40, bicarbonate 24 mmol/L",
+      "option_b": "pH 7.25, bicarbonate 18 mmol/L",
+      "option_c": "pH 7.10, bicarbonate 8 mmol/L",
+      "option_d": "pH 7.30, bicarbonate 10 mmol/L",
+      "correct_option": "c"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

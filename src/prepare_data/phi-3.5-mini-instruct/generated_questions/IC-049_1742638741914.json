@@ -1,0 +1,22 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-13-B\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=B\n|Title=Knowing the major etiological frameworks of early puberty: hypothalamic-pituitary, ovarian, adrenal or exogenous/environmental origins.\n|Description=None\n|Rubric=Etiologies\n|Contributors=\n|Order=13}}\n\n{| class=\"wikitable\"\n| '''early central PP''''\n|\n|-\n| Intracranial process\n| Tumour: chiasma glioma (NF1 or not), hamartoma\n\n                        Non-tumoral: hydrocephalus, arachnoid cyst\n|-\n| Sequelae\n| Meningitis or encephalitis\n\n                        Cranial irradiation\n|-\n|Idiopathic\n|Diagnosis of elimination\n|-\n| '''Peripheral PP'''\n|\n|-\n| Ovarian/testicular\n| McCune-Albright, ovarian cyst, granulosa tumour\n\n                        Testotoxicosis\n|-\n| Adrenal\n| Hyperandrogenism without gonadotropic activation\n\n                        Adrenal cortex\n|-\n|Exogenous\n\n'''Environmental'''\n\n'''Genetics'''\n|\n|}\n<br />",
+  "question": {
+    "properties": {
+      "question": "What is NOT considered a potential cause of peripheral precocious puberty (PP)?",
+      "option_a": "McCune-Albright syndrome",
+      "option_b": "Granulosa tumor",
+      "option_c": "Hyperandrogenism without gonadotropic activation",
+      "option_d": "Cerebral palsy",
+      "correct_option": "D"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

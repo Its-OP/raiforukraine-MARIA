@@ -1,0 +1,22 @@
+{
+  "folder": "IC-237",
+  "content": "{{knowledge objective\n|Identifiant=OIC-237-09-B\n|Item_parent=Palpitations\n|Item_parent_short=Palpitations\n|Rank=B\n|Title=Identifying cardiac neurosis\n|Description=Psychiatric causes, panic attacks\n|Rubric=Etiologies\n|Contributors=Arnaud Bisson\n|Order=9}}\n\n\n* It is a diagnosis of elimination based on a strictly normal percritical ECG, often obtained using long-term monitoring.\n* Know how to evoke the diagnosis when :\n** clinical and paraclinical examinations are all normal\n** there is no identified cardiac or extracardiac pathology\n** the patient shows signs of depression (''sad mood/moral pain'') or anxiety (''anxiety'')",
+  "question": {
+    "properties": {
+      "question": "Which of the following is a key indicator for the diagnosis of cardiac neurosis when other tests are normal and no physical pathology is found?",
+      "option_a": "Elevated cardiac enzymes",
+      "option_b": "Presence of arrhythmia on ECG",
+      "option_c": "Signs of depression or anxiety in the patient",
+      "option_d": "Visible chest deformities on physical examination",
+      "correct_option": "C"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

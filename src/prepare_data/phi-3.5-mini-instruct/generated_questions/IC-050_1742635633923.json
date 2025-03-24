@@ -1,0 +1,12 @@
+{
+  "folder": "IC-050",
+  "content": "{{knowledge objective\n|Identifiant=OIC-050-09-B\n|Item_parent=Genito-scrotal pathology in boys and men\n|Item_parent_short=Genito-scrotal pathology in boys and men\n|Rank=B\n|Title=Knowing the indications and non-indications of imaging in the presence of a hydrocele\n|Description=None\n|Rubric=Additional examinations\n|Contributors=C\u00e9dric Leb\u00e2cle, Alice Faure\n|Order=9}}\n\n<br />\n\n*Scrotal ultrasound is useful in cases of diagnostic doubt with a cyst of the epididymis (or cord), or in cases of so-called acute hydrocele (large hydrocele under tension) to eliminate a differential diagnosis of strangulated inguino-scrotal hernia or torsion of the spermatic cord or [[Testicular tumours|tumour of the testicle (313)]]. In the case of a hydrocele, it confirms the diagnosis and reveals an effusion in the vagina surrounding the testicle (anechogenic collection). In adults, it is used to assess the condition of the underlying testicle in order to rule out a hydrocele as a reaction to orchi-epidydimitis or associated with a testicular tumour.\n*Percutaneous puncture is contraindicated.",
+  "question": {
+    "question": "When is scrotal ultrasound indicated in the evaluation of a hydrocele in adults?",
+    "option_a": "To confirm the presence of a hydrocele and assess the condition of the underlying testicle, ruling out reactions to orchi-epidydimitis or associated with a testicular tumor.",
+    "option_b": "To determine the patient's blood type.",
+    "option_c": "To evaluate the presence of a urinary tract infection.",
+    "option_d": "To check for the presence of inguinal hernia.",
+    "correct_option": "a"
+  }
+}

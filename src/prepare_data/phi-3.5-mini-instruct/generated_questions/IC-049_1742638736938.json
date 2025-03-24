@@ -1,0 +1,22 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-11-A\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=A\n|Title=Knowing how to interpret a growth curve\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=11}}\n \n\n\nCalculate annual growth rate, measure BMI\n\n<br />",
+  "question": {
+    "properties": {
+      "question": "What is the most accurate method to calculate the annual growth rate of a child?",
+      "option_a": "By measuring the height increase over a year and dividing by the initial height",
+      "option_b": "By assessing the child's weight gain over a year and using standard growth charts",
+      "option_c": "By calculating the change in BMI over the year and applying a standard growth chart",
+      "option_d": "By measuring the increase in arm span over a year and comparing it to growth charts",
+      "correct_option": "c"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

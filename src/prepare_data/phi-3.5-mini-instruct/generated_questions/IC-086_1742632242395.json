@@ -1,0 +1,22 @@
+{
+  "folder": "IC-086",
+  "content": "{{knowledge objective\n|Identifiant=OIC-086-03-A\n|Item_parent=Eyelid pathology\n|Item_parent_short=Eyelid pathology\n|Rank=A\n|Title=Recognising ptosis\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=3}}\n'''Ptosis''' too low position of the free margin of the upper eyelid. It can be measured by the position of the upper eyelid in relation to the upper sclero-corneal limbus: Normally the eyelid covers the cornea physiologically by only 1 to 2 mm.\n\nPtosis should be distinguished from ''dermachalasis'' (excess eyelid skin), which is very common in the elderly. In this case, the skin fold covers the visual axis, while the free edge of the upper eyelid is well positioned.\n\n<br />",
+  "question": {
+    "properties": {
+      "question": "What is the primary difference between ptosis and dermachalasis?",
+      "option_a": "Ptosis is characterized by an excess of eyelid skin, while dermachalasis involves the eyelid covering the cornea.",
+      "option_b": "Ptosis results from the eyelid covering the cornea by 1 to 2 mm, whereas dermachalasis is due to the skin fold covering the visual axis.",
+      "option_c": "Dermachalasis is a temporary condition, while ptosis is a permanent eyelid positioning issue.",
+      "option_d": "Ptosis is caused by muscle weakness, whereas dermachalasis is due to an overproduction of eyelid skin.",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

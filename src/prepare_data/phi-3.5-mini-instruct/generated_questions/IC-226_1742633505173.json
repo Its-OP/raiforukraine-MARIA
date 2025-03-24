@@ -1,0 +1,12 @@
+{
+  "folder": "IC-226",
+  "content": "{{knowledge objective\n|Identifiant=OIC-226-05-A\n|Item_parent=Deep vein thrombosis and pulmonary embolism (see item 330)\n|Item_parent_short=Deep vein thrombosis and pulmonary embolism (see item 330)\n|Rank=A\n|Title=Knowing how to identify and diagnose high-risk PE\n|Description=None\n|Item=Identification of the emergency\n|Contributors=Gilles Pernod, Virginie Dufrost, Guillaume Mah\u00e9\n|Order=5}}\nA PE at high risk of mortality (severe PE) is a PE associated with haemodynamic failure defined by a systolic blood pressure (SBP) < 90 mmHg or a fall in SBP \u2265 40 mmHg for more than 15 minutes, in the absence of another cause such as sepsis, arrhythmia or hypovolaemia. This is an absolute life-threatening emergency, given that the risk of mortality is > 30%. There is no place for DD assays in this context.\n\nThe management strategy is set out in the algorithm below:\n\n- Diagnosis'', [[Reasoned request/prescription and choice of a diagnostic examination SD-178|the reference examination]] remains the thoracic angioscanner when it can be carried out without delay and when the patient's haemodynamic state allows it. If this is not possible, the diagnosis is based on trans-thoracic echocardiography in the patient's bed.\n\n'''- Therapeutic''', the treatment combines fibrinolysis (in the absence of absolute contraindication) and [[Heparins|anticoagulation]] by HNF until stabilisation of the patient who is hospitalised initially in intensive care. [[Fichier:EP2.jpg|gauche|vignette]]\n<br />",
+  "question": {
+    "question": "In the context of a severe pulmonary embolism (PE) with a systolic blood pressure drop of \u2265 40 mmHg for more than 15 minutes, what is the immediate management strategy?",
+    "option_a": "Administer diagnostic assays to confirm the presence of a PE.",
+    "option_b": "Immediate fibrinolysis, provided there are no absolute contraindications.",
+    "option_c": "Perform a thoracic angioscanner if possible, or rely on trans-thoracic echocardiography.",
+    "option_d": "Administer anticoagulant therapy with heparins and monitor for stabilization.",
+    "correct_option": "c"
+  }
+}

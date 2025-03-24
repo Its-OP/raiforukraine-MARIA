@@ -1,0 +1,22 @@
+{
+  "folder": "IC-188",
+  "content": "{{knowledge objective\n|Identifiant=OIC-188-13-B\n|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Rank=B\n|Title=Knowing the indications for immunoallergic tests\n|Description=Use of specific IgE and provocation tests\n|Rubric=Additional tests\n|Contributors=\n|Order=13}}\n[Prescription and interpretation of allergological tests (patch tests, prick tests, i dr) SD-237|Indication of immuno-allergic tests (prick test and specific IgE assay)\n\no When asthma is diagnosed\n\no Diagnosis of chronic rhinitis of suspected allergic origin.",
+  "question": {
+    "properties": {
+      "question": "Which of the following is NOT a common indication for conducting specific IgE and provocation tests in patients with respiratory allergies?",
+      "option_a": "Confirming the presence of asthma.",
+      "option_b": "Diagnosing chronic rhinitis of allergic origin.",
+      "option_c": "Determining the effectiveness of antihistamine treatment for allergic rhinitis.",
+      "option_d": "Evaluating food allergies in patients with no respiratory symptoms.",
+      "correct_option": "D"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

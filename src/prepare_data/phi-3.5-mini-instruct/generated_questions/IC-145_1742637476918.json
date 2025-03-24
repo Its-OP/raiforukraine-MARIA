@@ -1,0 +1,12 @@
+{
+  "folder": "IC-145",
+  "content": "{{knowledge objective\n|Identifiant=OIC-145-11-B\n|Item_parent=Surveillance of communicable infectious diseases\n|Item_parent_short=Surveillance of communicable infectious diseases\n|Rank=B\n|Intitle=Know the definition of national centres of reference\n|Description=None\n|Rubric=Definition\n|Contributors=Didier HOCQUET,Elodie COUVE,Anne-Marie ROGUES,Alexandre DUVIGNAUD\n|Order=11}}\n\nThe [[Knowing the main structures and organisations responsible for monitoring communicable infectious diseases in France 2C-145-DE-B02|National Centres of Reference (NCR)]] for the control of communicable diseases are laboratories and clinical departments located in public or private health, teaching or research establishments. They are appointed for 5 years by the Minister of Health on the recommendation of Sant\u00e9 publique France.\n\nThe CNRs are responsible for :\n\n*Expertise'' in the microbiology and pathology of infectious agents; the development, optimisation, validation and distribution of medical biology tests; the identification of pathogenic agents (first-line tests or confirmation of identification at the request of another laboratory);\n*Scientific or technical advice in response to any request from the Minister for Health, Sant\u00e9 publique France or health professionals;\n*Contribution to epidemiological surveillance:\n**By leading a ''network'' of laboratories which may be asked to carry out tests and then forward the results to the relevant CNR;\n**By carrying out the analyses required to monitor pathogens;\n*Immediately alerting Sant\u00e9 Publique France, the Ministry of Health and, where appropriate, the Agence R\u00e9gionale de Sant\u00e9 of any findings likely to present a risk or threat to the health of the population.",
+  "question": {
+    "question": "What is the primary role of National Centres of Reference (NCR) for the control of communicable diseases in France?",
+    "option_a": "To provide general healthcare services to the public.",
+    "option_b": "To act as administrative bodies for health insurance claims.",
+    "option_c": "To serve as a network of laboratories for testing and monitoring pathogens, provide expertise in microbiology and pathology of infectious agents, offer scientific/technical advice, and immediately alert relevant authorities of health risks.",
+    "option_d": "To oversee the distribution of pharmaceuticals and medical supplies.",
+    "correct_option": "c"
+  }
+}

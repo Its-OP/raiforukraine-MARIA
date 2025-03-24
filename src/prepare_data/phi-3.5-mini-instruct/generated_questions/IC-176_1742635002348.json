@@ -1,0 +1,22 @@
+{
+  "folder": "IC-176",
+  "content": "{{knowledge objective\n|Identifiant=OIC-176-15-A\n|Item_parent=Infectious diarrhoea in adults and children\n|Item_parent_short=Infectious diarrhoea in adults and children\n|Rank=A\n|Title=Knowing the definition of a collective foodborne outbreak\n|Description=See item 179\n|Rubric=Definition\n|Contributors=Johann Cailhol\n|Order=15}}\nSee [[Health risks related to food and water. Food poisoning|item 179]]",
+  "question": {
+    "properties": {
+      "question": "What is the correct definition of a collective foodborne outbreak?",
+      "option_a": "An incident where an individual experiences symptoms of food poisoning after eating at a single restaurant.",
+      "option_b": "A situation where multiple individuals in a community develop similar symptoms of food poisoning after consuming food from the same source.",
+      "option_c": "A case where a single person is diagnosed with food poisoning from a contaminated water source.",
+      "option_d": "A scenario where food poisoning symptoms are reported but no common source can be identified.",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

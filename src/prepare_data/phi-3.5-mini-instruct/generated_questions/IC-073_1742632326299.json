@@ -1,0 +1,22 @@
+{
+  "folder": "IC-073",
+  "content": "{{knowledge objective\n|Identifiant=OIC-073-01-A\n|Item_parent=Different types of psychotherapeutic techniques\n|Item_parent_short=Different types of psychotherapeutic techniques\n|Rank=A\n|Intitle=Know the definition of psychotherapy\n|Description=None\n|Rubric=Definition\n|Contributors=Amaury MENGIN\n|Order=1}}\n\n==== Definition of psychotherapy ====\nAny use of psychological means to treat a psychiatric disorder or for [[Know the definition of psychotherapy OIC-073-01-A#%20msocom%201|[FB1]]] any other non-psychiatric problem causing psychological suffering or distress\n----[[Know the definition of the term psychotherapy OIC-073-01-A#%20msoanchor%201|[FB1]]]<nowiki/>for too much?",
+  "question": {
+    "properties": {
+      "question": "What is the primary purpose of psychotherapy?",
+      "option_a": "To treat physical ailments using psychological methods",
+      "option_b": "To provide medication for psychiatric disorders",
+      "option_c": "To use psychological means to treat psychiatric disorders or other psychological distress",
+      "option_d": "To improve physical fitness and well-being through exercise",
+      "correct_option": "C"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

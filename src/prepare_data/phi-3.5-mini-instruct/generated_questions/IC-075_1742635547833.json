@@ -1,0 +1,22 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-15-A\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=A\n|Title=Knowing the impact on cardiovascular mortality\n|Description=None\n|Rubric=Epidemiology\n|Contributors=\n|Order=15}}\nImpact on cardiovascular mortality\n\n* Carbon monoxide (CO) is known to be responsible for cardiovascular disorders\n* Stopping smoking reduces mortality from cardiovascular disease\n* Smoking is the leading cause of avoidable cardiovascular death and the leading cardiovascular risk factor in post-menopausal women.\n* It is responsible for\n** Coronary heart disease\n** Obliterative arterial disease of the lower limbs\n** Hypertension\n** Hypertensive heart disease\n** Abdominal Aortic Aneurysm\n** Cerebrovascular accident\n* Passive intoxication is also known to cause ischaemic heart disease.",
+  "question": {
+    "properties": {
+      "question": "Which of the following is NOT a cardiovascular condition that can be directly attributed to smoking?",
+      "option_a": "Coronary heart disease",
+      "option_b": "Obliterative arterial disease of the lower limbs",
+      "option_c": "Hypertension",
+      "option_d": "Rheumatoid arthritis",
+      "correct_option": "D"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

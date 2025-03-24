@@ -1,0 +1,22 @@
+{
+  "folder": "IC-328",
+  "content": "{{knowledge objective\n|Identifiant=OIC-328-07-B\n|Item_parent=Non-drug therapies and medical devices\n|Item_parent_short=Non-drug therapies and medical devices\n|Rank=B\n|Title=Know how to prescribe orthoses\n|Description=General information on prescribing small and large orthoses\n|Rubrique=Prise en charge\n|Contributors=Bisseriex H\u00e9l\u00e8ne,De Boissezon Xavier\n|Order=7}}\n\n- '''cf \"Small and large equipment\"''''",
+  "question": {
+    "properties": {
+      "question": "When prescribing orthoses, which factor is most critical to consider for ensuring proper fit and function?",
+      "option_a": "The patient's favorite color for the orthosis",
+      "option_b": "The brand popularity of the orthosis",
+      "option_c": "The patient's body measurements and specific needs",
+      "option_d": "The time of year the orthosis is prescribed",
+      "correct_option": "C"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

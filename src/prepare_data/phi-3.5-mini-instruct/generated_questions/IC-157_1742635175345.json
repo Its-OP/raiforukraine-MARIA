@@ -1,0 +1,22 @@
+{
+  "folder": "IC-157",
+  "content": "{{knowledge objective\n|Identifiant=OIC-157-08-A\n|Item_parent=Bacteremia/Fungemia in adults and children\n|Item_parent_short=Bacteremia/Fungemia in adults and children\n|Rank=A\n|Title=Know how to prescribe emergency samples prior to antibiotic therapy\n|Description=Know how to prescribe blood cultures prior to emergency antibiotic therapy\n|Section=Additional tests\n|Contributors=David Lebeaux\n|Order=8}}\nMicrobiological tests must be taken before the start of antibiotic therapy (including the [[Positive blood culture SD-190|haemocultures]], see below).\n\nThe exceptions to this rule are :\n\n- Purpura fulminans\n\n- Patients presenting with septic shock or bacterial meningitis whose microbiological sampling would delay the start of antibiotic therapy by more than one hour.",
+  "question": {
+    "properties": {
+      "question": "Before initiating antibiotic therapy for bacteremia/fungemia, which of the following is the correct protocol for microbiological testing?",
+      "option_a": "Perform microbiological tests after starting antibiotic therapy to confirm the presence of bacteria.",
+      "option_b": "Obtain microbiological samples, including haemocultures, before starting antibiotic therapy, except in cases of septic shock or bacterial meningitis where delays are acceptable.",
+      "option_c": "Only perform microbiological tests in cases of suspected fungemia, regardless of the timing of antibiotic therapy.",
+      "option_d": "Avoid microbiological tests as they may interfere with the effectiveness of antibiotic therapy.",
+      "correct_option": "b"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

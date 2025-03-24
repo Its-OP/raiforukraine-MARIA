@@ -1,0 +1,12 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-26-A\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=A\n|Title=Knowing the treatments for tobacco addiction (pharmacological and non-pharmacological)\n|Description=TSN (presentations and methods of prescription) and CBT (the principle), Electronic cigarette\n|Rubric=Management\n|Contributors=\n|Order=26}}\n'''Pharmacological treatments'''\n\n* Nicotine replacement therapy\n** Daily nicotine intake, avoiding the toxicity of cigarettes.\n** Effective if prescribed for a long time, in the right dosage and well explained (use and side-effects).\n** Forms\n*** Transdermal: patches: 24-hour or 16-hour duration.\n*** Oral: gum, tablets, lozenges, tablets, mouth sprays.\n*** Inhalers\n*** During treatment, oral forms may be combined with patches.\n* Moderate side effects\n** Headache, palpitations, dysgeusia, hiccups, nausea, dyspepsia, pain and paresthesia in the oral cavity, stomatitis, salivary hypersecretion, burning of the lips, dry mouth and/or throat.\n** Patches: erythema and pruritus at the point of application.\n\n* Varenicline and Bupropion\n** Varenicline (Champix\u00ae): partial nicotinic receptor agonist.\n** As a last-line treatment, bupropion (Zyban\u00ae): a norepinephrine and dopamine reuptake inhibitor.\n\n\nNon-pharmacological treatments\n\n* Psychotherapeutic support recommended\n* Motivational interviews to encourage or reinforce motivation to change\n* Supportive psychotherapy\n* Cognitive behavioural therapy (CBT)\n* Telephone support: Tabac Info Service line (3989)",
+  "question": {
+    "question": "Which of the following is NOT a recommended treatment for tobacco addiction?",
+    "option_a": "Nicotine replacement therapy with patches",
+    "option_b": "Cognitive behavioural therapy (CBT)",
+    "option_c": "Electronic cigarette usage as a primary treatment method",
+    "option_d": "Motivational interviews to encourage behavior change",
+    "correct_option": "C"
+  }
+}

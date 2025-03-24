@@ -1,0 +1,22 @@
+{
+  "folder": "IC-288",
+  "content": "{{knowledge objective\n|Identifiant=OIC-288-16-B\n|Item_parent=Hemorrhoidal pathology\n|Item_parent_short=Hemorrhoidal pathology\n|Rank=B\n|Title=Indicating surgical treatment\n|Description=\n|Rubric=Management\n|Contributors=\n|Order=16}}\n\n\n\n\n\ncf : ''[[Know the 4 therapeutic preamble rules 2C-288-PC-A02|2C-288-PC-A02]]''''",
+  "question": {
+    "properties": {
+      "question": "Which of the following is NOT a recommended first-line treatment for internal hemorrhoids before considering surgical options?",
+      "option_a": "Lifestyle modifications including increased fiber intake and regular exercise",
+      "option_b": "Topical medications such as corticosteroids or estrogen creams",
+      "option_c": "Over-the-counter pain relievers to manage symptoms",
+      "option_d": "Immediate surgical intervention",
+      "correct_option": "D"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

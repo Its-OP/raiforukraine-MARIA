@@ -1,0 +1,12 @@
+{
+  "folder": "IC-161",
+  "content": "{{knowledge objective\n|Identifiant=OIC-161-20-B\n|Item_parent=Urinary infections in children and adults\n|Item_parent_short=Urinary infections in children and adults\n|Rank=B\n|Title=Knowing the additional examinations to be carried out for recurrent urinary tract infections\n|Description=Know the aetiologies, favouring factors and additional examinations (cystography, cystoscopy, CT scan) to be carried out.\n|Rubric= Complementary examinations\n|Contributors=Maxime Vall\u00e9e, Alice Faure\n|Order=20}}\n\n\n*Be absolutely wary of the too easy diagnosis of \"recurrent cystitis\" when a woman has LUTS during the filling phase associated with bacteriuria; this \"true\" diagnosis is rare''.\n*Differentiate between the management of young patients starting their sexual life and post-menopausal patients.\n\n<br />\n\n*Prove the infectious nature of the infection: a patient labelled as having \"recurrent cystitis\" must have confirmation by ECBU so that the link between symptoms and bacteriuria can be established.\n*Micturition schedule +++''; this simple examination makes it easy to rule out \"false recurrent cystitis\"; for example, idiopathic overactive bladder...\n\n<br />\n\n*Be wary of the patient who is [[Menopause, premature ovarian failure, andropause, age-related androgen deficiency|post-menopause 124]], smoker, with SBAU and sometimes [[Haematuria|haematuria 260]] who should be investigated for [[Bladder tumours|bladder tumour 314]].\n*Flowmetry\n*Ultrasound of the urinary tract with assessment of post-micturition residual.\n*Other examinations should be carried out according to the context and are not systematic.\n\n<br />",
+  "question": {
+    "question": "Which additional examination is NOT typically systematic for a post-menopausal patient with recurrent urinary tract infections, smoking history, and occasional haematuria but potentially indicative of bladder tumors?",
+    "option_a": "Cystoscopy",
+    "option_b": "Flowmetry",
+    "option_c": "Ultrasound of the urinary tract with assessment of post-micturition residual",
+    "option_d": "CT scan",
+    "correct_option": "D"
+  }
+}

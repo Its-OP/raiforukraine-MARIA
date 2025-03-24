@@ -1,0 +1,22 @@
+{
+  "folder": "IC-315",
+  "content": "<br />{knowledge objective\n|Identifiant=OIC-315-01-A\n|Item_parent=Acute leukaemia\n|Item_parent_short=Acute leukaemia\n|Rank=A\n|Title=Know the criteria defining acute leukemia (AL)\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=1}}\nA clonal haematopoietic stem cell disease of the bone marrow resulting in proliferation and invasion of the bone marrow by immature, cancerous haematopoietic cells blocked at an early stage of differentiation: blasts. By definition, these blasts represent more than 20% of the cells on cytological examination of the myelogram.",
+  "question": {
+    "properties": {
+      "question": "What percentage of cells on cytological examination of the myelogram must be blasts for a diagnosis of acute leukemia (AL)?",
+      "option_a": "5-10%",
+      "option_b": "15-20%",
+      "option_c": "More than 20%",
+      "option_d": "30-35%",
+      "correct_option": "C"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

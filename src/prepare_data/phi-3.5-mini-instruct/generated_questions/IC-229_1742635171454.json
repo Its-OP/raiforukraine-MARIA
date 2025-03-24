@@ -1,0 +1,22 @@
+{
+  "folder": "IC-229",
+  "content": "{{knowledge objective\n|Identifiant=OIC-229-02-A\n|Item_parent=Venous access monitoring and complications\n|Item_parent_short=Venous access monitoring and complications\n|Rank=A\n|Title=Knowing the complications of different venous accesses\n|Description=Know the complications of peripheral and central venous accesses (infectious, thrombotic, mechanical, haemorrhagic, embolic (including gaseous)).\n|Rubric=Definition\n|Contributors= Philippe Lacroix, Simon Rickenbach\n|Order=2}}\n\n(\"''[[Suspicion of an Adverse Drug Reaction or Care SD-348|suspicion of an Adverse Drug Reaction or Care]]'''\", \"''[[Acute Respiratory Distress SD-160|acute respiratory distress]]'''\")\n<br />\n[[File:Figure 2 Item 229.jpg|vignette|Main complications of central and peripheral venous access routes.]]",
+  "question": {
+    "properties": {
+      "question": "Which of the following is NOT a common complication associated with central venous access?",
+      "option_a": "Infectious complications due to catheter-related bloodstream infections",
+      "option_b": "Thrombotic complications from catheter-induced clot formation",
+      "option_c": "Mechanical complications from catheter displacement or migration",
+      "option_d": "Hypertension as a direct result of central venous access placement",
+      "correct_option": "d"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

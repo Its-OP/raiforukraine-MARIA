@@ -1,0 +1,22 @@
+{
+  "folder": "IC-176",
+  "content": "{{knowledge objective\n|Identifiant=OIC-176-10-B\n|Item_parent=Infectious diarrhoea in adults and children\n|Item_parent_short=Infectious diarrhoea in adults and children\n|Rank=B\n|Title=Knowing the indications for endoscopic examination\n|Description=Rectosigmoidoscopy / colonoscopy\n|Rubric=Additional examinations\n|Contributors=Alexis de Rougemont,Christophe Deschamps, Johann Cailhol\n|Order=10}}\n\nRectosigmoidoscopy/colonoscopy: to visualise suggestive lesions (pseudomembranes of C difficile colitis) and take biopsies.\n\nIndications: persistent diarrhoea with no identified cause despite the work-up described above, or in cases of immunodepression with no identified aetiology for the diarrhoea.\n\nEndoscopic examination is rarely indicated in children and is subject to specialist paediatric advice.",
+  "question": {
+    "properties": {
+      "question": "What are the indications for endoscopic examination (rectosigmoidoscopy/colonoscopy) in patients with persistent diarrhoea?",
+      "option_a": "Acute gastroenteritis with clear resolution within a few days",
+      "option_b": "Persistent diarrhoea with no identified cause after initial work-up",
+      "option_c": "Short-term diarrhoea associated with food intake",
+      "option_d": "Immunodepression with a known cause for diarrhoea",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

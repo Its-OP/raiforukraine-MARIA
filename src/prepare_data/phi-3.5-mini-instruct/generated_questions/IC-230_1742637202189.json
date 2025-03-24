@@ -1,0 +1,12 @@
+{
+  "folder": "IC-230",
+  "content": "{{knowledge objective\n|Identifiant=OIC-230-06-A\n|Item_parent=Acute chest pain\n|Item_parent_short=Acute chest pain\n|Rank=A\n|Title=Knowing the diagnostic approach to the four cardiovascular emergencies\n|Description=Evidence of chest pain, characteristics of chest pain, features of the clinical examination.\n|Rubric=Positive diagnosis\n|Contributors=Vincent Roule\n|Order=6}}\n\n'''Know the diagnostic approach to the 4 cardiovascular emergencies'''\n\n- Anamnesis: suggestive background (cardiovascular risk factors, cancer, high blood pressure), characteristics of the pain (location, irradiation, length of time, circumstances of onset, trinitro-sensitive or not, aggravating or analgesic circumstances, link with exercise).\n\n- specific features of the clinical examination (''cardiopulmonary auscultation abnormalities'', presence or absence of peripheral pulses, blood pressure, jugular turgidity)\n\n- look for signs of shock/vital distress\n\n- '''ECG performance and interpretation'''\n\n- followed by a biological and imaging work-up based on the previous observations",
+  "question": {
+    "question": "What is the first step in the diagnostic approach for cardiovascular emergencies characterized by acute chest pain?",
+    "option_a": "Immediate administration of thrombolytic therapy",
+    "option_b": "Conducting a thorough anamnesis including cardiovascular risk factors and pain characteristics",
+    "option_c": "Performing a stress test to evaluate cardiac function",
+    "option_d": "Initiating anticoagulant therapy without further assessment",
+    "correct_option": "b"
+  }
+}

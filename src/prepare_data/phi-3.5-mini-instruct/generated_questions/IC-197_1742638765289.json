@@ -1,0 +1,22 @@
+{
+  "folder": "IC-197",
+  "content": "{{knowledge objective\n|Identifiant=OIC-197-03-B\n|Item_parent=Spondyloarthritis\n|Item_parent_short=Spondyloarthritis\n|Rank=B\n|Title=Knowing the role of genetic background: the HLA-B27 gene\n|Description=Knowing the strong link with HLA B27 and its prevalence\n|Rubric=Physiopathology\n|Contributors=\n|Order=3}}\nThe prevalence of HLA-B27 among patients with ankylosing spondylitis is over 90%, and 6 to 8% in Caucasian populations.",
+  "question": {
+    "properties": {
+      "question": "What is the prevalence of HLA-B27 among patients with ankylosing spondylitis and in Caucasian populations?",
+      "option_a": "Over 90% in patients with ankylosing spondylitis and 2 to 3% in Caucasian populations",
+      "option_b": "Over 90% in patients with ankylosing spondylitis and 6 to 8% in Caucasian populations",
+      "option_c": "Under 50% in patients with ankylosing spondylitis and 10 to 12% in Caucasian populations",
+      "option_d": "100% in patients with ankylosing spondylitis and less than 1% in Caucasian populations",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "folder": "IC-270",
+  "content": "{{knowledge objective\n|Identifiant=OIC-270-02-A\n|Item_parent=Acute low back pain\n|Item_parent_short=Acute low back pain\n|Rank=A\n|Title=Know the aetiologies and differential diagnoses of low back pain and the arguments in favour of common or secondary low back pain.\n|Description=Know the different diagnoses by frequency of occurrence - triggering factor, age, absence of signs of severity, etc.\n|Rubric=Etiologies\n|Contributors=Fran\u00e7ois-Xavier NOUHAUD\n|Order=2}}\n\n*[[2C-094|Common low back pain of degenerative origin discovert\u00e9brales 94]] and [[2C-095|95]], [[Arthrose|arthrose 129]]\n*Low back pain of secondary origin (non-degenerative)\n**2C-156|Infectious 156]], [[Spondyloarthritis|197]], [[Non-traumatic spinal cord compression and cauda equina syndrome|tumour 93]], [[Spondyloarthritis|inflammatory 197]], traumatic: fever, trauma, abnormal neurological examination.\n**Referred pain (extra-spinal aetiologies)\n***urological\n***nephrological\n***visceral\n***vascular and cardiological\n***gynaecological\n***pulmonary",
+  "question": {
+    "properties": {
+      "question": "Which of the following is NOT a common aetiology for secondary low back pain?",
+      "option_a": "Degenerative origin discovert\u00e9brales",
+      "option_b": "Infectious",
+      "option_c": "Traumatic spinal cord compression and cauda equina syndrome",
+      "option_d": "Gynecological issues",
+      "correct_option": "D"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

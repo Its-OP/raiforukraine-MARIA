@@ -1,0 +1,12 @@
+{
+  "folder": "IC-145",
+  "content": "{{knowledge objective\n|Identifiant=OIC-145-02-B\n|Item_parent=Surveillance of communicable infectious diseases\n|Item_parent_short=Surveillance of communicable infectious diseases\n|Rank=B\n|Heading=Know the principles of communicable infectious disease surveillance: national and international organisation of surveillance, data sources, objectives, etc.\n|Description=None\n|Section=Definition\n|Contributors=Didier HOCQUET,Elodie COUVE,Anne-Marie ROGUES,Alexandre DUVIGNAUD\n|Order=2}}\n\nCommunicable infectious disease surveillance involves the compilation and analysis of clinical and/or microbiological data relating to infectious diseases. Its aim is to describe a disease and study its risk factors, with a view to implementing and evaluating prevention and control measures. Data may be collected on an ongoing or ad hoc basis, for example from laboratory networks, hospitals or general practitioners.\n\nMonitoring can be :\n\n*Passive'': spontaneous reporting by field workers.\n*Active'': data collection by dedicated staff who gather information that is often more exhaustive and elaborate than in the case of passive surveillance.\n*Semi-active'': reminders or reminders sent to field workers, search for additional cases.\n\nSurveillance is organised at different levels:\n\n*'''Territorial''' with a network of various sources (for example: microbiology laboratories for the Observatoire National de l'Epid\u00e9miologie de la R\u00e9sistance Bact\u00e9rienne aux Antibiotiques - ONERBA; doctors for the Sentinelles network)\n*'''National''': Sant\u00e9 Publique France (SPF), surveillance networks, National Reference Centres (CNR)\n*International: World Health Organisation (WHO), European Center for Disease Control (ECDC) in Europe, Centers for Disease Control and Prevention (CDC) in the United States.",
+  "question": {
+    "question": "What is the primary aim of communicable infectious disease surveillance?",
+    "option_a": "To provide immediate treatment to individuals infected with a communicable disease.",
+    "option_b": "To describe a disease and study its risk factors for implementing and evaluating prevention and control measures.",
+    "option_c": "To enforce quarantine measures on affected individuals and communities.",
+    "option_d": "To develop new vaccines and therapeutic treatments for infectious diseases.",
+    "correct_option": "option_b"
+  }
+}

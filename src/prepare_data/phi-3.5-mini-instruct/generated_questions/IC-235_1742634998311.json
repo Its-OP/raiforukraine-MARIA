@@ -1,0 +1,12 @@
+{
+  "folder": "IC-235",
+  "content": "{{knowledge objective\n|Identifiant=OIC-235-06-B\n|Item_parent=Acute pericarditis\n|Item_parent_short=Acute pericarditis\n|Rank=B\n|Title=Knowing the purpose of imaging in the investigation of acute pericarditis: thoracic radiography and echocardiography\n|Description=Indication and main findings: enlargement of the cardiac silouette, pericardial calcificaiton, mediastinal abnormalities, pulmonary parenchymal abnormalities, echocardiography: absence or presence of pericardial effusion, abnormalities of cardiac kinetics, abnormalities of the initial aorta.\n|Rubric=Additional examinations\n|Contributors=Jennifer Cautela\n|Order=6}}\n'''Chest X-ray:''''\n\n* Usually normal\n* Left border straight or \"heart in a jug\" when there is abundant effusion\n* Pleural effusion sometimes associated\n\n[[File:Chest X-ray pericarditis.png|centre|vignette|482x482px|Coeur en carafe]]\n'''Echocardiography:'''\n\n* Sometimes '''normal (\"dry pericarditis\")'''\n* '''Pericardial effusion''': detachment of the two pericardial leaflets with clear empty space of echoes (black) between the two.\n* Assess the abundance (minimal < 10 mm, moderate: 10-20 mm, abundant > 20 mm), location and haemodynamic impact (compression of the heart chambers or signs of constriction) of the effusion.\n* Pericardial thickening\n* Pericardial mass (tumour etiology)\n\n[[File:Ultrasound pericardial effusion.png|centre|vignette|600x600px|Pericardial effusion (arrow) in parasternal view]]\n\n\n\n<br />",
+  "question": {
+    "question": "What is a common finding on echocardiography in a patient with acute pericarditis?",
+    "option_a": "Normal cardiac kinetics",
+    "option_b": "Pericardial effusion with clear echo space between the leaflets",
+    "option_c": "Abundant pericardial calcification",
+    "option_d": "Thickened initial aorta",
+    "correct_option": "B"
+  }
+}

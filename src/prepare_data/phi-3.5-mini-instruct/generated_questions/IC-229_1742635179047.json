@@ -1,0 +1,22 @@
+{
+  "folder": "IC-229",
+  "content": "{{knowledge objective\n|Identifiant=OIC-229-06-B\n|Item_parent=Venous access monitoring and complications\n|Item_parent_short=Venous access monitoring and complications\n|Rank=B\n|Title=Knowing the conditions for inserting a central venous line\n|Description=Link to a video filming and explaining the insertion of a CVV\n|Section=Management\n|Contributors= Philippe Lacroix, Simon Rickenbach\n|Order=6}}\n[https://videotheque.uness.fr/w/2byuuZFUNHTbN2VR81yvZa Know the conditions for inserting a central venous line]",
+  "question": {
+    "properties": {
+      "question": "What is a necessary condition for the safe insertion of a central venous line (CVL)?",
+      "option_a": "The patient must be in a sitting position.",
+      "option_b": "Adequate sterile technique must be used.",
+      "option_c": "The patient's blood pressure should be below 100/60 mmHg.",
+      "option_d": "The patient must have a high fever.",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

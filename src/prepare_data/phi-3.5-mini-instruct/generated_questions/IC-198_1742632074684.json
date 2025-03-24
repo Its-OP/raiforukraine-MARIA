@@ -1,0 +1,22 @@
+{
+  "folder": "IC-198",
+  "content": "{{knowledge objective\n|Identifiant=OIC-198-05-B\n|Item_parent=Microcrystalline arthropathies\n|Item_parent_short=Microcrystalline arthropathies\n|Rank=B\n|Title=Radiography of the knee: meniscal calcification, cartilage calcification\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=5}}\n<gallery widths=\"400\" heights=\"400\">\nFile:Knee X-ray meniscal calcification, cartilage calcification .PNG\n</gallery>",
+  "question": {
+    "properties": {
+      "question": "In radiographic imaging of the knee, meniscal and cartilage calcification can be indicative of which condition?",
+      "option_a": "Osteoarthritis",
+      "option_b": "Rheumatoid arthritis",
+      "option_c": "Gouty arthritis",
+      "option_d": "Tendinitis",
+      "correct_option": "A"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "folder": "IC-230",
+  "content": "{{knowledge objective\n|Identifiant=OIC-230-13-A\n|Item_parent=Acute chest pain\n|Item_parent_short=Acute chest pain\n|Rank=A\n|Title=Know the main causes of acute chest pain outside the four cardiovascular emergencies\n|Description=pneumonia, pneumothorax. Refer to corresponding items\n|Rubric=Etiologies\n|Contributors=Vincent Roule\n|Order=13}}\n\n'''Know the main thoracic causes of acute pain apart from the 4 cardiovascular emergencies'''\n\n- infectious pneumopathy\n\n- pneumothorax\n\n- pleural effusion\n\n- musculoskeletal parietal pain (Tietze syndrome, musculoligament pain, rib fractures)",
+  "question": {
+    "properties": {
+      "question": "Which of the following is NOT a common non-cardiovascular cause of acute chest pain?",
+      "option_a": "Pneumonia",
+      "option_b": "Pneumothorax",
+      "option_c": "Myocardial infarction",
+      "option_d": "Pleural effusion",
+      "correct_option": "C"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

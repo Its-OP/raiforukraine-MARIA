@@ -1,0 +1,22 @@
+{
+  "folder": "IC-302",
+  "content": "{{knowledge objective\n|Identifiant=OIC-302-01-A\n|Item_parent=Cutaneous, epithelial and melanoma tumours\n|Item_parent_short=Cutaneous, epithelial and melanoma tumours\n|Rank=A\n|Title=Know the main skin tumours\n|Description=List the main families of skin tumours (basal cell, squamous cell, melanoma, HPV-induced tumours) and their relative frequency.\n|Rubric=Definition\n|Contributors=\n|Order=1}}\nMalignant skin tumours include tumours of epithelial origin such as basal cell or squamous cell carcinomas, which develop from keratinocytes, and melanoma, which is a malignant melanocytic tumour.\n\nMelanoma is a malignant tumour that develops at the expense of melanocytes (cells that produce melanin).",
+  "question": {
+    "properties": {
+      "question": "Which of the following is NOT a main family of skin tumours?",
+      "option_a": "Basal cell carcinoma",
+      "option_b": "Squamous cell carcinoma",
+      "option_c": "Liposarcoma",
+      "option_d": "Melanoma",
+      "correct_option": "C"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-070",
+  "content": "{{knowledge objective\n|Identifiant=OIC-070-03-B\n|Item_parent=Psychological disorders in the elderly\n|Item_parent_short=Psychological disorders in the elderly\n|Rank=B\n|Title=Knowing the prevalence of psychobehavioural symptoms in demented elderly subjects\n|Description=Send item 108\n|Topic=Epidemiology\n|Contributors=Pierre Vandel,Marie Tournier\n|Order=3}}\n\nKnown as \"psychological and behavioural symptoms of dementia\" (BPSD)\n\nPresent in over 80% of patients with Alzheimer's disease or other dementias. Early onset.\n\n           Negative symptomatology: withdrawal and apathy 50% prevalence\n\nFrequent psychotic symptoms: delusions, hallucinations",
+  "question": {
+    "question": "What is the prevalence of negative symptomatology, such as withdrawal and apathy, in elderly patients with dementia?",
+    "option_a": "Less than 25%",
+    "option_b": "25-50%",
+    "option_c": "50-75%",
+    "option_d": "Over 75%",
+    "correct_option": "B"
+  }
+}

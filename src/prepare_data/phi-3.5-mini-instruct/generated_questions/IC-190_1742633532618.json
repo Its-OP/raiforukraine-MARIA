@@ -1,0 +1,12 @@
+{
+  "folder": "IC-190",
+  "content": "{{knowledge objective\n|Identifiant=OIC-190-05-A\n|Item_parent=Prolonged fever\n|Item_parent_short=Prolonged fever\n|Rank=A\n|Intitle=Cite the main non-infectious causes of prolonged fever\n|Description=Malignant diseases, systemic diseases, drugs, rare causes\n|Rubric=Etiologies\n|Contributors=\n|Order=5}}\n\n\n'''-'''' cancers (including haemopathies)\n\n- inflammatory or autoimmune diseases: giant cell arteritis and rheumatoid arthritis, other vasculitides, systemic lupus, chronic inflammatory bowel disease, rheumatoid arthritis, Still's disease, etc.\n\n- medicines\n\n- various causes: hyperthyroidism, venous thrombo-embolic disease, auto-inflammatory syndromes\n\n\nIn children\n\n- cancer: primarily haemopathy, but also neuroblastoma, lymphoma and nephroblastoma\n\n- Inflammatory or autoimmune diseases: KAWASAKI +++ to be suspected in the presence of a fever lasting more than 5 days, Crohn's disease (in older children) and more rarely PIMS (paediatric multisystem inflammation syndrome following SARS-Cov2 -COVID infection), systemic form of juvenile chronic arthritis (Still's disease), lupus.\n\n- drug-related causes\n\n- auto-inflammatory syndrome\n\n<br />",
+  "question": {
+    "question": "Which of the following is NOT a common non-infectious cause of prolonged fever in children?",
+    "option_a": "Haemopathy",
+    "option_b": "Kawasaki disease",
+    "option_c": "Diabetes Mellitus",
+    "option_d": "Still's disease",
+    "correct_option": "C"
+  }
+}

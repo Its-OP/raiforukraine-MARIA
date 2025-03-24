@@ -1,0 +1,12 @@
+{
+  "folder": "IC-247",
+  "content": "{{knowledge objective\n|Identifiant=OIC-247-15-A\n|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Rank=A\n|Title=Know how to assess cardiovascular risk (risk scores)\n|Description=None\n|Topic=Positive diagnosis\n|Contributors=Gaetan Pr\u00e9vost,Eva Feigerlova,H\u00e9l\u00e8ne Bihan,Claire Briet,Etienne Larger\n|Order=15}}\n\nEstimating a person's vascular risk involves listing all the cardiovascular risk factors:\n<br />\n{| class=\"wikitable\"\n|Non-modifiable risk factors\n|Modifiable risk factors\n|-\n|male sex\n|Tobacco\n|-\n|Age: (M>50 years, F>60 years)\n|Hypercholesterolemia (LDL)\n|-\n|ACD FX coronary pathology\n|HDL-C<0.4 g/l\n|-\n|55 years in father/brother, <65 years in mother/sister\n|HYPERTENSION\n|-\n|\n|Diabetes\n|-\n|\n|IRC\n|}\n\nThe risk can be estimated quantitatively, by expressing the probability of developing a complication in 10 years, using \"multifactorial equations\". Many equations can be used. The most commonly used equations are those drawn from the Framingham study (United States) and the European SCORE project (Systematic COronary Risk Evaluation).\n\n\nEstimation of absolute risk\n\nUse of equations or tables or simple summation of cardiovascular risk factors:\n\n- an event risk of around 10% at 10 years is considered low;\n\n- A risk of between 10% and 20% is considered intermediate;\n\n- A risk of more than 20% is considered significant (this is the level of coronary risk observed in the aftermath of a myocardial infarction);\n\n- a risk of more than 30% is a major risk.",
+  "question": {
+    "question": "What is considered a significant risk level for coronary complications in 10 years according to the Framingham and European SCORE project equations?",
+    "option_a": "Around 10%",
+    "option_b": "Between 10% and 20%",
+    "option_c": "More than 20%",
+    "option_d": "More than 30%",
+    "correct_option": "C"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-261",
+  "content": "{{knowledge objective\n|Identifiant=OIC-261-16-B\n|Item_parent=Glomerular nephropathy\n|Item_parent_short=Glomerular nephropathy\n|Rank=B\n|Title=Knowing the clinical and biological elements leading to the suspicion of acute post-infectious glomerulonephritis (GNA)\n|Description=Know how to identify the post-infectious context and a portal of entry. Identify nephritic syndrome (oedema, hypertension, haematuria, acute renal failure) occurring within 10-15 days of an ENT or skin infection.\n|Rubric=Positive diagnosis\n|Contributors=Eric Daugas,Bruno Moulin\n|Order=16}}\n\nE. Acute post-infectious GN\n\nThe typical form is post-streptococcal GNA.\n\nDiagnosis\n\n* Approximately 2 weeks after an episode of ENT or skin infection not treated with antibiotics,\n* Acute nephritic syndrome, sometimes very poorly tolerated,\n* Complement consumption with a drop in C3 and C4,\n* Renal biopsy is performed if there is any doubt about the diagnosis. It shows diffuse endocapillary proliferation with an influx of inflammatory cells. In severe forms, extracapillary proliferation is associated. Immunofluorescence shows deposits of C3 in the mesangium and in the wall of the glomerular capillaries (so-called starry sky deposits). Sometimes \"humps\" (large extramembranous deposits) are seen under the light microscope.\n\n<br />",
+  "question": {
+    "question": "Within how many days after an ENT or skin infection does acute post-infectious glomerulonephritis (GN) typically manifest, often poorly tolerated?",
+    "option_a": "3-7 days",
+    "option_b": "5-10 days",
+    "option_c": "10-15 days",
+    "option_d": "20-25 days",
+    "correct_option": "c"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-284",
+  "content": "{{knowledge objective\n|Identifiant=OIC-284-06-B\n|Item_parent=Functional colopathy\n|Item_parent_short=Functional colopathy\n|Rank=B\n|Title=Knowing the indications for colonoscopy and how it is performed\n|Description=Importance of colonic biopsies to rule out microscopic colitis\n|Rubric=Additional examinations\n|Contributors=\n|Order=6}}\nColonoscopy is indicated :\n\n1/ In the presence of clinical warning signs :\n\n- Symptoms appear after the age of 50.\n\n- Blood in the stools (rectorrhagia or melena)\n\n- Nocturnal symptoms\n\n- Weight loss\n\n- Recent onset or modification of symptoms\n\n- Terrain at risk of colonic neoplasia (family history of colorectal cancer see item 301).\n\n\n\n2/ In the event of diarrhoeal symptoms\n\n3/ If there are any abnormalities on clinical examination (abdominal mass, weight loss)\n\n4/ In the event of biological abnormalities (anaemia, inflammation).\n\n\n           Colonoscopy is usually carried out under general anaesthetic, after an oral colonic preparation to clean the colon. The patient must be informed beforehand of the benefits of the procedure and the risks involved (perforation, bleeding). In the case of a diarrhoeal subtype, it is recommended that staged biopsies be taken in all colonic segments to look for microscopic colitis, and in the ileum to rule out ileal Crohn's disease. An oesogastroduodenal endoscopy with biopsies to look for \"Helicobacter pylori\" and/or duodenal atrophy is also indicated in cases of associated dyspepsia or iron-deficiency anaemia.",
+  "question": {
+    "question": "Which of the following is NOT an indication for colonoscopy according to the provided educational content?",
+    "option_a": "Symptoms appearing after the age of 50",
+    "option_b": "Blood in the stools",
+    "option_c": "Presence of an abdominal mass",
+    "option_d": "High blood pressure",
+    "correct_option": "d"
+  }
+}

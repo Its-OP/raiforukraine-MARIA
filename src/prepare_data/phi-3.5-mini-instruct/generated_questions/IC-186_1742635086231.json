@@ -1,0 +1,12 @@
+{
+  "folder": "IC-186",
+  "content": "{{knowledge objective\n|Identifiant=OIC-186-02-B\n|Item_parent=Hypersensitivities and allergies in children and adults: physiopathological, epidemiological and diagnostic aspects and principles of treatment\n|Item_parent_short=Hypersensitivities and allergies in children and adults: pathophysiological, epidemiological and diagnostic aspects and principles of treatment\n|Rank=B\n|Title=Knowing the major epidemiological trends in allergies to hymenoptera venoms: prevalence, mortality, etc.\n|Description=None\n|Rubric=Epidemiology\n|Contributors=\n|Order=2}}\nHymenoptera venoms (bees, wasps, hornets) contain\n\n- vasoactive substances responsible for ''toxic reactions and non-allergic hypersensitivity''.\n\n- enzymes and other proteins responsible for immediate immuno-allergic reactions mediated by venom allergen-specific IgE antibodies.\n\n\nBee stings occur mainly in spring and early summer, generally when the insect feels threatened. The sting remains in the skin, causing the bee's abdomen to rupture. The main allergen in the venom is phospholipase A2.\n\nWasps are more aggressive than bees and can sting for no apparent reason, sometimes several times because the sting does not stay in the skin. They sting until late autumn. Hyaluronidase, antigen 5 and phospholipase A1 are the 3 major allergens in the venom.\n\nHornets belong to the same family as wasps. Their stings are more painful and the quantity of venom injected is greater. Allergic reactions are often \"crossed with wasp venom allergy\" (similar composition), and \"sometimes with bee venom\" (50% homology between phospholipase A2 from hornet venom / phospholipase A2 from bee venom).\n\n\nPrevalence of hymenoptera allergy :\n\n- 10 to 40% of the population is sensitised (so not necessarily allergic; beekeepers in particular are very frequently sensitised and rarely allergic)\n\n0.3 to 7.5% of the general population suffer systemic reactions, potentially causing severe anaphylaxis, with a low mortality rate (0.03 to 0.45/million population/year).",
+  "question": {
+    "question": "What is the main allergen in bee venom that can cause systemic reactions in a small percentage of the population?",
+    "option_a": "Hyaluronidase",
+    "option_b": "Antigen 5",
+    "option_c": "Phospholipase A2",
+    "option_d": "Phospholipase A1",
+    "correct_option": "c"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "folder": "IC-109",
+  "content": "{{knowledge objective\n|Identifiant=OIC-109-06-A\n|Item_parent=Gait and balance disorders\n|Item_parent_short=Gait and balance disorders\n|Rank=A\n|Item_parent=Gait and balance disorders\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=6}}\nABASIA ASTASIA: panic fear of walking; if the patient is pushed to take a few steps, he clings to the examiner or to furniture or walls, at the cost of risky postures with a high risk of falling. Any attempt to let go of the subject is accompanied by major anxiety reactions.",
+  "question": {
+    "properties": {
+      "question": "What is the term for the condition characterized by an intense fear of walking, leading to clinging to support for fear of falling, often accompanied by anxiety when attempting to move?",
+      "option_a": "Astasia-Abasia",
+      "option_b": "Ataxia",
+      "option_c": "Astasia-Brachia",
+      "option_d": "Ataxophobia",
+      "correct_option": "A"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

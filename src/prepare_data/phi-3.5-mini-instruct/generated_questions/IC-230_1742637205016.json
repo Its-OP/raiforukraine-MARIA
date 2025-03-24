@@ -1,0 +1,22 @@
+{
+  "folder": "IC-230",
+  "content": "{{knowledge objective\n|Identifiant=OIC-230-01-A\n|Item_parent=Acute chest pain\n|Item_parent_short=Acute chest pain\n|Rank=A\n|Title=Know the definition of acute chest pain\n|Description=None\n|Rubric=Definition\n|Contributors=Vincent Roule\n|Order=1}}\n'''Know the definition of acute chest pain'''\n\n<nowiki/>= pain (or discomfort) in the region of the rib cage (between the neck and the umbilicus) occurring suddenly.\n\nVariable characteristics: intensity, location, irradiation, duration, triggering or relieving factor, frequency.",
+  "question": {
+    "properties": {
+      "question": "What is the definition of acute chest pain?",
+      "option_a": "Persistent discomfort in the chest region that develops over several weeks.",
+      "option_b": "Pain in the rib cage that occurs suddenly and can vary in intensity.",
+      "option_c": "A chronic condition characterized by a dull ache in the chest that is not related to the rib cage region.",
+      "option_d": "A mild, non-specific discomfort in the chest area that is typically associated with relaxation.",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

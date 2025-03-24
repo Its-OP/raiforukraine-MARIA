@@ -1,0 +1,12 @@
+{
+  "folder": "IC-076",
+  "content": "{{knowledge objective\n|Identifiant=OIC-076-11-A\n|Item_parent=Alcohol dependence\n|Item_parent_short=Alcohol dependence\n|Rank=A\n|Title=Knowing the usual biological markers of alcohol consumption: blood alcohol, GGT, mean blood volume (MBV), desialyzed transferrin, etc.\n|Description=The usual markers of alcohol consumption are blood alcohol, gamma GT, MGV and desialylated transferrin.\n|Rubric=Additional tests\n|Contributors=\n|Order=11}}\nUsefulness\n\no Objectivise misuse in cases of denial or minimisation (etiological diagnosis of pancreatitis, etc.)\n\no Addiction monitoring: identifying relapses, motivational and educational aspects\n\no Not useful for systematic screening or diagnosis of dependence\n\n\nBlood alcohol level (breathalyser or blood test)\n\no useful in emergencies in the event of a fall, malaise, behavioural problems or loss of consciousness\n\nGGT (Gamma Glutamyl Transpeptidase)\n\no marker of alcohol consumption and alcohol-related liver damage\n\no poor sensitivity\n\no poor specificity (to be interpreted in conjunction with the entire liver work-up)\n\no difficult to interpret if obese or with metabolic syndrome\n\no decreases from the first week after stopping consumption, and normalises in 4 to 10 weeks.\n\nVGM (Mean corpuscular volume)\n\no The least sensitive\n\no fairly specific\n\no slowly returns to normal (three months after stopping).\n\nCDT (desialylated transferrin)\n\no Slightly more sensitive than GGT\n\no very specific\n\no normalises within a few weeks of stopping consumption",
+  "question": {
+    "question": "Which of the following biological markers is known to normalize within a few weeks after stopping alcohol consumption?",
+    "option_a": "Blood alcohol level",
+    "option_b": "GGT (Gamma Glutamyl Transpeptidase)",
+    "option_c": "CDT (desialylated transferrin)",
+    "option_d": "VGM (Mean corpuscular volume)",
+    "correct_option": "C"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-16-A\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=A\n|Title=Knowing international dental numbering\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=16}}\n\n[[File:Child teeth.png|neant|vignette|Child teeth]]\n[[File:Adult teeth.png|neant|thumbnail]]",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Question",
+        "description": "What is the correct numbering system for primary teeth in children according to the international dental notation?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Option A",
+        "description": "The primary teeth are numbered from 1 to 20, similar to adult teeth.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Option B",
+        "description": "The primary teeth are numbered from 5 to 32, following a unique sequence for children.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Option C",
+        "description": "The primary teeth are numbered from 1 to 32, the same as adult teeth, but with a different designation for baby teeth.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Option D",
+        "description": "The primary teeth are numbered from 1 to 20, with each tooth assigned a unique number for identification.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "D",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

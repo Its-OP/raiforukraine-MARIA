@@ -1,0 +1,14 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-02-A\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=A\n|Intitle=Define puberty, thelarche and menarche\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=2}}\nThe appearance of isolated early pubic hair (premature pubarche or adrenarche) is most often linked to the physiological increase in adrenal androgens around the age of 8.\n\nIt is a diagnosis of elimination, which requires a pathological production of androgens of adrenal or gonadal origin to have been ruled out: congenital adrenal hyperplasia, adrenal tumour, gonadal tumour.\n\nEarly and isolated breast development (absence of pubic hair, absence of accelerated growth rate) before the age of 2 is often physiological (premature thelarche). It is not related to activation of the gonadotropic axis. It is a diagnosis of elimination, made after suggesting true precocious puberty.\n\nThe term menarche refers to the first menstrual period.",
+  "question": {
+    "properties": {
+      "question": "What is the primary distinction between premature pubarche and premature thelarche?",
+      "option_a": "Premature pubarche is characterized by the development of breast tissue without pubic hair, while premature thelarche involves the appearance of pubic hair without breast tissue development.",
+      "option_b": "Premature pubarche is due to pathological adrenal or gonadal androgen production, whereas premature thelarche is a physiological condition often presenting with isolated breast development without accelerated growth rate or pubic hair.",
+      "option_c": "Premature pubarche and premature thelarche both refer to the early onset of menstruation.",
+      "option_d": "Premature pubarche and premature thelarche are both conditions where accelerated growth rate is observed before the age of 2."
+    },
+    "correct_option": "B"
+  }
+}

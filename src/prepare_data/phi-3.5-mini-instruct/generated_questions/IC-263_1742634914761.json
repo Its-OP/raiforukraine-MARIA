@@ -1,0 +1,12 @@
+{
+  "folder": "IC-263",
+  "content": "{{knowledge objective\n|Identifiant=OIC-263-06-A\n|Item_parent=Vascular nephropathy\n|Item_parent_short=Vascular nephropathy\n|Rank=A\n|Title=Savoir \u00e9voquer le diagnostic de st\u00e9nose de l'art\u00e8re r\u00e9nale (How to diagnose renal artery stenosis)\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Jean-Jacques Boffa\n|Order=6}}\n\nThere are 2 types of renal artery stenosis: atheromatous and fibrodysplastic.\n\nTable : The 2 types of renal artery stenosis\n{| class=\"wikitable\"\n|\n|Atheromatous stenosis\n|Fibrodysplasia of the media\".\n|-\n|Incidence\n|90% of cases\n|10% of cases\n|-\n|Terrain\n|male > 45 years, atheromatous\n|women between 25 and 40\n|-\n|Cardiovascular risk factors\n|Multiple (hypertension, obesity, type 2 diabetes, smoking, etc.)\n|absent\n|-\n|'''Location'''\n\n'''of stenosis'''\n|proximal lesions (near the ostium) and often bilateral with post-stenotic dilatation\n|distal lesions with a\n\na string of pearls, often bilateral\n|-\n|Risk of thrombosis\n|high\n|low\n|}\n<br />",
+  "question": {
+    "question": "Where is the location of stenosis most commonly found in atheromatous renal artery stenosis?",
+    "option_a": "Proximal lesions near the ostium, often bilateral with post-stenotic dilatation",
+    "option_b": "Distal lesions with a string of pearls, often bilateral",
+    "option_c": "Central lesions within the renal artery",
+    "option_d": "Peripheral lesions near the renal vein",
+    "correct_option": "A"
+  }
+}

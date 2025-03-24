@@ -1,0 +1,12 @@
+{
+  "folder": "IC-142",
+  "content": "{{knowledge objective\n|Identifiant=OIC-142-02-B\n|Item_parent=Know the specific aspects of paediatric palliative care\n|Item_parent_short=Know the specific aspects of paediatric palliative care\n|Rank=B\n|Title=Knowing the characteristics of perinatal bereavement\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Guillaume Robert\n|Order=2}}\n\n===='''<u>Definition</u>'''====\nA [[Normal and pathological grief|'''grief'''']] in its own right. The experience of a perinatal death is '''always traumatic'''. No loss of a baby can be minimised.\n\nThe time frame in which this bereavement takes place for each person is unique.\n\n===='''<u>Specificities</u>''''====\n'''Possible feelings''' of violence of birth and death, unreality, guilt, ambivalence\n\n+ loss of status as a parent in the making\n\n+ misunderstanding on the part of family and friends, who may sometimes play down the situation\n\nNB: in the event of death in utero: impossible to meet the child\n\nWhatever the circumstances of perinatal bereavement, miscarriage, \"abortion\", IMG, extremely premature delivery, foetal death in utero, pathology with lethal potential, intra- or postnatal complications, \"each situation is unique with different emotional experiences\".<br />.\n\n===='''<u>Specialised support to:</u>'''====\n-support the feeling of '''parental competence'''\n\n-recognise the psychological reality of loss\n\n-providing each person with an individualised space for expression, respecting the temporality of each person's experience\n\n-identify any need for specific psychological support\n\n-Supporting siblings: feelings of abandonment, guilt, ambivalence, anxiety about dying\n\n-supporting grandparents\n\n-offer support through associations and peer discussion groups for bereaved parents, siblings or grandparents\n\n-provide social support with administrative formalities (declaration of death, maternity and paternity leave, funerals, etc.)",
+  "question": {
+    "question": "Which of the following is NOT a characteristic of perinatal bereavement according to the provided content?",
+    "option_a": "Feelings of violence of birth and death",
+    "option_b": "Loss of status as a parent in the making",
+    "option_c": "Immediate recovery and return to normal life within a few days",
+    "option_d": "Support for siblings experiencing feelings of abandonment",
+    "correct_option": "C"
+  }
+}

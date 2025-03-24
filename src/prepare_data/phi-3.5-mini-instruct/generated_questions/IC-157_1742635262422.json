@@ -1,0 +1,12 @@
+{
+  "folder": "IC-157",
+  "content": "{{knowledge objective\n|Identifiant=OIC-157-06-B\n|Item_parent=Bacteremia/Fungemia in adults and children\n|Item_parent_short=Bacteremia/Fungemia in adults and children\n|Rank=B\n|Title=Knowing the epidemiological and clinical particularities of catheter-related infections\n|Description=None\n|Rubric=Etiologies\n|Contributors=David Lebeaux\n|Order=6}}\n\n\n\n'''Microbiological epidemiology of catheter-related infections:''''\n\n- 50 to 60% are caused by staphylococci\n\n- 20 to 40% are caused by Gram-negative bacilli (enterobacteria, Pseudomonas aeruginosa)\n\n- Proportion of \"Candida\" varies according to the terrain\n\n'''Clinical features:''''\n\n- Prescribing and monitoring a vascular approach SD-271|Suspect for catheter-related infection]] in any patient with a catheter who presents with fever, chills, signs of poor peripheral perfusion (mottling, cold extremities, prolonged recoloration time) and/or hypotension.\n\n- Local cutaneous signs are rare (10-20% of cases).\n\n- The occurrence of fever, chills, signs of peripheral hypoperfusion and/or arterial hypotension after manipulation of the catheter are suggestive signs, as is improvement after removal of the catheter.",
+  "question": {
+    "question": "What are the most common causes of catheter-related infections according to the microbiological epidemiology?",
+    "option_a": "Staphylococci (50 to 60%) and Candida species",
+    "option_b": "Gram-positive cocci other than staphylococci (30 to 40%) and Gram-negative bacilli (20 to 30%)",
+    "option_c": "Gram-negative bacilli (20 to 40%) and Candida species",
+    "option_d": "Gram-positive cocci other than staphylococci (40 to 50%) and Gram-negative bacilli (20 to 30%)",
+    "correct_option": "C"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-037",
+  "content": "{{knowledge objective\n|Identifiant=OIC-037-08-B\n|Item_parent=Voluntary termination of pregnancy\n|Item_parent_short=Voluntary termination of pregnancy\n|Rank=B\n|Title=Knowing medicated and surgical abortion techniques\n|Description=Methods and techniques for carrying out abortions\n|Rubrique=Prise en charge\n|Contributors=Arthur Foulon,Philippe Deruelle,Aubert Agostini\n|Order=8}}\n\nTwo techniques can be used to perform an abortion. The medicinal technique and the instrumental technique (Table). '''[[Explain a treatment to the patient (adult/child/adolescent) SD-352|Explain a treatment to the patient (adult/child/adolescent)]]''''\n\n\nDuring the medicated technique, metrorrhagia generally occurs within 3 to 4 hours of taking the prostaglandin, but this should not be taken as proof of success. Effectiveness is judged on the basis of complete expulsion without the need for surgery, and also on the rate of progressive pregnancy. Analgesic treatment must be associated.\n\nThe instrumental technique can be performed under local, loco-regional or general anaesthetic.\n<br />\n{| class=\"wikitable\"\n|\n|'''Medical abortion''''\n|'''Instrumental abortion'''\n|-\n|Maximum legal period\n|up to 9 weeks' gestation\n|Up to 16 weeks\n|-\n|\n|\n|\n|-\n|Treatment regimen\n|Oral mifepristone followed by oral misoprostol 24 to 48 hours later.\n\n\nBefore 7 SA\n\n200 or 600 mg mifepristone 400 microg misoprostol\n\n\n\nBetween 7 and 9 SA\n\n200 mg mifepristone\n\n800 microg misoprostol\n|200 mg mifepristone per os 48 hours before the procedure\n\nOr\n\n400 microg misoprostol per os 3 to 4 hours before the procedure\n<br />The procedure is carried out by aspiration with a cannula after dilating the cervix with a bougie adapted to the gestational age.\n|-\n| colspan=\"3\" |\n|}\nTable: main differences between the two abortion techniques",
+  "question": {
+    "question": "What is the maximum gestational age for performing a medicated abortion?",
+    "option_a": "Up to 9 weeks' gestation",
+    "option_b": "Up to 12 weeks' gestation",
+    "option_c": "Up to 16 weeks",
+    "option_d": "Up to 20 weeks",
+    "correct_option": "A"
+  }
+}

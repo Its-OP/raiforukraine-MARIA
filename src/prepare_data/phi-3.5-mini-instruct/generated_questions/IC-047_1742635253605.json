@@ -1,0 +1,22 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-10-A\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=A\n|Title=Know how hearing disorders are systematically screened.\n|Description=Knowing the key ages for hearing screening\n|Rubric=Definition\n|Contributors=\n|Order=10}}\nFrequent hearing anomalies: 1 in 20 children under the age of 6\n\nMaternity, 9-month, 24-month, 36-month and nursery school hearing tests\n\nImportance of screening because of the repercussions of hearing loss on neuro-psycho-development",
+  "question": {
+    "properties": {
+      "question": "At what key age intervals are hearing disorders systematically screened in children according to the provided content?",
+      "option_a": "Birth, 6 months, 1 year, 2 years",
+      "option_b": "Birth, 9 months, 24 months, 36 months",
+      "option_c": "6 months, 1 year, 2 years, 3 years",
+      "option_d": "9 months, 18 months, 24 months, 30 months",
+      "correct_option": "B"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

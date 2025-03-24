@@ -1,0 +1,22 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-26-B\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=B\n|Title=Know how to diagnose axis anomalies of the lower limbs.\n|Description=Twist disorder, genu valgum and varum\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=26}}\n'''Torsion disorder''' (abnormality of rotation in the transverse axis): excessive internal rotation in young children (\"foot in\" physiological up to 7 years), excessive external rotation in older children. Most often progresses favourably with growth. No orthopaedic treatment. Surgery is exceptional\n\n'''Genu varum''' (anomaly of rotation in the frontal axis): intercondylar spacing, physiological up to 3 years of age\n\n''Genu valgum'' (anomaly of rotation in the frontal axis): intermaleolar spacing, physiological from 3 to 10 years of age, disappears at puberty.",
+  "question": {
+    "properties": {
+      "question": "Which of the following is the correct description of genu varum in children?",
+      "option_a": "Excessive internal rotation in young children, which usually resolves with growth.",
+      "option_b": "Excessive external rotation in older children, often requiring surgical intervention.",
+      "option_c": "Intercondylar spacing, physiological up to 3 years of age.",
+      "option_d": "Intermaleolar spacing, physiological from 3 to 10 years of age, disappearing at puberty.",
+      "correct_option": "c"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

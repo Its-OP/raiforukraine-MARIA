@@ -1,0 +1,22 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-24-B\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=B\n|Title=Knowing the indication for imaging examinations in abnormal puberty\n|Description=None\n|Rubric=Additional examinations\n|Contributors=\n|Order=24}}\n- Pathological peripheral puberty: pelvic ultrasound in girls\n\n- Central precocious puberty: brain MRI to look for a tumour affecting the hypothalamo-hypophyseal region\n\n<br />",
+  "question": {
+    "properties": {
+      "question": "Which imaging examination is indicated for a girl with pathological peripheral puberty?",
+      "option_a": "Brain MRI to look for a tumour affecting the hypothalamo-hypophyseal region",
+      "option_b": "Chest X-ray to evaluate lung function",
+      "option_c": "Pelvic ultrasound",
+      "option_d": "Abdominal ultrasound to assess liver health",
+      "correct_option": "C"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

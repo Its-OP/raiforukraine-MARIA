@@ -1,0 +1,22 @@
+{
+  "folder": "IC-260",
+  "content": "{{knowledge objective\n|Identifiant=OIC-260-03-A\n|Item_parent=Hematuria\n|Item_parent_short=Hematuria\n|Rank=A\n|Title=Diagnosing microscopic haematuria and macroscopic haematuria\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Charles Dariane, Bruno Moulin\n|Order=3}}\n\n<br />\n\n*Microscopic haematuria: diagnosis by urine dipstick only (Sn 90%, from \u2265 5 red blood cells/mm<sup>3</sup>), to be confirmed by ECBU.\n\n*Macroscopic haematuria: presence of blood visible to the naked eye (pinkish, red or brownish colouration of the urine, generally from \u2265 500 red blood cells/mm<sup>3</sup>). Clots or urological symptoms (lower urinary tract symptoms, lumbar or pelvic pain): point to a urological origin.\n\n*There is no correlation between the type of haematuria or the amount of bleeding and the severity of the causative disease. '''Microscopic haematuria has the same diagnostic value as macroscopic haematuria.'''",
+  "question": {
+    "properties": {
+      "question": "Which statement accurately reflects the diagnostic value of microscopic versus macroscopic haematuria?",
+      "option_a": "Microscopic haematuria is less diagnostically valuable than macroscopic haematuria.",
+      "option_b": "Macroscopic haematuria is only significant when accompanied by clots or urological symptoms.",
+      "option_c": "The diagnostic value of microscopic and macroscopic haematuria is considered equal.",
+      "option_d": "Microscopic haematuria requires immediate surgical intervention, unlike macroscopic haematuria.",
+      "correct_option": "c"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

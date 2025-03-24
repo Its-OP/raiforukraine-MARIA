@@ -1,0 +1,12 @@
+{
+  "folder": "IC-024",
+  "content": "{{knowledge objective\n|Identifiant=OIC-024-15-B\n|Item_parent=Main complications of pregnancy.\n|Item_parent_short=Main complications of pregnancy.\n|Rank=B\n|Title=Knowing what to do after childbirth in the case of hypertension.\n|Description=None\n|Heading=Management\n|Contributors=Paul Berveiller,Philippe Deruelle\n|Order=15}}\n\nIn the postpartum period, complications are still possible (hypertensive crisis, pre-eclampsia and its complications) and it can sometimes take several weeks for the hypertension to disappear++.\n\nSo :\n\n- Close monitoring and gradual discontinuation of antihypertensive treatment (o''bjectives'': PAS < 150 mmHg and PAD < 100 mmHg\n\n- If breast-feeding, give preference to: beta-blockers (labetalol, propranolol); calcium channel blockers (nicardipine, nifedipine); alphamethyldopa; converting enzyme inhibitors (benazepril, captopril, enalapril, quinapril) if the patient is not breast-feeding.\n\n- At discharge: \"microprogestins\" and \"progestins\" or non-hormonal contraception if hypertension not stabilised.\n\n- At the postnatal consultation: inform the patient of the subsequent cardiovascular and renal risk + coordinated multidisciplinary follow-up\n\n- Three months after delivery: vasculorenal work-up (BP measurement, creatininemia, 24-hour proteinuria [[Proteinuria SD-212]])\n\nSearch for and correct associated cardiovascular and renal risk factors (obesity, diabetes, dyslipidaemia, smoking [[Obesity and overweight SD-051]]; [[Prevention of overweight and obesity SD-319]]; [[Prevention of tobacco-related risks SD-314]]; [[Prevention of alcohol-related risks SD-313]]).\n\nEtiological investigation if hypertension persists.",
+  "question": {
+    "question": "After childbirth, what is the recommended management for a patient with hypertension that has not stabilized, especially if they are breastfeeding?",
+    "option_a": "Continue antihypertensive treatment with high doses of beta-blockers",
+    "option_b": "Administer microprogestins and progestins or non-hormonal contraception",
+    "option_c": "Immediate surgical intervention for hypertensive crisis",
+    "option_d": "Prescribe a strict diet excluding all carbohydrates and fats",
+    "correct_option": "b"
+  }
+}

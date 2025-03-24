@@ -1,0 +1,22 @@
+{
+  "folder": "IC-198",
+  "content": "{{knowledge objective\n|Identifiant=OIC-198-01-A\n|Item_parent=Microcrystalline arthropathies\n|Item_parent_short=Microcrystalline arthropathies\n|Rank=A\n|Title=Knowing the three main microcrystals involved in human pathology\n|Description=Sodium urate crystals in gout, calcium pyrophosphate crystals in pyrophosphate rheumatism, apatite crystals in calcifying tendinopathies or other calcinosis.\n|Rubric=Definition\n|Contributors=\n|Order=1}}\nThree types of microcrystals are involved:\n\n- crystals of sodium urate (UMS for monosodium urate), responsible for the\n\ngout; uric acid crystals are only found in urine!\n\n- calcium crystals :\n\n- calcium pyrophosphate (CPP) for associated rheumatism;\n\n- of the calcium phosphate type, especially apatite, for radiopaque deposits which are usually periarticular.",
+  "question": {
+    "properties": {
+      "question": "Which of the following is NOT one of the three main microcrystals involved in human pathology according to the study of microcrystalline arthropathies?",
+      "option_a": "Sodium urate crystals",
+      "option_b": "Calcium pyrophosphate crystals",
+      "option_c": "Apatite crystals",
+      "option_d": "Silver sulfide crystals",
+      "correct_option": "D"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

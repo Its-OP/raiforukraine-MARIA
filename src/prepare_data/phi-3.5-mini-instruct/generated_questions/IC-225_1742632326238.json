@@ -1,0 +1,12 @@
+{
+  "folder": "IC-225",
+  "content": "{{knowledge objective\n|Identifiant=OIC-225-11-B\n|Item_parent=Arteriopathy of the aorta, visceral arteries and lower limbs; aneurysms\n|Item_parent_short=Arteriopathy of the aorta, visceral arteries and lower limbs; aneurysms\n|Rank=B\n|Title=Know the main aetiologies of abdominal aortic aneurysms and the principles of screening.\n|Description=None\n|Rubric=Etiologies\n|Contributors=Christian Boissier, Anne Long, Lucie Salomon Du Mon\n|Order=11}}\n\nAAAs are frequently associated with atherosclerosis (coronary arteries, carotid arteries, arteries of the lower limbs, renal and digestive arteries). The existence of familial forms leads us to suspect a genetic component in some cases. Vascular prostheses can be complicated by false anastomotic aneurysms.\n\nIn rare cases, this may be due to: an infectious aneurysm, the aneurysmal evolution of an aortic dissection, hereditary connective tissue dystrophies (Marfan's disease, vascular Ehlers Danlos disease, Loeys Dietz syndrome), inflammatory aortitis (Takayasu's disease, Horton's disease and Beh\u00e7et's disease).\n\nAAA must be detected by ultrasound of the abdominal aorta (''discovery of an abdominal anomaly on medical imaging''). This screening is recommended for patients at risk, who are :\n\n*All arteriopaths;\n*Men aged 60 to 85;\n*Women aged 60 to 85 (hypertensive or smokers);\n*Men and women over 50 with a family history of aortic aneurysm in first-degree relatives.",
+  "question": {
+    "question": "Which of the following is NOT a recommended screening group for abdominal aortic aneurysms (AAA) according to the provided educational content?",
+    "option_a": "Men aged 60 to 85 with a history of smoking",
+    "option_b": "Women aged 60 to 85 with hypertension",
+    "option_c": "Individuals with a family history of aortic aneurysm in first-degree relatives over 50",
+    "option_d": "People with a history of inflammatory aortitis",
+    "correct_option": "d"
+  }
+}

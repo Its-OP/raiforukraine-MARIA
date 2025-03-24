@@ -1,0 +1,22 @@
+{
+  "folder": "IC-208",
+  "content": "{{knowledge objective\n|Identifiant=OIC-208-04-B\n|Item_parent=Chronic respiratory failure\n|Item_parent_short=Chronic respiratory failure\n|Rank=B\n|Title=Knowing the symptoms that may suggest the diagnosis of PH\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=4}}\nSigns of PH: holosystolic murmur of tricuspid insufficiency increasing on deep inspiration (Carvalho's sign), burst of B2 at the pulmonary focus, diastolic murmur of pulmonary insufficiency, exertional dyspnoea.\n\nSigns of right heart failure complicating PH: tachycardia, gallop, jugular turgidity, hepato-jugular reflux, hepatomegaly, oedema of the lower limbs, hydrops.",
+  "question": {
+    "properties": {
+      "question": "Which of the following symptoms is NOT typically associated with the diagnosis of pulmonary hypertension (PH)?",
+      "option_a": "Holosystolic murmur of tricuspid insufficiency increasing on deep inspiration (Carvalho's sign)",
+      "option_b": "Burst of B2 at the pulmonary focus",
+      "option_c": "Diastolic murmur of pulmonary insufficiency",
+      "option_d": "Persistent cough with clear sputum",
+      "correct_option": "D"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}
