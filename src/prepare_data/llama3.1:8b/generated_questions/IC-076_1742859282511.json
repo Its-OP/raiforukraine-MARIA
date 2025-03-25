@@ -1,0 +1,12 @@
+{
+  "folder": "IC-076",
+  "content": "{{knowledge objective\n|Identifiant=OIC-076-20-B\n|Item_parent=Alcohol dependence\n|Item_parent_short=Alcohol dependence\n|Rank=B\n|Title=Knowing the existence of specific medications for alcohol dependence\n|Description=Drugs to help reduce consumption (nalmefene, baclofene) and maintain abstinence after withdrawal (acamprosate, naltrexone, disulfiram, baclofene).\n|Rubric=Management\n|Contributors=\n|Order=20}}\nIn addition to psychosocial support, \"addictolytic\" drug treatments may be prescribed to help people stop drinking alcohol or control their consumption. \n\nnalmefene and baclofen to help reduce alcohol consumption\n\nacamprosate, naltrexone and disulfiram in the prevention of relapse after withdrawal",
+  "question": {
+    "question": "What types of drug treatments may be prescribed in addition to psychosocial support to help people stop drinking alcohol or control their consumption?",
+    "option_a": "Nalmefene and baclofen to help reduce anxiety and stress",
+    "option_b": "Acamprosate, naltrexone, and disulfiram to help reduce alcohol consumption",
+    "option_c": "Varenicline and bupropion to help manage withdrawal symptoms",
+    "option_d": "Methadone and naloxone to help treat opioid dependence",
+    "correct_option": "B"
+  }
+}

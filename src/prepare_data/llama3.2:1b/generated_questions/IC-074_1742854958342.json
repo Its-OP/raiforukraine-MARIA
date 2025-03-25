@@ -1,0 +1,22 @@
+{
+  "folder": "IC-074",
+  "content": "{{knowledge objective\n|Identifiant=OIC-074-12-A\n|Item_parent=Prescription and monitoring of psychotropic drugs (see item 330)\n|Item_parent_short=Prescription and monitoring of psychotropic drugs (see item 330)\n|Rank=A\n|Title=Anxiolytics: knowing the main classes and molecules\n|Description=None\n|Rubric=Definition\n|Contributors=Louise Carton,Florian Naudet,Marie Tournier\n|Order=12}}\nAnxiolytics are psychotropic drugs which belong to various distinct chemical classes:\n\n# Benzodiazepines are the main class;\n# Non-benzodiazepine anxiolytics:\n#* Antihistamines;\n#* Azapirones;\n#* Other: propranolol, first-generation sedative antipsychotics (''cyamemazine'', ''levomepromazine'')\n\n{| class=\"wikitable\"\n|+\n|'''Chemical class'''\n|'''Molecules'''\n|'''Practical aspects'''\n|-\n| rowspan=\"7\" |'''Benzodiazepines'''\n|Oxazepam\n| rowspan=\"7\" | Main effects: anxiolytics, hypnotics, muscle relaxants, sedatives, anticonvulsants, amnesics\n\nFast-acting, right from the first dose\n\nRisk of problems with use and pharmacological tolerance\n\nTo be prescribed at the lowest possible dosage for a limited period of time\n\nAntidote available (flumazenil)\n|-\n|Lorazepam\n|-\n|Alprazolam\n|-\n|Bromazepam\n|-\n|Diazepam\n|-\n|Dipotassium chlorazepate\n|-\n|Prazepam\n|-\n|Azapirones\n|Buspirone\n|Desired effect: anxiolysis\n\nDelayed action (after one week's treatment)\n\nfickle and weak\n\nNo dependency\n|-\n|H1 antihistamine\n|Hydroxyzine\n|Moderate anxiolysis\n\nLess marked dependence than benzodiazepines\n\nLateral anticholinergic effects\n|-\n|\u0392-blockers\n|Propranolol\n|Effect on somatic symptoms of anxiety linked to peripheral effect\n|}",
+  "question": {
+    "properties": {
+      "question": "What is the main class of anxiolytics?",
+      "option_a": "Benzodiazepines",
+      "option_b": "Non-benzodiazepine anxiolytics",
+      "option_c": "Azapirones",
+      "option_d": "Propranolol",
+      "correct_option": "option_a"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

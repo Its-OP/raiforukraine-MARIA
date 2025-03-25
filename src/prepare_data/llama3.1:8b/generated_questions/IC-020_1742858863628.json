@@ -1,0 +1,12 @@
+{
+  "folder": "IC-020",
+  "content": "{{knowledge objective\n|Identifiant=OIC-020-10-B\n|Item_parent=Health research methodology\n|Item_parent_short=Health research methodology\n|Rank=B\n|Title=Probabilities, random variables, probability laws\n|Description=Know the principles of probability, the definitions of random variables and probability laws.\n|Rubric=Definition\n|Contributors=Julie Berbis (CUESP),David Hajage (CIMES),Alexandra Rouquette (CIMES)\n|Order=10}}\n\nProbability models random phenomena whose possible outcomes are known, but whose value cannot be predicted because their realisation is uncertain.\n\nA ''random variable'' is a function that assigns a number to all possible outcomes. It can be discrete (e.g. gender) or continuous (e.g. blood glucose level).\n\nThe ''probability law'' describes the probability associated with each value of a discrete random variable, or the probability associated with any interval of values of a continuous random variable.\n\nBy observing the outcomes of a random variable over sufficiently large series (for example, a large number of individuals), it is possible to determine their frequencies and then estimate the probability law governing the variable.\n\n<br />",
+  "question": {
+    "question": "What is the purpose of a probability model?",
+    "option_a": "To predict the exact outcome of a random phenomenon",
+    "option_b": "To describe the probability associated with each value of a random variable",
+    "option_c": "To determine the frequency of outcomes of a random variable over time",
+    "option_d": "To assign a number to all possible outcomes of a random phenomenon",
+    "correct_option": "B"
+  }
+}

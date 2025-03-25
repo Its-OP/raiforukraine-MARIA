@@ -1,0 +1,46 @@
+{
+  "folder": "IC-197",
+  "content": "{{knowledge objective\n|Identifiant=OIC-197-10-A\n|Item_parent=Spondyloarthritis\n|Item_parent_short=Spondyloarthritis\n|Rank=A\n|Title=Radiography of the spine\n|Description=How to recognise a syndesmophyte\n|Rubric=Multimedia content\n|Contributors=\n|Order=10}}\n\n[[File:Front radiograph of the lumbar spine with syndesmophytosis.jpg|vignette|Front radiograph of the lumbar spine with syndesmophytosis]]\n[[File:Radiographie de profil du rachis lombaire.jpg|vignette|Radiographie du rachis lombaire avec syndesmophytose]]Syndesmophytes are thin, vertical bony structures between two vertebrae.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What are syndesmophytes?",
+        "description": "What are the thin, vertical bony structures between two vertebrae?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Bone spurs",
+        "description": "Abnormal growths on the surface of a vertebra",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Soft tissue growths",
+        "description": "Tissue growths between two vertebrae",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Osteophytes",
+        "description": "Bony growths on the surface of a joint",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Syndesmotic growths",
+        "description": "Bony growths between two joints",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The first letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

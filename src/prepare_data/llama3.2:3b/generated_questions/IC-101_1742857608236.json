@@ -1,0 +1,46 @@
+{
+  "folder": "IC-101",
+  "content": "{{knowledge objective\n|Identifiant=OIC-101-04-A\n|Item_parent=Facial paralysis\n|Item_parent_short=Facial paralysis\n|Rank=A\n|Title=Photograph/video of central facial paralysis\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=4}}\nPlease refer to the CEN website: www.cen-neurologie.fr where videos are available.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary cause of facial paralysis in a patient with a central nervous system lesion?",
+        "description": "A question about the underlying cause of facial paralysis in a patient with a central nervous system lesion",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Infection or inflammation",
+        "description": "A possible cause of facial paralysis, but not the primary cause in this context",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Trauma or injury",
+        "description": "A possible cause of facial paralysis, but not the primary cause in this context",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Stroke or cerebral vasculitis",
+        "description": "The primary cause of facial paralysis in a patient with a central nervous system lesion",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Neurodegenerative disease",
+        "description": "A possible cause of facial paralysis, but not the primary cause in this context",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "C",
+        "description": "The letter corresponding to the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-198",
+  "content": "{{knowledge objective\n|Identifiant=OIC-198-04-B\n|Item_parent=Microcrystalline arthropathies\n|Item_parent_short=Microcrystalline arthropathies\n|Rank=B\n|Intitle=Radiography of the wrist: calcification of the triangular ligament of the carpus\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=4}}\n\n\n<gallery widths=\"400\" heights=\"400\">\nFile:X-rays of wrists calcification of the triangular ligament of the carpus.PNG\n</gallery>[https://videotheque.uness.fr/w/bEMzk6YJWVC9Z9EV7RoEkZ 4mn video Imaging Microcrystalline Rheumatism CERF]",
+  "question": {
+    "question": "What is the typical age range for the calcification of the triangular ligament of the carpus in radiography?",
+    "option_a": "Children and adolescents",
+    "option_b": "Young adults and adults",
+    "option_c": "Older adults",
+    "option_d": "Infants and toddlers",
+    "correct_option": "option_b"
+  }
+}

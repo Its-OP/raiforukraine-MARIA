@@ -1,0 +1,46 @@
+{
+  "folder": "IC-247",
+  "content": "{{knowledge objective\n|Identifiant=OIC-247-01-A\n|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Rank=A\n|Title=Knowing the definition of diabetes in children and adults\n|Description=None\n|Rubric=Definition\n|Contributors=Eva Feigerlova,H\u00e9l\u00e8ne Bihan,Claire Briet,Gaetan Prevost\n|Order=1}}\n\nDiabetes includes conditions characterised by chronic hyperglycaemia.\n\nThe definition of diabetes is based on the risk of long-term retinopathy. This risk was established on the basis of the results of epidemiological studies, which showed a risk of retinopathy for fasting blood glucose levels in excess of 1.26 g/l (7 mmol/l).\n\n<ref>CEEDMM, 2019</ref>",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the definition of diabetes based on?",
+        "description": "The definition of diabetes is based on the risk of long-term retinopathy. What type of risk is this?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "The risk of cardiovascular disease",
+        "description": "A risk associated with diabetes, but not the basis for its definition",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "The risk of long-term retinopathy",
+        "description": "The correct answer, based on epidemiological studies",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "The risk of nephropathy",
+        "description": "Another complication associated with diabetes, but not the basis for its definition",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "The risk of neuropathy",
+        "description": "A complication associated with diabetes, but not the basis for its definition",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

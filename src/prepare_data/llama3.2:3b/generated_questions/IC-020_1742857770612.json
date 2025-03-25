@@ -1,0 +1,46 @@
+{
+  "folder": "IC-020",
+  "content": "{{knowledge objective\n|Identifiant=OIC-020-30-A\n|Item_parent=Health research methodology\n|Item_parent_short=Health research methodology\n|Rank=A\n|Title=Criteria for judging causality and level of evidence in different studies\n|Description=Knowing how to define / recognise / interpret\n|Section=Definition\n|Contributors=Julie Berbis (CUESP),David Hajage (CIMES),Alexandra Rouquette (CIMES)\n|Order=30}}\n\nThe existence of a statistically significant association does not prejudge the causal nature of the relationship between an exposure and a health phenomenon. While experimental studies can provide proof of causality, observational studies can only discuss the plausibility of this causality, in the light of the \"Bradford Hill causality criteria\":\n{| class=\"wikitable\"\n| colspan=\"2\" |'''BRADFORD HILL CAUSALITY CRITERIA''''\n|-\n|Criteria '''internal''' to the study\n|Statistical association between exposure and the phenomenon studied\n\nStrength of the association\n\nDose-effect relationship\n\nSpecificity of the relationship\n\nMinimisation of selection and ranking bias. All known confounding factors are correctly taken into account.\n\nAbsence of temporal ambiguity (exposure must precede the phenomenon studied)\n|-\n|Criteria \"external\" to the study\n|External consistency: consistency between study results\n\nBiological plausibility (known pathophysiological mechanism)\n\nConsistency with in vitro and animal studies\n\nParallel geographical gradients in exposure and the phenomenon studied\n\nDecrease in the incidence of the phenomenon studied when exposure is eliminated or reduced\n|}\n<small>*The criterion of specificity of the relationship between exposure and the phenomenon studied is very convincing when it is present but is absent most of the time even if the causal relationship is very plausible. It is now accepted that an effect can be multi-causal (environment, genetic, etc.) and therefore the specificity of the relationship is no longer an essential causality criterion</small>\n\n\nThe different types of study therefore do not have the same demonstrative value in terms of causality, which translates into ''a different level of evidence'' (classification proposed by the Haute Autorit\u00e9 de Sant\u00e9, cf [[Argumenter les niveaux de preuve des principales sources d'information 2C-323-PE-A03]]):\n{| class=\"wikitable\"\n|'''Grade des recommandations''''\n|'''Level of scientific evidence provided by the literature'''\n|-\n|'''A Scientific evidence established'''\n|'''Level 1'''\n\n* high-powered randomised controlled trials\n* meta-analysis of randomised controlled trials\n* decision analysis based on well-conducted studies\n|-\n|'''B Scientific presumption'''\n|'''Level 2'''\n\n* low-power randomised controlled trials\n* well-conducted non-randomised comparative studies\n* cohort studies\n|-\n| rowspan=\"2\" |'''C Low level of scientific evidence'''\n|'''Level 3'''\n\n* case-control studies.\n|-\n|'''Level 4'''\n\n* comparative studies with significant bias\n* retrospective studies\n* case series\n* descriptive epidemiological studies (cross-sectional, longitudinal)\n|}\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What does the existence of a statistically significant association between an exposure and a health phenomenon imply about the causal nature of the relationship?",
+        "description": "In the context of Bradford Hill causality criteria",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "It definitively proves causality",
+        "description": "A statistically significant association is sufficient to conclude causality",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "It suggests a plausible causality, but does not rule out other causes",
+        "description": "A statistically significant association is consistent with, but does not necessarily imply causality",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "It is irrelevant to the question of causality",
+        "description": "A statistically significant association does not provide any information about the causal nature of the relationship",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "It is only possible in experimental studies",
+        "description": "A statistically significant association is only possible in experimental studies, not in observational studies",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

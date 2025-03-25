@@ -1,0 +1,12 @@
+{
+  "folder": "IC-056",
+  "content": "345{{knowledge objective\n|Identifiant=OIC-056-01-A\n|Item_parent=The disabled child: orientation and care (see items 118, 121)\n|Item_parent_short=The disabled child: orientation and care (see items 118, 121)\n|Rank=A\n|Title=Knowing the definition of disability\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=1}}\n'''- Using the ICF (International Classification of Functioning)'''\n\nDisability in children ([[Situation of disability SD-345]]) = situation resulting from the interaction between state of health, activities, participation, environmental and personal factors.\n\nA child with a disability has one or more impairments and does not have the activities and participation of children in his or her age group.\n\nSpecific features to be taken into account:\n\n- Notion of learning (maturing brain) ([[Anomaly of psychomotor development SD-115]])\n\n- Age-related activities\n\n- Notion of musculoskeletal growth (secondary deformations) ([[Joint deformation SD-070]])\n\n- Paediatric pathologies ([[Paediatric follow-up consultation SD-296]])\n\n- Participation: family, schools, leisure\n\n- Environment: importance of family support ([[Overall support for a carer SD-330]])\n\n\nConvention on the Rights of Persons with Disabilities (CRPD): Children with disabilities have the ''same rights as other children'' - for example, to health care, nutrition, education, social inclusion and protection from violence, abuse and neglect. ([[Suspected child abuse and children at risk SD-321]])",
+  "question": {
+    "question": "What is the definition of disability in children?",
+    "option_a": "A situation resulting from the interaction between state of health, activities, participation, environmental and personal factors, but only if it affects daily life.",
+    "option_b": "A situation resulting from the interaction between state of health, activities, participation, environmental and personal factors, which is the same as the definition of handicap.",
+    "option_c": "A situation resulting from the interaction between state of health, activities, participation, environmental and personal factors, which is the same as the definition of illness.",
+    "option_d": "A situation resulting from the interaction between state of health, activities, participation, environmental and personal factors, which is the same as the definition of disability in adults.",
+    "correct_option": "A"
+  }
+}

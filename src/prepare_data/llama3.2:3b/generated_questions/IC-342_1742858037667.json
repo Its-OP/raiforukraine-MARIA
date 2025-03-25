@@ -1,0 +1,12 @@
+{
+  "folder": "IC-342",
+  "content": "{{knowledge objective\n|Identifiant=OIC-342-17-B\n|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=B\n|Title=Know the recommendations and organisation of the follow-up of a patient seen for malaise, syncope or lipothymia of rhythmic cause.\n|Description=Preventing the risk of sudden death\n|Section=Management\n|Contributors=\n|Order=17}}\ncardiological monitoring - prevention of the risk of sudden death",
+  "question": {
+    "question": "A patient with a history of cardiac arrhythmias is seen for malaise and syncope. The primary goal of follow-up care is to",
+    "option_a": "Perform a 24-hour Holter monitor to detect any arrhythmias",
+    "option_b": "Prescribe beta blockers to control heart rate and prevent arrhythmias",
+    "option_c": "Order an ECG to assess for any signs of cardiac ischemia",
+    "option_d": "Schedule a follow-up appointment in 1 week to reassess symptoms",
+    "correct_option": "A"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-208",
+  "content": "{{knowledge objective\n|Identifiant=OIC-208-14-B\n|Item_parent=Chronic respiratory failure\n|Item_parent_short=Chronic respiratory failure\n|Rank=B\n|Title=Knowing the indications for imaging examinations in chronic respiratory failure\n|Description=None\n|Rubric=Additional examinations\n|Contributors=\n|Order=14}}\nEtiological diagnosis and monitoring of CKD is based primarily on functional respiratory investigations.\n\nChest X-rays are routinely ordered at the time of diagnosis, and can sometimes be used to confirm the diagnosis. It may be supplemented by a thoracic CT scan, particularly if PID is suspected.  ",
+  "question": {
+    "question": "What is the primary basis for etiological diagnosis and monitoring of chronic kidney disease (CKD)?",
+    "option_a": "Laboratory tests and blood work",
+    "option_b": "Functional respiratory investigations",
+    "option_c": "Imaging examinations such as chest X-rays and CT scans",
+    "option_d": "Genetic testing and family history",
+    "correct_option": "B"
+  }
+}

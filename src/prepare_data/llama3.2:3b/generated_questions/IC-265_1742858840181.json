@@ -1,0 +1,41 @@
+{
+  "folder": "IC-265",
+  "content": "{{knowledge objective\n|Identifiant=OIC-265-07-A\n|Item_parent=Urinary lithiasis\n|Item_parent_short=Urinary lithiasis\n|Rank=A\n|Title=Knowing the clinical aspects of simple renal colic\n|Description=Pain, radiation, nausea...\n|Rubric=Positive diagnosis\n|Contributors=Romain Boissier\n|Order=7}}\n\nRenal colic is said to be \"simple\" when it occurs :\n\n* without fever or chills,\n* no biological renal failure or oligo-anuria\n* and that it subsides with analgesic treatment with NSAIDs.\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What are the characteristics of simple renal colic?",
+        "description": "Renal colic is said to be \"simple\" when it occurs under which conditions?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "with fever or chills, and no response to analgesic treatment",
+        "description": "Option A: This option describes a scenario where renal colic is not simple."
+      },
+      "option_b": {
+        "title": "without fever or chills, and with biological renal failure or oligo-anuria",
+        "description": "Option B: This option describes a scenario where renal colic is not simple."
+      },
+      "option_c": {
+        "title": "with fever or chills, and that it subsides with analgesic treatment with NSAIDs",
+        "description": "Option C: This option describes a scenario where renal colic is not simple."
+      },
+      "option_d": {
+        "title": "without fever or chills, no biological renal failure or oligo-anuria, and that it subsides with analgesic treatment with NSAIDs",
+        "description": "Option D: This option describes the correct scenario for simple renal colic."
+      },
+      "correct_option": {
+        "title": "D",
+        "description": "The correct letter of the option"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

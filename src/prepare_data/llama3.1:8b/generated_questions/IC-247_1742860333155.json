@@ -1,0 +1,12 @@
+{
+  "folder": "IC-247",
+  "content": "{{knowledge objective\n|Identifiant=OIC-247-06-A\n|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Rank=A\n|Title=Knowing the risk factors for the onset of microangiopathic disorders\n|Description=None\n|Section=Follow-up and/or prognosis\n|Contributors=H BIHAN,C BRIET,E FEIGERLOVA,E LARGER,G PREVOST\n|Order=6}}\n\nHyperglycaemia: level (HbA1c) and duration of exposure\n\nDyslipidemia\n\nAssociated smoking or alcoholism\n\nSpecific DRFs for certain diseases: genetic factors, ethnic origins (e.g. for nephropathy), for neuropathy: tall stature, nutritional and vitamin deficiencies, smoking and alcoholism, renal insufficiency, etc.",
+  "question": {
+    "question": "What are some specific risk factors (DRFs) for the onset of microangiopathic disorders in individuals with diabetes?",
+    "option_a": "Hyperglycaemia: level (HbA1c) and duration of exposure",
+    "option_b": "Dyslipidemia",
+    "option_c": "Specific DRFs for certain diseases, including genetic factors, ethnic origins, and tall stature",
+    "option_d": "Associated smoking or alcoholism",
+    "correct_option": "C"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-102",
+  "content": "{{knowledge objective\n|Identifiant=OIC-102-10-A\n|Item_parent=Diplopia\n|Item_parent_short=Diplopia\n|Rank=A\n|Title=When diplopia occurs, know the clinical arguments in favour of myasthenia gravis.\n|Description=Fluctuating paralysis, worsening during the day, unilateral ptosis.\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=10}}\nAn associated ''ptosis'' often '''progressive''' in onset, '''variable''' during the day and appearing especially when '''tired''' should prompt a search for myasthenia.\n\nDiagnosis is based on :\n\n- prostigmine test (Reversol\u00ae)\n\n- testing for anti-acetylcholine receptor antibodies\n\n- electromyography to look for neuromuscular block\n\nMyasthenia gravis should be investigated for associated thymoma",
+  "question": {
+    "question": "What are some clinical arguments in favour of myasthenia gravis when diplopia occurs?",
+    "option_a": "Proximal muscle weakness, especially in the upper limbs",
+    "option_b": "Fluctuating paralysis, worsening during the day, unilateral ptosis, and improving with rest",
+    "option_c": "A history of recent trauma or injury to the affected eye",
+    "option_d": "A sudden, severe onset of double vision with no improvement with rest",
+    "correct_option": "B"
+  }
+}

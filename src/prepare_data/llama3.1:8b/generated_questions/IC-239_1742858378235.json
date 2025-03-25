@@ -1,0 +1,12 @@
+{
+  "folder": "IC-239",
+  "content": "{{knowledge objective\n|Identifiant=OIC-239-01-A\n|Item_parent=Acrosyndromes (Raynaud's phenomenon, erythermalgia, acrocyanosis, frostbite, digital ischaemia)\n|Item_parent_short=Acrosyndromes (Raynaud's phenomenon, erythermalgia, acrocyanosis, frostbite, digital ischaemia)\n|Rank=A\n|Title=Know the definition of Raynaud's phenomenon, acrocyanosis, erythermalgia, digital ischaemia and frostbite.\n|Description=None\n|Rubric=Definition\n|Contributors= Sophie Blaise, Luc Bressollette, Claire Le Hello\n|Order=1}}\n\nRaynaud's phenomenon (RP): paroxysmal vascular acrosyndrome with vasoconstriction, triggered by exposure to cold.\n\nErythermalgia: paroxysmal vascular acrosyndrome with vasodilatation, triggered by heat, exercise or orthostatism.\n\nAcrocyanosis: permanent vascular acrosyndrome with a pronounced cold, cyanotic appearance of the extremities.\n\nFrostbite: trophic acrosyndrome in the toes, more rarely in the fingers.\n\nDigital ischaemia: ischaemia localised to the fingers or toes.",
+  "question": {
+    "question": "What is the characteristic of Frostbite?",
+    "option_a": "A paroxysmal vascular acrosyndrome with vasoconstriction, triggered by exposure to cold.",
+    "option_b": "A trophic acrosyndrome in the toes, more rarely in the fingers.",
+    "option_c": "A paroxysmal vascular acrosyndrome with vasodilatation, triggered by heat, exercise or orthostatism.",
+    "option_d": "A permanent vascular acrosyndrome with a pronounced cold, cyanotic appearance of the extremities.",
+    "correct_option": "B"
+  }
+}

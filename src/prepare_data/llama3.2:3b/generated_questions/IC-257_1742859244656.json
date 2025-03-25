@@ -1,0 +1,46 @@
+{
+  "folder": "IC-257",
+  "content": "{{knowledge objective\n|Identifiant=OIC-257-01-A\n|Item_parent=Localised or generalised lower limb oedema\n|Item_parent_short=Localised or generalised oedema of the lower limbs\n|Rank=A\n|Intitle=Know the definition of oedema\n|Description=None\n|Rubric=Definition\n|Contributors=JJ Boffa,B Moulin\n|Order=1}}\n\nOedema is defined as the visible or palpable accumulation of fluid in the interstitial tissue.\n\nA distinction must be made between :\n\n* oedema caused locally by inflammation, venous or lymphatic insufficiency;\n* generalised oedema resulting from a positive sodium and water balance (extracellular hyperhydration). In the most severe forms, this is known as hydrops.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the definition of oedema?",
+        "description": "Oedema is defined as the visible or palpable accumulation of fluid in the interstitial tissue. What is the main cause of oedema?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Inflammation, venous or lymphatic insufficiency",
+        "description": "Oedema caused by local inflammation or circulatory problems",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Generalised oedema resulting from a positive sodium and water balance",
+        "description": "Oedema caused by excess sodium and water in the body",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Hydrops, a severe form of generalised oedema",
+        "description": "A specific type of generalised oedema that is severe",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Oedema caused by a positive potassium and water balance",
+        "description": "Oedema caused by excess potassium and water in the body",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The first letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

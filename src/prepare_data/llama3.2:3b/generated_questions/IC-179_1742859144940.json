@@ -1,0 +1,46 @@
+{
+  "folder": "IC-179",
+  "content": "{{knowledge objective\n|Identifiant=OIC-179-07-A\n|Item_parent=Health risks linked to water and food. Food poisoning\n|Item_parent_short=Health risks associated with food and water. Food poisoning\n|Rank=A\n|Title=Knowing how to define a foodborne outbreak and the different symptoms of foodborne outbreaks.\n|Description=None\n|Rubric=Definition\n|Contributors=Pr Christophe DE CHAMPS DE SAINT LEGER, Dr Johann CAILHOL\n|Ordre=7}}\n'''<u>Definition</u>''':\n\nAppearance of at least 2 cases of a symptomatology, generally digestive, the cause of which can be traced back to the same food source.\n\n'''<u>Symptomatology</u>''':\n\nThe majority of TIACs have digestive symptoms: nausea, vomiting, diarrhoea (choleriform or dysenteric), acute hepatitis.\n\nThere are a number of TIAC agents with neurological symptoms (sensory-motor disorders). (Table)\nToxoplasmosis may be the cause of CFTI but without digestive symptoms.\n{| class=\"wikitable\"\n| colspan=\"2\" |'''Main clinical manifestations according to the etiological agent'''\n|-\n|'''Symptoms'''\n|'''Possible agents'''\n|-\n|Nausea\n\nVomiting\n|Heat-stable toxins released into food by Staphylococcus aureus,\n\nBacillus cereus\n\nNeurotoxins from dinoflagellates: shellfish, large tropical fish (ichthyosarcotoxin from ciguatera)\n\nHistamine (scombrotoxin): tuna, mackerel\n\nMushroom toxins\n\nChemicals, heavy metals\n|-\n|Cholera-like diarrhea\n|Clostridium perfringens, B. cereus, enterotoxigenic Escherichia coli\n\nVirus: norovirus\n|-\n|Diarrhoea, dysentery, fever\n|Salmonella spp., Campylobacter jejuni, Vibrio parahaemolyticus, Entero-invasive E. coli, Enterohemorrhagic E. coli, Yersinia enterocolitica, Shigella spp.\n\nEntamoeba histolytica, Cryptosporidium spp. and Giardia duodenalis\n|-\n|Acute hepatitis\n|Hepatitis A virus, Hepatitis E''.'''\n|-\n|Motor or sensory neurological disorders, without digestive disorders\n|Clostridium botulinum\n\nNeurotoxins in dinoflagellates (shellfish)\n\nHistamine (scombrotoxin): tuna, mackerel\n\nChemical products.\n|}",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Definition",
+        "description": "A foodborne outbreak is characterized by",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "The presence of a single symptom",
+        "description": "A foodborne outbreak is defined by a single symptom",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "The presence of at least 2 cases of a symptomatology",
+        "description": "A foodborne outbreak is defined by the presence of at least 2 cases of a symptomatology",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "The presence of a symptom that can be traced back to a specific food source",
+        "description": "A foodborne outbreak is defined by the presence of a symptom that can be traced back to a specific food source",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "The presence of a symptom that is limited to a specific population",
+        "description": "A foodborne outbreak is defined by the presence of a symptom that is limited to a specific population",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "The presence of at least 2 cases of a symptomatology, generally digestive, the cause of which can be traced back to the same food source",
+        "description": "This consists only a sentence describing the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

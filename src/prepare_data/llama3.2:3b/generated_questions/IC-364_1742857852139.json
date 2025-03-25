@@ -1,0 +1,46 @@
+{
+  "folder": "IC-364",
+  "content": "{{knowledge objective\n|Identifiant=OIC-364-03-B\n|Item_parent=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Item_parent_short=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Rank=B\n|Title=Knowing the role of the periosteum\n|Description=Bone remodelling\n|Topic=Physiopathology\n|Contributors=Bruno Dohin,\n|Order=3}}\n\nThe periosteum is one of the essential elements contributing to bone growth. In children, this structure also plays a mechanical role, enveloping the bone. During fractures, its early activity leads to the rapid formation of a \"periosteal\" callus, which ensures early fracture stability and completes the consolidation of the fracture haematoma by the callus. Over time, after initial consolidation, it helps to remodel the callus and correct certain vicious calluses or secondary displacements.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the role of the periosteum in children after a fracture?",
+        "description": "The periosteum plays a mechanical role in children after a fracture, enveloping the bone. What is its role in bone growth and callus formation?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Remodeling the callus and correcting secondary displacements",
+        "description": "The periosteum helps to remodel the callus and correct certain vicious calluses or secondary displacements",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Providing mechanical stability to the fracture site",
+        "description": "The periosteum envelops the bone and provides mechanical stability to the fracture site",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Producing new bone tissue through osteogenesis",
+        "description": "The periosteum produces new bone tissue through osteogenesis, which helps to repair the fracture",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Regulating the inflammatory response",
+        "description": "The periosteum regulates the inflammatory response to the fracture, preventing excessive bleeding",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct letter of the answer option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

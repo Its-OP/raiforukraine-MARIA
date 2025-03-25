@@ -1,0 +1,12 @@
+{
+  "folder": "IC-256",
+  "content": "{{knowledge objective\n|Identifiant=OIC-256-10-B\n|Item_parent=Sport skills in adults and children; nutritional requirements of athletes (see item 80)\n|Item_parent_short=Sport skills in adults and children; nutritional requirements of athletes (see item 80)\n|Rank=B\n|Title=Knowing the specific nutritional requirements of endurance sports and muscular development\n|Description=None\n|Heading=Management\n|Contributors=\n|Order=10}}\n'''Carbohydrate intake: ''''\n\nFoods with a low glycaemic index are best eaten away from exercise\n\nFoods with a high glycaemic index are best eaten close to exercise.\n\n\nFat intake should be reduced to allow for an increase in carbohydrate intake. Total fat intake should not be less than 20% of total energy intake (TEI).\n\n\n'''Protein intake''' is essential for maintaining muscle mass\n\nThey are covered by the increase in total energy intake and depend on the type and level of physical activity:\n{| class=\"wikitable\"\n|Moderate PA (3 times 30 to 60 min/week)\n|Nutritional reference for the population 0.83 g/kg/day\n|-\n|Endurance sports\n|1.2-1.4 g/kg/day (12-14% AET),\n\ncovered by \u2191 of total energy intake\n|-\n|Maintenance of muscle mass\n|1.3-1.5 g/kg/day\n|-\n|Increase in muscle mass\n|Up to 2.5 g/kg/day (max. 6 months)\n\nProtein supplements: maximum 1/3 of intake\n\nnot to exceed 1 g/kg/day\n|}\n\n\nIntake of water and electrolytes (NaCl) is essential, and must compensate for exercise-related losses.\n\nMineral and vitamin requirements are covered by a balanced diet.",
+  "question": {
+    "question": "What is the recommended protein intake for individuals engaging in endurance sports?",
+    "option_a": "0.8-1.0 g/kg/day",
+    "option_b": "1.2-1.4 g/kg/day (12-14% AET)",
+    "option_c": "1.6-2.0 g/kg/day",
+    "option_d": "0.5-0.7 g/kg/day",
+    "correct_option": "B"
+  }
+}

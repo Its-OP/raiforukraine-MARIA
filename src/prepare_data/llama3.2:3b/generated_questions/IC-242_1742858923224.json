@@ -1,0 +1,46 @@
+{
+  "folder": "IC-242",
+  "content": "{{knowledge objective\n|Identifiant=OIC-242-05-B\n|Item_parent=Hyperthyroidism\n|Item_parent_short=Hyperthyroidism\n|Rank=B\n|Title=Knowing the possible complications of dysthyroid ophthalmopathy: compressive optic neuropathy, exposure keratitis, etc.\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Dr Camille Buffet,Dr Magalie Haissaguerre\n|Order=5}}\n\nPossible complications of basedowian ophthalmopathy are :\n\n- Corneal damage of variable severity, secondary to significant, non-reducible exophthalmos, with [[Palpebral anomalies SD-139|Palpebral inocclusion]].\n\n- Neuropathy due to compression of the optic nerve, which is extremely serious, associated with [[Vision abnormality SD-138|alterations of the visual field]] which can go as far as [[Vision abnormality SD-138|blindness]].\n\n- Involvement of one or more periorbital muscles linked to oedematous phenomena, muscle inflammation and then muscle fibrosis, most often manifested by [[Diplopia SD-143|diplopia]].",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a possible complication of basedowian ophthalmopathy?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Corneal damage and vision loss",
+        "description": "A possible complication of basedowian ophthalmopathy",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Neuropathy and vision loss due to compression of the optic nerve",
+        "description": "A possible complication of basedowian ophthalmopathy",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Involvement of the lacrimal gland and tear ducts",
+        "description": "A possible complication of basedowian ophthalmopathy",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Exophthalmos and diplopia due to muscle inflammation",
+        "description": "A possible complication of basedowian ophthalmopathy",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The correct letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

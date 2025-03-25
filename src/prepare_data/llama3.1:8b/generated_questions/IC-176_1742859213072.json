@@ -1,0 +1,12 @@
+{
+  "folder": "IC-176",
+  "content": "{{knowledge objective\n|Identifiant=OIC-176-13-A\n|Item_parent=Infectious diarrhoea in adults and children\n|Item_parent_short=Infectious diarrhoea in adults and children\n|Rank=A\n|Title=Knowing the principles of antibiotic therapy\n|Description=No indication / indication / usual duration\n|Heading=Management\n|Contributors=Alexis de Rougemont,Christophe Deschamps, Johann Cailhol\n|Order=13}}\n\n'''In adults'''\n\n'''No indication''': epidemic context (viral origin), choleriform or non-severe gastroenteritis syndrome, no underlying condition at risk of complication\n\n'''Indication:''' febrile dysenteric syndrome, severe gastroenteric and choleraemic syndromes (> 6 stools/day and/or fever > 38.5\u00b0C), especially in high-risk situations (extreme age, immunodepression, sickle cell disease, cardiovascular prosthesis, etc.).\n\nUsual duration''' : '''1-3 days: azithromycin or ciprofloxacin, 7 days for ''Yersinia spp'' and 10 days for ''C. difficile'' (with oral vancomycin or fidaxomicin ''e'')\n\nIn children, antibiotic treatment of invasive diarrhoea is not systematic, as the spontaneous course is usually favourable.\n\n*The ''indications'' for treatment are :\n\n           - before bacteriological results: age < 3 months, return from travel, sepsis, fragile condition (immunocompromised)\n\n           - according to bacteriology: ''Shigella spp'', ''Salmonella'' Typhi and Paratyphi\n\n           - depending on the course: slow onset with non-typhi Salmonella, Yersinia spp, Campylobacter spp.\n\n*In children, the \"treatment\" is preferably oral and is based on azithromycin for 3 days in the case of Shigellosis or Campylobacter spp, and cotrimoxazole for 5 days in the case of Yersinia spp. The IV alternative to these treatments (in cases of sepsis or in fragile patients) is ceftriaxone.",
+  "question": {
+    "question": "What is the usual duration of antibiotic treatment for Yersinia spp in adults?",
+    "option_a": "1-3 days",
+    "option_b": "7 days",
+    "option_c": "10 days",
+    "option_d": "14 days",
+    "correct_option": "C"
+  }
+}

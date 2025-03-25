@@ -1,0 +1,12 @@
+{
+  "folder": "IC-267",
+  "content": "{{knowledge objective\n|Identifiant=OIC-267-29-A\n|Item_parent=Disorders of acid-base equilibrium and hydro-electrolytic disorders\n|Item_parent_short=Disorders of acid-base balance and fluid and electrolyte disorders\n|Rank=A\n|Title=Know how to diagnose hypernatremia\n|Description=The concepts of hyperosmolality and cellular dehydration\n|Rubric=Definition\n|Contributors=P Rieu; B Moulin; M Flamant\n|Order=29}}\n\n\n*''Hypernatremia: [Na+] > 145 mmol/L'''\n*The diagnosis of intracellular dehydration (ICD) is biological: hypernatremia associated with plasma hyperosmolality (> 300 mOsm/Kg H20).\n*Associated clinical signs:\n**Thirst, sometimes intense.\n**Neurological symptoms (= ''signs of seriousness''): non-specific and not very suggestive; correlated with the degree of hypernatremia and the speed of onset:\n**Dryness of the mucous membranes, particularly on the inside of the cheeks.\n**Polyuro-polydipsic syndrome if renal cause.\n**Weight loss.",
+  "question": {
+    "question": "What is the biological indicator of intracellular dehydration (ICD) in the context of hypernatremia?",
+    "option_a": "Hypernatremia associated with plasma hypotonicity (< 275 mOsm/Kg H2O)",
+    "option_b": "Hypernatremia associated with plasma hyperosmolality (> 300 mOsm/Kg H2O)",
+    "option_c": "Hypokalemia (potassium levels < 3.5 mmol/L)",
+    "option_d": "Hyperkalemia (potassium levels > 5.5 mmol/L)",
+    "correct_option": "B"
+  }
+}

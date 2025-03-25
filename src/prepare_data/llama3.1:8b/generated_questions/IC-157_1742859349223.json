@@ -1,0 +1,12 @@
+{
+  "folder": "IC-157",
+  "content": "{{knowledge objective\n|Identifiant=OIC-157-16-B\n|Item_parent=Bacteremia/Fungemia in adults and children\n|Item_parent_short=Bacteremia/Fungemia in adults and children\n|Rank=B\n|Title=Knowing how to organise the follow-up of Staphylococcus aureus bacteraemia\n|Description=None\n|Rubric=Management\n|Contributors=David Lebeaux\n|Order=16}}\n\n\n*Specialist advice is recommended for Staphylococcus aureus bacteremia.\n*Monitoring: blood cultures 48 hours after antibiotic treatment.  If positive: look for an endovascular focus\n*Associated with endocarditis in 10% of cases = systematic echocardiography.\n*In the event of catheter-related bacteremia: look for associated thrombosis using echo-Doppler, in the event of an unfavourable microbiological clinical course (persistence of positive blood cultures).\n*Duration of treatment = 14 days by parenteral IV route in the case of uncomplicated bacteremia, without endocarditis, without secondary septic localisation, with early sterilisation of blood cultures.  Otherwise, treatment duration = 4 to 6 weeks.",
+  "question": {
+    "question": "What is the recommended duration of treatment for uncomplicated Staphylococcus aureus bacteremia without endocarditis or secondary septic localization, with early sterilization of blood cultures?",
+    "option_a": "4 to 6 weeks",
+    "option_b": "7 to 10 days",
+    "option_c": "14 days by parenteral IV route",
+    "option_d": "No specific duration is recommended",
+    "correct_option": "C"
+  }
+}

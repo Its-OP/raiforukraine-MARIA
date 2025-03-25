@@ -1,0 +1,12 @@
+{
+  "folder": "IC-005",
+  "content": "{{knowledge objective\n|Identifiant=OIC-005-06-A\n|Item_parent=Medical criminal, civil, administrative and disciplinary liability. The management of errors and complaints; therapeutic hazards\n|Item_parent_short=Penal, civil, administrative and disciplinary medical liability. The management of errors and complaints; the therapeutic hazard\n|Rank=A\n|Title=Knowing the definition of no-fault liability\n|Description=None\n|Rubric=Definition\n|Contributors=Bastien Boussat\n|Order=6}}\n\nIn the case of damage related to care but which has occurred without any breach of professional or scientific rules or error, this is known as no-fault liability.\n\nThe legislator has recognised compensation systems for which liability may be incurred on the basis of an event other than proven fault. This is the case with nosocomial infections.",
+  "question": {
+    "question": "What type of liability refers to damage related to care that occurs without any breach of professional or scientific rules or error?",
+    "option_a": "Fault-based liability",
+    "option_b": "No-fault liability",
+    "option_c": "Administrative liability",
+    "option_d": "Disciplinary liability",
+    "correct_option": "B"
+  }
+}

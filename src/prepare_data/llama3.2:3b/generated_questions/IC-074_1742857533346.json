@@ -1,0 +1,46 @@
+{
+  "folder": "IC-074",
+  "content": "{{knowledge objective\n|Identifiant=OIC-074-24-A\n|Item_parent=Prescription and monitoring of psychotropic drugs (see item 330)\n|Item_parent_short=Prescription and monitoring of psychotropic drugs (see item 330)\n|Rank=A\n|Title=Psychostimulants: understanding the main classes and molecules\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=24}}\nThe main psychostimulants used therapeutically in France are non-amphetamine psychostimulants. Methylphenidate and modafinil are the two substances in this class to be aware of.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What are the two main non-amphetamine psychostimulants used therapeutically in France?",
+        "description": "Select the correct option",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Methylphenidate and amphetamine",
+        "description": "A combination of a stimulant and a non-stimulant",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Modafinil and caffeine",
+        "description": "A stimulant and a xanthine",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Methylphenidate and modafinil",
+        "description": "Two non-amphetamine psychostimulants used therapeutically in France",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Amphetamine and methylphenidate",
+        "description": "A stimulant and a non-stimulant",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "C",
+        "description": "",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

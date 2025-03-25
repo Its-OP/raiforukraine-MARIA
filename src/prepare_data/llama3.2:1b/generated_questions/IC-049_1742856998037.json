@@ -1,0 +1,12 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-22-B\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=B\n|Intitle=Photographs: adrenarche\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=22}}\n",
+  "question": {
+    "question": "What is the primary difference between normal and pathological puberty?",
+    "option_a": "Normal puberty occurs before the age of 8, while pathological puberty occurs after the age of 8.",
+    "option_b": "Normal puberty is characterized by a gradual increase in body hair, while pathological puberty is marked by a sudden and extreme increase in body hair.",
+    "option_c": "Normal puberty is typically accompanied by a decrease in body temperature, while pathological puberty is characterized by an increase in body temperature.",
+    "option_d": "Normal puberty is influenced by a combination of genetic and hormonal factors, while pathological puberty is primarily driven by a single hormonal imbalance.",
+    "correct_option": "option_b"
+  }
+}

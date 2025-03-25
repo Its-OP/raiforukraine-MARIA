@@ -1,0 +1,46 @@
+{
+  "folder": "IC-247",
+  "content": "{{knowledge objective\n|Identifiant=OIC-247-25-A\n|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Rank=A\n|Title=Know how to prevent and manage hypoglycaemia.\n|Description=None\n|Rubric=Management\n|Contributors=Claire Briet\n|Order=25}}\n'''<u>MANAGEMENT</u>'''\n\n- If patient conscious\n\n*Swallowing sugar (15 g = 3 lumps), soda or sweets\n\n- If patient unconscious\n\n*No oral ingestion: risk of false route+++.\n*everyone can do it: IM or SC injection of glucagon (wakes up in 15 minutes, side effects: nausea, vomiting) or nasal glucagon (not reimbursed) EXCEPT IF ON HYPOGLYCEMIC SULFAMIDE: glucagon contraindicated!\n*in hospital: glucagon or direct (slow) intravenous injection of one or two ampoules of 30% glucose solution (immediate awakening), followed by G10%.\n\n'''<u>PREVENTION</u>'''\n\nPrevention is based on patient education:\n\n* know the clinical signs of hypoglycaemia\n* be familiar with the drugs that cause hypoglycaemia: sulphonamides, glinides and insulin\n* be aware of high-risk situations (a light meal without reducing insulin doses, too long a delay between the injection of rapid-acting insulin and the meal, heavy physical exertion without reducing insulin doses or having a snack, an error in insulin dose or sulphonamide/glinide intake, resolving a hyperglycaemic situation such as an infection, stress or corticosteroid therapy).\n\nPreventing hypoglycaemia requires appropriate treatment with insulin or sulphonamide/glinide, depending on the situation and the course of the diabetes.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the recommended treatment for hypoglycaemia in a patient with diabetes?",
+        "description": "Choose the correct treatment option",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "IM or SC injection of glucagon",
+        "description": "Glucagon can be administered via injection, which can help treat hypoglycaemia",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Direct intravenous injection of 30% glucose solution",
+        "description": "This method can help treat hypoglycaemia quickly, but may not be suitable for all situations",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Nasal glucagon administration",
+        "description": "Nasal glucagon can be an alternative treatment for hypoglycaemia, but its effectiveness may vary",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Oral ingestion of sugar or soda",
+        "description": "This method is not recommended for unconscious patients, as it can lead to aspiration",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Direct intravenous injection of 30% glucose solution",
+        "description": "",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

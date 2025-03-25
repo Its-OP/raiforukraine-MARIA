@@ -1,0 +1,12 @@
+{
+  "folder": "IC-037",
+  "content": "{{knowledge objective\n|Identifiant=OIC-037-04-A\n|Item_parent=Voluntary termination of pregnancy\n|Item_parent_short=Voluntary termination of pregnancy\n|Rank=A\n|Title=To know the age of the population undergoing the most abortions\n|Description=Women aged 20-24 are most concerned.\n|Rubric=Epidemiology\n|Contributors=Arthur Foulon,Philippe Deruelle,Aubert Agostini\n|Order=4}}\n\nWomen aged 20-29 have the most access to abortion. In France, the abortion rate in this age group is 27.9 per 1000 women. It should be noted that the number of abortions performed on minors has not increased since 2005.",
+  "question": {
+    "question": "What is the age group with the most access to abortion in France?",
+    "option_a": "20-24",
+    "option_b": "15-19",
+    "option_c": "25-29",
+    "option_d": "30-34",
+    "correct_option": "20-24"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "folder": "IC-342",
+  "content": "{{knowledge objective\n|Identifiant=OIC-342-20-A\n|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=A\n|Title=Know the indications for and methods of prescribing anticonvulsant treatment.\n|Description=Know how to administer short-acting antiepileptic treatment (benzodiazepines).\n|Rubric=Management\n|Contributors=\n|Order=20}}\n\n{| class=\"wikitable\"\n|cf item 105\n|}",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary indication for prescribing anticonvulsant treatment in adults?",
+        "description": "Anticonvulsant treatment is used for which medical condition in adults?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Epilepsy",
+        "description": "A neurological disorder characterized by recurrent seizures",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Migraines",
+        "description": "A type of headache disorder",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Anxiety disorders",
+        "description": "A mental health condition characterized by feelings of anxiety",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Hypertension",
+        "description": "A medical condition characterized by high blood pressure",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-247",
+  "content": "{{knowledge objective\n|Identifiant=OIC-247-26-B\n|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Rank=B\n|Title=Knowing the principles of nephroprotective treatment in diabetics\n|Description=None\n|Rubric=Management\n|Contributors=Eva Feigerlova,H\u00e9l\u00e8ne Bihan,Claire Briet,Etienne Larger,Gaetan Prevost\n|Order=26}}\n\n'''Primary prevention'''\n\n- glycaemic control and management of associated risk factors (hypertension, smoking) [[Hypertension in adults and children]]; [[Smoking in men and women 2C-075-PE-A02]].\n\n\n'''Prevention from the microalbuminuria stage'''\n\n- blood sugar control: HbA1c < 7%.\n\n- blood pressure control: < 140/85 mm Hg;\n\n- use of ACE inhibitors or angiotensin II type 1 receptor antagonists (sartans)\n\n- management of all associated risk factors (smoking, dyslipidaemia)\n\n- the low-protein diet: 0.8 g/kg per day and moderate salt intake (6 g per day)\n\n\nAt the macroalbuminuria stage\n\n- blood pressure control: < 140/85 mm Hg.\n\n- reduce the rate of proteinuria to below 0.5 g/24 h.\n\n- check at 6 months that microalbuminuria or proteinuria has subsided or stabilised\n\n\n'''At the stage of renal failure [[Chronic renal failure in adults and children]]''''\n\n- the HbA1c target is < 8% if the estimated filtration rate is < 30 ml/min/1.73 m2 ;\n\n- for a GFR between 30 and 60 ml/min/1.73 m2, adapt the doses, particularly of metformin\n\n- from stage 4 onwards (GFR < 30ml/min/1.73m2), the only authorised anti-diabetic classes (MA) are insulin, repaglinide, \u03b1-glucosidase inhibitors, DPP-4 inhibitors in appropriate dosage and certain GLP-1R agonists.\n\n- monitoring glycaemic control\n\n- control of blood pressure < 130 mm Hg\n\n- refer to the nephrologist\n\n\nAt all stages, avoid situations that could accelerate the progression of kidney disease:\n\n- avoid NSAIDs [[Principle of proper use of medicines and non-drug therapies]]\n\n- limit injections of iodinated contrast media",
+  "question": {
+    "question": "What is the recommended HbA1c target for a diabetic patient with an estimated filtration rate of < 30 ml/min/1.73 m^2?",
+    "option_a": "HbA1c < 7%",
+    "option_b": "HbA1c < 8%",
+    "option_c": "HbA1c < 6%",
+    "option_d": "HbA1c < 9%",
+    "correct_option": "B"
+  }
+}

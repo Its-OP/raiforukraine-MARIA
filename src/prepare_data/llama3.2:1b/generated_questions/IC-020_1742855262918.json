@@ -1,0 +1,77 @@
+{
+  "folder": "IC-020",
+  "content": "{{knowledge objective\n|Identifiant=OIC-020-16-A\n|Item_parent=Health research methodology\n|Item_parent_short=Health research methodology\n|Rank=A\n|Title=Risk factor, aetiological factor, prognostic factor, health determinants, exposure factor\n|Description=Knowing how to define/recognise\n|Rubric=Definition\n|Contributors=Julie Berbis (CUESP),Alexandra Rouquette (CIMES),David Hajage (CIMES)\n|Order=16}}\n\n'''Exposure factor''': this is the factor of interest in an analytical or experimental study.\n\n* In an experimental study: it is the intervention (the drug, medical device, preventive intervention, etc.) to which study participants are exposed (or not) in an experimental manner.\n* In an analytical study, it is called a '''risk factor''', i.e. a factor associated with a higher probability (statistical and <u>non-causal</u> definition) of the presence or occurrence of the health phenomenon under study (judgment criterion). Example: yellow fingernails and lung cancer.\n** In an etiological study, a risk factor is called an '''etiological factor''' when its causal nature for the health phenomenon studied is implied/supposed/proven. Example: smoking and lung cancer.\n** Similarly, in a prognostic study, a risk factor is called a ''prognostic factor'' when its causal nature for the health phenomenon studied is implied/assumed/proven. Example: metastatic lung cancer and mortality.\n\n'''Health determinants''': factors which influence the state of health of populations, without necessarily being direct causes of particular problems or illnesses.\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Question",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Option A",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Option B",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Option C",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Option D",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ],
+    "additional_properties": {
+      "Ambiguity Between Correct and Incorrect Options": {
+        "properties": {
+          "distractors": [
+            {
+              "description": "The factor of interest in an experimental study.",
+              "type": "string"
+            },
+            {
+              "description": "The factor associated with a higher probability (statistical and non-causal definition) of the presence or occurrence of the health phenomenon under study.",
+              "type": "string"
+            },
+            {
+              "description": "The causal nature for the health phenomenon studied is implied/assumed/proven.",
+              "type": "string"
+            },
+            {
+              "description": "The causal nature for the health phenomenon studied is implied/assumed/proven.",
+              "type": "string"
+            },
+            {
+              "description": "The factor of interest in an analytical study.",
+              "type": "string"
+            }
+          ]
+        },
+        "required": [
+          "distractors"
+        ]
+      }
+    }
+  }
+}

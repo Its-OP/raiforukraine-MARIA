@@ -1,0 +1,12 @@
+{
+  "folder": "IC-302",
+  "content": "{{knowledge objective\n|Identifiant=OIC-302-16-B\n|Item_parent=Cutaneous, epithelial and melanoma tumours\n|Item_parent_short=Cutaneous, epithelial and melanoma tumours\n|Rank=B\n|Title=Photograph of a squamous cell carcinoma\n|Description=Photograph of a typical squamous cell carcinoma\n|Rubric=Multimedia content\n|Contributors=\n|Order=16}}\n\n[[File:FIgure D.jpg|vignette|Squamous cell carcinoma: irregular ulcerative-vegetative tumour, covered with crusts, with inflammatory margins and indurated base. ]]",
+  "question": {
+    "question": "What is the characteristic of a squamous cell carcinoma as shown in the photograph?",
+    "option_a": "It is a type of melanoma",
+    "option_b": "It is an irregular ulcerative-vegetative tumour with inflammatory margins and an indurated base",
+    "option_c": "It is a benign epithelial tumour",
+    "option_d": "It is a type of basal cell carcinoma",
+    "correct_option": "B"
+  }
+}

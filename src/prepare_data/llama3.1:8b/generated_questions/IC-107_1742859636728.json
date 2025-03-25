@@ -1,0 +1,12 @@
+{
+  "folder": "IC-107",
+  "content": "{{knowledge objective\n|Identifiant=OIC-107-04-A\n|Item_parent=Anomalous movements\n|Item_parent_short=Anomalous movements\n|Rank=A\n|Title=Recognising the main abnormal movements on typical video cases\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=4}}\nPlease refer to the CEN website where videos are available:\n\nhttps://www.cen-neurologie.fr/videotheque",
+  "question": {
+    "question": "What is the primary characteristic of anomic apraxia?",
+    "option_a": "It is a type of movement disorder characterized by involuntary movements",
+    "option_b": "It is a cognitive disorder that affects the planning of movements",
+    "option_c": "It is a type of motor neuron disease that affects coordination and balance",
+    "option_d": "It is a type of tremor that affects the hands and arms",
+    "correct_option": "B"
+  }
+}

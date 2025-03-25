@@ -1,0 +1,46 @@
+{
+  "folder": "IC-156",
+  "content": "{{knowledge objective\n|Identifiant=OIC-156-04-B\n|Item_parent=Infections in the bones and joints (IOA) of children and adults\n|Item_parent_short=Infections osteo articulaires (IOA) de l'enfant et de l'adulte\n|Rank=B\n|Title=Knowing the infectious agents responsible for OAIs according to the terrain and mode of contamination\n|Description=None\n|Rubric=Etiologies\n|Contributors=Dr Florent Valour\n|Order=4}}\n'''[[Positive blood culture SD-190|Blood-borne infections]] :''''\n\n- Staphylococcus aureus (cutaneous route of entry): 50-70%.\n\n- Streptococci (dental or digestive route of entry): 20%.\n\n- Enterobacteriaceae (urinary or digestive route of entry): 10%.\n\n- Special cases: ''[[Tuberculosis in adults and children|Mycobacterium tuberculosis]]'' (rare forms of osteoarticular tuberculosis, mainly vertebral (\"Pott's disease\")), ''[[Sexually transmitted infections (STI): gonococci, chlamydiosis, syphilis, human papillomavirus (HPV), trichomoniasis|Neisseria gonorrhoaea]]'' (rare, often multi-articular forms of gonococcal infections)\n\n'''Post-operative inoculations, post-puncture/infiltration:''' skin flora germs\n\n- Staphylococci (50-70%): S. aureus (50%, including 15% MRSA) and coagulase-negative staphylococci (50%, the most common being S. epidermidis)\n\n- Streptococci\n\n- Gram-negative bacilli: Enterobacteriaceae, Pseudomonas aeruginosa\n\n- Cutibacterium acnes: chronic forms, particularly on the upper limb (shoulder)\n\n'''Inoculations [[Zoonoses|post-bite]]:''' cutaneous (staphylococci) and/or oral (streptococci, ''Pasteurella multocida'', anaerobes) flora\n\nInfections de contigu\u00eft\u00e9:'' often multi-microbial infections involving skin flora and colonising chronic wounds (staphylococci, streptococci, enterobacteria, Pseudomonas aeruginosa, anaerobes, etc.).\n\nThe main germs responsible for HAIs in children are :\n\n- All ages: \"Staphylococcus aureus\" (skin entry)\n\n- In young infants under 3 months of age: group B streptococcus and Escherichia coli (think of neonatal infection)\n\n- In children aged between 6 months and 4 years: \"Kingella kingae\" (most common, ENT route of entry), rarely pneumococcus and group A streptococcus.\n\n- In children over the age of 4: \"Staphylococcus aureus\" (majority), rarely group A streptococcus (cutaneous route of entry)\n\n- In children with sickle cell disease: ''Salmonella'' sp. (in addition to the other germs involved, depending on age)",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What are the main germs responsible for HAIs in children?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Staphylococcus aureus (skin entry) and group B streptococcus",
+        "description": "Correct answer",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Staphylococcus aureus (skin entry) and Kingella kingae",
+        "description": "Incorrect, but plausible",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Staphylococcus aureus (skin entry) and pneumococcus",
+        "description": "Incorrect, but plausible",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Staphylococcus aureus (skin entry) and Salmonella sp.",
+        "description": "Incorrect, but plausible",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "Only the letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

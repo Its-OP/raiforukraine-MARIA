@@ -1,0 +1,46 @@
+{
+  "folder": "IC-124",
+  "content": "{{knowledge objective\n|Identifiant=OIC-124-04-A\n|Item_parent=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)\n|Item_parent_short=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)\n|Rank=A\n|Title=Know the positive clinical and/or biological elements that allow the diagnosis of menopause to be made.\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Florence Tr\u00e9mollieres - Anna Gosset\n|Order=4}}\n\n\n== Typical form ==\nIn its typical form, the positive diagnosis is primarily clinical and is based on the association of\n\n- an ''[[amenorrhoea]]'' of at least 12 months\n\n- occurring around the age of 50\n\n- associated with climacteric symptoms. (but climacteric symptoms may be absent).\n\n'''In the typical form, there is no room for biological confirmation of the diagnosis.'''\n\nThe search for ''[[Amenorrhoea|other diagnoses of amenorrhoea]]'' should be taken into account depending on the patient's age (necessary if under 40).\n\n== Special cases ==\nIn the case of \"hysterectomy\", the diagnosis will be based on the conditions of the hysterectomy, the existence of climacteric symptoms and/or the patient's age.\n\nIn the case of \"oestroprogestogenic contraception\" or amenorrhoea induced by certain contraceptives or hormonal treatments, the diagnosis of menopause can be made difficult and biological assays can be used (FSH > 30 IU/ml +estradiol < 10-20 pg/ml). However, these assays can be distorted by the use of hormonal contraception, and there is considerable variability in these assays during the perimenopausal phase.\n\n'''The strategy proposed is most often to stop the treatment in progress and monitor the clinical situation (onset of amenorrhoea)'''.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What are the primary elements used to diagnose menopause?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "A 12-month history of amenorrhoea and climacteric symptoms",
+        "description": "Option A",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "A 12-month history of amenorrhoea and a FSH level of > 30 IU/ml",
+        "description": "Option B",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "A 12-month history of amenorrhoea and the presence of climacteric symptoms and/or the patient's age",
+        "description": "Option C",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "A 12-month history of amenorrhoea and a combination of hormonal treatments and FSH level of > 30 IU/ml",
+        "description": "Option D",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The first letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

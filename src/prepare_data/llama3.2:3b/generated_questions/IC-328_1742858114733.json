@@ -1,0 +1,41 @@
+{
+  "folder": "IC-328",
+  "content": "{{knowledge objective\n|Identifiant=OIC-328-02-A\n|Item_parent=Non-drug therapies and medical devices\n|Item_parent_short=Non-drug therapies and medical devices\n|Rank=A\n|Intitle=Know the definition of a medical device\n|Description=None\n|Rubric=Definition\n|Contributors=Bisseriex H\u00e9l\u00e8ne,De Boissezon Xavier\n|Order=2}}\n\n'''Medical device:''' any instrument, apparatus, equipment, material, product (with the exception of products of human origin) including accessories and software, used alone or in combination, for medical purposes in humans, and whose principal intended action is not obtained by pharmacological, immunological or metabolic means ''(ANSM)''.\n\nA new European regulation (EU regulation 2017/745) dating from May 2021 aims to standardise the marketing and commissioning of medical devices within the European Union (without regulating prices and reimbursements by social organisations).\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary intention of the EU regulation 2017/745 regarding medical devices?",
+        "description": "A multiple-choice question about the European regulation 2017/745",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To regulate the prices and reimbursements of medical devices by social organisations",
+        "description": "One of the possible incorrect options"
+      },
+      "option_b": {
+        "title": "To standardise the marketing and commissioning of medical devices within the European Union",
+        "description": "The correct answer"
+      },
+      "option_c": {
+        "title": "To approve new medical devices based on pharmacological, immunological or metabolic means",
+        "description": "One of the possible incorrect options"
+      },
+      "option_d": {
+        "title": "To ban the use of medical devices in the European Union",
+        "description": "One of the possible incorrect options"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The letter of the correct option"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

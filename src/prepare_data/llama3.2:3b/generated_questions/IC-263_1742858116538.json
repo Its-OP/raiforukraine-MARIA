@@ -1,0 +1,46 @@
+{
+  "folder": "IC-263",
+  "content": "{{knowledge objective\n|Identifiant=OIC-263-03-B\n|Item_parent=Vascular nephropathy\n|Item_parent_short=Vascular nephropathy\n|Rank=B\n|Title=Knowing the causes of thrombotic microangiopathy\n|Description=None\n|Rubric=Etiologies\n|Contributors=Jean-Jacques Boffa\n|Order=3}}\n\nCauses of MAT syndrome\n{| class=\"wikitable\"\n|Typical (post-diarrhoeal) enterobacteria producing \"Shiga-like toxins\" (SLT): E.Coli O157:H7, Salmonella, Shigella...\n|-\n|Atypical HUS: mutation of genes coding for complement proteins (complement C3, factor H, factor I, CD46), or anti-factor H antibodies, mutation of the thrombomodulin gene, etc.\n|-\n|Infections: septicaemia, HIV virus, H1N1 influenza\n|-\n|Medications: mitomycin C, gemcitabine, cyclosporine, tacrolimus, anti-VEGF\n|-\n|Malignant hypertension\n|-\n|Eclampsia\n|-\n|Dysimmune disease: scleroderma, systemic lupus erythematosus,\n\nanti-phospholipid syndrome\n|-\n|Cancer\n|-\n|Thrombotic thrombocytopenic purpura: anti-ADAMTS13 (von Willebrand factor protease) autoantibodies or ADAMTS13 genetic deficiency\n|}\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a common cause of thrombotic microangiopathy (TMA)?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Infections: septicaemia, HIV virus, H1N1 influenza",
+        "description": "Option A: Infections are a common cause of TMA",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Malignant hypertension",
+        "description": "Option B: Malignant hypertension is a common cause of TMA",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Dysimmune disease: scleroderma, systemic lupus erythematosus, anti-phospholipid syndrome",
+        "description": "Option C: Dysimmune disease is a common cause of TMA",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Thrombotic thrombocytopenic purpura: anti-ADAMTS13 (von Willebrand factor protease) autoantibodies or ADAMTS13 genetic deficiency",
+        "description": "Option D: TTP is a common cause of TMA",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "D",
+        "description": "The correct answer is D",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

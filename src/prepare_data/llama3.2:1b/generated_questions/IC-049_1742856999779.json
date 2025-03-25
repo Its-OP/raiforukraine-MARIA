@@ -1,0 +1,12 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-11-A\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=A\n|Title=Knowing how to interpret a growth curve\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=11}}\n \n\n\nCalculate annual growth rate, measure BMI\n\n<br />",
+  "question": {
+    "question": "Calculate annual growth rate, measure BMI",
+    "option_a": "Calculate the sum of the growth rate and the rate of change in BMI over time.",
+    "option_b": "The rate of change in BMI is directly proportional to the growth rate.",
+    "option_c": "The growth rate is the rate of change in BMI over time, while the rate of change is the rate of change in height.",
+    "option_d": "BMI is directly proportional to the growth rate.",
+    "correct_option": "option_b"
+  }
+}

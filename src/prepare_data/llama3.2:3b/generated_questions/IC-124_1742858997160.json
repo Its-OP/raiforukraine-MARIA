@@ -1,0 +1,46 @@
+{
+  "folder": "IC-124",
+  "content": "{{knowledge objective\n|Identifiant=OIC-124-09-B\n|Item_parent=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)\n|Item_parent_short=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)\n|Rank=B\n|Title=Know the principles of hormonal treatment of the menopause (THM)\n|Description=None\n|Heading=Management\n|Contributors=Florence Tr\u00e9mollieres,Anna Gosset\n|Order=9}}\n\n== '''Menopausal hormone therapy (MHT)''' ==\n- correct the functional symptoms of climacteric symptoms (hot flushes, vaginal dryness, mood and sleep disorders, etc.)\n\n- prevent the long-term tissue consequences of estrogen deficiency (osteoporosis, development of atherosclerosis).\n\nIt is based on the administration of ''oestrogens, which must be combined with a progestogen in non-hysterectomised women'', due to the risk of endometrial cancer induced by oestrogen treatments alone.\n\nThe human estrogen 17\u00df-estradiol is the reference estrogen for HRT, which has made it possible to remove most of the metabolic contraindications (smoking, obesity, diabetes, hypercholesterolaemia) to the oestroprogestogenic pill.\n\nIt can be administered orally, but preferably parenterally (percutaneously, transdermally), which avoids digestive catabolism and the first-pass hepatic effect, and therefore avoids the increased risk of venous thromboembolism and stroke associated with oral estrogens.\n\nThe progestogens to be used because of their better risk profile in terms of venous thrombo-embolic risk and especially breast cancer are natural progesterone and retroprogesterone or dydrogesterone.\n\n== The different treatment regimens ==\nEstrogens can be administered either discontinuously, 21 days or preferably 25 days a month, or continuously. To prevent endometrial hyperplasia, the progestogen sequence should not be less than 12 days per treatment cycle. Depending on whether the progestin is administered sequentially or continuously, a distinction is made between treatment regimens known as \"with menstruation\" and those known as \"without menstruation\".\n[File:THM.jpg|thumbnail]]\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What type of progestogen is recommended for menopausal hormone therapy (HRT) due to its better risk profile in terms of venous thrombo-embolic risk and breast cancer?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Alendronate",
+        "description": "A type of bisphosphonate used to prevent osteoporosis",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Progesterone",
+        "description": "A natural progestogen recommended for HRT",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Estradiol",
+        "description": "The reference estrogen for HRT",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Dydrogesterone",
+        "description": "A type of progestogen used in HRT",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Progesterone",
+        "description": "The correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

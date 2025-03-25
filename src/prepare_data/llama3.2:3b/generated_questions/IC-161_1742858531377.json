@@ -1,0 +1,46 @@
+{
+  "folder": "IC-161",
+  "content": "{{knowledge objective\n|Identifiant=OIC-161-22-B\n|Item_parent=Urinary infections in children and adults\n|Item_parent_short=Urinary infections in children and adults\n|Rank=B\n|Title=Urinary infections in children: understanding the epidemiology\n|Description=None\n|Rubric=Epidemiology\n|Contributors=Maxime Vall\u00e9e, Alice Faure\n|Order=22}}\n\n\n*Urinary tract infection is one of the most common bacterial infections in children.\n*Favoured by: immaturity with abnormal bladder emptying (constipation plays a role) and bacterial reservoir (prepuce in young boys).\n*In the first few months of life, urinary tract infections are more common in boys (up to 20% of infants under 3 months with an isolated fever) than in girls.\n*Often associated with RVU (functional or malformative).",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a common cause of urinary tract infections in infants?",
+        "description": "What is a common cause of urinary tract infections in infants?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Constipation",
+        "description": "A condition characterized by infrequent bowel movements",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Abnormal bladder emptying",
+        "description": "A condition where the bladder takes longer to empty than normal",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Bacterial overgrowth in the gut",
+        "description": "A condition where bacteria multiply excessively in the digestive tract",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Genetic predisposition",
+        "description": "A condition where an individual is born with a genetic mutation that increases their risk of developing a disease",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The letter of the correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

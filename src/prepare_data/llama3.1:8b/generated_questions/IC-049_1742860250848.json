@@ -1,0 +1,12 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-02-A\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=A\n|Intitle=Define puberty, thelarche and menarche\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=2}}\nThe appearance of isolated early pubic hair (premature pubarche or adrenarche) is most often linked to the physiological increase in adrenal androgens around the age of 8.\n\nIt is a diagnosis of elimination, which requires a pathological production of androgens of adrenal or gonadal origin to have been ruled out: congenital adrenal hyperplasia, adrenal tumour, gonadal tumour.\n\nEarly and isolated breast development (absence of pubic hair, absence of accelerated growth rate) before the age of 2 is often physiological (premature thelarche). It is not related to activation of the gonadotropic axis. It is a diagnosis of elimination, made after suggesting true precocious puberty.\n\nThe term menarche refers to the first menstrual period.",
+  "question": {
+    "question": "What is the typical age associated with the physiological increase in adrenal androgens, which is often linked to the appearance of isolated early pubic hair?",
+    "option_a": "6 years old",
+    "option_b": "8 years old",
+    "option_c": "10 years old",
+    "option_d": "12 years old",
+    "correct_option": "B"
+  }
+}

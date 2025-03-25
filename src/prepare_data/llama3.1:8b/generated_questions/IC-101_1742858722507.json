@@ -1,0 +1,12 @@
+{
+  "folder": "IC-101",
+  "content": "{{knowledge objective\n|Identifiant=OIC-101-03-A\n|Item_parent=Facial paralysis\n|Item_parent_short=Facial paralysis\n|Rank=A\n|Title=Photography/video of peripheral facial paralysis (PFP)\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=3}}\nPlease refer to the CEN website: www.cen-neurologie.fr where videos are available.",
+  "question": {
+    "question": "What is the primary purpose of photography/video in the context of peripheral facial paralysis (PFP)?",
+    "option_a": "To diagnose PFP through visual examination",
+    "option_b": "To document the progression of PFP over time",
+    "option_c": "To provide a visual aid for patients to understand their condition",
+    "option_d": "To capture the facial expressions of patients with PFP for research purposes",
+    "correct_option": "B"
+  }
+}

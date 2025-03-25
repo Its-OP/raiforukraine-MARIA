@@ -1,0 +1,12 @@
+{
+  "folder": "IC-247",
+  "content": "{{knowledge objective\n|Identifiant=OIC-247-14-B\n|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Rank=B\n|Title=Know how to assess and diagnose macrovascular complications.\n|Description=None\n|Section=Positive diagnosis\n|Contributors=Gaetan Pr\u00e9vost,H\u00e9l\u00e8ne Bihan,Eva Feigerlova,Claire Briet,Etienne Larger\n|Order=14}}\n\n'''Coronary artery disease'''\n\n- Targeted questioning to look for clinical angina, sometimes with atypical symptoms: digestive, asthenia, hypotension....\n\n- Systematic annual resting ECG [[Performance and interpretation of an electrocardiogram (ECG) SD-185]], coronary calcium score\n\n- '''\u00b1''' Test for myocardial ischaemia: stress test, stress ultrasound, myocardial scintigraphy\n\nCarotid disease\n\n- Questioning and auscultation of the carotid arteries\n\n- Doppler ultrasound of the carotid arteries (MRI angiography if there is an auscultatory abnormality) in the event of symptoms suggestive of TIA on examination. Some people (who have not reached a consensus) feel that this should be done systematically every 2 to 5 years if the cardiovascular risk is high (particularly if there is associated hypertension).\n\n'''Arteriopathy of the lower limbs'''\n\n*Examination for symptoms of intermittent limb claudication (SD-069). inspection of the feet, search for pulses, auscultation of arterial paths;\n*measurement of the systolic pressure index (SPI)\n*Doppler ultrasound of the arteries of the lower limbs (from the abdominal aorta) only if a patent clinical abnormality is observed (no systematic Doppler ultrasound).",
+  "question": {
+    "question": "What is the recommended approach for assessing and diagnosing carotid disease in patients with diabetes?",
+    "option_a": "Systematic annual resting ECG and coronary calcium score",
+    "option_b": "Questioning and auscultation of the carotid arteries, with Doppler ultrasound only if there are symptoms suggestive of TIA",
+    "option_c": "Stress test, stress ultrasound, and myocardial scintigraphy for all patients with diabetes",
+    "option_d": "Doppler ultrasound of the carotid arteries every 2 to 5 years for all patients with diabetes, regardless of symptoms",
+    "correct_option": "B"
+  }
+}

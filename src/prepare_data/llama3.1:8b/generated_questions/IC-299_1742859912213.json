@@ -1,0 +1,12 @@
+{
+  "folder": "IC-299",
+  "content": "{{knowledge objective\n|Identifiant=OIC-299-09-B\n|Item_parent=Intracranial tumours\n|Item_parent_short=Intra-cranial tumours\n|Rank=B\n|Title=To know the principles of the management of HTIC and epilepsy in a patient with an intracerebral tumour.\n|Description=None\n|Topic=Monitoring and/or prognosis\n|Contributors=Dr Thi\u00e9baud PICART (Hospices Civils de Lyon),Dr Pierre ANTH\u00c9RIEU (CHU Toulouse),Pr Fran\u00e7ois VASSAL (CHU Saint-Etienne)\n|Order=9}}\n\n'''HTIC = emergency treatment''' '''+++''''\n\n- Treatment depending on the mechanism\n\n- Peritumoral vasogenic oedema :\n\no \u2192 [[Corticosteroid therapy|corticoids]] (methylprednisolone, dexamethasone)\n\no \u2192 diuretics (mannitol)\n\no Fast-acting but limited in time\n\n- Bulky or haemorrhagic tumour: \u2192 resection surgery\n\n- Obstructive hydrocephalus: \u2192 endoscopic ventriculocisternostomy / internal or external LCS shunt.\n\n'''[[Childhood and adult epilepsy|Epilepsy]] :''''\n\n- '''No''' '''preventive''' treatment '''in the absence of a crisis''' prior to treatment\n\n- Priority should be given to new-generation drugs that are effective against focal/partial seizures and do not induce enzymes (levetiracetam, lacosamide).",
+  "question": {
+    "question": "What is the recommended approach for a patient with an intracerebral tumour and epilepsy?",
+    "option_a": "Administer anticonvulsant medication as a preventive measure, regardless of seizure history",
+    "option_b": "Prioritize new-generation drugs that are effective against focal/partial seizures and do not induce enzymes, such as levetiracetam or lacosamide",
+    "option_c": "Use corticosteroids as the primary treatment for epilepsy, as they can help reduce tumour size",
+    "option_d": "Perform surgery to resect the tumour immediately, without considering other treatment options",
+    "correct_option": "B"
+  }
+}

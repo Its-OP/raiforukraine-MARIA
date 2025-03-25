@@ -1,0 +1,12 @@
+{
+  "folder": "IC-247",
+  "content": "{{knowledge objective\n|Identifiant=OIC-247-23-A\n|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Rank=A\n|Title=Knowing the general principles of multifactorial management of T2DM and the patient-centred approach.\n|Description=None\n|Topic=Management\n|Contributors=Gaetan Pr\u00e9vost,Eva Feigerlova,H\u00e9l\u00e8ne Bihan,Claire Briet,Etienne Larger\n|Order=23}}\n\nMultifactorial management of T2DM means taking into account all the CV risk factors present in the patient.\n\nIn addition to controlling blood sugar levels, therapeutic objectives will include stopping smoking, controlling lipid levels and blood pressure, and adhering to dietary rules, physical activity and taking medication.\n\nTherapeutic objectives (glycaemia, blood pressure, lipids) are tailored to the patient's clinical and biological profile.\n\n\nThe factors to be taken into account when determining the glycaemic target (HbA1c) are the duration of diabetes, life expectancy, the existence of co-morbidities, the risk of hypoglycaemia [[Hypoglycaemia SD-209]] or other adverse drug reactions [[Suspicion of an adverse drug reaction or treatment SD-348]] and the patient's motivation.\n\n\nLipid control targets are mainly adapted to cardiovascular risk (primary prevention, presence of FDR, secondary prevention), blood pressure targets to cardiovascular and renal risk (GFR, proteinuria).",
+  "question": {
+    "question": "What does multifactorial management of T2DM entail, in addition to controlling blood sugar levels?",
+    "option_a": "Only stopping smoking and controlling lipid levels",
+    "option_b": "Controlling lipid levels and blood pressure, and adhering to dietary rules, physical activity and taking medication",
+    "option_c": "Only controlling lipid levels and adhering to dietary rules",
+    "option_d": "Stopping smoking and adhering to physical activity",
+    "correct_option": "B"
+  }
+}

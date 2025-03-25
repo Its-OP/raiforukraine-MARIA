@@ -1,0 +1,22 @@
+{
+  "folder": "IC-198",
+  "content": "{{knowledge objective\n|Identifiant=OIC-198-16-B\n|Item_parent=Microcrystalline arthropathies\n|Item_parent_short=Microcrystalline arthropathies\n|Rank=B\n|Title=Knowing the risk of excess mortality in untreated gout\n|Description=U-shaped curve\n|Heading=Monitoring and/or prognosis\n|Contributors=\n|Order=16}}\n- Gout must be treated in view of its associated cardiovascular mortality.\n\n- However, hypouricaemia also carries a risk of increased mortality.",
+  "question": {
+    "properties": {
+      "question": "What is the relationship between gout and cardiovascular mortality?",
+      "option_a": "Gout is associated with a higher risk of cardiovascular mortality.",
+      "option_b": "Gout is not associated with a higher risk of cardiovascular mortality.",
+      "option_c": "The relationship between gout and cardiovascular mortality is not well understood.",
+      "option_d": "Gout is associated with a lower risk of cardiovascular mortality.",
+      "correct_option": "option_a"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

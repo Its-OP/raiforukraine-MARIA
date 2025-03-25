@@ -1,0 +1,12 @@
+{
+  "folder": "IC-242",
+  "content": "{{knowledge objective\n|Identifiant=OIC-242-07-B\n|Item_parent=Hyperthyroidism\n|Item_parent_short=Hyperthyroidism\n|Rank=B\n|Heading=Knowing specific (TSH receptor antibodies) and non-specific biological signs\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Dr Camille Buffet,Dr Magalie Haissaguerre\n|Order=7}}\n\nThe diagnosis of Graves' disease is based on the measurement of TSH receptor antibodies. A high titre confirms the diagnosis (specific biological signs).\n\nThe non-specific biological signs are :\n\n- lower cholesterol and triglyceride levels (depending on previous figures)\n\n- discreet [[Hyperglycaemia SD-208|hyperglycaemia]] (sometimes) and, above all, aggravation of associated diabetes.\n\n- elevated liver enzymes\n\n- leukoneutropenia with relative lymphocytosis",
+  "question": {
+    "question": "What are the non-specific biological signs of Graves' disease?",
+    "option_a": "Lower cholesterol and triglyceride levels",
+    "option_b": "Discreet hyperglycaemia and aggravation of associated diabetes",
+    "option_c": "Elevated liver enzymes and leukoneutropenia with relative lymphocytosis",
+    "option_d": "None of the above",
+    "correct_option": "option_c"
+  }
+}

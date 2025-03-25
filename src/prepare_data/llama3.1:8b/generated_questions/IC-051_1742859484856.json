@@ -1,0 +1,12 @@
+{
+  "folder": "IC-051",
+  "content": "{{knowledge objective\n|Identifiant=OIC-051-04-B\n|Item_parent=Micturition disorders in children\n|Item_parent_short=Micturition disorders in children\n|Rank=B\n|Item_parent_short=Voiding problems in children\n|Description=orientation towards an organic cause\n|Rubric=Etiologies\n|Contributors=Alice FAURE\n|Order=4}}\n\n\n==In the case of mictional disorders, look for associated disorders such as:==\n\n*Psychological problems in children: urination problems can lead to withdrawal, emotional stress and a loss of self-esteem. Children with voiding problems may also suffer from developmental and learning difficulties.\n*Psychiatric problems: children with micturition problems have 2 to 4 times more behavioural problems, such as attention deficit hyperactivity disorder (ADHD).\n*Sleep disorders such as sleep apnoea and parasomnias, particularly in children with enuresis.\n*Nocturnal respiratory disorders: upper airway obstruction (snoring), especially if accompanied by obstructive apnoea, is frequently reported in isolated primary enuresis.\n\n<br />",
+  "question": {
+    "question": "In the case of mictional disorders, what associated disorders should be looked for?",
+    "option_a": "Cardiovascular problems, such as hypertension",
+    "option_b": "Psychological problems in children, including withdrawal, emotional stress, and loss of self-esteem",
+    "option_c": "Gastrointestinal problems, such as constipation",
+    "option_d": "Nocturnal respiratory disorders, including sleep apnea",
+    "correct_option": "B"
+  }
+}

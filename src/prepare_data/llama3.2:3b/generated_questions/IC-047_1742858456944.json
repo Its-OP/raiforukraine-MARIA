@@ -1,0 +1,36 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-13-A\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=A\n|Title=Know the indications for referring a child to an ENT specialist.\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=13}}\nRefer to ENT if\n\n* a family history of deafness\n* parental concern about hearing\n* abnormality in a screening test\n* warning signs:\n** absence of reaction to noises, strong reactions to vibrations or touch, absence of reaction to being called or given a name, etc.\n** Language disorders at these different stages: crying instead of melodic sounds, delay or absence of vocal emission/language, regression, articulations that are difficult to understand.\n** comprehension difficulties, learning difficulties, concentration difficulties\n** Behavioural and social interaction problems, indifference to others or agitation/aggression.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Indications for Referring a Child to an ENT Specialist",
+        "description": "The following warning signs are indications to refer a child to an ENT specialist. Choose the correct answer.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Physical examination is normal"
+      },
+      "option_b": {
+        "title": "The child's hearing threshold is below -10 dBHL"
+      },
+      "option_c": {
+        "title": "The child shows some of the warning signs mentioned earlier"
+      },
+      "option_d": {
+        "title": "The child has no family history of deafness or hearing difficulties"
+      },
+      "correct_option": {
+        "title": "C"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

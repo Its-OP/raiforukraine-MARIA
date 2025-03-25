@@ -1,0 +1,46 @@
+{
+  "folder": "IC-188",
+  "content": "{{knowledge objective\n|Identifiant=OIC-188-04-A\n|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Rank=A\n|Title=Know how to make a positive diagnosis and differential diagnosis of allergic rhinitis in children and adults.\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=4}}\n'''Clinical diagnosis:'''\n\no Symptoms grouped together under the acronym PAREO (pruritus, anosmia, rhinorrhoea, sneezing, nasal obstruction) which may be accompanied by ocular symptoms (conjunctivitis).\n\no Examination of the nasal cavities with the nasal speculum (or otoscope) reveals inflammatory mucosa and looks for any polyps.\n\no Search for arguments in favour of the allergic nature of the rhinitis (strong association between exposure to an allergen and the onset of symptoms assessed by the units of place, time and action ''AND'' the objectification of sensitisation to the allergen: positive skin test / presence of specific IgE; cf item 186).\n\n'''Differential diagnosis: chronic non-allergic rhinitis'''\n\no Non-allergic inflammatory rhinitis\n\no Vasomotor rhinitis",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What are the key findings in the clinical diagnosis of allergic rhinitis?",
+        "description": "A clinical question about the diagnosis of allergic rhinitis",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Examination of the nasal cavities with a stethoscope",
+        "description": "A plausible but incorrect option that might confuse those without complete knowledge of the topic",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Search for arguments in favour of the allergic nature of the rhinitis",
+        "description": "A correct option that is a key part of the diagnostic process",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Non-allergic inflammatory rhinitis is a differential diagnosis",
+        "description": "A plausible but incorrect option that might be considered by those without complete knowledge of the topic",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Ocular symptoms such as conjunctivitis are a common accompaniment to allergic rhinitis",
+        "description": "A correct option that is a known association with allergic rhinitis",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Search for arguments in favour of the allergic nature of the rhinitis",
+        "description": "This should be the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

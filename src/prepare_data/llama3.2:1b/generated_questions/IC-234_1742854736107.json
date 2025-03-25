@@ -1,0 +1,12 @@
+{
+  "folder": "IC-234",
+  "content": "{{knowledge objective\n|Identifiant=OIC-234-13-B\n|Item_parent=Adult heart failure\n|Item_parent_short=Adult heart failure\n|Rank=B\n|Title=To know the value of transthoracic echocardiography in the positive and aetiological diagnosis\n|Description=Knowing the value of transthoracic echocardiography in positive and aetiological diagnosis\n|Rubric=Additional examinations\n|Contributors=Olivier Huttin\n|Order=13}}\n \n\nEchocardiography allows :\n\n- Diagnosing CI\n\n- Define IC Type\n\n- Specify the mechanism of CI\n\n- Looking for an aetiology\n\n- Measuring filling pressures\n\n- Monitoring and evolution (prognosis, LVEF)\n\n- Adjust treatment\n\n\nVarious parameters will be measured;\n\n- Geometry and segmental and global function of the left ventricle, measurement of LVEF value\n\n- Testing for valvulopathy\n\n- Assessment of right ventricular geometry and function,\n\n- Haemodynamic assessment: cardiac output, diastolic function (relaxation, assessment of left ventricular filling pressures), assessment of pulmonary pressures including systolic pulmonary artery pressure by measuring tricuspid insufficiency flow, assessment of right ventricular filling pressures.\n\n- Assessment of the pericardium (effusion, constriction)\n<br />\n[File:Classic echocardiography images .png|thumbnail|480x480px|Classical echocardiography images; top left: parasternal long axis view with measurement of ventricular diameter; bottom left: similar measurement (diameter, parietal thickness) during a TM view of the left ventricle in short axis; top right: apical 4-chamber view with measurement of the left atrial surface area (hatched in blue); bottom right: Doppler measurements (transmitral flow in pulse Doppler, tissue Doppler on the mitral annulus, continuous Doppler on tricuspid insufficiency flow. ]]\n<br />",
+  "question": {
+    "question": "What is the primary purpose of transthoracic echocardiography in the diagnosis and aetiological diagnosis of adult heart failure?",
+    "option_a": "To diagnose coronary artery disease",
+    "option_b": "To define left ventricular hypertrophy",
+    "option_c": "To specify the mechanism of coronary artery disease",
+    "option_d": "To look for an aetiology of heart failure",
+    "correct_option": "option_c"
+  }
+}

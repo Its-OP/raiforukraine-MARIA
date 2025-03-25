@@ -1,0 +1,46 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-15-B\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=B\n|Title=Knowing the principles of measuring hearing in children\n|Description=None\n|Rubric=Additional examinations\n|Contributors=\n|Order=15}}\nSubjective tests: for screening (sound sources, voice, pure tone audiometry)\n\nObjective screening tests: OEAP and PEAA\n\nTests for diagnostic confirmation by an ENT specialist\n\n- audiogram: tone audiometry requiring the child's cooperation (subjective)\n\n- Auditory evoked potentials (objective)",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What type of hearing test is used for diagnostic confirmation by an ENT specialist?",
+        "description": "Choose the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Pure tone audiometry",
+        "description": "A test that requires the child's cooperation",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Auditory evoked potentials",
+        "description": "A test that does not require the child's cooperation",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Tone audiometry",
+        "description": "A test that requires the child's cooperation",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Auditory brainstem response",
+        "description": "A test that does not require the child's cooperation",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The letter corresponding to the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

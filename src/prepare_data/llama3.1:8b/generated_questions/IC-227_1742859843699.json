@@ -1,0 +1,12 @@
+{
+  "folder": "IC-227",
+  "content": "{{knowledge objective\n|Identifiant=OIC-227-01-A\n|Item_parent=Chronic venous insufficiency. Varicose veins\n|Item_parent_short=Chronic venous insufficiency. Varicose veins\n|Rank=A\n|Title=Knowing the definition of chronic venous insufficiency (CVI) and varicose veins.\n|Description=Knowing the definition of chronic venous insufficiency and varicose veins\n|Rubric=Definition\n|Contributors=Simon Soudet, Marie-Antoine Sevestre Pietri, Sophie Blaise,\n|Order=1}}\n\n\n== '''Chronic venous insufficiency (CVI)''' ==\nDysfunction of the deep and/or superficial venous system, resulting from valvular incontinence, with or without associated venous obliteration. It mainly affects the lower limbs.\n\n== '''Varicose vein''' ==\nPermanent dilatation of one or more superficial veins of the lower limbs of more than 3 mm in diameter in orthostatism, most often associated with reflux due to valvular incontinence (reflux leads to stasis of venous blood in the feet).\n\n== Clinical, aetiological, anatomical and pathophysiological aspects of CVI ==\nThe clinical, aetiological, anatomical and pathophysiological elements of CVI are integrated into the CEAP international classification used routinely in the assessment of CVI. It allows us to speak the same language and includes clinical signs (C), etiology (E), anatomy (A) and pathophysiology (P). It is used here to show you how to apply the data taught, but you do not have to learn it.",
+  "question": {
+    "question": "What is chronic venous insufficiency (CVI)?",
+    "option_a": "A condition characterized by the narrowing of superficial veins in the lower limbs",
+    "option_b": "A dysfunction of the deep and/or superficial venous system, resulting from valvular incontinence, with or without associated venous obliteration",
+    "option_c": "A type of varicose vein that affects the upper limbs",
+    "option_d": "A condition caused by poor circulation in the lower limbs, leading to swelling and pain",
+    "correct_option": "B"
+  }
+}

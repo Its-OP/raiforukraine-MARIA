@@ -1,0 +1,12 @@
+{
+  "folder": "IC-161",
+  "content": "{{knowledge objective\n|Identifiant=OIC-161-09-A\n|Item_parent=Urinary infections in children and adults\n|Item_parent_short=Urinary infections in children and adults\n|Rank=A\n|Title=Know the diagnostic criteria for acute pyelonephritis (clinical, biological, radiological) with or without signs of severity (algorithm).\n|Description=Know the difference between simple pyelonephritis and pyelonephritis at risk of complication, know how to recognise the risks of complications in pyelonephritis, know which additional examinations to carry out in the event of pyelonephritis, whether as an emergency or as a delayed procedure, know how to determine the indication for referral; know how to eliminate differential diagnoses.\n|Rubric=Positive diagnosis\n|Contributors=Maxime Vall\u00e9e, Alice Faure\n|Order=9}}\n\n\n\n\u25cf The clinical presentation is that of [[Acute fever in children and adults|unilateral febrile lumbar pain 147]] in the absence of any lower urinary tract symptoms (the ''E. coli'' responsible for ANP are not the same as those responsible for cystitis)\n\n\u25cf Pain frequently associated with nausea or vomiting linked to reflex ileus\n\n\u25cf Radiation of pain (renal colic pain) should suggest a urinary tract obstruction, which is a diagnostic and therapeutic emergency.\n\n\u25cf [[Sepsis/Bacteremia/Fungemia in adults and children|clinical severity 157]] and [[Sepsis and septic shock in children and adults|158]] being defined by the previously described criteria (obstructive, sepsis, septic shock, qSOFA 2 or 3, need for renal urine drainage). Acute obstructive pyelonephritis is, by definition, severe acute pyelonephritis. It is also known as febrile renal colic (if painful).",
+  "question": {
+    "question": "What are the diagnostic criteria for acute pyelonephritis? ",
+    "option_a": "Clinical presentation of unilateral febrile lumbar pain and nausea or vomiting without any lower urinary tract symptoms",
+    "correct_option": "Need for urinary urine drainage",
+    "option_b": "Radiation of pain and signs of severity, such as fever, nausea, vomiting, and sepsis/bacteremia/fungemia",
+    "option_c": "Clinical severity and septic shock",
+    "option_d": "Need for urinary urine drainage"
+  }
+}

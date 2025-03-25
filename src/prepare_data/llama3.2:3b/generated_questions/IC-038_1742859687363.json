@@ -1,0 +1,41 @@
+{
+  "folder": "IC-038",
+  "content": "{{knowledge objective\n|Identifiant=OIC-038-03-B\n|Item_parent=Infertility of the couple: conduct of the first consultation\n|Item_parent_short=Infertility of the couple: conduct of the first consultation\n|Rank=B\n|Intitle=Knowing fertility and fecundity in the general population\n|Description=Integrating the effect of age on fertility\n|Rubric=Epidemiology, prevalence\n|Contributors=Charlotte Sonigo,Geoffroy Robin,Patrica Fauque,Fabrice Guerif,Pierre Emmanuel Bouet\n|Order=3}}\n\n\n== Fertility and factors influencing fertility in the general population ==\nIn 2018, in France, ''one in four to six couples consult a doctor'' for infertility after one year, i.e. almost a quarter of the population wanting a child, reflecting a real public health problem.\n\nThe factors influencing fertility are :\n\n=== In women ===\n- L''''\u00e2ge''': this is the main factor predicting fertility in women (the chances of pregnancy and live births decrease with age). This age-related reduction in fertility in women is secondary to an alteration in the quantity of follicles present in the ovaries in association with an alteration in oocyte quality.\n\n- The [[Obesity and overweight SD-051|overweight and especially obesity]]\n\n- Consumption of [[Tobacco and pregnancy: pathophysiology 2C-027-EP-B06|tobacco]]\n\n=== In men ===\n- L''''\u00e2ge'', but to a lesser degree than female age.\n\n- Numerous lifestyle and environmental factors (such as smoking, cannabis use, exposure to pollution or heat, physical activity, stress, etc.).\n\n- Weight is an important factor, as there is evidence of a dose-response relationship between male Body Mass Index and male hypofertility.\n\n=== In couples ===\n- '''Frequency of sexual intercourse'''\n<br />\n\n== Fertility ==\nThe total fertility rate in France in 2019 was 1.87 children per woman.\n\nThe fertility rate is influenced by social and behavioural factors such as birth policies, the age at first pregnancy, couples' choices and the use of contraception ....\n<br />\n\n== Fertility ==\nFertility averages 20-25% per cycle in a couple aged around 25.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the main factor predicting fertility in women?",
+        "description": "The factor that has the most significant impact on a woman's ability to become pregnant",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Obesity and overweight",
+        "description": "The consumption of tobacco and other lifestyle factors"
+      },
+      "option_b": {
+        "title": "Age",
+        "description": "The frequency of sexual intercourse"
+      },
+      "option_c": {
+        "title": "Weight and body mass index",
+        "description": "The use of contraception"
+      },
+      "option_d": {
+        "title": "Social and behavioral factors",
+        "description": "The total fertility rate per cycle"
+      },
+      "correct_option": {
+        "title": "None of the above",
+        "description": ""
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

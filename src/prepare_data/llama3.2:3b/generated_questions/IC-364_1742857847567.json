@@ -1,0 +1,46 @@
+{
+  "folder": "IC-364",
+  "content": "{{knowledge objective\n|Identifiant=OIC-364-10-B\n|Item_parent=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Item_parent_short=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Rank=B\n|Title=Know how to diagnose a fracture of the lateral condyle of the elbow\n|Description=Know the anatomical specificity\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=10}}\nKnow that a fracture of the lateral condyle is a type III or IV epiphyseal detachment. Know that muscle insertions almost always lead to an initial or secondary displacement. Know that this fracture is articular. Know that its treatment is essentially surgical.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a characteristic of a fracture of the lateral condyle of the elbow?",
+        "description": "Select the correct statement about the fracture.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "It is always a type I epiphyseal detachment.",
+        "description": "A common misconception about the fracture's classification.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Muscle insertions always lead to an initial displacement.",
+        "description": "A plausible but incorrect statement about the fracture's mechanics.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "It is a type III or IV epiphyseal detachment.",
+        "description": "The correct classification of the fracture.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Treatment is always non-surgical.",
+        "description": "A misleading statement about the fracture's treatment.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "None of the above",
+        "description": "The correct answer is not listed among the options.",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

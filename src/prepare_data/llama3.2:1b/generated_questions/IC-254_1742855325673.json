@@ -1,0 +1,12 @@
+{
+  "folder": "IC-254",
+  "content": "{{knowledge objective\n|Identifiant=OIC-254-03-B\n|Item_parent=Nutritional needs of pregnant women\n|Item_parent_short=Nutritional needs of pregnant women\n|Rank=B\n|Title=Knowing how to prevent spina bifida\n|Description=Vitamin B9\n|Rubric=Physiopathology\n|Contributors=\n|Order=3}}\nFolic acid (vitamin B9) supplementation is systematically recommended at a rate of 400 \u00b5g/d, 28 days before conception and up to 12 weeks gestation.",
+  "question": {
+    "question": "How much folic acid is recommended to take during pregnancy?",
+    "option_a": "400 \u00b5g/d",
+    "option_b": "500 \u00b5g/d",
+    "option_c": "600 \u00b5g/d",
+    "option_d": "800 \u00b5g/d",
+    "correct_option": "400 \u00b5g/d"
+  }
+}

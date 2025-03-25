@@ -1,0 +1,46 @@
+{
+  "folder": "IC-099",
+  "content": "{{knowledge objective\n|Identifiant=OIC-099-07-A\n|Item_parent=Migraine, trigeminal neuralgia and facial pain\n|Item_parent_short=Migraine, trigeminal neuralgia and facial pain\n|Rank=A\n|Title=Knowing the migraine, tension headache interrelationship\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=7}}\nA patient may have two types of primary [[Headache SD-118|headache]] intertwined, most commonly a migraine without aura and an episodic tension headache.\n\nIn the case of CCQ (> 15 days per month of headaches), if the patient has migraines and tension headaches, the diagnosis of migraine takes precedence, and a chronic migraine must be diagnosed as soon as there are 8 days per month (2 days per week) of headache of a migrainous nature.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Question",
+        "description": "In the case of CCQ (> 15 days per month of headaches), if the patient has migraines and tension headaches, what takes precedence in the diagnosis?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Option A",
+        "description": "The diagnosis of episodic tension headache takes precedence.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Option B",
+        "description": "The diagnosis of chronic migraine takes precedence.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Option C",
+        "description": "The diagnosis of both migraines and tension headaches takes precedence.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Option D",
+        "description": "The diagnosis of episodic migraines takes precedence.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "A",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

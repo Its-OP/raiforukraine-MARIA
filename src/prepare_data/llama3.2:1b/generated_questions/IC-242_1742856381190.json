@@ -1,0 +1,12 @@
+{
+  "folder": "IC-242",
+  "content": "{{knowledge objective\n|Identifiant=OIC-242-09-A\n|Item_parent=Hyperthyroidism\n|Item_parent_short=Hyperthyroidism\n|Rank=A\n|Title=Knowing the three most common etiologies of hyperthyroidism\n|Description=Detail\n|Rubric=Etiologies\n|Contributors=Dr Camille Buffet,Dr Magali Haissaguerre\n|Order=9}}\n\nThe 3 most common causes of hyperthyroidism are :\n\n- Graves' disease (autoimmune), the leading cause of hyperthyroidism in young women\n\n- Toxic multinodular goitre, occurring in older subjects\n\n- Toxic adenoma, occurring in older subjects\n\n<br />",
+  "question": {
+    "question": "What are the three most common causes of hyperthyroidism?",
+    "option_a": "Graves' disease (autoimmune), the leading cause of hyperthyroidism in young women",
+    "option_b": "Toxic multinodular goitre, occurring in older subjects",
+    "option_c": "Toxic adenoma, occurring in older subjects",
+    "option_d": "Pheochromocytoma, occurring in younger subjects",
+    "correct_option": "option_a"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-101",
+  "content": "{{knowledge objective\n|Identifiant=OIC-101-12-A\n|Item_parent=Facial paralysis\n|Item_parent_short=Facial paralysis\n|Rank=A\n|Intitle=Clinical iconography of a typical example of a vesicular eruption of the concha in favour of zoster PFP\n|Description=Visualisation of vesicles in Ramsay Hunt's area pointing to zoster viral PFP\n|Rubric=Multimedia content\n|Contributors=\n|Order=12}}\nSee the CEN website: www.cen-neurologie.fr where videos are available",
+  "question": {
+    "question": "What is the typical presentation of Ramsay Hunt's syndrome?",
+    "option_a": "A vesicular eruption of the concha in favor of zoster viral PFP",
+    "option_b": "A zoster viral infection of the facial nerve",
+    "option_c": "A typical example of a vesicular eruption of the concha in favor of zoster PFP",
+    "option_d": "A zoster viral infection of the concha",
+    "correct_option": "A"
+  }
+}

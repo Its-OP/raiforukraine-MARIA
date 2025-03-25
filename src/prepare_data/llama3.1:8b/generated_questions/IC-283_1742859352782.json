@@ -1,0 +1,12 @@
+{
+  "folder": "IC-283",
+  "content": "{{knowledge objective\n|Identifiant=OIC-283-09-B\n|Item_parent=Constipation in children and adults\n|Item_parent_short=Constipation in children and adults\n|Rank=B\n|Title=Knowing the principles of managing chronic constipation\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=9}}\n- Personalised and age-appropriate\n\n- Explanation of pathophysiological mechanisms (rectal vacuity)\n\n- Hygienic and dietary measures\n\n- Assessment of maternal nutrition in breastfed infants\n\n- Checking bottle replenishment, water intake and diversification\n\n- Medicinal treatment in older children to soften the stools and eliminate the vicious circle: hard stools-pain-retention to be prolonged for several months and then gradually reduced, always combined with hygienic and dietary measures:\n\no Osmotic (neonatal)\n\no PEG (from 6 months (high dose if faecal impaction))\n\no Washing if faecal impaction\n\nPsychological treatment: may be useful if there is a psychological cause for the retention, if the disorder has psychosocial consequences, or if secondary benefits are sought.",
+  "question": {
+    "question": "What is a common approach to managing chronic constipation in older children?",
+    "option_a": "Assessment of maternal nutrition in breastfed infants",
+    "option_b": "Medicinal treatment with laxatives to soften stools and eliminate the vicious circle of hard stools-pain-retention",
+    "option_c": "Checking bottle replenishment, water intake, and diversification",
+    "option_d": "Psychological treatment to address underlying psychological causes",
+    "correct_option": "B"
+  }
+}

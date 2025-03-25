@@ -1,0 +1,46 @@
+{
+  "folder": "IC-267",
+  "content": "{{knowledge objective\n|Identifiant=OIC-267-14-A\n|Item_parent=Disorders of acid-base balance and fluid-electrolyte disorders\n|Item_parent_short=Disorders of acid-base equilibrium and fluid-electrolyte disorders\n|Rank=A\n|Title=Knowing the main aetiologies of hyperkalaemia\n|Description=Renal failure, metabolic acidosis, drugs (K salt intake, BSRA, K savers, trimethoprim, NSAIDs, heparin, etc.)\n|Rubric=Etiologies\n|Contributors=P Rieu; B Moulin; M Flamant\n|Order=14}}\n\n1- Aetiological diagnosis involves :\n\n*The search for false hyperkalaemia;\n*Assessment of potassium intake;\n*Looking for obvious causes of transfer from the intracellular to the extra-cellular sector;\n*looking for cell lysis;\n*Measurement of kaliuresis;\n*search for factors favouring hyperkalaemia.\n\n2- Hyperkalaemia may be linked to (table 4) :\n\n*excess intake in the case of renal failure;\n*exaggerated transfer from the intracellular to the extracellular compartment;\n*reduced renal excretion capacity.\n\n'''Table 4: Main causes of hyperkalaemia''''\n{| class=\"wikitable\"\n|Excess intake\n\n(++ if renal insufficiency)\n|- PO potassium chloride intake (++)\n|-\n|Hyperkalaemia\n\ntransfer\n|- Metabolic acidosis with normal plasma anion gap [PN1] (++)\n\n- Cell catabolism (cell lysis) :\n\n- Rhabdomyolysis and muscle crushing\n\n- Extensive burns, massive haemolysis\n\n- Spontaneous tumour lysis or lysis during chemotherapy\n\n- Post-operative revascularisation syndrome\n\n- Severe digestive haemorrhage\n\n- Hyperthermia\n\n- Intense physical exercise\n\n- Drug causes (++): \u03b2-blockers, digitalis intoxication\n|-\n|Reduced renal excretion (\u00b1 resistance to action)\n\nof aldosterone)\n|- Acute and chronic renal failure (++)\n\n- Mineralocorticoid deficiency :\n\n- Adrenal insufficiency\n\n- Hyporeninism-hypoaldosteronism (diabetes)\n\n- Iatrogenic causes (most frequent) ++ :\n\n- Antialdosterone (spironolactone) or amiloride\n\n- '''RAS blockers: ACE inhibitors - ARB2''' - Direct renin inhibitor\n\n- Non-steroidal anti-inflammatory drugs\n\n- Ciclosporin, tacrolimus\n\n- Blocking the epithelial sodium channel: potassium-sparing diuretic (amiloride), trimethoprim, pentamidine.\n|}\n\n\nOverall, the most frequent causes of hyperkalaemia remain iatrogenic and are related to the use of ACE inhibitors or ARB2, most often in patients with effective hypovolaemia (extracellular dehydration, heart failure) or underlying chronic renal failure. Excessive potassium intake (diet salts or supplements) should also be investigated.\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the most frequent cause of hyperkalaemia?",
+        "description": "Select the main aetiologies of hyperkalaemia",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Excess potassium intake",
+        "description": "Consuming too much potassium through diet or supplements",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Reduced renal excretion",
+        "description": "Decreased ability of the kidneys to eliminate potassium",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Iatrogenic causes",
+        "description": "Medications or medical treatments that lead to hyperkalaemia",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Cell lysis",
+        "description": "Breaking down of cells, releasing potassium into the bloodstream",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "The correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

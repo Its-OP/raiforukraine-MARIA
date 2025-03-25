@@ -1,0 +1,12 @@
+{
+  "folder": "IC-161",
+  "content": "{{knowledge objective\n|Identifiant=OIC-161-22-B\n|Item_parent=Urinary infections in children and adults\n|Item_parent_short=Urinary infections in children and adults\n|Rank=B\n|Title=Urinary infections in children: understanding the epidemiology\n|Description=None\n|Rubric=Epidemiology\n|Contributors=Maxime Vall\u00e9e, Alice Faure\n|Order=22}}\n\n\n*Urinary tract infection is one of the most common bacterial infections in children.\n*Favoured by: immaturity with abnormal bladder emptying (constipation plays a role) and bacterial reservoir (prepuce in young boys).\n*In the first few months of life, urinary tract infections are more common in boys (up to 20% of infants under 3 months with an isolated fever) than in girls.\n*Often associated with RVU (functional or malformative).",
+  "question": {
+    "question": "What is a common risk factor for urinary tract infections in children?",
+    "option_a": "Young age with normal bladder function",
+    "option_b": "Immaturity with abnormal bladder emptying, such as constipation",
+    "option_c": "Presence of a urinary catheter",
+    "option_d": "Age above 10 years",
+    "correct_option": "B"
+  }
+}

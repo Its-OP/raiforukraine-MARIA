@@ -1,0 +1,45 @@
+{
+  "folder": "IC-201",
+  "content": "{{knowledge objective\n|Identifiant=OIC-201-06-A\n|Item_parent=Organ transplants: epidemiological and immunological aspects; principles of treatment and monitoring; complications and prognosis; ethical and legal aspects. Organ procurement and legislation\n|Item_parent_short=Organ transplants: epidemiological and immunological aspects; principles of treatment and monitoring; complications and prognosis; ethical and legal aspects. Organ procurement and legislation\n|Rank=A\n|Title=Know the definition of encephalic death\n|Description=None\n|Rubric=Definition\n|Contributors=Dany Anglicheau\n|Order=6}}\n\nEncephalic death is the definitive and irreversible destruction of the brain.\n\nIt corresponds to a deep, reactive coma, with disappearance of all brain stem reflexes and absence of spontaneous breathing.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the definition of encephalic death?",
+        "description": "A medical term describing the loss of brain function",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Brain death",
+        "description": "A condition where the brain is no longer functional",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Vegetative state",
+        "description": "A state of partial brain function, but no awareness or responsiveness",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Coma",
+        "description": "A state of deep unconsciousness, but not necessarily brain death",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Anoxic brain injury",
+        "description": "Damage to the brain caused by lack of oxygen",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": ""
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

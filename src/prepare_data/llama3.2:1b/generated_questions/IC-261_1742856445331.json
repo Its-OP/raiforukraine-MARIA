@@ -1,0 +1,12 @@
+{
+  "folder": "IC-261",
+  "content": "{{knowledge objective\n|Identifiant=OIC-261-02-A\n|Item_parent=Glomerular nephropathy\n|Item_parent_short=Glomerular nephropathy\n|Rank=A\n|Title=Knowing the different types of glomerular syndromes\n|Description=Recurrent macroscopic haematuria syndrome, Chronic glomerulonephritis syndrome, Chronic glomerulonephritis syndrome, Nephrotic syndrome, Acute nephritic syndrome, Rapidly progressive glomerulonephritis syndrome\n|Rubric=Definition\n|Contributors=Eric Daugas,Bruno Moulin\n|Order=2}}\n\n'''B. Know the different types of glomerular syndrome'''\n\nBy combining these signs, five glomerular syndromes can be identified, as shown in table 1. The renal diseases most frequently expressed by these syndromes are also indicated.\n\nTable 1: The 5 glomerular syndromes\n{| class=\"wikitable\"\n|Syndrome\n|Signs\n|Kidney damage\n|-\n|Recurrent macroscopic haematuria syndrome\n|- Recurrent macroscopic haematuria\n\n- Microscopic haematuria\n\nbetween episodes\n\n- \u00b1 Proteinuria\n\n- \u00b1 HYPERTENSION\n|- Primary IgA nephropathy (Berger's disease),\n\n- Alport syndrome\n|-\n|Chronic glomerulonephritis syndrome\n|- Glomerular proteinuria\n\n- Haematuria,\n\n- \u00b1 HTA\n\n- Renal insufficiency\n|- All chronic glomerulopathies\n|-\n|Nephrotic syndrome\n|- Proteinuria \u2265 3 g/24 h\n\n- Albumin levels < 30 g/L\n\n- Haematuria,\n\n- \u00b1 HTA\n\n- Renal failure\n|- Idiopathic nephrotic syndrome (LGM, primary HSF), GEM, lupus-induced GN, amyloidosis, diabetic nephropathy\n|-\n|Acute nephritic syndrome\n|- Sudden onset, within a few days\n\n- Edema, anasarca\n\n- TAH\n\n- Microscopic or macroscopic haematuria\n\n- Proteinuria\n\n- ARI (moderate)\n\n- Oliguria\n|- Acute post-infectious GN (> 12 days after a bacterial infection not or inadequately treated with antibiotics)\n|-\n|Rapidly progressive glomerulonephritis syndrome = ''Emergency''.\n|- Rapidly progressive renal failure\n\n- Proteinuria\n\n- Haematuria\n|- Microscopic polyangiitis\n\n- Granulomatosis with polyangiitis (ex-Wegener)\n\n- Goodpasture's disease\n\n- Or any other extra-capillary proliferative GN (including lupus)\n|}\n<br />",
+  "question": {
+    "question": "What are the different types of glomerular syndromes?",
+    "option_a": "Recurrent macroscopic haematuria syndrome",
+    "option_b": "Chronic glomerulonephritis syndrome",
+    "option_c": "Nephrotic syndrome",
+    "option_d": "Acute nephritic syndrome",
+    "correct_option": "option_a"
+  }
+}

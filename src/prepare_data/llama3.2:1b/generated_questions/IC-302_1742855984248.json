@@ -1,0 +1,12 @@
+{
+  "folder": "IC-302",
+  "content": "{{knowledge objective\n|Identifiant=OIC-302-14-B\n|Item_parent=Cutaneous, epithelial and melanoma tumours\n|Item_parent_short=Cutaneous, epithelial and melanoma tumours\n|Rank=B\n|Title=Photograph of a skin precancerous lesion\n|Description=Photography of typical actinic keratoses\n|Rubric=Multimedia content\n|Contributors=\n|Order=14}}\n\n[[File:Figure C.jpg|vignette|Multiple actinic keratoses of the scalp]]",
+  "question": {
+    "question": "What is the primary characteristic of actinic keratoses?",
+    "option_a": "A type of skin cancer",
+    "option_b": "A common skin condition caused by UV exposure",
+    "option_c": "A benign growth on the skin",
+    "option_d": "A type of skin lesion that can be treated with surgery",
+    "correct_option": "option_b"
+  }
+}

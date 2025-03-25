@@ -1,0 +1,12 @@
+{
+  "folder": "IC-198",
+  "content": "{{knowledge objective\n|Identifiant=OIC-198-09-B\n|Item_parent=Microcrystalline arthropathies\n|Item_parent_short=Microcrystalline arthropathies\n|Rank=B\n|Title=Knowing the terrain, co-morbidities and triggers of a gout attack\n|Description=Infection, trauma, high-fat meal, dehydration, iatrogenicity (diuretic).\n|Rubric=Epidemiology\n|Contributors=\n|Order=9}}\n'''Risk factors other than hyperuricemia:'''\n\n- age,\n\n- the male sex,\n\n- the menopause,\n\n- a family history of gout,\n\n- chronic renal failure,\n\n- metabolic syndrome,\n\n- eating habits (high-protein diet, high-fructose drinks),\n\n- alcohol (beers with or without alcohol, rich in purines, strong alcohols, unnecessary calories),\n\n- certain drugs (loop and thiazide diuretics, ciclosporin),\n\n- overweight or obesity.\n\n\n'''Comorbidities:'''\n\n- cardiovascular disease,\n\n- renal insufficiency defined by an estimated GFR < 60 ml/min,\n\n- diabetes,\n\n- peptic ulcer,\n\n- infections.\n\n\n'''Triggering factors for a gout attack:'''\n\n- trauma,\n\n- dehydration,\n\n- postoperative context,\n\n- heart attack,\n\n- remote infection,\n\n- taking medication (diuretic, starting a hypouricemic agent),\n\n- consumption of certain drinks (alcohol, beer and soft drinks),\n\n- foods that are too high in calories or animal proteins.",
+  "question": {
+    "question": "What are triggering factors for a gout attack?",
+    "option_a": "Inflammation, chemotherapy, and overexertion",
+    "option_b": "Trauma, dehydration, postoperative context, heart attack, remote infection, taking a diuretic, consumption of certain drinks or foods",
+    "option_c": "Infections, smoking, and prolonged sitting",
+    "option_d": "Weather changes, exercise, and exposure to cold",
+    "correct_option": "B"
+  }
+}

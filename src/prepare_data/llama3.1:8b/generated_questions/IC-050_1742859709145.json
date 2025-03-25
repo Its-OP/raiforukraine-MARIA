@@ -1,0 +1,12 @@
+{
+  "folder": "IC-050",
+  "content": "{{knowledge objective\n|Identifiant=OIC-050-06-A\n|Item_parent=Genito-scrotal pathology in boys and men\n|Item_parent_short=Genito-scrotal pathology in boys and men\n|Rank=A\n|Title=Know how to manage orchi-epididymitis\n|Description=None\n|Rubric=Management\n|Contributors=C\u00e9dric Leb\u00e2cle, Alice Faure\n|Order=6}}\n\n<br />\n\n*If an STI is suspected, either ceftriaxone 500 mg in 1 IM injection, followed by Doxycycline 200mg/d for 10 days, or ofloxacin 200mg twice daily for 10 days.\n*If it is not a sexually transmitted infection, the antibiotic treatment is that of a male urinary infection targeting enterobacteria and is based on a fluoroquinolone (ciprofloxacin or levofloxacin) or 3rd generation cephalosporin secondarily adapted to the antibiogram.\n*In children, the first-line antibiotic treatment is cotrimoxazole.\n*The duration of treatment in adults and children is the same as for male urinary tract infections, 14 days.\n*Wearing a jockstrap (or tight briefs) and prescribing painkillers are recommended.",
+  "question": {
+    "question": "What is the recommended treatment duration for orchi-epididymitis in adults and children?",
+    "option_a": "7 days",
+    "option_b": "10 days",
+    "option_c": "14 days",
+    "option_d": "21 days",
+    "correct_option": "C"
+  }
+}

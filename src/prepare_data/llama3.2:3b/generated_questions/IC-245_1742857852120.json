@@ -1,0 +1,46 @@
+{
+  "folder": "IC-245",
+  "content": "{{knowledge objective\n|Identifiant=OIC-245-18-B\n|Item_parent=Adrenal insufficiency in adults and children\n|Item_parent_short=Adrenal insufficiency in adults and children\n|Rank=B\n|Title=Knowing the causes of decompensation in treated adrenal insufficiency\n|Description=None\n|Rubric=Etiologies\n|Contributors=Claire Briet,St\u00e9phanie Espiard\n|Order=18}}\nAny intercurrent pathology (vomiting, diarrhoea, infection, fracture, myocardial infarction, surgery, anaesthesia, invasive diagnostic procedure, major physical effort, intense psychological stress, etc.) is a cause of decompensation of treated adrenal insufficiency.\n\nAnd the patient's failure to adapt hydrocortisone treatment sufficiently to these situations: Importance of therapeutic education in adrenal insufficiency.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What can cause decompensation of treated adrenal insufficiency?",
+        "description": "A patient with adrenal insufficiency may experience decompensation due to",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Ignoring hydrocortisone treatment",
+        "description": "The patient's failure to take hydrocortisone as prescribed",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Major physical effort",
+        "description": "Engaging in strenuous physical activity without adjusting hydrocortisone dosage",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Hydrocortisone overdose",
+        "description": "Taking too much hydrocortisone, which can lead to decompensation",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Infection or surgery",
+        "description": "Any intercurrent pathology, including infections or surgeries, can cause decompensation",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "D",
+        "description": "The correct answer is",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

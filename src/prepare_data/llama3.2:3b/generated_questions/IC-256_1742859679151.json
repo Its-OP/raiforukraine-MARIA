@@ -1,0 +1,40 @@
+{
+  "folder": "IC-256",
+  "content": "{{knowledge objective\n|Identifiant=OIC-256-08-B\n|Item_parent=Sport skills in adults and children; nutritional requirements of athletes (see item 80)\n|Item_parent_short=Sport skills in adults and children; nutritional requirements of athletes (see item 80)\n|Rank=B\n|Title=Knowing the nutritional needs of adult athletes\n|Description=Know that most sporting activities simply require an increase in energy intake.\n|Rubric=Management\n|Contributors=\n|Order=8}}\nCarbohydrates are the main substrate for high-intensity physical activity.\n\nLipids are the substrate for moderate and prolonged physical activity.\n\n\nFor the majority of sportspeople, the recommended nutritional intake is that of the general population.\n\n\nFor more than 3 hours of sporting activity per week, nutritional intake should be adapted by increasing energy intake to cover total energy expenditure (TEE).",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What type of substrate is primarily used for high-intensity physical activity?",
+        "description": "Choose the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Carbohydrates",
+        "description": "The primary energy source for high-intensity activities"
+      },
+      "option_b": {
+        "title": "Lipids",
+        "description": "The primary energy source for moderate and prolonged activities"
+      },
+      "option_c": {
+        "title": "Proteins",
+        "description": "The primary energy source for endurance activities"
+      },
+      "option_d": {
+        "title": "Fats",
+        "description": "The primary energy source for low-intensity activities"
+      },
+      "correct_option": {
+        "title": "A"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

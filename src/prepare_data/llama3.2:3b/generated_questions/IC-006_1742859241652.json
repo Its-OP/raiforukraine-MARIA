@@ -1,0 +1,46 @@
+{
+  "folder": "IC-006",
+  "content": "{{knowledge objective\n|Identifiant=OIC-006-01-A\n|Item_parent=The organisation of clinical practice and the methods used to secure the patient's care pathway\n|Item_parent_short=The organisation of clinical practice and the methods used to ensure a safe patient pathway\n|Rank=A\n|Intitle=Knowing the definition of multi-professional teamwork\n|Description=Know the objectives of teamwork and the main methods used to achieve them.\n|Rubric=Definition\n|Contributors=Virginie Migeot\n|Order=1}}\n\nA ''''' multi-professional team''''' is made up of professionals with different and complementary qualifications (e.g. doctors, pharmacists, nurses, physiotherapists, midwives, social workers, occupational therapists, dieticians, etc.). Multi-professional teamwork means that these professionals work together and combine their efforts to achieve a common goal.\n\nThis multi-professional teamwork is considered to be\n\n- a safety barrier against adverse events;\n\n- a factor in the quality of patient care ;\n\n- a factor in health and well-being at work for professionals ;\n\n- a way of responding collaboratively to patient needs.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is multi-professional teamwork considered to be?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "A way of responding collaboratively to patient needs",
+        "description": "This is a plausible but incorrect option that is related to the concept of multi-professional teamwork",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "A factor in the quality of patient care",
+        "description": "This is a correct option that is related to the concept of multi-professional teamwork",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "A safety barrier against adverse events",
+        "description": "This is a correct option that is related to the concept of multi-professional teamwork",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "A factor in health and well-being at work for professionals",
+        "description": "This is a correct option that is related to the concept of multi-professional teamwork",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The correct letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

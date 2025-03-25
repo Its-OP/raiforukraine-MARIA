@@ -1,0 +1,46 @@
+{
+  "folder": "IC-132",
+  "content": "{{knowledge objective\n|Identifiant=OIC-132-06-A\n|Item_parent=Cognitive disorders in the elderly. (see item 108)\n|Item_parent_short=Cognitive disorders in the elderly. (see item 108)\n|Rank=A\n|Title=Know the main causes of a neuro-cognitive disorder.\n|Description=None\n|Rubric=Etiologies\n|Contributors=\n|Order=6}}\nAccording to the DSM 5, the possible etiologies of major or mild neurocognitive disorders are :\n\n\nAlzheimer's disease,\n\nFrontotemporal degeneration\n\nLewy body disease\n\nNeurovascular encephalopathy\n\nSecondary to cerebral trauma\n\nSecondary to substance use\n\nSecondary to HIV infection\n\nParkinson's disease\n\nPrion disease\n\nHuntington's disease\n\nMultiple etiologies",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What are the possible etiologies of major or mild neurocognitive disorders according to the DSM 5?",
+        "description": "Choose the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Alzheimer's disease and Frontotemporal degeneration",
+        "description": "Two of the possible etiologies of neurocognitive disorders",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Alzheimer's disease, Lewy body disease, and Parkinson's disease",
+        "description": "Three of the possible etiologies of neurocognitive disorders",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Alzheimer's disease, Lewy body disease, and Prion disease",
+        "description": "Three of the possible etiologies of neurocognitive disorders",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Alzheimer's disease, Lewy body disease, and Multiple etiologies",
+        "description": "Two of the possible etiologies of neurocognitive disorders",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

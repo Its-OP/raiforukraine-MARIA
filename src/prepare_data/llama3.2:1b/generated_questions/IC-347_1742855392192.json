@@ -1,0 +1,22 @@
+{
+  "folder": "IC-347",
+  "content": "{{knowledge objective\n|Identifiant=OIC-347-10-B\n|Item_parent=Acute urine retention\n|Item_parent_short=Acute urine retention\n|Rank=B\n|Title=Knowing the respective indications for bladder catheterisation and suprapubic catheterisation\n|Description=None\n|Topic=Management\n|Contributors=Jonathan Olivier\n|Order=10}}\n\nAny acute retention of urine is a therapeutic emergency, requiring bladder drainage, either trans-urethral or suprapubic. The type of drainage chosen depends on the context and the weaning objectives.\n{| class=\"wikitable\"\n|\n|'''Bladder catheterisation''''\n|Suprapubic catheterisation\n|-\n|'''Advantages'''\n|Simple\n\nSlope drainage\n\nAllows the bladder to be washed (haematuria: decaillotage)\n|Clamping test possible (assessment of voiding recovery)\n\nAvoiding the risk of urethral malpractice\n|-\n|'''Disadvantages''''\n|No clamping test possible\n\nRisk of false urethral routes\n|Non-decubitus drainage\n\nDoes not allow bladder cleansing (haematuria)\n|-\n|'''Contraindications''''\n|Urethral trauma\nStenosis of the urethra\n\nTrauma to the pelvis\n|Bladder tumour (risk of tumour spreading)\n\nAnticoagulation (risk of bladder clotting)\n\nDiagnostic doubt (risk of intestinal damage)\n\nCross-vascular bypass\n\nPresence of subumbilical scars (relative CI)\n|}\nCI : Contraindication\n<br />",
+  "question": {
+    "properties": {
+      "question": "What is the primary indication for bladder catheterisation?",
+      "option_a": "Acute urinary retention in a patient with a history of bladder cancer",
+      "option_b": "Acute urinary retention in a patient with a history of bladder surgery",
+      "option_c": "Acute urinary retention in a patient with a history of urinary tract infections",
+      "option_d": "Acute urinary retention in a patient with a history of kidney stones",
+      "correct_option": "option_a"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

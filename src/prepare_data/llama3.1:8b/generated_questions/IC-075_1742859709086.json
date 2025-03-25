@@ -1,0 +1,12 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-20-A\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=A\n|Title=Knowing how to diagnose addiction\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=20}}\n'''Nicotine is the main agent responsible for addiction'''\n\n'''Tobacco use harmful to health (ICD-10 criteria)'''\n\n* Consumption that is harmful to health but does not meet the criteria for dependence.\n* Complications may be physical or psychological, but the patient is unaware of the links between harm and consumption.\n\n''Tobacco dependence (ICD-10 criteria)'': at least 3 of the following criteria:\n\n*Strong or compulsive desire to smoke\n*Difficulties in controlling tobacco use (initiation or interruption of consumption or levels of use);\n*Withdrawal syndrome when cutting down or stopping.\n*Tolerance (increasing doses to obtain the same effects).\n*Giving up other sources of pleasure and interest in favour of tobacco use or increasing the time spent obtaining the substance, using it or recovering from its effects.\n*Continued use of the substance despite the occurrence of harmful consequences.",
+  "question": {
+    "question": "What is the main agent responsible for addiction in the context of smoking?",
+    "option_a": "Cigarette tar",
+    "option_b": "Nicotine",
+    "option_c": "Carbon monoxide",
+    "option_d": "Hydrogen cyanide",
+    "correct_option": "B"
+  }
+}

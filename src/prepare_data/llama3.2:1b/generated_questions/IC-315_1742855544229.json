@@ -1,0 +1,12 @@
+{
+  "folder": "IC-315",
+  "content": "{{knowledge objective\n|Identifiant=OIC-315-07-B\n|Item_parent=Acute leukaemia\n|Item_parent_short=Acute leukaemia\n|Rank=B\n|Title=Knowing the diagnostic value of the myelogram\n|Description=None\n|Topic=Positive diagnosis\n|Contributors=\n|Order=7}}\nPositive diagnosis is based on morphological/cytological examination of the tissue of origin, the bone marrow, by bone marrow aspiration. This examination leads to a positive diagnosis of the disease based on a cytological examination (myelogram showing a rich marrow with a marrow infiltrate \u2265 20% blasts, which is usually sufficient to differentiate between AML and ALL, although immunophenotyping is sometimes necessary for this), and enables immunophenotypic (AML, ALL-B, ALL-T), cytogenetic (analysis of leukaemic cell chromosomes) and molecular (gene analysis) characterisation of the disease blasts using various complementary techniques.",
+  "question": {
+    "question": "What is the primary diagnostic method for acute leukaemia?",
+    "option_a": "Bone marrow aspiration and cytological examination",
+    "option_b": "Morphological examination of the bone marrow",
+    "option_c": "Immunophenotyping of the disease blasts",
+    "option_d": "Cytogenetic analysis of leukaemic cell chromosomes",
+    "correct_option": "option_a"
+  }
+}

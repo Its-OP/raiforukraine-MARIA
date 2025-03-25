@@ -1,0 +1,46 @@
+{
+  "folder": "IC-234",
+  "content": "{{knowledge objective\n|Identifiant=OIC-234-19-A\n|Item_parent=Adult heart failure\n|Item_parent_short=Adult heart failure\n|Rank=A\n|Title=Know the main dietary hygiene measures, the principles of therapeutic education and cardiac rehabilitation.\n|Description=Principles of the low-salt diet, importance of compliance with treatment, knowledge of warning signs\n|Rubric=Management\n|Contributors=Olivier Huttin\n|Order=19}}\nTherapeutic lifestyle modification:\n\n\n- The ''low salt diet'' means banishing the salt shaker from the table, no longer adding salt to the cooking water and giving the patient a detailed list of the foods containing the most salt. A low-salt diet: at least 5 to 6 g of salt a day.\n\n- Avoid alcohol and tobacco, particularly in cases of dilated cardiomyopathy thought to be toxic in origin, and stop smoking.\n\n- Promotion of physical activity:'''''exercise encouraged. regular, prolonged physical activity (walking, for example) at a pace that does not make the patient out of breath.\n\n\n'''Monitoring of weight and symptoms''' regular weighing enables patients to seek advice quickly if they gain 2 to 3 kg in weight\n\n\n- '''Work and professional reintegration''' pursuit of a professional activity avoiding major physical effort (handling, carrying loads, building and public works) certain high-risk jobs (lorry or public transport driver, for example) as well as shifting hours. application for invalidity or adapted post depending on the disability.\n\n- '''Vaccinations:''' influenza and pneumococcal vaccinations\n\n\n- Setting up outpatient monitoring as part of a care network with therapeutic education, remote monitoring and cardiac rehabilitation\n\n\n- Cardiac rehabilitation",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary goal of therapeutic lifestyle modification in adult heart failure?",
+        "description": "A list of strings describing the main objectives of therapeutic lifestyle modification",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To completely eliminate all sources of salt from the diet",
+        "description": "A possible answer that may be plausible but incorrect",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "To promote regular physical activity and exercise",
+        "description": "A correct answer that aligns with the principles of therapeutic lifestyle modification",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "To solely focus on weight monitoring and symptom management",
+        "description": "A distractor that may be misleading but is not the primary goal",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "To restrict all physical activity and rest",
+        "description": "A distractor that is the opposite of the correct answer",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The correct letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

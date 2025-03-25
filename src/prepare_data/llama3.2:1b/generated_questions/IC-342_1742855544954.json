@@ -1,0 +1,12 @@
+{
+  "folder": "IC-342",
+  "content": "{{knowledge objective\n|Identifiant=OIC-342-21-A\n|Item_parent=Sickness, loss of consciousness, coma in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=A\n|Title=Know the principles of management of a comital seizure\n|Description=Know the principles of long-acting treatments to be combined with short-acting treatments.\n|Rubric=Management\n|Contributors=\n|Order=21}}\n\n{| class=\"wikitable\"\n|cf item 105\n|}",
+  "question": {
+    "question": "What is the primary goal of administering short-acting treatments in the management of a comatose seizure?",
+    "option_a": "To immediately reverse the coma and restore consciousness",
+    "option_b": "To suppress the seizure activity and prevent further injury",
+    "option_c": "To provide a temporary pain relief and alleviate discomfort",
+    "option_d": "To stimulate the brain and increase alertness",
+    "correct_option": "option_a"
+  }
+}

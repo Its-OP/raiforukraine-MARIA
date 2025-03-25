@@ -1,0 +1,12 @@
+{
+  "folder": "IC-107",
+  "content": "{{knowledge objective\n|Identifiant=OIC-107-03-A\n|Item_parent=Anomalous movements\n|Item_parent_short=Anomalous movements\n|Rank=A\n|Title=Cite the main drugs likely to induce the different types of abnormal movements.\n|Description=Neuroleptics and other treatments\n|Rubric=Etiologies\n|Contributors=\n|Order=3}}\nIatrogenic parkinsonian syndrome which may be characterised by tremor is most often due to neuroleptics (antipsychotics) or hidden neuroleptics, justifying systematic research into the use of these drugs ([[Suspicion of an adverse drug reaction or care SD-348|suspicion of an adverse drug reaction or care]]).\n\nThe exaggeration of a physiological tremor may be the result of a number of drugs (amiodarone, amytriptilline, antidepressants, salbutamol, theophylline, tacrolimus, interferon, ciclosporin).\n\nThere is always a [[Suspicion of an adverse reaction to medication or treatment SD-348|suspicion of an adverse reaction to medication or treatment]] also in the case of chorea. L-dopa and dopaminergic agonists (responsible for peak dose dyskinesias also known as mid-dose dyskinesias), antipsychotics, antiepileptics, lithium, calcium channel blockers, cocaine, amphetamines or toxic drugs (carbon monoxide).\n\nIn the presence of dystonia, a systematic search should be made for the use of antipsychotics (sometimes hidden).\n\nMedication can cause myoclonus: antidepressants, serotonin reuptake inhibitors, L-dopa, valproate.",
+  "question": {
+    "question": "Which of the following drugs is most likely to induce abnormal movements such as tremor?",
+    "option_a": "Amiodarone",
+    "option_b": "L-dopa and dopaminergic agonists",
+    "option_c": "Antidepressants",
+    "option_d": "Tacrolimus",
+    "correct_option": "A"
+  }
+}

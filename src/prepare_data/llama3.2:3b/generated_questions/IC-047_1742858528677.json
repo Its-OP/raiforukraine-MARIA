@@ -1,0 +1,46 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-32-A\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=A\n|Title=Knowing the compulsory medical examinations for infants and children.\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=32}}\n20 compulsory examinations: day 8 (certificate no. 1): during the first 8 days, 14 days (2<sup>th</sup> week), 1 month, 2 months, 3 months, 4 months, 5 months, 6 months, 9 months (certificate no. 2), 12 months, 13 months, 16-18 months, 24-25 months (certificate no. 3), 3 years, 4 years, 5 years, 6 years, 8-9 years, 11-13 years, 15-16 years",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the purpose of the 14-day examination (2nd week) in the compulsory medical examinations for infants and children?",
+        "description": "The 14-day examination is a routine check-up to monitor the child's growth and development.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To detect any signs of illness or disease",
+        "description": "The 14-day examination is primarily focused on detecting any signs of illness or disease in the child.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "To assess the child's cognitive development",
+        "description": "The 14-day examination is also used to assess the child's cognitive development and identify any potential delays.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "To evaluate the child's motor skills and coordination",
+        "description": "The 14-day examination is used to evaluate the child's motor skills and coordination, including their ability to walk and run.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "To screen for orthopaedic abnormalities",
+        "description": "The 14-day examination is also used to screen for orthopaedic abnormalities, such as scoliosis or other musculoskeletal issues.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "d",
+        "description": "",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-242",
+  "content": "{{knowledge objective\n|Identifiant=OIC-242-01-A\n|Item_parent=Hyperthyroidism\n|Item_parent_short=Hyperthyroidism\n|Rank=A\n|Title=Know the definition of hyperthyroidism and thyrotoxicosis\n|Description=None\n|Rubric=Definition\n|Contributors=Dr Camille Buffet,Dr Magalie Haissaguerre\n|Order=1}}\n\nHyperthyroidism = excess production of thyroid hormones linked to hyperfunction of the thyroid gland.\n\nThyrotoxicosis = consequences of excess thyroid hormones in target tissues, whatever the cause:\n\n* release of thyroid hormones, as in De Quervain's sub-acute thyroiditis, for example\n* hyperproduction of thyroid hormones by the thyroid gland, as in Graves' disease, for example\n* exogenous supply of thyroid hormones (factitious thyrotoxicosis).\n\n<br />",
+  "question": {
+    "question": "What is the definition of thyrotoxicosis?",
+    "option_a": "A condition where the thyroid gland is underactive",
+    "option_b": "Consequences of excess thyroid hormones in target tissues, whatever the cause",
+    "option_c": "A condition where the thyroid gland is overactive and produces too much thyroxine",
+    "option_d": "A condition where the thyroid gland is underactive and produces too little thyroxine",
+    "correct_option": "B"
+  }
+}

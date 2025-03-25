@@ -1,0 +1,46 @@
+{
+  "folder": "IC-132",
+  "content": "{{knowledge objective\n|Identifiant=OIC-132-04-B\n|Item_parent=Cognitive disorders in the elderly. (see item 108)\n|Item_parent_short=Cognitive disorders in the elderly. (see item 108)\n|Rank=B\n|Title=Know how to diagnose Lewy body disease.\n|Description=Know the positive clinical elements which allow the diagnosis to be made.\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=4}}\nLewy body disease (LBD) is one of the three main causes of dementia in the elderly.\n\nLewy bodies are intra-neuronal aggregates of alpha-synuclein described in Parkinson's disease (PD) and MCL.\n\nThe clinical signs of this disease combine the presence of ''progressive cognitive disorders'' (mainly impairment of executive functions, attentional capacities, visual functions), with (according to Mc Keith 2017 CLINICAL criteria):\n\n*Parkinsonian syndrome, especially akineto-rigid,\n*Behavioural disorders during REM sleep, with a sensation of \"waking dreams\" or even violent nightmares (= loss of hypotonia during REM sleep).\n*Early visual hallucinations\n*Fluctuations\n\nbut also\n\n*Dysautonomia with orthostatic hypotension\n*Hypersensitivity to neuroleptics\n*Hypersomnia\n*Apathy\n*Auditory and somaesthetic hallucinations, etc.\n*Hypposmia\n*Anxiety - depression",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What are the clinical signs of Lewy body disease?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Progressive cognitive disorders, Parkinsonian syndrome, and early visual hallucinations",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Parkinsonian syndrome, behavioral disorders during REM sleep, and early visual hallucinations",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Progressive cognitive disorders, dysautonomia, and hypersomnia",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Parkinsonian syndrome, behavioral disorders during REM sleep, and early visual hallucinations, as well as dysautonomia and hypersomnia",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

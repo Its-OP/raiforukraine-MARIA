@@ -1,0 +1,46 @@
+{
+  "folder": "IC-330",
+  "content": "{{knowledge objective\n|Identifiant=OIC-330-09-A\n|Item_parent=Prescription and monitoring of the most common classes of medicines in adults and children, excluding anti-infectives (see item 177). Knowing the correct use of the main therapeutic classes.\n|Item_parent_short=Prescribing and monitoring the most common classes of medicines for adults and children, excluding anti-infectives (see item 177). Knowing the correct use of the main therapeutic classes.\n|Rank=A\n|Title=Benzodiazepines: mechanisms of action, indications, side-effects, drug interactions, monitoring procedures and main causes of failure.\n|Description=Knowing the mechanisms of action\n|Rubric=Management\n|Contributors=\n|Order=9}}\nSee ITEM 74",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary mechanism of action of benzodiazepines?",
+        "description": "The mechanism of action of benzodiazepines",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Inhibition of serotonin reuptake",
+        "description": "A possible mechanism of action of benzodiazepines",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Increase in dopamine release",
+        "description": "A secondary effect of benzodiazepines",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Enhancement of GABA activity",
+        "description": "The primary mechanism of action of benzodiazepines",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Blockade of NMDA receptors",
+        "description": "A mechanism of action of some anxiolytic drugs",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "C",
+        "description": "The correct letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

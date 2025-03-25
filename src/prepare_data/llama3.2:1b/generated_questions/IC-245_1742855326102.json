@@ -1,0 +1,23 @@
+{
+  "folder": "IC-245",
+  "content": "{{knowledge objective\n|Identifiant=OIC-245-09-A\n|Item_parent=Adrenal insufficiency in adults and children\n|Item_parent_short=Adrenal insufficiency in adults and children\n|Rank=A\n|Title=Knowing the two main causes of adrenal insufficiency: corticosteroid therapy and tumours of the hypothalamo-hypophyseal region.\n|Description=None\n|Rubric=Etiologies\n|Contributors=Claire Briet,St\u00e9phanie Espiard\n|Order=9}}\nThe most frequent cause is the interruption of prolonged corticosteroid therapy ([[Prescribe systemic or local corticosteroids SD-251]]) :\n\n* During oral corticosteroid therapy, the pituitary-adrenal axis is constantly slowed down.\n* the adrenocortical axis does not recover immediately on discontinuation of a dose > 7 mg prednisone equivalent for 3 to 4 weeks.\n* It is also possible to use routes of administration other than the oral route: percutaneous corticosteroid therapy, intramuscular corticosteroid therapy (delayed-acting forms), inhaled corticosteroid therapy +++.\n* During a reduction in corticosteroid therapy, decompensation may occur if the dose is less than 5 mg prednisone equivalent.\n\n\nThe other most common cause is tumours of the hypothalamic-pituitary region. (see [[Pituitary adenoma]]).",
+  "question": {
+    "properties": {
+      "question": "What is the most common cause of adrenal insufficiency?",
+      "option_a": "Tumours of the hypothalamic-pituitary region",
+      "option_b": "Corticosteroid therapy",
+      "option_c": "Prolonged corticosteroid therapy",
+      "option_d": "Hypothalamic-pituitary axis",
+      "correct_option": "option_a"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d"
+    ],
+    "required_count": 5,
+    "required_count_type": "array"
+  }
+}

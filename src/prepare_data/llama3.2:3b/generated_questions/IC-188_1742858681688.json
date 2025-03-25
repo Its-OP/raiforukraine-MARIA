@@ -1,0 +1,46 @@
+{
+  "folder": "IC-188",
+  "content": "{{knowledge objective\n|Identifiant=OIC-188-13-B\n|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Rank=B\n|Title=Knowing the indications for immunoallergic tests\n|Description=Use of specific IgE and provocation tests\n|Rubric=Additional tests\n|Contributors=\n|Order=13}}\n[Prescription and interpretation of allergological tests (patch tests, prick tests, i dr) SD-237|Indication of immuno-allergic tests (prick test and specific IgE assay)\n\no When asthma is diagnosed\n\no Diagnosis of chronic rhinitis of suspected allergic origin.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the indication for performing an immuno-allergic test?",
+        "description": "Use of specific IgE and provocation tests",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "When asthma is diagnosed",
+        "description": "A common indication for performing an immuno-allergic test",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "When rhinitis is suspected to be of allergic origin",
+        "description": "A common indication for performing an immuno-allergic test",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "When a patient has a history of allergies",
+        "description": "A possible indication for performing an immuno-allergic test",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "When a patient has a fever above 38\u00b0C",
+        "description": "Not a typical indication for performing an immuno-allergic test",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "folder": "IC-100",
+  "content": "{{knowledge objective\n|Identifiant=OIC-100-02-A\n|Item_parent=Unusual acute and chronic headache in adults and children\n|Item_parent_short=Unusual acute and chronic headache in adults and children\n|Rank=A\n|Title=Know the main causes of headache requiring emergency treatment and their clinical presentation.\n|Description= brutal onset, progressive onset\n|Rubric=Identification of the emergency\n|Contributors=\n|Order=2}}\n- '''Two syndromes are absolute emergencies requiring systematic hospitalisation'''\n\n{| class=\"wikitable\"\n|Meningitis syndrome\n|'''Diagnostic orientation'''\n|-\n|<nowiki>- </nowiki>''''[[Headache SD-118|Headache]]'''': helmet-shaped, diffuse, intense, resistant to analgesics. Sudden onset, subacute or progressive depending on cause.\n\n- Vomiting SD-013|Vomiting]''' inconstant; effortless, in spurts and temporarily relieves the headache.\n\n- '''Photophobia'''\n\n- Shotgun attitude\n\n- Stiff neck, positive meningeal manoeuvres\n\n- [[Hyperthermia/fever SD-044|'''Elevated''''body temperature]] or normal\n|<nowiki>- Meningitis syndrome + </nowiki>'''[[Hyperthermia/fever SD-044|fever]] ='''' suspicion of infectious '''meningitis''' ('''<u>item 151</u>'''') \u00e8 '''Immediate lumbar puncture without prior scan''''\n\n\n- Meningeal syndrome + '''normal temperature''' + '''sudden''' onset = suspicion of ''''HSA (<u>item 341)</u>''' ''Immediate brain scan then LP if normal scan''\n<br />\n|-\n|'''Intracranial hypertension syndrome''''\n|'''Diagnostic orientation'''\n|-\n|<nowiki>- </nowiki>''''[[Headache SD-118|Headache]]''''': helmet-mounted, diffuse, intense, morning, exaggerated by cough/effort/decubitus, resistant to analgesics. Onset often gradual, sometimes sudden.\n\n- '''[[Vomiting SD-013|Vomiting]]'''': inconstant; effortless, in spurts and temporarily relieves the headache.\n\n- '''[[Coma and disorders of consciousness SD-028|Disorder of vigilance]]''': obnubilation, confusion, coma.\n\n- Horizontal [[Diplopia SD-143|Diplopia]] (uni or bilateral VI involvement)\n\n- Visual eclipses: transient, late bilateral loss of vision (due to severe papilloedema)\n\n- Bilateral papilloedema at the fundus\n\n- Infant: fontanel bulge, augmented PC\n|<nowiki>- </nowiki>''Space-occupying process'': intracranial tumour (''<u>item 299</u>''), subdural haematoma, abscess\n\n- '''Hydrocephalus'''\n\n- Cerebral venous thrombosis\n\n\u00e8 ''Emergency CT scan or MRI (without or with injection)\n\n\u00e8 ''LP contraindicated BEFORE brain imaging but imperative AFTER normal brain imaging or imaging suggesting a meningeal process''\n|}\n\n\n- '''Also refer to the emergency department any patient who presents''' ([[Headache SD-118|headache]]; [[Assessment and management of acute pain SD-259|assessment and management of acute pain]])''' :''''\n\no a \"brutal\" headache (maximum in less than an hour), or even a thunderclap headache (maximum intensity in less than a minute) => SAH until proven otherwise;\n\no a headache that is ''recent or of recent aggravation'' (< 7 days) and ''unusual'' => HTIC until proven otherwise;\n\no headache associated with ''[[Hyperthermia/fever SD-044|fever]]''' (in the absence of an obvious general cause such as a viral syndrome during an epidemic) => infectious meningitis;\n\no headache associated with \"neurological signs\" (anisocoria, cranial nerves, central neurological deficit);\n\no a headache suggestive of CO intoxication;\n\no headache in the context of immunodepression.\n\n\n- The absence of any associated symptoms and a normal clinical examination do not rule out a secondary headache and should not delay further investigations if the headache is recent, unusual and persistent. [Reasoned request/prescription and choice of diagnostic test SD-178|(reasoned request/prescription and choice of diagnostic test)]]\n\n\n- Migraine sufferers often present with a severe attack. If the questioning is reliable and the patient recognises \"his\" usual migraine attack, investigations are not necessary and treatment will be given to relieve the attack.\n\n- Red flags in children: drop in school results; persistent unilateral localisation; epileptic seizures ([[Convulsions SD-120|convulsions]]); new-onset clumsiness; behavioural problems; change in staturo-ponderal curve; parental concern; age < 3 years (rare primary headaches); rapid increase in head circumference; murmur on auscultation of the fontanelle; recent strabismus or drop in visual acuity.<br />\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the immediate next step for a patient suspected of having infectious meningitis?",
+        "description": "The patient presents with headache, vomiting, photophobia, and stiff neck, and has a fever.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Perform a lumbar puncture without prior imaging",
+        "description": "This option is incorrect because it is not recommended to perform a lumbar puncture without prior imaging in cases of suspected meningitis."
+      },
+      "option_b": {
+        "title": "Perform a brain scan and then a lumbar puncture",
+        "description": "This option is correct because it is the recommended approach for a patient suspected of having meningitis, as it allows for the identification of a space-occupying process before performing a lumbar puncture."
+      },
+      "option_c": {
+        "title": "Perform a lumbar puncture and then a brain scan",
+        "description": "This option is incorrect because it is not the recommended approach, as it may delay the diagnosis of a space-occupying process."
+      },
+      "option_d": {
+        "title": "Observe the patient and perform a lumbar puncture if symptoms worsen",
+        "description": "This option is incorrect because it may delay the diagnosis and treatment of meningitis, which can lead to serious complications."
+      },
+      "correct_option": {
+        "title": "Perform a brain scan and then a lumbar puncture",
+        "description": "This option is correct because it is the recommended approach for a patient suspected of having meningitis, as it allows for the identification of a space-occupying process before performing a lumbar puncture."
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

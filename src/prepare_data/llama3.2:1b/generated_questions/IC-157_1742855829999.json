@@ -1,0 +1,12 @@
+{
+  "folder": "IC-157",
+  "content": "{{knowledge objective\n|Identifiant=OIC-157-18-B\n|Item_parent=Bacteremia/Fungemia in adults and children\n|Item_parent_short=Bacteremia/Fungemia in adults and children\n|Rank=B\n|Title=Know how to monitor the progress of bacteraemia/fungaemia under treatment\n|Description=None\n|Topic=Monitoring and/or prognosis\n|Contributors=\n|Order=18}}\nMonitoring of severity criteria (possibility of secondary onset): signs of shock or organ failure, secondary infectious localisations, etc.\n\nApyrexia obtained in 3-5 days under well-managed treatment, daily search for other secondary lesions\n\nMonitoring treatment tolerance\n\nFollow-up of blood cultures under systematic treatment if: Staphylococcus aureus bacteremia, candidemia, endocarditis, clinically unfavourable evolution\n\nIf the fever persists, the following steps should be taken:\n\n*Check the progress of the infection: control of the portal of entry, treatment of secondary sites, drainage of an abscess/empyema, removal of colonised equipment, etc;\n*Check that antibiotic therapy is appropriate: antibiogram, dosage, routes of administration, spread to infected sites (bone, meninges, vegetations); rate of administration; serum dosage.\n*Look for complications: healthcare-associated infections (including C. difficile colitis, catheter-related infections), drug-induced fever, thromboembolic complications.\n*Look for candidaemia (fungal blood cultures) if not already done and if there are risk factors.",
+  "question": {
+    "question": "What is the appropriate next step in managing a patient with bacteremia or fungemia who has been afebrile for 3-5 days under well-managed treatment?",
+    "option_a": "Check the progress of the infection: control of the portal of entry, treatment of secondary sites, drainage of an abscess/empyema, removal of colonised equipment, etc.",
+    "option_b": "Follow-up of blood cultures under systematic treatment if: Staphylococcus aureus bacteremia, candidemia, endocarditis, clinically unfavourable evolution",
+    "option_c": "Look for complications: healthcare-associated infections (including C. difficile colitis, catheter-related infections), drug-induced fever, thromboembolic complications.",
+    "option_d": "Check that antibiotic therapy is appropriate: antibiogram, dosage, routes of administration, spread to infected sites (bone, meninges, vegetations); rate of administration; serum dosage.",
+    "correct_option": "option_a"
+  }
+}

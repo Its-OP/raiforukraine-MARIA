@@ -1,0 +1,46 @@
+{
+  "folder": "IC-094",
+  "content": "{{knowledge objective\n|Identifiant=OIC-094-16-B\n|Item_parent=Rachialgia\n|Item_parent_short=Rachialgia\n|Rank=B\n|Title=Knowing the diagnostic approach to coccygodynia\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Bisseriex H\u00e9l\u00e8ne,Nguyen Christelle\n|Order=16}}\n\n'''Positive diagnosis:'''\n\n- pain localised to the coccygeal area, without significant radiation\n\n- reproduced by palpation/mobilisation of the coccyx or sacro-coccygeal region\n\n- exacerbated by sitting and/or rising from a seated position\n\n- functional discomfort: sitting (in the car, at work, etc.)\n\n'''Etiological referral:''' pain in the seat > suspected subluxation and/or fracture\n\n'''Recherche facteur d\u00e9clenchant :'''\n\n- trauma: very short delay between trauma and pain = certain liability; delay < 1 month = very likely liability; delay > 3 months, unlikely liability\n\n- obesity/pregnancy = risk factor for subluxation\n\n'''Differential diagnosis''': sacroiliac pain, anal '''[[Anal pain SDD-005|(anal pain)]]''', lumbar with coccygeal irradiation, pudendal neuralgia '''[[Pelvic pain SDD-099|(pelvic pain,]]''' '''[[Testicular pain SDD-100|testicular pain)]]''''\n\n'''Duration of evolution:''' acute or chronic (most acute coccygodynia heals spontaneously within a few weeks)\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary diagnostic approach to coccygodynia?",
+        "description": "A question about the diagnostic approach to coccygodynia",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Imaging studies",
+        "description": "Imaging studies are often used to diagnose coccygodynia",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Physical examination and medical history",
+        "description": "A thorough physical examination and medical history are crucial in diagnosing coccygodynia",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Blood tests and laboratory studies",
+        "description": "Blood tests and laboratory studies are often used to rule out other conditions",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Electromyography and nerve conduction studies",
+        "description": "Electromyography and nerve conduction studies are used to diagnose nerve damage",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Physical examination and medical history",
+        "description": "The first letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

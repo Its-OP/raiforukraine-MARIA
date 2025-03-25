@@ -1,0 +1,12 @@
+{
+  "folder": "IC-027",
+  "content": "{{knowledge objective\n|Identifiant=OIC-027-34-B\n|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Rank=B\n|Intitul\u00e9=Tabac et grossesse : conna\u00eetre la physiopathologie\n|Description=None\n|Rubric=Physiopathology\n|Contributors=Alexandre Vivanti, Philippe Deruelle\n|Order=34}}\nNot all foetuses are equal when faced with maternal smoking or passive smoking. The effect of smoking requires the interaction of multiple factors: socio-demographic, epidemiological or genetic.\n\nTobacco smoke contains more than 4,000 toxic products, some of which are metabolised by cytochrome P450 and glutathione S-transferase. The genes encoding these two enzymes have been studied in mothers who smoke. In the group of low-weight children, more patients were found to have a polymorphism in one or other of these two genes.\n\nAmong the toxic substances, nicotine is the most addictive. There is a dose effect between maternal smoking and foetal impairment. However, the effect of smoking seems to be more marked in the 3rd<sup>trimester</sup> of pregnancy, since patients who successfully stop smoking in the 1st<sup>trimester</sup> and 2nd<sup>trimester have newborns whose birth weight is hardly any different from that of non-smoking mothers.\n\n'''312. [[Prevention of foetal risks SD-312|Prevention of foetal risks]]''''\n\n'''314. ['''Prevention of tobacco-related risks SD-314|Prevention of tobacco-related risks]''''",
+  "question": {
+    "question": "Quel est le principal facteur de risque pour les enfants n\u00e9s aux mains de la fum\u00e9e de tabac?",
+    "option_a": "Socio-d\u00e9mographique",
+    "option_b": "\u00c9pid\u00e9miologique",
+    "option_c": "Gen\u00e9tique",
+    "option_d": "Risque li\u00e9 \u00e0 la toxicit\u00e9",
+    "correct_option": "option_c"
+  }
+}

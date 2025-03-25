@@ -1,0 +1,12 @@
+{
+  "folder": "IC-156",
+  "content": "{{knowledge objective\n|Identifiant=OIC-156-10-A\n|Item_parent=Infections in the bones and joints (IOA) of children and adults\n|Item_parent_short=Infections osteo articulaires (IOA) de l'enfant et de l'adulte\n|Rank=A\n|Title=Knowing the clinical signs of acute septic arthritis\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Dr Florent Valour\n|Order=10}}\n- Location: monoarticular (80%), knee (50%) and hip most often\n\n- Sudden onset\n\n- [[Hyperthermia/fever SD-044|Fever/hyperthermia]] (50%)\n\n- [[Joint pain SD-067|Joint pain]] and functional impotence (85%), analgesic attitude, [[Lameness SD-068|lameness]], [[Appearance of difficulty in walking SD-066|appearance of difficulty in walking]]\n\n- Mobilisation of the extremely painful joint\n\n- Joint effusion (patellar shock for the knee, for example) and inflammatory signs (clinically assessable for superficial joints)\n\n- Systematic search for signs of severity (sepsis), a portal of entry, other secondary sites of bacteremia, signs of infective endocarditis, etc.",
+  "question": {
+    "question": "What are the typical clinical signs of acute septic arthritis?",
+    "option_a": "Bilateral involvement and polyarticular pain",
+    "option_b": "Sudden onset of fever, joint pain, and functional impotence, with a painful and swollen joint",
+    "option_c": "Fever and joint pain, but the joint is not painful to mobilize",
+    "option_d": "Polyarticular pain with no fever or joint pain",
+    "correct_option": "B"
+  }
+}

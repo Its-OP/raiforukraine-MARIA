@@ -1,0 +1,12 @@
+{
+  "folder": "IC-336",
+  "content": "{{knowledge objective\n|Identifiant=OIC-336-10-B\n|Item_parent=Non-traumaticoma in adults and children\n|Item_parent_short=Non-traumatic coma in adults and children\n|Rank=B\n|Title=Know the indications for emergency MRI in adults and children\n|Description=In particular, to know the indications for emergency MRI (neurovascular pathway)\n|Section=Additional examinations\n|Contributors=Nicolas Weiss\n|Order=10}}\n\n- Brain MRI more sensitive than CT scan\n\n- Preferred as 1st intention if available in case of :\n\no suspected ischaemic stroke (basilar trunk thrombosis, malignant sylvian stroke)\n\no suspected encephalitis\n\n- don't hesitate to call a vascular neurology service for help",
+  "question": {
+    "question": "What is the preferred imaging modality for suspected ischaemic stroke in adults and children?",
+    "option_a": "CT scan",
+    "option_b": "MRI",
+    "option_c": "CT scan",
+    "option_d": "MRI",
+    "correct_option": "MRI"
+  }
+}

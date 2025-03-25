@@ -1,0 +1,12 @@
+{
+  "folder": "IC-312",
+  "content": "{{knowledge objective\n|Identifiant=OIC-312-07-B\n|Item_parent=Breast tumours\n|Item_parent_short=Breast tumours\n|Rank=B\n|Title=Photographs of breast skin lesions/anomalies\n|Description=Bloody/lactescent discharge, flat spot, inflamed breast\n|Rubric=Multimedia content\n|Contributors=\n|Order=7}}\n\n[[File:SLIDE 2.jpg|vignette|Mammary asymmetry, left breast inflamed and edematous, orange peel appearance]]\n[[File:Slide 3.jpg|vignette|Mammary retraction (\"axe-like\") opposite the 3 o'clock radius of the left breast]]",
+  "question": {
+    "question": "What is the typical presentation of breast skin lesions/anomalies?",
+    "option_a": "A. Bloody discharge, redness, and swelling",
+    "option_b": "B. Bloody discharge, redness, and swelling, with a flat spot",
+    "option_c": "C. Bloody discharge, redness, and swelling, with a flat spot, and mammary asymmetry",
+    "option_d": "D. Bloody discharge, redness, and swelling, with a flat spot, and inflamed breast",
+    "correct_option": "C"
+  }
+}

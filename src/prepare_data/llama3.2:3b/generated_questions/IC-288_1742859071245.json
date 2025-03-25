@@ -1,0 +1,41 @@
+{
+  "folder": "IC-288",
+  "content": "{{knowledge objective\n|Identifiant=OIC-288-05-A\n|Item_parent=Hemorrhoidal pathology\n|Item_parent_short=Hemorrhoidal pathology\n|Rank=A\n|Title=Knowing how to diagnose haemorrhoidal thrombosis\n|Description=\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=5}}\n\nExternal haemorrhoidal thrombosis is a sensitive bluish swelling often associated with an oedematous reaction. It modifies the radial folds of the anus and is often fairly localised. The swelling is indurated on palpation and is often very tender. It does not require anoscopy for diagnosis (this examination is often painful in the acute phase of thrombosis and should be avoided). Haemorrhoidal attacks are associated, to varying degrees, with a sensation of cooking, tension or sharp pain in the anus, and late and infrequent bleeding.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a characteristic of external haemorrhoidal thrombosis?",
+        "description": "A multiple-choice question about the symptoms of external haemorrhoidal thrombosis",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "It is typically painful and requires anoscopy for diagnosis",
+        "description": "A plausible but incorrect option that may confuse respondents"
+      },
+      "option_b": {
+        "title": "It is often associated with a sensation of cooking or sharp pain in the anus",
+        "description": "A correct option that aligns with the symptoms described"
+      },
+      "option_c": {
+        "title": "It is usually localized to a single area and does not cause significant bleeding",
+        "description": "A plausible but incorrect option that may confuse respondents"
+      },
+      "option_d": {
+        "title": "It is typically asymptomatic and does not require medical attention",
+        "description": "A highly unlikely but plausible option that may confuse respondents"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct letter of the correct option"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

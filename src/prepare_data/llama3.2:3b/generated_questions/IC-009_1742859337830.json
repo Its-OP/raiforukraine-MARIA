@@ -1,0 +1,46 @@
+{
+  "folder": "IC-009",
+  "content": "{{knowledge objective\n|Identifiant=OIC-009-17-A\n|Item_parent=Introduction to medical ethics\n|Item_parent_short=Introduction to medical ethics\n|Rank=A\n|Title=Ethics at the end of life\n|Description=To understand the ethical issues associated with the end of life: autonomy, beneficence, non-maleficence, equity, quality of life, information, words, questions, mental and physical suffering, etc.\n|Rubric=Definition\n|Contributors=C\u00e9line Lef\u00e8ve\n|Order=17}}The end of life involves the following ethical issues and questions\n\n- The very definition of the concept of the end of life (there is great heterogeneity in the way the concept of the end of life is understood, and numerous indicators and scales are used to establish a prognosis). This complexity and uncertainty make it difficult to provide information that will enable us to define \"the time that remains\".\n\n- The ethical challenge when it comes to informing patients is to provide honest and clear information, in line with respect for patients' autonomy and their right to be informed about their state of health, as set out in the Kouchner Act of 4 March 2002, by creating the conditions for building a relationship of trust: by being attentive to the person's needs and emotional reactions, by allowing them to express themselves and by taking the time to answer their questions and expectations, by assuring them that healthcare professionals will support them all the way and by laying the foundations for future care.\n\n- Respect for the dignity of the individual as a human being (Kant) - whatever their vulnerability, state of weakness, dependence, ability to express themselves, etc. - and recognition of the common humanity shared by carers and cared for. - and the recognition of the common humanity shared by carers and cared for.\n\n- The relief, in accordance with the principle of beneficence, of a person's pain and suffering. While the two concepts can be distinguished for the purposes of analysis (the term pain can be reserved for affects felt in particular organs of the body or in the body as a whole, and the term suffering for affects that are open to reflexivity, language, the relationship with oneself, with others and to questioning), the two phenomena do interpenetrate, as pain can completely invade subjective experience and affect the relationship with oneself and with others, as well as the person's ability to think, to say and to act (Ricoeur).\n\n- Respect for the person's autonomy, including when they are unable to express themselves. This respect means trying to find out about the person's history, personal identity and, in particular, their own values or preferences, what is important to them and what defines them (which is essential, for example, in deciding where the end of life will take place - at home, in hospital, in a healthcare establishment). This respect for the individual's wishes is reflected in the 2016 Clayes-L\u00e9onetti Act, which requires medical decisions to be made in accordance with the individual's advance directives and the testimony of the trusted support person, or failing that, the person's close relatives.\n\n- Maintaining the person's status as a subject. This involves maintaining the person's involvement in personal relationships, offering relational support to enable them to develop the meaning they need for the end-of-life ordeal and, more broadly, for their existence, and maintaining their self-esteem.\n\n- The issue of respecting the autonomy of people at the end of their lives raises the question of how to take into account their possible request for death and the methods that society defines as acceptable for responding to it. While the demand for death varies according to the stage of the illness, the intensity of pain and suffering and the quality of treatment and care, it can also be ambivalent and in reality mean a demand for presence and care, and it can also persist. Should care at the end of life be limited to accompanying the dying process by relieving the person's suffering through the massive administration of analgesics, even if this means accelerating the moment of death but without intending to bring it about (according to the double effect argument whereby death, the foreseeable but unintended consequence of the act, remains secondary to the main aim, which is to avoid the suffering of the last moments)? Can it consist of providing a person at the end of life, whose suffering cannot be relieved and who expressly and persistently asks to be helped to die, with the means to take his or her own life (assisted suicide)? Or can care consist of actively and deliberately causing death (euthanasia) in response to a person's request?\n\n- The question of the decision-making process, which requires the implementation of an ethics of discussion during collegial and interdisciplinary deliberations. According to the philosopher J\u00fcrgen Habermas, decisions can be considered morally valid if they are the result of a discussion, i.e. an exchange of arguments that seeks agreement. However, reaching a consensus is no guarantee of the morality of the decision. What is important is that the discussion takes place in such a way as to give meaning to the decisions taken. It is also important that the decision-making process does not aim to apply general rules, but is based on the uniqueness and complexity of the situation.\n\n- The question of equity, i.e. access to appropriate care, in particular palliative care, taking into account the multiple inequalities that can affect people at the end of life (social, cultural, territorial inequalities, linked to their pathology, etc.).\n<br />\n\nReferences:\n\nC. Lef\u00e8ve, \"Can the right to death be recognised by medicine? A propos du dialogue radiophonique \" Le droit \u00e0 la mort \" (1975) entre G. Canguilhem et H. P\u00e9quignot\", in C. Lef\u00e8ve, C.- O. Doron & A. - C. Masquelet (eds.), in Soin et subjectivit\u00e9, Cahiers du Centre Georges Canguilhem, PUF, 2011, p. 13-52.\n\nJ. -M. Mouillie, \"L'euthanasie et la question de la mort\", in Coll\u00e8ge des Humanit\u00e9s m\u00e9dicales, M\u00e9decine, sant\u00e9 et sciences humaines. Manuel, Paris, Les Belles Lettres, pp. 302-319.\n\nP. Ricoeur, \"Suffering is not pain\", in C. Marin, N. Zacca\u00ef-Reyners (eds.), Souffrance et douleur. Autour de Paul Ricoeur, PUF, 2013.\n\nA. Zielinski, Part Two: Ethical Issues in Palliative Care, in Bioy, A., Van Lander, A., Mallet, D. & Belloir, M. (2020). Soins palliatifs: En 54 notions, Dunod, p. 33-56.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary goal of healthcare professionals when it comes to informing patients at the end of life?",
+        "description": "The question of how to provide information to patients at the end of life",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To provide a detailed prognosis and a list of treatment options",
+        "description": "A plausible but incorrect answer that focuses on the provision of factual information",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "To prioritize the patient's autonomy and respect their right to be informed",
+        "description": "The correct answer that emphasizes the importance of patient autonomy and informed consent",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "To alleviate the patient's suffering through the administration of analgesics",
+        "description": "A plausible but incorrect answer that focuses on symptom management",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "To involve the patient in a discussion about their own death",
+        "description": "A plausible but incorrect answer that implies a more active role for the patient in decision-making",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Option B",
+        "description": "The correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

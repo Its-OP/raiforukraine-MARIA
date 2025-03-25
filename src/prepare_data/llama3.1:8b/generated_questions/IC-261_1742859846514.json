@@ -1,0 +1,12 @@
+{
+  "folder": "IC-261",
+  "content": "{{knowledge objective\n|Identifiant=OIC-261-10-B\n|Item_parent=Glomerular nephropathy\n|Item_parent_short=Glomerular nephropathy\n|Rank=B\n|Title=Know the main ways in which SNLGM develops\n|Description=Know the circumstances that suggest corticosteroid-sensitive, corticosteroid-resistant and corticosteroid-dependent NS.\n|Topic=Follow-up and/or prognosis\n|Contributors=Eric Daugas,Bruno Moulin\n|Order=10}}\n\n'''Evolution/ prognosis: 3 possibilities'''\n\n* Corticosensitivity (80-90% of cases): disappearance of proteinuria. Relapse after discontinuation of treatment in 50% of cases, necessitating resumption of corticosteroid therapy.\n* Corticodependence: relapse after corticosensitivity occurring when corticosteroid therapy is reduced or rapidly after it is stopped. Often requires the addition of an immunosuppressant or immunomodulator.\n* Corticoresistance: non-response (10% of cases), risk (50%) of end-stage chronic renal failure within 5 years.\n\n<br />",
+  "question": {
+    "question": "What is the prognosis for a patient with SNLGM who does not respond to corticosteroid therapy?",
+    "option_a": "Corticosteroid-dependent NS, requiring the addition of an immunosuppressant or immunomodulator",
+    "option_b": "Corticosteroid-resistant NS, with a high risk of end-stage chronic renal failure within 5 years",
+    "option_c": "Corticosteroid-sensitive NS, with a high likelihood of relapse after treatment discontinuation",
+    "option_d": "Corticosteroid-independent NS, with a moderate risk of renal failure",
+    "correct_option": "B"
+  }
+}

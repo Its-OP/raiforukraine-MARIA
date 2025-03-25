@@ -1,0 +1,46 @@
+{
+  "folder": "IC-328",
+  "content": "{{knowledge objective\n|Identifiant=OIC-328-04-B\n|Item_parent=Non-drug therapies and medical devices\n|Item_parent_short=Non-drug therapies and medical devices\n|Rank=B\n|Intitle=Know the definition of small appliances and large appliances\n|Description=Definition of minor and major appliances and some examples\n|Rubric=Definition\n|Contributors=Bisseriex H\u00e9l\u00e8ne,De Boissezon Xavier\n|Order=4}}\n\n'''Petit appareillage''' = medical device, usually standard, which compensates for a deficient organic function\n\n- e.g. compression stockings, therapeutic footwear, lumbar belt, etc.\n\n- standard or low-temperature thermoplastic\n\n- on simple prescription and can be prescribed by non-specialists\n\n- inclusion on the LPPR, reimbursement at 60%.\n\n- in pharmacies, pedorthists or ortho-prosthetists\n\n\n'''[[Setting up and monitoring an immobilisation device SDD-243|Setting up and monitoring an immobilisation device]]''''\n\n'''[[Setting up and monitoring a mechanical restraint SDD-244|Setting up and monitoring a mechanical restraint]]''''\n\n'''[[Prescription of a simple fitting SDD-245|Prescription of a simple fitting]]''''\n\n\n'''Major equipment''' = medical devices such as orthoses or prostheses, including sophisticated technologies such as home automation.\n\n- e.g. myoelectric forearm prosthesis, custom articulated crural-pedal orthosis, speech synthesis device, etc.\n\n- made to measure\n\n- prescription on ''specific form with prior agreement''.\n\n- initial prescription by a ''specialist'' doctor, possible renewal by a ''general practitioner'' doctor\n\n- registered on the LPPR, reimbursed at 100% if ALD\n\n- designed by orthotists or pedorthists\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the definition of a major appliance in the context of medical devices?",
+        "description": "Choose the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "A device that compensates for a deficient organic function, such as compression stockings",
+        "description": "An example of a major appliance",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "A device that is made to measure and requires a specific form with prior agreement",
+        "description": "An example of a major appliance",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "A device that is usually standard and can be prescribed by non-specialists",
+        "description": "An example of a major appliance",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "A device that is registered on the LPPR and reimbursed at 100% if ALD",
+        "description": "An example of a major appliance",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

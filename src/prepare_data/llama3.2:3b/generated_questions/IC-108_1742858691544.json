@@ -1,0 +1,33 @@
+{
+  "folder": "IC-108",
+  "content": "{{knowledge objective\n|Identifiant=OIC-108-06-A\n|Item_parent=Confusion, dementia. (see item 132)\n|Item_parent_short=Confusion, dementia. (see item 132)\n|Rank=A\n|Title=Know the principles of therapeutic management of a confused patient.\n|Description=Emergency prescriptions and treatment of the cause.\n|Rubric=Management\n|Contributors=\n|Order=6}}\nMental confusion is a diagnostic and therapeutic ''medical emergency'', almost always requiring immediate hospitalisation because both the cause of the confusion and the confusion itself can be deleterious.\n\n- The first priority is to assess the short-term impact (vitals) and immediately treat any vital problems (shock, hypothermia, etc.).\n\n- The second stage is the search for the cause (see previous item), which is an integral part of the treatment: the treatment of the confusional episode cannot be considered independently of its cause.\n\n- Non-specific treatment :\n\no rehydration, if necessary by parenteral route; maintenance of nutrition ;\n\no frequent and regular monitoring of vital signs and consciousness ;\n\no Withdraw all non-essential drugs or use the smallest possible doses, avoid confusing psychotropic drugs (anticholinergics +++), unless there is a risk associated with abrupt withdrawal (benzodiazepines) '''([[Follow-up consultation for a patient with multiple drug dependence SD-266|consultation de suivi d'un patient polym\u00e9diqu\u00e9]])'''''\n\no sedative psychotropic drugs only if they are essential, in small doses and with precautions: prefer anxiolytic benzodiazepines with a short half-life (oxazepam) to neuroleptics, which are reserved for cases of major agitation posing a risk to the patient or those around them '''([[Agitation SDD-114|agitation]]; [[Prescribe a hypnotic/anxiolytic SDD-256|prescrire un hypnotique/anxiolytique]])''''\n\no assessment and management of acute pain '''([[Assessment and management of acute pain SD-259|assessment and management of acute pain]])''''\n\no A quiet patient in a single room with subdued lighting and an open door for surveillance;\n\no avoid, as far as possible, physical restraint, which aggravates agitation and anxiety '''([[Setting up and monitoring mechanical restraint SDD-244|Setting up and monitoring mechanical restraint]])''''\n\nIt is important not to be too quick to conclude that treatment is ineffective, as the confusional syndrome may take some time to regress.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the second stage of therapeutic management of a confused patient?",
+        "description": "A critical step in treatment after assessing short-term impact and treating vital problems",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Immediately treat the cause of the confusion",
+        "description": "The second stage is an integral part of the treatment"
+      },
+      "option_b": {
+        "title": "Withhold all non-essential medications",
+        "description": "Non-specific treatment: withdraw all non-essential drugs or use the smallest possible doses"
+      },
+      "option_c": {
+        "title": "Monitor vital signs and consciousness only",
+        "description": "Non-specific treatment: frequent and regular monitoring of vital signs and consciousness"
+      },
+      "option_d": {
+        "title": "Perform a thorough investigation to determine the cause of confusion",
+        "description": "The search for the cause is an integral part of the treatment"
+      },
+      "correct_option": {
+        "title": "D",
+        "description": "The second stage is the search for the cause (see previous item), which is an integral part of the treatment"
+      }
+    }
+  }
+}

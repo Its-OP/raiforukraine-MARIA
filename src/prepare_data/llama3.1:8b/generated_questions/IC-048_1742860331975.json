@@ -1,0 +1,12 @@
+{
+  "folder": "IC-048",
+  "content": "{{knowledge objective\n|Identifiant=OIC-048-04-A\n|Item_parent=Food and nutritional requirements of infants and children\n|Item_parent_short=Food and nutritional requirements of infants and children\n|Rank=A\n|Intitul\u00e9=Diversification de l'alimentation : savoir comment\n|Description=None\n|Rubric=Taking charge\n|Contributors=\n|Order=4}}\nDiversification consists of introducing infant cereals, vegetables, fruit, meat, fish and eggs into the diet. There is no solid scientific basis for recommending a precise order for introducing these different foods, but it is customary to start with fruit and vegetables before animal products.\n\nThe food should be mixed from 4 to 6 months, then ground from 8 to 10 months, then gradually increasing chunks should be introduced from the age of 10 months. This sequence is important to prevent oral problems such as refusal of chunks.\n\nIt is essential to add fats (butter or vegetable oils) to all savoury dishes for infants, whether homemade or in commercial jars, in order to meet their high lipid requirements.\n\nWhen a meal is fully diversified, around the age of 4-6 months, follow-on formulas replace infant formulas. Infant formulas are continued until the age of 10-12 months, when they are replaced by infant formulas or growing-up milks. The latter are recommended until at least 3 years of age, and often beyond, in order to meet iron requirements as effectively as possible and contribute to those of essential fatty acids.",
+  "question": {
+    "question": "What is the recommended age to introduce follow-on formulas in a child's diet?",
+    "option_a": "At birth, alongside infant formulas",
+    "option_b": "Around 4-6 months, after a meal is fully diversified",
+    "option_c": "At 10-12 months, when infant formulas are replaced",
+    "option_d": "At 12-18 months, after the child has started eating solid foods",
+    "correct_option": "B"
+  }
+}

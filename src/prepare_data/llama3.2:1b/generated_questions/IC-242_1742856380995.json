@@ -1,0 +1,12 @@
+{
+  "folder": "IC-242",
+  "content": "{{knowledge objective\n|Identifiant=OIC-242-08-B\n|Item_parent=Hyperthyroidism\n|Item_parent_short=Hyperthyroidism\n|Rank=B\n|Title=Knowing the indications for thyroid scintigraphy and ultrasonography\n|Description=Etiological diagnosis of hyperthyroidism\n|Section=Additional examinations\n|Contributors=Dr Camille Buffet,Dr Magalie Haissaguerre\n|Order=8}}\n\n[[File:Place of ultrasound and thyroid scintigraphy in the aetiological approach to hyperthyroidism.jpg|vignette]]",
+  "question": {
+    "question": "What is the primary indication for thyroid scintigraphy and ultrasonography?",
+    "option_a": "Thyroiditis",
+    "option_b": "Thyroid cancer",
+    "option_c": "Hypothyroidism",
+    "option_d": "Hyperthyroidism",
+    "correct_option": "option_c"
+  }
+}

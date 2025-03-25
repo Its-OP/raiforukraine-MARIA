@@ -1,0 +1,46 @@
+{
+  "folder": "IC-288",
+  "content": "{{knowledge objective\n|Identifiant=OIC-288-10-A\n|Item_parent=Hemorrhoidal pathology\n|Item_parent_short=Hemorrhoidal pathology\n|Rank=A\n|Intitle=Photographs of Prolapsed External and Internal Hemorrhoids\n|Description=\n|Rubric=Multimedia content\n|Contributors=\n|Order=10}}\n\n<gallery widths=\"340\" heights=\"340\">\nFile:Images external hemorrhoids and prolapsed internal hemorrhoids.PNG\n</gallery>'''A/B'''\n\nC/D\n\n'''<big>A</big>''' Normal appearance of the haemorrhoidal mucosa of the anal canal. Internal haemorrhoids do not bulge into the anoscopic lumen.\n\nThis is stage I\n\n'''<big>B</big>''' Normal appearance of the haemorrhoidal mucosa of the anal canal. Internal haemorrhoids bulge into the anoscopic lumen.\n\nThis is stage II\n\n'''C''' Internal haemorrhoids come out when you push, but then go back into the anal canal.\n\nThis is stage III\n\n'''<big>D</big>'''' Internal haemorrhoids are permanently externalized during a pushing effort: they are sometimes the seat of squamous metaplasia (lower part of the photo).\n\nThis is stage IV",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the characteristic of internal hemorrhoids at stage III?",
+        "description": "According to the photograph, what happens to internal hemorrhoids during a pushing effort?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "They are permanently externalized during a pushing effort",
+        "description": "This option describes a characteristic of internal hemorrhoids at stage IV",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "They come out when you push, but then go back into the anal canal",
+        "description": "This option describes a characteristic of internal hemorrhoids at stage II",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "They are sometimes the seat of squamous metaplasia (lower part of the photo)",
+        "description": "This option describes a characteristic of internal hemorrhoids at stage IV",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "They bulge into the anoscopic lumen",
+        "description": "This option describes a characteristic of internal hemorrhoids at stage I",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "C",
+        "description": "",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

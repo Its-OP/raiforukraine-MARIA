@@ -1,0 +1,12 @@
+{
+  "folder": "IC-351",
+  "content": "{{knowledge objective\n|Identifiant=OIC-351-02-A\n|Item_parent=Agitation and acute delirium\n|Item_parent_short=Agitation and acute delirium\n|Rank=A\n|Title=Know the definition of delusions and hallucinations\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=2}}\n'''[[Delusional Ideas SD-124|Delusional Ideas]] :'''' Alterations in the content of thought leading to a loss of contact with reality, not shared by the socio-cultural group.\n\n'''[[Hallucinations SD-122|Hallucinations]]:''' Sensory perception without the presence of a detectable object.",
+  "question": {
+    "question": "What is a characteristic of delusions?",
+    "option_a": "A change in the content of thought that is shared by the socio-cultural group",
+    "option_b": "A sensory perception without the presence of a detectable object",
+    "option_c": "An alteration in the content of thought leading to a loss of contact with reality, not shared by the socio-cultural group",
+    "option_d": "A change in the content of thought that is only present in sleep",
+    "correct_option": "C"
+  }
+}

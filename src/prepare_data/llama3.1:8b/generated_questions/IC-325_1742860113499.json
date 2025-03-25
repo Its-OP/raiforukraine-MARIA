@@ -1,0 +1,12 @@
+{
+  "folder": "IC-325",
+  "content": "{{knowledge objective\n|Identifiant=OIC-325-07-A\n|Item_parent=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medicinal errors (see items 4 and 5)\n|Item_parent_short=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medication errors (see items 4 and 5)\n|Rank=A\n|Title=Know the characteristics of ADRs in the elderly\n|Description=None\n|Section=Definition\n|Contributors=Marie Briet\n|Order=7}}\n\n\n== Characteristics of ADRs in elderly subjects ==\n\n* Increased frequency and severity (co-morbidities, multiple medications, age-related pharmacokinetic changes)\n* Varied symptomatology, atypical clinical presentations\n* Main drugs involved: cardiovascular drugs, psychotropic drugs, anticoagulants, non-steroidal anti-inflammatory drugs, etc.\n\n<br />",
+  "question": {
+    "question": "What is a characteristic of ADRs in elderly subjects?",
+    "option_a": "They are less severe and less frequent",
+    "option_b": "They are more severe and have varied symptomatology",
+    "option_c": "They are only caused by cardiovascular drugs",
+    "option_d": "They are not influenced by age-related pharmacokinetic changes",
+    "correct_option": "B"
+  }
+}

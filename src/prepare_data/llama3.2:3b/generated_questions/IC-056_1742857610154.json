@@ -1,0 +1,45 @@
+{
+  "folder": "IC-056",
+  "content": "{{knowledge objective\n|Identifiant=OIC-056-06-A\n|Item_parent=The disabled child: orientation and care (see items 118, 121)\n|Item_parent_short=The disabled child: orientation and care (see items 118, 121)\n|Rank=A\n|Intitul\u00e9=To know the definition of the departmental house of the handicapped people (MDPH)\n|Description=The role and description of the departmental centres for the disabled and their specific features for children.\n|Rubric=Definition\n|Contributors=\n|Order=6}}\nMDPH= Maison D\u00e9partementale des Personnes en Situation de Handicap (Departmental House for People with Disabilities)\n\nThe MDPH welcomes and informs disabled people and their families.\n\nParents of children with disabilities should contact the MDPH. A file must be completed. It includes a section to be completed by the family (life project), a medical section (medical project) to be completed by the child's referring doctor, and the GEVA-sco (guide to assessing compensation needs in terms of schooling) for school-age children.\n\nParents may need help with this process ([[Overall support for a carer SD-330|overall support for a carer]]<nowiki/>t , [[Precarious social situation and isolation SD-347| precarious social situation and isolation]]).\n\nMDPH for children :\n\n- Based on the life project, the CDAPH (Commission for the Rights and Independence of Disabled People) assesses the disability and compensation needs and draws up a personalised compensation plan (PPC).\n\n- For school-age children, the PPC includes the drawing up of a personalised schooling plan (PPS) by a multidisciplinary team (following a proposal from the ESS monitoring and schooling team).\n\n- notification of the allocation of benefits and services (educational and medico-social guidance AEEH, PCH, cards, etc.)\n\n\nPossible assistance\n\n- Financial benefits: AEEH, PCH\n\n- Referral to care facilities based on the main impairment\n\n- Schooling (mainstream environment with or without special teaching arrangements, with or without support from the SESSD/specialised teaching units in medico-social establishments and structures)\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the role of the Maison D\u00e9partementale des Personnes en Situation de Handicap (MDPH) in relation to children with disabilities?",
+        "description": "What is the primary function of the MDPH for children with disabilities?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To provide financial assistance to families",
+        "description": "The MDPH provides financial support to families of children with disabilities",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "To assess and draw up a personalized compensation plan (PPC) for children",
+        "description": "The MDPH assesses disability and compensation needs and draws up a personalized compensation plan for children",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "To provide schooling and educational guidance",
+        "description": "The MDPH provides schooling and educational guidance for children with disabilities",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "To monitor and evaluate the child's progress",
+        "description": "The MDPH monitors and evaluates the child's progress and development",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "option_b",
+        "description": "The MDPH assesses and draws up a personalized compensation plan (PPC) for children"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

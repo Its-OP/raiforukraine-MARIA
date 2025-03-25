@@ -1,0 +1,12 @@
+{
+  "folder": "IC-226",
+  "content": "{{knowledge objective\n|Identifiant=OIC-226-01-A\n|Item_parent=Deep vein thrombosis and pulmonary embolism (see item 330)\n|Item_parent_short=Deep vein thrombosis and pulmonary embolism (see item 330)\n|Rank=A\n|Title=Know the definition of deep vein thrombosis (DVT), proximal DVT, distal DVT, pulmonary embolism (PE) and high-risk PE.\n|Description=None\n|Section=Definition\n|Contributors=Gilles Pernod, Virginie Dufrost, Guillaume Mah\u00e9\n|Order=1}}\nDeep vein thrombosis (DVT) and pulmonary embolism (PE) are the two main entities of venous thromboembolic disease (VTE).\n\nDeep vein thrombosis\n\nThis is a partial or total venous obstruction caused by an endoluminal thrombus, which may be located throughout the venous tree, most often in the lower limbs.\n\nIn the lower limbs, DVT is :\n\n- or ''proximal'' (popliteal and suprapopliteal),\n\n- or \"distal\", i.e. sub-popliteal, involving the collecting trunks (posterior tibial, anterior tibial, fibular) or muscle veins (soleus, gastrocnemius).\n\n'''Pulmonary embolism'''\n\nPE occurs when a venous thrombus migrates into the pulmonary arteries.\n\n'''High-risk PE (severe PE):''''\n\n- PE associated with haemodynamic failure (systolic blood pressure (SBP) < 90 mmHg or drop in SBP \u2265 40 mmHg for more than 15 minutes), in the absence of another cause such as sepsis, arrhythmia or hypovolaemia.\n\n- mortality > 25%\n\n<br />",
+  "question": {
+    "question": "What is the definition of deep vein thrombosis (DVT) in the lower limbs?",
+    "option_a": "A venous obstruction caused by an endoluminal thrombus in the upper limbs",
+    "option_b": "A partial or total venous obstruction caused by an endoluminal thrombus, most often in the popliteal and suprapopliteal regions",
+    "option_c": "A venous obstruction caused by an endoluminal thrombus in the sub-popliteal region, involving the collecting trunks or muscle veins",
+    "option_d": "A venous obstruction caused by an endoluminal thrombus in the lower limbs, excluding the popliteal and suprapopliteal regions",
+    "correct_option": "B"
+  }
+}

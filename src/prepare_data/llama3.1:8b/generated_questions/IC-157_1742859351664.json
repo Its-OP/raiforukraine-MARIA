@@ -1,0 +1,12 @@
+{
+  "folder": "IC-157",
+  "content": "{{knowledge objective\n|Identifiant=OIC-157-17-B\n|Item_parent=Bacteremia/Fungemia in adults and children\n|Item_parent_short=Bacteremia/Fungemia in adults and children\n|Rank=B\n|Title=Knowing the principles of antibiotic therapy in patients with non-community infections\n|Description=Know how to identify the risk of resistant infectious agents and adapt antibiotic therapy in non-community patients.\n|Rubric=Management\n|Contributors=\n|Order=17}}\n'''The elements to be taken into account when assessing the risk of a resistant infectious agent in a patient with a healthcare-associated infection are''' :\n\n* Length of hospital stay\n* Selection pressure from prior antibiotic therapy (duration, spectrum)\n* Presence of implanted equipment\n* Recent history of surgery or endoscopy\n* History of colonisation or infection with a multi-resistant infectious agent\n* Chronic haemodialysis or living in an institution (increased risk of infection with methicillin-resistant Staphylococcus aureus).\n\n\n'''In the event of sepsis/septic shock in the context of a healthcare-associated infection without an identified focus, the following antibiotic therapy may be proposed'' :\n\n* A broad-spectrum \u00df-lactam active against nosocomial Gram-negative bacilli (to be chosen according to the ecology of the ward and the patient's microbiological history): piperacillin/tazobactam '''OR''' cefepime '''OR'' carbapenem (meropenem or imipenem).\n* Amikacin\n* vancomycin (if meticillin-resistant staphylococcus needs to be covered)\n+/- echinocandin (depending on the patient's condition and severity)",
+  "question": {
+    "question": "What is the primary consideration when assessing the risk of a resistant infectious agent in a patient with a healthcare-associated infection?",
+    "option_a": "The patient's recent travel history",
+    "option_b": "The presence of implanted equipment and recent history of surgery or endoscopy",
+    "option_c": "The patient's age and underlying medical conditions",
+    "option_d": "The length of hospital stay and selection pressure from prior antibiotic therapy",
+    "correct_option": "D"
+  }
+}

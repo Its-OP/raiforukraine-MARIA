@@ -1,0 +1,46 @@
+{
+  "folder": "IC-109",
+  "content": "{{knowledge objective\n|Identifiant=OIC-109-05-A\n|Item_parent=Gait and balance disorders\n|Item_parent_short=Gait and balance disorders\n|Rank=A\n|Title=Know how to diagnose lameness (clinical examination, diagnostic approach)\n|Description=Clinical and video evidence in favour of a lameness in dodging, saluting and Trendelebourg.\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=5}}\nClinical and video evidence in favour of eschewing, saluting and Trendelebourg lameness",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Clinical and video evidence in favour of what lameness?",
+        "description": "A clinical examination and diagnostic approach are required to diagnose lameness. What type of evidence is typically used to support a diagnosis of lameness?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Dodging",
+        "description": "A common behavior exhibited by horses with lameness",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Saluting",
+        "description": "A behavior where a horse lowers its head and raises its hind legs",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Trendelebourg",
+        "description": "A gait that is often affected in horses with lameness",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Eschewing",
+        "description": "A behavior where a horse refuses to move or load",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct answer should be a single letter (e.g. A, B, C, or D)",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

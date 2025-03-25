@@ -1,0 +1,46 @@
+{
+  "folder": "IC-101",
+  "content": "{{knowledge objective\n|Identifiant=OIC-101-06-A\n|Item_parent=Facial paralysis\n|Item_parent_short=Facial paralysis\n|Rank=A\n|Title=Search for arguments in favour of facial paralysis a frigore in the face of a facial deficit.\n|Description=None\n|Rubric=Etiologies\n|Contributors=\n|Order=6}}\nThese arguments generally make it easy to diagnose facial palsy with frigidity ([[Facial palsy SDD-127|facial palsy]]):\n\n- Mode of onset, in the morning on waking or after exposure to cold (travel), immediately maximal or progressing over a few hours.\n\n- Isolated, severe facial involvement (other cranial nerves unaffected).\n\n- Associated symptoms are usually absent in cases of PFP of other origin: retro-auricular pain in the preceding hours, sometimes with a sensation of numbness in the half-face, hyperacusis ([[Motor and/or sensory deficit of the limbs|sensory and/or motor deficit]]; [[Cervico-facial pain SDD-144|cervico-facial pain]]).",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What are the typical characteristics of facial paralysis with frigidity?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Onset of symptoms is usually at night",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Associated symptoms include retro-auricular pain and numbness in the half-face",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Isolated, severe facial involvement is the primary symptom",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Symptoms are usually absent in cases of PFP of other origin",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

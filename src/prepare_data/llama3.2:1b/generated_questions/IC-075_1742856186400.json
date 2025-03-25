@@ -1,0 +1,21 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-19-A\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=A\n|Title=Knowing how to detect tobacco use\n|Description=Knowing the question to ask and assessing consumption and objectives (stopping)\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=19}}\nAll patients should have their tobacco consumption assessed and monitored.\n\n* Simple screening: \"Do you smoke?\" followed by a decision algorithm until you stop.\n* Smoking assessment: ''Packs-Year (PA) = number of packs/day x number of years of intoxication''.",
+  "question": {
+    "properties": {
+      "question": "Know how to detect tobacco use",
+      "option_a": "Assess the consequences of tobacco use",
+      "option_b": "Understand the importance of quitting tobacco use",
+      "option_c": "Identify the benefits of a tobacco-free life",
+      "option_d": "Understand the risk of nicotine dependence",
+      "correct_option": "Assess the consequences of tobacco use"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d"
+    ]
+  }
+}

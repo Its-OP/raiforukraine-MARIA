@@ -1,0 +1,12 @@
+{
+  "folder": "IC-247",
+  "content": "{{knowledge objective\n|Identifiant=OIC-247-31-B\n|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Rank=B\n|Title=Knowing the principles of transdisciplinary monitoring of diabetics\n|Description=None\n|Heading=Monitoring and/or prognosis\n|Contributors=Gaetan Pr\u00e9vost,H\u00e9l\u00e8ne Bihan,Eva Feigerlova,Etienne Larger,Claire Briet\n|Order=31}}\n\nDiabetic patients benefit from multidisciplinary monitoring (general practitioner, specialist, dietician, chiropodist, etc.), the objectives of which include prevention, screening, treatment of complications and achieving optimal control of CV risk factors. [Prevention of cardiovascular disease SD-320]]\n\n\nSpecialist doctors (cardiologist, nephrologist, neurologist) are called in to help with diagnosis (additional assessment), treatment and monitoring of complications.\n\n\nQualified geriatric staff are called in to carry out standardised assessments if frailty is identified.\n\nDiabetologists are usually called in when diabetes is discovered, particularly in atypical forms, when there is severe imbalance (HbA1c>10%), particularly when intensive insulin regimens are indicated, in the case of transient insulin therapy, insulin pump treatment, for a dietary care plan, for the indication of bariatric surgery, in the event of the appearance of a complication, and for the coordination of care within centres specialising in the management of foot injuries. [Prescription of insulin therapy, follow-up consultation, education of a type 1 diabetic patient SD-280]] [[Prescription of medication, follow-up consultation and education for a patient with type 2 diabetes or secondary diabetes SD-281]]\n\n<br />",
+  "question": {
+    "question": "What type of healthcare professionals are usually called in when diabetes is discovered, particularly in atypical forms, when there is severe imbalance (HbA1c>10%)?",
+    "option_a": "General practitioners and dietician",
+    "option_b": "Diabetologists",
+    "option_c": "Cardiologists and nephrologists",
+    "option_d": "Geriatric staff",
+    "correct_option": "B"
+  }
+}

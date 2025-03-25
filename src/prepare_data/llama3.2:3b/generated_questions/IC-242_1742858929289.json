@@ -1,0 +1,46 @@
+{
+  "folder": "IC-242",
+  "content": "{{knowledge objective\n|Identifiant=OIC-242-08-B\n|Item_parent=Hyperthyroidism\n|Item_parent_short=Hyperthyroidism\n|Rank=B\n|Title=Knowing the indications for thyroid scintigraphy and ultrasonography\n|Description=Etiological diagnosis of hyperthyroidism\n|Section=Additional examinations\n|Contributors=Dr Camille Buffet,Dr Magalie Haissaguerre\n|Order=8}}\n\n[[File:Place of ultrasound and thyroid scintigraphy in the aetiological approach to hyperthyroidism.jpg|vignette]]",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Question",
+        "description": "What is the primary purpose of thyroid scintigraphy in the etiological approach to hyperthyroidism?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To assess thyroid structure and detect nodules",
+        "description": "A common use of thyroid scintigraphy",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "To measure thyroid function and detect hyperthyroidism",
+        "description": "A common use of thyroid function tests",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "To guide thyroid surgery and determine the extent of disease",
+        "description": "A common use of thyroid ultrasound",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "To evaluate the effectiveness of treatment and monitor disease progression",
+        "description": "A common use of thyroid scintigraphy and ultrasound",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "A",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "folder": "IC-086",
+  "content": "{{knowledge objective\n|Identifiant=OIC-086-13-B\n|Item_parent=Eyelid pathology\n|Item_parent_short=Eyelid pathology\n|Rank=B\n|Title=Knowing how to suspect lacrimal imperforation in infants\n|Description=None\n|Rubric=Epidemiology\n|Contributors=\n|Order=13}}\nThe lacrimal ducts are physiologically non-permeable at birth, and become perforated in the first few days of life with the first tears.\n\nIt is not uncommon for watery eyes to persist for several weeks, either unilaterally or bilaterally.\n\nIf there is swelling in the internal angle, signs of inflammation or purulent discharge, an ophthalmologist should be consulted to look for dacryocystitis (infection of the lacrimal sac).\n\nWhen lacrimation is isolated, treatment consists of saline lavage with antiseptics during lacrimation episodes.\n\nIf the watering persists, a catheter can be inserted without anaesthetic from the age of 4 months.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is typically done to treat persistent watery eyes in infants with lacrimal imperforation?",
+        "description": "The treatment of choice for watery eyes in infants with lacrimal imperforation",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Inserting a catheter with anaesthetic",
+        "description": "A treatment option for persistent watery eyes in infants with lacrimal imperforation",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Saline lavage with antiseptics during lacrimation episodes followed by insertion of a catheter",
+        "description": "A treatment option for persistent watery eyes in infants with lacrimal imperforation",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Observation without treatment",
+        "description": "A treatment option that may be considered for mild cases of watery eyes in infants with lacrimal imperforation",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Surgery to create a new tear duct",
+        "description": "A surgical treatment option for persistent watery eyes in infants with lacrimal imperforation",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Saline lavage with antiseptics during lacrimation episodes followed by insertion of a catheter"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

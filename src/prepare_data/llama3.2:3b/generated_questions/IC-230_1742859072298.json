@@ -1,0 +1,11 @@
+{
+  "folder": "IC-230",
+  "content": "{{knowledge objective\n|Identifiant=OIC-230-14-A\n|Item_parent=Acute chest pain\n|Item_parent_short=Acute chest pain\n|Rank=A\n|Title=Knowing the main extra-thoracic causes of chest pain\n|Description=pancreatitis, cholecystitis, ulcer, GERD. Refer to corresponding items\n|Rubric=Etiologies\n|Contributors=Vincent Roule\n|Order=14}}\n\n'''Know the main extra-thoracic causes of chest pain'''\n\n- pancreatitis\n\n- cholecystitis\n\n- peptic ulcer\n\n- gastro-oesophageal reflux\n\n- oesophageal spasm",
+  "question": {
+    "question": "What is a common extra-thoracic cause of chest pain?",
+    "option_a": "Oesophageal spasm",
+    "option_b": "Gastro-oesophageal reflux",
+    "option_c": "Pancreatitis",
+    "option_d": "Cholecystitis"
+  }
+}

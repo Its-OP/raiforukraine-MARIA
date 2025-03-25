@@ -1,0 +1,46 @@
+{
+  "folder": "IC-048",
+  "content": "{{knowledge objective\n|Identifiant=OIC-048-02-A\n|Item_parent=Food and nutritional requirements of infants and children\n|Item_parent_short=Food and nutritional requirements of infants and children\n|Rank=A\n|Intitul\u00e9=Diversification de l'alimentation : savoir pourquoi\n|Description=None\n|Rubric=Taking charge\n|Contributors=\n|Order=2}}\nDietary diversification consists of introducing foods other than breast milk or infant formula. It should be started for all children between 4 and 6 months of age.\n\nIts nutritional value is marginal, as almost all the nutritional needs of infants up to the age of 12 months are met by their mother's milk or infant formula.\n\nThe role of diversification is mainly to introduce :\n\n- new food proteins to help them acquire tolerance,\n\n- new flavours for optimal taste development,\n\n- pieces to encourage the development of chewing,\n\n- fibre to help the intestinal microbiota adapt to a diet that is not exclusively milk-based.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "When should dietary diversification be introduced?",
+        "description": "What age range should dietary diversification be started for?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "6-8 months",
+        "description": "Starting dietary diversification at this age range allows infants to acquire tolerance to new food proteins and develop optimal taste",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "4-6 months",
+        "description": "Dietary diversification should be introduced at this age range to encourage the development of chewing and intestinal microbiota adaptation",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "12-14 months",
+        "description": "Dietary diversification should be introduced at this age range to provide infants with a balanced diet that meets their nutritional needs",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "After 12 months",
+        "description": "Dietary diversification should be introduced at this age range to ensure infants acquire tolerance to new food proteins and develop optimal taste",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "The correct letter of the answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-233",
+  "content": "{{knowledge objective\n|Identifiant=OIC-233-10-B\n|Item_parent=Valvulopathies\n|Item_parent_short=Valvulopathies\n|Rank=B\n|Title=Know the main indications for surgical treatment of MI, RA, MR and IA\n|Description=None\n|Topic=Management\n|Contributors=Myriam Akodad,Florence Leclercq\n|Order=10}}\n\nIn the absence of contraindication and after assessment of co-morbidities and surgical risk.\n\n* '''Mitral insufficiency:'''\n** Acute poorly tolerated MI: emergency treatment\n** Severe chronic MI (grade 3/4): assess +++ feasibility of mitral plasty, otherwise mitral valve replacement.\n*** If patient symptomatic and LVEF > 30%.\n*** ''If patient asymptomatic'': an operation is considered in the event of LV damage (telesystolic diameter > 45mm, LVEF <60%), in the event of ''AF'', if PAPs > 50 mmHg\n* Aortic stenosis:\n** symptomatic narrow aortic stenosis\n** Tight aortic stenosis with positive stress test\n** Asymptomatic narrow aortic stenosis AND (1 criterion) :\n*** ''LV damage'' with LVEF <50% *** ''Very tight aortic stenosis\n*** ''Very tight AR'' (Vmax>5.5 m/s), rapidly progressing (Vmax >0.3 m/s/year), significant LVH\n* Aortic insufficiency:\n** Acute severe aortic insufficiency: urgent indication (poorly tolerated)\n** Chronic severe aortic insufficiency :\n*** ''If the patient is symptomatic'' *** ''If the patient is asymptomatic\n*** ''If the patient is asymptomatic'' , an operation is considered:\n**** if LVEF < 50% or if telesystolic diameter > 50 mm / telediastolic diameter > 70 mm\n**** in case of dilatation of the ascending aorta > 55 mm (Marfan > 45-50 mm according to the FDR of dissection, aortic bicuspidity > 50 mm)\n* Mitral narrowing'': surgical intervention when percutaneous commissurotomy is not an option.\n** Very severe MR\n** symptomatic severe MR or other associated cardiac surgery required\n** Moderate symptomatic MR with post-capillary PAH/mean gradient >15 mmHg on exertion",
+  "question": {
+    "question": "What is the main indication for surgical treatment of mitral insufficiency?",
+    "option_a": "Acute poorly tolerated MI",
+    "option_b": "Severe chronic MI (grade 3/4)",
+    "option_c": "Mitral narrowing",
+    "option_d": "Very severe MR",
+    "correct_option": "option_a"
+  }
+}

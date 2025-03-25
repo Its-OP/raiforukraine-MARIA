@@ -1,0 +1,12 @@
+{
+  "folder": "IC-267",
+  "content": "{{knowledge objective\n|Identifiant=OIC-267-31-A\n|Item_parent=Disorders of acid-base equilibrium and hydro-electrolytic disorders\n|Item_parent_short=Disorders of acid-base balance and fluid and electrolyte disorders\n|Rank=A\n|Title=Knowing the symptoms of severe hypernatremia\n|Description=None\n|Rubric=Identification of the emergency\n|Contributors=P. Rieu,B. Moulin,M. Flamant\n|Order=31}}\n\n*Neurological disorders (= ''signs of seriousness'')\n**non-specific and not very suggestive;\n**correlated with the degree of hypernatremia and its rapid onset.\n*List of neurological signs associated with hypernatremia:\n**somnolence,\n**asthenia,\n**behavioural problems such as irritability,\n**fever of central origin,\n**convulsive seizures,\n**coma,\n**subdural haematomas (infants, elderly subjects), cerebral venous thrombosis.",
+  "question": {
+    "question": "What are the neurological signs associated with severe hypernatremia?",
+    "option_a": "Gastrointestinal symptoms such as diarrhea and vomiting",
+    "option_b": "Somnolence, asthenia, behavioural problems such as irritability, fever of central origin, convulsive seizures, coma, subdural haematomas (infants, elderly subjects), cerebral venous thrombosis",
+    "option_c": "Cardiovascular symptoms such as arrhythmias and heart failure",
+    "option_d": "Respiratory symptoms such as dyspnea and hypoxia",
+    "correct_option": "B"
+  }
+}

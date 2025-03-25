@@ -1,0 +1,46 @@
+{
+  "folder": "IC-198",
+  "content": "{{knowledge objective\n|Identifiant=OIC-198-14-A\n|Item_parent=Microcrystalline arthropathies\n|Item_parent_short=Microcrystalline arthropathies\n|Rank=A\n|Intitle=Photograph of a clinically detectable tophus (typical)\n|Description=helix, finger pad, toe or foot.\n|Rubric=Multimedia content\n|Contributors=\n|Order=14}}\n<gallery widths=\"400\" heights=\"400\" perrow=\"3\">\nFile:Tophus clinically detectable (typical) .PNG\nFile:Tophus clinically detectable (typical)03.PNG\nFile:Tophus clinically detectable (typical) 02.PNG\n</gallery>",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a characteristic of a clinically detectable tophus?",
+        "description": "A type of deposit found in gouty arthritis",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "It is always located on the wrist",
+        "description": "A plausible but incorrect option",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "It is typically found on the helix of the ear",
+        "description": "A common misconception about tophus location",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "It is a small, painless bump",
+        "description": "A characteristic of a clinically detectable tophus",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "It is only found in people with rheumatoid arthritis",
+        "description": "An incorrect statement about tophus distribution",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "C",
+        "description": "The letter corresponding to the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

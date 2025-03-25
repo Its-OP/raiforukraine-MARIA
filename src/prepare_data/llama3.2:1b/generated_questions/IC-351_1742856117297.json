@@ -1,0 +1,12 @@
+{
+  "folder": "IC-351",
+  "content": "{{knowledge objective\n|Identifiant=OIC-351-12-A\n|Item_parent=Agitation and acute delirium\n|Item_parent_short=Agitation and acute delirium\n|Rank=A\n|Title=Knowing the indications and conditions of free hospitalisation and hospitalisation without consent according to age\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=12}}\nCf item 2C-015",
+  "question": {
+    "question": "What is the primary indication for free hospitalization?",
+    "option_a": "Severe agitation",
+    "option_b": "Severe delirium",
+    "option_c": "Pneumonia",
+    "option_d": "Meningitis",
+    "correct_option": "option_a"
+  }
+}

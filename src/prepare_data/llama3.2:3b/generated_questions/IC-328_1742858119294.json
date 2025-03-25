@@ -1,0 +1,12 @@
+{
+  "folder": "IC-328",
+  "content": "{{knowledge objective\n|Identifiant=OIC-328-08-A\n|Item_parent=Non-drug therapies and medical devices\n|Item_parent_short=Non-drug therapies and medical devices\n|Rank=A\n|Title=General information on prostheses\n|Description=Description of the general components of a prosthesis\n|Rubric=Definition\n|Contributors=Bisseriex H\u00e9l\u00e8ne,De Boissezon Xavier\n|Order=8}}\n\n'''Limb prosthesis''': a device that replaces a missing limb or limb segment\n\n''NB: residual limb = remaining limb segment''\n\n'''Components:'''\n[[File:Prosthesis.png|frame|Femoral prosthesis]]\n\n* Sleeve (slipped over the residual limb)\n* Socket (accommodates residual limb + sleeve)\n* Intermediate effectors\n** Connecting pieces\n*** Articular\n*** Non-articular\n* End effector\n** foot, pestle...\n** hand, hook...\n* Aesthetic trim\n\n\n\n\n\n''Pour aller plus loin, rang B'' '':'' '''R\u00e8gles g\u00e9n\u00e9rales pour la r\u00e9\u00e9ducation des sujets amput\u00e9s :'''\n\n- Early fitting of orthopaedic devices as part of rehabilitation in a specialised centre\n\n- Choice of equipment according to the patient's life plan\n\n- Significant and early interactions with the patient's environment\n\n- In the lower limb: fittings for functional purposes, rarely for aesthetic purposes\n\n- For the upper limb: devices for functional and aesthetic purposes",
+  "question": {
+    "question": "What is the primary purpose of an aesthetic trim in a limb prosthesis?",
+    "option_a": "To provide additional support to the residual limb",
+    "option_b": "To improve the overall appearance of the prosthesis",
+    "option_c": "To facilitate easier donning and doffing of the prosthesis",
+    "option_d": "To accommodate the residual limb and sleeve in the socket",
+    "correct_option": "B"
+  }
+}

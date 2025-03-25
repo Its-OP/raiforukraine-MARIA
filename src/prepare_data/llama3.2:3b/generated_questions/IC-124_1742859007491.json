@@ -1,0 +1,46 @@
+{
+  "folder": "IC-124",
+  "content": "{{knowledge objective\n|Identifiant=OIC-124-06-B\n|Item_parent=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)\n|Item_parent_short=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)\n|Rank=B\n|Title=Knowing how to distinguish between typical and atypical hot flushes\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Florence Tr\u00e9mollieres,Anna Gosset\n|Order=6}}\n\nHot flushes SD-024|hot flushes]] (or BVM) are characterised by the sudden onset of a sensation of heat accompanied by sweating, which interferes with sleep, and can even lead to a disabling vasomotor flush.\n\nThe expression, duration, date of onset and intensity of hot flushes vary greatly from one woman to another. The maximum frequency of hot flushes occurs one to two years after the menopause.\n\nThe duration of symptoms varies greatly from one woman to another, averaging around 7 years, but they can sometimes be observed up to 20 years after the onset of the menopause.\n\nQuestioning and clinical examination are essential to distinguish typical BVM from atypical BVM, which should be investigated for other causes.\n\n==Typical motor flushes===\nTypical motor flushes\n\n- Occurs during the peri-menopause or menopause\n\n- Mainly nocturnal but can also be diurnal\n\n- Most often occur without premonitory signs\n\n- Favoured by emotions and high temperatures\n\n==Atypical hot flushes=\nAtypical hot flushes or motor flushes will be evoked in practice:\n\n- When BVMs ''do not subside with the use of a suitable menopausal hormone treatment'' (compliance and correct use);\n\n- When they \"appear or reappear at a distance from the menopause\";\n\n- When there are ''modifications to the usual BVMs'' ;\n\n- When they are \"associated with other functional signs\" such as headaches, palpitations, \"malaise\", diarrhoea or hypertensive crises.\n\n==Assessment of flushing=\n- Questioning: symptoms, frequency, time of day, duration, intensity, triggering factor (exertion, stress, meals, food or medication), associated signs.\n\n- A clinical examination will rule out fever, high blood pressure, palpitations and poor general condition; an examination of the lungs, abdomen, thyroid gland, neurology, skin and lymph nodes is necessary.\n\n- Complementary examinations based on clinical findings",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "How should atypical hot flushes be distinguished from typical hot flushes?",
+        "description": "What is the key factor that differentiates atypical hot flushes from typical hot flushes?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "They occur only during the day",
+        "description": "Atypical hot flushes occur mainly during the day",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "They are always associated with other symptoms",
+        "description": "Atypical hot flushes are always accompanied by other signs",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "They do not respond to menopausal hormone treatment",
+        "description": "Atypical hot flushes do not improve with hormone replacement therapy",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "They occur only at night",
+        "description": "Atypical hot flushes mainly occur during the night",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "They do not subside with the use of a suitable menopausal hormone treatment",
+        "description": "Atypical hot flushes do not respond to hormone replacement therapy",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "folder": "IC-198",
+  "content": "{{knowledge objective\n|Identifiant=OIC-198-02-A\n|Item_parent=Microcrystalline arthropathies\n|Item_parent_short=Microcrystalline arthropathies\n|Rank=A\n|Title=Knowing the threshold value for hyperuricemia\n|Description=360 \u00b5mol/l or 60 mg/l\n|Rubric=Definition\n|Contributors=\n|Order=2}}\nThe solubility threshold for urates is 360 \u00b5mol/l or 60 mg/l.\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the solubility threshold for urates in blood?",
+        "description": "A measure of uric acid concentration",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "300 \u00b5mol/l",
+        "description": "A common misconception about the threshold value"
+      },
+      "option_b": {
+        "title": "360 \u00b5mol/l or 60 mg/l",
+        "description": "The correct threshold value for hyperuricemia"
+      },
+      "option_c": {
+        "title": "400 \u00b5mol/l",
+        "description": "A value above the threshold, but not the correct answer"
+      },
+      "option_d": {
+        "title": "None of the above",
+        "description": "An incorrect generalization about the threshold value"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "A single letter indicating the correct option"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

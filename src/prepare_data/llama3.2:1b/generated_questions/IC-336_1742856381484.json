@@ -1,0 +1,22 @@
+{
+  "folder": "IC-336",
+  "content": "{{knowledge objective\n|Identifiant=OIC-336-09-A\n|Item_parent=Non-traumaticoma in adults and children\n|Item_parent_short=Non-traumatic coma in adults and children\n|Rank=A\n|Title=Know how to prescribe complementary examinations to be carried out in an emergency in adults and children.\n|Description=Capillary glycaemia, knowing how to order a simple biological check-up (glycaemia, natremia, blood gases), a brain scan, knowing how to perform a lumbar puncture. Know how to prescribe them in the appropriate order.\n|Rubrique= Complementary examinations\n|Contributors=Nicolas Weiss\n|Order=9}}\n\n- Capillary glycaemia verified by plasma glycaemia\n\n- Standard ionogram with natraemia, calcaemia, urea, creatinine\n\n- Blood gases\n\n- Liver check-up\n\n- Discuss blood/urine toxicology analysis depending on the anamnestic context (plan to take samples for secondary analysis depending on the forensic context).\n\n- Emergency brain scan if :\n\n- location sign\n\n- possibly traumatic coma\n\no strong suspicion of meningeal haemorrhage\n\no suspected ischaemic stroke, but brain MRI is preferable\n\no coma with no obvious cause or no improvement after appropriate treatment\n\n- Lumbar puncture if :\n\no Context of meningitis\n\no Context of meningoencephalitis or encephalitis\n\no Febrile coma",
+  "question": {
+    "properties": {
+      "question": "What is the appropriate order of complementary examinations to be carried out in an emergency in adults and children?",
+      "option_a": "Capillary glycaemia verified by plasma glycaemia",
+      "option_b": "Standard ionogram with natraemia, calcaemia, urea, creatinine, Blood gases, Liver check-up, Discuss blood/urine toxicology analysis depending on the anamnestic context",
+      "option_c": "Emergency brain scan if location sign, possibly traumatic coma, strong suspicion of meningeal haemorrhage, o suspected ischaemic stroke, but brain MRI is preferable",
+      "option_d": "Lumbar puncture if Context of meningitis, Context of meningoencephalitis or encephalitis, o Febrile coma",
+      "correct_option": "option_b"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

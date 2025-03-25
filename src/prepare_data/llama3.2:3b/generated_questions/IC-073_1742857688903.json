@@ -1,0 +1,46 @@
+{
+  "folder": "IC-073",
+  "content": "{{knowledge objective\n|Identifiant=OIC-073-05-B\n|Item_parent=Different types of psychotherapeutic techniques\n|Item_parent_short=Different types of psychotherapeutic techniques\n|Rank=B\n|Title=Knowing the principles common to all psychotherapies\n|Description=Common theoretical and practical principles underlying all psychotherapies\n|Rubric=Taking charge\n|Contributors=Amaury MENGIN\n|Order=5}}\n\n====Principles common to all psychotherapies====\nCommon definition :\n\n- Therapeutic technique using psychic processes\n\nPoints in common:\n\n- Theoretical model of the psyche\n\n- Therapeutic framework: objective, duration, tools, limits, etc.\n\n- Quality psychotherapist/patient relationship or therapeutic alliance\n\n- Patient involvement\n\n- Defined intervention process\n\n- Behavioural, cognitive and affective learning",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a common principle underlying all psychotherapies?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "The therapeutic technique using only cognitive processes",
+        "description": "A common misconception about psychotherapies",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "The theoretical model of the psyche and the therapeutic relationship",
+        "description": "A fundamental principle of all psychotherapies",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Patient involvement and defined intervention process",
+        "description": "A common aspect of psychotherapies, but not a principle",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Behavioural learning only",
+        "description": "A narrow view of psychotherapies, neglecting cognitive and affective aspects",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The correct letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

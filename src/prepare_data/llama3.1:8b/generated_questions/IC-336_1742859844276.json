@@ -1,0 +1,12 @@
+{
+  "folder": "IC-336",
+  "content": "{{knowledge objective\n|Identifiant=OIC-336-14-A\n|Item_parent=Non-traumaticoma in adults and children\n|Item_parent_short=Non-traumatic coma in adults and children\n|Rank=A\n|Title=Knowing the initial symptomatic management and correction of hypoglycaemia\n|Description=Know how to take respiratory risks into account and carry out the appropriate first-line treatments (opening the airways and oxygen therapy -item 359), safety lateral position and call the resuscitator, resugaring, etc.\n|Rubric=Management\n|Contributors=Nicolas Weiss\n|Order=14}}\n\n- Airway clearance (lateral safety position, removal of foreign body, removal of dental prostheses, insertion of a Gu\u00e9del cannula)\n\n- Oxygen therapy if saturation < 92\n\n- Setting up an infusion with physiological serum\n\n- Assess the need to administer an antidote :\n\no If hypoglycaemia: administration of serum glucose (G30 IV)\n\no If benzodiazepine intoxication >> IV flumazenil\n\no If opioid intoxication >> naloxone IV\n\n- Appropriate monitoring: electrocardioscope, SpO2, NIBP\n\n- Call for help (resuscitator, ambulance, etc.)",
+  "question": {
+    "question": "What is the initial symptomatic management for hypoglycaemia?",
+    "option_a": "Administration of IV flumazenil",
+    "option_b": "Insertion of a Gu\u00e9del cannula",
+    "option_c": "Administration of serum glucose (G30 IV)",
+    "option_d": "Setting up an infusion with physiological serum",
+    "correct_option": "C"
+  }
+}

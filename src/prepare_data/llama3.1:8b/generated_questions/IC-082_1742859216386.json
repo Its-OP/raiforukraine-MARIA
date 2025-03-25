@@ -1,0 +1,12 @@
+{
+  "folder": "IC-082",
+  "content": "{{knowledge objective\n|Identifiant=OIC-082-17-B\n|Item_parent=Acute visual impairment\n|Item_parent_short=Acute visual impairment\n|Rank=B\n|Title=Know the clinical signs of vitreous haemorrhage and its main causes\n|Description=Visual acuity, visual field, VEP, OCT\n|Topic=Positive diagnosis\n|Contributors=\n|Order=17}}\nIntravitreal haemorrhage causes a drop in visual acuity, often preceded by an impression of \"sooty rain\".\n\nThe reduction in visual acuity varies greatly depending on the extent of the haemorrhage: a minimal intravitreal haemorrhage may manifest itself mainly as myodesopsia, with no reduction in visual acuity or with a minimal reduction in visual acuity; a massive intravitreal haemorrhage leads to a severe reduction in visual acuity, with visual acuity reduced to light perception at the most.\n\nThe cause of the haemorrhage is easy to recognise when the retina remains visible; in other cases, massive haemorrhage renders the retina invisible on fundus examination: B ultrasound can then sometimes point to an aetiology (e.g. evidence of a retinal tear). B ultrasound is always indicated when the retina is not visible to rule out the presence of retinal detachment (+++).\n\nThe main ''causes'' of intravitreal haemorrhage are as follows:\n\n*proliferative diabetic retinopathy\n*ischaemic occlusions of the central retinal vein or one of its branches\n*retinal tear: a retinal tear, whether or not complicated by retinal detachment, may result in intravitreal haemorrhage due to rupture of a retinal vessel.\n*Terson's syndrome: uni- or bilateral intravitreal haemorrhage associated with meningeal haemorrhage due to rupture of an intracranial aneurysm (Terson's syndrome may also be associated with meningeal haemorrhage of traumatic origin).",
+  "question": {
+    "question": "What is a common cause of intravitreal haemorrhage?",
+    "option_a": "Proliferative diabetic retinopathy and ischaemic occlusions of the central retinal vein or one of its branches",
+    "option_b": "Retinal detachment without retinal tear",
+    "option_c": "Terson's syndrome: uni- or bilateral intravitreal haemorrhage associated with meningeal haemorrhage due to rupture of an intracranial aneurysm",
+    "option_d": "All of the above are common causes of intravitreal haemorrhage",
+    "correct_option": "A"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-263",
+  "content": "{{knowledge objective\n|Identifiant=OIC-263-05-B\n|Item_parent=Vascular nephropathy\n|Item_parent_short=Vascular nephropathy\n|Rank=B\n|Title=Know how to diagnose typical HUS\n|Description=Know the signs of typical HUS, particularly in children (after bloody diarrhoea, fatigue, anaemia, etc.).\n|Rubric=Positive diagnosis\n|Contributors=Jean-Jacques Boffa\n|Order=5}}\n\nCombination of acute renal failure, haemolytic anaemia and thrombocytopenia following food contamination causing bloody diarrhoea. Diagnosis is confirmed by isolation of the STEC strain (shigatoxin-producing Escherichia coli) or PCR detection of shigatoxin-encoding genes in stools.\n\nAtypical HUS occurs more frequently in adults, without diarrhoea, and is most often linked to an acquired or genetic abnormality of the complement pathway. It often recurs, particularly after renal transplantation, and has a more severe prognosis. Treatment is based on plasma exchange and/or complement inhibition.",
+  "question": {
+    "question": "What is the typical presentation of atypical HUS?",
+    "option_a": "Diarrhea, fatigue, anaemia, and low platelet count are typical symptoms.",
+    "option_b": "Diarrhea, fatigue, anaemia, and low platelet count are typical symptoms of typical HUS.",
+    "option_c": "Atypical HUS is often associated with gastrointestinal symptoms such as nausea, vomiting, and abdominal pain, but not bloody diarrhoea.",
+    "option_d": "Atypical HUS is often associated with gastrointestinal symptoms such as nausea, vomiting, and abdominal pain, and is more common in children.",
+    "correct_option": "option_b"
+  }
+}

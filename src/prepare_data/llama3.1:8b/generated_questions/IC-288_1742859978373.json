@@ -1,0 +1,12 @@
+{
+  "folder": "IC-288",
+  "content": "{{knowledge objective\n|Identifiant=OIC-288-09-B\n|Item_parent=Hemorrhoidal pathology\n|Item_parent_short=Hemorrhoidal pathology\n|Rank=B\n|Title=Awareness of other possible manifestations of internal haemorrhoids\n|Description=\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=9}}\n\nIron deficiency anaemia due to chronic bleeding is very rare. Another cause must first be ruled out before attributing it to haemorrhoids. Cf [[2C-355|i''tem digestive haemorrhage 355''']]",
+  "question": {
+    "question": "What is a common condition that must be ruled out before attributing iron deficiency anaemia to haemorrhoids?",
+    "option_a": "Chronic constipation",
+    "option_b": "Internal haemorrhoids",
+    "option_c": "Digestive haemorrhage",
+    "option_d": "Haemorrhoid-related bleeding",
+    "correct_option": "C"
+  }
+}

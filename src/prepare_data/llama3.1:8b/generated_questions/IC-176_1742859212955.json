@@ -1,0 +1,12 @@
+{
+  "folder": "IC-176",
+  "content": "{{knowledge objective\n|Identifiant=OIC-176-06-B\n|Item_parent=Infectious diarrhoea in adults and children\n|Item_parent_short=Infectious diarrhoea in adults and children\n|Rank=B\n|Title=Knowing the main parasitic aetiologies of diarrhoea\n|Description=idem\n|Rubric=Etiologies\n|Contributors=Alexis de Rougemont,Christophe Deschamps, Johann Cailhol\n|Order=6}}\n\nDigestive parasites: giardiosis, amoebiasis, tapeworms, ascariasis, pinworms|parasites]] with a digestive tropism cause diarrhoea that is more or less prolonged or intermittent, but not febrile (see tem [[172]]).\n\nThe parasites most frequently found are \"Giardia intestinalis\" (more frequent in children - epidemics in groups of children - and in adults, often post-travel, with family cases), \"Cryptosporidium\" spp, and microsporidia.\n\nWhen travelling, other parasites may be considered, including intestinal amoebiasis, cyclosporiasis, anguillosis, ascariasis, hookworm infection, trichocephaliasis and taeniasis.\n\nIn cases of HIV immunosuppression, and where cryptosporidiosis and microsporidiosis have been ruled out, a search should be made for \"Cystoisospora belli\" cystoisosporosis.",
+  "question": {
+    "question": "What is the most common parasitic cause of diarrhoea in children?",
+    "option_a": "Giardia intestinalis",
+    "option_b": "Cryptosporidium spp",
+    "option_c": "Cystoisospora belli",
+    "option_d": "Toxoplasma gondii",
+    "correct_option": "A"
+  }
+}

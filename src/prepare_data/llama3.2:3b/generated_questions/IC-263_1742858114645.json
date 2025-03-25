@@ -1,0 +1,45 @@
+{
+  "folder": "IC-263",
+  "content": "{{knowledge objective\n|Identifiant=OIC-263-07-B\n|Item_parent=Vascular nephropathy\n|Item_parent_short=Vascular nephropathy\n|Rank=B\n|Title=Know the two main causes of renal artery stenosis\n|Description=Atheromatous and fibrodysplastic\n|Rubric=Positive diagnosis\n|Contributors=Jean-Jacques Boffa\n|Order=7}}\n\n'''Atheromatous renal artery stenosis:'''\n\n* Elderly subjects with several cardiovascular risk factors, including pre-existing hypertension. This develops into :\n** hypertension resistant to triple therapy including a diuretic;\n** causing flash PAO\n** deterioration in renal function on ACE inhibitors or ARBs2 ;\n** chronic renal failure in cases of bilateral stenosis (ischaemic nephropathy).\n\n\n'''Fibrodysplasia of the renal artery:'''\n\n* Newly discovered hypertension, sometimes severe and symptomatic;\n* sometimes associated with hypokalaemia and metabolic alkalosis (secondary hyperaldosteronism).",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What are the two main causes of renal artery stenosis?",
+        "description": "Atheromatous and fibrodysplastic",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Atherosclerosis and hypertension",
+        "description": "A common cause of renal artery stenosis in elderly subjects with cardiovascular risk factors",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Fibroplastic and atherosclerosis",
+        "description": "A possible cause of renal artery stenosis, but not as common as atheromatous stenosis",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Renal artery stenosis and hypertension",
+        "description": "A condition characterized by high blood pressure and narrowing of the renal artery",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Fibromuscular dysplasia and atherosclerosis",
+        "description": "A rare cause of renal artery stenosis, often associated with secondary hyperaldosteronism",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "A"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

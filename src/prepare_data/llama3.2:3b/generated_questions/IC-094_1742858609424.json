@@ -1,0 +1,34 @@
+{
+  "folder": "IC-094",
+  "content": "{{knowledge objective\n|Identifiant=OIC-094-05-B\n|Item_parent=Rachialgia\n|Item_parent_short=Rachialgia\n|Rank=B\n|Title=Knowing the risk factors for spinal pain\n|Description=List of risk factors to look for\n|Rubric=Epidemiology\n|Contributors=Bisseriex H\u00e9l\u00e8ne,Nguyen Christelle\n|Order=5}}\n\n===''Factors associated with low back pain and neck pain''===\n\n* Repeated trauma or microtrauma, prolonged postures in leisure or work '''[[Occupational risk prevention SDD-315|(occupational risk prevention,]] ''[[Identify the consequences of a pathology/situation on maintaining a job SDD-316|identify the consequences of a pathology/situation on maintaining a job)]]''''\n* sedentary lifestyle\n* obesity (low back pain only)\n* spinal static disorders ''[[Spinal deformity SDD-065|(spinal deformity)]]'''''\n* smoking\n* family history",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a risk factor for low back pain and neck pain?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Repetitive strain injuries",
+        "description": "Injuries caused by repeated strain on a specific part of the body",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Genetic predisposition",
+        "description": "A person's genetic makeup that may affect their susceptibility to certain conditions",
+        "type": "string"
+      },
+      "option_c": "Family history of spinal deformity",
+      "option_d": "Sedentary lifestyle",
+      "correct_option": "option_d"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

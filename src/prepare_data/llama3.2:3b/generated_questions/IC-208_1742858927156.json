@@ -1,0 +1,46 @@
+{
+  "folder": "IC-208",
+  "content": "{{knowledge objective\n|Identifiant=OIC-208-10-B\n|Item_parent=Chronic respiratory failure\n|Item_parent_short=Chronic respiratory failure\n|Rank=B\n|Title=Know the main mechanisms responsible for hypoxaemia and those responsible for hypercapnia\n|Description=None\n|Rubric=Physiopathology, Etiologies\n|Contributors=\n|Order=10}}\n\n\n*Hypoxaemia with normo or hypocapnia (increase in the alveolar-arterial difference)\n**Diseases of the pulmonary exchanger (see above)\n*predominantly alveolar hypoventilation\n**Diseases of the ventilatory pump\n*COPD is above all a disease of the exchanger with hypoxaemia and normo/hypocapnia initially. At a later stage, alveolar hypoventilation may appear in the most severe patients.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary mechanism responsible for hypoxaemia in patients with COPD?",
+        "description": "Choose the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Alveolar hypoventilation",
+        "description": "A condition where the lungs are not ventilating properly",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Diseases of the pulmonary exchanger",
+        "description": "A condition where the lungs' gas exchange mechanism is impaired",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Circulatory failure",
+        "description": "A condition where the body's circulatory system is not functioning properly",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Respiratory failure",
+        "description": "A condition where the body's respiratory system is not functioning properly",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct letter of the answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

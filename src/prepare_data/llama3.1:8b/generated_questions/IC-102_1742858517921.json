@@ -1,0 +1,12 @@
+{
+  "folder": "IC-102",
+  "content": "{{knowledge objective\n|Identifiant=OIC-102-07-A\n|Item_parent=Diplopia\n|Item_parent_short=Diplopia\n|Rank=A\n|Title=Photography/video of VI paralysis\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=7}}\n\n[[File:VI.jpg|left|vignette|666x666px|Paralysis of the right VI: abolition of abduction of the right eye]]",
+  "question": {
+    "question": "What is a common symptom of VI paralysis, as seen in the provided image?",
+    "option_a": "Diplopia (double vision) is a common symptom of VI paralysis.",
+    "option_b": "VI paralysis typically affects the left eye, as shown in the image.",
+    "option_c": "Photography and video recordings are often used to diagnose VI paralysis.",
+    "option_d": "VI paralysis is a type of paralysis that affects the VI cranial nerve, which controls eye movement.",
+    "correct_option": "A"
+  }
+}

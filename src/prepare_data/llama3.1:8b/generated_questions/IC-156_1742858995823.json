@@ -1,0 +1,12 @@
+{
+  "folder": "IC-156",
+  "content": "{{knowledge objective\n|Identifiant=OIC-156-09-A\n|Item_parent=Infections in the bones and joints (IOA) of children and adults\n|Item_parent_short=Infections osteo articulaires (IOA) de l'enfant et de l'adulte\n|Rank=A\n|Title=Identifying septic arthritis (= therapeutic emergency)\n|Description=None\n|Rubric=Identifying the emergency\n|Contributors=Dr Florent Valour\n|Order=9}}\nUrgent hospital management to limit the risk of complications",
+  "question": {
+    "question": "What is the primary goal of urgent hospital management in the case of septic arthritis?",
+    "option_a": "To treat the underlying infection with antibiotics only",
+    "option_b": "To reduce pain and inflammation through non-invasive methods",
+    "option_c": "To limit the risk of complications by administering antibiotics and performing joint aspiration",
+    "option_d": "To perform surgery to remove the infected joint",
+    "correct_option": "C"
+  }
+}

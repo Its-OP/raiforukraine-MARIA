@@ -1,0 +1,45 @@
+{
+  "folder": "IC-045",
+  "content": "{{knowledge objective\n|Identifiant=OIC-045-16-B\n|Item_parent=Specificities of genetic diseases. (see item 9)\n|Item_parent_short=Specificities of genetic diseases. (see item 9)\n|Rank=B\n|Title=Knowing the main principles of the management of cystic fibrosis.\n|Description=Nutrition. Infection prevention. Supplementation\n|Rubric=Management\n|Contributors=Claude F\u00e9rec,Elise Launay,Caroline Schluth-Bolard\n|Order=16}}\n\nClinical care is provided by the Cystic Fibrosis Resource and Competence Centres (CRCM).\n\nThe main principles of clinical management are based on :\n\n- Combating salt loss by regular supplementation;\n\n- Management of gastrointestinal disorders: a high-calorie, low-fat diet with digestive enzymes and fat-soluble vitamins;\n\n- Management of pulmonary pathology: high-dose antibiotics to reduce chronic respiratory infection, mucolytic treatments and respiratory physiotherapy.\n\n- In severe cases, a lung and/or liver transplant may be performed.\n\n- Male infertility is treated by medically assisted procreation (in vitro fertilisation).\n\n\nNew therapies known as \"specific mutations\" have recently been developed. These are small molecules, called modulators, which aim to correct the defective CFTR protein.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Question",
+        "description": "What is a key principle of clinical management of cystic fibrosis?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Option A",
+        "description": "High-dose steroids to reduce inflammation",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Option B",
+        "description": "Regular exercise to improve lung function",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Option C",
+        "description": "Management of gastrointestinal disorders with a high-calorie, low-fat diet with digestive enzymes and fat-soluble vitamins",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Option D",
+        "description": "Medically assisted procreation to treat male infertility",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "This consists of a colon (:) followed by a letter (e.g., option C)"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

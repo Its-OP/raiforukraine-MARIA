@@ -1,0 +1,12 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-12-B\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=B\n|Title=Know how hearing disorders are screened by the attending physician.\n|Description=Know the main clinical principles of hearing screening for infants and children: clinical tests according to age.\n|Rubrique=Management\n|Contributors=\n|Order=12}}\n\n\n* At all ages:\n** external examination: face and neck, pinna, ear canal\n** otoscopy\n* New-born babies (objective tests):''' induced acoustic emissions (OEAP) or automated auditory evoked potentials. AEO may miss hearing loss due to auditory neuropathy (false negative).\n* Outside the neonatal period (subjective tests except tympanometry): child calm and quiet, reassurance.\n** Calibrated sound sources (Moatti box, sensory baby test): behavioural reaction to sound stimulation, acutropic reflex (from 6 months, turns head towards object) or investigative orientation. The younger the child, the greater the intensity of sound required to obtain a response. Clear responses at 70 dB = no bilateral deafness in infants.\n** Voice test: response to first name (after 6 months), familiar words, picture book (after 2 years), voice audiometry (after 4 years).\n** Headphone tonal audiometry if the child cooperates and understands (after 4 years).\n** Tympanometry: tubal obstruction or serous otitis.\n\n\nTo illustrate: video made by Surdi Iifo service with practical examples of tests on children: https://www.surdi.info/galerie-videos/detail/fiche/6-questions-surlexamen-de-laudition-chez-lenfant/",
+  "question": {
+    "question": "What is a common limitation of the Oto-Acoustic Emissions (OAE) test in newborn babies?",
+    "option_a": "It may not detect hearing loss due to middle ear problems.",
+    "option_b": "It may miss hearing loss due to auditory neuropathy (false negative).",
+    "option_c": "It requires the child to be calm and quiet.",
+    "option_d": "It is only used for children over 4 years old.",
+    "correct_option": "B"
+  }
+}

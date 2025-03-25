@@ -1,0 +1,12 @@
+{
+  "folder": "IC-179",
+  "content": "{{knowledge objective\n|Identifiant=OIC-179-02-B\n|Item_parent=Health risks linked to water and food. Food poisoning\n|Item_parent_short=Health risks associated with food and water. Food poisoning\n|Rank=B\n|Title=Knowing food-borne parasites\n|Description=toxoplasmosis, taeniasis, trichinellosis, anisakidosis\n|Rubric=Etiologies\n|Contributors=Pr Christophe DE CHAMPS DE SAINT LEGER, Dr Johann CAILHOL\n|Ordre=2}}\n'''<u>[[Know the parasitoses transmitted by drinking water|Toxoplasmosis (Cf)]]</u>''''\n\n'''<u>Taeniasis</u>''''\n\nTaeniasis is a cestodosis (cosmopolitan for \"Taenia saginata\" and tropical for \"Taenia solium\"). These flatworms release rings containing eggs in patients' faeces. Humans become infected by ingesting eggs (faeco-oral transmission) or larvae contained in undercooked or uncooked meat from intermediate hosts (beef for \"T.saginata\" and pork for \"T.solium\").\n\nIngestion of T. solium eggs leads to cysticercosis (migration of cysticerci into tissues, the neurological form of which is serious), and ingestion of larvae to adult tapeworms in the digestive tract.\n\n'''<u>Trichinellosis</u>''''\n\nTrichinellosis is a cosmopolitan zoonosis, and humans are accidental hosts. Humans become infected by eating raw or undercooked meat contaminated with encysted larvae. Once ingested, the larvae travel to the striated muscles. Clinical symptoms typically take the form of febrile polymyositis and facial oedema. The course can be serious (fatal) in the early phase of larval dissemination.\n\n'''<u>Anisakidosis</u>''''\n\nAnisakiasis is a zoonosis of the cold seas. Humans are accidental hosts, contracting the disease by ingesting raw, marinated or undercooked fish infested with larvae. The symptoms are digestive, with gastralgia, nausea and vomiting soon after the infested meal. Intestinal or generalised allergic reactions are sometimes observed (and sometimes anaphylactic shock).",
+  "question": {
+    "question": "What is the primary method of transmission for Taeniasis?",
+    "option_a": "Ingestion of eggs through faeco-oral transmission",
+    "option_b": "Ingestion of larvae through undercooked or uncooked meat from intermediate hosts",
+    "option_c": "Ingestion of cysticerci through contaminated water",
+    "option_d": "Ingestion of adult tapeworms through contaminated food",
+    "correct_option": "B"
+  }
+}

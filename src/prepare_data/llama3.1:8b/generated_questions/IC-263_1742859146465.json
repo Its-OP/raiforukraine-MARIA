@@ -1,0 +1,12 @@
+{
+  "folder": "IC-263",
+  "content": "{{knowledge objective\n|Identifiant=OIC-263-05-B\n|Item_parent=Vascular nephropathy\n|Item_parent_short=Vascular nephropathy\n|Rank=B\n|Title=Know how to diagnose typical HUS\n|Description=Know the signs of typical HUS, particularly in children (after bloody diarrhoea, fatigue, anaemia, etc.).\n|Rubric=Positive diagnosis\n|Contributors=Jean-Jacques Boffa\n|Order=5}}\n\nCombination of acute renal failure, haemolytic anaemia and thrombocytopenia following food contamination causing bloody diarrhoea. Diagnosis is confirmed by isolation of the STEC strain (shigatoxin-producing Escherichia coli) or PCR detection of shigatoxin-encoding genes in stools.\n\nAtypical HUS occurs more frequently in adults, without diarrhoea, and is most often linked to an acquired or genetic abnormality of the complement pathway. It often recurs, particularly after renal transplantation, and has a more severe prognosis. Treatment is based on plasma exchange and/or complement inhibition.",
+  "question": {
+    "question": "What is the most common cause of typical HUS?",
+    "option_a": "Food contamination causing bloody diarrhoea",
+    "option_b": "Infection with shigatoxin-producing Escherichia coli (STEC) in individuals with a weakened immune system",
+    "option_c": "Bacterial contamination of water sources",
+    "option_d": "Genetic predisposition to complement pathway abnormalities",
+    "correct_option": "A"
+  }
+}

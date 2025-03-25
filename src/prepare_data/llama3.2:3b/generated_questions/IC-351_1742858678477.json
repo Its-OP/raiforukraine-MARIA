@@ -1,0 +1,46 @@
+{
+  "folder": "IC-351",
+  "content": "{{knowledge objective\n|Identifiant=OIC-351-10-A\n|Item_parent=Agitation and acute delirium\n|Item_parent_short=Agitation and acute delirium\n|Rank=A\n|Title=Knowing the indications and implementation of complementary examinations in the context of agitation\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=10}}\n\n\n== '''Systematic examinations''' ==\n\n* Minimum biological work-up: blood glucose, ionogram, blood calcium, CBC, CRP, coagulation test (for possible IM injection).\n* ECG (for possible antipsychotic treatment, search for long QT)\n\n<br />\n\n== '''On the basis of the history and clinical examination findings:''' ==\n\n* Blood alcohol\n* Urinary toxicology\n* Liver function tests\n* Renal function\n* TSH US\n* Cerebral imaging\n* Lumbar puncture\n* EEG\n* ECBU\n* Thick Gout\n* Chest X-ray",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is typically performed as a minimum biological work-up in the context of agitation?",
+        "description": "A list of medical tests",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Blood alcohol and liver function tests",
+        "description": "A list of medical tests",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "ECG and renal function tests",
+        "description": "A list of medical tests",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Blood glucose and CBC",
+        "description": "A list of medical tests",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Thick Gout and Chest X-ray",
+        "description": "A list of medical tests",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

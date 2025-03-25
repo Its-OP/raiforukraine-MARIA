@@ -1,0 +1,12 @@
+{
+  "folder": "IC-188",
+  "content": "{{knowledge objective\n|Identifiant=OIC-188-07-B\n|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Rank=B\n|Title=Knowing the main occupations at risk of occupational asthma\n|Description=None\n|Rubric=Etiologies\n|Contributors=\n|Order=7}}\no Baker, pastry cook (allergen = wheat, flour mite)\n\no Healthcare professionals (latex, aldehydes, ammoniums)\n\no Hairdressers (persulfates)\n\no Painters (isocyanates)\n\no Maintenance agents (ammoniums, etc.)\n\no Woodworkers",
+  "question": {
+    "question": "What are the main occupations at risk of occupational asthma?",
+    "option_a": "Baker, pastry cook (allergen = wheat, flour mite)",
+    "option_b": "Healthcare professionals (latex, aldehydes, ammoniums)",
+    "option_c": "Hairdressers (persulfates)",
+    "option_d": "Painters (isocyanates)",
+    "correct_option": "option_a"
+  }
+}

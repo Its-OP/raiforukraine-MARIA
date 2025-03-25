@@ -1,0 +1,12 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-09-A\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=A\n|Title=Defining precocious and advanced puberty\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=9}}\nPrecocious puberty is a pathological condition defined by breast development before the age of 8 in a girl or an increase in testicular volume before the age of 9 in a boy. Advanced puberty (between the ages of 8 and 9 in girls and 9 and 11 in boys) is a borderline situation which occurs at a non-early age but which may affect the prognosis for adult height.\n\n<br />",
+  "question": {
+    "question": "What is the age range for precocious puberty?",
+    "option_a": "8-9 years",
+    "option_b": "9-10 years",
+    "option_c": "10-11 years",
+    "option_d": "12 years",
+    "correct_option": "8-9 years"
+  }
+}

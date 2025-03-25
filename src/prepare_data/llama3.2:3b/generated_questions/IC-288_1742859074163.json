@@ -1,0 +1,46 @@
+{
+  "folder": "IC-288",
+  "content": "{{knowledge objective\n|Identifiant=OIC-288-08-B\n|Item_parent=Hemorrhoidal pathology\n|Item_parent_short=Hemorrhoidal pathology\n|Rank=B\n|Title=Knowing the differential diagnosis of external haemorrhoidal thrombosis\n|Description=\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=8}}\n\nCf: '''[[2C-288-DP-B01]]''''",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary cause of external hemorrhoidal thrombosis?",
+        "description": "A question about the differential diagnosis of external hemorrhoidal thrombosis",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Inflammatory bowel disease",
+        "description": "A condition that can cause chronic inflammation in the rectum and anus",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Hemorrhoidal vein obstruction",
+        "description": "A condition where the veins in the hemorrhoid become blocked",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Trauma to the anal sphincter",
+        "description": "A physical injury to the muscles around the anus",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Inadequate bowel preparation",
+        "description": "A common cause of hemorrhoidal thrombosis",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

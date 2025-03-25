@@ -1,0 +1,33 @@
+{
+  "folder": "IC-226",
+  "content": "{{knowledge objective\n|Identifiant=OIC-226-17-B\n|Item_parent=Deep vein thrombosis and pulmonary embolism (see item 330)\n|Item_parent_short=Deep vein thrombosis and pulmonary embolism (see item 330)\n|Rank=B\n|Title=Knowing the complication to detect before stopping anticoagulant treatment for PE\n|Description=None\n|Topic=Follow-up and/or prognosis\n|Contributors=Gilles Pernod, Virginie Dufrost, Guillaume Mah\u00e9\n|Order=17}}\nBefore stopping the anticoagulant treatment prescribed for PE, it is important to ensure that there is no [[Dyspnoea SD-162|dyspnoea]]. In the event of dyspnoea, it is essential to detect [[https://sides.uness.fr/lisa/Savoir_%C3%A9voquer_les_complications_%C3%A0_long_terme_de_la_MTEV_(post-thrombotic_syndrome,_HTAP)_2C-226-SP-B01 post-embolic pulmonary hypertension (PH)] by first performing a transthoracic Doppler cardiac ultrasound.\n----",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Before stopping anticoagulant treatment for PE, it is essential to detect which complication first?",
+        "description": "Dyspnoea or post-embolic pulmonary hypertension (PH)?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Post-embolic pulmonary hypertension (PH)",
+        "description": "A condition that can occur after a pulmonary embolism, characterized by high blood pressure in the lungs",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Dyspnoea",
+        "description": "Shortness of breath, a common symptom of heart or lung disease",
+        "type": "string"
+      },
+      "option_c": "Both A and B",
+      "option_d": "Neither A nor B",
+      "correct_option": "A"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d"
+    ]
+  }
+}

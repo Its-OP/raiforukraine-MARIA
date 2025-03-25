@@ -1,0 +1,12 @@
+{
+  "folder": "IC-027",
+  "content": "{{knowledge objective\n|Identifiant=OIC-027-29-B\n|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Rank=B\n|Title=Knowing how to prevent antierythrocytic alloimmunisation in the post-partum period\n|Description=None\n|Rubric=Follow-up and/or prognosis\n|Contributors=Alexandre Vivanti, Philippe Deruelle\n|Order=29}}\nThe RhD phenotype of the newborn must be known. If genotyping was carried out during pregnancy (ideally in the 1st trimester) and if the rhesus was negative, a neonatal check is carried out.\n\nIf the rhesus was positive at genotyping, there is no verification.\n\nIf the child is RhD+, a Kleihauer test will be carried out on a sample of maternal blood taken at least 30 minutes after delivery.\n\nThe mother will be offered anti-D prophylaxis. The dosage and route of administration will be adapted according to the Kleihauer test.\n\nIf immunoglobulin administration is forgotten within the first 72 hours, the injection can still be given up to 30 days after delivery, preceded by an IAT.\n\nIf the mother is systematically injected with anti-D immunoglobulin at 28 weeks' gestation, the Coombs test may be positive in RhD+ newborns (in almost 10% of cases). In the absence of associated symptoms (jaundice, anaemia), no further investigations are required (elution, identification of fixed antibodies). Contact with the neonatologist is useful.\n\n'''312. [[Prevention of foetal risks SD-312|Prevention of foetal risks]]''''",
+  "question": {
+    "question": "What is the recommended procedure for a newborn with a positive RhD phenotype?",
+    "option_a": "A Kleihauer test will be carried out on a sample of maternal blood taken at least 30 minutes after delivery.",
+    "option_b": "The mother will be offered anti-D prophylaxis.",
+    "option_c": "Immunoglobulin administration is forgotten within the first 72 hours.",
+    "option_d": "The Coombs test may be positive in RhD+ newborns (in almost 10% of cases).",
+    "correct_option": "option_a"
+  }
+}

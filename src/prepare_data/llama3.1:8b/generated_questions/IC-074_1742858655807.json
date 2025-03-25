@@ -1,0 +1,12 @@
+{
+  "folder": "IC-074",
+  "content": "{{knowledge objective\n|Identifiant=OIC-074-03-A\n|Item_parent=Prescription and monitoring of psychotropic drugs (see item 330)\n|Item_parent_short=Prescription and monitoring of psychotropic drugs (see item 330)\n|Rank=A\n|Intitle=Antipsychotics: knowing the main classes and molecules\n|Description=None\n|Rubric=Definition\n|Contributors=Louise Carton,Florian Naudet,Marie Tournier\n|Order=3}}\n\nAntipsychotics'' are substances whose common property is an ''antagonistic'' action on D2 dopamine receptors.\n\nA distinction is made between :\n\n* older drugs (typical or first-generation neuroleptics or antipsychotics)\n* more recent compounds (atypical or second-generation antipsychotics) with a better neurological safety profile (extrapyramidal syndrome), but with a higher risk of adverse metabolic effects.\nThe main \"first-generation\" antipsychotics used in practice are :\n\n* Chlorpromazine,\n* Cyamemazine\n* Alimemazine\n* Levomepromazine\n* Haloperidol\n* Loxapine\n\nThe main \"second-generation\" antipsychotics used in practice are :\n\n* Amisulpride,\n* Olanzapine\n* Clozapine\n* Quetiapine\n* Risperidone\n* Paliperidone,\n* Aripiprazole.",
+  "question": {
+    "question": "What is the common property of antipsychotics?",
+    "option_a": "Agonistic action on D2 dopamine receptors",
+    "option_b": "Antagonistic action on D1 dopamine receptors",
+    "option_c": "Antagonistic action on D2 dopamine receptors",
+    "option_d": "Agonistic action on D1 dopamine receptors",
+    "correct_option": "C"
+  }
+}

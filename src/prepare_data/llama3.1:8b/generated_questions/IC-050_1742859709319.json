@@ -1,0 +1,12 @@
+{
+  "folder": "IC-050",
+  "content": "{{knowledge objective\n|Identifiant=OIC-050-15-A\n|Item_parent=Genito-scrotal pathology in boys and men\n|Item_parent_short=Genito-scrotal pathology in boys and men\n|Rank=A\n|Title=Know how to diagnose torsion of the spermatic cord\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=C\u00e9dric Leb\u00e2cle, Alice Faure\n|Order=15}}\n\n \n*The patient describes acute, sudden, intense, continuous, unilateral pain, radiating to the inguinal region, with no analgesic position.\n\n*Torsion occurs preferentially at times of peak hormonal activity: infants, adolescents between 12 and 18 years of age, (young adults < 30 years of age). Spermatic cord torsion is rare after the age of 40.\n*Questioning looks for risk factors for spermatic cord torsion: testicular trauma, history of contralateral spermatic cord torsion, etc.\n\n==On physical examination (the picture is often incomplete), we look for:==\n\n*Positive signs: a painful, enlarged bursa, a hard, ascending testicle, retracted to the inguinal ring, horizontal. The cremasteric reflex is abolished, sometimes the turn of the testicle is palpated. Nausea and vomiting. Pain relieved after external detorsion manoeuvre which consists of moving the upper pole of the testicle away from the midline. The direction of detorsion is like \"opening a book\": the right testicle must be turned anti-clockwise, while the left testicle must be turned clockwise.\n*Negative signs: absence of fever, negative BU, absence of urethral discharge, negative Prehn's sign, free hernial orifices, painless abdomen, normal contralateral testicle.\n\n*Confirmed intraoperatively by observing spiral turns or traces of cord strangulation, testicular ischaemia.\n\n<br />",
+  "question": {
+    "question": "What is a characteristic physical examination finding in a patient with spermatic cord torsion?",
+    "option_a": "A painful, enlarged bursa",
+    "option_b": "A hard, descending testicle",
+    "option_c": "A retracted testicle with an absent cremasteric reflex",
+    "option_d": "A painless abdomen with a normal contralateral testicle",
+    "correct_option": "C"
+  }
+}

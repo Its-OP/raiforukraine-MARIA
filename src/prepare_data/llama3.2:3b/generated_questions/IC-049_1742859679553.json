@@ -1,0 +1,46 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-13-B\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=B\n|Title=Knowing the major etiological frameworks of early puberty: hypothalamic-pituitary, ovarian, adrenal or exogenous/environmental origins.\n|Description=None\n|Rubric=Etiologies\n|Contributors=\n|Order=13}}\n\n{| class=\"wikitable\"\n| '''early central PP''''\n|\n|-\n| Intracranial process\n| Tumour: chiasma glioma (NF1 or not), hamartoma\n\n                        Non-tumoral: hydrocephalus, arachnoid cyst\n|-\n| Sequelae\n| Meningitis or encephalitis\n\n                        Cranial irradiation\n|-\n|Idiopathic\n|Diagnosis of elimination\n|-\n| '''Peripheral PP'''\n|\n|-\n| Ovarian/testicular\n| McCune-Albright, ovarian cyst, granulosa tumour\n\n                        Testotoxicosis\n|-\n| Adrenal\n| Hyperandrogenism without gonadotropic activation\n\n                        Adrenal cortex\n|-\n|Exogenous\n\n'''Environmental'''\n\n'''Genetics'''\n|\n|}\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a possible cause of early puberty?",
+        "description": "Select the correct etiological framework for early puberty.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Genetic mutation",
+        "description": "A genetic mutation can cause early puberty.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Hormonal imbalance due to adrenal gland disorder",
+        "description": "A disorder of the adrenal gland can lead to hormonal imbalance and early puberty.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Environmental toxin exposure",
+        "description": "Exposure to certain environmental toxins can stimulate the onset of puberty.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Infection with a virus that affects the hypothalamus",
+        "description": "A viral infection can cause inflammation of the hypothalamus, leading to early puberty.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "C",
+        "description": "C",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

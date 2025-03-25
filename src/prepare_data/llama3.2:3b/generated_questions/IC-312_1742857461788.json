@@ -1,0 +1,41 @@
+{
+  "folder": "IC-312",
+  "content": "{{knowledge objective\n|Identifiant=OIC-312-03-B\n|Item_parent=Breast tumours\n|Item_parent_short=Breast tumours\n|Rank=B\n|Title=Knowing the genetic predisposition to breast cancer\n|Description=Genetic predispositions associated with an increased risk of breast cancer: BRCA1/2 mutations, breast-ovarian syndrome, role of BRCA1/2 in oncogenesis\n|Rubric=Physiopathology\n|Contributors=\n|Order=3}}\n\n\n*Germline mutations in the tumour suppressor genes BRCA1 and BRCA2 are the 2 main causes of familial breast and ovarian cancer, classically known as hereditary breast and ovarian cancer syndrome (HBOC). The mode of transmission is autosomal recessive.\n*HBOC accounts for around 20% of familial breast cancers, but less than 5% of all breast cancers. When questioned, it is important to look for a family history of breast and ovarian cancer and, if necessary, to draw up a family tree.\n*The BRCA1 and BRCA2 genes code for proteins that play major roles in DNA repair and act as tumour suppressors. If these proteins are defective, DNA double-strand breaks are not repaired and contribute to carcinogenesis.\n*A patient with a \"BRCA1/2\" mutation should undergo either specific annual surveillance, including breast MRI, or prophylactic bilateral mastectomy. Prophylactic bilateral adnexectomy is systematically recommended (between the ages of 40 and 45).\n\n<br />\n\n*Several cases of cancer in the same person or in the family may point to another genetic predisposition syndrome: \"PALB2\" mutation, Li Fraumeni syndrome (TP53 gene coding for the p53 protein).\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the mode of transmission of hereditary breast and ovarian cancer syndrome (HBOC)?",
+        "description": "Germline mutations in the tumour suppressor genes BRCA1 and BRCA2 are the 2 main causes of familial breast and ovarian cancer, classically known as hereditary breast and ovarian cancer syndrome (HBOC).",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Autosomal dominant",
+        "description": "A mode of transmission where a single copy of the mutated gene is enough to cause the condition."
+      },
+      "option_b": {
+        "title": "Autosomal recessive",
+        "description": "A mode of transmission where an individual must inherit two copies of the mutated gene (one from each parent) to express the condition."
+      },
+      "option_c": {
+        "title": "X-linked",
+        "description": "A mode of transmission where the mutated gene is located on the X chromosome and is more common in females."
+      },
+      "option_d": {
+        "title": "Mitochondrial",
+        "description": "A mode of transmission where the mutated gene is located in the mitochondria and is more common in females."
+      },
+      "correct_option": {
+        "title": "Autosomal recessive",
+        "description": "The correct answer, indicating that an individual must inherit two copies of the mutated gene (one from each parent) to express the condition."
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

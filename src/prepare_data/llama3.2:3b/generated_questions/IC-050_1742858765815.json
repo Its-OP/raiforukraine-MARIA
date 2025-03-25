@@ -1,0 +1,46 @@
+{
+  "folder": "IC-050",
+  "content": "{{knowledge objective\n|Identifiant=OIC-050-05-B\n|Item_parent=Genito-scrotal pathology in boys and men\n|Item_parent_short=Genito-scrotal pathology in boys and men\n|Rank=B\n|Title=Knowing the additional examinations to be carried out in the case of orchi-epidydimitis\n|Description=None\n|Rubric=Complementary examinations\n|Contributors=C\u00e9dric Leb\u00e2cle, Alice Faure\n|Order=5}}\n\n\n* <big>The diagnosis is primarily clinical</big>.\n\n== Bacteriological test for aetiology: ==\n\n*ECBU with antibiotic susceptibility test (which may be sterile)\n*PCR of Chlamydia trachomatis and gonococcus on the 1st urine stream in young men.\n*Sampling of any urethral discharge (for C. trachomatis and gonococcus)\n*Blood cultures, rarely positive (mainly in cases of BGN infection).\n\n*If there is any doubt about the diagnosis and the spermatic cord has been twisted for more than 24 hours, a scrotal ultrasound scan may be useful.\n\n\nThe disease can progress to abscess and purulent melting of the testicle, necrotising fasciitis, testicular atrophy, etc.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary purpose of a bacteriological test in the case of orchi-epidydimitis?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To confirm the diagnosis of testicular atrophy",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "To detect the presence of Chlamydia trachomatis and gonococcus",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "To rule out BGN infection",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "To perform a scrotal ultrasound scan",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "The correct option",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

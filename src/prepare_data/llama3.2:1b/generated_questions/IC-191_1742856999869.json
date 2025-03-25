@@ -1,0 +1,12 @@
+{
+  "folder": "IC-191",
+  "content": "{{knowledge objective\n|Identifiant=OIC-191-05-A\n|Item_parent=Fever in an immunocompromised patient\n|Item_parent_short=Fever in an immunocompromised patient\n|Rank=A\n|Intitle=Cite the three main routes of entry for fever in neutropenic patients\n|Description=Digestive tract, skin (KT), lung\n|Topic=Physiopathology\n|Contributors=Am\u00e9lie Servettaz\n|Order=5}}\n\n<big>The main infectious entry points are:</big>\n\n<big>- '''Respiratory'''</big>\n\n<big>- '''Digestive tract''' (mouth to anus)</big>\n\n<big>- '''Skin favored by venous outlets'' (peripheral and central venous catheter)</big>",
+  "question": {
+    "question": "What are the three main routes of entry for fever in neutropenic patients?",
+    "option_a": "Respiratory",
+    "option_b": "Digestive tract (mouth to anus)",
+    "option_c": "Skin favored by venous outlets (peripheral and central venous catheter)",
+    "option_d": "Respiratory",
+    "correct_option": "option_a"
+  }
+}

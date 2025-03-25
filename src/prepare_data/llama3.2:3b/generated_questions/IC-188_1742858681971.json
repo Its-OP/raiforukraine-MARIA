@@ -1,0 +1,46 @@
+{
+  "folder": "IC-188",
+  "content": "{{knowledge objective\n|Identifiant=OIC-188-21-B\n|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Rank=B\n|Title=Knowing the principles of therapeutic asthma education and action plans to improve compliance in asthma.\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=21}}\nThe aim of therapeutic education is to enable patients to understand their disease and treatment. It helps to improve compliance and control of asthma and reduce the occurrence of severe exacerbations.\n\n\nThe aim is for patients to acquire the following skills:\n\n- Understanding the mechanisms of your illness\n\n- Knowing the signs of loss of control and exacerbation\n\n- Measuring and interpreting your EPD\n\n- Understanding the mechanisms of action and indications for treatment\n\n- Mastering the use of inhalation devices\n\n- Implementing the action plan\n\n- Controlling the environment by avoiding factors that encourage it",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary goal of therapeutic education in asthma management?",
+        "description": "The aim of therapeutic education is to enable patients to understand their disease and treatment, improving compliance and controlling asthma.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To improve inhaler technique and device use",
+        "description": "Mastering the use of inhalation devices is an important aspect of therapeutic education",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "To understand the causes of asthma attacks and triggers",
+        "description": "Knowing the mechanisms of your illness and environmental triggers is crucial for effective asthma management",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "To reduce hospitalizations and emergency visits",
+        "description": "Controlling the environment and avoiding triggers can help reduce severe exacerbations",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "To improve lung function and quality of life",
+        "description": "Understanding the mechanisms of action and indications for treatment can help patients make informed decisions about their care",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "D",
+        "description": "D",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

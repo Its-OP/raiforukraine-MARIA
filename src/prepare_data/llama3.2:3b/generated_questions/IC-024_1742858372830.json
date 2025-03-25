@@ -1,0 +1,45 @@
+{
+  "folder": "IC-024",
+  "content": "{{knowledge objective\n|Identifiant=OIC-024-10-B\n|Item_parent=Main complications of pregnancy.\n|Item_parent_short=Main complications of pregnancy.\n|Rank=B\n|Title=Savoir prescrire et interpr\u00e9ter les examens compl\u00e9mentaires en cas d'HTA gravidique.\n|Description=Know how to interpret a urinary albumin/creatinine ratio to rule out pre-eclampsia, a rise in creatinine in a pregnant woman, know how to request obstetriocal exemns to assess foetal development.\n|Rubric=Additional examinations\n|Contributors=Paul Berveiller,Philippe Deruelle\n|Order=10}}\n\n'''On the maternal level'''\n\nThe discovery of gestational hypertension = look for pre-eclampsia++.\n\n- The only essential test is to look for ''[[Proteinuria SD-212|proteinuria]]'' on a sample (>1 cross at BU) or on a 24-hour urine collection (>300 mg/24 h).\n\n- A P/C ratio greater than 30 indicates positive proteinuria and should be followed by quantification by analysis of 24-hour proteinuria. If the P/C ratio is less than 30, there is no significant proteinuria.\n\n'''On the foetal level'''\n\n- Obstetrical ultrasound + Doppler'' :\n\n- fetal biometrics with estimation of fetal weight\n\n- assesses growth with comparison to previous ultrasound scans where appropriate\n\n- in the case of IUGR: umbilical artery Doppler analysis (placental resistances) and biometric curves.\n\nFetuses with IUGR and no umbilical Doppler are at high risk of \"in utero\" foetal death and acidosis.\n\nRCF: Of limited interest in moderate and isolated hypertension, it is essential for monitoring severe forms and/or IUGR with pathological umbilical Doppler.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Interpretation of a urinary albumin/creatinine ratio in a pregnant woman",
+        "description": "A pregnant woman has a urinary albumin/creatinine ratio of 20. What is the next step?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Request a 24-hour urine collection to quantify proteinuria",
+        "description": "This option is correct because a ratio of 30 or greater indicates positive proteinuria and requires further quantification.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Perform an obstetrical ultrasound with Doppler to assess fetal growth",
+        "description": "This option is incorrect because it is not directly related to interpreting the urinary albumin/creatinine ratio. However, it is a useful test for assessing fetal growth and development.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Order a 24-hour urine collection to quantify proteinuria",
+        "description": "This option is incorrect because it is the same as option A, and the ratio of 20 is not indicative of significant proteinuria.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Refer the patient to a specialist for further evaluation",
+        "description": "This option is incorrect because the patient's condition does not require immediate specialist referral based on the provided information.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Option A",
+        "description": "This option is correct because a ratio of 20 is less than 30, and further quantification is not necessary."
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

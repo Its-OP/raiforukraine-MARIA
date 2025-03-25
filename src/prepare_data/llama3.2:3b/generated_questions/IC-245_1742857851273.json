@@ -1,0 +1,41 @@
+{
+  "folder": "IC-245",
+  "content": "{{knowledge objective\n|Identifiant=OIC-245-10-B\n|Item_parent=Adrenal insufficiency in adults and children\n|Item_parent_short=Adrenal insufficiency in adults and children\n|Rank=B\n|Title=Knowing the other causes of corticotropic insufficiency\n|Description=None\n|Rubric=Etiologies\n|Contributors=Claire Briet,St\u00e9phanie Espiard\n|Order=10}}\nOther causes of corticotropic insufficiency are :\n\n* autoimmune disease (pituitary) ;\n* granulomatosis (sarcoidosis in particular);\n* trauma\n* pituitary surgery\n* radiotherapy;\n* sudden necrosis during hypovolaemic shock in the post-partum period (Sheehan's syndrome) (very rare).",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What are other causes of corticotropic insufficiency?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Autoimmune disease (pituitary)",
+        "description": "A condition where the immune system attacks the pituitary gland"
+      },
+      "option_b": {
+        "title": "Granulomatosis (sarcoidosis in particular)",
+        "description": "A condition characterized by the growth of granulomas in various parts of the body"
+      },
+      "option_c": {
+        "title": "Both A and B",
+        "description": "Autoimmune disease (pituitary) and granulomatosis (sarcoidosis in particular)"
+      },
+      "option_d": {
+        "title": "Trauma and pituitary surgery",
+        "description": "Physical injury to the pituitary gland or surgery on the pituitary gland"
+      },
+      "correct_option": {
+        "title": "",
+        "description": ""
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

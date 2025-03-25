@@ -1,0 +1,46 @@
+{
+  "folder": "IC-342",
+  "content": "{{knowledge objective\n|Identifiant=OIC-342-06-A\n|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=A\n|Title=Know the characteristics of an epileptic and non-epileptic event (pseudo-seizure).\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=6}}\ncf item 105",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a key characteristic of an epileptic event?",
+        "description": "Identify the correct characteristic of an epileptic event.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Loss of consciousness for only a few seconds",
+        "description": "A brief loss of consciousness, often followed by a return to normal awareness.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Sudden, brief loss of muscle tone",
+        "description": "A sudden, brief loss of muscle tone, often accompanied by a post-ictal period.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "A prolonged period of confusion and disorientation",
+        "description": "A prolonged period of confusion and disorientation, often lasting several minutes or hours.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "A sudden, brief loss of muscle tone, followed by a prolonged period of confusion and disorientation",
+        "description": "A sudden, brief loss of muscle tone, followed by a prolonged period of confusion and disorientation.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "A",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

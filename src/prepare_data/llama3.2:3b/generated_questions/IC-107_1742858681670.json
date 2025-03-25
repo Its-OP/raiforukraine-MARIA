@@ -1,0 +1,46 @@
+{
+  "folder": "IC-107",
+  "content": "{{knowledge objective\n|Identifiant=OIC-107-01-A\n|Item_parent=Anomalous movements\n|Item_parent_short=Anomalous movements\n|Rank=A\n|Heading=Know how to describe the main abnormal movements: tremor, chorea and dyskinesias, myoclonus, tics, dystonia (writer's cramp, spasmodic torticollis), blepharospasm and facial hemispasm.\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=1}}\n\n\n==A.  Tremor==\nInvoluntary rhythmic oscillation of all or part of the body around its position of equilibrium. There are two main types of [[Tremor SD-128|tremor]]: those which occur in muscles at rest and those which occur in activated muscles (i.e. in action) with postural and intentional components often associated.\n<br />\n\n==B. Chorea==\nSudden, random, anarchic movement, often of the rotation or flexion/extension type, non-stereotyped, arrhythmic, without purpose, affecting various territories (face, neck, trunk, limbs), present at rest and in action, occurring against a background of hypotonia.\n\nWhen this type of movement is proximal (affecting the roots of the limbs) and has a large amplitude, we speak of ballismus (most often linked to a vascular lesion of the subthalamic nucleus).\n\n==C.  Dystonia==\nInvoluntary, prolonged muscle contractions responsible for abnormal posture and/or repetitive movements, aggravated by movements in the vicinity of the affected area and stereotyped. It may therefore involve abnormal posture and/or movement. Dystonia is therefore a cause of [[Localised or generalised muscle contracture SD-029|localised or generalised muscle contracture]] which can give the impression of [[Joint stiffness SD-056|joint stiffness]].\n\nFocal dystonia: a segment of the body is affected as in spasmodic torticollis (also known as cervical dystonia, characterised by torsion of the neck), blepharospasm (focal dystonia responsible for [[Palpebral anomalies SD-139|palpebral anomaly]]) linked to dystonia of the orbicular muscles of the eyelids and characterised by abnormal, iterative and prolonged occlusions of the eyelids.\n\nFunctional dystonia: dystonia occurs during a particular gesture or function (e.g. writer's cramp, musician's cramp).\n\nHaemidonia: damage to one of the hemi-bodies.\n\nGeneralised dystonia: involvement of at least one lower limb and the trunk.\n<br />\n\n==D. Myoclonus==\nSudden muscle jerks originating in the central nervous system. They may be segmental (focal or multifocal) or generalised, isolated (arrhythmic) or repetitive (rhythmic, giving the impression of an irregular tremor). These muscular jerks are positive myoclonias, whereas negative myoclonias are sudden resolutions of muscle tone (as in asterixis or \"flapping tremor\"). Myoclonus may be cortical, subcortical (linked to dysfunction of the basal ganglia), reticular, pontine or spinal in origin.\n\n==E. Tics==\nA tic is a sudden, brief, intermittent, stereotyped movement without purpose (a \"caricature of a normal gesture\"), which is repetitive. It may be preceded by a premonitory sensation (internal sensation of the need to move preceding the tic) and can be controlled by the will for a few minutes at the cost of increasing internal tension and a rebound phenomenon occurring after the control effort. The tic is the most frequent abnormal movement.\n\nThe tic may be simple, involving just a few muscles (blinking, shaking the head, shrugging the shoulders, etc.) or complex, involving an elaborate motor sequence (putting the right hand under the left armpit and adducting the left shoulder to crush the right hand).\n\nMotor tics are the opposite of vocal tics (screaming, sniffing, throat clearing, forced exhalation, etc.) which may, rarely, correspond to obscenities known as coprolalia.\n\n==F. Dyskinesias==\nLiterally, an abnormal movement, without any further precision (see below).",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Which of the following abnormal movements is characterized by sudden, random, anarchic movement, often of the rotation or flexion/extension type?",
+        "description": "A question about the description of abnormal movements",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Tremor",
+        "description": "Involuntary rhythmic oscillation of all or part of the body around its position of equilibrium",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Chorea",
+        "description": "Sudden, random, anarchic movement, often of the rotation or flexion/extension type, non-stereotyped, arrhythmic, without purpose",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Dystonia",
+        "description": "Involuntary, prolonged muscle contractions responsible for abnormal posture and/or repetitive movements",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Myoclonus",
+        "description": "Sudden muscle jerks originating in the central nervous system",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

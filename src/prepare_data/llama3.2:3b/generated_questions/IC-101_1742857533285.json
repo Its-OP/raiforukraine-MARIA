@@ -1,0 +1,45 @@
+{
+  "folder": "IC-101",
+  "content": "{{knowledge objective\n|Identifiant=OIC-101-05-A\n|Item_parent=Facial paralysis\n|Item_parent_short=Facial paralysis\n|Rank=A\n|Title=Knowing the main causes of PFP\n|Description=PF a frigore, trauma, diabetes, MS, infections, systemic diseases, cancers\n|Rubric=Etiologies\n|Contributors=\n|Order=5}}\nThere are many causes of PFP ([[Facial paralysis SDD-127|facial paralysis]]).\n\n1) Facial paralysis a frigore :\n\n* By far the most common cause of all facial paralysis ([[Facial paralysis SDD-127|facial paralysis]])\n\n* Probably due to compression of the nerve in its intrapetrous portion, in connection with an inflammatory or viral process.\n\n* The arguments in favour of the diagnosis are detailed in the following objective.\n\n\n2) Other causes (some are obvious because of associated signs or the context in which they occur):\n\n- Head trauma: immediate facial paralysis (compression or embrochage of the nerve) or delayed facial paralysis (post-traumatic oedema) ([[Head trauma SD-172|head trauma]]).\n\n* Diabetes: PFP can reveal this, although more rarely than damage to one of the oculomotor nerves (VI, III).\n\n* Infectious causes :\n\n- Herpes zoster of the geniculate ganglion: vesicular eruption in the Ramsay-Hunt area. Severe and painful PFP with hearing impairment.\n\n- ENT pathology (mastoiditis, parotitis, parotid tumour): evocative auricular discharge or painful enlargement of the parotid gland ([[Cervico-facial pain SDD-144|cervico-facial pain]]).\n\n- Lyme meningo-radiculitis: tick bite in the preceding days or weeks or erythematous plaque. PFP may reveal the infection.\n\n- other bacterial or viral meningoradiculitis (coxsackie, herpes, mumps).\n\n- HIV infection, particularly during seroconversion.\n\n* Brain stem stroke: PFP associated with contralateral hemiplegia of the face (alternating syndrome).\n\n* Multiple sclerosis: importance of a history of previous relapses.\n\n* Guillain-Barr\u00e9 syndrome: PFP in the background of a picture dominated by limb involvement. Facial diplegia may occur.\n\n* General inflammatory diseases:\n\n- Sarcoidosis: PFP may inaugurate the disease (most frequent cranial involvement).\n\n- Melkerson-Rosenthal syndrome: recurrent PFP, with mucocutaneous infiltration of the face, plicated tongue and family history.\n\n* Tumours: progressive onset, usually affecting other cranial nerves (cerebellopontine angle tumour, trunk glioma, skull base metastasis, carcinomatous meningoradiculitis). In the case of parotid swelling, the onset of facial paralysis raises fears of a malignant tumour.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a common cause of facial paralysis (PFP)?",
+        "description": "A list of possible causes of facial paralysis",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Head trauma",
+        "description": "Trauma to the head can cause facial paralysis",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Diabetes",
+        "description": "Diabetes can cause facial paralysis, although it is rare",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Guillain-Barr\u00e9 syndrome",
+        "description": "Guillain-Barr\u00e9 syndrome can cause facial paralysis, but it is not the most common cause",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Facial paralysis itself",
+        "description": "Facial paralysis can cause facial paralysis",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "A"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

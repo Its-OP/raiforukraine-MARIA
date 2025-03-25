@@ -1,0 +1,46 @@
+{
+  "folder": "IC-310",
+  "content": "{{knowledge objective\n|Identifiant=OIC-310-05-A\n|Item_parent=Prostate tumours\n|Item_parent_short=Prostate tumours\n|Rank=A\n|Title=Knowing the main clinical presentations of prostate cancer\n|Description=Knowing that most prostate cancers are asymptomatic, knowing how to suspect advanced prostate cancer in the presence of urinary retention, renal failure or diffuse bone metastases, knowing that haemospermia is not a sign of prostate cancer.\n|Rubric=Positive diagnosis\n|Contributors=Alexandra MASSON-LECOMTE,Laurent BRUREAU\n|Order=5}}\n\n==Localized prostate cancer:==\n\n*Typically asymptomatic.\n*Normal DTR or finding of a nodule or induration.\n*Diagnosed on prostate biopsies taken for elevated PSA.\n*Urinary symptoms may be associated, generally with a concomitant prostate adenoma. These should be investigated as they may influence treatment.\n*Does not cause sexual problems\n*Does not generally lead to haemospermia\n\n==Locally advanced prostate cancer:==\n\n*Diagnosed by digital rectal examination or by an increase in PSA.\n*Micturition problems related to urethral obstruction by cancer\n*Beware of the risk of URO due to urethral obstruction and acute obstructive renal failure (due to URO or ureteral obstruction due to invasion of the trigone).\n\n==Metastatic prostate cancer:==\n\n*Impaired general condition, asthenia, anaemia due to bone marrow invasion\n*Bone pain that may indicate bone metastases\n*Non-traumatic spinal cord compression and cauda equina syndrome|Neurological signs due to compression 93 (paresthesia or even paraplegia of the lower limbs, cauda equina syndrome) related to spinal cord compression on spinal metastases.\n*Localised or generalised oedema of the lower limbs|\u0152dema of the lower limbs 257]] due to venous compression by adenopathies.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a common clinical presentation of locally advanced prostate cancer?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Urinary retention",
+        "description": "A common symptom of locally advanced prostate cancer",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Haemospermia",
+        "description": "A sign of prostate cancer, but not typically associated with localized disease",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Micturition problems",
+        "description": "A common symptom of locally advanced prostate cancer",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Bone pain",
+        "description": "A symptom of metastatic prostate cancer, not typically associated with localized disease",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "The letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

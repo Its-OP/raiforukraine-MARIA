@@ -1,0 +1,22 @@
+{
+  "folder": "IC-191",
+  "content": "{{knowledge objective\n|Identifiant=OIC-191-09-B\n|Item_parent=Fever in an immunocompromised patient\n|Item_parent_short=Fever in an immunocompromised patient\n|Rank=B\n|Title=Know the principles of antibiotic treatment of febrile neutropenia, depending on its severity.\n|Description=None\n|Rubric=Management\n|Contributors=Am\u00e9lie Servettaz\n|Order=9}}\n\nSystematic intravenous antibiotic therapy, including a broad-spectrum \u03b2-lactam active against Pseudomonas aeruginosa, must be started as a matter of urgency: piperacillin/tazobactam or cefepime.\n\nAn ''aminoglycoside'' should be added if there is any sign of severity or if multi-resistant gram-negative bacteria are suspected.\n\nIf skin infection, catheter infection and/or colonisation with multi-resistant Staphylococcus aureus is suspected: add a glycopeptide (vancomycin).  \n\n'''Special case: oral antibiotic therapy may be proposed if all the following criteria are met:'''\n\n- Non-profound neutropenia (\u22650.1 G/L)\n\n- Neutropenia < 7 days\n\n- No signs of seriousness\n\n- No history of risk (e.g. chronic respiratory insufficiency)\n\n- No signs of digestive intolerance\n\nIn these cases, antibiotic therapy with amoxicillin/clavulanic acid + ciprofloxacin may be proposed.\n\nIn all cases, reassessment of the regular situation\n\nAntibiotic therapy must be maintained throughout the period of neutropenia. If the patient is released from aplasia: antibiotic therapy should be continued for at least 48 hours after apyrexia, in the absence of microbiological identification.",
+  "question": {
+    "properties": {
+      "question": "What is the recommended antibiotic treatment for febrile neutropenia in an immunocompromised patient?",
+      "option_a": "Cefepime",
+      "option_b": "Piperacillin/tazobactam",
+      "option_c": "Vancomycin",
+      "option_d": "Amoxicillin/clavulanic acid + Ciprofloxacin",
+      "correct_option": "option_d"
+    },
+    "required": [
+      "question",
+      "correct_option"
+    ],
+    "required_items": [
+      "question",
+      "correct_option"
+    ]
+  }
+}

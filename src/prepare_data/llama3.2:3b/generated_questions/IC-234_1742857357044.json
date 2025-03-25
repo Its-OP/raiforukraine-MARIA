@@ -1,0 +1,46 @@
+{
+  "folder": "IC-234",
+  "content": "{{knowledge objective\n|Identifiant=OIC-234-15-A\n|Item_parent=Adult heart failure\n|Item_parent_short=Adult heart failure\n|Rank=A\n|Title=Chest radiography of PAO of haemodynamic origin\n|Description=None\n|Rubric=Multimedia content\n|Contributors=Olivier Huttin\n|Order=15}}\n\n[[File:Example of chest film of acute lung oedema.png|vignette|538x538px|Example of chest film of acute lung oedema]]",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary indication for chest radiography in a patient with acute heart failure?",
+        "description": "A patient presents with acute heart failure and a chest radiograph is ordered. What is the primary indication for this radiograph?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Pulmonary embolism",
+        "description": "A pulmonary embolism is a common cause of acute heart failure, and chest radiography may be used to confirm the diagnosis.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Pneumonia",
+        "description": "Pneumonia is a common complication of acute heart failure, and chest radiography may be used to diagnose and monitor the patient.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Cardiac tamponade",
+        "description": "Cardiac tamponade is a life-threatening condition that can cause acute heart failure, and chest radiography may be used to confirm the diagnosis.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Acute coronary syndrome",
+        "description": "Acute coronary syndrome is a common cause of acute heart failure, and chest radiography may be used to confirm the diagnosis.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "C",
+        "description": "The correct answer is the option that corresponds to the letter 'C'.",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

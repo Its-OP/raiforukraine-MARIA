@@ -1,0 +1,46 @@
+{
+  "folder": "IC-056",
+  "content": "{{knowledge objective\n|Identifiant=OIC-056-04-A\n|Item_parent=The disabled child: orientation and care (see items 118, 121)\n|Item_parent_short=The disabled child: orientation and care (see items 118, 121)\n|Rank=A\n|Title=Know the general principles of care, including the principles of schooling.\n|Description=Principle of the triple project of care for the disabled child, principles of schooling.\n|Rubric=Support\n|Contributors=\n|Order=4}}\nTo be taken into account\n\n- The child's disability may compromise the quality of interactions with natural carers, and encourage violence and abuse. There may also be consequences for siblings.( [[Situation of disability SD-345|Situation of disability]]- [[Announcement of a diagnosis of serious illness to the patient and/or family SD-327|Announcement of a diagnosis of serious illness to the patient and/or family]] - [[Suspicion of maltreatment and children at risk SD-321|suspicion of maltreatment and children at risk]]\n\n- Developmental: variable impact of the disability ([[Psychomotor development abnormality SD-115|Psychomotor development abnormality]])\n\n\nThe aim of supporting children with disabilities and their families is to encourage the development of their skills and those of their families, to enable them to participate as much as possible (in family life, in the society in which they live, etc.), and to promote their quality of life.  \n\n\nKey points in supporting children and their families\n\n- co-determination of objectives,\n\n- regular reassessments of these\n\n\nTriple support\n\n- therapeutic (medical, re-educational, psychological),\n\n- education (schooling),\n\nsocial (preferential home care, financial and human assistance, adaptation of the environment)\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary goal of supporting children with disabilities and their families?",
+        "description": "The aim of supporting children with disabilities and their families is to encourage the development of their skills and those of their families, to enable them to participate as much as possible (in family life, in the society in which they live, etc.), and to promote their quality of life.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To provide medical treatment only",
+        "description": "This option focuses on the medical aspect of supporting children with disabilities, which is only one part of the triple support approach.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "To promote the child's independence",
+        "description": "While promoting independence is an important aspect of supporting children with disabilities, it is not the primary goal.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "To enable the child and family to participate fully in society",
+        "description": "This option accurately reflects the primary goal of supporting children with disabilities and their families.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "To provide financial assistance only",
+        "description": "This option is too narrow, as supporting children with disabilities and their families involves a broader range of activities.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "C",
+        "description": "The correct answer is option C, as it accurately reflects the primary goal of supporting children with disabilities and their families.",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

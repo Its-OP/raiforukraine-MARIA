@@ -1,0 +1,46 @@
+{
+  "folder": "IC-312",
+  "content": "{{knowledge objective\n|Identifiant=OIC-312-06-A\n|Item_parent=Breast tumours\n|Item_parent_short=Breast tumours\n|Rank=A\n|Title=Knowing the clinical presentations of breast tumours\n|Description=Clinical breast signs: nodule, discharge, inflammation, skin lesions\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=6}}\nThe clinical examination includes :\n\n* An interview to look for breast pain, self-exploration of nodules, changes in general condition (''asthenia'', ''weight loss'').\n\n* An inspection to look for changes in the skin of the breast or nipple: retraction, dimpling or flattening, deviation or invagination of the nipple, \"nipple discharge\" or eczematous appearance of the nipple, orange peel skin, skin oedema, \"skin ulcer\", inflammation with breast enlargement, localised or diffuse \"erythema\" and local heat (suggestive of inflammatory breast cancer).\n* Bilateral palpation of the breasts and the axillary, supra- and sub-clavicular lymph nodes to look for a nodule in the breast, or single or multiple adenopathies (axillary or supra- or sub-clavicular lymph nodes).",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the purpose of the clinical examination in breast tumours?",
+        "description": "The clinical examination is a crucial step in diagnosing breast tumours. What is its main objective?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To look for breast pain and self-exploration of nodules",
+        "description": "This option is partially correct, but it is not the main objective of the clinical examination.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "To look for changes in the skin of the breast or nipple",
+        "description": "This option is partially correct, but it is not the main objective of the clinical examination.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "To look for a nodule in the breast, or single or multiple adenopathies",
+        "description": "This option is partially correct, but it is not the main objective of the clinical examination.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "To gather a comprehensive overview of the patient's general condition and breast signs",
+        "description": "This option is the correct answer, as the clinical examination aims to gather a comprehensive overview of the patient's general condition and breast signs.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "d",
+        "description": "The correct option is option D.",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

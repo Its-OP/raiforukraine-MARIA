@@ -1,0 +1,22 @@
+{
+  "folder": "IC-336",
+  "content": "{{knowledge objective\n|Identifiant=OIC-336-05-A\n|Item_parent=Non-traumaticoma in adults and children\n|Item_parent_short=Non-traumatic coma in adults and children\n|Rank=A\n|Title=Knowing how to look for clinical and anamnestic signs of coma\n|Description=Fever, meningeal syndrome, local signs, scalp examination, circumstances...\n|Rubric=Positive diagnosis\n|Contributors=Nicolas Weiss\n|Order=5}}\n\n- onset: abrupt, rapidly progressive, gradual\n\n- presence of fever, purpura\n\n- presence of meningeal syndrome\n\n- presence of oculomotor disorders\n\n- trauma (bruising, haematoma in the eyeglass or retroauricular area)\n\n- convulsions, myoclonus\n\n- context :\n\no chronic intoxication: alcohol, illicit substances\n\no farewell letter, empty blister packs\n\no Empty syringes, injection marks\n\no prescriptions for oral antidiabetics or insulin\n\no dilapidated accommodation, heating methods (CO ...)",
+  "question": {
+    "properties": {
+      "question": "What is the typical presentation of a child who has suffered a traumatic brain injury?",
+      "option_a": "The child is usually unconscious, with a history of fever, meningeal syndrome, and oculomotor disorders",
+      "option_b": "The child is usually febrile, with meningeal irritation, and oculomotor disorders",
+      "option_c": "The child is usually febrile, with meningeal irritation, and myoclonus",
+      "option_d": "The child is usually febrile, with meningeal irritation, and convulsions",
+      "correct_option": "The child is usually unconscious, with a history of fever, meningeal syndrome, and oculomotor disorders",
+      "required": [
+        "question",
+        "option_a",
+        "option_b",
+        "option_c",
+        "option_d",
+        "correct_option"
+      ]
+    }
+  }
+}

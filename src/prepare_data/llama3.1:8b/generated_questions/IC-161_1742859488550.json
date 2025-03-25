@@ -1,0 +1,12 @@
+{
+  "folder": "IC-161",
+  "content": "{{knowledge objective\n|Identifiant=OIC-161-16-A\n|Item_parent=Urinary infections in children and adults\n|Item_parent_short=Urinary infections in children and adults\n|Rank=A\n|Title=Knowing the specific features of urinary tract infections in the elderly\n|Description=ECBU indications, compliance\n|Heading=Management\n|Contributors=Maxime Vall\u00e9e, Alice Faure\n|Order=16}}\n\n\n*Apart from typical cases, the diagnosis of urinary tract infection in the elderly ''is a diagnosis of presumption''. The elderly may express acute pathologies in an atypical manner, mainly due to their comorbidities; as comorbidities accumulate with age and their knowledge remains variable, it is not uncommon for an infectious syndrome to be expressed in the form of [[Normal ageing: biological, functional and relational aspects. Epidemiological and sociological data. Prevention of pathological ageing|'''geriatric syndromes''' 123]] such as acute [[Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder.|confusional 66]], falls, [[Cognitive disorders in the elderly (see item 108)|acute dependence 132]] and [[Autonomy and dependence in the elderly|133]], deterioration in general condition...\n\n<br />\n\n*Atypical symptoms must be attributed to conditions other than UTI, even if the ECBU is positive.\n*Urinary tract colonisation is very common in certain geriatric populations (up to 80% depending on the terrain), and care must be taken when explaining acute atypical symptoms by a positive ECBU.\n\n<br />",
+  "question": {
+    "question": "What is the challenge in diagnosing urinary tract infections in the elderly?",
+    "option_a": "The elderly often exhibit typical symptoms such as burning during urination and frequent urination.",
+    "option_b": "The elderly may express acute pathologies in an atypical manner due to their comorbidities, making diagnosis more challenging.",
+    "option_c": "Urinary tract infections are more common in younger populations, so the diagnosis is often straightforward.",
+    "option_d": "The elderly rarely experience urinary tract colonization, making the diagnosis of UTI less complicated.",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-076",
+  "content": "{{knowledge objective\n|Identifiant=OIC-076-09-A\n|Item_parent=Alcohol dependence\n|Item_parent_short=Alcohol dependence\n|Rank=A\n|Title=To understand the frequent association of alcohol misuse with other addictive and psychiatric pathologies, whether primary or secondary.\n|Description=Psychiatric disorders associated with alcohol misuse may be primary (existing before the onset of misuse, which may have a self-therapeutic function) or secondary (alcohol consumption leads to psychiatric symptoms or disorders, particularly anxiety or depression).\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=9}}\nMost common psychiatric comorbidities: [[Anxiety SD-116|anxiety disorders]] and depressive disorders.\n\nAssociation of alcohol misuse with schizophrenia (20-30%) and bipolar disorder (up to 40%).\n\n[Suicidal risk 2C-066-IU-A01|Risk]] of [[Suicidal ideation or behaviour/self-inflicted injury SD-125|suicide]] very strongly increased, (acute alcoholisations++)\n\n\nPrimary psychiatric disorders: preceding misuse\n\nor secondary: occur as a result of acute or chronic consumption\n\nDiagnosis based on anamnesis and evolution after withdrawal\n\n\nFrequent association with other product addictions (tobacco +++) and behavioural addictions (pathological gambling +)",
+  "question": {
+    "question": "What is a common association of alcohol misuse?",
+    "option_a": "Alcohol misuse is primarily associated with physical health problems.",
+    "option_b": "Alcohol misuse is frequently linked to other addictive and psychiatric pathologies, both primary and secondary.",
+    "option_c": "Alcohol misuse is a primary cause of anxiety disorders.",
+    "option_d": "Alcohol misuse is only associated with secondary psychiatric disorders.",
+    "correct_option": "B"
+  }
+}

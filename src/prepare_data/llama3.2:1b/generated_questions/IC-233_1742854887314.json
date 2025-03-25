@@ -1,0 +1,14 @@
+{
+  "folder": "IC-233",
+  "content": "{{knowledge objective\n|Identifiant=OIC-233-03-A\n|Item_parent=Valvulopathies\n|Item_parent_short=Valvulopathies\n|Rank=A\n|Title=Know the main etiologies of valvulopathies (MI, RA, IA, RM)\n|Description=I\n|Rubric=Etiologies\n|Contributors=Myriam Akodad,Florence Leclercq\n|Order=3}}\n\n'''Mitral insufficiency''' :\n\n* ''Organic or primary'':\n** <u>Degenerative</u>:\n*** Myxoid= Barlow's disease: young subject (<40 years), female predominance: valve prolapse due to excess tissue, rare cord rupture\n*** Fibroelastic = age>60 years, predominantly male, more frequent cord rupture\n** <u>Infectious endocarditis</u>: valve damage by perforation or vegetation\n** <u>Post-rheumatic</u>: young subject, rare in industrialised countries, polyvalvulopathy often present\n** <u>Ischaemic</u>: acute by pillar rupture or dysfunction (most commonly posterior)\n** <u>Other</u>: trauma, drug-induced (anorectics), congenital, ...\n* ''Functional or secondary'': by dilatation and hypokinesis of the LV (ischaemic or other heart diseases)\n\n'''Aortic stenosis''' :\n\n* Degenerative (Monckeberg's disease): linked to ageing, calcification and fibrosis of the aortic valve.\n* Congenital bicuspidosis: young subjects (<65 years), often associated with pathology of the ascending aorta.\n* Post-rheumatic'': young patients, rare in industrialised countries, often polyvalvular disease.\n\n'''Aortic insufficiency''' :\n\n* ''Chronic:''\n** Dystrophic (annulo-ectasiante): >40 years, idiopathic (hypertension) or Marfan/Ehlers-Danlos/Turner.\n** Congenital bicuspid: often associated with aortic pathology, particularly ascending (aneurysm).\n** Post-rheumatic: <40 years, rare in industrialised countries, often polyvalvular disease\n** Inflammatory: ''aortitis'' (lupus, syphilis, rheumatoid arthritis, spondylitis, etc.)\n** Other '':'' '''Drug-induced''' (anorectics, chronic), '''Prosthesis''' (para/intra prosthesis), '''Post-endocarditis''''\n* ''Acute'' :\n** Aortic dissection / Valsalva aneurysm rupture\n** Infective endocarditis\n** Traumatic\n\n'''Mitral narrowing''' :\n\n* Post-rheumatic\": most frequent = commissural fusion, secondary involvement of the sub-valvular apparatus.\n* Degenerative: calcified annulus\n* Congenital: rare (parachute valve)\n\n<br />",
+  "question": {
+    "question": "What is the main etiology of mitral insufficiency?",
+    "option_a": "Degenerative",
+    "option_b": "Dystrophic",
+    "option_c": "Congenital",
+    "option_d": "Other",
+    "correct_option": "A",
+    "answer": "A",
+    "answer_type": "correct"
+  }
+}

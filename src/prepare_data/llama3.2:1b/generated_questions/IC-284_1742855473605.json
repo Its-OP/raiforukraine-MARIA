@@ -1,0 +1,14 @@
+{
+  "folder": "IC-284",
+  "content": "{{knowledge objective\n|Identifiant=OIC-284-03-B\n|Item_parent=Functional colorectal disease\n|Item_parent_short=Functional colopathy\n|Rank=B\n|Title=Knowing the prevalence and impact on quality of life\n|Description=None\n|Rubric=Prevalence\n|Contributors=\n|Order=3}}\nThe estimated prevalence is 4% of the general population worldwide.\n\nIrritable bowel syndrome is the leading cause of consultation in gastroenterology. The prevalence varies from country to country and according to the diagnostic criteria used. It is more prevalent in women than in men, and is more common in young people. The impact on quality of life can be very significant. The impact of the disease on productivity at work has also been widely demonstrated. It is still a poorly recognised public health problem.",
+  "question": {
+    "question": "What is the estimated prevalence of irritable bowel syndrome (IBS) in the general population worldwide?",
+    "options": {
+      "a": "5% of the global population",
+      "b": "10% of the global population",
+      "c": "20% of the global population",
+      "d": "5% of the global population",
+      "correct_option": "a"
+    }
+  }
+}

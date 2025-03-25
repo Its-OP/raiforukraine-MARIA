@@ -1,0 +1,46 @@
+{
+  "folder": "IC-186",
+  "content": "{{knowledge objective\n|Identifiant=OIC-186-09-B\n|Item_parent=Hypersensitivities and allergies in children and adults: physiopathological, epidemiological and diagnostic aspects and principles of treatment\n|Item_parent_short=Hypersensitivities and allergies in children and adults: pathophysiological, epidemiological and diagnostic aspects and principles of treatment\n|Rank=B\n|Title=Knowing the algorithm for the diagnostic and therapeutic management of food allergy to allergens crossing with pneumallergens\n|Description=None\n|Topic=Positive diagnosis\n|Contributors=\n|Order=9}}\nCross-allergies between respiratory and food allergens can be explained by the ''recognition, by a patient's specific IgE antibodies'', of '''similar'' or highly homologous allergens present in '''distinct allergenic sources'' (respiratory and food).\n\nThe most common clinical picture is that of an \"oral syndrome\" (labial or lingual oedema, oral or pharyngeal pruritus, labial, lingual or palatal erythema) after eating fruit in a patient with a pollen allergy.\n\n\nFor example: - birch, apple and other raw fruit and vegetable pollens ;\n\n- cypress, peach and sometimes citrus pollens.\n\n- egg-bird syndrome (induction of egg allergy by the respiratory route by feathers or bird droppings);",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the most common clinical picture in a patient with a pollen allergy who also eats fruit?",
+        "description": "A multiple-choice question about the clinical presentation of cross-allergies",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Labial or lingual erythema and oral pruritus after eating nuts",
+        "description": "A plausible but incorrect answer that could be tempting for someone who doesn't know the correct answer",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Labial or lingual oedema, oral or pharyngeal pruritus, labial, lingual or palatal erythema after eating fruit",
+        "description": "The correct answer based on the provided text",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Induction of egg allergy by the respiratory route by feathers or bird droppings",
+        "description": "A distractor that is related to the topic but not relevant to the question",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "A rare condition where a patient has an allergy to both food and respiratory allergens",
+        "description": "A distractor that is not mentioned in the provided text",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

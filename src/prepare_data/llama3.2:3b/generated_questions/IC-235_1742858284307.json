@@ -1,0 +1,46 @@
+{
+  "folder": "IC-235",
+  "content": "{{knowledge objective\n|Identifiant=OIC-235-12-A\n|Item_parent=Acute pericarditis\n|Item_parent_short=Acute pericarditis\n|Rank=A\n|Title=Knowing the treatment of benign acute pericarditis\n|Description=Rest, analgesics, anti-inflammatory bi-therapy: aspirin or ibuprofen and colchicine\n|Rubric=Management\n|Contributors=Jennifer Cautela\n|Order=12}}\n\n\n* Rest, no sport (minimum duration until resolution of symptoms after normalisation of CRP, ECG and ETT: in practice 3 months)'''\n* Double anti-inflammatory treatment:''''\n** '''AINS :''''\n*** especially '''aspirin''' 1000 mg * 3 per day\n*** or ibuprofen 800 mg *3 per day for 2 weeks\n*** then decrease progressively according to symptoms and CRP\n** Systematically combined with '''COLCHICIN:''''\n*** 0.5 mg \u00d7 2 if weight > 70kg\n*** 0.5 mg daily if weight <70kg\n*** for 3 months,\n*** calms pain and above all reduces the risk of recurrence\n*** potential drug interactions (via cytochrome P450)\n*** strict biological monitoring (transaminases, creatinine, CPK, CBC, platelets)\n*** contraindicated in cases of severe renal impairment\n\n* Association with gastric protection\n* No corticosteroids as first-line treatment\n* Most often ''favourable'' outcome",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the recommended treatment for benign acute pericarditis?",
+        "description": "The treatment of benign acute pericarditis",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Rest and corticosteroids",
+        "description": "Rest and corticosteroids are the recommended treatment",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Rest, anti-inflammatory bi-therapy, and exercise",
+        "description": "Rest, anti-inflammatory bi-therapy, and regular exercise are the recommended treatment",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Double anti-inflammatory treatment with aspirin and ibuprofen",
+        "description": "Double anti-inflammatory treatment with aspirin and ibuprofen are the recommended treatment",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Rest, analgesics, and anti-inflammatory bi-therapy with colchicine",
+        "description": "Rest, analgesics, and anti-inflammatory bi-therapy with colchicine are the recommended treatment",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "d",
+        "description": "The correct letter of the option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

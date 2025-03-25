@@ -1,0 +1,22 @@
+{
+  "folder": "IC-237",
+  "content": "{{knowledge objective\n|Identifiant=OIC-237-04-B\n|Item_parent=Palpitations\n|Item_parent_short=Palpitations\n|Rank=B\n|Title=Knowing the procedures for carrying out complementary examinations in the initial management of a patient.\n|Description=Knowing how to carry out complementary tests: biological data and other 1st line complementary tests\n|Heading=Complementary examinations\n|Contributors=Arnaud Bisson\n|Order=4}}\n\n\n* First-line biology: CBC, ionogram, TSH, then oriented according to the context: B-HCG, D-dimer, troponins, etc.\n* Echocardiography: to look for underlying heart disease\n* Exercise stress test:'' if onset during exercise or suspected myocardial ischaemia\n* '''Ambulatory ECG recording:''' Diagnosis is based on obtaining a percritical electrocardiographic trace. If this cannot be obtained during the initial treatment, the following steps should be taken:\n** '''In case of frequent palpitations (>1/week):'''' A Holter ECG with a recording time of between 24 and 96 hours is indicated.\n** '''For less frequent palpitations (<1/week):''' A long-term ambulatory ECG (7 to 21 days) is used",
+  "question": {
+    "properties": {
+      "question": "What is the typical duration of a long-term ambulatory ECG for patients with frequent palpitations?",
+      "option_a": "7 days",
+      "option_b": "21 days",
+      "option_c": "7 to 21 days",
+      "option_d": "21 days to 30 days",
+      "correct_option": "7 to 21 days"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

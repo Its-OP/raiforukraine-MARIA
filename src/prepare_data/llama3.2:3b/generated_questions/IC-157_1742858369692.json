@@ -1,0 +1,46 @@
+{
+  "folder": "IC-157",
+  "content": "{{knowledge objective\n|Identifiant=OIC-157-15-B\n|Item_parent=Bacteremia/Fungemia in adults and children\n|Item_parent_short=Bacteremia/Fungemia in adults and children\n|Rank=B\n|Title=Knowing how to control the source of infection\n|Description=Know how to seek surgical or radiointerventional advice to discuss the possible removal of an infectious source.\n|Rubric=Management\n|Contributors=\n|Order=15}}\nSurgical or radio-interventional control of the infectious source is essential in the following situations:\n\n- Abdominal emergencies: peritoneal lavage (peritonitis), drainage of bile ducts (angiocholitis)\n\n- Acute blocked pyelonephritis: urine diversion\n\n- Endocarditis complicated by cardiogenic shock (valvular decay) or perivalvular abscess\n\n- Arthritis with sepsis/septic shock or persistent bacteremia (joint lavage)\n\n- Flattening or radiological drainage of an abscess\n\n- Necrotizing fasciitis",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Surgical or radio-interventional control of the infectious source is essential in the following situations:",
+        "description": "What is a key aspect of managing sepsis?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "In cases of acute appendicitis",
+        "description": "A common surgical emergency",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "In cases of endocarditis complicated by cardiogenic shock or perivalvular abscess",
+        "description": "A critical situation requiring intervention",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "In cases of osteomyelitis",
+        "description": "A common complication of untreated infections",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "In cases of diverticulitis",
+        "description": "A condition affecting the digestive system",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "option_b",
+        "description": "The correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

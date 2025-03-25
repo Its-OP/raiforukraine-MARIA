@@ -1,0 +1,46 @@
+{
+  "folder": "IC-261",
+  "content": "{{knowledge objective\n|Identifiant=OIC-261-03-B\n|Item_parent=Glomerular nephropathy\n|Item_parent_short=Glomerular nephropathy\n|Rank=B\n|Title=Knowing the frequency and epidemiology of the main glomerular diseases\n|Description=Know that SNLGM is the leading cause of SN in children, that GEM is the leading cause of SN after the age of 50, that N IgA is the leading cause of NG, that diabetes is the leading cause of secondary NG, and that lupus nephropathy occurs in 50% of lupus patients...\n|Rubric=Epidemiology\n|Contributors=Eric Daugas,Bruno Moulin\n|Order=3}}\n\n'''C. Frequency and epidemiology of the main glomerular diseases'''\n\n'''Nephrotic syndrome with minimal glomerular lesions (SNLGM)'''\n\n*Main cause of nephrotic syndrome in children (90% before the age of 8);\n*rarer in adults (10% of adult nephrotic syndromes);\n*predominantly male.\n\n\nExtra-membranous glomerulopathy\n\n*The leading cause of nephrotic syndrome in adults (40% of cases), apart from diabetic nephropathy;\n*predominantly male.\n\n\nIgA nephropathy\n\n*the most common primary glomerulonephritis (with no extrarenal cause).\n*5th cause of chronic end-stage renal disease in France.\n*Predominantly young adults, predominantly men.\n\n\nDiabetic nephropathy\n\n*the most common secondary glomerular nephropathy\n*1<sup>rst</sup> or 2nd leading cause of end-stage renal disease in France.\n\n\nLupus nephropathy\n\n*Renal involvement is observed in 40% of patients with systemic lupus.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the most common cause of nephrotic syndrome in children?",
+        "description": "A question about the frequency and epidemiology of glomerular diseases",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Diabetic nephropathy",
+        "description": "A common secondary glomerular nephropathy",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "IgA nephropathy",
+        "description": "The most common primary glomerulonephritis",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Lupus nephropathy",
+        "description": "Renal involvement is observed in 40% of patients with systemic lupus",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Extra-membranous glomerulopathy",
+        "description": "The leading cause of nephrotic syndrome in adults (40% of cases), apart from diabetic nephropathy",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The first letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

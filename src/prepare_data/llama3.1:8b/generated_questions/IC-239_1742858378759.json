@@ -1,0 +1,12 @@
+{
+  "folder": "IC-239",
+  "content": "{{knowledge objective\n|Identifiant=OIC-239-04-B\n|Item_parent=Acrosyndromes (Raynaud's phenomenon, erythermalgia, acrocyanosis, frostbite, digital ischaemia)\n|Item_parent_short=Acrosyndromes (Raynaud's phenomenon, erythermalgia, acrocyanosis, frostbite, digital ischaemia)\n|Rank=B\n|Title=Knowing the dermatological signs of systemic scleroderma (excluding Raynaud's phenomenon)\n|Description=Pudgy fingers, sclerodactyly, telangiectasias, digital ulcerations, digital hippocratism\n|Rubric=Positive diagnosis\n|Contributors= Sophie Blaise, Luc Bressollette, Claire Le Hello\n|Order=4}}\n\nThe most common cause of non-iatrogenic secondary RA is systemic scleroderma, which should be systematically investigated.\n\nThe dermatological signs of systemic scleroderma are\n\n- cutaneous sclerosis\n\n- telangiectasias,\n\n- subcutaneous calcinosis.  \n\nCutaneous sclerosis predominates in the extremities (sclerodactyly), may extend to the trunk and also affect the face ('''''SD-150: [[Limitation of mouth opening SD-150|limitation of mouth opening]]'')'''''",
+  "question": {
+    "question": "What are the dermatological signs of systemic scleroderma (excluding Raynaud's phenomenon)?",
+    "option_a": "Pudgy fingers, telangiectasias, digital ulcerations",
+    "option_b": "Cutaneous sclerosis, telangiectasias, digital hippocratism",
+    "option_c": "Subcutaneous calcinosis, sclerodactyly, limitation of mouth opening",
+    "option_d": "Acrocyanosis, erythermalgia, digital ischaemia",
+    "correct_option": "B"
+  }
+}

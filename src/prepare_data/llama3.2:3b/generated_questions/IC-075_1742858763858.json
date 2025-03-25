@@ -1,0 +1,12 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-28-B\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=B\n|Title=Knowing how to manage after an acute event: myocardial infarction, respiratory decompensation, etc.\n|Description=None\n|Topic=Management\n|Contributors=\n|Order=28}}\n'''Treatment methods: psychotherapy, nicotine substitutes, varenicline and bupropion.'''\n\n'''Long-term care:''''\n\n* Maintenance of cessation, adaptation of substitution and regular monitoring.\n* In the event of dependence => pharmacological treatment (reduces withdrawal symptoms, cravings and relapse).\n* Assessment of psychiatric co-morbidities and co-addictions.\n\nPharmacological treatments\n\n* Nicotine replacement therapy\n** Daily nicotine intake\n** Effective if prescribed for a long time, in the right dosage and properly explained\n** Forms (transdermal / oral / inhalers)\n* Varenicline (partial nicotine receptor agonist) as second-line treatment.\n* As a last resort, bupropion (noradrenaline and dopamine reuptake inhibitor).\n\n'''Non-pharmacological treatments (psychotherapeutic support recommended)'''\n\n* Motivational interviews to encourage or reinforce motivation to change;\n* Supportive psychotherapy;\n* Cognitive behavioural therapy (CBT);\n* Telephone support: Tabac Info Service helpline (3989)\n\nElectronic cigarettes\n\n* Considered as an additional aid for quitting or reducing (not health products)\n\n\n\n<br />",
+  "question": {
+    "question": "What is the primary purpose of pharmacological treatments for smoking addiction?",
+    "option_a": "To provide motivational interviews and supportive psychotherapy",
+    "option_b": "To reduce withdrawal symptoms, cravings, and relapse in individuals with dependence",
+    "option_c": "To encourage or reinforce motivation to change through cognitive behavioural therapy",
+    "option_d": "To provide telephone support through the Tabac Info Service helpline",
+    "correct_option": "B"
+  }
+}

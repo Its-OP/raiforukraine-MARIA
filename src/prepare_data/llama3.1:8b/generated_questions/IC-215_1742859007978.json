@@ -1,0 +1,12 @@
+{
+  "folder": "IC-215",
+  "content": "{{knowledge objective\n|Identifiant=OIC-215-01-A\n|Item_parent=Purpuras in adults and children\n|Item_parent_short=Purpuras in adults and children\n|Rank=A\n|Title=Knowing how to define and recognise purpura\n|Description=Semiological description (multimedia support in the questions vasculitis and thrombocytopenia (189 and 210)\n|Topic=Definition\n|Contributors=\n|Order=1}}\nPurpura ('''[[Purpura/ecchymosis/hematoma SD-089|purpura/ecchymosis/hematoma]]''')\n\n* red or purplish skin lesions\n* separated by an interval of healthy skin\n* do not disappear with vitro-pressure\n* associated with extravasation of blood into the dermis\n* variable in appearance: punctiform, \"pinhead\" (petechial purpura), in the form of linear streaks (vibices) or larger lesions (ecchymotic purpura).",
+  "question": {
+    "question": "What is the definition of purpura?",
+    "option_a": "Red or purplish skin lesions that are caused by poor circulation",
+    "option_b": "Red or purplish skin lesions that are separated by an interval of healthy skin and do not disappear with pressure",
+    "option_c": "Red or purplish skin lesions that are caused by an allergic reaction",
+    "option_d": "Red or purplish skin lesions that are caused by a bacterial infection",
+    "correct_option": "B"
+  }
+}

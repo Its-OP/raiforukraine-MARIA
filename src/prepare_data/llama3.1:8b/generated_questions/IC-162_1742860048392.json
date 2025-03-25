@@ -1,0 +1,12 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-04-A\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=A\n|Title=Know the principles of caring for a partner or partners\n|Description=None\n|Heading=Management\n|Contributors=\n|Order=4}}\n- Identify the infected or contaminating partner(s) and propose screening, diagnosis and/or probabilistic treatment;\n\n- Systematically offer :\n\n- HIV serology,\n\n- treponemal test,\n\n- hepatitis B serology\n\n- Urinary or genital PCR for Neisseria gonorrhoeae and Chlamydia trachomatis,\n\n- Pharyngeal and anal PCR according to sexual practices\n\n- Emphasise the risks of recontamination (education).\n\n- Consider PrEP (Pre-Exposure Prophylaxis) type treatment against HIV if you take risks too regularly",
+  "question": {
+    "question": "What should be systematically offered to a partner or partners suspected of being infected with an STI?",
+    "option_a": "HIV serology, treponemal test, and hepatitis B serology",
+    "option_b": "Urinary or genital PCR for Neisseria gonorrhoeae and Chlamydia trachomatis, and Pharyngeal and anal PCR according to sexual practices",
+    "option_c": "Hepatitis B serology, PrEP (Pre-Exposure Prophylaxis) type treatment against HIV, and education on the risks of recontamination",
+    "option_d": "Only HIV serology and education on the risks of recontamination",
+    "correct_option": "B"
+  }
+}

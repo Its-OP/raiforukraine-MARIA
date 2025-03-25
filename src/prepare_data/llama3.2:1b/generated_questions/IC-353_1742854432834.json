@@ -1,0 +1,12 @@
+{
+  "folder": "IC-353",
+  "content": "{{knowledge objective\n|Identifiant=OIC-353-10-B\n|Item_parent=Suicidal risk and behaviour in children, adolescents and adults: identification and management\n|Item_parent_short=Suicidal risk and behaviour in children, adolescents and adults: identification and management\n|Rank=B\n|Title=Knowing the specific characteristics of children and adolescents\n|Description=None\n|Rubric=Management\n|Contributors=Pierre Vandel\n|Order=10}}\n\nA psychosocial assessment is systematically carried out alongside the medical assessment.\n\nA personalised safety plan is drawn up with the patient and their parents. This safety plan is a list of resources (resource persons, emergency telephone number, calming activities, reassurance techniques, etc.) that the patient can use before and during a suicidal crisis.\n\nInvolving parents in the care process is essential; they need to be made aware of the need for a safe environment (limiting access to lethal means).",
+  "question": {
+    "question": "What is the primary purpose of a psychosocial assessment in the context of suicidal risk and behaviour in children, adolescents, and adults?",
+    "option_a": "To identify potential risk factors and provide a diagnosis of mental health disorders",
+    "option_b": "To assess the patient's emotional state and provide a list of coping strategies",
+    "option_c": "To involve parents in the care process and ensure a safe environment",
+    "option_d": "To provide a treatment plan for the patient's mental health condition",
+    "correct_option": "option_c"
+  }
+}

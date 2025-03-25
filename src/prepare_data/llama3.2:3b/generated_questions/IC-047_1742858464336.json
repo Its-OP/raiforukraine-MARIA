@@ -1,0 +1,46 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-10-A\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=A\n|Title=Know how hearing disorders are systematically screened.\n|Description=Knowing the key ages for hearing screening\n|Rubric=Definition\n|Contributors=\n|Order=10}}\nFrequent hearing anomalies: 1 in 20 children under the age of 6\n\nMaternity, 9-month, 24-month, 36-month and nursery school hearing tests\n\nImportance of screening because of the repercussions of hearing loss on neuro-psycho-development",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "At what age should hearing screening typically begin?",
+        "description": "Select the correct age for the start of hearing screening.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "At birth",
+        "description": "Screening begins immediately after birth.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "At 6 months",
+        "description": "Screening starts when the child is 6 months old.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "At 9 months",
+        "description": "Screening begins when the child is 9 months old.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "At 1 year",
+        "description": "Screening starts when the child is 1 year old.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "Correct option letter.",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "folder": "IC-027",
+  "content": "{{knowledge objective\n|Identifiant=OIC-027-40-B\n|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Rank=B\n|Title=Addiction and pregnancy: the products involved and their main effects\n|Description=None\n|Rubric=Physiopathology\n|Contributors=Alexandre Vivanti, Philippe Deruelle\n|Order=40}}\nCannabis :\n\n- Intrauterine growth retardation\n\n- Prematurity\n\n- Moderate neonatal withdrawal syndrome (tremors, startle, sleep disturbances)\n\n- Attention problems, learning difficulties, sleep disorders\n\n\nCocaine :\n\n- Maternal complications: arterial hypertension, intense vasoconstriction\n\n- Spontaneous miscarriages\n\n- Prematurity\n\n- Intrauterine growth retardation\n\n- Premature rupture of the membranes\n\n- Retroplacental haematoma\n\n- Neonatal impregnation syndrome (hypertonia, sharp reflexes, hyperexcitability, tremors, convulsions)\n\n- Moderate neonatal withdrawal syndrome\n\n- Severe neonatal gastrointestinal disorders (mesenteric infarction, ulcerative colitis) and neurological disorders (convulsions, cerebral haemorrhagic lesions)\n\n\nHeroin :\n\n- Spontaneous miscarriages\n\n- Prematurity\n\n- Intrauterine growth retardation\n\n- Neonatal withdrawal syndrome\n\n\n'''293. [[Addictology follow-up consultation SD-293|Addictology follow-up consultation]]''''\n\n'''312. [[Prevention of foetal risks SD-312|Prevention of foetal risks]]''''",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What are the potential effects of cannabis use during pregnancy?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Intrauterine growth retardation, premature rupture of the membranes, and retroplacental haematoma",
+        "description": "Option A"
+      },
+      "option_b": {
+        "title": "Intrauterine growth retardation, premature rupture of the membranes, and neonatal withdrawal syndrome",
+        "description": "Option B"
+      },
+      "option_c": {
+        "title": "Intrauterine growth retardation, moderate neonatal withdrawal syndrome, and attention problems",
+        "description": "Option C"
+      },
+      "option_d": {
+        "title": "Intrauterine growth retardation, moderate neonatal withdrawal syndrome, and severe neonatal gastrointestinal disorders",
+        "description": "Option D"
+      },
+      "correct_option": {
+        "title": "C",
+        "description": ""
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

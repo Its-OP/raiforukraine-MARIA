@@ -1,0 +1,46 @@
+{
+  "folder": "IC-247",
+  "content": "{{knowledge objective\n|Identifiant=OIC-247-29-B\n|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Rank=B\n|Title=Knowing the principles of prevention and treatment of ketoacidosis\n|Description=None\n|Rubric=Management\n|Contributors=Claire Briet\n|Order=29}}\n'''''<u>TREATMENT</u>'''''\n\n====First steps====\n-Peripheral venous access\n\n- 0.9% saline rehydration\n\n- Biology: venous pH, bicarbonates, ionogram, creatinine, protidemia, haematocrit, CRP\n\n- Search for an infectious outbreak\n\n- Systematic ECG\n\n====Curative treatment====\nIn diabetology or intensive care in the event of serious signs.\n\nAfter recovering the kalaemia and creatinine:\n\n- Continuous infusion of rapid or ultra-rapid insulin: 0.1 U/kg/h, not exceeding 7 to 8 U per hour, ''FOR AS LONG AS THE CETOSIS Lasts:''.\n\n*If blood glucose < 2.5 g/l and ketonemia positive: maintain insulin flow rate + add 10% glucose (2l/24 hours)\n*Switch from IV insulin to subcutaneous insulin when ketonemia has disappeared+++''.\n\n- rehydration with isotonic saline solution\n\n- addition of potassium as soon as kalaemia is < 5 mmol/l\n\n- fever may only appear secondarily when ketosis is resolved.\n\n====''<u>PREVENTION</u>''====\nPatient education :\n\n*Systematic acetone testing if blood glucose is high + intercurrent pathologies or nausea.\n*If blood glucose levels are high and ketone levels are positive: the patient must know how to add rapid insulin.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the recommended duration of continuous infusion of rapid or ultra-rapid insulin in the treatment of ketoacidosis?",
+        "description": "The duration of treatment of ketoacidosis with continuous infusion of rapid or ultra-rapid insulin",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Until blood glucose levels return to normal",
+        "description": "The duration of treatment of ketoacidosis with continuous infusion of rapid or ultra-rapid insulin",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "As long as ketosis lasts",
+        "description": "The duration of treatment of ketoacidosis with continuous infusion of rapid or ultra-rapid insulin",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Until the patient is stable and no longer showing signs of ketosis",
+        "description": "The duration of treatment of ketoacidosis with continuous infusion of rapid or ultra-rapid insulin",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Until the patient is discharged from the hospital",
+        "description": "The duration of treatment of ketoacidosis with continuous infusion of rapid or ultra-rapid insulin",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "As long as ketosis lasts",
+        "description": "The correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

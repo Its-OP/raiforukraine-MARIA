@@ -1,0 +1,46 @@
+{
+  "folder": "IC-082",
+  "content": "{{knowledge objective\n|Identifiant=OIC-082-04-A\n|Item_parent=Acute visual impairment\n|Item_parent_short=Acute visual impairment\n|Rank=A\n|Title=Interpret a direct and consensual photomotor reflex (see item 81)\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=4}}\n\n[[File:Normal and pathological direct and consensual photomotor reflex.jpg|alt=Normal and pathological direct and consensual photomotor reflex|centric|vignette|628x628px|Normal and pathological direct and consensual photomotor reflex. In this example, the right eye is illuminated]]",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the expected response to a direct and consensual photomotor reflex?",
+        "description": "A direct and consensual photomotor reflex is a response to light stimulation in both eyes.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Abnormal pupillary response",
+        "description": "A response that is not normal or expected.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Convergent deviation",
+        "description": "A condition where the eyes deviate inward.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Convergent response",
+        "description": "A response where both eyes move inward.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Divergent deviation",
+        "description": "A condition where the eyes deviate outward.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "C",
+        "description": "The correct letter of the answer option.",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

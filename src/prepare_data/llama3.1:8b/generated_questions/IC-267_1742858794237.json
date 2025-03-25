@@ -1,0 +1,12 @@
+{
+  "folder": "IC-267",
+  "content": "{{knowledge objective\n|Identifiant=OIC-267-11-A\n|Item_parent=Disorders of acid-base balance and fluid-electrolyte disorders\n|Item_parent_short=Disorders of acid-base equilibrium and fluid and electrolyte disorders\n|Rank=A\n|Title=Knowing the indications for prescribing a kalaemia test and the definition of hyperkalaemia\n|Description=None\n|Rubric=Definition\n|Contributors=P Rieu; B Moulin; M Flamant\n|Order=11}}\n\n'''1- Definition of hyperkalaemia:'''\n\n*Hyperkalaemia is defined as a plasma potassium concentration greater than 5.0 mmol/L.\n*False hyperkalaemia is due to the release of potassium from the intracellular compartment into the extracellular compartment in the sampling tube:\n**Haemolysis during laborious sampling with a tight tourniquet;\n**Late centrifugation of the tube (sampling at the patient's home);\n**Major hyperleukocytosis (> 100,000/mm3) or thrombocythemia (> 1,000,000/mm3).\n\n\n'''2- Measurement of blood kalaemia to check for hyperkalaemia:'''\n\n*IRC\n*CRL\n*Prescription and monitoring of drugs that alter potassium metabolism (renin-angiotensin system blockers (ACEI-AR2), potassium-sparing diuretics, NSAIDs, etc.).\n*Acute muscle disorder\n*Heart conduction and rhythm disorders\n*Shock\n*Loss of consciousness",
+  "question": {
+    "question": "What are the indications for prescribing a potassium (kalaemia) test?",
+    "option_a": "To check for hyperkalaemia in patients with heart conduction and rhythm disorders",
+    "option_b": "To monitor the effects of renin-angiotensin system blockers (ACEI-AR2) and potassium-sparing diuretics on potassium metabolism",
+    "option_c": "To check for hyperkalaemia in patients with acute muscle disorders and shock",
+    "option_d": "To check for hyperkalaemia in patients with a history of loss of consciousness",
+    "correct_option": "B"
+  }
+}

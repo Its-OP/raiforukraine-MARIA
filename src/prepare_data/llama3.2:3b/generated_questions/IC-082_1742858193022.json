@@ -1,0 +1,46 @@
+{
+  "folder": "IC-082",
+  "content": "{{knowledge objective\n|Identifiant=OIC-082-01-A\n|Item_parent=Acute visual impairment\n|Item_parent_short=Acute visual impairment\n|Rank=A\n|Title=Knowing how to determine whether a visual disorder is monocular or binocular\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=1}}\n'''Anamnesis:''' assess the subjective sensation of mono- or binocularity of the disorder, and its laterality if monocular\n\n'''On examination:''' when assessing visual acuity without and then with optical correction, a well-performed occultation of one eye and then the other enables the mono- or binocular nature of the visual disorder to be determined.\n\nA visual problem is binocular if it disappears when either eye is occluded, and is only perceived when both eyes are open.\n\nA visual disturbance is monocular when it persists after occlusion of the healthy eye.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What determines whether a visual disorder is binocular or monocular?",
+        "description": "A visual problem is binocular if it disappears when either eye is occluded, and is only perceived when both eyes are open. A visual disturbance is monocular when it persists after occlusion of the healthy eye. Which of the following is a characteristic of a binocular visual disorder?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "The visual disturbance persists after occlusion of both eyes",
+        "description": "This option describes a characteristic of a monocular visual disturbance, not a binocular one",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "The visual problem disappears when either eye is occluded",
+        "description": "This option describes a characteristic of a binocular visual disorder",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "The visual disturbance is only perceived when one eye is occluded",
+        "description": "This option describes a characteristic of a monocular visual disturbance, not a binocular one",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "The visual problem is perceived when both eyes are closed",
+        "description": "This option is not a characteristic of either binocular or monocular visual disorders",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "The visual problem disappears when either eye is occluded",
+        "description": "This is the correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

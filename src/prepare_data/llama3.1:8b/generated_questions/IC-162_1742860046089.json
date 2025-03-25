@@ -1,0 +1,12 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-07-A\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=A\n|Title=Photograph of a chancre (primary syphilis)\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=7}}\n<gallery>\nFichier:Syphilis chancre LISA.jpg|alt=The description: single, clean-bottomed, painless and indurated is not always de rigueur. Here the background is fibrinous. Any ulceration of the genitals is syphilis until proven otherwise.|Syphilitic chancre: painless ulceration opposite the frenulum of the penis.\n</gallery>",
+  "question": {
+    "question": "What is a characteristic of a chancre in primary syphilis?",
+    "option_a": "It is usually painful and bleeds easily.",
+    "option_b": "It is a painless, indurated ulceration, often appearing at the site of initial exposure.",
+    "option_c": "It is a small, flat, and scaly lesion.",
+    "option_d": "It is typically accompanied by severe itching and discharge.",
+    "correct_option": "B"
+  }
+}

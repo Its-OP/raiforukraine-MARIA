@@ -1,0 +1,12 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-34-A\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=A\n|Title=Knowing systematic health checks at school age and coordination with school medicine.\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=34}}\nSchool-age check-ups: 3 years, 4 years, 5 years, 6 years, 8-9 years, 11-13 years, 15-16 years\n\nCommon objectives (cf ''[[To know the elements of systematic questioning and clinical examination of a child according to age and context 2C-047-PC-A01|To know the elements of systematic questioning and clinical examination of a child according to age and context]])'''\n\nSpecific objectives: socialisation, learning difficulties, attention deficit\n\nBilan de sant\u00e9 4\u00e8me ann\u00e9e (\u00e9cole maternelle) ''(P54-55 du carnet de sant\u00e9''<ref name=\":0\">[https://solidarites-sante.gouv.fr/IMG/pdf/carnet_de_sante-num-.pdf Carnet de sant\u00e9 dans sa derni\u00e8re actualisation (2018)]</ref>''):'' habitus (including schooling, screens and risk of lead poisoning), identification of language disorders, measurements, blood pressure, sight and hearing screening, development including language test, somatic examination including search for nasopharyngeal obstruction (snoring), oral and dental condition\n\nBilan de sant\u00e9 6\u00e8me ann\u00e9e souvent fait par la m\u00e9decine scolaire (CP) ''(p 58-59 du carnet de sant\u00e9<ref name=\":0\" />)'' : idem 4 ans + bandelette urinaire\n<references />",
+  "question": {
+    "question": "What is the typical age range for school-age check-ups?",
+    "option_a": "2-3 years",
+    "option_b": "3-4 years",
+    "option_c": "4-5 years",
+    "option_d": "5-6 years",
+    "correct_option": "3 years"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-226",
+  "content": "{{knowledge objective\n|Identifiant=OIC-226-15-B\n|Item_parent=Deep vein thrombosis and pulmonary embolism (see item 330)\n|Item_parent_short=Deep vein thrombosis and pulmonary embolism (see item 330)\n|Rank=B\n|Title=Savoir porter l'indication d'une recherche de cancer en cas de MTEV (TVP, EP)\n|Description=None\n|Rubric=Etiologies\n|Contributors=Gilles Pernod, Virginie Dufrost, Guillaume Mah\u00e9\n|Order=15}}\n\nQuestioning, a thorough clinical examination of the patient and the results of routine biological tests (haemogram, liver function tests, etc.) are the first essential step in this assessment.\n\nIn addition to this check-up, men should have a PSA test and women should have a gynaecological check-up.\n\nIn the absence of clinical evidence, no further investigations are recommended, except in cases of recurrent VTE.\n\nPatients must be up to date with the cancer screening procedures offered by the ODLC.",
+  "question": {
+    "question": "What are the initial steps in assessing a patient with a suspected deep vein thrombosis or pulmonary embolism?",
+    "option_a": "Perform an imaging study such as a CT scan or ultrasound",
+    "option_b": "Conduct a thorough clinical examination and routine biological tests, including a PSA test for men and a gynaecological check-up for women",
+    "option_c": "Administer anticoagulant medication to prevent further clot formation",
+    "option_d": "Refer the patient directly to a specialist without any further evaluation",
+    "correct_option": "B"
+  }
+}

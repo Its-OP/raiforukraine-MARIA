@@ -1,0 +1,41 @@
+{
+  "folder": "IC-157",
+  "content": "{{knowledge objective\n|Identifiant=OIC-157-04-A\n|Item_parent=Bacteremia/Fungemia in adults and children\n|Item_parent_short=Bacteremia/Fungemia in adults and children\n|Rank=A\n|Title=Know the infectious agents that cause bacteraemia, as well as their route of entry and the associated terrain.\n|Description=None\n|Rubric=Etiologies\n|Contributors=\n|Order=4}}\n'''Main infectious agents of community-acquired bacteremia:''''\n\n- Staphylococcus spp. (especially aureus +++): 30%.\n\n- Escherichia coli: 30%.\n\n- Other Gram-negative bacilli: 20%.\n\n- Streptococcus pneumoniae: 10%.\n\n- Other: 10% of sales\n\n- In infants under 1 month and sometimes up to three months: group B streptococcus, Escherichia coli, etc.\n\n- In children and infants aged 2 months and over, Neisseria meningitidis and Streptococcus pneumoniae predominate, followed by other streptococci and staphylococci.\n\n- Vaccination status influences the distribution of infectious agents.\n\n'''Entry point to look for according to the associated microorganism/infectious source:'''\n\n- Oral Streptococcus: oral cavity\n\n- Streptococcus pneumoniae: lung, meninges, ENT\n\n- Anaerobes: colon, pelvis, oral cavity\n\n- Streptococcus pyogenes: skin, ENT\n\n- Staphylococcus aureus and coagulase-negative staphylococci: skin and vascular catheter\n\n- ''Escherichia coli,'' other enterobacteria, enterococci: urinary tract, digestive tract, biliary tract, vascular catheter if patients are perfused\n\n- ''Candida:'' digestive tract, vascular catheter if patients are perfused",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary entry point for Streptococcus pneumoniae?",
+        "description": "The correct answer is a specific location where the bacteria enter the body.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Lung",
+        "description": "A possible entry point for Streptococcus pneumoniae, but not the primary one."
+      },
+      "option_b": {
+        "title": "Meninges",
+        "description": "A possible entry point for Streptococcus pneumoniae, but not the primary one."
+      },
+      "option_c": {
+        "title": "ENT",
+        "description": "A possible entry point for Streptococcus pneumoniae, but not the primary one."
+      },
+      "option_d": {
+        "title": "Skin",
+        "description": "The primary entry point for Streptococcus pneumoniae."
+      },
+      "correct_option": {
+        "title": "D",
+        "description": "The correct letter of the correct option."
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

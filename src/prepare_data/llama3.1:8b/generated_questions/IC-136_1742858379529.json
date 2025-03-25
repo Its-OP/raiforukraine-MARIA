@@ -1,0 +1,12 @@
+{
+  "folder": "IC-136",
+  "content": "{{knowledge objective\n|Identifiant=OIC-136-08-B\n|Item_parent=Local, locoregional and general anaesthesia\n|Item_parent_short=Local, locoregional and general anaesthesia\n|Rank=B\n|Title=Knowing the mechanism of action of local anaesthetics\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=8}}\nDuring locoregional anaesthesia, the local anaesthetics used act on nerve conduction by blocking voltage-dependent sodium channels. The action potential can no longer be conducted along the nerve fibre.",
+  "question": {
+    "question": "What is the primary mechanism of action of local anaesthetics during locoregional anaesthesia?",
+    "option_a": "Blocking voltage-dependent potassium channels",
+    "option_b": "Blocking calcium channels to prevent neurotransmitter release",
+    "option_c": "Blocking voltage-dependent sodium channels",
+    "option_d": "Increasing the threshold for action potential generation",
+    "correct_option": "C"
+  }
+}

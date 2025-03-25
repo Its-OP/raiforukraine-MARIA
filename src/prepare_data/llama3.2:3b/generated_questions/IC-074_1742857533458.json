@@ -1,0 +1,44 @@
+{
+  "folder": "IC-074",
+  "content": "{{knowledge objective\n|Identifiant=OIC-074-08-A\n|Item_parent=Prescription and monitoring of psychotropic drugs (see item 330)\n|Item_parent_short=Prescription and monitoring of psychotropic drugs (see item 330)\n|Rank=A\n|Intitle=Antidepressants: knowing the main classes and molecules\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=8}}\nThe classification of antidepressants is imperfect and is based on their supposed mechanism of action. The most commonly used classes and molecules are as follows.\n\n===== Selective serotonin reuptake inhibitors [''SRIs''] =====\n\n* Citalopram\n* Escitalopram\n* Paroxetine\n* Sertraline\n* Fluoxetine\n\n===== Serotonin and norepinephrine reuptake inhibitors [''SNRI''] =====\n\n* Venlafaxine\n* Duloxetine\n\n===== \"Other antidepressants\" (with a different pharmacological mechanism) =====\n\n* Vortioxetine\n* Mianserin\n* Mirtazapine\n* Agomelatine\n\n===== Imipraminics =====\n\n* Amitriptyline\n* Clomipramine",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Classification of antidepressants",
+        "description": "Which of the following antidepressants is NOT a serotonin and norepinephrine reuptake inhibitor (SNRI)?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Venlafaxine",
+        "description": "A commonly used SNRI",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Mirtazapine",
+        "description": "An atypical antidepressant with a different mechanism",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Agomelatine",
+        "description": "A drug with a different pharmacological mechanism",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Amitriptyline",
+        "description": "A tricyclic antidepressant",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

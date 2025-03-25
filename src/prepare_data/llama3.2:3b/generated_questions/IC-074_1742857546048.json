@@ -1,0 +1,46 @@
+{
+  "folder": "IC-074",
+  "content": "{{knowledge objective\n|Identifiant=OIC-074-16-A\n|Item_parent=Prescription and monitoring of psychotropic drugs (see item 330)\n|Item_parent_short=Prescription and monitoring of psychotropic drugs (see item 330)\n|Rank=A\n|Title=Anxiolytics: knowing how to prescribe in emergency situations\n|Description=Preferred molecules, pre-therapeutic assessment, route of administration\n|Rubric=Management\n|Contributors=\n|Order=16}}\n\n==Preferred molecules / route of administration===\n\n*The \"usual\" route of administration is '''''.\n*The IM route has \"no advantage\" for benzodiazepines (with generally poor bioavailability by IM route). In the event of major agitation, antipsychotics should be used (see chapter).\n*In certain situations, such as severe alcohol withdrawal syndrome, benzodiazepines may be administered IV.\n\n==Pre-therapy assessment==\n\n*Research into personal or family history to rule out any ''contraindications'' (questioning and clinical examination);\n*Search for drug treatments taken to anticipate any ''drug interactions'';\n*Search for ''psychiatric'' ''comorbidities'' and substance use disorders;",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "The usual route of administration for benzodiazepines is",
+        "description": "The correct answer should be a single letter of the correct option",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "IM (Intramuscular)",
+        "description": "The intramuscular route has no advantage for benzodiazepines, and is generally used for other types of medications",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "IV (Intravenous)",
+        "description": "Intravenous administration is used in severe cases, such as alcohol withdrawal syndrome",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "SC (Subcutaneous)",
+        "description": "The subcutaneous route is not a typical route of administration for benzodiazepines",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "PO (Oral)",
+        "description": "Oral administration is the usual route of administration for benzodiazepines",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "PO",
+        "description": "",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

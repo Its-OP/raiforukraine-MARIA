@@ -1,0 +1,12 @@
+{
+  "folder": "IC-197",
+  "content": "{{knowledge objective\n|Identifiant=OIC-197-14-B\n|Item_parent=Spondyloarthritis\n|Item_parent_short=Spondyloarthritis\n|Rank=B\n|Title=Knowing long-term prognosis\n|Description=Know the potential complications\n|Topic=Follow-up and/or prognosis\n|Contributors=\n|Order=14}}\n'''. Clinical follow-up'''\n\n- Axial damage\n\n- Peripheral joint damage\n\n- Enthesopathy\n\n- Extra-articular disorders\n\n- Activity scores :\n\no BASDAI score (Bath Ankylosing Spondylitis Disease Activity Index, from zero to ten)\n\no ASDAS (Ankylosing Spondylitis Disease Activity Score), a composite clinico-biological score.\n\n'''. Biological monitoring:'''' inflammatory syndrome\n\n'''. Radiological follow-up:''' In progressive forms, regular X-rays (every two or three years, for example) of the cervical spine in profile, the lumbar spine in front and in profile, and the pelvis.\n\n'''. Long-term prognosis''''\n\n- Functional prognosis\n\nAnkylosis of the spine, damage to the hips and restrictive lung disease can cause significant disability.\n\nCoxitis, early onset (before the age of sixteen), dactylitis, the extent of the inflammatory syndrome, resistance to NSAIDs, active smoking and the presence of syndesmophytes at diagnosis are all factors with a poor prognosis.\n\n- Complications of their own are becoming increasingly rare:\n\no AA amyloidosis,\n\no Cystic bullous dysplasia of the apexes, sometimes encountered; pulmonary fibrosis and above all restrictive syndrome\n\no Cardiac damage: in addition to the symptoms directly linked to the pathophysiology (conduction problems, aortic insufficiency), there is an increased cardiovascular risk represented by a higher frequency of strokes and myocardial infarctions.\n\no Bone damage with osteoporosis and risk of fracture\n\no Dilation of the dural cul-de-sac\n\n- Complications of treatment",
+  "question": {
+    "question": "What are factors associated with a poor prognosis in ankylosing spondylitis?",
+    "option_a": "Early onset of the disease, resistance to NSAIDs, and active smoking",
+    "option_b": "Axial damage, peripheral joint damage, and enthesopathy",
+    "option_c": "Extra-articular disorders, BASDAI score, and ASDAS",
+    "option_d": "Coxitis, dactylitis, inflammatory syndrome, and syndesmophytes at diagnosis",
+    "correct_option": "D"
+  }
+}

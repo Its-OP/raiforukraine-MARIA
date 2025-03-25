@@ -1,0 +1,12 @@
+{
+  "folder": "IC-102",
+  "content": "{{knowledge objective\n|Identifiant=OIC-102-06-A\n|Item_parent=Diplopia\n|Item_parent_short=Diplopia\n|Rank=A\n|Title=Knowing the symptomatology and vicious position of the head in complete paralysis of III, IV, VI\n|Description=Stroke, MS\n|Rubric=Multimedia content\n|Contributors=\n|Order=6}}\n'''Paralysis of the III'''\n\nTotal paralysis of the Ill causes on the pathological side :\n\n- total ptosis (which may mask diplopia)\n\n- a marked divergence (functional lateral right)\n\n- paralysis in raising and lowering the eye\n\n- loss of accommodation\n\n- areflective mydriasis\n\n\n'''Paralysis of the IV'''\n\n- Vertical and oblique diplopia, accentuated downwards and inwards (field of the superior oblique muscle), disabling in activities such as reading or descending stairs.\n\n- Compensatory head position: tilted to the healthy side, chin lowered.\n\n\n'''Paralysis of the VI'''\n\n- Horizontal diplopia\n\n- Convergence of the affected eye\n\n- Abduction deficit\n\n- Compensatory position of the head: turned towards the side of the oculomotor paralysis",
+  "question": {
+    "question": "What is the typical compensatory head position in complete paralysis of the VI nerve?",
+    "option_a": "Tilted to the healthy side, chin lowered",
+    "option_b": "Turned towards the side of the oculomotor paralysis",
+    "option_c": "Tilted to the affected side, chin raised",
+    "option_d": "No compensatory head position is necessary",
+    "correct_option": "B"
+  }
+}

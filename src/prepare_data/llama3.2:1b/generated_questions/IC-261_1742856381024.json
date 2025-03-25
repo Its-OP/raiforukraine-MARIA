@@ -1,0 +1,12 @@
+{
+  "folder": "IC-261",
+  "content": "{{knowledge objective\n|Identifiant=OIC-261-12-B\n|Item_parent=Glomerular nephropathy\n|Item_parent_short=Glomerular nephropathy\n|Rank=B\n|Title=Knowing the clinical and biological elements leading to suspicion of IgA nephropathy\n|Description=Know that the occurrence of haematuria 48 hours after an infectious epidosis (ENT or other) is suggestive of IgA nephropathy. Know that microscopic haematuria alone or associated with proteinuria may suggest NIgA in the first instance.\n|Rubric=Positive diagnosis\n|Contributors=Eric Daugas,Bruno Moulin\n|Order=12}}\n\n'''C.     IgA nephropathy''''\n\n'''Diagnosis'''\n\nAll glomerular syndromes are possible:\n\n* Recurrent macroscopic haematuria syndrome, without clots or pain, typically 48 hours after an episode of ENT infection;\n* Chronic glomerulonephritis syndrome;\n* Isolated microscopic haematuria;\n* Other possible presentations are :\n** impure nephrotic syndrome with haematuria and hypertension,\n** rapidly progressive glomerulonephritis syndrome.\n\n'''Diagnosis of NIgA is based on renal biopsy:'''\n\n* Mesangial deposits of IgA and C3.\n* mesangial cell proliferation, \u00b1 endocapillary, \u00b1 extracapillary\n\nEtiological diagnosis\n\n* Associated secondary NIgA :\n** cirrhosis,\n** chronic inflammatory bowel disease,\n** spondyloarthropathies,\n* IgA nephropathy in rheumatoid purpura:\n** Systemic vasculitis of small-calibre arteries with IgA\n** More common in children than adults.\n** Extra-renal signs: vascular purpura, arthralgia, abdominal pain, myalgia,\n** NIgA is sometimes severe with a rapidly progressive glomerulonephritis syndrome.\n** The most severe forms require high-dose corticosteroid therapy.\n\n'''In the absence of a cause:''' Primary IgA nephropathy or Berger's disease.",
+  "question": {
+    "question": "What is the most severe form of IgA nephropathy?",
+    "option_a": "Primary IgA nephropathy or Berger's disease",
+    "option_b": "Impure nephrotic syndrome with haematuria and hypertension",
+    "option_c": "Rapidly progressive glomerulonephritis syndrome",
+    "option_d": "Cirrhosis",
+    "correct_option": "option_a"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-136",
+  "content": "{{knowledge objective\n|Identifiant=OIC-136-08-B\n|Item_parent=Local, locoregional and general anaesthesia\n|Item_parent_short=Local, locoregional and general anaesthesia\n|Rank=B\n|Title=Knowing the mechanism of action of local anaesthetics\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=8}}\nDuring locoregional anaesthesia, the local anaesthetics used act on nerve conduction by blocking voltage-dependent sodium channels. The action potential can no longer be conducted along the nerve fibre.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary mechanism of action of local anaesthetics during locoregional anaesthesia?",
+        "description": "The local anaesthetics used act on nerve conduction by blocking voltage-dependent sodium channels. The action potential can no longer be conducted along the nerve fibre.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Blocking potassium channels",
+        "description": "Local anaesthetics block potassium channels, preventing the repolarization phase of the action potential.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Blocking calcium channels",
+        "description": "Local anaesthetics block calcium channels, reducing the influx of calcium ions and preventing the depolarization phase of the action potential.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Blocking voltage-dependent sodium channels",
+        "description": "Local anaesthetics block voltage-dependent sodium channels, preventing the generation of action potentials along the nerve fibre.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Blocking chloride channels",
+        "description": "Local anaesthetics block chloride channels, altering the resting membrane potential and preventing the action potential.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "C",
+        "description": "The correct option letter",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

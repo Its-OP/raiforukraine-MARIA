@@ -1,0 +1,12 @@
+{
+  "folder": "IC-145",
+  "content": "{{knowledge objective\n|Identifiant=OIC-145-03-B\n|Item_parent=Surveillance of communicable infectious diseases\n|Item_parent_short=Surveillance of communicable infectious diseases\n|Rank=B\n|Title=To understand the main structures and organisations responsible for the surveillance of communicable infectious diseases in France.\n|Description=None\n|Rubric=Definition\n|Contributors=Didier HOCQUET,Elodie COUVE,Anne-Marie ROGUES,Alexandre DUVIGNAUD\n|Order=3}}\n\nIn France, infectious disease surveillance is mainly carried out by :\n\n*Learn about the 4 main missions of Sant\u00e9 Publique France in the field of infectious diseases 2C-145-DE-B05|Sant\u00e9 Publique France]]: a national public health agency under the supervision of the Ministry of Health. It is a centre of reference and expertise in public health which relies on the National Public Health Network (RNSP) and the [[Learn about the 4 main missions of Sant\u00e9 Publique France in terms of infectious diseases 2C-145-DE-B05|Cellules InterR\u00e9gionales d'Epid\u00e9miologie (CIRE)]].\n*The Regional Health Agencies (ARS), in particular through the system of compulsory declaration of diseases (notifiable diseases).\n*2C-145-DE-B06|National Reference Centres (CNR): laboratories and clinical departments (located within public or private health, teaching or research establishments), one of whose missions is epidemiological surveillance.\n*National surveillance networks: [[Definition of a \"sentinel\" network 2C-145-DE-B07|r\u00e9seaux Sentinelles]], R\u00e9PIAS ([[Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). D\u00e9marche qualit\u00e9 et \u00e9valuation des pratiques professionnelles|R\u00e9seau de Pr\u00e9vention des Infections Associ\u00e9es aux Soins]]), ...",
+  "question": {
+    "question": "What is the main structure responsible for the surveillance of communicable infectious diseases in France?",
+    "option_a": "Sant\u00e9 Publique France",
+    "option_b": "Regional Health Agencies (ARS)",
+    "option_c": "National Reference Centres (CNR)",
+    "option_d": "Sentinel networks",
+    "correct_option": "option_a"
+  }
+}

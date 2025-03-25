@@ -1,0 +1,12 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-21-A\n|Item_parent=Smoking addiction\n|Item_parent_short=Tobacco addiction\n|Rank=A\n|Title=Knowing the signs of smoking cessation\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=21}}\nThe signs of withdrawal appear rapidly after stopping :\n\n* Depressed mood\n* Irritability\n* Frustration\n* Anger\n* Insomnia\n* Anxiety\n* Difficulty concentrating\n* Increased appetite => weight gain\n\n<br />",
+  "question": {
+    "question": "When stopping smoking, what is the typical time frame for withdrawal symptoms to appear?",
+    "option_a": "Immediately, within minutes",
+    "option_b": "After a few hours to a day",
+    "option_c": "Within a few days to a week",
+    "option_d": "After a week or more",
+    "correct_option": "C"
+  }
+}

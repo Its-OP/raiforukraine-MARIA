@@ -1,0 +1,21 @@
+{
+  "folder": "IC-076",
+  "content": "{{knowledge objective\n|Identifiant=OIC-076-15-A\n|Item_parent=Alcohol dependence\n|Item_parent_short=Alcohol dependence\n|Rank=A\n|Title=Knowing the principles of treatment\n|The general objectives may be: to stop drinking completely or abstain; to return to low-risk drinking; or even to reduce consumption with a view to reducing harm.\n|Rubric=Management\n|Contributors=\n|Order=15}}\nComprehensive, multidisciplinary medical, psychological and social care. \n\ndepends on the [[First addictology consultation SD-292|situation and the patient's request]]\n\n\nGeneral objectives can be :\n\n- complete cessation of consumption (abstinence);\n\n- return to low-risk use ;\n\n- or even a reduction in consumption with a view to reducing risks.\n\nIn the case of severe dependence, stopping use = the most realistic objective, but it is the patient who defines his or her objective.\n\n\nPossible strategies:\n\n- complete and supervised cessation of use (withdrawal) followed by continued cessation of use or low-risk use ;\n\n- gradual reduction in consumption until low-risk use or complete cessation. \n\n[[Addictology follow-up consultation SD-293|Long-term support]]\n\nAddiction treatment must address all the biological, psychological and social dimensions.\n\nTaking charge\n\n- psychiatric comorbidities\n\n- other addictions\n\n- medical repercussions\n\n- social repercussions\n\nBest achieved by multidisciplinary teams\n\n- carers from different medical specialities\n\n- psychologists\n\n- social workers\n\n- in collaboration with the attending physician.\n\nInforming patients of the existence and benefits of self-help groups",
+  "question": {
+    "properties": {
+      "question": "What is the primary objective of addiction treatment?",
+      "option_a": "To reduce the patient's dependence on alcohol",
+      "option_b": "To increase the patient's consumption of alcohol",
+      "option_c": "To address all the biological, psychological, and social dimensions of addiction",
+      "option_d": "To provide immediate relief from withdrawal symptoms"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d"
+    ],
+    "correct_option": "option_c"
+  }
+}

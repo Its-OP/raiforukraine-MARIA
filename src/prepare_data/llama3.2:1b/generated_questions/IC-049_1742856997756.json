@@ -1,0 +1,12 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-10-A\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=A\n|Title=Knowing the data from the interview and clinical examination pointing to precocious puberty\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=10}}\n'''Questioning data:''' pubertal ages of parents and siblings, age at menarche of mother, parental heights with calculation of genetic target height, family or personal history (IUGR, neurological history, adoption, neurofibromatosis type 1 (NF1)), visual signs or signs of HTIC (headache, nausea, morning vomiting), analysis of growth rate (curve).\n\nClinical examination: Complete examination, pubertal stage (Tanner), skin spots, signs of hyperandrogenism (acne, hirsutism, hyperseborrhoea, clitoral hypertrophy).\n\n<br />",
+  "question": {
+    "question": "What is the typical age range for the onset of precocious puberty?",
+    "option_a": "6-8 years",
+    "option_b": "8-10 years",
+    "option_c": "10-12 years",
+    "option_d": "12-14 years",
+    "correct_option": "8-10 years"
+  }
+}

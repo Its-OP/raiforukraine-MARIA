@@ -1,0 +1,45 @@
+{
+  "folder": "IC-302",
+  "content": "{{knowledge objective\n|Identifiant=OIC-302-09-B\n|Item_parent=Cutaneous, epithelial and melanoma tumours\n|Item_parent_short=Cutaneous, epithelial and melanoma tumours\n|Rank=B\n|Title=Know the differential diagnoses of nevi\n|Description=Know the main differential diagnoses of nevi to be considered in principle.\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=9}}\nThe main differential diagnosis is melanoma. This is the main question asked when examining a patient: is this pigmented lesion a simple nevus or an incipient melanoma?\n\nOther differential diagnoses are as follows:\n\n- Seborrheic keratosis\n\n- Histiocytofibroma\n\n- Basal cell carcinoma\n\n- Actinic lentigo\n\n- Botriomycome\n\n- Thombosed angioma\n\n- Plantar hematic lesion",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Question",
+        "description": "What is a common differential diagnosis for a pigmented lesion that is being examined to distinguish from a simple nevus or an incipient melanoma?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Option A",
+        "description": "A type of benign skin tumor that can appear as a pigmented lesion",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Option B",
+        "description": "A condition characterized by the presence of multiple small, pigmented spots on the skin, often seen in sun-exposed areas",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Option C",
+        "description": "A rare skin cancer that typically appears as a small, flesh-colored bump on the skin",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Option D",
+        "description": "A type of benign skin lesion that is often seen in children and is characterized by a thick, scaly crust",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "Seborrheic keratosis"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

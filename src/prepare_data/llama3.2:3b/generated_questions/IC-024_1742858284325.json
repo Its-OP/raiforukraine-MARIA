@@ -1,0 +1,46 @@
+{
+  "folder": "IC-024",
+  "content": "{{knowledge objective\n|Identifiant=OIC-024-12-A\n|Item_parent=Main complications of pregnancy.\n|Item_parent_short=Main complications of pregnancy.\n|Rank=A\n|Title=Knowing the elements of severity\n|Description=Severity criteria\n|Heading=Follow-up and/or prognosis\n|Contributors=Paul Berveiller,Philippe Deruelle\n|Order=12}}\n\n- Severe or uncontrolled hypertension (SAP \u2265 160 mmHg and/or DBP \u2265 110 mmHg)\n\n- '''Proteinuria > 3g/24h'''\n\n- Creatinemia \u2265 90 \u00b5mol/L\n\n- '''Oliguria \u2264 500 mL/24h or \u2264 25 mL/h''''\n\n- '''Thrombocytopenia < 100,000/mm<sup>3</sup>''''\n\n- '''Hepatic cytolysis with ASAT/ALAT >2N'''\n\n- '''Epigastric abdominal pain and/or persistent or severe right hypochondrium pain'''\n\n- Chest pain, dyspnoea, OAP\n\n- '''Neurological signs:''' severe headaches unresponsive to treatment, persistent visual or auditory disturbances, vivid, diffuse and polykinetic ROT.\n\n[Platelet abnormality SD-215\n\n[Anomaly of the erythrocyte indices (haemoglobin level, haematocrit...) SD-214]]\n\n[Abdominal pain SD-004\n\n[Proteinuria SD-212\n\n[Headache SD-118\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a severe complication of pregnancy?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Proteinuria > 2g/24h",
+        "description": "A type of protein in the urine",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Severe or uncontrolled hypertension (SAP \u2265 160 mmHg and/or DBP \u2265 110 mmHg)",
+        "description": "A type of high blood pressure",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Oliguria \u2264 500 mL/24h or \u2264 25 mL/h",
+        "description": "A type of low urine output",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Thrombocytopenia < 150,000/mm<sup>3</sup>",
+        "description": "A type of low platelet count",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "None of the above",
+        "description": "",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

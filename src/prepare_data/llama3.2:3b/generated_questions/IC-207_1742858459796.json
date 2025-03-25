@@ -1,0 +1,46 @@
+{
+  "folder": "IC-207",
+  "content": "{{knowledge objective\n|Identifiant=OIC-207-06-B\n|Item_parent=Intra-thoracic masses in children and adults\n|Item_parent_short=Opacities and intra-thoracic masses in children and adults\n|Rank=B\n|Title=Know how to diagnose an interstitial syndrome\n|Description=To recognise a pulmonary infiltrate\n|Rubric=Positive diagnosis\n|Contributors=Mathieu Lederlin\n|Order=6}}\n\nInterstitial lung disease indicates damage to the interstitium, i.e. the supporting tissue of the lung (= collagen skeleton). There are many types of diffuse interstitial lung disease (DIL), both acute and chronic, and very often the involvement is not limited to the interstitial sector but may also extend to the alveolar or vascular sectors. Radiologically, Diffuse Interstitial Diseases have the following features in common:\n\n*usually diffuse, bilateral involvement\n*a risk of progression to a fibrosing form with a poor prognosis\n\n\n'''Radiography'''\n\nChest X-rays are routinely taken, but do not always enable a precise diagnosis to be made. It may also be normal. Opacities are generally bilateral, diffuse, non-symmetrical, reticular and/or micronodular. Lung volume may be reduced when fibrosis is present.\n\n'''Tomodensitometry'''\n\nA thoracic CT scan is essential for a precise analysis of the symptomatology, integrating it into the clinical-biological context and suggesting diagnostic ranges. It is used to characterise elementary lesions and assess their distribution (or predominance) along the apico-basal and hilo-pleural axes.\n\nThe main elementary lesions are listed below. They may be accompanied by signs of architectural distortion (fibrosis) such as traction bronchiectasis, pleural abnormalities or mediastinal adenopathies.\n\n*septal lines'' (thickening of the interlobular septa), which can be seen in many pathologies: cardiogenic oedema, carcinomatous lymphangitis, fibrosis, overload diseases, etc. (Figure 1)\n*Intralobular reticulations'' (intersecting fine irregular lines) generally seen in most pulmonary fibroses (Figure 2).\n*honeycomb'' (small cystic subpleural images attached to each other) representing irreversible fibrous destruction of the lung, present in particular in idiopathic pulmonary fibrosis where it correlates with the histopathological appearance known as ''common interstitial pneumonia'' or CIP (Figure 3)\n*\"Peri-lymphatic micronodules\" (clear, attached to the perilobular septa and pleural layers) seen particularly in sarcoidosis and carcinomatous lymphangitis (Figure 4).\n*centrilobular microdules'' (blurred and sparing the subpleural regions) seen in diseases of the small airways: bronchiolitis, hypersensitivity pneumonia, alveolar haemorrhage, etc. (Figure 5)\n*frosted glass'' and ''condensations'' (hyperdensities of the parenchyma with or without obliteration of the vascular structures), which often indicate alveolar filling (Figure 6)\n*Mosaic perfusion'' (lobules of varying density), which indicates obliterative damage to the small airways (Figure 7).\n*\"Cysts\" (round images with aerated content and a wall) seen in certain rare diseases such as lymphangioleiomyomatosis or Langerhansian histiocytosis (Figure 8).\n\n<br /><gallery widths=\"450\" heights=\"300\">\nFile:Int1.JPG|'''Figure 1.''' Smooth, regular septal lines (arrows) in the setting of acute eosinophilic pneumonia\nFile:Int2.JPG|'''Figure 2.''' Subpleural reticulations (arrows) in systemic scleroderma\nFile:Int3.JPG|'''Figure 3.''' Extensive honeycomb associated with traction bronchiectasis (arrow) in idiopathic pulmonary fibrosis\nFile:Int4.jpg|'''Figure 4.''' Micronodules of perilymphatic distribution in thoracic sarcoidosis\nFile:Int5.jpg|'''Figure 5.''' Blurred centrolobular micronodules in tobacco-related bronchiolitis\nFile:Int6.JPG|'''Figure 6.''' Bilateral ground-glass (orange arrows) and condensation (blue arrows) plaques in organized pneumonia\nFile:Int7.JPG|'''Figure 7.''' Lobules of decreased density (arrows) associated with lobules of normal or increased density, in avian hypersensitivity pneumonia\nFile:Int8.jpg|'''Figure 8.''' Multiple cysts in the setting of langerhansian histiocytosis\n</gallery>\n\n\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the characteristic radiological feature of diffuse interstitial lung disease (DIL)?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "A risk of progression to a fibrosing form with a poor prognosis",
+        "description": "A plausible but incorrect answer option",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "A risk of progression to a fibrosing form with a poor prognosis",
+        "description": "A plausible but incorrect answer option",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "A risk of progression to a fibrosing form with a poor prognosis",
+        "description": "A plausible but incorrect answer option",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Usually diffuse, bilateral involvement",
+        "description": "The correct answer option",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

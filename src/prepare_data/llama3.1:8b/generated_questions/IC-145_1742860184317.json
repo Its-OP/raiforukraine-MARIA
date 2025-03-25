@@ -1,0 +1,12 @@
+{
+  "folder": "IC-145",
+  "content": "{{knowledge objective\n|Identifiant=OIC-145-14-B\n|Item_parent=Surveillance of communicable infectious diseases\n|Item_parent_short=Surveillance of communicable infectious diseases\n|Rank=B\n|Title=Know the definition of a \"sentinel\" network\n|Description=None\n|Rubric=Definition\n|Contributors=Didier HOCQUET,Elodie COUVE,Anne-Marie ROGUES,Alexandre DUVIGNAUD\n|Order=14}}\n\nThe [[Knowing the main structures and organisations responsible for monitoring communicable infectious diseases in France 2C-145-DE-B02|r\u00e9seau Sentinelles]] '''([https://www.sentiweb.fr/france/fr/? www.sentiweb.fr])''' is a research and monitoring network in primary care (general medicine and paediatrics) in mainland France.\n\n'''The main objectives'' of the Sentinel Network are :\n\n*The creation of large databases in general medicine and paediatrics, for health monitoring and research purposes;\n*The development of epidemic detection and forecasting tools;\n*setting up clinical and epidemiological studies.\n\nThis national computerised surveillance system enables epidemiological data to be collected weekly, analysed, forecast and redistributed in real time. The diseases monitored by the Sentinelles network are updated every year.\n\nIn 2018, the Sentinelles network was made up of 1,314 volunteer private GPs (2.1% of private GPs in mainland France) and 116 volunteer private paediatricians (4.3% of private paediatricians in mainland France), spread across mainland France. Member doctors are known as 'Sentinel doctors'.",
+  "question": {
+    "question": "What is the primary purpose of the Sentinel Network?",
+    "option_a": "To monitor and control the spread of infectious diseases in real-time",
+    "option_b": "To create large databases in general medicine and paediatrics for health monitoring and research purposes",
+    "option_c": "To develop and implement public health policies in France",
+    "option_d": "To provide medical training and education to healthcare professionals",
+    "correct_option": "B"
+  }
+}

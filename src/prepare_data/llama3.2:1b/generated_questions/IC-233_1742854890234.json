@@ -1,0 +1,12 @@
+{
+  "folder": "IC-233",
+  "content": "{{knowledge objective\n|Identifiant=OIC-233-08-B\n|Item_parent=Valvulopathies\n|Item_parent_short=Valvulopathies\n|Rank=B\n|Title=Know the principles of surgical treatment of MI, RA, IA, MR\n|Description=Plasty or valve replacement\n|Heading=Management\n|Contributors=Myriam Akodad,Florence Leclercq\n|Order=8}}\n\n*\n\n* '''Mitral insufficiency:'''\n** Mitral plastic surgery as first-line treatment if feasible (prolapse+++)\n** Mitral valve replacement by mechanical or biological prosthesis (> 65 years)\n\n* Aortic stenosis :\n** Aortic valve replacement with mechanical or biological prosthesis (> 65 years)\n\n* Aortic insufficiency :\n** Aortic valve replacement: mechanical, biological or homograft prosthesis '''(endocarditis)''''\n** Ascending aortic replacement : Bentall procedure combining valve replacement and replacement of the ascending aorta in a valved tube with reimplantation of the coronary arteries (valvular and aortic damage) or Tirone David procedure allowing conservation of the native aortic valve (predominant aortic dilatation).\n\n* Mitral narrowing:\n** Open or closed heart surgical commissurotomy (post-rheumatic): rare\n** Mitral valve replacement by mechanical or biological prosthesis.",
+  "question": {
+    "question": "What is the typical age limit for mitral valve replacement?",
+    "option_a": "65 years",
+    "option_b": "70 years",
+    "option_c": "75 years",
+    "option_d": "80 years",
+    "correct_option": "65 years"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-351",
+  "content": "{{knowledge objective\n|Identifiant=OIC-351-02-A\n|Item_parent=Agitation and acute delirium\n|Item_parent_short=Agitation and acute delirium\n|Rank=A\n|Title=Know the definition of delusions and hallucinations\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=2}}\n'''[[Delusional Ideas SD-124|Delusional Ideas]] :'''' Alterations in the content of thought leading to a loss of contact with reality, not shared by the socio-cultural group.\n\n'''[[Hallucinations SD-122|Hallucinations]]:''' Sensory perception without the presence of a detectable object.",
+  "question": {
+    "question": "What is the primary characteristic of delusions and hallucinations?",
+    "option_a": "Delusions are typically associated with a loss of contact with reality.",
+    "option_b": "Delusions are often characterized by a distorted perception of reality.",
+    "option_c": "Delusions are typically associated with a loss of contact with reality, and hallucinations are often characterized by a distorted perception of reality.",
+    "option_d": "Hallucinations are typically associated with a loss of contact with reality, and delusions are often characterized by a distorted perception of reality.",
+    "correct_option": "option_c"
+  }
+}

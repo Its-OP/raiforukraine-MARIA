@@ -1,0 +1,11 @@
+{
+  "folder": "IC-237",
+  "content": "{{knowledge objective\n|Identifiant=OIC-237-07-A\n|Item_parent=Palpitations\n|Item_parent_short=Palpitations\n|Rank=A\n|Title=Identifying junctional tachycardias\n|Description=clinical description, ECG\n|Rubric=Etiologies\n|Contributors=Arnaud Bisson\n|Order=7}}\n\n\n* Junctional tachycardias are clinically manifested by palpitations called \"Bouvere's disease\". They classically occur in young subjects (adolescents, young adults) and on healthy hearts.\n* They are manifested by :\n** palpitations (sometimes with cervical beats)\n** sudden onset and abrupt cessation\n** of variable duration\n** a sensation of ''regular'' tachycardia\n** with '''post-critical polyuria'''\n** stopped by vagal manoeuvres or injection of adenosine'' or 5'-adenosine triphosphorus\n* The ECG shows :\n** per-critical: a ''regular tachycardia, most often with fine QRS'', with retrograde atrial activity (negative in the lower leads) sometimes invisible or hidden in the repolarisation\n** outside palpitations: normal pattern or indicative of ventricular pre-excitation (Wolff-Parkinson-White syndrome)\n\n[[File:Junctional Tachycardia 2.png|centric|thumb|900x900px|Tachycardia (150/min), regular, fine QRS with retrograde P' wave (negative in DII hidden in repolarization \u2198\ufe0f)]]\n<br />",
+  "question": {
+    "question": "Which of the following statements is true about junctional tachycardias?",
+    "option_a": "They are typically associated with Wolff-Parkinson-White syndrome and ventricular pre-excitation.",
+    "option_b": "Junctional tachycardias are characterized by a sudden onset and abrupt cessation, and can be stopped by vagal manoeuvres or injection of adenosine.",
+    "option_c": "They are exclusively found in elderly subjects and are associated with underlying heart disease.",
+    "option_d": "Junctional tachycardias are typically manifested by a sensation of 'irregular' tachycardia and 'pre-critical' ECG patterns."
+  }
+}

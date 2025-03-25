@@ -1,0 +1,12 @@
+{
+  "folder": "IC-156",
+  "content": "{{knowledge objective\n|Identifiant=OIC-156-15-B\n|Item_parent=Infections in the bones and joints (IOA) of children and adults\n|Item_parent_short=Infections osteo articulaires (IOA) de l'enfant et de l'adulte\n|Rank=B\n|Title=Knowing the complications of spondylodiscitis\n|Description=None\n|Section=Follow-up and/or prognosis\n|Contributors=Dr Florent Valour\n|Order=15}}\n- Sepsis, septic shock\n\n- Neurological complications: lesion syndrome (radicular compression with sciatica or cruralgia) or sub-lesion syndrome (spinal cord compression with motor and/or sensory deficit in the lower limbs, sphincter disorders).\n\n- Paravertebral abscesses\n\n- Epiduritis, epidural abscess\n\n- Spinal destruction, instability and functional sequelae\n\n- Linked to bacteremia: infective endocarditis, other secondary localizations",
+  "question": {
+    "question": "What are the complications of spondylodiscitis?",
+    "option_a": "Sepsis, septic shock",
+    "option_b": "Spinal destruction, instability and functional sequelae",
+    "option_c": "Paravertebral abscesses and epiduritis",
+    "option_d": "Infective endocarditis and other secondary localizations",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-265",
+  "content": "{{knowledge objective\n|Identifiant=OIC-265-05-A\n|Item_parent=Urinary lithiasis\n|Item_parent_short=Urinary lithiasis\n|Rank=A\n|Title=Know the definition of renal colic\n|Description=Sudden pain due to tension in the upper excretory tract.\n|Rubric=Positive diagnosis\n|Contributors=Romain Boissier\n|Order=5}}\n\nRenal colic is a [[Acute low back pain|lumbo-abdominal pain syndrome 270]] resulting from sudden tension in the excretory tract of the upper urinary tract upstream of an obstruction, whatever the cause. It is a [[Acute lumbar pain|lumbago 270]] homolateral to the obstruction radiating along the flank towards the external genitalia.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the definition of renal colic?",
+        "description": "A sudden pain due to tension in the upper excretory tract.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "A sharp pain in the lower back",
+        "description": "A type of abdominal pain that occurs in the lower part of the back.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "A dull ache in the flank",
+        "description": "A type of pain that is felt in the side of the body, often associated with kidney stones.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Sudden pain due to tension in the upper excretory tract",
+        "description": "The correct definition of renal colic.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "A chronic pain in the pelvic region",
+        "description": "A type of pain that persists over time and is often associated with conditions such as endometriosis.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "C",
+        "description": "",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

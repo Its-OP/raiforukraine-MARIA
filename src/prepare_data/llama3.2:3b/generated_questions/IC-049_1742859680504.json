@@ -1,0 +1,46 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-19-A\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=A\n|Title=Knowing the 2 main etiological frameworks of delayed puberty: hypothalamic-pituitary or gonadal origins\n|Description=None\n|Rubric=Etiologies\n|Contributors=\n|Order=19}}\n\n{| class=\"wikitable\"\n| '''RP centraux'''\n|\n|-\n|Hypothalamo-pituitary\n\n                         \n\n\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0   \u00a0\n| Acquired: tumour (craniopharyngioma), functional (malnutrition, chronic illness)\n\n                        Congenital and genetic: hypogonadotropic hypogonadism with (Kallmann) or without anosmia, panhypopituitarism\n|-\n| Simple pubertal delay\n| Variant of normal, diagnosis of elimination\n|-\n|\n|\n|-\n| '''Peripheral RP''''\n|\n|-\n| Ovarian insufficiency\n\n                        Testicular failure\n| Turner syndrome 45,X\n\n                        Klinefelter syndrome 47,XXY\n|}\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What are the two main etiological frameworks of delayed puberty?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Hypothalamic-pituitary or gonadal origins",
+        "description": "One of the two main etiological frameworks of delayed puberty",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Hypothalamic-pituitary or genetic factors",
+        "description": "A possible etiological framework of delayed puberty",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Gonadal or genetic factors",
+        "description": "Another possible etiological framework of delayed puberty",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Hormonal or genetic factors",
+        "description": "A general term for the etiological frameworks of delayed puberty",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "The correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

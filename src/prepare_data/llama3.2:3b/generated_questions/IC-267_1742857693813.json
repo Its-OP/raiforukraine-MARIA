@@ -1,0 +1,46 @@
+{
+  "folder": "IC-267",
+  "content": "{{knowledge objective\n|Identifiant=OIC-267-19-A\n|Item_parent=Disorders of acid-base balance and fluid-electrolyte disorders\n|Item_parent_short=Disorders of acid-base balance and fluid and electrolyte disorders\n|Rank=A\n|Title=Knowing the clinical symptoms of hypokalaemia\n|Description=Recognising the muscular signs of hypokalaemia\n|Rubric=Positive diagnosis\n|Contributors=P Rieu; B Moulin; M Flamant\n|Order=19}}\n1.     Muscular clinical signs\n\n*cramps ;\n*myalgias;\n*muscular weakness or even paralysis beginning in the lower limbs and progressing upwards, gradually reaching the trunk and diaphragm.\n*Rhabdomyolysis in cases of severe potassium depletion.\n\n2.     Digestive signs\n\n*This is essentially constipation, paralytic ileus (Ogilvie syndrome), or even a delay in the resumption of post-operative transit.\n\n3.     Kidney signs\n\n*polyuro-polydipsic syndrome (tubular resistance to ADH)\n*metabolic alkalosis\n*chronic interstitial nephropathy (long-term)",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Muscular clinical signs of hypokalaemia",
+        "description": "Which of the following is a characteristic muscular sign of hypokalaemia?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Muscular weakness or paralysis",
+        "description": "Muscular weakness or paralysis beginning in the lower limbs and progressing upwards, gradually reaching the trunk and diaphragm.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Myalgias and cramps",
+        "description": "Muscular pain and cramping, often occurring in the muscles of the arms and legs.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Rhabdomyolysis and constipation",
+        "description": "Rhabdomyolysis, a serious syndrome due to direct or indirect muscle injury, and constipation, a common symptom of hypokalaemia.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Polyuria and metabolic acidosis",
+        "description": "Polyuria, or excessive urine production, and metabolic acidosis, a condition characterized by an acid-base imbalance.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "The correct letter of the answer option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

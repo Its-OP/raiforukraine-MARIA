@@ -1,0 +1,46 @@
+{
+  "folder": "IC-121",
+  "content": "{{knowledge objective\n|Identifiant=OIC-121-03-B\n|Item_parent=Psychological disability (see items 56 and 118)\n|Item_parent_short=Psychological disability (see item 56 and 118)\n|Rank=B\n|Title=Knowing the general principles of psychotherapeutic care.\n|Description=None\n|Rubric=Management\n|Contributors=Fabrice Berna,Pierre Vandel\n|Order=3}}\n\nThree main methods enable patients to develop skills to limit the consequences of the impairments and activity limitations caused by their mental disorder. These methods must be combined if they are to be effective both medically and socially.\n\nTherapeutic education. This may involve the patient and/or his family. It consists of providing information on the psychological disorders concerned, their treatment and learning methods to improve the management of difficulties linked to these disorders.\n\nCertain [[Different types of psychotherapeutic techniques|psychotherapies]] such as cognitive-behavioural therapies (see item 73) or methods such as social skills training help to manage interpersonal relationships better and limit the impact of cognitive biases.\n\nCognitive remediation. It is offered after a cognitive or neuropsychological assessment that evaluates neurocognitive functions (memory, attention, executive functions, etc.), metacognition and social cognition. Cognitive remediation aims to restore impaired functions and/or develop compensatory strategies by strengthening preserved functions in order to limit the consequences of these impairments. It is particularly effective when the skills learned can be used in specific everyday tasks or in a job.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What are the three main methods that enable patients to develop skills to limit the consequences of the impairments and activity limitations caused by their mental disorder?",
+        "description": "Choose the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Cognitive remediation and therapeutic education",
+        "description": "A combination of cognitive remediation and therapeutic education",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Therapeutic education and social skills training",
+        "description": "A combination of therapeutic education and social skills training",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Cognitive-behavioural therapies and cognitive remediation",
+        "description": "A combination of cognitive-behavioural therapies and cognitive remediation",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Social skills training and cognitive remediation",
+        "description": "A combination of social skills training and cognitive remediation",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "C",
+        "description": "The correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

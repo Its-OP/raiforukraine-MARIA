@@ -1,0 +1,12 @@
+{
+  "folder": "IC-157",
+  "content": "{{knowledge objective\n|Identifiant=OIC-157-14-A\n|Item_parent=Bacteremia/Fungemia in adults and children\n|Item_parent_short=Bacteremia/Fungemia in adults and children\n|Rank=A\n|Title=Knowing the principles of gateway treatment\n|Description=None\n|Heading=Management\n|Contributors=\n|Order=14}}\n'''Front door treatment''' :\n\n- Essential for reducing the risk of relapse\n\n- Treatment is medical +/- surgical (drainage)\n\n- If the bacteremia is linked to foreign material: removal is often necessary\n\n- Treatment of secondary locations: see specific items",
+  "question": {
+    "question": "What is the primary goal of front door treatment in the management of bacteremia/fungemia in adults and children?",
+    "option_a": "Reducing the risk of relapse by controlling the source of infection",
+    "option_b": "Treating the entire body with antibiotics",
+    "option_c": "Removing foreign material from the site of infection",
+    "option_d": "Increasing the risk of relapse by leaving the infection untreated",
+    "correct_option": "option_a"
+  }
+}

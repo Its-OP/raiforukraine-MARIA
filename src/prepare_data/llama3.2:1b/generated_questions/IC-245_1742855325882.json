@@ -1,0 +1,12 @@
+{
+  "folder": "IC-245",
+  "content": "{{knowledge objective\n|Identifiant=OIC-245-17-B\n|Item_parent=Adrenal insufficiency in adults and children\n|Item_parent_short=Adrenal insufficiency in adults and children\n|Rank=B\n|Title=Knowing how to confirm the diagnosis\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Claire Briet,St\u00e9phanie Espiard\n|Order=17}}\nSHOULD NOT DELAY TREATMENT\n\n*If the diagnosis of adrenal insufficiency is unknown: blood cortisol and ACTH (and renin assay in children''') whatever the'''<nowiki/>'''it the'''<nowiki/>'''' hour, without waiting for the results''' to start treatment.\n*If the diagnosis of adrenal insufficiency is known: None\n\nResults :\n\n*Positive diagnosis: low or collapsed cortisol levels,\n*Etiological diagnosis:\n**elevated ACTH: primary adrenal insufficiency,\n**normal or low ACTH: corticotropic insufficiency.",
+  "question": {
+    "question": "What is the recommended approach for confirming the diagnosis of adrenal insufficiency in adults and children?",
+    "option_a": "Blood cortisol and ACTH (and renin assay in children)",
+    "option_b": "Blood cortisol and ACTH (and renin assay in adults)",
+    "option_c": "Blood ACTH and renin assay",
+    "option_d": "Blood cortisol and renin assay",
+    "correct_option": "option_a"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-299",
+  "content": "{{knowledge objective\n|Identifiant=OIC-299-06-B\n|Item_parent=Intracranial tumours\n|Item_parent_short=Intra-cranial tumours\n|Rank=B\n|Title=Knowing the imaging exploration strategy for adult intracranial tumours\n|Description= CT scans and MRI scans without and with injections can be used to suggest the diagnosis of a tumour, but MRI is more effective for diagnosis and preoperative assessment.\n|Rubric=Additional examinations\n|Contributors=Dr Thi\u00e9baud PICART (Hospices Civils de Lyon),Dr Pierre ANTH\u00c9RIEU (Toulouse University Hospital),Pr Fran\u00e7ois VASSAL (Saint-Etienne University Hospital)\n|Order=6}}\n\n'''In emergency: brain scan without and with injection +++'''\n\n- Easy access\n\n- Enables positive and differential diagnosis (e.g. intracerebral haematoma)\n\n'''Etiological diagnosis and treatment planning:''' '''MRI +++''''\n\n- Tumour characteristics: number; volume; circumscribed or diffuse morphology; intra or extra parenchymal location; topography (supra or infra tentorial, ventricles, cerebellum, trunk, etc.); nature of contrast (absent, intense, homogeneous, heterogeneous).\n\n- Consequences of the tumour: mass effect, oedema, hydrocephalus, commitment, etc.\n\n- Possibility of acquiring multimodal images, providing additional non-morphological information:\n\no Diffusion sequence: abscess = hypersignal diffusion with restriction of the apparent diffusion coefficient; tumour = hyposignal diffusion without restriction of the apparent diffusion coefficient (as the pus is thick, the water molecules are not very mobile and do not diffuse).\n\no Perfusion sequence: hyperperfusion in malignant tumours\n\no Spectroscopy: metabolites suggestive of abscess or malignant tumour\n\no Functional: localisation of functionally eloquent cortexes (language, motor skills) for preoperative mapping purposes\n\n- An aetiological hypothesis can often be formulated on the basis of these MRI findings, but no feature is absolutely pathognomonic, and only anatomopathological examination can ultimately provide a histological diagnosis of \"certainty\".",
+  "question": {
+    "question": "What is the most effective imaging modality for diagnosis and preoperative assessment of adult intracranial tumours?",
+    "option_a": "CT scans without and with injection",
+    "option_b": "CT scans without injection",
+    "option_c": "MRI scans without injection",
+    "option_d": "MRI scans with injection",
+    "correct_option": "D"
+  }
+}

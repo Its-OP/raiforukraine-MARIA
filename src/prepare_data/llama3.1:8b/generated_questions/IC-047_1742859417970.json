@@ -1,0 +1,12 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-18-A\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=A\n|Title=Know the principles of preventing dental caries\n|Description=None\n|Heading=Management\n|Contributors=\n|Order=18}}\nSugar consumption promotes tooth decay\n\nPrevention is based on\n\n* good oral and dental hygiene: brushing 2 times a day from the first teeth, with fluoride toothpaste depending on age\n* avoid nibbling between meals or taking a sugary bottle to sleep (\"bottle syndrome\")\n* regular dental check-ups, with annual visits to the dentist from the age of 12-18 months\n* if there is a high risk of caries (history, lifestyle habits, difficulty brushing due to disability, for example)\n** fluoride per os\n** Sealing of grooves",
+  "question": {
+    "question": "What is a key principle of preventing dental caries in children?",
+    "option_a": "Regular dental check-ups, but only starting at age 18 months",
+    "option_b": "Fluoride per os, which can be given to children as a supplement",
+    "option_c": "Avoiding sugary drinks, but allowing occasional treats",
+    "option_d": "Flossing once a week, but only for children over 12 years old",
+    "correct_option": "A"
+  }
+}

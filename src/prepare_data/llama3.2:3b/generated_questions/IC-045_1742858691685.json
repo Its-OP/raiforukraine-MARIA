@@ -1,0 +1,46 @@
+{
+  "folder": "IC-045",
+  "content": "{{knowledge objective\n|Identifiant=OIC-045-02-B\n|Item_parent=Specificities of genetic diseases. (see item 9)\n|Item_parent_short=Specificities of genetic diseases. (see item 9)\n|Rank=B\n|Title=Knowing the repercussions of the diagnosis of a genetic disease in a family.\n|Description=Explain the problems associated with the disease and the repercussions of the arrival of a child suffering from a genetic disease on the couple and the family.\n|Rubric=Definition\n|Contributors=Elise Launay,Damien Sanlaville,Marie-B\u00e9reng\u00e8re Troadec\n|Order=2}}\n\nWhen parents are told that their child has been diagnosed with a genetic disease, medical and psychological support should be offered to the parents and, if necessary, to the siblings. Similarly, it is important not to list all the possible complications and disabilities that may be seen as inescapable, without overlooking the difficulties. It is preferable to focus as much as possible on relatively short-term objectives and to value the child's skills.\n\nIt is important to put the child and not the disease first. The child is a carrier of a genetic disease.\n\nIt is impossible to predict the evolutionary trajectory of a child with a genetic disease. In fact, there are varying degrees of variability depending on the disease. Some parents are interested in the existence of parents' associations.\n\nFinally, in very rare cases, some parents will ask for the child to be put up for adoption.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Question",
+        "description": "What is the correct approach when dealing with a child diagnosed with a genetic disease?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Option A",
+        "description": "Focus on the long-term objectives and the child's potential to overcome the disease",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Option B",
+        "description": "Discuss the possible complications and disabilities with the child to prepare them for the worst-case scenario",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Option C",
+        "description": "Put the disease first and focus on finding a cure or a treatment",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Option D",
+        "description": "Consider putting the child up for adoption due to the genetic disease",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "It is impossible to predict the evolutionary trajectory of a child with a genetic disease",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

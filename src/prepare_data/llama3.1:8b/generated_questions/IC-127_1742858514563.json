@@ -1,0 +1,12 @@
+{
+  "folder": "IC-127",
+  "content": "{{knowledge objective\n|Identifiant=OIC-127-01-A\n|Item_parent=Benign prostatic hypertrophy\n|Item_parent_short=Benign prostatic hypertrophy\n|Rank=A\n|Title=Knowing the clinical definition and natural history of benign prostatic hyperplasia (BPH)\n|Description=None\n|Topic=Definition\n|Contributors=Alexandre Ingels , Jonathan Olivier\n|Order=1}}\n \n\nBenign prostatic hyperplasia (BPH) corresponds to stromal (fibro-muscular) and epithelial (glandular) hyperplasia of the transitional and periurethral zone of the prostate. The term benign prostatic hyperplasia is used to describe clinical [[Urinary incontinence and voiding disorders in adults and the elderly|lower urinary tract symptoms 125]] symptoms that can be clinically and paraclinically linked to benign prostatic hyperplasia.\n\nNatural history of benign prostatic hyperplasia: BPH is common (80% of men over the age of 60). BPH develops continuously from the age of 30 onwards. BPH may remain asymptomatic, manifest itself through symptoms of the lower urinary tract (storage and emptying symptoms), or through acute and/or chronic complications.",
+  "question": {
+    "question": "What is the natural history of benign prostatic hyperplasia (BPH)?",
+    "option_a": "BPH is a sudden and rare condition that affects only a small percentage of men over 60.",
+    "option_b": "BPH develops continuously from the age of 30 onwards and is common in 80% of men over 60.",
+    "option_c": "BPH is a condition that typically affects men under 50 and then resolves on its own.",
+    "option_d": "BPH is a condition that is caused by a viral infection and is more common in women.",
+    "correct_option": "B"
+  }
+}

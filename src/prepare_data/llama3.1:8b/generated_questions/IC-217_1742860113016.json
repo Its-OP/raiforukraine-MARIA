@@ -1,0 +1,12 @@
+{
+  "folder": "IC-217",
+  "content": "{{knowledge objective\n|Identifiant=OIC-217-06-B\n|Item_parent=Mononucleosis syndrome\n|Item_parent_short=Mononucleosis syndrome\n|Rank=B\n|Title=Knowing the main non-infectious etiologies of mononucleosis syndrome\n|Description=None\n|Rubric=Etiologies\n|Contributors=\n|Order=6}}\n\n\n== '''Allergic drug reaction ([[Suspicion of an adverse drug reaction or treatment SD-348|suspicion of an adverse drug reaction or treatment]])''' ==\n\n\n- Drug Rash with hyperEosinophilia and Systemic Symptoms (DRESS) syndrome\n\n'''-'''' Look for medication taken in the previous 6 weeks.\n\n- Clinical signs :\n\n- Evocative skin rash: ''[[Erythema SD-085|erythema]]''''\n\n- Polyadenopathies '''([[Single or multiple adenopathies SD-016|single or multiple adenopathies]])''' ;\n\n- General signs: '''[[Hyperthermia/fever SD-044|hyperthermia/fever]]''' ;\n\n- Associated biological signs :\n\n- '''[[Hypereosinophilia SD-219|Hypereosinophilia]]''';\n\n- Hepatic cytolysis ([[Elevation of transaminases without associated cholestasis SD-206|elevation of transaminases without associated cholestasis]]);''''\n\n- Impaired renal function.\n\n\n- Drugs frequently incriminated: '''antibiotics'' (sulphonamides and beta-lactams), '''anti-convulsants'' and '''allopurinol.'''\n<br />\n\n== '''Autoimmune diseases''' ==\n\n\n- Possible in systemic lupus, rheumatoid arthritis\n\n- Look for other causes (in particular viral or drug-related causes).",
+  "question": {
+    "question": "What is a possible etiology of mononucleosis syndrome?",
+    "option_a": "Viral infection (Epstein-Barr virus)",
+    "option_b": "Autoimmune disease (systemic lupus)",
+    "option_c": "Allergic drug reaction (DRESS syndrome)",
+    "option_d": "Bacterial infection (Streptococcus)",
+    "correct_option": "C"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "folder": "IC-045",
+  "content": "{{knowledge objective\n|Identifiant=OIC-045-02-B\n|Item_parent=Specificities of genetic diseases. (see item 9)\n|Item_parent_short=Specificities of genetic diseases. (see item 9)\n|Rank=B\n|Title=Knowing the repercussions of the diagnosis of a genetic disease in a family.\n|Description=Explain the problems associated with the disease and the repercussions of the arrival of a child suffering from a genetic disease on the couple and the family.\n|Rubric=Definition\n|Contributors=Elise Launay,Damien Sanlaville,Marie-B\u00e9reng\u00e8re Troadec\n|Order=2}}\n\nWhen parents are told that their child has been diagnosed with a genetic disease, medical and psychological support should be offered to the parents and, if necessary, to the siblings. Similarly, it is important not to list all the possible complications and disabilities that may be seen as inescapable, without overlooking the difficulties. It is preferable to focus as much as possible on relatively short-term objectives and to value the child's skills.\n\nIt is important to put the child and not the disease first. The child is a carrier of a genetic disease.\n\nIt is impossible to predict the evolutionary trajectory of a child with a genetic disease. In fact, there are varying degrees of variability depending on the disease. Some parents are interested in the existence of parents' associations.\n\nFinally, in very rare cases, some parents will ask for the child to be put up for adoption.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Knowing the repercussions of the diagnosis of a genetic disease in a family.",
+        "description": "Explain the problems associated with the disease and the repercussions of the arrival of a child suffering from a genetic disease on the couple and the family.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "The parents' role in the child's life.",
+        "description": "The parents' role in the child's life is to provide emotional support and to help the child cope with the disease.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "The importance of genetic counseling.",
+        "description": "Genetic counseling is crucial in helping parents understand the risks and consequences of their child's genetic disease.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "The impact of the disease on the family.",
+        "description": "The disease can have a significant impact on the family, affecting not only the child but also the parents and siblings.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "The role of the child in the family.",
+        "description": "The child can be a valuable asset to the family, and it is essential to involve them in the process of dealing with the disease.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "The parents' role in the child's life.",
+        "description": "The parents' role in the child's life is to provide emotional support and to help the child cope with the disease.",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ],
+    "type": "object"
+  }
+}

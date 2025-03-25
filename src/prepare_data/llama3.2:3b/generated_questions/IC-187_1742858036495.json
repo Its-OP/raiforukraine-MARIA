@@ -1,0 +1,46 @@
+{
+  "folder": "IC-187",
+  "content": "{{knowledge objective\n|Identifiant=OIC-187-10-A\n|Item_parent=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Item_parent_short=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Rank=A\n|Title=Photo of atopic dermatitis\n|Description=Photo of atopic dermatitis in infants in flare-up.\n|Rubric=Multimedia content\n|Contributors=\n|Order=10}}\n\n[[File:DA poussee.jpg|vignette|Dermatitis atopique du nourrisson en pouss\u00e9e]]",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a common cause of atopic dermatitis in children?",
+        "description": "A question about the causes of atopic dermatitis",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Viral infection",
+        "description": "A possible cause of atopic dermatitis",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Allergen exposure",
+        "description": "A known trigger for atopic dermatitis",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Genetic predisposition",
+        "description": "A possible underlying factor for atopic dermatitis",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Environmental stress",
+        "description": "A potential contributor to atopic dermatitis",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The letter of the correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

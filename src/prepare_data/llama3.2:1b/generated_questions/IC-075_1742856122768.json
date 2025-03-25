@@ -1,0 +1,33 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-03-B\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=B\n|Title=Know the definition of the electronic cigarette\n|Description=Basic principle of operation\n|Rubric=Definition\n|Contributors=\n|Order=3}}\n\n\n* Mixture (propylene glycol + nicotine + water + flavourings + glycerol) propelled in the form of vapour and inhaled.\n* To date, no adverse reactions or cases of intoxication have been reported.\n* Possible allergic reactions\n* Considered as consumer products.\n\n<br />",
+  "question": {
+    "properties": {
+      "definition": {
+        "title": "Definition",
+        "description": "A mixture of propylene glycol, nicotine, water, flavourings, and glycerol vapour, inhaled.",
+        "type": "string"
+      },
+      "question": {
+        "title": "Question",
+        "description": "What is an electronic cigarette?",
+        "type": "string"
+      },
+      "options": {
+        "option_a": "A mixture of propylene glycol, nicotine, water, flavourings, and glycerol vapour, inhaled.",
+        "option_b": "An electronic cigarette is a device used to produce vapour and inhale it.",
+        "option_c": "To date, no adverse reactions or cases of intoxication have been reported.",
+        "option_d": "Possible allergic reactions are considered as consumer products."
+      },
+      "correct_option": "option_a"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "correct_option"
+    ],
+    "correct_answer": "option_a"
+  }
+}

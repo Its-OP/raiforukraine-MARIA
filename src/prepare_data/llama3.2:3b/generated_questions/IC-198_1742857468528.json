@@ -1,0 +1,46 @@
+{
+  "folder": "IC-198",
+  "content": "{{knowledge objective\n|Identifiant=OIC-198-20-B\n|Item_parent=Microcrystalline arthropathies\n|Item_parent_short=Microcrystalline arthropathies\n|Rank=B\n|Title=Acknowledging severe forms of gout\n|Description=Frequency of attacks, tophus, chronic arthropathies, comorbidities\n|Heading=Follow-up and/or prognosis\n|Contributors=\n|Order=20}}\nWithout hypouricemic treatment, attacks will recur with increasing frequency. After several years, gout can affect the upper limbs and even the spine, hip and shoulder.\n\nChronic arthropathy may develop. It is characterised by chronic mechanical pain interspersed with inflammatory attacks, and is particularly marked by the presence of tophus visible under the skin.\n\nThe tophi are located around the affected joints, but also in elective sites: pinna or helix (cartilaginous area) of the ear, elbows (olecranon bursitis), calcaneal and patellar tendons, distal interphalangeal joints or fingertips in patients on diuretics.\n\nManagement must take comorbidities into account +++.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a potential consequence of untreated gout?",
+        "description": "A question about the outcome of not treating gout",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "The condition will only affect the lower limbs",
+        "description": "A plausible but incorrect option that might confuse the respondent",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Chronic arthropathy and tophus formation will not occur",
+        "description": "A common misconception about gout",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Attacks will only occur in the affected joints",
+        "description": "A partially correct but incomplete option",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Attacks will recur with increasing frequency and can affect other parts of the body",
+        "description": "The correct answer based on the provided text",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

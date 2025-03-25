@@ -1,0 +1,12 @@
+{
+  "folder": "IC-020",
+  "content": "{{knowledge objective\n|Identifiant=OIC-020-01-A\n|Item_parent=Health research methodology\n|Item_parent_short=Health research methodology\n|Rank=A\n|Title=Definition and organisation of health research\n|Description=None\n|Rubric=Definition\n|Contributors=Julie Berbis (CUESP),Alexandra Rouquette (CIMES),David Hajage (CIMES)\n|Order=1}}\n\n'''Health research:''' all studies aimed at developing biological or medical knowledge, to extend scientific understanding of human beings and develop actions likely to improve health.\n\nThere are three levels of organisation in France:\n\n*decision-making'' (Ministries of Health and Research, the exact titles of which may vary from one government to another) to define the major strategic orientations, organisation and allocation of macroscopic resources;\n*programming'' to allocate resources (general agencies such as the French National Research Agency (ANR), or specific agencies such as the French National Cancer Institute (INCa), or the French National Agency for Research on AIDS and Viral Hepatitis - Emerging Infectious Diseases (ANRS-MIE), for example).\n*operators'' to manage laboratories and organise research (national research bodies such as INSERM and CNRS, universities, teaching hospitals, etc.).",
+  "question": {
+    "question": "What are the three levels of organisation in France for health research?",
+    "option_a": "Decision-making, programming, and implementation",
+    "option_b": "Ministries of Health and Research, programming, and operators",
+    "option_c": "Decision-making, programming, and funding",
+    "option_d": "Ministries of Health and Research, operators, and evaluation",
+    "correct_option": "A"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "folder": "IC-045",
+  "content": "{{knowledge objective\n|Identifiant=OIC-045-06-B\n|Item_parent=Specificities of genetic diseases. (see item 9)\n|Item_parent_short=Specificities of genetic diseases. (see item 9)\n|Rank=B\n|Title=Know how trisomy 21 is diagnosed antenatally.\n|Description=Know how trisomy 21 is diagnosed at birth\n|Rubric=Positive diagnosis\n|Contributors=Elise Launay,Damien Sanlaville,Marie-B\u00e9reng\u00e8re Troadec\n|Order=6}}\n\nIn addition to biological screening, ultrasound monitoring helps to detect trisomy 21. If there is an abnormality on ultrasound, a foetal karyotype will be prescribed. The main signs are as follows:\n\nIn the 1st trimester: neck greater than 3.5 mm;\n\nIn the 2nd trimester: heart disease, hypoplasia or aplasia of the nasal bones, short femurs, indirect signs of duodenal stenosis... ;\n\nIn the 3rd trimester: intrauterine growth retardation with no placental cause, heart disease.",
+  "question": {
+    "properties": {
+      "question": "What is the main sign of trisomy 21 in the 1st trimester?",
+      "option_a": "Heart disease",
+      "option_b": "Neck greater than 3.5 mm",
+      "option_c": "Short femurs",
+      "option_d": "Intrauterine growth retardation with no placental cause",
+      "correct_option": "option_b"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

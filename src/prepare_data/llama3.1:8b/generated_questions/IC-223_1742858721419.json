@@ -1,0 +1,12 @@
+{
+  "folder": "IC-223",
+  "content": "{{knowledge objective\n|Identifiant=OIC-223-07-A\n|Item_parent=Dyslipidemia\n|Item_parent_short=Dyslipidemia\n|Rank=A\n|Title=Knowing the main causes of secondary hyperlipidemia\n|Description=Endocrinopathies, kidney disease, liver damage, drugs\n|Rubric=Etiologies\n|Contributors=Laurence Duvillard, Bruno Verg\u00e8s, Benjamin Bouillet, Laurence Amar, Christian Boissier, Tristan Mirault, Claire Le Hello\n|Order=7}}\nMain causes of secondary hyperlipidaemia :\n\n* Endocrinopathies: hypothyroidism, hypercorticism\n* Renal diseases: nephrotic syndrome, glomerulopathy\n* Cholestasis\n* Medications: corticoids, oestroprogestogens, retinoids, antiretrovirals, neuroleptics, mTOR inhibitors, etc.",
+  "question": {
+    "question": "What are the main causes of secondary hyperlipidemia?",
+    "option_a": "Infections and inflammatory diseases",
+    "option_b": "Endocrinopathies, kidney disease, liver damage, and certain medications",
+    "option_c": "Nutritional deficiencies, such as lack of fiber or essential fatty acids",
+    "option_d": "Genetic disorders, such as familial hypercholesterolemia",
+    "correct_option": "B"
+  }
+}

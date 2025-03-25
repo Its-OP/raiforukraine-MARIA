@@ -1,0 +1,46 @@
+{
+  "folder": "IC-288",
+  "content": "{{knowledge objective\n|Identifiant=OIC-288-09-B\n|Item_parent=Hemorrhoidal pathology\n|Item_parent_short=Hemorrhoidal pathology\n|Rank=B\n|Title=Awareness of other possible manifestations of internal haemorrhoids\n|Description=\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=9}}\n\nIron deficiency anaemia due to chronic bleeding is very rare. Another cause must first be ruled out before attributing it to haemorrhoids. Cf [[2C-355|i''tem digestive haemorrhage 355''']]",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What should be ruled out before attributing iron deficiency anaemia to chronic bleeding from haemorrhoids?",
+        "description": "Iron deficiency anaemia due to chronic bleeding is very rare. Another cause must first be ruled out before attributing it to haemorrhoids.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Other types of anaemia",
+        "description": "A common cause of iron deficiency anaemia that should be ruled out",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Haemorrhoids other than internal",
+        "description": "Haemorrhoids that are not internal in nature",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Gastrointestinal bleeding from other sources",
+        "description": "Bleeding from other sources such as ulcers or cancer",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Thalassemia",
+        "description": "A genetic disorder affecting haemoglobin production",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "C",
+        "description": "The correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

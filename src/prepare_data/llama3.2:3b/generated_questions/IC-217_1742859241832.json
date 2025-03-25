@@ -1,0 +1,46 @@
+{
+  "folder": "IC-217",
+  "content": "{{knowledge objective\n|Identifiant=OIC-217-03-B\n|Item_parent=Mononucleosis syndrome\n|Item_parent_short=Mononucleosis syndrome\n|Rank=B\n|Title=Photo of blood smear\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=3}}\nBlood smear of mononucleosis syndrome. Presence of activated lymphocytes (hyperbasophilic lymphocytes). (Illustration provided by Dr Karim MALOUM, Haematology Department, Piti\u00e9-Salp\u00eatri\u00e8re Hospital)\n[[File:Sd Mononucleosique.jpg|vignette|Blood smear of a mononucleosis syndrome. Presence of activated lymphocytes (hyperbasophilic lymphocytes). ]]\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a characteristic of activated lymphocytes in mononucleosis syndrome?",
+        "description": "A type of immune response",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Hyperchromatic lymphocytes",
+        "description": "Lymphocytes with an abnormal amount of chromatin",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Hyperbasophilic lymphocytes",
+        "description": "Lymphocytes with an abnormal amount of basophilia",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Hyperplastic lymphocytes",
+        "description": "Lymphocytes that are overactive and multiply excessively",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Hypobasic lymphocytes",
+        "description": "Lymphocytes with a decreased amount of basophilia",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The correct answer is a type of lymphocyte that is hyperbasophilic",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-074",
+  "content": "{{knowledge objective\n|Identifiant=OIC-074-18-A\n|Item_parent=Prescription and monitoring of psychotropic drugs (see item 330)\n|Item_parent_short=Prescription and monitoring of psychotropic drugs (see item 330)\n|Rank=A\n|Heading=Hypnotics: knowing the indications, non-indications and contraindications at all stages of life, particularly in elderly patients.\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=18}}\n\n\n== Indications ==\nHypnotics are indicated for the following sleep disorders:\n\n* Acute ''transient'' insomnia;\n\n<u>It is not a background treatment</u>.\n\n== Contraindications ==\nZolpidem and zopiclone are contraindicated:\n\n* during '''pregnancy''' and '''breast-feeding''',\n* in children under 15 years of age,\n* in severe respiratory insufficiency,\n* in hepatic and renal insufficiency,\n* in myasthenia,\n* genetic intolerance to galactose and hypersensitivity.\n\nIt is contraindicated to introduce a hypnotic with respiratory depressant potential in a patient with sleep apnoea syndrome not treated by continuous positive airway pressure (CPAP).\n\n== Drug Interactions\n\n* The combination of these drugs with CNS depressants is not recommended.\n* For other treatments, contraindications and drug interactions are as described for each class.\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Question",
+        "description": "What is a condition for which hypnotics are indicated?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Option A",
+        "description": "Chronic insomnia",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Option B",
+        "description": "Acute transient insomnia",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Option C",
+        "description": "Epilepsy",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Option D",
+        "description": "Sleep apnoea syndrome",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "Only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

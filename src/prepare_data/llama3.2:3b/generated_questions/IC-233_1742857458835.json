@@ -1,0 +1,41 @@
+{
+  "folder": "IC-233",
+  "content": "{{knowledge objective\n|Identifiant=OIC-233-11-B\n|Item_parent=Valvulopathies\n|Item_parent_short=Valvulopathies\n|Rank=B\n|Title=Know the main indications for percutaneous treatment of AR and MI\n|Description=None\n|Topic=Management\n|Contributors=Myriam Akodad,Florence Leclercq\n|Order=11}}\n\nPercutaneous treatment of valve disease is usually performed in cases of AR or MI. Other valvulopathies are currently being evaluated (in particular IA in cases of contraindication or very high surgical risk).\n\n* Aortic stenosis:\n** The decision is always based on a multidisciplinary meeting (\"Heart team\") comprising at least one cardiac surgeon and one interventional cardiologist (an \"imaging\" cardiologist and a geriatrician are sometimes necessary).\n** Patients who are candidates for TAVI are those with a life expectancy of > 1 year and :\n*** in the event of surgical contraindication (porcelain aorta, hostile thorax, serious co-morbidities)\n*** in patients at high risk of surgery\n*** indications have also been validated in patients at intermediate risk > 75 years if the anatomy is favourable to TAVI via the femoral route.\n*** Likely to be extended in the short term to low-risk patients > 65-70 years old\n* Mitral insufficiency:''''\n** Mitraclip is indicated for organic MI in patients contraindicated for surgery (e.g. LVEF < 30%) or at high surgical risk.\n** Mitraclip is indicated for functional MI in patients with persistent CHF despite optimisation of medical treatment for CHF and causative heart disease.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the main indication for percutaneous treatment of aortic stenosis (AS) via TAVI (Transcatheter Aortic Valve Implantation)?",
+        "description": "The correct answer should include the condition that is a contraindication for surgery.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Patients with a life expectancy of > 1 year and no contraindication for surgery",
+        "description": "A possible incorrect answer that might be considered by someone who doesn't fully understand the contraindications for surgery"
+      },
+      "option_b": {
+        "title": "Patients with a life expectancy of > 1 year and contraindication for surgery (e.g. porcelain aorta)",
+        "description": "A plausible answer that is consistent with the indications for TAVI"
+      },
+      "option_c": {
+        "title": "Patients with a life expectancy of < 1 year and no contraindication for surgery",
+        "description": "An incorrect answer that might be considered by someone who misunderstands the relationship between life expectancy and TAVI eligibility"
+      },
+      "option_d": {
+        "title": "Patients with a life expectancy of < 1 year and contraindication for surgery (e.g. porcelain aorta)",
+        "description": "An incorrect answer that includes a detail that is not a contraindication for surgery (life expectancy < 1 year)"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": ""
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

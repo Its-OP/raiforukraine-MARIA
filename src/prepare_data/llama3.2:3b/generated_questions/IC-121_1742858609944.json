@@ -1,0 +1,11 @@
+{
+  "folder": "IC-121",
+  "content": "{{knowledge objective\n|Identifiant=OIC-121-05-B\n|Item_parent=Psychological disability (see items 56 and 118)\n|Item_parent_short=Psychological disability (see item 56 and 118)\n|Rank=B\n|Title=Knowing the principles of legal care.\n|Description=Protection measures\n|Heading=Taking charge\n|Contributors=Fabrice Berna,Pierre Vandel\n|Order=5}}\n\nDepending on the person's level of disability, a legal protection measure can be put in place to help the person carry out the acts of their civil life.\n\nWith curatorship, the person is assisted in these acts.\n\nWith guardianship, the person is represented in these acts.\n\nA safeguard of justice measure can be put in place for temporary and rapid protection, or while waiting for a curatorship or guardianship to be put in place.",
+  "question": {
+    "question": "What type of legal protection measure can be put in place to help a person carry out the acts of their civil life, depending on the level of their psychological disability?",
+    "option_a": "Curatorship, which represents the person in their civil life acts",
+    "option_b": "Guardianship, which assists the person in carrying out their civil life acts",
+    "option_c": "Safeguard of justice measures, which provide temporary and rapid protection",
+    "option_d": "A combination of curatorship and guardianship, depending on the level of disability"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-235",
+  "content": "{{knowledge objective\n|Identifiant=OIC-235-07-A\n|Item_parent=Acute pericarditis\n|Item_parent_short=Acute pericarditis\n|Rank=A\n|Title=Electrocardiogram (ECG) of acute pericarditis\n|Description=None\n|Rubric=Multimedia content\n|Contributors=Jennifer Cautela\n|Order=7}}\n\n[[File:Ecg typique.jpg|centr\u00e9|vignette|900x900px|Sus d\u00e9calage de ST, diffuse, non-systematis\u00e9, concave vers le haut, sans miroir ni onde Q ET sous d\u00e9calage PQ]]",
+  "question": {
+    "question": "What is a characteristic of the electrocardiogram (ECG) in acute pericarditis?",
+    "option_a": "Narrow QRS complex",
+    "option_b": "Diffuse ST elevation, non-systematic, concave upwards, without mirror or Q wave, and normal PQ interval",
+    "option_c": "Widened QRS complex",
+    "option_d": "Deep S wave",
+    "correct_option": "B"
+  }
+}

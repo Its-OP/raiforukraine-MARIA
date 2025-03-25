@@ -1,0 +1,40 @@
+{
+  "folder": "IC-247",
+  "content": "{{knowledge objective\n|Identifiant=OIC-247-06-A\n|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Rank=A\n|Title=Knowing the risk factors for the onset of microangiopathic disorders\n|Description=None\n|Section=Follow-up and/or prognosis\n|Contributors=H BIHAN,C BRIET,E FEIGERLOVA,E LARGER,G PREVOST\n|Order=6}}\n\nHyperglycaemia: level (HbA1c) and duration of exposure\n\nDyslipidemia\n\nAssociated smoking or alcoholism\n\nSpecific DRFs for certain diseases: genetic factors, ethnic origins (e.g. for nephropathy), for neuropathy: tall stature, nutritional and vitamin deficiencies, smoking and alcoholism, renal insufficiency, etc.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a risk factor for the onset of microangiopathic disorders in individuals with diabetes?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Hyperglycemia and duration of exposure",
+        "description": "The level of glucose in the blood and the length of time it has been high"
+      },
+      "option_b": {
+        "title": "Dyslipidemia and smoking",
+        "description": "Abnormal levels of lipids in the blood and a history of smoking"
+      },
+      "option_c": {
+        "title": "Genetic factors and tall stature",
+        "description": "Inherited traits and a family history of the disease"
+      },
+      "option_d": {
+        "title": "Ethnic origins and nutritional deficiencies",
+        "description": "The individual's ancestry and a lack of essential nutrients"
+      },
+      "correct_option": {
+        "title": "A"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

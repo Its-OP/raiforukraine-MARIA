@@ -1,0 +1,12 @@
+{
+  "folder": "IC-198",
+  "content": "{{knowledge objective\n|Identifiant=OIC-198-07-B\n|Item_parent=Microcrystalline arthropathies\n|Item_parent_short=Microcrystalline arthropathies\n|Rank=B\n|Intitle=Knowing the prevalence of gout in France\n|Description=Larger than that of common inflammatory rheumatic diseases (RA, Rpso, SPA): 0.9%.\n|Rubric=Epidemiology\n|Contributors=\n|Order=7}}\nThe prevalence of gout in adults in France is 0.9%.\n\nIt is therefore the most common intermittent inflammatory rheumatic disease in industrialised countries.",
+  "question": {
+    "question": "What is the prevalence of gout in adults in France?",
+    "option_a": "Less than 0.1%",
+    "option_b": "0.9%",
+    "option_c": "1.2%",
+    "option_d": "3.5%",
+    "correct_option": "B"
+  }
+}

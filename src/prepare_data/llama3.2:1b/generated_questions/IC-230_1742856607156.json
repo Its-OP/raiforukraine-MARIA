@@ -1,0 +1,12 @@
+{
+  "folder": "IC-230",
+  "content": "{{knowledge objective\n|Identifiant=OIC-230-02-A\n|Item_parent=Acute chest pain\n|Item_parent_short=Acute chest pain\n|Rank=A\n|Title=Knowing how to look for vital distress in chest pain\n|Description=Respiratory or haemodynamic distress, disturbances of consciousness\n|Rubric=Identification of the emergency\n|Contributors=Vincent Roule\n|Order=2}}\n\n'''Entitul\u00e9 :''' '''Savoir rechercher une d\u00e9tresse vitale devant une douleur thoracique''''\n\n- '''acute respiratory distress'''\n\n- haemodynamic distress: ''signs of shock\n\n- neurological distress (coma and consciousness disorders)",
+  "question": {
+    "question": "Quel est le type de d\u00e9tresse vitale qui est la plus probablement associ\u00e9e \u00e0 une douleur thoracique?",
+    "option_a": "acute respiratory distress",
+    "option_b": "haemodynamic distress",
+    "option_c": "neurological distress",
+    "option_d": "acute cardiac distress",
+    "correct_option": "option_a"
+  }
+}

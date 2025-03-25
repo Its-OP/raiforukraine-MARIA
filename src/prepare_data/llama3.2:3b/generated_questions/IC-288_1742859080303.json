@@ -1,0 +1,40 @@
+{
+  "folder": "IC-288",
+  "content": "{{knowledge objective\n|Identifiant=OIC-288-01-A\n|Item_parent=Hemorrhoidal pathology\n|Item_parent_short=Hemorrhoidal pathology\n|Rank=A\n|Title=Know the definition of haemorrhoids\n|Description=\n|Rubric=Definition\n|Contributors=\n|Order=1}}\n\nHaemorrhoids are normal anatomical vascular structures of the anus. They are composed of dilated venous lakes, small arterioles or arteriovenous shunts, supporting tissue (smooth muscle fibres and collagen tissue) and a lining epithelium. They form a porto-systemic anastomotic system and are located in the upper part of the anal canal (internal haemorrhoidal plexus) or peri anal (external haemorrhoidal plexus).",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the normal anatomical composition of haemorrhoids?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Dilated lymphatic vessels, smooth muscle fibres, and a lining epithelium",
+        "description": "A possible composition of haemorrhoids"
+      },
+      "option_b": {
+        "title": "Arteriovenous shunts, supporting tissue, and a lining epithelium",
+        "description": "A possible composition of haemorrhoids"
+      },
+      "option_c": {
+        "title": "Normal skin and mucous membrane, with no vascular structures",
+        "description": "A possible composition of haemorrhoids"
+      },
+      "option_d": {
+        "title": "Dilated venous lakes, small arterioles or arteriovenous shunts, supporting tissue, and a lining epithelium",
+        "description": "The correct composition of haemorrhoids"
+      },
+      "correct_option": {
+        "title": "D"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-156",
+  "content": "{{knowledge objective\n|Identifiant=OIC-156-17-A\n|Item_parent=Infections in the bones and joints (IOA) of children and adults\n|Item_parent_short=Infections osteo articulaires (IOA) de l'enfant et de l'adulte\n|Rank=A\n|Title=Knowing the clinical signs of acute osteitis and osteomyelitis\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Dr Florent Valour\n|Order=17}}\n'''Chronic osteitis in adults:'''\n\n- Location: long bones, foot (contiguous osteitis from plantar perforation, particularly in diabetic patients), pelvis (contiguous osteitis from decubitus [[Escarre SD-086|escarre]])\n\n- General signs very inconsistent, fever often absent\n\n- More or less productive fistula: cutaneous opening communicating with the site of osteitis, with serous to purulent discharge which may be intermittent.\n\n- Painful and inflammatory swelling (inconstant)\n\n- [[Chronic pain SD-035|Chronic pain]]\n\n'''Special case of osteitis of the diabetic foot:''' complicating a plantar perforating disease\n\n- Variable appearance: inflammation, dry or wet gangrene, discharge, etc.\n\n- Bone contact\n\n- Neurological and vascular assessment essential\n\n'''Acute osteomyelitis in children:'''\n\n- Location: the most vascularised metaphyses of the long bones (\"near the knee, far from the elbow\": lower femoral, upper tibial, proximal humeral and distal radial ends), in the lower limbs in more than 50% of cases.\n\n- Sudden onset or subacute presentation\n\n- Temperature \u2265 38\u00b0C\n\n- Pain responsible for partial or total functional impotence, [[Lameness SD-068|lame]], [[Appearance of difficulty in walking SD-066|appearance of difficulty in walking]]\n\n- Painful metaphyseal palpation\n\n- Increased local heat (redness and swelling at a late stage)",
+  "question": {
+    "question": "What is the typical location of chronic osteitis in adults?",
+    "option_a": "Long bones",
+    "option_b": "Pelvis",
+    "option_c": "Foot",
+    "option_d": "Pelvis",
+    "correct_option": "option_a"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-10-A\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=A\n|Title=Knowing the data from the interview and clinical examination pointing to precocious puberty\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=10}}\n'''Questioning data:''' pubertal ages of parents and siblings, age at menarche of mother, parental heights with calculation of genetic target height, family or personal history (IUGR, neurological history, adoption, neurofibromatosis type 1 (NF1)), visual signs or signs of HTIC (headache, nausea, morning vomiting), analysis of growth rate (curve).\n\nClinical examination: Complete examination, pubertal stage (Tanner), skin spots, signs of hyperandrogenism (acne, hirsutism, hyperseborrhoea, clitoral hypertrophy).\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the most likely indication for a clinical examination in a patient with precocious puberty?",
+        "description": "A patient presents with signs of precocious puberty. What is the most likely indication for a clinical examination?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Family history of a genetic disorder",
+        "description": "A family history of a genetic disorder such as neurofibromatosis type 1 (NF1) may be a indication for a clinical examination.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Visual signs of hyperandrogenism",
+        "description": "Visual signs of hyperandrogenism such as acne, hirsutism, and clitoral hypertrophy may be a indication for a clinical examination.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Analysis of growth rate",
+        "description": "Analysis of growth rate may be a indication for a clinical examination, but it is not the most likely indication.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Pubertal ages of parents and siblings",
+        "description": "Pubertal ages of parents and siblings may be a indication for a clinical examination, but it is not the most likely indication.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct answer is A",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

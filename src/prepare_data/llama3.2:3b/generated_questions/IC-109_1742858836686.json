@@ -1,0 +1,46 @@
+{
+  "folder": "IC-109",
+  "content": "{{knowledge objective\n|Identifiant=OIC-109-13-A\n|Item_parent=Gait and balance disorders\n|Item_parent_short=Gait and balance disorders\n|Rank=A\n|Title=Cite the main complementary examinations other than imaging in the presence of a walking or balance disorder.\n|Description=Depending on the aetiology EMG, biology...\n|Rubric= Complementary examinations\n|Contributors=\n|Order=13}}\nBiological work-up (hypoglycaemia, ionic disorders: dyskalaemia, hypercalcaemia, hypocalcaemia, hyponatraemia, anaemia) blood gas, PR (pulmonary embolism)\n\nECG: rhythm disorders\n\nInjection-free brain scan: (subdural haematoma, extra-dural haematoma, stroke)",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What are the main complementary examinations other than imaging in the presence of a walking or balance disorder?",
+        "description": "Depending on the aetiology EMG, biology...",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Blood gas, PR (pulmonary embolism), and ECG: rhythm disorders",
+        "description": "A combination of blood tests and electrocardiogram",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Biological work-up (hypoglycaemia, ionic disorders: dyskalaemia, hypercalcaemia, hypocalcaemia, hyponatraemia, anaemia) and blood gas",
+        "description": "A combination of blood tests and blood gas analysis",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Injection-free brain scan: (subdural haematoma, extra-dural haematoma, stroke) and ECG: rhythm disorders",
+        "description": "A combination of non-invasive brain scans and electrocardiogram",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Biological work-up (hypoglycaemia, ionic disorders: dyskalaemia, hypercalcaemia, hypocalcaemia, hyponatraemia, anaemia) and injection-free brain scan: (subdural haematoma, extra-dural haematoma, stroke)",
+        "description": "A combination of blood tests and non-invasive brain scans",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

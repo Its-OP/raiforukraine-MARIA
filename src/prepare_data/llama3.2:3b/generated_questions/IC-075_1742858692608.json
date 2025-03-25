@@ -1,0 +1,40 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-22-A\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=A\n|Title=Knowing non-psychiatric medical complications\n|Description=Neoplastic, pulmonary, cardiovascular, dermatological\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=22}}\n\n{| class=\"wikitable\"\n|'''Neoplastic''''\n\nTobacco responsible for 25% of all cancers\n\n80% of deaths from bronchopulmonary cancer are linked to smoking\n|Bronchopulmonary cancer\n\nOesophageal cancer\n\nBladder cancer\n\nOropharyngeal cancers\n\nLaryngeal cancer\n\nPancreatic cancer\n\nKidney cancer\n|-\n|'''Pulmonary''''\n|BPCO\n\nEmphysema\n\nChronic bronchitis\n\nChronic respiratory insufficiency\n|-\n|Cardiovascular disease\n\nTobacco is the 1<sup>rst</sup> cause of avoidable cardiovascular mortality and the 1<sup>rst</sup> cardiovascular DRF in premenopausal women.\n|Coronary heart disease\n\nAOMI\n\nHigh blood pressure, hypertensive heart disease\n\nAbdominal aortic aneurysm\n\nCerebrovascular accident\n|-\n|Dermatology\n|Acne\n\nSkin ageing\n\nNail colouring\n\nDry skin\n|-\n|'''Gynaeco-obstetrics''''\n|Decreased fertility\n\nPremature delivery\n\nIntrauterine growth retardation\n\nFetal death in utero, EP, miscarriage\n|-\n|'''Other'''\n|Tooth discolouration\n\nPeriodontal disease\n\nTooth loosening\n\nPolycythemia, polynucleosis\n|-\n|Passive intoxication\n|Ischaemic heart disease\n\nBronchopulmonary cancer\n\nCoronary artery disease\n\nOtitis, Asthma in children\n\nBronchitis\n|}",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What percentage of deaths from bronchopulmonary cancer are linked to smoking?",
+        "description": "Choose the correct percentage",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "75%",
+        "description": "Option A"
+      },
+      "option_b": {
+        "title": "80%",
+        "description": "Option B"
+      },
+      "option_c": {
+        "title": "85%",
+        "description": "Option C"
+      },
+      "option_d": {
+        "title": "90%",
+        "description": "Option D"
+      },
+      "correct_option": {
+        "title": "B"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

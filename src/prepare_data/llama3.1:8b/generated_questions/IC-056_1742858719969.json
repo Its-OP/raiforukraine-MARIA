@@ -1,0 +1,12 @@
+{
+  "folder": "IC-056",
+  "content": "{{knowledge objective\n|Identifiant=OIC-056-07-B\n|Item_parent=The disabled child: guidance and care (see items 118, 121)\n|Item_parent_short=The disabled child: orientation and care (see items 118, 121)\n|Rank=B\n|Title=Knowing the main situations of disability in children in France\n|Description=Main causes of disability in children\n|Rubric=Epidemiology\n|Contributors=\n|Order=7}}\nMain types of disability in children= motor/sensory/cognitive/mental/psychic disability ([[Disability status SD-345|Disability status]]).\n\n\nCongenital malformations: 2-3% of children, around 20% with severe disabilities\n\nCerebral palsy: 1<sup>rst</sup> cause of motor disability (1/1500 births) linked to early cerebral lesions\n\nTrisomy 21: 1<sup>rst</sup> cause of hereditary mental retardation\n\nFoetal alcohol syndrome: 1<sup>rst</sup> cause of non-hereditary mental retardation\n\nDyslexia- dysorthographia: the 1<sup>rst</sup> cause of specific learning difficulties\n\nMultiple disabilities: around 9,000 children in France\n\nAcquired disabilities\n\n<br />",
+  "question": {
+    "question": "What is the first cause of motor disability in children?",
+    "option_a": "Trisomy 21",
+    "option_b": "Cerebral palsy",
+    "option_c": "Foetal alcohol syndrome",
+    "option_d": "Dyslexia-dysorthographia",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-006",
+  "content": "{{knowledge objective\n|Identifiant=OIC-006-07-A\n|Item_parent=The organisation of clinical practice and the methods used to secure the patient's care pathway\n|Item_parent_short=The organisation of clinical practice and the methods used to ensure a safe patient pathway\n|Rank=A\n|Title=Morbidity and mortality meetings (RMM): understanding the principles and objectives of a RMM\n|Description=None\n|Rubric=Definition\n|Contributors=Virginie Migeot\n|Order=7}}\n\nThe morbidity-mortality meeting (MMM) is a ''collective, retrospective and systemic analysis meeting'' (i.e. taking into account the organisational, technical and human components) of clinical situations marked by the occurrence of an undesirable event associated with care (death, complication, etc.), in order to implement ''prevention, recovery or mitigation actions''. RMMs are part of the ''feedback culture'' or how to learn collectively from mistakes. RMMs can be used to validate the continuing professional development (CPD) obligation.\n\n'''Link to item 4''' Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary purpose of a morbidity-mortality meeting (RMM)?",
+        "description": "A multiple-choice question about the purpose of RMMs",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To identify and implement new treatment protocols",
+        "description": "A plausible but incorrect option that could be tempting for those who focus on the procedural aspects of RMMs",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "To improve patient outcomes and reduce morbidity and mortality",
+        "description": "A correct option that aligns with the definition of RMMs",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "To evaluate the effectiveness of existing care pathways",
+        "description": "A distractor that could be confusing for those who focus on the technical aspects of RMMs",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "To assign blame and criticize healthcare professionals",
+        "description": "A distractor that could be tempting for those who focus on the negative aspects of RMMs",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "A letter indicating the correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

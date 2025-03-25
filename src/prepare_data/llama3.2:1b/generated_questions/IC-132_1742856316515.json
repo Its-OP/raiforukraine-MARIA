@@ -1,0 +1,12 @@
+{
+  "folder": "IC-132",
+  "content": "{{knowledge objective\n|Identifiant=OIC-132-16-B\n|Item_parent=Cognitive disorders in the elderly. (see item 108)\n|Item_parent_short=Cognitive disorders in the elderly. (see item 108)\n|Rank=B\n|Heading=Example of chronic HSD on CT scan (see item 108)\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=16}}[[CT scan of a chronic HSD OIC-108-15-A|CT scan of a chronic HSD]]",
+  "question": {
+    "question": "What is the primary difference between a chronic HSD and a senile HSD?",
+    "option_a": "A chronic HSD is typically associated with a degenerative process, while a senile HSD is often linked to a degenerative process.",
+    "option_b": "A chronic HSD is often characterized by a gradual decline in cognitive function, whereas a senile HSD is typically marked by a more rapid decline.",
+    "option_c": "A chronic HSD is often associated with a specific type of imaging test, whereas a senile HSD is often linked to a specific type of imaging test.",
+    "option_d": "A chronic HSD is often treated with a specific type of medication, whereas a senile HSD is often treated with a specific type of medication.",
+    "correct_option": "A chronic HSD"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-353",
+  "content": "{{knowledge objective\n|Identifiant=OIC-353-07-B\n|Item_parent=Suicidal risk and behaviour in children, adolescents and adults: identification and management\n|Item_parent_short=Suicidal risk and behaviour in children, adolescents and adults: identification and management\n|Rank=B\n|Intitul\u00e9=Aborder le patient suicidaire, conna\u00eetre les principes de l'entretien\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=7}}\nThe interview should take place in a quiet, face-to-face setting. Confidentiality must be guaranteed.\n\nSystematic suicide risk assessment.\n\n*address suicidal thoughts directly, for example: \"Are you suffering to the point of having suicidal thoughts?\n*identify possible support from family and friends. Contact with the family/significant others, while respecting medical confidentiality, regardless of the treatment proposed.\n\nSuicidal behaviour = psychiatric emergency. '''Do not trivialise'''\n\nPatients should feel free to express their experiences and ideas.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the ideal setting for conducting a systematic suicide risk assessment?",
+        "description": "A multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "A noisy, group setting with multiple people present",
+        "description": "A plausible but incorrect option",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "A quiet, face-to-face setting with confidentiality guaranteed",
+        "description": "The correct answer",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "A phone or video call with the patient's family members",
+        "description": "A plausible but incorrect option",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "A public place with minimal supervision",
+        "description": "A plausible but incorrect option",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The correct letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

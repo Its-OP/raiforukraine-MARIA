@@ -1,0 +1,46 @@
+{
+  "folder": "IC-027",
+  "content": "{{knowledge objective\n|Identifiant=OIC-027-01-A\n|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Rank=A\n|Title=Knowing the definition of maternal-fetal infection (MFI)\n|Description=None\n|Rubric=Definition\n|Contributors=Alexandre Vivanti, Philippe Deruelle\n|Order=1}}\nMaternal-foetal infection is the result of contamination of the foetus during pregnancy or delivery by germs of maternal origin. It is also called early bacterial neonatal infection if bacterial.\n\nDepending on the agent responsible and the stage of the pregnancy, MFIs can lead to :\n\n- Miscarriages\n\n- Embryopathies\n\n- Foetal infections = foetopathies\n\n- In utero or neonatal death\n\n- Post-natal infections which may be symptomatic from the 1st day, or at a later date",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What are the possible consequences of maternal-fetal infection (MFI) during pregnancy or delivery?",
+        "description": "Choose the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Only miscarriages and embryopathies",
+        "description": "This option is partially correct, but does not include all possible consequences",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Only foetal infections and in utero or neonatal death",
+        "description": "This option is partially correct, but does not include miscarriages, embryopathies, and post-natal infections",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "All of the above: miscarriages, embryopathies, foetal infections, in utero or neonatal death, and post-natal infections",
+        "description": "This option is correct",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Only post-natal infections",
+        "description": "This option is incorrect, as it does not include other possible consequences of MFI",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "C",
+        "description": "The correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

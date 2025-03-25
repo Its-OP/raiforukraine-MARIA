@@ -1,0 +1,12 @@
+{
+  "folder": "IC-302",
+  "content": "{{knowledge objective\n|Identifiant=OIC-302-15-B\n|Item_parent=Cutaneous, epithelial and melanoma tumours\n|Item_parent_short=Cutaneous, epithelial and melanoma tumours\n|Rank=B\n|Title=Photograph of a basal cell carcinoma\n|Description=Photograph of a typical basal cell carcinoma\n|Rubric=Multimedia content\n|Contributors=\n|Order=15}}\n\n[[File:Figure B.jpg|vignette|Nodular basal cell carcinoma: translucent nodule covered with telangiectasias]]\n[[File:Figure A.jpg|vignette|Superficial basal cell carcinoma: well-limited erythematosquamous plaque with pearly border]]",
+  "question": {
+    "question": "What is the typical appearance of a basal cell carcinoma?",
+    "option_a": "A well-limited erythematosquamous plaque with a pustular border",
+    "option_b": "A translucent nodule covered with telangiectasias",
+    "option_c": "A firm, painless nodule with a rough surface",
+    "option_d": "A flat, scaly patch with an irregular border",
+    "correct_option": "B"
+  }
+}

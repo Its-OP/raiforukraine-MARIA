@@ -1,0 +1,12 @@
+{
+  "folder": "IC-342",
+  "content": "<gallery>\nFile:Malaise2.PNG\n</gallery>{{knowledge objective\n|Identifiant=OIC-342-07-A\n|Item_parent=Malaise, loss of consciousness, comitial seizure in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=A\n|Title=Know the cardiovascular and non-cardiovascular causes of syncope/lipothymia\n|Description=reflex, hypotensive, cardiac\n|Rubric=Etiologies\n|Contributors=\n|Order=7}}\n",
+  "question": {
+    "question": "What is the primary cause of syncope/lipothymia in adults?",
+    "option_a": "Hypertensive cardiac disease",
+    "option_b": "Vasovagal reflex leading to hypotension",
+    "option_c": "Myocardial infarction",
+    "option_d": "Hypertension-induced cardiac hypertrophy",
+    "correct_option": "B"
+  }
+}

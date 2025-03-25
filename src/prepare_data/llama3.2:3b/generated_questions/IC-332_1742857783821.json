@@ -1,0 +1,46 @@
+{
+  "folder": "IC-332",
+  "content": "{{knowledge objective\n|Identifiant=OIC-332-13-A\n|Item_parent=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.\n|Item_parent_short=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.\n|Rank=A\n|Title=Know the principles of management of anaphylactic shock\n|Description=see item 332\n|Heading=Management\n|Contributors=Julien Poissy\n|Order=13}}\n\nAnaphylactic shock requires first-line injection of IM adrenaline!\n\nStep 1: Condition monitoring and venous lines (see elements for immediate management of a state of shock)\n\nStage 2: management of shock\n\n- Avoidance of the allergen\n\n- Injection of adrenaline IM ++.\n\n- Auto-injector pen if available\n\n- Adrenaline ampoule 1mg diluted in 10 mL. Injection 0.01 mg/kg (0.5 mg per 50 kg)\n\n- Location: lateral surface of the middle 1/3 thigh, in the vastus lateralis\n\n- The IV route is possible but should be reserved for trained teams: titration +++ 0.001 mg/kg (10 times less than IM!)\n\n- Repeat every 5 minutes\n\n- Crystalloid volume expansion\n\nStage 3: Investigation and management of associated respiratory failure\n\n- If respiratory distress: patient in sitting position\n\n- Lower airway obstruction: aerosols of \u03b22-mimetics (salbutamol)\n\n- Upper airway obstruction: aerosols of adrenaline (5 mg nebulised)\n\n\nNB: IV corticosteroid therapy with 1 mg/kg methylprednisolone is not an emergency and is used to prevent relapse. Antihistamines are only effective on mucocutaneous signs.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the recommended location for injecting adrenaline in anaphylactic shock?",
+        "description": "The location of injection for adrenaline in anaphylactic shock",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Lateral surface of the middle 1/3 of the arm",
+        "description": "A plausible but incorrect location for injection",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Lateral surface of the middle 1/3 of the thigh, in the vastus lateralis",
+        "description": "The correct location for injection",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Upper arm",
+        "description": "A plausible but incorrect location for injection",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Lower back",
+        "description": "A plausible but incorrect location for injection",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-312",
+  "content": "{{knowledge objective\n|Identifiant=OIC-312-11-B\n|Item_parent=Breast tumours\n|Item_parent_short=Breast tumours\n|Rank=B\n|Title=Knowing the principles of breast cancer extension assessment\n|Description=None\n|Rubric=Additional examinations\n|Contributors=\n|Order=11}}\n\n*Tumour size and lymph node invasion are the two main factors predicting asymptomatic metastases.\n\n'''Local extension assessment'''\n\n*Local extension assessment is based on mammography and ultrasound. It looks for additional lesions and axillary adenopathy.\n*Apart from high-risk situations (BRCA 1 or 2 mutated patients), MRI is recommended in cases where the clinical/ mammography/ultrasound triplet is inconsistent, or where it is difficult to assess tumour size or the number of lesions if conservative treatment is envisaged.\n\nRemote extension assessment\n\n*Preferred metastatic sites are bone, lung, liver, skin, distant adenopathy and brain.\n*Extension work-up to look for visceral or bone metastases is not systematic. It should not delay referral to a specialist centre, where a decision will be made if necessary (according to INCa recommendations, June 2020).\n*Axillary exploration is carried out by analysis of the sentinel lymph node (1 to 4 lymph nodes) \"in the absence of lymph node invasion\" (clinical or histological) and \"breast lesion less than 5 cm\" preoperatively. If this is not the case (proven lymph node invasion or breast lesion of more than 5 cm), an axillary curage (removal of all the axillary lymph nodes) will be carried out intraoperatively. The sentinel lymph node technique significantly reduces the risk of complications associated with lymph node dissection (lymphoedema).\n*An extension assessment is carried out when there are negative prognostic factors. For example, it should always be carried out in the case of '''' lymph node invasion (clinical or histological) or a pre-operative lesion larger than 5 cm.\n*In this case, the 1st<sup>intention</sup> work-up is based on one of the following two options:\n\n#Thoracoabdomino-pelvic CT and bone scan;\n#18FDG PET-CT.",
+  "question": {
+    "question": "What is the primary purpose of a local extension assessment in breast cancer?",
+    "option_a": "To evaluate the risk of distant metastases",
+    "option_b": "To assess the extent of local disease and plan treatment",
+    "option_c": "To identify potential sites for surgical intervention",
+    "option_d": "To determine the need for systemic chemotherapy",
+    "correct_option": "B"
+  }
+}

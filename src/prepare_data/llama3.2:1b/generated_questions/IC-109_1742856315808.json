@@ -1,0 +1,12 @@
+{
+  "folder": "IC-109",
+  "content": "{{knowledge objective\n|Identifiant=OIC-109-03-B\n|Item_parent=Gait and balance disorders\n|Item_parent_short=Gait and balance disorders\n|Rank=B\n|Title=Knowing the scales for analysing balance and walking (clinical examination, diagnostic approach)\n|Description=Berg scales, 6-minute walking tests, etc.\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=3}}\n- Walking barefoot in an open corridor\n\n- Romberg test\n\n- Postural tests\n\n- Get up and go test\n\n- Frontal and sagittal posture\n\n.        6-minute walk test\n\n.        Functional ambulation classification (FAC)\n\n.        Berg equilibrium scale",
+  "question": {
+    "question": "What is the primary purpose of the 6-minute walk test?",
+    "option_a": "To assess the severity of gait disorders",
+    "option_b": "To evaluate the balance and posture of individuals with gait disorders",
+    "option_c": "To measure the functional ability of individuals with gait disorders",
+    "option_d": "To diagnose neurological disorders",
+    "correct_option": "option_c"
+  }
+}

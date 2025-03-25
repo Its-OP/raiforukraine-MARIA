@@ -1,0 +1,12 @@
+{
+  "folder": "IC-288",
+  "content": "{{knowledge objective\n|Identifiant=OIC-288-05-A\n|Item_parent=Hemorrhoidal pathology\n|Item_parent_short=Hemorrhoidal pathology\n|Rank=A\n|Title=Knowing how to diagnose haemorrhoidal thrombosis\n|Description=\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=5}}\n\nExternal haemorrhoidal thrombosis is a sensitive bluish swelling often associated with an oedematous reaction. It modifies the radial folds of the anus and is often fairly localised. The swelling is indurated on palpation and is often very tender. It does not require anoscopy for diagnosis (this examination is often painful in the acute phase of thrombosis and should be avoided). Haemorrhoidal attacks are associated, to varying degrees, with a sensation of cooking, tension or sharp pain in the anus, and late and infrequent bleeding.",
+  "question": {
+    "question": "What is a characteristic of external haemorrhoidal thrombosis?",
+    "option_a": "It is a painless condition that does not require anoscopy for diagnosis.",
+    "option_b": "It is a bluish swelling that is often associated with an oedematous reaction and is tender to the touch.",
+    "option_c": "It is a condition that is often accompanied by a sensation of burning in the anus.",
+    "option_d": "It is a condition that is typically diagnosed using anoscopy.",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-302",
+  "content": "{{knowledge objective\n|Identifiant=OIC-302-11-A\n|Item_parent=Cutaneous, epithelial and melanoma tumours\n|Item_parent_short=Cutaneous, epithelial and melanoma tumours\n|Rank=A\n|Title=Knowing the clinical signs of melanoma\n|Description=Know how to look for the 5 characteristics (ABCDE rule) pointing to a malignant melanoma tumour - know how to obtain a diagnosis of certainty.\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=11}}\nMelanoma is suspected clinically by examination of the entire integument. A lesion is suspicious (figure e) when :\n\n- a pigmented lesion is different from the others: the \"ugly duckling\" theory.\n\n- a lesion has several of the following characteristics (ABCDE rule):\n\n               - '''A'''symmetry\n\n               - '''B'''ords irr\u00e9guliers\n\n               - '''C'''ouleur inhomog\u00e8ne\n\n               - '''D'''iameter \u00b3 6 mm\n\n               - '''E'''volutivity, i.e. a change in the lesion\n\nDermoscopy can help screen for melanoma (improving the sensitivity and specificity of the clinical examination).\n\n\nThe diagnosis, suspected clinically, is confirmed histologically after complete excision of the lesion. Biopsies are not taken.\n\nAnatomopathological examination confirms the diagnosis of melanoma and determines the essential histoprognostic criteria:\n\n* The Breslow index, which corresponds to the maximum thickness of the tumour and is the most relevant prognostic criterion.\n* Ulceration, which is a poor prognostic criterion.\n* Mitotic index (number of mitoses/mm<sup>2</sup>).",
+  "question": {
+    "question": "What is the most relevant prognostic criterion for melanoma?",
+    "option_a": "Ulceration",
+    "option_b": "Mitotic index",
+    "option_c": "Breslow index",
+    "option_d": "Diameter of the lesion",
+    "correct_option": "C"
+  }
+}

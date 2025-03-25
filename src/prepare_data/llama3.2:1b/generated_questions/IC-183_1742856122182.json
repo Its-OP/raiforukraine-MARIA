@@ -1,0 +1,12 @@
+{
+  "folder": "IC-183",
+  "content": "{{knowledge objective\n|Identifiant=OIC-183-02-B\n|Item_parent=Organisation of occupational medicine. Prevention of occupational risks\n|Item_parent_short=Organisation of occupational medicine. Occupational risk prevention\n|Rank=B\n|Title=Knowing how occupational health services work\n|Description=Actions in the field (excluding consultations)\n|Section=Definition\n|Contributors=\n|Order=2}}\nThe occupational health physician or the multidisciplinary team he coordinates carries out '''actions directly in the workplace''' in order to, in particular:\n\n*assess occupational risks, if necessary by carrying out analyses or measurements (e.g. noise, chemical substances in atmospheric samples, etc.). To do this, he or she has access to the nature and composition of the chemical products used, as well as to their methods of use;\n*advise on the organisation of rescue and emergency services;\n*carry out health promotion activities.",
+  "question": {
+    "question": "What is the primary role of an occupational health physician in the workplace?",
+    "option_a": "To conduct health assessments and provide medical care to employees.",
+    "option_b": "To coordinate rescue and emergency services for employees.",
+    "option_c": "To promote health and well-being among employees through education and outreach.",
+    "option_d": "To investigate and report on workplace accidents and injuries.",
+    "correct_option": "option_c"
+  }
+}

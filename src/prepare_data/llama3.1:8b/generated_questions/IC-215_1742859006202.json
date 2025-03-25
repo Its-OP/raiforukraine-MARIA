@@ -1,0 +1,12 @@
+{
+  "folder": "IC-215",
+  "content": "{{knowledge objective\n|Identifiant=OIC-215-06-A\n|Item_parent=Purpuras in adults and children\n|Item_parent_short=Purpuras in adults and children\n|Rank=A\n|Title=Know how to prescribe emergency laboratory tests for purpura\n|Description=None\n|Topic=Positive diagnosis\n|Contributors=\n|Order=6}}\n\n\n==''In case of thrombocytopenic purpura'''==\n- Blood count (in the case of purpura, there is no need to check for thrombocytopenia (platelet abnormality) on a citrate tube, as there are clinical signs associated with thrombocytopenia);\n\n- Search for a ''decrease in the prothrombin rate (PT)'', or a ''prolongation of the activated partial thromboplastin time (APTT)'', fibrinogen (in search of disseminated intravascular coagulation (DIC));\n\n- '''Blood smear ([[Prescription and analysis of blood smear SD-222|prescription and analysis of blood smear]]);'''\n\n- Liver function tests ;\n\n- Blood group, test for irregular agglutinins (which will enable a platelet or red blood cell transfusion to be carried out if necessary).\n<br />\n\n==In case of fever ==\nIn case of '''fever ([[Hyperthermia/fever SD-044|hyperthermia/fever]]) and/or new heart murmur ([[Discovery of abnormalities on cardiac auscultation SD-018|discovery of abnormalities on cardiac auscultation]])''':\n\n'''prescription of blood cultures ([[Positive blood culture SD-190|positive blood culture]]).'''\n<br />\n\n==In case of '''vascular purpura'''==\n- '''C-reactive protein (CRP) ([[c-reactive protein (cr) elevation SD-203|C-reactive protein (CRP) elevation])'''''\n\n- Blood count, blood ionogram, creatinine\n\n- '''[[Proteinuria SD-212|Proteinuria]]''''",
+  "question": {
+    "question": "What is the appropriate laboratory test to prescribe in case of vascular purpura?",
+    "option_a": "Prothrombin time (PT) test",
+    "option_b": "C-reactive protein (CRP) test",
+    "option_c": "Proteinuria test",
+    "option_d": "Liver function tests",
+    "correct_option": "B"
+  }
+}

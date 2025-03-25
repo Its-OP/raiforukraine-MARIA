@@ -1,0 +1,12 @@
+{
+  "folder": "IC-112",
+  "content": "{{knowledge objective\n|Identifiant=OIC-112-06-A\n|Item_parent=Bullous dermatosis of the skin and/or external mucous membranes\n|Item_parent_short=Bullous dermatosis affecting the skin and/or external mucous membranes\n|Rank=A\n|Title=Recognising a bullous lesion\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=6}}\n\n[[File:L\u00e9sion bulleuse.jpg|vignette|Bulle tendue \u00e0 contenu clair si\u00e9geant sur le dessus du pied ]]",
+  "question": {
+    "question": "What is the characteristic feature of a bullous lesion?",
+    "option_a": "A blister or bubble-like structure on the surface of the skin",
+    "option_b": "A rash that is typically itchy and scaly",
+    "option_c": "A skin lesion that is usually painful and swollen",
+    "option_d": "A mole that is typically flat and non-painful",
+    "correct_option": "A"
+  }
+}

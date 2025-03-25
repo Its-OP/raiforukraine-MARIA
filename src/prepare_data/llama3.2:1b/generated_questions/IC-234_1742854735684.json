@@ -1,0 +1,12 @@
+{
+  "folder": "IC-234",
+  "content": "{{knowledge objective\n|Identifiant=OIC-234-04-A\n|Item_parent=Adult heart failure\n|Item_parent_short=Adult heart failure\n|Rank=A\n|Title=Know the definition of cardiogenic shock\n|Description=Acute and severe failure of cardiac function resulting in profound impairment of peripheral perfusion and tissue anoxia.\n|Rubric=Definition\n|Contributors=Olivier Huttin\n|Order=4}}\n- Cardiogenic shock is defined as the inability of the heart to generate sufficient blood flow to meet the metabolic needs of peripheral organs. The drop in cardiac output results in hypoperfusion and tissue anoxia, leading to failure of the peripheral organs concerned (kidney, liver, brain).\n\n- The usual clinical definition includes: systolic blood pressure < 90 mmHg, urine output < 30mL/h or cold extremities, cardiac index < 2.2 l/min/m\u00b2 with capillary pressure > 15 mmHg.\n\n- The leading cause of cardiogenic shock is myocardial infarction",
+  "question": {
+    "question": "What is the definition of cardiogenic shock?",
+    "option_a": "A sudden and severe failure of the heart to pump blood effectively, leading to hypoperfusion and tissue anoxia.",
+    "option_b": "A condition where the heart is not pumping blood efficiently, but it is not the primary cause of cardiogenic shock.",
+    "option_c": "A condition where the heart is pumping blood at a very slow rate, leading to hypoperfusion and tissue anoxia.",
+    "option_d": "A sudden and severe failure of the heart to pump blood effectively, leading to hypotension and tissue anoxia.",
+    "correct_option": "A sudden and severe failure of the heart to pump blood effectively, leading to hypoperfusion and tissue anoxia."
+  }
+}

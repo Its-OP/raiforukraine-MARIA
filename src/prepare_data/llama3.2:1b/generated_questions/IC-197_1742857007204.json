@@ -1,0 +1,22 @@
+{
+  "folder": "IC-197",
+  "content": "{{knowledge objective\n|Identifiant=OIC-197-02-B\n|Item_parent=Spondyloarthritis\n|Item_parent_short=Spondyloarthritis\n|Rank=B\n|Title=Knowing epidemiology\n|Description=None\n|Rubric=Epidemiology\n|Contributors=\n|Order=2}}\nThe overall prevalence of spondyloarthritis in France is 0.35%.\n\nSymptoms generally begin before the age of 45.",
+  "question": {
+    "properties": {
+      "question": "What is the general age range for the onset of spondyloarthritis?",
+      "option_a": "45",
+      "option_b": "35",
+      "option_c": "The age range is not specified",
+      "option_d": "Unknown",
+      "correct_option": "The age range is not specified",
+      "required": [
+        "question",
+        "option_a",
+        "option_b",
+        "option_c",
+        "option_d",
+        "correct_option"
+      ]
+    }
+  }
+}

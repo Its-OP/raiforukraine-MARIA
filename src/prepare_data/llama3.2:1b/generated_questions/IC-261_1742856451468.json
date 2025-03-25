@@ -1,0 +1,23 @@
+{
+  "folder": "IC-261",
+  "content": "{{knowledge objective\n|Identifiant=OIC-261-01-A\n|Item_parent=Glomerular nephropathy\n|Item_parent_short=Glomerular nephropathy\n|Rank=A\n|Title=Know how to diagnose glomerular nephropathy\n|Description=Know how to identify glomerular proteinuria and haematuria of glomerular origin.\n|Rubric=Positive diagnosis\n|Contributors=Eric Daugas,Bruno Moulin\n|Order=1}}\n\nI. Diagnosing glomerular nephropathy\n\nA. Suggest a glomerular syndrome if one or both of the following signs are present:'''\n\n*[[Proteinuria SD-212|Proteinuria]] glomerular ''':''''\n**detected by dipstick ;\n**confirmed by assay (in g/g creatinine or mg/mmol creatinine or g/24 hours);\n**composed of at least 60% albumin.\n*Haematuria :\n**microscopic (red blood cells > 10/mm3 or 104/ml) +/- deformed red blood cells or red blood cell cylinders;\n**total macroscopic, painless, without clots.\n**Three other signs may be associated:\n*HTA ;\n*Peripheral oedema;\n*acute or chronic renal failure.",
+  "question": {
+    "properties": {
+      "question": "What is the primary diagnostic criterion for glomerular nephropathy?",
+      "option_a": "Proteinuria SD-212 glomerular : composed of at least 60% albumin.",
+      "option_b": "Microscopic haematuria : painless, without clots, and without deformed red blood cells or red blood cell cylinders.",
+      "option_c": "HTA : composed of at least 60% albumin.",
+      "option_d": "Peripheral oedema : composed of at least 60% albumin.",
+      "correct_option": "option_a"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ],
+    "correct": true
+  }
+}

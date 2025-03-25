@@ -1,0 +1,32 @@
+{
+  "folder": "IC-325",
+  "content": "{{knowledge objective\n|Identifiant=OIC-325-15-A\n|Item_parent=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medicinal errors (see items 4 and 5)\n|Item_parent_short=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medication errors (see items 4 and 5)\n|Rank=A\n|Title=Identifying a medicinal error, its mechanisms and knowing the consequences\n|Description=None\n|Topic=Management\n|Contributors=Marie Briet\n|Order=15}}\n\n=Identify a medication error, its mechanisms and know the consequences=\n\n==Definition==\nAccording to the French National Authority for Health, a medicinal product error is defined as any preventable event which could cause or lead to the inappropriate use of a medicinal product or to harm to the patient when the medicinal product is under the control of the healthcare professional, patient or user.\n\nThis is an unintentional act involving the medicinal product during the care process.\n\nA medicinal product error is said to have occurred when the error has been confirmed, and a \"near miss\" or potential error when the error has been identified and avoided in time.\n<br />\n\n==Mechanisms==\nA medication error may be linked to professional practice, healthcare products, procedures and systems covering the entire medication circuit: prescribing, communication of the prescription, dispensing, preparation, distribution, administration, education, therapeutic monitoring/follow-up and use. Causes directly related to the product may also be found, and linked to the labelling, packaging or nomenclature of the product.\n<br />\n\n==Characterisation of an error==\n\n*its classification: \"error, potential error or risk of error\".\n*its stage: prescribing, dispensing, preparation, administration, therapeutic follow-up, etc.\n*the nature of the error: drug, dose, dosage/concentration, route of administration, flow rate, administration technique, patient, time of administration, duration of administration, omission, etc.\n*their causes: communication problems, human factors, name confusion, labelling and/or information problems, packaging or design problems, etc.\n\n<br />\n\n==Consequences==\nA medication error can result in :\n\n*An adverse event resulting in harm to the patient\n*A near miss in which the patient almost suffered harm\n*No harm or risk of harm",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Identify the correct characterization of a medicinal product error",
+        "description": "A medicinal product error is defined as a preventable event that could cause or lead to the inappropriate use of a medicinal product or harm to the patient. What is the correct characterization of a medicinal product error?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "A preventable event that could cause or lead to the inappropriate use of a medicinal product or harm to the patient",
+        "description": "This is a plausible and accurate description of a medicinal product error, but option b is also a correct characterization."
+      },
+      "option_b": {
+        "title": "A preventable event that could cause or lead to the inappropriate use of a medicinal product or harm to the patient",
+        "description": "This is a plausible and accurate description of a medicinal product error, but option a is also a correct characterization."
+      },
+      "option_c": "A non-preventable event that could cause or lead to the inappropriate use of a medicinal product or harm to the patient",
+      "option_d": "A preventable event that could cause or lead to the inappropriate use of a medicinal product or harm to the patient, but only when a healthcare professional is involved",
+      "correct_option": "option_d"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

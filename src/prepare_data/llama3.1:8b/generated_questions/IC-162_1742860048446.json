@@ -1,0 +1,12 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-31-B\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=B\n|Title=Know how to treat HPV-related infections\n|Description=None\n|Heading=Management\n|Contributors=\n|Order=31}}\n- Preventive: nonavalent vaccine, 2 or 3 doses\n\n- Children aged 11 to 19\n\n- Men who have sex with men: up to the age of 26\n\n- Curative :\n\n- Physical: cryotherapy, CO2 laser, electrocoagulation, surgery\n\n- Chemical: podophyllotoxin\n\n- Immunological: imiquimod",
+  "question": {
+    "question": "What is the recommended treatment for HPV-related infections?",
+    "option_a": "Antibiotics",
+    "option_b": "Nonavalent vaccine, 2 or 3 doses",
+    "option_c": "Antiviral medications",
+    "option_d": "Surgery",
+    "correct_option": "B"
+  }
+}

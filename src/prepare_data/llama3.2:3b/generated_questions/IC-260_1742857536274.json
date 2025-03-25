@@ -1,0 +1,46 @@
+{
+  "folder": "IC-260",
+  "content": "{{knowledge objective\n|Identifiant=OIC-260-11-A\n|Item_parent=Hematuria\n|Item_parent_short=Hematuria\n|Rank=A\n|Title=Knowing the diagnostic tree for haematuria\n|Description=Figure\n|Rubric=Positive diagnosis\n|Contributors=Charles Dariane, Bruno Moulin\n|Order=11}}\n\n[[File:Figure 6 diagnostic tree.png|thumbnail|1050x1050px|\n<big>'''Figure 6. Diagnostic tree for haematuria'''</big>|alt=|neant]]\n\n\n\n\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the first step in the diagnostic tree for haematuria?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Blood test to check for urinary tract infections",
+        "description": "A blood test may be performed to check for urinary tract infections, but it is not the first step",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Urinalysis to check for blood and protein",
+        "description": "Urinalysis is the first step in the diagnostic tree for haematuria",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Imaging studies to check for kidney stones",
+        "description": "Imaging studies may be performed later in the diagnostic process, but not as the first step",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Urinary catheterization to check for blockages",
+        "description": "Urinary catheterization is not typically performed as the first step in the diagnostic process",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

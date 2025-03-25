@@ -1,0 +1,46 @@
+{
+  "folder": "IC-094",
+  "content": "{{knowledge objective\n|Identifiant=OIC-094-04-B\n|Item_parent=Rachialgia\n|Item_parent_short=Rachialgia\n|Rank=B\n|Title=Knowing the main mechanisms of common spinal pain\n|Description=Description of the different aetiologies of common spinal pain. Arguments in favour of a disc or interapophyseal origin.\n|Rubric=Physiopathology\n|Contributors=Bisseriex H\u00e9l\u00e8ne,Nguyen Christelle\n|Order=4}}\n\n===''El\u00e9ments orientant vers une origine DISCALE'''===\n\n* age 25-50;\n* associated factor: exertion or trauma\n* history of rapidly improving lumbago;\n* physical examination: disc syndrome combining medial, mechanical, impulsive lumbago, exacerbated by hyperextension, spinal syndrome.\n\nComplications = radiculalgia, cauda equina syndrome.\n<br />\n\n===''El\u00e9ments orientant vers une origine INTERAPOPHYSAIRE'''===\n\n* age > 50 years;\n* median or unilateral low back pain, mechanical in character, exacerbated by walking or prolonged standing/sitting down\n* pain referred remotely, without a precise path: buttocks, thighs, iliac spines;\n* poor physical examination: hyperaesthesia of these painful areas on palpation, no disc syndrome, rare spinal syndrome.\n\nComplications = narrowed lumbar canal with radicular claudication (onset of difficulty in walking''', [[Intermittent limb claudication SDD-069|intermittent limb claudication]]).'''''",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a common age range associated with disc-related low back pain?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "20-30 years",
+        "description": "A common age range for disc-related low back pain",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "25-50 years",
+        "description": "A common age range for disc-related low back pain",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "30-50 years",
+        "description": "A common age range for disc-related low back pain",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "40-60 years",
+        "description": "A common age range for disc-related low back pain",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

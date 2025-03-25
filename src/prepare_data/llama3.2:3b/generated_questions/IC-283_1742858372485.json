@@ -1,0 +1,41 @@
+{
+  "folder": "IC-283",
+  "content": "{{knowledge objective\n|Identifiant=OIC-283-09-B\n|Item_parent=Constipation in children and adults\n|Item_parent_short=Constipation in children and adults\n|Rank=B\n|Title=Knowing the principles of managing chronic constipation\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=9}}\n- Personalised and age-appropriate\n\n- Explanation of pathophysiological mechanisms (rectal vacuity)\n\n- Hygienic and dietary measures\n\n- Assessment of maternal nutrition in breastfed infants\n\n- Checking bottle replenishment, water intake and diversification\n\n- Medicinal treatment in older children to soften the stools and eliminate the vicious circle: hard stools-pain-retention to be prolonged for several months and then gradually reduced, always combined with hygienic and dietary measures:\n\no Osmotic (neonatal)\n\no PEG (from 6 months (high dose if faecal impaction))\n\no Washing if faecal impaction\n\nPsychological treatment: may be useful if there is a psychological cause for the retention, if the disorder has psychosocial consequences, or if secondary benefits are sought.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the recommended approach to managing chronic constipation in children?",
+        "description": "What is the most effective treatment for chronic constipation in children?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Only dietary changes and lifestyle modifications",
+        "description": "A combination of dietary changes and lifestyle modifications, such as increasing fluid intake and ensuring adequate fiber consumption, may help manage chronic constipation in children."
+      },
+      "option_b": {
+        "title": "Medicinal treatment with laxatives alone",
+        "description": "Medicinal treatment with laxatives, such as osmotic laxatives or stimulant laxatives, may be necessary to soften stools and promote regular bowel movements in children with chronic constipation."
+      },
+      "option_c": {
+        "title": "Psychological treatment for underlying psychological causes",
+        "description": "Psychological treatment, such as counseling or behavioral therapy, may be helpful if there is a psychological cause for the constipation, or if the disorder has psychosocial consequences."
+      },
+      "option_d": {
+        "title": "No treatment is necessary, as it is a normal part of childhood",
+        "description": "Some parents may believe that constipation is a normal part of childhood and that it will resolve on its own, but this is not the case."
+      },
+      "correct_option": {
+        "title": "A combination of dietary changes, lifestyle modifications, and medicinal treatment",
+        "description": "The most effective approach to managing chronic constipation in children is a combination of dietary changes, lifestyle modifications, and medicinal treatment, such as osmotic laxatives or stimulant laxatives, under the guidance of a healthcare provider."
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

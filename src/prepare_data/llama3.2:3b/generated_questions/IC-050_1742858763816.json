@@ -1,0 +1,46 @@
+{
+  "folder": "IC-050",
+  "content": "{{knowledge objective\n|Identifiant=OIC-050-16-B\n|Item_parent=Genito-scrotal pathology in boys and men\n|Item_parent_short=Genito-scrotal pathology in boys and men\n|Rank=B\n|Title=Know the indications and differential diagnoses of spermatic cord torsion imaging\n|Description=None\n|Rubric=Additional examinations\n|Contributors=C\u00e9dric Leb\u00e2cle, Alice Faure\n|Order=16}}\n\n<br />\n\n*If the clinical picture is strongly suggestive of cord torsion, there is no indication for further investigation.\n*If there is a strong clinical suspicion of spermatic cord torsion, imaging may delay emergency surgical management.\n*Testicular ultrasound coupled with Doppler is the key examination in cases of acute bursal disease, especially after 24 hours. The study is compared with the contralateral testicle. Diagnosis of torsion of the spermatic cord is sometimes difficult. If there is any doubt about the diagnosis, particularly in the presence of atypical symptoms (fever, bursa with an inflammatory appearance, age > 30 years), a frustrated form, or scrotal pain that has been present for more than 24 hours, scrotal ultrasound can help guide the diagnosis.\n\n<br />\n\n*In its typical form of tight spermatic cord torsion, testicular ultrasound coupled with Doppler can show :\n**the whirlpool sign in the inguinal region, which corresponds to the coiling of the spermatic vessels\n**an ascending testicle with heterogeneous echostructure, hypoechoic, with changes in the orientation of its long axis\n**reduced or absent intra-testicular vascularisation compared with the contralateral side\n\n<br />\n\n*Ultrasound is neither sensitive nor specific for the diagnosis of cord torsion.\n*A normal Doppler examination does not rule out an episode of torsion.\n*Testicular Doppler ultrasound can rule out hydatid torsion, necrosis or intratumoral haemorrhage, traumatic rupture of the albuginea or inguino-scrotal hernia.\n*However, if the diagnosis is suspected, a decision to explore the problem surgically in the first instance, without imaging, is recommended.\n*Orchi-epididymitis may simulate cord torsion on ultrasound.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "In cases of suspected spermatic cord torsion, what is the recommended approach to diagnosis?",
+        "description": "According to the provided text, what should be done next if there is a strong clinical suspicion of spermatic cord torsion?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Perform a normal Doppler examination and wait for symptoms to resolve",
+        "description": "This option is plausible because a normal Doppler examination might not rule out an episode of torsion, and waiting for symptoms to resolve might be a common approach in some cases.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Perform testicular ultrasound coupled with Doppler with the affected side",
+        "description": "This option is plausible because ultrasound is recommended for guiding the diagnosis in cases of doubt, especially in atypical symptoms.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Perform a scrotal ultrasound and wait for 24 hours to see if symptoms resolve",
+        "description": "This option is plausible because the text mentions that scrotal ultrasound can help guide the diagnosis after 24 hours, especially in cases of atypical symptoms.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Perform emergency surgery immediately",
+        "description": "This option is the correct answer because the text states that imaging may delay emergency surgical management if the clinical picture is strongly suggestive of cord torsion.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "",
+        "description": "",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

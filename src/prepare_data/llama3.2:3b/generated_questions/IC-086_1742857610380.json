@@ -1,0 +1,46 @@
+{
+  "folder": "IC-086",
+  "content": "{{knowledge objective\n|Identifiant=OIC-086-07-A\n|Item_parent=Eyelid pathology\n|Item_parent_short=Eyelid pathology\n|Rank=A\n|Title=Photograph of a chalazion\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=7}}\n\n[[File:Chalazion interne.jpg|left|vignette|Chalazion with internal extension to the eyelid (tarsal surface)]]\n\n[[File:Chalazion externe.jpg|gauche|vignette|Chalazion with extension to the outer surface of the eyelid (cutaneous surface)]]",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a characteristic of a chalazion?",
+        "description": "A type of eyelid lesion",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "A chalazion is a type of blepharitis.",
+        "description": "A condition that causes inflammation of the eyelids",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "A chalazion is a type of keratoconjunctivitis.",
+        "description": "An inflammation of the cornea and conjunctiva",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "A chalazion is a type of eyelid cyst.",
+        "description": "A benign, fluid-filled sac on the eyelid",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "A chalazion is a type of eyelid tumor.",
+        "description": "A benign growth on the eyelid",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "A",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

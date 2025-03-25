@@ -1,0 +1,46 @@
+{
+  "folder": "IC-283",
+  "content": "{{knowledge objective\n|Identifiant=OIC-283-07-A\n|Item_parent=Constipation in children and adults\n|Item_parent_short=Constipation in children and adults\n|Rank=A\n|Title=Knowing the rules of hygiene and diet\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=7}}\n\n\nIn adults\n\nA) ''Hygienic and dietetic rules\n\n           Hygienic and dietary rules essentially involve a fibre-enriched diet (around 25g/day). There is no point in increasing water intake. However, magnesium-rich waters may be recommended. It is important to recommend regular visits to the toilet and an improved defecation position (legs raised, use of a step stool). Physical exercise does not improve constipation.\n\n           Anorectal rehabilitation can be useful in the treatment of distal constipation.\n\n           Depending on the context, psychological treatment may be necessary.\n\n           Surgery is exceptional in the treatment of constipation (colectomy) and mainly concerns surgery for pelvic static disorders (rectocele etc.).\n\n           Treatments such as endoscopic caecostomy or surgery are the domain of expert centres.     \n\nB) \"Laxatives\n\nThere are different categories of laxatives.\n \nThe 1st-line laxatives are osmotic laxatives and ballast laxatives.\n\nIrritant, lubricant and prokinetic laxatives may be used as a second-line treatment. Irritant laxatives should be used with caution due to the risk of colonic melanosis (laxative disease);\n\nIn children\n\n* General recommendations to limit the factors that contribute to this:\n** learning to exonerate: teaching and parental reassurance;\n** defecatory hygiene: try daily without forcing or coercing, ideally after a meal;\n** improving practical conditions: adapted toilet seat, blocks under the feet (effective pushing), intervention with the school;\n** lifestyle: regular mealtimes, sufficient physical activity (swimming);\n** stopping constipating drugs (if possible).\n\n* Dietary advice following a dietary survey:\n** 1-2 bottles of water per day, adequate water intake (regardless of age);\n** adequate fibre (fruit, vegetables, cereals) and vegetable fat intake;\n** correction of any errors (milk reconstitution methods, excess thickeners).",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Question",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Option A",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Option B",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Option C",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Option D",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-37-B\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=B\n|Title=Know how to draw up the three medical certificates accompanying the compulsory systematic monitoring of infants, at 8, 9 and 24 months.\n|Description=None\n|Rubric=Support\n|Contributors=\n|Order=37}}\nLoose sheets in the health record: an administrative section and a medical section (vaccinations, development, any illnesses or malformations).\n\nCollection of epidemiological data on health status (vaccination coverage in particular)\n\nTo be sent to the doctor in charge of the department's PMI service",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What medical certificates are typically drawn up at 8, 9, and 24 months for compulsory systematic monitoring of infants?",
+        "description": "For follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Birth, 6 months, and 12 months medical certificates",
+        "description": "A common approach to monitoring infant health, but not the correct answer"
+      },
+      "option_b": {
+        "title": "8, 9, and 24 months medical certificates",
+        "description": "The correct answer, as per the provided knowledge objective"
+      },
+      "option_c": {
+        "title": "3, 6, and 12 months medical certificates",
+        "description": "A plausible but incorrect option, as it doesn't match the 8, 9, and 24 months timeline"
+      },
+      "option_d": {
+        "title": "6, 12, and 24 months medical certificates",
+        "description": "Another plausible but incorrect option, as it doesn't match the 8, 9, and 24 months timeline"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": ""
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

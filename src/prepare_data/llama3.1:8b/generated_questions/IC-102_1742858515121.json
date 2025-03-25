@@ -1,0 +1,12 @@
+{
+  "folder": "IC-102",
+  "content": "{{knowledge objective\n|Identifiant=OIC-102-02-A\n|Item_parent=Diplopia\n|Item_parent_short=Diplopia\n|Rank=A\n|Title=Knowing whether diplopia is monocular or binocular\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=2}}\nDiplopia is double vision of a single object.\n\nBinocular diplopia is present when both eyes are open and disappears when either eye is occluded.\n\nMonocular diplopia persists when the healthy eye is occluded and disappears when the affected eye is occluded.",
+  "question": {
+    "question": "What is the characteristic of monocular diplopia?",
+    "option_a": "It disappears when either eye is occluded",
+    "option_b": "It persists when the healthy eye is occluded",
+    "option_c": "It is present when both eyes are open",
+    "option_d": "It is a type of vision loss that occurs in both eyes",
+    "correct_option": "B"
+  }
+}

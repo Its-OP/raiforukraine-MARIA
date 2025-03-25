@@ -1,0 +1,46 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-20-B\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=B\n|Title=Pubertal precocity growth curve\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=20}}\n<gallery>\nFile:Multimedia puberty.jpg|Mammary development and accelerated growth rate at age 7, patient P2S2R0 Suspi\u00e7ion of precocious puberty.\n</gallery>",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the typical growth rate of a child with precocious puberty?",
+        "description": "A child with precocious puberty typically experiences a growth rate that is",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Slower than average",
+        "description": "A child with precocious puberty typically experiences a growth rate that is slower than average",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Faster than average",
+        "description": "A child with precocious puberty typically experiences a growth rate that is faster than average",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Same as average",
+        "description": "A child with precocious puberty typically experiences a growth rate that is the same as average",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Variable",
+        "description": "A child with precocious puberty typically experiences a growth rate that is variable and can vary depending on the individual",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The correct answer is indicated by a letter",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

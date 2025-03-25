@@ -1,0 +1,44 @@
+{
+  "folder": "IC-267",
+  "content": "{{knowledge objective\n|Identifiant=OIC-267-37-B\n|Item_parent=Disorders of acid-base equilibrium and hydro-electrolytic disorders\n|Item_parent_short=Disorders of acid-base equilibrium and fluid and electrolyte disorders\n|Rank=B\n|Title=Know the main ECG abnormalities associated with hypocalcaemia\n|Description=QT interval and risk of rhythm disorders\n|Section=Additional tests\n|Contributors=P. Rieu,B. Moulin,M. Flamant\n|Order=37}}\n\n[[File:Capture hypoCa.jpg|vignette|ECG in hypocalcaemic situation]]\n\n*Cardiac electrical disturbances in hypocalcaemia:\n**QT interval prolongation\n**May be complicated by atrioventricular block\nCan be complicated by atrioventricular block **Ventricular fibrillation\n\n\n'''Figure''' QT space widening (500 mS/heart rate at 64/min)",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a potential complication of QT interval prolongation in hypocalcaemia?",
+        "description": "A cardiac electrical disturbance associated with hypocalcaemia",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Atrial fibrillation",
+        "description": "A type of irregular heartbeat",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Ventricular fibrillation",
+        "description": "A life-threatening arrhythmia",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Atrioventricular block",
+        "description": "A condition where the electrical signal between the heart's chambers is blocked",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Supraventricular tachycardia",
+        "description": "A type of abnormal heart rhythm originating above the ventricles",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Ventricular fibrillation"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-024",
+  "content": "{{knowledge objective\n|Identifiant=OIC-024-10-B\n|Item_parent=Main complications of pregnancy.\n|Item_parent_short=Main complications of pregnancy.\n|Rank=B\n|Title=Savoir prescrire et interpr\u00e9ter les examens compl\u00e9mentaires en cas d'HTA gravidique.\n|Description=Know how to interpret a urinary albumin/creatinine ratio to rule out pre-eclampsia, a rise in creatinine in a pregnant woman, know how to request obstetriocal exemns to assess foetal development.\n|Rubric=Additional examinations\n|Contributors=Paul Berveiller,Philippe Deruelle\n|Order=10}}\n\n'''On the maternal level'''\n\nThe discovery of gestational hypertension = look for pre-eclampsia++.\n\n- The only essential test is to look for ''[[Proteinuria SD-212|proteinuria]]'' on a sample (>1 cross at BU) or on a 24-hour urine collection (>300 mg/24 h).\n\n- A P/C ratio greater than 30 indicates positive proteinuria and should be followed by quantification by analysis of 24-hour proteinuria. If the P/C ratio is less than 30, there is no significant proteinuria.\n\n'''On the foetal level'''\n\n- Obstetrical ultrasound + Doppler'' :\n\n- fetal biometrics with estimation of fetal weight\n\n- assesses growth with comparison to previous ultrasound scans where appropriate\n\n- in the case of IUGR: umbilical artery Doppler analysis (placental resistances) and biometric curves.\n\nFetuses with IUGR and no umbilical Doppler are at high risk of \"in utero\" foetal death and acidosis.\n\nRCF: Of limited interest in moderate and isolated hypertension, it is essential for monitoring severe forms and/or IUGR with pathological umbilical Doppler.",
+  "question": {
+    "question": "What is the primary indication to perform a urinary albumin/creatinine ratio test in a pregnant woman with gestational hypertension?",
+    "option_a": "Pre-eclampsia",
+    "option_b": "Hypertension with proteinuria",
+    "option_c": "Other",
+    "option_d": "Umbilical artery Doppler analysis",
+    "correct_option": "option_b"
+  }
+}

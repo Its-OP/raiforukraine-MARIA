@@ -1,0 +1,12 @@
+{
+  "folder": "IC-256",
+  "content": "{{knowledge objective\n|Identifiant=OIC-256-09-B\n|Item_parent=Sport skills in adults and children; nutritional requirements of athletes (see item 80)\n|Item_parent_short=Sport skills in adults and children; nutritional requirements of athletes (see item 80)\n|Rank=B\n|Title=Knowing the nutritional needs of children in sport\n|Description=Very specific to children\n|Heading=Management\n|Contributors=\n|Order=9}}\nThe definition of a child athlete is a child who participates in a sporting activity for at least 10 hours a week after the age of 10 and 6 hours a week before the age of 10.\n\nDietary requirements must cover the basic needs necessary for the proper growth and development of children and adolescents, as well as specific needs adapted to sporting activities.\n\nIt is advisable\n\n-divide your diet into 3 meals and a snack,\n\navoid high-protein food supplements that are not useful when the diet is balanced (1 to 2 protein rations per day).\n\n-a wide range of slow carbohydrates and cereal products\n\n- favour unsaturated fats\n\n- ensure adequate calcium and vitamin D intakes, as for all children (4 dairy products a day, vitamin D supplementation in winter in line with current recommendations). Other mineral and vitamin intakes are no different from those of other children and adolescents.\n\n- keep well hydrated, especially before and after competitions\n\nParticular attention will be paid to the development of eating disorders, which may be encouraged by sports activities where weight control or physical appearance may take on too much importance.\n\nAttention must also be paid to the basic needs of children and adolescents involved in sport and to the balance between leisure and restraint. Certain situations of excessive training may give rise to information of concern.\n\nhttps://www.nutritiondusport.fr/alimentation-type-de-enfant-sportif/",
+  "question": {
+    "question": "What is the recommended dietary allowance for children in sport?",
+    "option_a": "3 meals and 1 snack per day",
+    "option_b": "2 meals and 1 snack per day",
+    "option_c": "4 meals and 1 snack per day",
+    "option_d": "5 meals and 1 snack per day",
+    "correct_option": "3 meals and 1 snack per day"
+  }
+}

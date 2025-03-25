@@ -1,0 +1,12 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-14-A\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=A\n|Title=Knowing the mortality associated with active smoking\n|Description=Knowledge\n|Rubric=Epidemiology\n|Contributors=\n|Order=14}}\nMortality linked to active smoking\n\nIn France, tobacco is the leading cause of avoidable death, accounting for 75,000 deaths a year.\n\n* Tobacco is the leading cause of avoidable cardiovascular death.\n* Tobacco is the leading cardiovascular risk factor in premenopausal women.\n* Smoking can also be a cause of foetal death in utero.\n* Smoking cessation reduces mortality from cardiovascular disease and bronchopulmonary cancer",
+  "question": {
+    "question": "What is the leading cause of avoidable death in France due to tobacco use?",
+    "option_a": "75,000 deaths a year",
+    "option_b": "Tobacco is the leading cause of avoidable death in France due to cardiovascular disease.",
+    "option_c": "Tobacco is the leading cause of avoidable death in France due to bronchopulmonary cancer.",
+    "option_d": "Smoking cessation reduces mortality from cardiovascular disease and bronchopulmonary cancer",
+    "correct_option": "option_a"
+  }
+}

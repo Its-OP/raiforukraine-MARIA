@@ -1,0 +1,12 @@
+{
+  "folder": "IC-197",
+  "content": "{{knowledge objective\n|Identifiant=OIC-197-09-A\n|Item_parent=Spondyloarthritis\n|Item_parent_short=Spondyloarthritis\n|Rank=A\n|Title=Photography of a spondylitis\n|Description=How to recognise dactylitis\n|Rubric=Multimedia content\n|Contributors=\n|Order=9}}\n\n[[File:Dactylitis.jpg|vignette|'''Dactylitis of the 2<sup>th</sup> toe''']]",
+  "question": {
+    "question": "What is the characteristic feature of dactylitis in spondyloarthritis?",
+    "option_a": "A. Inflammation of the skin",
+    "option_b": "B. Inflammation of the tendons and ligaments",
+    "option_c": "C. Inflammation of the joints",
+    "option_d": "D. Inflammation of the tendons and ligaments and the skin",
+    "correct_option": "C"
+  }
+}

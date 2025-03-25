@@ -1,0 +1,46 @@
+{
+  "folder": "IC-108",
+  "content": "{{knowledge objective\n|Identifiant=OIC-108-15-A\n|Item_parent=Confusion, dementia. (see item 132)\n|Item_parent_short=Confusion, dementia. (see item 132)\n|Rank=A\n|Title=Modensitometry of a chronic HSD\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=15}}\n<gallery widths=\"300\" heights=\"300\">\nFile:HSD chronic02.png\n</gallery>Injection-free CT scan showing a peri-cerebral collection in the left hemispheric convexity (arrows), mostly hypo-dense, in the shape of a \"crescent moon\" (concave medially and convex laterally): chronic subdural haematoma. Note the additional presence of a few spontaneously hyper-dense areas within the chronic subdural haematoma, indicating the presence of a recent rebleed.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the characteristic shape of a chronic subdural hematoma shown in a CT scan?",
+        "description": "A chronic subdural hematoma appears as a crescent-shaped collection in the brain",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Crescent moon shape",
+        "description": "A crescent-shaped collection in the brain, as described in the question",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Lunar shape",
+        "description": "A shape resembling the moon, which is a common misconception about the appearance of a chronic subdural hematoma",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Irregular shape",
+        "description": "A shape that is not regular or symmetrical, which is a common characteristic of acute subdural hematomas",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Cone-shaped",
+        "description": "A shape resembling a cone, which is not a characteristic of chronic subdural hematomas",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct letter of the answer option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

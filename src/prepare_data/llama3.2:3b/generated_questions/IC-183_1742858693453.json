@@ -1,0 +1,46 @@
+{
+  "folder": "IC-183",
+  "content": "{{knowledge objective\n|Identifiant=OIC-183-08-A\n|Item_parent=Organisation of occupational medicine. Prevention of occupational risks\n|Item_parent_short=Organisation of occupational medicine. Occupational risk prevention\n|Rank=A\n|Title=Knowing the risk management approach\n|Description=Hierarchy and methods of a risk management approach\n|Rubric=Definition\n|Contributors=\n|Order=8}}\n\n\n=== '''Important: the proposed measures must always be in the following order:'' ===\n\n* '''step 1,'''\n* '''then if impossible step 2'''\n* '''then ...'''\n\n=== 1. '''Eliminate hazards''', ===\neliminating the use of hazardous chemicals, redesigning premises to avoid the risk of falls, etc. changing work processes\n\nSometimes it is impossible to eliminate the danger: for example, wood dust is a carcinogen, but we cannot suggest to a woodworker that he stop using wood ....=> step 2\n<br />\n\n=== 2. '''Limit emissions at source''' and thus limit their dispersion in the workplace by means of collective protective equipment: ===\nExamples: working in an enclosed space, extraction of emissions, installation of an extractor hood when using solvents, enclosure of a noisy machine, organisation of work to reduce the number of people in the room, ....\n\nIn the case of wood dust: dust extraction at source\n\nIf you have to do a lot of dusty jobs and the suction is inadequate => step 3\n<br />\n\n=== 3. '''Limit employee exposure''' by wearing appropriate personal protective equipment (gloves, breathing masks, goggles, ear muffs, etc.). ===\nExample in the case of wood dust: wear a respiratory protection mask that has been chosen to be suitable (not all masks are equally useful or effective...) and sufficiently comfortable to wear.\n\n\n=== 4. '''Evaluate the effectiveness of preventive measures'': ===\nmonitoring exposure levels by environmental metrology (atmospheric for chemicals, noise for noise, etc.) and biological exposure monitoring (urinary solvents, blood lead, etc.).",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary approach to managing occupational risks?",
+        "description": "Select the best answer from the options provided",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Limit employee exposure by wearing personal protective equipment",
+        "description": "Wearing protective gear to minimize exposure",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Eliminate hazards by redesigning premises and work processes",
+        "description": "Removing or reducing hazards in the workplace",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Limit emissions at source through technology and equipment",
+        "description": "Reducing emissions through technology and equipment",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Monitor environmental and biological exposure levels",
+        "description": "Tracking exposure levels through monitoring",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Eliminate hazards",
+        "description": "The first step in the risk management approach",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

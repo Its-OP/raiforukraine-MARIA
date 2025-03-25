@@ -1,0 +1,46 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-32-B\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=B\n|Title=Knowing when to refer a patient for a tobaccology consultation\n|Description=Tobacology: First recourse, 5A method (ask, assess, advise, assist and arrange)\n|Rubric=Management\n|Contributors=\n|Order=32}}\nEvery medical consultation should be an opportunity to advise patients to stop smoking.\n\nThe professional advises each smoker to stop smoking and discusses the help and support available to help them do so.\n\nALL healthcare professionals MUST suggest stopping smoking (using the 5A technique) at EVERY consultation:\n\n* ask if the person smokes (''Ask'')\n* assess their smoking habits\n* advise each smoker to stop smoking (''Advise'')\n* explain the range of help and support available to help them achieve this ('''Assist'')\n* offer written information to support this advice (''Arrange'')\n\nThis minimum advice helps to increase the weaning rate.\n\nDon't hesitate to refer patients to the <nowiki>http://www.tabac-info-service.fr</nowiki> websites and the 3989 free telephone line, which offer personalised support (coaching).",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the minimum advice healthcare professionals should give to smokers during every consultation?",
+        "description": "A multiple-choice question about the 5A method",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Only to advise smokers to stop smoking",
+        "description": "One of the options that is incorrect but plausible",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "To refer patients to a tobaccology consultation and offer written information",
+        "description": "An option that is incorrect but related to the 5A method",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "To use the 5A method (ask, assess, advise, assist and arrange) and refer patients to additional support",
+        "description": "The correct answer",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "To never advise smokers to stop smoking",
+        "description": "An option that is incorrect and extreme",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "C",
+        "description": "The correct letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

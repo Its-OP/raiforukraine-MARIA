@@ -1,0 +1,46 @@
+{
+  "folder": "IC-191",
+  "content": "{{knowledge objective\n|Identifiant=OIC-191-06-A\n|Item_parent=Fever in an immunocompromised patient\n|Item_parent_short=Fever in an immunocompromised patient\n|Rank=A\n|Item_parent_short=Fever in a febrile immunocompromised patient\n|Description=None\n|Rubric=Identification of urgency\n|Contributors=Am\u00e9lie Servettaz\n|Order=6}}\n\nFebrile neutropenia is \"always a therapeutic emergency\". Appropriate antibiotic therapy should be started as early as possible, after taking appropriate microbiological samples. Antibiotic therapy must be \"broad\" and \"adapted\" to the depth of neutropenia, its duration and the patient's risk factors, any clinical warning signs and \"previous microbiological documentation\" (e.g. carriage of multi-resistant bacteria, history of Pseudomonas infection, etc.).\n\nIn an immunocompromised patient, fever is always an emergency and an infectious agent must be sought, depending on the patient's deficiency (e.g. pneumococcal infection in a patient with a humoral deficiency, pulmonary pneumocystis in a patient with a cellular deficiency, etc.).",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Febrile neutropenia in an immunocompromised patient",
+        "description": "What is the primary goal of antibiotic therapy in febrile neutropenia?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To narrow the spectrum of antibiotics",
+        "description": "This option is plausible, as narrowing the spectrum of antibiotics might be a common approach in some cases of febrile neutropenia.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "To adapt to the patient's risk factors and microbiological documentation",
+        "description": "This option is correct, as antibiotic therapy should be adapted to the patient's risk factors, microbiological documentation, and the depth of neutropenia.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "To start treatment as soon as possible, regardless of microbiological samples",
+        "description": "This option is incorrect, as starting treatment without microbiological samples is not recommended.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "To use broad-spectrum antibiotics for a short duration",
+        "description": "This option is plausible, as broad-spectrum antibiotics might be used in some cases of febrile neutropenia, but it is not the primary goal.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The correct option is B",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

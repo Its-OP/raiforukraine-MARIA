@@ -1,0 +1,43 @@
+{
+  "folder": "IC-027",
+  "content": "{{knowledge objective\n|Identifiant=OIC-027-11-A\n|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Rank=A\n|Intitul\u00e9=Measles : Knowing the elements of foetal prevention\n|Description=Knowing vaccination / passive prevention\n|Rubric=Management\n|Contributors=Alexandre Vivanti, Philippe Deruelle\n|Order=11}}\nUnvaccinated pregnant women who have never contracted measles are among those at risk of complications. It is essential to prevent and monitor the occurrence of infection in pregnant women.\n\n'''In the event of proven contagion''', it is advisable to :\n\n- Check the patient's vaccination status (health record)\n\n- Perform an emergency [[Interpretation of a SD-236 serology result|serology]] (check for the presence of IgG)\n\n- In HIV-negative pregnant women, IV immunoglobulins can be administered within 6 days of infection (protection for one month).\n\n- Following childbirth, vaccination with a trivalent vaccine (MMR) is indicated.\n\nIn the event of a rash compatible with measles, it is advisable to :\n\n- Implement measures to prevent transmission: social distancing, wearing a mask, etc.\n\n- Search for a contact\n\n- Biological confirmation of the diagnosis: salivary RT-PCR and/or search for specific IgM in saliva/serum\n\n- If severe signs are present: hospitalisation (avoid maternity hospital)\n\n- Initiation of symptomatic treatment: antipyretics\n\nThere is no reason to try to stop a patient going into labour.\n\nThere is no reason to prescribe antibiotics routinely.",
+  "question": {
+    "properties": {
+      "question": "In the event of proven contagion, it is advisable to",
+      "option_a": "Check the patient's vaccination status (health record)",
+      "option_b": "Perform an emergency serology (check for the presence of IgG)",
+      "option_c": "Follow a standard immunization schedule",
+      "option_d": "Implement measures to prevent transmission: social distancing, wearing a mask, etc.",
+      "correct_option": "option_a",
+      "required": [
+        "question",
+        "option_a",
+        "option_b",
+        "option_c",
+        "option_d",
+        "correct_option"
+      ]
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ],
+    "required_length": 20,
+    "type": "string",
+    "description": "The multiple-choice question",
+    "correct": true,
+    "distractors": {
+      "option_b": "The patient should be given antibiotics to treat the infection.",
+      "option_c": "Standard immunization schedules should be followed to prevent infection.",
+      "option_d": "The patient should go to maternity hospital after contracting measles."
+    },
+    "possible_mistakes": [
+      "The patient should receive serology, rather than just check their health record",
+      "Vaccination with MMR should not be performed until a few weeks after a potential measles exposure"
+    ]
+  }
+}

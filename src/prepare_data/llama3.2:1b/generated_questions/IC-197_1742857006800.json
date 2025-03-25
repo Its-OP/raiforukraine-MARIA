@@ -1,0 +1,12 @@
+{
+  "folder": "IC-197",
+  "content": "{{knowledge objective\n|Identifiant=OIC-197-04-B\n|Item_parent=Spondyloarthritis\n|Item_parent_short=Spondyloarthritis\n|Rank=B\n|Intitle=Enthesis and Inflammatory Enthesopathy (Enthesitis)\n|Description=None\n|Rubric=Physiopathology\n|Contributors=\n|Order=4}}\nThe enthesis is the zone where various fibrous structures are anchored in the bone.\n\nInflammatory involvement of the entheses (or enthesitis), whether axial or peripheral, is the basic lesion of spondyloarthritis, as opposed to rheumatoid arthritis where the main involvement is synovitis.\n\nEnthesitis results in local inflammatory pain, which is sometimes visible (Achilles enthesitis).",
+  "question": {
+    "question": "What is the basic lesion of spondyloarthritis?",
+    "option_a": "Rheumatoid arthritis",
+    "option_b": "Enthesitis",
+    "option_c": "Rheumatoid arthritis",
+    "option_d": "Osteoarthritis",
+    "correct_option": "option_b"
+  }
+}

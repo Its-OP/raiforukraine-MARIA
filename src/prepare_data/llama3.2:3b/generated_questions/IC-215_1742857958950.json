@@ -1,0 +1,46 @@
+{
+  "folder": "IC-215",
+  "content": "{{knowledge objective\n|Identifiant=OIC-215-04-A\n|Item_parent=Purpuras in adults and children\n|Item_parent_short=Purpuras in adults and children\n|Rank=A\n|Title=Savoir \u00e9voquer le diagnostic de purpura fulminas\n|Description=None\n|Rubric=Identification of the emergency\n|Contributors=\n|Order=4}}\nPurpura fulminans should be suspected when:\n\n- '''Fever ([[Hyperthermia/fever SD-044|hyperthermia/fever]])'''\n\n- Signs of haemodynamic failure ('''[[Discovery of arterial hypotension SD-043|hypotension]]''', mottling, polypnoea, collapse, oligoanuria, etc.).\n\n- Neurological signs (obnubilation, coma, meningeal syndrome). Note that meningeal syndrome may be absent.\n\n- Necrotic and/or ecchymotic and/or extensive purpura (physical examination to be carried out with the patient in underwear).",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Question",
+        "description": "When should Purpura fulminans be suspected?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Option A",
+        "description": "When there is a history of recent vaccination",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Option B",
+        "description": "When there are signs of haemodynamic failure",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Option C",
+        "description": "When the patient has a history of bleeding disorders",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Option D",
+        "description": "When there is a family history of purpura",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "When there are signs of haemodynamic failure",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

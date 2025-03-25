@@ -1,0 +1,46 @@
+{
+  "folder": "IC-056",
+  "content": "{{knowledge objective\n|Identifiant=OIC-056-08-B\n|Item_parent=The disabled child: orientation and care (see items 118, 121)\n|Item_parent_short=The disabled child: orientation and care (see items 118, 121)\n|Rank=B\n|Title=Knowing the aetiological approach to disability\n|Description=Know how to search for a cause of disability\n|Rubric=Etiologies\n|Contributors=\n|Order=8}}\nAn aetiological approach to be carried out in parallel with the implementation of treatment.\n\nAetiological orientation is based on the systems affected (central or peripheral motor impairment, sensory impairment, cognitive impairment), the age of onset of the disorders (antenatal/neonatal/post-natal), and their course (stability, improvement, regression).\n\nA distinction must be made between genetic causes (malformations, chromosomal or gene abnormalities, etc.) and accidental causes (perinatal anoxia, cranial trauma, meningitis, etc.).\n\nDepending on the diagnostic hypotheses, brain imaging (MRI), genetic tests and electroencephalograms may be carried out.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary approach used to determine the cause of disability?",
+        "description": "A multiple-choice question about aetiological orientation",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Aetiological orientation",
+        "description": "A systematic approach to identifying the cause of disability",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Diagnostic hypotheses",
+        "description": "The process of forming a list of possible causes of a disability",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Treatment implementation",
+        "description": "The process of providing care and support to individuals with disabilities",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Brain imaging",
+        "description": "A diagnostic tool used to visualize the brain and its structures",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct letter of the answer option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

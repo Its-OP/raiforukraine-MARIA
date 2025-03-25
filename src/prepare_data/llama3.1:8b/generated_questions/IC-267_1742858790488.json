@@ -1,0 +1,12 @@
+{
+  "folder": "IC-267",
+  "content": "{{knowledge objective\n|Identifiant=OIC-267-23-A\n|Item_parent=Disorders of acid-base equilibrium and hydro-electrolytic disorders\n|Item_parent_short=Disorders of acid-base equilibrium and fluid and electrolyte disorders\n|Rank=A\n|Title=Know the indications for prescribing and the thresholds for defining the severity of hyponatraemia\n|Description=None\n|Rubric=Definition\n|Contributors=P Rieu; B Moulin; M Flamant\n|Order=23}}\n\n\n*Hyponatremia: [Na+] < 135 mmol/L''; ''Severe hyponatremia'' (biological definition) = < 120 mmol/L.\n*The diagnosis of intracellular hyperhydration (ICH) is biological: hyponatraemia associated with plasma hypo-osmolality.\n*Hyponatremia reflects plasma hypo-osmolality (POsm < 280 mOsm/kg). It is therefore \"the consequence of excess water\". It is associated with intracellular hyperhydration (ICH). The increase in intracellular volume is due to a transfer of water from the extracellular sector to the intracellular sector as a result of plasma hypo-osmolality. Hyponatremia associated with plasma hypo-osmolality is explained by a relative water content higher than the sodium stock, which may be normal (pure HIC), increased (HIC + HEC = global hyperhydration) or decreased (HIC + DEC).\n*Indications for prescribing a natraemia:\n**Neurological or digestive symptoms (see clinical signs),\n**monitoring of diuretic treatment,\n**pulmonary, cerebral or endocrine pathologies associated with hyponatraemia,\n**conditions responsible for hyponatremia: heart failure or decompensated liver cirrhosis.",
+  "question": {
+    "question": "What are the indications for prescribing a treatment for hyponatremia?",
+    "option_a": "Monitoring of diuretic treatment, conditions responsible for hyponatremia, and neurological symptoms.",
+    "option_b": "Pulmonary, cerebral, or endocrine pathologies associated with hyponatremia, and conditions responsible for hyponatremia.",
+    "option_c": "Neurological or digestive symptoms, monitoring of diuretic treatment, and conditions responsible for hyponatremia.",
+    "option_d": "Monitoring of diuretic treatment, neurological symptoms, and pulmonary, cerebral, or endocrine pathologies.",
+    "correct_option": "C"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-342",
+  "content": "{{knowledge objective\n|Identifiant=OIC-342-10-A\n|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=A\n|Heading=Know the severity of malaise according to its cause and the monitoring to be undertaken.\n|Description=None\n|Item=Identification of the emergency\n|Contributors=\n|Order=10}}\nSeverity linked to the aetiology, particularly cardiac causes - hospitalisation with continuous monitoring of cardiac rhythm\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary reason for hospitalizing an adult with a sudden onset of malaise and loss of consciousness?",
+        "description": "A patient presents with sudden onset of malaise and loss of consciousness. What is the primary reason for hospitalization?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Electrolyte imbalance",
+        "description": "The patient's electrolyte levels may be out of balance, leading to cardiac arrhythmias.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Cardiac arrhythmias",
+        "description": "The patient's cardiac rhythm may be abnormal, requiring close monitoring.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Dehydration and hypovolemia",
+        "description": "The patient may be dehydrated or have decreased blood volume, leading to decreased cardiac output.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Pulmonary embolism",
+        "description": "The patient may have a blood clot in the lungs, which can cause sudden loss of consciousness.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The first letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

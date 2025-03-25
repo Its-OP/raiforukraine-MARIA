@@ -1,0 +1,34 @@
+{
+  "folder": "IC-045",
+  "content": "{{knowledge objective\n|Identifiant=OIC-045-08-B\n|Item_parent=Specificities of genetic diseases. (see item 9)\n|Item_parent_short=Specificities of genetic diseases. (see item 9)\n|Rank=B\n|Title=Karyotype prescription procedures\n|Description=Prescription methods and the principle of carrying out a karyotype. Knowledge of the different karyotypic anomalies in trisomy 21.\n|Rubric=Positive diagnosis\n|Contributors=Elise Launay,Damien Sanlaville,Marie-B\u00e9reng\u00e8re Troadec\n|Order=8}}\n\nTrisomy 21 or Down's syndrome is suspected clinically and confirmed chromosomally.\n\nThe test to be prescribed is a constitutional karyotype on lymphocytes: 2 ml peripheral venous blood sample in a heparinised tube.\n\nParents/patients need to be informed and asked to sign a consent form with a certificate of genetic counselling.\n\nInformation must be provided on\n\n- the objective (purpose) of the test (diagnosis of trisomy 21) ;\n\n- the nature of the test, in this case karyotype ;\n\n- the limitations of the test (no detection of abnormalities of less than 5 megabases (Mb), weak mosaics, nucleotide variants, risk of culture failure, etc.);\n\n- the delivery time (4-5 days in the case of trisomy 21);\n\n- the need to inform relatives if a serious condition justifying preventive measures, including genetic counselling, or care is identified.\n\n\nA Fluorescence In Situ Hybridization (FISH) study can be requested for a preliminary result within 24-48 hours.\n\nTo carry out genetic counselling, it is necessary to have the results of the karyotype in order to know the mechanism causing trisomy 21.\n\n\nKaryotyping can identify three types of results:\n\n- Complete and homogeneous free trisomy 21: 95% of cases\n\no Free: 3 separate 21 chromosomes\n\no Complete: the whole of chromosome 21\n\no Homogenous: in all cells\n\n- Complete mosaic free trisomy 21 2-3% of cases\n\no Mosaic = two cell populations: cells with three 21 chromosomes and cells with two 21 chromosomes\n\n- Complete trisomy 21 by Robertsonian translocation: 2-3% of cases\n\no Robertstonian translocation: fusion of two acrocentric chromosomes. The most common example is a fusion between chromosome 14 and 21.\n\n\nNB: partial trisomy 21 can be identified by an unbalanced translocation involving part of chromosome 21 and part of another chromosome.\n\nFor a person with trisomy 21, there is no phenotypic difference depending on the chromosomal anomaly, except in the case of weak mosaics (less than 50%) and partial trisomy 21.",
+  "question": {
+    "properties": {
+      "question": "What is the recommended test to be prescribed for suspected trisomy 21?",
+      "option_a": "Karyotyping on lymphocytes",
+      "option_b": "Fluorescence In Situ Hybridization (FISH)",
+      "option_c": "Chorionic Villus Sampling (CVS)",
+      "option_d": "Amniocentesis",
+      "correct_option": "option_a"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ],
+    "required_count": 1,
+    "properties_count": 2,
+    "required_properties": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ],
+    "properties_count_required": 2,
+    "required_properties_count": 1
+  }
+}

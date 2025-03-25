@@ -1,0 +1,12 @@
+{
+  "folder": "IC-242",
+  "content": "{{knowledge objective\n|Identifiant=OIC-242-05-B\n|Item_parent=Hyperthyroidism\n|Item_parent_short=Hyperthyroidism\n|Rank=B\n|Title=Knowing the possible complications of dysthyroid ophthalmopathy: compressive optic neuropathy, exposure keratitis, etc.\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Dr Camille Buffet,Dr Magalie Haissaguerre\n|Order=5}}\n\nPossible complications of basedowian ophthalmopathy are :\n\n- Corneal damage of variable severity, secondary to significant, non-reducible exophthalmos, with [[Palpebral anomalies SD-139|Palpebral inocclusion]].\n\n- Neuropathy due to compression of the optic nerve, which is extremely serious, associated with [[Vision abnormality SD-138|alterations of the visual field]] which can go as far as [[Vision abnormality SD-138|blindness]].\n\n- Involvement of one or more periorbital muscles linked to oedematous phenomena, muscle inflammation and then muscle fibrosis, most often manifested by [[Diplopia SD-143|diplopia]].",
+  "question": {
+    "question": "What is a possible complication of basedowian ophthalmopathy?",
+    "option_a": "Palpebral inocclusion",
+    "option_b": "Vision abnormality SD-138",
+    "option_c": "Diplopia SD-143",
+    "option_d": "Corneal damage of variable severity",
+    "correct_option": "option_c"
+  }
+}

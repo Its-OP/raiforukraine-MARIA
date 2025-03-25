@@ -1,0 +1,12 @@
+{
+  "folder": "IC-074",
+  "content": "{{knowledge objective\n|Identifiant=OIC-074-16-A\n|Item_parent=Prescription and monitoring of psychotropic drugs (see item 330)\n|Item_parent_short=Prescription and monitoring of psychotropic drugs (see item 330)\n|Rank=A\n|Title=Anxiolytics: knowing how to prescribe in emergency situations\n|Description=Preferred molecules, pre-therapeutic assessment, route of administration\n|Rubric=Management\n|Contributors=\n|Order=16}}\n\n==Preferred molecules / route of administration===\n\n*The \"usual\" route of administration is '''''.\n*The IM route has \"no advantage\" for benzodiazepines (with generally poor bioavailability by IM route). In the event of major agitation, antipsychotics should be used (see chapter).\n*In certain situations, such as severe alcohol withdrawal syndrome, benzodiazepines may be administered IV.\n\n==Pre-therapy assessment==\n\n*Research into personal or family history to rule out any ''contraindications'' (questioning and clinical examination);\n*Search for drug treatments taken to anticipate any ''drug interactions'';\n*Search for ''psychiatric'' ''comorbidities'' and substance use disorders;",
+  "question": {
+    "question": "What is the preferred route of administration for benzodiazepines in emergency situations?",
+    "option_a": "IM (Intramuscular)",
+    "option_b": "IV (Intravenous)",
+    "option_c": "oral (Oral)",
+    "option_d": "subcutaneous (Subcutaneous)",
+    "correct_option": "IM (Intramuscular)"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-136",
+  "content": "{{knowledge objective\n|Identifiant=OIC-136-11-A\n|Item_parent=Local, locoregional and general anaesthesia\n|Item_parent_short=Local, locoregional and general anaesthesia\n|Rank=A\n|Title=Know the principles of obstetric analgesia/anaesthesia and the main complications.\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=11}}\n[https://sides.uness.fr/lisa/Bases_Anatomiques_des_anesth\u00e9sies_loco-r\u00e9gionales_rachidiennes Anatomical bases]\n\nThe technique of choice for obstetric analgesia/anaesthesia is peri-medullary anaesthesia, the principles of which were recalled in the chapter on locoregional anaesthesia (figure 5, see [[2C-136-PC-A04]]) ('''[[Prevention of pain associated with care SD-258|prevention of pain associated with care]]''', '''[[Assessment and management of acute pain SD-259|assessment and management of acute pain]]''').",
+  "question": {
+    "question": "What is the technique of choice for obstetric analgesia/anaesthesia?",
+    "option_a": "Epidural anaesthesia",
+    "option_b": "Peri-medullary anaesthesia",
+    "option_c": "Spinal anaesthesia",
+    "option_d": "General anaesthesia",
+    "correct_option": "B"
+  }
+}

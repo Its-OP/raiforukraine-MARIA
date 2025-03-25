@@ -1,0 +1,12 @@
+{
+  "folder": "IC-302",
+  "content": "{{knowledge objective\n|Identifiant=OIC-302-04-A\n|Item_parent=Cutaneous, epithelial and melanoma tumours\n|Item_parent_short=Cutaneous, epithelial and melanoma tumours\n|Rank=A\n|Title=Knowing the principles of comprehensive management of skin tumours\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=4}}\n'''Understanding the principles of comprehensive management of carcinomas'''\n\nFor BCC, treatment consists of surgical excision with safety margins of 4 to 10 mm (according to clinical and histological prognostic criteria).\n\nThe poor prognostic factors are location on the periorificial surface, size >2cm, sclerodermiform and recurrent forms.\n\n\nFor EC, treatment consists of surgical excision with safety margins of 5 to 10 mm (depending on prognostic markers).\n\n\nDetailed description of the different stages of this care:\n\n*preliminary biopsy if diagnosis uncertain or before complex surgical treatment\n*consultation to announce the diagnosis\n*RCP presentation (if carcinoma with poor prognosis or locally advanced)\n*surgery and anatomopathological examination of the specimen:\n**immediate surgical resection if diagnosis highly probable;\n**simple suture removal, usually on an outpatient basis;\n**if surgical excision incomplete or \"borderline\": revision essential.\n\n'''Understanding the principles of comprehensive melanoma management'''\n\nFollowing histological confirmation of the diagnosis of melanoma, revision surgery should be carried out to obtain a complete and wide excision of the lesion with safety margins in healthy skin. The choice of margins is dictated by the Breslow index. The following margins are recommended:\n\n- for intraepidermal melanomas: 0.5 cm margins;\n\n- if the Breslow index is less than or equal to 1 mm: margins of 1 cm ;\n\n- if the Breslow index is between 1.01 and 2 mm: margins of 1 to 2 cm;\n\n- if the Breslow index is greater than 2 mm: 2 cm margins;\n\nFor non-invasive Dubreuilh's melanoma, a margin of 1 cm is recommended.\n\n\n\nHow to prevent melanoma",
+  "question": {
+    "question": "For BCC, treatment consists of surgical excision with safety margins of 4 to 10 mm (according to clinical and histological prognostic criteria). Which of the following is NOT a poor prognostic factor?",
+    "option_a": "Location on the periorificial surface",
+    "option_b": "Size > 2 cm",
+    "option_c": "Sclerodermiform form",
+    "option_d": "Age > 60",
+    "correct_option": "A"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-032",
+  "content": "{{knowledge objective\n|Identifiant=OIC-032-02-B\n|Item_parent=Assessment and care of the newborn at term\n|Item_parent_short=Assessment and care of the newborn at term\n|Rank=B\n|Title=Clinical assessment of the term newborn: understanding paediatric criteria for maturing term newborns\n|Description=Know the elements taken into account to assess the maturation of a newborn baby (tone, archaic reflexes).\n|Rubric=Positive diagnosis\n|Contributors=Guillaume Mortamet\n|Order=2}}\n\nGestational age is determined by early ultrasound (10-12 weeks' amenorrhoea (SA)) or, failing that, from the date of the last menstrual period. Birth is said to be \"at term\" if it takes place between 37 and 41 weeks' amenorrhoea.\n\nThe maturation of the newborn is assessed clinically by morphological and neurological criteria, in particular tonus and archaic reflexes '''([[Examination of the term newborn SD-039|Examination of the term newborn]])'''.\n\n# Neonatal tone\n## Passive tone (the more mature the newborn, the more flexed the posture):  - spontaneous quadriflexion posture; - return to flexion of the upper limbs after extension by the examiner; - scarf sign; - examination of angles: popliteal angle (\u226490\u00b0), dorsiflexion of the foot (between 0 and 20\u00b0), heel-ear angle (\u226490\u00b0), adductor angles (between 40 and 70\u00b0).\n## Active tone: - pull-sit manoeuvre; - full sit-up.\n# '''Primary automatisms (or archaic reflexes)'''   Present in term newborns: sucking, cardinal points, grasping, moro reflex, cross-lengthening, automatic walking.  Absence always pathological. Disappearance between 2 and 4 months of age.\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the criteria for assessing the maturation of a term newborn?",
+        "description": "The newborn's tone and archaic reflexes are assessed to determine their maturation.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "The presence of sucking reflex is always pathological in newborns.",
+        "description": "The sucking reflex is one of the primary automatisms present in term newborns.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "The absence of archaic reflexes is always a sign of immaturity.",
+        "description": "The archaic reflexes are present in term newborns and their disappearance between 2 and 4 months of age is normal.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "The newborn's posture is assessed to determine their maturation.",
+        "description": "The passive tone is assessed by examining the angles of the popliteal, dorsiflexion of the foot, and heel-ear angle.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "The maturation of the newborn is assessed by examining the presence of archaic reflexes.",
+        "description": "The archaic reflexes are one of the primary criteria for assessing the maturation of a term newborn.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "The correct option",
+        "description": "The correct option is the one that accurately describes the criteria for assessing the maturation of a term newborn.",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

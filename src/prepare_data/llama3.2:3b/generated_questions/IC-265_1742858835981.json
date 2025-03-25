@@ -1,0 +1,46 @@
+{
+  "folder": "IC-265",
+  "content": "{{knowledge objective\n|Identifiant=OIC-265-02-B\n|Item_parent=Urinary lithiasis\n|Item_parent_short=Urinary lithiasis\n|Rank=B\n|Title=Epidemiology of urinary lithiasis\n|Description=Epidemiology and distribution of stones\n|Rubric=Epidemiology\n|Contributors=Romain Boissier\n|Order=2}}\n\nThe incidence of urinary lithiasis varies from country to country, depending on geographical, climatic, ethnic, dietary and genetic factors. The prevalence of urolithiasis varies from 1% to 20% worldwide. In France, the prevalence is estimated at almost 10%.\n\nThe sex ratio is 2 men to 1 woman.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the estimated prevalence of urinary lithiasis in France?",
+        "description": "The prevalence of urinary lithiasis varies from country to country, depending on geographical, climatic, ethnic, dietary and genetic factors.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "1%",
+        "description": "A relatively low prevalence of urinary lithiasis in France",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "10%",
+        "description": "A moderate prevalence of urinary lithiasis in France, consistent with the global average",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "20%",
+        "description": "A high prevalence of urinary lithiasis in France, possibly due to specific dietary habits",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "30%",
+        "description": "A very high prevalence of urinary lithiasis in France, likely due to genetic factors",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

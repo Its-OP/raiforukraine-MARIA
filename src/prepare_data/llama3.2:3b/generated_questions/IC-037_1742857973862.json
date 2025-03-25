@@ -1,0 +1,46 @@
+{
+  "folder": "IC-037",
+  "content": "{{knowledge objective\n|Identifiant=OIC-037-11-B\n|Item_parent=Voluntary termination of pregnancy\n|Item_parent_short=Voluntary termination of pregnancy\n|Rank=B\n|Title=Knowing the determinants of contraceptive choice after abortion\n|Description=None\n|Rubric=Management\n|Contributors=Arthur Foulon,Philippe Deruelle,Aubert Agostini\n|Order=11}}\n\nThe choice of contraception must take into account :\n\n- efficiency\n\n- side effects, contraindications\n\n- constraints on use (lifestyle, family and cultural context)\n\n- of the cost\n\n- the patient's wishes\n\n- failure of the previous contraception\n\nContraception must be systematically offered to all patients. The choice is made after receiving informed, objective and personalised information.\n\nThe methods used after an abortion can be :\n\n- Oral oestroprogestogenic contraception (or patch) and progestin-only contraception to be started on the day misoprostol is taken and on the day of the instrumental abortion.\n\n- the vaginal ring to be started within 5 days of the instrumental abortion and within one week of taking mifepristone\n\n- the implant can be inserted on the day of the instrumental abortion and as soon as the mifepristone is taken\n\n- IUDs can be inserted immediately after instrumental abortion and on the day of the post-medical abortion check-up.\n\n- information on definitive tubal sterilisation may be given depending on the patient's age",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What should be considered when choosing a method of contraception after an abortion?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Only the patient's wishes and the cost of the method",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Side effects and contraindications of the method",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "The patient's age and failure of the previous contraception",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "The efficiency and lifestyle constraints of the patient",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "constraints on use (lifestyle, family and cultural context), the patient's wishes, the cost, side effects, contraindications, and failure of the previous contraception",
+        "description": "This consists only a list of the correct options",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

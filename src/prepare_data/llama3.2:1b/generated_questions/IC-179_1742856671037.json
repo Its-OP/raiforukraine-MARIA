@@ -1,0 +1,25 @@
+{
+  "folder": "IC-179",
+  "content": "{{knowledge objective\n|Identifiant=OIC-179-03-A\n|Item_parent=Health risks linked to water and food. Food poisoning\n|Item_parent_short=Health risks associated with food and water. Food poisoning\n|Rank=A\n|Item_parent_short=Health risks associated with water and food.\n|Description=None\n|Rubric=Definition\n|Contributors=Pr Christophe DE CHAMPS DE SAINT LEGER, Dr Johann CAILHOL\n|Order=3}}\nThe main clinical situations linked to the consumption of polluted water are as follows:\n\n1.      Gastrointestinal disorders (microbial and parasitic pollution)\n\n2.     Neurological damage (microbial pollution: Salmonella typhi, Clostridium botulinum)\n\n3.     Hepatitis (HAV, HEV)\n\n4.     Renal failure, Haemolytic uraemic syndrome (HUS) ('Enterohaemorrhagic E.coli', 'Shigella')\n\n5.     Thrombotic thrombocytopenic purpura (enterohaemorrhagic E.coli, Shigella)\n\n6.     Shock (toxins)\n\n7.     Endocrine disruption (pesticides)\n\n8.     Cancers (bladder, skin, lung, colorectal: linked to disinfectants, pesticides (chlordecone, DDT), arsenic, etc.)\n\n9.     Methaemoglobinaemia (nitrites)\n\n10.   Dental fluorosis (natural increase in water concentration or disruption of artificial water fluoridation)\n\n11.   Lead poisoning\n\n12.   Minamata disease (Mercury)\n\nTheir prevention is based on programmes to monitor the state of the water.",
+  "question": {
+    "properties": {
+      "question": "What is the most common consequence of consuming polluted water?",
+      "option_a": "Hepatitis",
+      "option_b": "Cancer",
+      "option_c": "Methaemoglobinaemia",
+      "option_d": "Toxic shock syndrome",
+      "correct_option": "Cancers"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ],
+    "required_types": [
+      "question"
+    ]
+  }
+}

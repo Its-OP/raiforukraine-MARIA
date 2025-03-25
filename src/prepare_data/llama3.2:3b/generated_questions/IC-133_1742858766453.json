@@ -1,0 +1,46 @@
+{
+  "folder": "IC-133",
+  "content": "{{knowledge objective\n|Identifiant=OIC-133-05-B\n|Item_parent=Autonomy and dependence in elderly people\n|Item_parent_short=Autonomy and dependence in elderly people\n|Rank=B\n|Title=Knowing the elements involved in iatrogenic dependence\n|Description=Knowing the risk factors and precipitants of the acquisition of iatrogenic dependence (HAS recommendation)\n|Rubric=Physiopathology\n|Contributors=\n|Order=5}}\nKnowing the risk and precipitating factors in the acquisition of iatrogenic dependence (HAS recommendation)\n\n\nThe main causes of iatrogenic dependence linked to hospitalisation are :\n\n1. immobilisation syndrome\n\n2. acute confusion\n\n3. undernutrition\n\n4. falls\n\n5. de novo urinary incontinence\n\n6. adverse drug reactions\n\nThese causes interact with each other and have common risk factors.\n\nThe same causes may be found when patients are cared for at home, particularly for causes 3, 4 and 6, which may lead to iatrogenic treatment.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Question",
+        "description": "What is a common cause of iatrogenic dependence linked to hospitalisation?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Option A",
+        "description": "Chronic disease",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Option B",
+        "description": "Acute confusion",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Option C",
+        "description": "De novo urinary incontinence",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Option D",
+        "description": "Falls",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "A single letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

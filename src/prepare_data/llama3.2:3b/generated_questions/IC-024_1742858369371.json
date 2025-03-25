@@ -1,0 +1,46 @@
+{
+  "folder": "IC-024",
+  "content": "{{knowledge objective\n|Identifiant=OIC-024-15-B\n|Item_parent=Main complications of pregnancy.\n|Item_parent_short=Main complications of pregnancy.\n|Rank=B\n|Title=Knowing what to do after childbirth in the case of hypertension.\n|Description=None\n|Heading=Management\n|Contributors=Paul Berveiller,Philippe Deruelle\n|Order=15}}\n\nIn the postpartum period, complications are still possible (hypertensive crisis, pre-eclampsia and its complications) and it can sometimes take several weeks for the hypertension to disappear++.\n\nSo :\n\n- Close monitoring and gradual discontinuation of antihypertensive treatment (o''bjectives'': PAS < 150 mmHg and PAD < 100 mmHg\n\n- If breast-feeding, give preference to: beta-blockers (labetalol, propranolol); calcium channel blockers (nicardipine, nifedipine); alphamethyldopa; converting enzyme inhibitors (benazepril, captopril, enalapril, quinapril) if the patient is not breast-feeding.\n\n- At discharge: \"microprogestins\" and \"progestins\" or non-hormonal contraception if hypertension not stabilised.\n\n- At the postnatal consultation: inform the patient of the subsequent cardiovascular and renal risk + coordinated multidisciplinary follow-up\n\n- Three months after delivery: vasculorenal work-up (BP measurement, creatininemia, 24-hour proteinuria [[Proteinuria SD-212]])\n\nSearch for and correct associated cardiovascular and renal risk factors (obesity, diabetes, dyslipidaemia, smoking [[Obesity and overweight SD-051]]; [[Prevention of overweight and obesity SD-319]]; [[Prevention of tobacco-related risks SD-314]]; [[Prevention of alcohol-related risks SD-313]]).\n\nEtiological investigation if hypertension persists.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What should be done after childbirth in the case of hypertension?",
+        "description": "After childbirth, what should be done to manage hypertension?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Continue antihypertensive treatment indefinitely",
+        "description": "Continue taking antihypertensive medication without any adjustments",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Only give preference to beta-blockers and calcium channel blockers",
+        "description": "Only consider beta-blockers and calcium channel blockers as options",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Discontinue antihypertensive treatment and only use non-hormonal contraception",
+        "description": "Stop antihypertensive treatment and use only non-hormonal contraception",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Close monitoring and gradual discontinuation of antihypertensive treatment",
+        "description": "Close monitoring and gradually stop antihypertensive treatment",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Close monitoring and gradual discontinuation of antihypertensive treatment",
+        "description": "Close monitoring and gradually stop antihypertensive treatment",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

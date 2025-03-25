@@ -1,0 +1,12 @@
+{
+  "folder": "IC-260",
+  "content": "{{knowledge objective\n|Identifiant=OIC-260-02-B\n|Item_parent=Hematuria\n|Item_parent_short=Hematuria\n|Rank=B\n|Title=Knowing the main mechanisms of haematuria\n|Description=None\n|Rubric=Physiopathology\n|Contributors=Charles Dariane, Bruno Moulin\n|Order=2}}\n\n<br />\n\n*Micro or macroscopic haematuria correspond to urological or nephrological aetiologies, indicating damage to the renal parenchyma or the urinary excretory tract.\n\n*Urological etiology: lesion of the renal parenchyma or urinary tree with effraction of blood vessels, red blood cells spilled into the urinary excretory tract.\n\n*Nephrological etiology: passage of red blood cells through an altered glomerular basement membrane: extracapillary cell proliferation during rapidly progressive glomrulonephritis and/or remodelling of the glomerular structure (mesangial IgA deposits, Alport syndrome, etc.). Absence of clots due to activation of fibrinolytic tubular urokinase. Presence of haematic cylinders or deformed red blood cells (acanthocytes) in rolls on analysis of the urine pellet. Proteinuria may be present.",
+  "question": {
+    "question": "What is the main mechanism behind nephrological haematuria?",
+    "option_a": "Lesion of the renal parenchyma or urinary tree with effraction of blood vessels",
+    "option_b": "Passage of red blood cells through an altered glomerular basement membrane",
+    "option_c": "Presence of haematic cylinders or deformed red blood cells (acanthocytes) in rolls on analysis of the urine pellet",
+    "option_d": "Activation of fibrinolytic tubular urokinase leading to clot formation",
+    "correct_option": "B"
+  }
+}

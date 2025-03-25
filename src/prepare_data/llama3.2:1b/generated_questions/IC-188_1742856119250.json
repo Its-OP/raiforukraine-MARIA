@@ -1,0 +1,77 @@
+{
+  "folder": "IC-188",
+  "content": "{{knowledge objective\n|Identifiant=OIC-188-11-B\n|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Rank=B\n|Title=Knowing the PR semiology of thoracic distension\n|Description=Hyperclarity of the lung fields with flattening of the diaphragmatic cupolas and horizontalization of the ribs.\n|Rubric=Multimedia content\n|Contributors=\n|Order=11}}\ncf identical chapter in item COPD",
+  "question": {
+    "properties": {
+      "question": "What is the correct term for the condition where the lungs expand abnormally during inhalation?",
+      "option_a": "Respiratory distress syndrome",
+      "option_b": "Chronic obstructive pulmonary disease (COPD)",
+      "option_c": "Bronchiolitis",
+      "option_d": "Pulmonary edema",
+      "correct_option": "option_a"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ],
+    "required_keys": [
+      "question"
+    ],
+    "items": [
+      {
+        "title": "Option A",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      {
+        "title": "Option B",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      {
+        "title": "Option C",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      {
+        "title": "Option D",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      }
+    ],
+    "schema": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "properties": {
+          "type": {
+            "enum": [
+              "boolean",
+              "object"
+            ]
+          }
+        }
+      },
+      "enum": [
+        "object"
+      ],
+      "description": "Correct Option for hyperinflated or dilated state.",
+      "default": [
+        "respiratory",
+        "COPD"
+      ],
+      "format": [
+        "duality:3,"
+      ],
+      "labeling conventions": {
+        "boolean": [
+          "Correct option 'False' = None; True=Question answered with answer D (0, not included, included only true if asked)"
+        ]
+      }
+    }
+  }
+}

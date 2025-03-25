@@ -1,0 +1,46 @@
+{
+  "folder": "IC-056",
+  "content": "{{knowledge objective\n|Identifiant=OIC-056-03-A\n|Item_parent=The disabled child: orientation and care (see items 118, 121)\n|Item_parent_short=The disabled child: orientation and care (see items 118, 121)\n|Rank=A\n|Title=Knowing the principles of assessment and clinical examination\n|Description=Evaluation of a disabled child according to the principles of the International Classification of Functioning and the principles of clinical examination (less \"frank\" clinical examination, importance of family and friends in the evaluation).\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=3}}\nMultidisciplinary and coordinated functional assessment to identify the needs of the child and his family.\n\n'''ICF-based assessment''': impairment/activity/participation/environmental factors/personal factors. Use of tools adapted to the chronological age, expected in relation to those of a child of the same age.\n\nAssessing the child's performance and abilities\n\n> the assessments enable ''the child to be evaluated in relation to typical development'', it is worth proposing ''regular'' assessments at different ages ([[Anomaly of psychomotor development SD-115]]).\n\nStagnation in psychomotor development or unexpected deterioration> diagnosis to be reconsidered.\n\n\nTo be taken into account: the child's immediate environment (parents). Low level of parental education, psycho-affective and socio-economic vulnerability= aggravating factors in the child's disability. ([[Overall support for a carer SD-330]]) ([[Precarious social situation and isolation SD-347|Precarious social situation and isolation SD-347)]]\n\n\n\nObjective of the assessments= to support the child, his/her parents and the people around him/her (rehabilitation professionals, teachers, etc.) in order to identify his/her specific needs and support his/her development accordingly. [[Situation de handicap SD-345|(Situation de handicap SD-345)]]\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary objective of functional assessments for a disabled child?",
+        "description": "The purpose of a multidisciplinary and coordinated assessment",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To diagnose the child's impairment",
+        "description": "A common goal of clinical assessments, but not the primary objective of functional assessments",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "To support the child's development and identify specific needs",
+        "description": "The primary objective of functional assessments, as stated in the provided text",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "To evaluate the child's performance and abilities in relation to typical development",
+        "description": "A related goal of functional assessments, but not the primary objective",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "To identify the child's environmental factors and personal factors",
+        "description": "A component of ICF-based assessments, but not the primary objective of functional assessments",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The correct answer, indicating that the primary objective of functional assessments is to support the child's development and identify specific needs",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

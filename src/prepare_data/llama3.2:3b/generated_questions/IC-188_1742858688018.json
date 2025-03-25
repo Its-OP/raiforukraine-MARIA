@@ -1,0 +1,46 @@
+{
+  "folder": "IC-188",
+  "content": "{{knowledge objective\n|Identifiant=OIC-188-18-B\n|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Rank=B\n|Title=Knowing how to use beta-2 mimetics (inhalation, aerosol) and inhaled corticosteroids in asthma.\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=18}}\nThe choice of inhaled treatment device should be guided by the patient's co-ordination skills (necessary for certain metered dose inhalers) and inspiratory capacities (greater inspiratory flow required for powders).\n\nAny prescription for inhaled treatment must be accompanied by instruction in the use of the inhalation device. Inhalation technique should be checked at each consultation.\n\nA dedicated website with videos demonstrating the treatments available is freely accessible to patients and carers: <nowiki>https://splf.fr/videos-zephir/</nowiki>",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the key factor in choosing an inhaled treatment device for asthma?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Co-ordination skills",
+        "description": "The ability to coordinate the act of inhaling and pressing the canister",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Inspiratory capacities",
+        "description": "The amount of air that can be breathed in",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Age and weight",
+        "description": "The patient's age and weight are necessary for choosing the correct device",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Medical history",
+        "description": "The patient's medical history is necessary for choosing the correct device",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Co-ordination skills",
+        "description": "The correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

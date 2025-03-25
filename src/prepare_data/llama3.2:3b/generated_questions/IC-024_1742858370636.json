@@ -1,0 +1,46 @@
+{
+  "folder": "IC-024",
+  "content": "{{knowledge objective\n|Identifiant=OIC-024-25-A\n|Item_parent=Main complications of pregnancy.\n|Item_parent_short=Main complications of pregnancy.\n|Rank=A\n|Title=Knowing how to manage a fever during pregnancy.\n|Description=Initial treatment of fever, then according to aetiology\n|Rubric=Management\n|Contributors=Paul Berveiller,Philippe Deruelle\n|Order=25}}\n\n'''Apart from specific guidance:'''\n\n- Preventive antibiotic therapy against Listeria: amoxicillin 3 g/d (or erythromycin if allergic)\n\n'''''Any fever during pregnancy is listeriosis until proven otherwise (natural resistance to C2G and C3G).'''''\n\n- Antipyretic (paracetamol type) ;\n\n- ''Close monitoring:'' temperature, EC + /- cervix, FPR\n\n'''Specific treatment'''\n\n- Pyelonephritis : cf [[Learn about the particularities of urinary tract infection during pregnancy]]\n\n- Chorioamniotitis; parenteral antibiotic therapy is started immediately, combining C3G and aminoglycosides. Tocolysis is contraindicated. Preparing to receive a premature newborn.\n\n- Listeriosis: '''''On confirmation of infection with Listeria ''monocytogenes: amoxicillin 6 g/d IV, if allergic: erythromycin per os or vancomycin IV'''''\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Question",
+        "description": "What is the initial treatment for fever during pregnancy?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Option A",
+        "description": "Antipyretic (paracetamol type) and close monitoring",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Option B",
+        "description": "Preventive antibiotic therapy against Listeria and antipyretic (paracetamol type)",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Option C",
+        "description": "Parenteral antibiotic therapy is started immediately, combining C3G and aminoglycosides",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Option D",
+        "description": "Tocolysis is contraindicated and preparing to receive a premature newborn",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "A single letter indicating the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-237",
+  "content": "{{knowledge objective\n|Identifiant=OIC-237-06-A\n|Item_parent=Palpitations\n|Item_parent_short=Palpitations\n|Rank=A\n|Title=Identify sinus tachycardia\n|Description=Adaptive sinus tachycardia conditions\n|Rubric=Etiologies\n|Contributors=Arnaud Bisson\n|Order=6}}\n\n\n* Sinus tachycardia is defined as an acceleration of the normal sinus rhythm.\n\n* It is most often ''reactionary or adaptive'':\n** physiological context: effort, emotion, stress\n** cardiac context: heart failure, pulmonary embolism, pericardial effusion (''dyspnoea, chest pain'')\n** extracardiac context : fever, sepsis (''hyperthermia/fever''); anaemia ('''melena/rectorrhagia, drop in haemoglobin''), hypovolaemia ('''acute haemorrhage''); hypoxaemia ('''dyspnoea''); hyperthyroidism (''goitre or thyroid nodule''); pregnancy; alcoholism (''acute drunkenness''); withdrawal syndrome (''management of forced alcohol withdrawal''); drugs.\n\n* Exceptionally, it occurs in isolation, and is known as ''inappropriate'' sinus tachycardia.\n\n[[File:Sinus tachycardia.png|center|thumb|900x900px|sinus tachycardia at 115/min with signs of acute pulmonary heart (right bundle branch block *, S1Q3 <sup>#</sup>)]]]\n<br />",
+  "question": {
+    "question": "What is the correct option for identifying sinus tachycardia?",
+    "option_a": "A. Sinus tachycardia is most often associated with stress and emotion.",
+    "option_b": "B. Sinus tachycardia is most often associated with heart failure.",
+    "option_c": "C. Sinus tachycardia is most often associated with fever and sepsis.",
+    "option_d": "D. Sinus tachycardia is most often associated with hypothyroidism.",
+    "correct_option": "A"
+  }
+}

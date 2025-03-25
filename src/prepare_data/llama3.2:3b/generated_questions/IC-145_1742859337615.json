@@ -1,0 +1,40 @@
+{
+  "folder": "IC-145",
+  "content": "{{knowledge objective\n|Identifiant=OIC-145-02-B\n|Item_parent=Surveillance of communicable infectious diseases\n|Item_parent_short=Surveillance of communicable infectious diseases\n|Rank=B\n|Heading=Know the principles of communicable infectious disease surveillance: national and international organisation of surveillance, data sources, objectives, etc.\n|Description=None\n|Section=Definition\n|Contributors=Didier HOCQUET,Elodie COUVE,Anne-Marie ROGUES,Alexandre DUVIGNAUD\n|Order=2}}\n\nCommunicable infectious disease surveillance involves the compilation and analysis of clinical and/or microbiological data relating to infectious diseases. Its aim is to describe a disease and study its risk factors, with a view to implementing and evaluating prevention and control measures. Data may be collected on an ongoing or ad hoc basis, for example from laboratory networks, hospitals or general practitioners.\n\nMonitoring can be :\n\n*Passive'': spontaneous reporting by field workers.\n*Active'': data collection by dedicated staff who gather information that is often more exhaustive and elaborate than in the case of passive surveillance.\n*Semi-active'': reminders or reminders sent to field workers, search for additional cases.\n\nSurveillance is organised at different levels:\n\n*'''Territorial''' with a network of various sources (for example: microbiology laboratories for the Observatoire National de l'Epid\u00e9miologie de la R\u00e9sistance Bact\u00e9rienne aux Antibiotiques - ONERBA; doctors for the Sentinelles network)\n*'''National''': Sant\u00e9 Publique France (SPF), surveillance networks, National Reference Centres (CNR)\n*International: World Health Organisation (WHO), European Center for Disease Control (ECDC) in Europe, Centers for Disease Control and Prevention (CDC) in the United States.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary aim of communicable infectious disease surveillance?",
+        "description": "The multiple-choice question asking about the purpose of communicable infectious disease surveillance",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To describe a disease and study its risk factors for the purpose of implementing control measures",
+        "description": "Option A: To describe a disease and study its risk factors for the purpose of implementing control measures"
+      },
+      "option_b": {
+        "title": "To collect data on an ongoing or ad hoc basis from laboratories and hospitals",
+        "description": "Option B: To collect data on an ongoing or ad hoc basis from laboratories and hospitals"
+      },
+      "option_c": {
+        "title": "To monitor and evaluate the effectiveness of existing prevention and control measures",
+        "description": "Option C: To monitor and evaluate the effectiveness of existing prevention and control measures"
+      },
+      "option_d": {
+        "title": "To provide a general overview of the prevalence and incidence of infectious diseases",
+        "description": "Option D: To provide a general overview of the prevalence and incidence of infectious diseases"
+      },
+      "correct_option": {
+        "title": "A"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

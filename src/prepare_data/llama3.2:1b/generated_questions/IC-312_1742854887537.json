@@ -1,0 +1,22 @@
+{
+  "folder": "IC-312",
+  "content": "{{knowledge objective\n|Identifiant=OIC-312-04-A\n|Item_parent=Breast tumours\n|Item_parent_short=Breast tumours\n|Rank=A\n|Title=Knowing the natural history of breast cancer and how it spreads\n|Description=Explain the natural history of breast cancer (carcinogenesis) and how it spreads\n|Rubric=Physiopathology\n|Contributors=\n|Order=4}}\n\n\n* Breast cancer arises from the cells of the breast's secretory apparatus, consisting of the lobules and milk ducts.\n* In the first stage, development is intra-epithelial, without crossing the basement membrane: these lesions are called \"in situ\" cancers (or carcinomas). In situ\" cancers (ductal or lobular) are therefore characterised by their lack of metastatic potential.\n* When the carcinoma becomes invasive (= crosses the basement membrane), the cells can spread either by lymphatic or haematogenous route or by contiguity.\n* Lymphatic drainage of the breast takes place at three main sites: the lymph nodes of the axillary fossa (the most important), the supra- and sub-clavicular nodes and the nodes of the internal mammary chain. These different areas can therefore be affected by the disease.",
+  "question": {
+    "properties": {
+      "question": "What is the primary route of spread for breast cancer?",
+      "option_a": "Haematogenous",
+      "option_b": "Lymphatic",
+      "option_c": "Contiguity",
+      "option_d": "Lymphatic",
+      "correct_option": "option_b"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

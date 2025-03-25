@@ -1,0 +1,12 @@
+{
+  "folder": "IC-342",
+  "content": "{{knowledge objective\n|Identifiant=OIC-342-04-A\n|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=A\n|Title=Knowing the elements of the diagnosis of syncope and lipothymia\n|Description=Triggering circumstances, clinical features\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=4}}\n<gallery widths=\"420\" heights=\"420\">\nFile:Fig1Malaise.PNG\n</gallery>loss of consciousness - triggering circumstances - presence or absence of prodromal symptoms - onset during exertion or while lying down - trauma -",
+  "question": {
+    "question": "What is the primary symptom of syncope?",
+    "option_a": "Fainting",
+    "option_b": "Dizziness",
+    "option_c": "Panic attack",
+    "option_d": "Hypertension",
+    "correct_option": "option_a"
+  }
+}

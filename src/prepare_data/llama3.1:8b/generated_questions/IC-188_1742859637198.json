@@ -1,0 +1,12 @@
+{
+  "folder": "IC-188",
+  "content": "{{knowledge objective\n|Identifiant=OIC-188-14-A\n|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Rank=A\n|Title=Knowing the main occupational aetiologies\n|Description=Main agents and professions concerned\n|Rubric=Etiologies\n|Contributors=\n|Order=14}}\nCf above : [[Knowing the main occupations at risk of occupational asthma 2C-188-ET-B01|Knowing the main occupations at risk of occupational asthma]]",
+  "question": {
+    "question": "What are the main occupational aetiologies of hypersensitivity and respiratory allergies in children and adults?",
+    "option_a": "Occupational asthma and rhinitis are mainly caused by chemical agents, such as solvents and cleaning products, in the manufacturing industry.",
+    "option_b": "Occupational asthma and rhinitis are mainly caused by chemical agents, such as solvents and cleaning products, in the construction industry.",
+    "option_c": "Occupational asthma and rhinitis are mainly caused by biological agents, such as latex and wood dust, in the healthcare industry.",
+    "option_d": "Occupational asthma and rhinitis are mainly caused by physical agents, such as noise and vibrations, in the mining industry.",
+    "correct_option": "A"
+  }
+}

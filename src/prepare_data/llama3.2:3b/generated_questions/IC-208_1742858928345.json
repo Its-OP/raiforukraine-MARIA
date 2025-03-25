@@ -1,0 +1,46 @@
+{
+  "folder": "IC-208",
+  "content": "{{knowledge objective\n|Identifiant=OIC-208-06-B\n|Item_parent=Chronic respiratory failure\n|Item_parent_short=Chronic respiratory failure\n|Rank=B\n|Title=To know the methods of interpretation of functional explorations allowing to orientate towards an obstructive CKD and towards a restrictive CKD.\n|Description=FRI, interpretation\n|Section=Additional tests\n|Contributors=\n|Order=6}}\nsee above",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary goal of functional exploration in chronic respiratory failure?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To identify the underlying cause of the respiratory failure",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "To determine the level of lung function",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "To rule out other underlying conditions",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "To classify the type of respiratory failure",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

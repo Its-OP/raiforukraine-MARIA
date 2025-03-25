@@ -1,0 +1,46 @@
+{
+  "folder": "IC-288",
+  "content": "{{knowledge objective\n|Identifiant=OIC-288-02-B\n|Item_parent=Hemorrhoidal pathology\n|Item_parent_short=Hemorrhoidal pathology\n|Rank=B\n|Title=Knowing the frequency of haemorrhoidal pathology\n|Description=\n|Rubric=Epidemiology\n|Contributors=\n|Order=2}}\n\nIt is estimated that a third of the French adult population has had at least one haemorrhoidal symptom in the past year, but only a third have sought medical advice.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Question",
+        "description": "What percentage of the French adult population has had at least one haemorrhoidal symptom in the past year?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Option A",
+        "description": "Two-thirds of the French adult population",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Option B",
+        "description": "Only one-third of the French adult population",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Option C",
+        "description": "A quarter of the French adult population",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Option D",
+        "description": "The majority of the French adult population",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "A",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

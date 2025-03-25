@@ -1,0 +1,46 @@
+{
+  "folder": "IC-102",
+  "content": "{{knowledge objective\n|Identifiant=OIC-102-11-A\n|Item_parent=Diplopia\n|Item_parent_short=Diplopia\n|Rank=A\n|Title=Knowing that acute III paralysis is a vital emergency\n|Description=AVC\n|Rubric=Identification of the emergency\n|Contributors=\n|Order=11}}\nIn the case of recent diplopia, a neurological examination and cerebral imaging should be performed as a priority.\n\nIll's paralysis associated with pupillary signs and pain requires an urgent search for an intracranial aneurysm.\n\nIntracranial aneurysms, in particular [[Arachnoid and subarachnoid spaces|posterior communicating aneurysms and supraclinoid carotid aneurysms]], are responsible for III paralysis often associated with headaches.\n\nIn particular, an intracranial aneurysm should be suspected:\n\n- in the event of partial oculomotor damage but with pupillary signs of intrinsic III damage;\n\n- in young people;\n\n- in the absence of vascular risk factors ;\n\n- in the presence of headaches.\n\nIn these cases, urgent neuroradiological exploration using angioscan or MRI is essential; if the results are negative or doubtful, a cerebral arteriography should be considered if there is a strong clinical suspicion.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Question",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Option A",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Option B",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Option C",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Option D",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-176",
+  "content": "{{knowledge objective\n|Identifiant=OIC-176-08-B\n|Item_parent=Infectious diarrhoea in adults and children\n|Item_parent_short=Infectious diarrhoea in adults and children\n|Rank=B\n|Title=Knowing the indication for a parasitological examination of faeces\n|Description=Collection of fresh stools, on 3 occasions a few days apart to increase sensitivity. Does not rule out the diagnosis if negative. Know how to prescribe specific tests (anguillulosis, cryptosporidiosis: B).\n|Rubric=Additional tests\n|Contributors=Alexis de Rougemont,Christophe Deschamps, Florence Robert-Gangneux\n|Order=8}}\n\nIn cases of diarrhoea on return from a trip to a tropical zone, in cases of immunodepression and chronic diarrhoea\n\n*Testing for giardiasis may be requested in the event of persistent digestive problems (pain, bloating, frothy stools) in children or adults.\n*Testing for intestinal amoebiasis is indicated in cases of bloody stools after a trip to an endemic area.\n*Cryptosporidiosis testing must be specified (for immunocompromised patients or children).\n*Testing for anguillulosis is indicated in the event of a prolonged stay in an endemic area (migration), in the case of hypereosinophilia or in anticipation of immunosuppressive treatment.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Indication for a parasitological examination of faeces in cases of diarrhoea",
+        "description": "What is the indication for a parasitological examination of faeces in cases of diarrhoea on return from a trip to a tropical zone, in cases of immunodepression and chronic diarrhoea?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Testing for giardiasis in cases of bloody stools",
+        "description": "Testing for giardiasis may be requested in the event of persistent digestive problems (pain, bloating, frothy stools) in children or adults.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Testing for intestinal amoebiasis after a trip to an endemic area",
+        "description": "Testing for intestinal amoebiasis is indicated in cases of bloody stools after a trip to an endemic area.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Testing for cryptosporidiosis in immunocompromised patients",
+        "description": "Cryptosporidiosis testing must be specified (for immunocompromised patients or children).",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Testing for anguillulosis in cases of hypereosinophilia",
+        "description": "Testing for anguillulosis is indicated in the event of a prolonged stay in an endemic area (migration), in the case of hypereosinophilia or in anticipation of immunosuppressive treatment.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Option D",
+        "description": "The correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

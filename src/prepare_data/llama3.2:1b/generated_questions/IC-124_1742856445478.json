@@ -1,0 +1,22 @@
+{
+  "folder": "IC-124",
+  "content": "{{knowledge objective\n|Identifiant=OIC-124-15-A\n|Item_parent=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)\n|Item_parent_short=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)\n|Rank=A\n|Title=Know the definition of andropause or age-related androgen deficiency.\n|Description=None\n|Rubric=Definition\n|Contributors=Benjamin Pradere\n|Order=15}}\n\n<br />\n\n*The term ''age-related testosterone deficiency syndrome'' should be preferred to the term ''andropause''.\n\n*Its definition is based on the ''association'' of a ''biochemical syndrome'' (hypotestosteronemia) with a ''decrease in serum androgens'' associated with ''advancing age'' impacting on ''quality of life'' and the function of certain organs (Figure 1).\n\n<br />\n\n[File:Figure1definition.png|neant|vignette|alt=|Figure1]]\n<br />The biochemical deficit is defined by a test of testosterone '''total and bioavailable''' in the morning (8-11H)",
+  "question": {
+    "properties": {
+      "question": "What is the biochemical deficit defined by a test of testosterone total and bioavailable in the morning?",
+      "option_a": "Total testosterone in the morning",
+      "option_b": "Bioavailable testosterone in the morning",
+      "option_c": "Total testosterone in the afternoon",
+      "option_d": "Bioavailable testosterone in the afternoon",
+      "correct_option": "option_b"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

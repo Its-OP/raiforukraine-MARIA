@@ -1,0 +1,46 @@
+{
+  "folder": "IC-197",
+  "content": "{{knowledge objective\n|Identifiant=OIC-197-09-A\n|Item_parent=Spondyloarthritis\n|Item_parent_short=Spondyloarthritis\n|Rank=A\n|Title=Photography of a spondylitis\n|Description=How to recognise dactylitis\n|Rubric=Multimedia content\n|Contributors=\n|Order=9}}\n\n[[File:Dactylitis.jpg|vignette|'''Dactylitis of the 2<sup>th</sup> toe''']]",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is dactylitis?",
+        "description": "A condition characterized by inflammation of the digits",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "A type of arthritis",
+        "description": "A condition that affects the joints",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Inflammation of the digits",
+        "description": "A condition that causes swelling and pain in the toes or fingers",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "A type of skin condition",
+        "description": "A condition that affects the skin and mucous membranes",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "A type of injury",
+        "description": "A condition that results from a physical trauma",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

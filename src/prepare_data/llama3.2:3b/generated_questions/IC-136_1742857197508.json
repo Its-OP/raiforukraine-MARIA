@@ -1,0 +1,46 @@
+{
+  "folder": "IC-136",
+  "content": "{{knowledge objective\n|Identifiant=OIC-136-05-A\n|Item_parent=Local, locoregional and general anaesthesia\n|Item_parent_short=Local, locoregional and general anaesthesia\n|Rank=A\n|Title=Knowing the different types of anaesthesia\n|Description=General, locoregional and local anaesthesia\n|Rubric=Definition\n|Contributors=\n|Order=5}}\n- '''General anaesthesia:''' reversible loss of consciousness induced by the administration of a hypnotic, often combined with an analgesic +/- a curare\n\n- '''Locoregional anaesthesia:''' transient interruption of nerve conduction while maintaining consciousness. 2 types: peri-medullary (around the spinal cord) or peripheral (around a nerve). Locoregional anaesthesia can be used for analgesic purposes or as part of chronic pain management (\"''[[Acute postoperative pain SD-034|acute postoperative pain]]''\"), '''[[Prevention of pain associated with care SD-258|prevention of pain associated with care]]''''\", \"''[[Assessment and management of acute pain SD-259|assessment and management of acute pain]]''''\")\n\n- '''Local anaesthesia:''' administration of a local anaesthetic by infiltration or topical route to the area to be operated on or analgesized. This is the only type of anaesthetic that can be performed by any doctor, whatever their speciality.\n\nThe anaesthetic process for a scheduled procedure is summarised in figure 1 (see 2C-136-PC-A01). The anaesthetic process is identical for both general and locoregional anaesthesia (\"''[[Preoperative explanation and collection of consent for an invasive diagnostic or therapeutic procedure SD-239|preoperative explanation and collection of consent for an invasive diagnostic or therapeutic procedure]]'').",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary characteristic of local anaesthesia?",
+        "description": "The type of anaesthesia that can be administered by any doctor, regardless of specialty.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Reversible loss of consciousness",
+        "description": "A characteristic of general anaesthesia",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Administration of a local anaesthetic to a specific area",
+        "description": "A characteristic of local anaesthesia",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Temporary interruption of nerve conduction while maintaining consciousness",
+        "description": "A characteristic of locoregional anaesthesia",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Induction of unconsciousness for a scheduled procedure",
+        "description": "A characteristic of general anaesthesia",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "The correct answer",
+        "description": "The correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

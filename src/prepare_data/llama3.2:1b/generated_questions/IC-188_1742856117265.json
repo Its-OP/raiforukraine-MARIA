@@ -1,0 +1,12 @@
+{
+  "folder": "IC-188",
+  "content": "{{knowledge objective\n|Identifiant=OIC-188-08-A\n|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Rank=A\n|Title=Knowing how to assess asthma control\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=8}}\nAsthma is controlled if :\n\no asthma symptoms are under control (assessed by questioning over the last 4 weeks using the ACT (asthma control test) questionnaire)\n\no exacerbations are rare: < 2 courses of systemic corticosteroid therapy in the previous year\n\no no bronchial obstruction: FEV1/FVC > 0.7 and FEV1 \u2265 80%.",
+  "question": {
+    "question": "What is the minimum number of courses of systemic corticosteroid therapy required for asthma exacerbations to be rare?",
+    "option_a": "1 course",
+    "option_b": "2 courses",
+    "option_c": "3 courses",
+    "option_d": "4 courses",
+    "correct_option": "2 courses"
+  }
+}

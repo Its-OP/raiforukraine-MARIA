@@ -1,0 +1,46 @@
+{
+  "folder": "IC-020",
+  "content": "{{knowledge objective\n|Identifiant=OIC-020-14-B\n|Item_parent=Health research methodology\n|Item_parent_short=Health research methodology\n|Rank=B\n|Title=Knowing the concept and role of adjustment. Knowing how to interpret and read an adjusted result.\n|Description=None\n|Rubric=Definition\n|Contributors=Julie Berbis (CUESP),David Hajage (CIMES),Alexandra Rouquette (CIMES)\n|Order=14}}\n\n<br />Adjustment is a method of statistical analysis used to take account of one or more ''confounding factors'' (a third factor linked to both the exposure being investigated and the occurrence of the health phenomenon being studied).\n\nA measure of adjusted association is often the result of a ''multivariate analysis method'' (such as linear regression, logistic regression or a Cox model) which makes it possible to identify the exposure factors studied which are ''independently'' linked to the phenomenon studied (judgement criterion), taking account of confounding factors (their effect is neutralised), i.e. to identify the impact of the exposure factors studied, all other things being equal.\n\nUnadjusted measures of association are referred to as gross.\n\n<nowiki>Example: the following table is taken from \"Prado et al, Lancet Oncol 2008, 9:629-35\" and presents crude (Univariate analysis) and adjusted (Multivariate analysis) hazard ratios measuring the association between the presence of sarcopenia (exposure factor studied) and survival (endpoint) in obese patients with respiratory or digestive cancer. The association between sarcopenia and survival in these patients was significant in univariate analysis, with a crude HR of 2.4 (IC95%=[1.5-3.9]). This association remained significant after adjustment for functional status, cancer location and stage with an adjusted HR of 4.2 (CI95%=[2.4-7.2]).</nowiki>\n[[File:AdjustmentTable.jpg|thumb]]\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary purpose of adjustment in statistical analysis?",
+        "description": "A measure of association that takes into account confounding factors",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To identify the impact of exposure factors on the phenomenon being studied",
+        "description": "A plausible but incorrect answer that might be tempting to those who don't fully understand the concept of adjustment",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "To eliminate the effect of confounding factors",
+        "description": "Correct answer: adjustment helps to neutralize the effect of confounding factors",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "To calculate a measure of association that is independent of the exposure factor",
+        "description": "A distractor that might be confusing for those who don't understand the distinction between adjusted and unadjusted measures of association",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "To predict the outcome of a specific treatment",
+        "description": "A distractor that is unrelated to the concept of adjustment",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "option_b",
+        "description": "The correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

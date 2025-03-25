@@ -1,0 +1,46 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-05-A\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=A\n|Title=Knowing the causes of infectious and non-infectious genital ulcers\n|Description=None\n|Rubric=Etiologies\n|Contributors=\n|Order=5}}\nInfectious :\n\n- Syphilitic chance: single with clean, indurated background, variable location\n\n- Herpes: painful superficial ulcers with polycyclic outlines\n\n- Chancre mou: terrain (Africa, South America, Asia), single/multiple lesion(s), dirty background, pain (+++), inflammatory adenopathies\n\n- Donovanosis: in Africa, South America and Asia, mildly painful granulomatous lesions\n\n- Nicolas-Favre disease (or lymphogranulomatosis venereum): terrain (Africa, South America, Asia, homosexuals), anorectitis, anogenital ulcerations, misleading diarrhoea\n\n\nNon-infectious: traumatic, caustic, mechanical, bullous dermatitis, toxidermia, etc.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What type of lesion is typically associated with Nicolas-Favre disease (or lymphogranulomatosis venereum)?",
+        "description": "A multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Painful superficial ulcers with polycyclic outlines",
+        "description": "Characteristics of herpes lesions",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Mildly painful granulomatous lesions",
+        "description": "Characteristics of donovanosis lesions",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Single lesion(s) with dirty background",
+        "description": "Characteristics of syphilitic chance lesions",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Anorectal ulcers and misleading diarrhoea",
+        "description": "Characteristics of Nicolas-Favre disease (or lymphogranulomatosis venereum)",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "D",
+        "description": "The correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

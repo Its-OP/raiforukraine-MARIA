@@ -1,0 +1,45 @@
+{
+  "folder": "IC-045",
+  "content": "{{knowledge objective\n|Identifiant=OIC-045-06-B\n|Item_parent=Specificities of genetic diseases. (see item 9)\n|Item_parent_short=Specificities of genetic diseases. (see item 9)\n|Rank=B\n|Title=Know how trisomy 21 is diagnosed antenatally.\n|Description=Know how trisomy 21 is diagnosed at birth\n|Rubric=Positive diagnosis\n|Contributors=Elise Launay,Damien Sanlaville,Marie-B\u00e9reng\u00e8re Troadec\n|Order=6}}\n\nIn addition to biological screening, ultrasound monitoring helps to detect trisomy 21. If there is an abnormality on ultrasound, a foetal karyotype will be prescribed. The main signs are as follows:\n\nIn the 1st trimester: neck greater than 3.5 mm;\n\nIn the 2nd trimester: heart disease, hypoplasia or aplasia of the nasal bones, short femurs, indirect signs of duodenal stenosis... ;\n\nIn the 3rd trimester: intrauterine growth retardation with no placental cause, heart disease.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "How is trisomy 21 diagnosed antenatally?",
+        "description": "What are the main signs detected through ultrasound monitoring?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Biological screening and amniocentesis",
+        "description": "A combination of biological screening and a prenatal test that involves removing a sample of amniotic fluid",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Ultrasound monitoring and chorionic villus sampling",
+        "description": "Regular ultrasound checks and a prenatal test that involves removing a sample of placental tissue",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Biological screening and ultrasound monitoring",
+        "description": "A combination of biological screening and regular ultrasound checks",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Ultrasound monitoring and amniocentesis",
+        "description": "Regular ultrasound checks and a prenatal test that involves removing a sample of amniotic fluid",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "A"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

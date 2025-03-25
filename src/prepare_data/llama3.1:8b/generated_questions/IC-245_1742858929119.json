@@ -1,0 +1,12 @@
+{
+  "folder": "IC-245",
+  "content": "{{knowledge objective\n|Identifiant=OIC-245-15-A\n|Item_parent=Adrenal insufficiency in adults and children\n|Item_parent_short=Adrenal insufficiency in adults and children\n|Rank=A\n|Title=Knowing that acute adrenal insufficiency is a vital emergency\n|Description=None\n|Rubric=Identification of the emergency\n|Contributors=Claire Briet,St\u00e9phanie Espiard\n|Order=15}}\nAcute adrenal insufficiency is ''a vital pathology, an extreme emergency''.\n\nTreatment is started as soon as the diagnosis is suspected, even without diagnostic certainty. Hormone levels (cortisol, ACTH) can be measured at a later stage if they are not taken just before emergency treatment. They should not delay treatment.",
+  "question": {
+    "question": "What is the approach to treatment in acute adrenal insufficiency?",
+    "option_a": "Treatment should only be initiated after diagnostic confirmation through hormone level measurement.",
+    "option_b": "Treatment should be started as soon as the diagnosis is suspected, even without diagnostic certainty.",
+    "option_c": "Treatment should be delayed until symptoms have resolved.",
+    "option_d": "Treatment should only be initiated in a hospital setting.",
+    "correct_option": "B"
+  }
+}

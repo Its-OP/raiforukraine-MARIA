@@ -1,0 +1,12 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-20-B\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=B\n|Title=Pubertal precocity growth curve\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=20}}\n<gallery>\nFile:Multimedia puberty.jpg|Mammary development and accelerated growth rate at age 7, patient P2S2R0 Suspi\u00e7ion of precocious puberty.\n</gallery>",
+  "question": {
+    "question": "What is typically observed in the growth curve of a patient with pubertal precocity?",
+    "option_a": "A growth rate that is slower than the average for the patient's age group",
+    "option_b": "A growth rate that is within the normal range for the patient's age group",
+    "option_c": "A growth rate that is accelerated, with a rapid increase in height and weight",
+    "option_d": "A growth rate that is variable and unpredictable",
+    "correct_option": "C"
+  }
+}

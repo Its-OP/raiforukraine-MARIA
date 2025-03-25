@@ -1,0 +1,46 @@
+{
+  "folder": "IC-332",
+  "content": "{{knowledge objective\n|Identifiant=OIC-332-04-A\n|Item_parent=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.\n|Item_parent_short=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.\n|Rank=A\n|Title=Know the clinical signs of shock\n|Description=Recognise arterial hypotension and know how to look for signs of organ failure, know how to look for hyperlactataemia.\n|Rubric=Positive diagnosis\n|Contributors=Julien Poissy\n|Order=4}}\n\nThe diagnosis of shock is clinical and is based on the following elements:\n\n1\u00b0) arterial hypotension, defined as :\n\n- PAS<90 mmHg\n\n- MAP<65 mmHg\n\n- Variation of more than 30% in chronically hypertensive patients\n\n/Blood pressure may be normal in the initial phase of shock, even though cellular damage has already begun. Importance of lactataemia +++\n\n/Tachycardia precedes arterial hypotension in haemorrhagic shock and hypovolaemic shock. This is a clinical point of attention.\n\n2\u00b0) signs of peripheral hypoperfusion :\n\n- Asthenia\n\n- Marbling, particularly on the knees. Correlated with gravity\n\n- Polypnoea >22 cycles/min\n\n- Skin recolouration time > 3s\n\n- Confusion, agitation\n\n- Oliguria",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a characteristic of shock that may be present in the initial phase, despite normal blood pressure readings?",
+        "description": "Blood pressure may be normal in the initial phase of shock, even though cellular damage has already begun. What is this characteristic?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Hypertension",
+        "description": "Elevated blood pressure is a common symptom of shock",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Tachycardia",
+        "description": "A rapid heart rate is often present in shock",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Lactataemia",
+        "description": "Elevated lactate levels are a hallmark of shock",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Arterial hypotension",
+        "description": "Low blood pressure is a defining characteristic of shock",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Lactataemia",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

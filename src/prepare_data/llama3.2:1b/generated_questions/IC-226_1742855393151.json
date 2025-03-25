@@ -1,0 +1,12 @@
+{
+  "folder": "IC-226",
+  "content": "{{knowledge objective\n|Identifiant=OIC-226-18-B\n|Item_parent=Deep vein thrombosis and pulmonary embolism (see item 330)\n|Item_parent_short=Deep vein thrombosis and pulmonary embolism (see item 330)\n|Rank=B\n|Title=Knowing the principles of the management of superficial venous thrombosis\n|Description=None\n|Topic=Management\n|Contributors=Gilles Pernod, Virginie Dufrost, Guillaume Mah\u00e9\n|Order=18}}\nThe diagnosis of ''superficial venous thrombosis (SVD)'' is based on the clinical features: indurated venous cord with associated local inflammation.\n\nA venous Doppler ultrasound of the lower limbs should be performed for\n\n- confirm the diagnosis,\n\n- estimate the extent of TVS in the lower limb\n\n- exclude frequently associated DVT.\n\nTreatment of DVT of the lower limb is based on\n\n- elastic compression\n\n- combined with anticoagulant treatment for 6 weeks with fondaparinux 2.5 mg 1 subcutaneous injection per day [prophylactic (preventive) dose].\n\nIf the end of the DVT is close to the deep venous network or if the DVT extends into the deep venous network, the anticoagulant treatment is that of a DVT administered at a therapeutic (curative) dose.\n\nWhen DVT occurs in varicose veins, treatment of the varicose veins should be discussed at a distance from the thrombotic episode.",
+  "question": {
+    "question": "What is the primary purpose of a venous Doppler ultrasound of the lower limbs in the diagnosis of superficial venous thrombosis?",
+    "option_a": "To confirm the diagnosis of deep vein thrombosis by detecting the presence of blood flow in the superficial veins",
+    "option_b": "To confirm the diagnosis of deep vein thrombosis by detecting the presence of blood flow in the superficial veins",
+    "option_c": "To exclude the presence of deep vein thrombosis",
+    "option_d": "To exclude the presence of deep vein thrombosis",
+    "correct_option": "To confirm the diagnosis of deep vein thrombosis by detecting the presence of blood flow in the superficial veins"
+  }
+}

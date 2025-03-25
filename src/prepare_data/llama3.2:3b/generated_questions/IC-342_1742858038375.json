@@ -1,0 +1,46 @@
+{
+  "folder": "IC-342",
+  "content": "<gallery>\nFile:Malaise2.PNG\n</gallery>{{knowledge objective\n|Identifiant=OIC-342-07-A\n|Item_parent=Malaise, loss of consciousness, comitial seizure in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=A\n|Title=Know the cardiovascular and non-cardiovascular causes of syncope/lipothymia\n|Description=reflex, hypotensive, cardiac\n|Rubric=Etiologies\n|Contributors=\n|Order=7}}\n",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary cause of syncope in adults?",
+        "description": "Choose the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Reflex syncope",
+        "description": "A type of syncope caused by a sudden decrease in blood pressure",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Cardiac syncope",
+        "description": "A type of syncope caused by a heart condition",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Hypotensive syncope",
+        "description": "A type of syncope caused by a sudden drop in blood pressure",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Neurological syncope",
+        "description": "A type of syncope caused by a neurological condition",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The letter of the correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

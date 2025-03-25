@@ -1,0 +1,46 @@
+{
+  "folder": "IC-208",
+  "content": "{{knowledge objective\n|Identifiant=OIC-208-09-B\n|Item_parent=Chronic respiratory failure\n|Item_parent_short=Chronic respiratory failure\n|Rank=B\n|Title=Differentiating CKD according to pathophysiological mechanism (exchanger-related vs ventilatory pump or central control vs pulmonary vascularisation)\n|Description=None\n|Rubric=Physiopathology, Etiologies\n|Contributors=\n|Order=9}}\nThe main causes of CKD can be grouped according to the predominant pathophysiological mechanism:\n\n*Diseases of the pulmonary exchanger\n**Impaired ventilation/perfusion ratio: COPD, bronchial dilatation\n**Impairment of alveolar-capillary diffusion: diffuse infiltrative lung disease.\n*Diseases of the ventilatory pump\n**Neuromuscular diseases\n**Decreased thoracic compliance (skeletal deformities, obesity-hypoventilation syndrome)\n**Impairment of ventilatory control (rare brain stem disorders, major respiratory impairment by respiratory depressant drugs)",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Differentiating CKD according to pathophysiological mechanism",
+        "description": "The main causes of CKD can be grouped according to the predominant pathophysiological mechanism. Which of the following is NOT a cause of CKD due to impaired ventilation/perfusion ratio?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Neuromuscular diseases",
+        "description": "A common cause of CKD due to impaired ventilation/perfusion ratio",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Diffuse infiltrative lung disease",
+        "description": "A cause of CKD due to impaired alveolar-capillary diffusion",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Obesity-hypoventilation syndrome",
+        "description": "A cause of CKD due to decreased thoracic compliance",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Chronic bronchitis",
+        "description": "A cause of CKD due to impaired ventilation/perfusion ratio",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "The correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

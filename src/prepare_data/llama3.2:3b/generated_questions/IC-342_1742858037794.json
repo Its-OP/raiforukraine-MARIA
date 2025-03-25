@@ -1,0 +1,41 @@
+{
+  "folder": "IC-342",
+  "content": "{{knowledge objective\n|Identifiant=OIC-342-09-A\n|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=A\n|Title=Know the non-cardiac and non-neurological causes of malaise\n|Description=including somatomorphic malaise, panic attack\n|Rubric=Etiologies\n|Contributors=\n|Order=9}}\nHAS\n\n\"Malaise without loss of consciousness\": falls, catalepsy, drops attacks, psychogenic pseudo syncope\n\n\"Malaise with partial or total loss of consciousness: metabolic disorders including hypoglycaemia, hypoxia, intoxication, etc.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a non-cardiac and non-neurological cause of malaise?",
+        "description": "Choose the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Falls",
+        "description": "A type of accident that can cause loss of consciousness"
+      },
+      "option_b": {
+        "title": "Catalepsy",
+        "description": "A condition characterized by immobility and rigidity"
+      },
+      "option_c": {
+        "title": "Psychogenic pseudo syncope",
+        "description": "A condition caused by a psychological factor, leading to a brief loss of consciousness"
+      },
+      "option_d": {
+        "title": "Hypoglycaemia",
+        "description": "A metabolic disorder that can cause loss of consciousness"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": ""
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

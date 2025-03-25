@@ -1,0 +1,12 @@
+{
+  "folder": "IC-099",
+  "content": "{{knowledge objective\n|Identifiant=OIC-099-02-B\n|Item_parent=Migraine, trigeminal neuralgia and facial pain\n|Item_parent_short=Migraine, trigeminal neuralgia and facial pain\n|Rank=B\n|Title=Knowing the pathophysiological basis of migraine\n|Description=None\n|Rubric=Physiopathology\n|Contributors=\n|Order=2}}\n- Migraine = '''neurovascular pathology''' linked to subtle neuronal and vascular alterations. The mechanisms are still incompletely understood.\n\n\n- Migraines come in two varieties:\n\no ''Migraine without aura (MSA)'': 6-10% of the population\n\no ''Migraine with aura'' in which the headache is preceded or accompanied by transient neurological symptoms (3-6% of the population).\n\n\n- Migraine disease is a neurovascular pathology:\n\no ''Polygenic hereditary'': multiple susceptibility genes induce cerebral hyperexcitability and dysfunction of cephalic nociception modulator centres.\n\no ''Environmental factors: pathology of adaptation to change'': internal or external triggers that disrupt cerebral homeostasis: changes to meals or sleep, unusual physical effort, climatic changes, catamenial period, stress or positive or negative emotion.\n\no '''Young people''': 90% of attacks begin under the age of 40, migraine rare over the age of 65.\n\no ''Predominantly female'': after puberty, oestrogen impregnation increases cerebral excitability, and variations during the cycle make attacks more likely. Migraines typically improve during pregnancy and after the menopause.\n\no '''Paroxysmal and cyclic with 5 phases'': prodrome, aura, headache, post-drome and interictal phase\n\n\n- ''Prodromes: activation of the hypothalamus'', can last up to 48 hours before the headache, leads to a lifting of inhibition of the brainstem and trigeminovascular system.\n\n- '''Migraine aura''': wave of '''pervasive cortical depression''' (PCD) with moderate vasoconstriction.\n\n- Migraine headache caused by activation of the trigemino-vascular system and a major role for CGRP (calcitonin-gene related peptide) with perivascular and meningeal aseptic inflammation and moderate vasodilation.",
+  "question": {
+    "question": "What is the primary mechanism of migraine disease?",
+    "option_a": "Neurotransmitter imbalance",
+    "option_b": "Neurovascular pathology linked to subtle neuronal and vascular alterations",
+    "option_c": "Hormonal fluctuations caused by estrogen",
+    "option_d": "Inflammation of the meninges",
+    "correct_option": "B"
+  }
+}

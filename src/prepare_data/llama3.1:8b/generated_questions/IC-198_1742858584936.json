@@ -1,0 +1,12 @@
+{
+  "folder": "IC-198",
+  "content": "{{knowledge objective\n|Identifiant=OIC-198-05-B\n|Item_parent=Microcrystalline arthropathies\n|Item_parent_short=Microcrystalline arthropathies\n|Rank=B\n|Title=Radiography of the knee: meniscal calcification, cartilage calcification\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=5}}\n<gallery widths=\"400\" heights=\"400\">\nFile:Knee X-ray meniscal calcification, cartilage calcification .PNG\n</gallery>",
+  "question": {
+    "question": "What is the radiographic appearance of meniscal calcification and cartilage calcification in the knee?",
+    "option_a": "A characteristic 'ice-pick' appearance of calcification in the meniscus",
+    "option_b": "A diffuse, scattered appearance of calcification throughout the cartilage",
+    "option_c": "A 'ghostly' appearance of the meniscus due to calcification",
+    "option_d": "A characteristic 'ring-like' appearance of calcification around the meniscus",
+    "correct_option": "A"
+  }
+}

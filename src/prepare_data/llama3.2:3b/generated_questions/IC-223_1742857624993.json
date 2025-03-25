@@ -1,0 +1,46 @@
+{
+  "folder": "IC-223",
+  "content": "{{knowledge objective\n|Identifiant=OIC-223-02-A\n|Item_parent=Dyslipidaemia\n|Item_parent_short=Dyslipidemia\n|Rank=A\n|Title=Knowing the three main types of dyslipidemia\n|Description=Pure hypercholesterolaemia, pure hypertriglyceridaemia, mixed hyperlipidaemia\n|Rubric=Definition\n|Contributors=Laurence Duvillard, Bruno Verg\u00e8s, Benjamin Bouillet, Laurence Amar, Christian Boissier, Tristan Mirault, Claire Le Hello\n|Order=2}}\n\n* 3 main types of dyslipidemia:\n** pure hypercholesterolaemia\n** pure hypertriglyceridemia\n** mixed hyperlipidaemia\n\n* Hyperlipidaemia is distinguished according to its cause into primary hyperlipidaemia, secondary hyperlipidaemia (due to disease or medication) and dyslipidaemia associated with type 2 diabetes and metabolic syndrome.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What are the three main types of dyslipidemia?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Hypercholesterolaemia, Hypertriglyceridaemia, and Hyperlipidaemia",
+        "description": "A combination of the three main types of dyslipidemia",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Hypercholesterolaemia, Hypertriglyceridaemia, and Hyperlipidaemia (with additional conditions)",
+        "description": "The three main types of dyslipidemia, plus other conditions that affect lipid levels",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Primary Hyperlipidaemia, Secondary Hyperlipidaemia, and Mixed Hyperlipidaemia",
+        "description": "Types of dyslipidaemia based on cause, not just lipid type",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Hypercholesterolaemia, Hypertriglyceridaemia, and Mixed Hyperlipidaemia",
+        "description": "A subset of the three main types of dyslipidemia",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "a",
+        "description": "The first letter of the correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

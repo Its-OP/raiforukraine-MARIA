@@ -1,0 +1,46 @@
+{
+  "folder": "IC-188",
+  "content": "{{knowledge objective\n|Identifiant=OIC-188-14-A\n|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Rank=A\n|Title=Knowing the main occupational aetiologies\n|Description=Main agents and professions concerned\n|Rubric=Etiologies\n|Contributors=\n|Order=14}}\nCf above : [[Knowing the main occupations at risk of occupational asthma 2C-188-ET-B01|Knowing the main occupations at risk of occupational asthma]]",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the main occupational aetiologies of occupational asthma?",
+        "description": "Main agents and professions concerned",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Physical agents and chemical agents",
+        "description": "Agents that are not related to the respiratory system",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Biological agents and physical agents",
+        "description": "Agents that are related to the respiratory system",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Chemical agents and physical agents",
+        "description": "Agents that are related to the respiratory system",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Biological agents and chemical agents",
+        "description": "Agents that are related to the respiratory system",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "Biological agents and physical agents",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

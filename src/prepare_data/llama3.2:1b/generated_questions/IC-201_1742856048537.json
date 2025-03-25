@@ -1,0 +1,12 @@
+{
+  "folder": "IC-201",
+  "content": "{{knowledge objective\n|Identifiant=OIC-201-02-A\n|Item_parent=Organ transplants: epidemiological and immunological aspects; principles of treatment and monitoring; complications and prognosis; ethical and legal aspects. Organ procurement and legislation\n|Item_parent_short=Organ transplants: epidemiological and immunological aspects; principles of treatment and monitoring; complications and prognosis; ethical and legal aspects. Organ procurement and legislation\n|Rank=A\n|Title=Know the definition of transplanted tissues and organs\n|Description=None\n|Rubric=Definition\n|Contributors=Dany Anglicheau\n|Order=2}}\n\nThe different organs transplanted are :\n\n*Rein\n*Liver\n*Heart\n*Pancreas\n*Lungs\n*Intestines\n\n\nCell and tissue transplants can involve :\n\n*Haematopoietic stem cells\n*Cornea\n*Amniotic membranes\n*bones, tendons, ligaments, menisci\n*Skin\n*Heart valves, arteries and veins",
+  "question": {
+    "question": "What are the main types of organs that can be transplanted?",
+    "option_a": "Rein, Heart, Intestines",
+    "option_b": "Liver, Pancreas, Lungs, Skin",
+    "option_c": "Haematopoietic stem cells, Cornea, Amniotic membranes, Tendons, Ligaments, Menisci",
+    "option_d": "Bone, Tendon, Ligament, Menisci",
+    "correct_option": "option_a"
+  }
+}

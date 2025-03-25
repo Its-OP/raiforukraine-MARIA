@@ -1,0 +1,12 @@
+{
+  "folder": "IC-020",
+  "content": "{{knowledge objective\n|Identifiant=OIC-020-16-A\n|Item_parent=Health research methodology\n|Item_parent_short=Health research methodology\n|Rank=A\n|Title=Risk factor, aetiological factor, prognostic factor, health determinants, exposure factor\n|Description=Knowing how to define/recognise\n|Rubric=Definition\n|Contributors=Julie Berbis (CUESP),Alexandra Rouquette (CIMES),David Hajage (CIMES)\n|Order=16}}\n\n'''Exposure factor''': this is the factor of interest in an analytical or experimental study.\n\n* In an experimental study: it is the intervention (the drug, medical device, preventive intervention, etc.) to which study participants are exposed (or not) in an experimental manner.\n* In an analytical study, it is called a '''risk factor''', i.e. a factor associated with a higher probability (statistical and <u>non-causal</u> definition) of the presence or occurrence of the health phenomenon under study (judgment criterion). Example: yellow fingernails and lung cancer.\n** In an etiological study, a risk factor is called an '''etiological factor''' when its causal nature for the health phenomenon studied is implied/supposed/proven. Example: smoking and lung cancer.\n** Similarly, in a prognostic study, a risk factor is called a ''prognostic factor'' when its causal nature for the health phenomenon studied is implied/assumed/proven. Example: metastatic lung cancer and mortality.\n\n'''Health determinants''': factors which influence the state of health of populations, without necessarily being direct causes of particular problems or illnesses.\n\n<br />",
+  "question": {
+    "question": "What is an exposure factor in an analytical or experimental study?",
+    "option_a": "A factor associated with a higher probability of the presence or occurrence of a health phenomenon",
+    "option_b": "The intervention or condition that study participants are exposed to",
+    "option_c": "Factors that influence the state of health of populations",
+    "option_d": "A factor that is directly linked to the cause of a particular illness",
+    "correct_option": "B"
+  }
+}

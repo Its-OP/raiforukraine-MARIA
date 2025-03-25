@@ -1,0 +1,42 @@
+{
+  "folder": "IC-208",
+  "content": "{{knowledge objective\n|Identifiant=OIC-208-04-B\n|Item_parent=Chronic respiratory failure\n|Item_parent_short=Chronic respiratory failure\n|Rank=B\n|Title=Knowing the symptoms that may suggest the diagnosis of PH\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=4}}\nSigns of PH: holosystolic murmur of tricuspid insufficiency increasing on deep inspiration (Carvalho's sign), burst of B2 at the pulmonary focus, diastolic murmur of pulmonary insufficiency, exertional dyspnoea.\n\nSigns of right heart failure complicating PH: tachycardia, gallop, jugular turgidity, hepato-jugular reflux, hepatomegaly, oedema of the lower limbs, hydrops.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a sign that may suggest the diagnosis of Pulmonary Hypertension (PH)?",
+        "description": "A cardiac condition characterized by elevated blood pressure in the pulmonary arteries",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Exertional dyspnoea",
+        "description": "Shortness of breath during physical exertion",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Tachycardia",
+        "description": "A rapid heart rate",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Jugular turgidity",
+        "description": "Swelling of the jugular vein",
+        "type": "string"
+      },
+      "option_d": "CARVALHO'S SIGN",
+      "correct_option": {
+        "title": "A",
+        "description": "The first letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

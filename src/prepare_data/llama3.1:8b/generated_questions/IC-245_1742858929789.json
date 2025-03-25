@@ -1,0 +1,12 @@
+{
+  "folder": "IC-245",
+  "content": "{{knowledge objective\n|Identifiant=OIC-245-19-B\n|Item_parent=Adrenal insufficiency in adults and children\n|Item_parent_short=Adrenal insufficiency in adults and children\n|Rank=B\n|Title=Knowing that acute adrenal insufficiency can be a sign of the disease\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Claire Briet,St\u00e9phanie Espiard\n|Order=19}}\nAcute adrenal insufficiency can be a sign of the disease, in particular:\n\n*In the neonatal period: complete adrenal enzyme block (21-hydroxylase +++).\n*In adulthood\n**Addison's disease\n**bilateral adrenal haemorrhage\n**pituitary apoplexy.",
+  "question": {
+    "question": "Acute adrenal insufficiency can be a sign of the disease, in particular:",
+    "option_a": "Complete adrenal enzyme block (21-hydroxylase +++)",
+    "option_b": "Addison's disease",
+    "option_c": "Pituitary apoplexy",
+    "option_d": "Bilateral adrenal hyperplasia",
+    "correct_option": "A"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-328",
+  "content": "{{knowledge objective\n|Identifiant=OIC-328-01-A\n|Item_parent=Non-drug therapies and medical devices\n|Item_parent_short=Non-drug therapies and medical devices\n|Rank=A\n|Title=Explaining the principles of evaluating non-drug therapies\n|Description=None\n|Rubric=Evaluation\n|Contributors=Bisseriex H\u00e9l\u00e8ne\n|Order=1}}\n\nNon-medicinal therapies are prescribed after an \"initial assessment\", which establishes the indication on the basis of the patient's :\n\n- '''disabilities'''\n\n- '''activity limitations'''\n\n- '''participation restrictions'''\n\n- '''environmental factors'''\n\nPrescription for a defined ''therapeutic objective''.\n\n\n'''Evaluation of the system ([[Consultation for monitoring a chronic pathology SDD-279|consultation for monitoring a chronic pathology]]):'''\n\n- therapeutic efficacy'' ratio (impairment, activities and participation with the device) ''/ tolerance'' (complications)\n\n- compliance, conditions of use, maintenance, ease of use, monitoring, renewal",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the purpose of an initial assessment in prescribing non-drug therapies?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To determine the patient's medical history",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "To establish the patient's environmental factors",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "To set a specific treatment plan",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "To assess the patient's physical condition",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Prescription for a defined therapeutic objective",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-188",
+  "content": "{{knowledge objective\n|Identifiant=OIC-188-14-A\n|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Rank=A\n|Title=Knowing the main occupational aetiologies\n|Description=Main agents and professions concerned\n|Rubric=Etiologies\n|Contributors=\n|Order=14}}\nCf above : [[Knowing the main occupations at risk of occupational asthma 2C-188-ET-B01|Knowing the main occupations at risk of occupational asthma]]",
+  "question": {
+    "question": "What is the main occupational aetiology of asthma in children?",
+    "option_a": "Allergies to dust mites",
+    "option_b": "Inhalation of tobacco smoke",
+    "option_c": "Exposure to mold and mildew",
+    "option_d": "Inhalation of secondhand smoke",
+    "correct_option": "option_a"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-153",
+  "content": "{{knowledge objective\n|Identifiant=OIC-153-03-A\n|Item_parent=Surveillance of wearers of valvular prostheses\n|Item_parent_short=Surveillance of wearers of valvular prostheses\n|Rank=A\n|Title=Knowing the monitoring procedures for wearers of prosthetic valves\n|Description=None\n|Topic=Monitoring and/or prognosis\n|Contributors=Thomas SENAGE\n|Order=3}}\n\n\n==== '''''Clinical follow-up''''' ====\nClinical monitoring by the GP should be carried out every three months. It is based on a full clinical examination looking for :\n\n- Clinical cardiological signs (dyspnoea, chest pain, palpitation, syncope)\n\n- The presence of an unknown murmur or a change in a previous murmur\n\n- Any signs of infection (fever, AEG, sweating)\n\n- Regular monitoring of INR if necessary\n\n- Prevention of infective endocarditis by monitoring compliance with dental and ENT care\n\nIn the event of any abnormality, a cardiologist should be consulted as a matter of course.\n\n\nCardiological monitoring is carried out once a year, starting in the first year.\n<br />\n\n==== '''''Paraclinical follow-up''''' ====\nRadiological follow-up is not systematic. Chest X-rays are generally indicated in cases of abnormal clinical examination (signs of overload, increase in the size of the cardiac silhouette).\n\nECG monitoring is carried out by the cardiologist and at least once a year by the attending physician.\n\nPatients undergoing anticoagulation with VKAs have their INR monitored on a monthly basis. A biological check-up, including a blood count and ionogram, is carried out annually by the attending physician.\n\nEchocardiographic monitoring is carried out annually by the cardiologist (TTE and possibly TEE in the event of atypia or doubt).",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the recommended frequency for monitoring patients with prosthetic valves?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Every 3 months",
+        "description": "Clinical monitoring by the GP every 3 months",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Once a year",
+        "description": "Cardiological monitoring is carried out once a year",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Monthly",
+        "description": "Patients undergoing anticoagulation with VKAs have their INR monitored monthly",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Every 6 months",
+        "description": "A balance between regular monitoring and not overloading the patient with too many tests",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The first letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

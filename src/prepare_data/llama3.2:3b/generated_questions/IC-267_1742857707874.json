@@ -1,0 +1,41 @@
+{
+  "folder": "IC-267",
+  "content": "{{knowledge objective\n|Identifiant=OIC-267-38-A\n|Item_parent=Disorders of acid-base equilibrium and hydro-electrolytic disorders\n|Item_parent_short=Disorders of acid-base equilibrium and fluid and electrolyte disorders\n|Rank=A\n|Title=Know the main complementary tests useful in the aetiological diagnosis of hypocalcaemia\n|Description=None\n|Rubric= Complementary examinations\n|Contributors=P. Rieu,B. Moulin,M. Flamant\n|Order=38}}\n\n*The reasoning behind hypocalcaemia is based on a few simple biological tests:\n**total calcium\n**ionised calcium and/or albumin\n**serum phosphate\n**plasma parathyroid hormone (PTH)\n**vitamin D (25 OH vitamin D) and calcitriolemia (1.25 OH vitamin D)\n**24-hour calciuria\n\n*The diagnostic approach consists of distinguishing\n**hypocalcaemia with low PTH (<10pg/mL) and therefore inadequate PTH. This is known as hypocalcaemia of parathyroid origin.\n**hypocalcaemia with high PTH (>65 pg/mL) and therefore adapted. This is referred to as hypocalcaemia of extraparathyroidal origin.\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the main difference between hypocalcaemia of parathyroid origin and hypocalcaemia of extraparathyroidal origin?",
+        "description": "The diagnostic approach to hypocalcaemia",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Hypocalcaemia of parathyroid origin is associated with high PTH and low calcium levels.",
+        "description": "A plausible but incorrect option that could confuse the respondent"
+      },
+      "option_b": {
+        "title": "Hypocalcaemia of parathyroid origin is associated with low PTH and high phosphate levels.",
+        "description": "A plausible but incorrect option that could confuse the respondent"
+      },
+      "option_c": {
+        "title": "Hypocalcaemia of parathyroid origin is associated with low PTH and low phosphate levels.",
+        "description": "The correct answer"
+      },
+      "option_d": {
+        "title": "Hypocalcaemia of extraparathyroidal origin is associated with high PTH and high phosphate levels.",
+        "description": "A plausible but incorrect option that could confuse the respondent"
+      },
+      "correct_option": {
+        "title": "C",
+        "description": "The letter of the correct option"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "folder": "IC-074",
+  "content": "{{knowledge objective\n|Identifiant=OIC-074-03-A\n|Item_parent=Prescription and monitoring of psychotropic drugs (see item 330)\n|Item_parent_short=Prescription and monitoring of psychotropic drugs (see item 330)\n|Rank=A\n|Intitle=Antipsychotics: knowing the main classes and molecules\n|Description=None\n|Rubric=Definition\n|Contributors=Louise Carton,Florian Naudet,Marie Tournier\n|Order=3}}\n\nAntipsychotics'' are substances whose common property is an ''antagonistic'' action on D2 dopamine receptors.\n\nA distinction is made between :\n\n* older drugs (typical or first-generation neuroleptics or antipsychotics)\n* more recent compounds (atypical or second-generation antipsychotics) with a better neurological safety profile (extrapyramidal syndrome), but with a higher risk of adverse metabolic effects.\nThe main \"first-generation\" antipsychotics used in practice are :\n\n* Chlorpromazine,\n* Cyamemazine\n* Alimemazine\n* Levomepromazine\n* Haloperidol\n* Loxapine\n\nThe main \"second-generation\" antipsychotics used in practice are :\n\n* Amisulpride,\n* Olanzapine\n* Clozapine\n* Quetiapine\n* Risperidone\n* Paliperidone,\n* Aripiprazole.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the main distinction between typical and atypical antipsychotics?",
+        "description": "A question about the classification of antipsychotics",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Typical antipsychotics are more effective and have a better safety profile than atypical antipsychotics",
+        "description": "A plausible but incorrect option about the relative effectiveness and safety of typical and atypical antipsychotics"
+      },
+      "option_b": {
+        "title": "Atypical antipsychotics have a higher risk of extrapyramidal syndrome than typical antipsychotics",
+        "description": "A plausible but incorrect option about the risk of extrapyramidal syndrome associated with typical and atypical antipsychotics"
+      },
+      "option_c": {
+        "title": "Typical antipsychotics are more commonly used in practice than atypical antipsychotics",
+        "description": "A plausible but incorrect option about the relative prevalence of typical and atypical antipsychotics in clinical practice"
+      },
+      "option_d": {
+        "title": "Atypical antipsychotics have a better neurological safety profile and a lower risk of adverse metabolic effects than typical antipsychotics",
+        "description": "The correct option that accurately describes the main distinction between typical and atypical antipsychotics"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": ""
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-073",
+  "content": "{{knowledge objective\n|Identifiant=OIC-073-08-B\n|Item_parent=Different types of psychotherapeutic techniques\n|Item_parent_short=Different types of psychotherapeutic techniques\n|Rank=B\n|Intitle=Knowing cognitive remediation\n|Description=Send item 15\n|Rubric=Taking charge\n|Contributors=Amaury MENGIN\n|Order=8}}\n\n==== Cognitive remediation ====\nTheoretical principles :\n\n- Inherited from neurology, neuropsychology and CBT\n\n- Closer to rehabilitation techniques\n\n- Aims to improve functional disability linked to cognitive impairment\n\nPractical methods :\n\n- Training impaired cognitive processes\n\n- Reinforcement of preserved processes (compensation for impaired cognitive processes)\n\nCognitive functions concerned :\n\n- General\n\no Memory\n\no Caution\n\no Executive functions\n\n- Specific to certain disorders (e.g. schizophrenia)\n\no Metacognition\n\no Social cognition",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary goal of cognitive remediation?",
+        "description": "What is the main objective of cognitive remediation?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To improve emotional regulation",
+        "description": "One possible goal of cognitive remediation",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "To enhance social skills",
+        "description": "Another possible goal of cognitive remediation",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "To improve functional disability linked to cognitive impairment",
+        "description": "The correct answer",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "To reduce stress and anxiety",
+        "description": "A common misconception about cognitive remediation",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "C",
+        "description": "The correct letter for the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

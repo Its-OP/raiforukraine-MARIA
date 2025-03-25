@@ -1,0 +1,46 @@
+{
+  "folder": "IC-261",
+  "content": "{{knowledge objective\n|Identifiant=OIC-261-11-B\n|Item_parent=Glomerular nephropathy\n|Item_parent_short=Glomerular nephropathy\n|Rank=B\n|Title=Know the clinical and biological elements leading to suspicion of extra-membranous glomerulopathy (GEM)\n|Description=Know the mode of presentation of GEM, suspect paraneoplastic GEM in a subject at risk (smoker, etc.).\n|Rubric=Positive diagnosis\n|Contributors=Eric Daugas,Bruno Moulin\n|Order=11}}\n\n'''B.     Extra-membranous glomerulopathy''''\n\n'''Diagnosis:'''\n\n*In over 85% of cases, there is a nephrotic syndrome which is often impure.\n*Diagnosis is based on renal biopsy:\n**light microscopy :\n***an absence of proliferation,\n***normal or thickened and spiculated MBG on the outer surface;\n**immunofluorescence: granular extramembranous deposits of IgG and C3.\n*GEMs often present with extramembranous deposits of IgG targeting at the same site an autoantigen expressed by podocytes, in the vast majority of cases the phospholipase A2 receptor (PLA2-R). These anti-PLA2-R IgGs (autoantibodies) are detected in the serum.\n*GEM is sometimes diagnosed without a renal biopsy when there is a combination of nephrotic syndrome and anti-PLA2R serum antibodies.\n\n*GEM can be :\n**primary (85% of cases).\n**secondary (15% of cases): table 6.\n\n\nTable 6: Causes of secondary GEM\n{| class=\"wikitable\"\n|Solid cancers +++\n|- Especially if age > 50 years\n\n- Lung, breast, colon and melanoma cancers\n|-\n|Systemic lupus erythematosus ++.\n|- Women aged 20 to 55\n|-\n|Other autoimmune diseases\n|- Sj\u00f6gren's syndrome, thyroiditis...\n|-\n|Infections\n|- Hepatitis B (and C), syphilis, leprosy, filariasis..,\n|-\n|Medicines\n|- NSAIDS\n|}\n\n\n'''Complications:'''\n\n*Complications associated with nephrotic syndrome.\n*Specific complication: thrombosis of the renal veins.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary characteristic of extra-membranous glomerulopathy (GEM) on light microscopy?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Proliferation of glomerular cells",
+        "description": "A common feature of GEM",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Thickened and spiculated mesangial cells",
+        "description": "A characteristic of GEM",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Granular deposits of IgM and C3 on the inner surface of the basement membrane",
+        "description": "A feature of membranous nephropathy, not GEM",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Absence of podocyte injury",
+        "description": "A characteristic of minimal change disease, not GEM",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Normal or thickened and spiculated MBG on the outer surface",
+        "description": "The correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

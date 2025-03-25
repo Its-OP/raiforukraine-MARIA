@@ -1,0 +1,41 @@
+{
+  "folder": "IC-190",
+  "content": "{{knowledge objective\n|Identifiant=OIC-190-02-A\n|Item_parent=Prolonged fever\n|Item_parent_short=Prolonged fever\n|Rank=A\n|Title=Know the three main categories of causes of prolonged fever\n|Description=Infectious/Neoplastic/Non-infectious inflammatory\n|Rubric=Etiologies\n|Contributors=\n|Order=2}}\n\n\n* infectious causes\n* neoplastic causes\n* Non-infectious inflammatory causes.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What are the three main categories of causes of prolonged fever?",
+        "description": "Infectious, Neoplastic, or Non-infectious inflammatory",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Infectious and Neoplastic",
+        "description": "Two categories of causes of prolonged fever"
+      },
+      "option_b": {
+        "title": "Infectious and Non-infectious inflammatory",
+        "description": "Two categories of causes of prolonged fever"
+      },
+      "option_c": {
+        "title": "Neoplastic and Non-infectious inflammatory",
+        "description": "Two categories of causes of prolonged fever"
+      },
+      "option_d": {
+        "title": "All of the above",
+        "description": "All three categories of causes of prolonged fever"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct letter of the answer"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

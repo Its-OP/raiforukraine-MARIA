@@ -1,0 +1,12 @@
+{
+  "folder": "IC-256",
+  "content": "{{knowledge objective\n|Identifiant=OIC-256-05-A\n|Item_parent=Sport skills in adults and children; nutritional requirements of athletes (see item 80)\n|Item_parent_short=Sport skills in adults and children; nutritional requirements of athletes (see item 80)\n|Rank=A\n|Title=Know the main causes of contra-indications to practising sport.\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=5}}\nSudden death during exercise is in the vast majority of cases of cardiovascular origin.\n\nThe causes of contraindications to sporting activities are essentially cardiovascular:\n\n* Cardiac pathologies causing rhythm disorders: hypertrophic cardiomyopathy, arrhythmogenic dysplasia of the right ventricle, birth defects of the coronary arteries, Brugada syndrome, long QT, short QT, etc.\n\n* Progressive or unbalanced cardiovascular pathologies: unstable coronary artery disease, unstable heart failure, unbalanced hypertension, myocarditis, etc.\n\n\nIn addition to cardiovascular causes, there are certain unbalanced or severe pathologies:\n\n* Loss of consciousness not investigated\n\n* Evolving or ongoing respiratory diseases\n\n* Morbid lack of weight and height\n\n* Severe morphological disorders\n\n* Serious neurological pathologies\n\n\nThere are also contraindications specific to certain sports (non-exhaustive list):\n\n* Contact sports: loss of a paired organ (eye, kidney, gonad, etc.) to prevent loss of the second organ during practice.\n\n* Collision or contact sports: haemophilia, anticoagulant treatment\n\n* Boxing: myopia (increased risk of retinal detachment)\n\n* Underwater diving: asthma, history of pneumothorax, ENT pathologies",
+  "question": {
+    "question": "What is the main cause of contraindications to practising sport?",
+    "option_a": "Musculoskeletal pathologies",
+    "option_b": "Cardiovascular pathologies",
+    "option_c": "Respiratory diseases",
+    "option_d": "Neurological pathologies",
+    "correct_option": "B"
+  }
+}

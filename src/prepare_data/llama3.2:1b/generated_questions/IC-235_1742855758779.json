@@ -1,0 +1,12 @@
+{
+  "folder": "IC-235",
+  "content": "{{knowledge objective\n|Identifiant=OIC-235-07-A\n|Item_parent=Acute pericarditis\n|Item_parent_short=Acute pericarditis\n|Rank=A\n|Title=Electrocardiogram (ECG) of acute pericarditis\n|Description=None\n|Rubric=Multimedia content\n|Contributors=Jennifer Cautela\n|Order=7}}\n\n[[File:Ecg typique.jpg|centr\u00e9|vignette|900x900px|Sus d\u00e9calage de ST, diffuse, non-systematis\u00e9, concave vers le haut, sans miroir ni onde Q ET sous d\u00e9calage PQ]]",
+  "question": {
+    "question": "Quel est le r\u00e9sultat de la d\u00e9tection d'un facteur de risque dans un patient pr\u00e9sentant des sympt\u00f4mes d'acute pericarditis?",
+    "option_a": "R\u00e9sultat positif",
+    "option_b": "R\u00e9sultat n\u00e9gatif",
+    "option_c": "R\u00e9sultat ind\u00e9cis",
+    "option_d": "R\u00e9sultat inconnu",
+    "correct_option": "option_b"
+  }
+}

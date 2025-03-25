@@ -1,0 +1,12 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-29-B\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=B\n|Title=Knowing how to look for co-morbidities according to the patient's condition\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=29}}\nIn the case of dependence, pharmacological treatment is recommended as it reduces withdrawal symptoms, craving and relapses.\n\nIt is important to assess psychiatric co-morbidities and co-addictions prior to smoking cessation.\n\n*Psychiatric disorders\n**Schizophrenia 82% of smokers\n**Bipolar disorder 56% of smokers\n**Look for anxiety disorders and major depressive episodes.\n***there are links between difficulty in quitting and depressive symptoms\n***There are anxiety and depressive symptoms induced by withdrawal:\n**** lasting a few weeks => no pharmacological treatment but support in consultation\n**** beyond => specific psychiatric treatment\n**At a distance from withdrawal, improvement in anxiety and depressive symptoms and quality of life.  <br />\n\n*Co-addictions\n**Use or misuse of alcohol and/or cannabis\n**Other psychoactive substances (in the context of poly-drug use)\n\n<br />",
+  "question": {
+    "question": "What is an important consideration when treating smoking addiction?",
+    "option_a": "Pharmacological treatment is sufficient to address all aspects of smoking addiction",
+    "option_b": "Assessing psychiatric co-morbidities and co-addictions prior to smoking cessation is crucial",
+    "option_c": "Only patients with a history of anxiety disorders require co-morbidity assessment",
+    "option_d": "Pharmacological treatment only addresses physical symptoms of withdrawal",
+    "correct_option": "B"
+  }
+}

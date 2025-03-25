@@ -1,0 +1,12 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-19-A\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=A\n|Title=Knowing the 2 main etiological frameworks of delayed puberty: hypothalamic-pituitary or gonadal origins\n|Description=None\n|Rubric=Etiologies\n|Contributors=\n|Order=19}}\n\n{| class=\"wikitable\"\n| '''RP centraux'''\n|\n|-\n|Hypothalamo-pituitary\n\n                         \n\n\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0   \u00a0\n| Acquired: tumour (craniopharyngioma), functional (malnutrition, chronic illness)\n\n                        Congenital and genetic: hypogonadotropic hypogonadism with (Kallmann) or without anosmia, panhypopituitarism\n|-\n| Simple pubertal delay\n| Variant of normal, diagnosis of elimination\n|-\n|\n|\n|-\n| '''Peripheral RP''''\n|\n|-\n| Ovarian insufficiency\n\n                        Testicular failure\n| Turner syndrome 45,X\n\n                        Klinefelter syndrome 47,XXY\n|}\n<br />",
+  "question": {
+    "question": "What are the two main etiological frameworks of delayed puberty?",
+    "option_a": "Hypothalamic-pituitary and genetic disorders",
+    "option_b": "Hypothalamic-pituitary and environmental factors",
+    "option_c": "Gonadal origins and central nervous system disorders",
+    "option_d": "Hormonal imbalances and nutritional deficiencies",
+    "correct_option": "A"
+  }
+}

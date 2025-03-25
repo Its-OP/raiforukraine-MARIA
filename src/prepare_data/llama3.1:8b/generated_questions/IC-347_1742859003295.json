@@ -1,0 +1,12 @@
+{
+  "folder": "IC-347",
+  "content": "{{knowledge objective\n|Identifiant=OIC-347-09-A\n|Item_parent=Acute urine retention\n|Item_parent_short=Acute urine retention\n|Rank=A\n|Item_parent_short=Acute Urine Retention\n|Description=None\n|Rubric=Identification of the emergency\n|Contributors=Jonathan Olivier\n|Order=9}}\n\n==Elements of seriousness in the case of acute urinary retention==\nThe elements of seriousness in the case of acute retention of urine are :\n\n*<Fever: In the event of fever associated with acute retention of urine, prostatitis should be investigated (BU/ECBU). Hospitalisation and appropriate antibiotic therapy are necessary.\n\n*<u>'''[[2C-260|Hematuria 260]]'''</u>: In the event of haematuria associated with acute retention of urine, bladder catheterisation with bladder washes (dual stream catheter) will be required.\n\n*<u>'''[[2C-258|Acute renal failure 258]]'''</u>: Endovesical hyperpressure due to acute retention of urine can lead to dilatation of the pyelocaval cavities which can induce acute renal failure. Late-onset clinical signs include nausea, vomiting, visual disturbances, diarrhoea and headache.\n\n==Complications secondary to acute urinary retention===\nComplications secondary to acute retention of urine are :\n\n*<Vacuo haematuria: This is caused by the rupture of submucosal veins when the bladder is emptied too quickly. It is advisable to empty the bladder gradually and to clamp the bladder catheter every 500 ml.\n\n*<Obstruction lifting syndrome: Transient polyuria with risk of dehydration due to water overload and tubulopathy with inability to concentrate urine. Screening is based on hourly monitoring of diuresis. Treatment is based on intravenous water compensation.\n\n*<Bladder rupture and rarely bladder rupture </u>.",
+  "question": {
+    "question": "What is a potential complication of acute urinary retention?",
+    "option_a": "Vacuo haematuria, which is caused by the rupture of submucosal veins when the bladder is emptied too quickly.",
+    "option_b": "Obstruction lifting syndrome, which is a transient condition characterized by polyuria, dehydration, and tubulopathy.",
+    "option_c": "Bladder rupture, which is a rare and severe complication that can occur due to prolonged retention of urine.",
+    "option_d": "Acute renal failure, which is a direct result of the increased pressure in the bladder caused by retention.",
+    "correct_option": "C"
+  }
+}

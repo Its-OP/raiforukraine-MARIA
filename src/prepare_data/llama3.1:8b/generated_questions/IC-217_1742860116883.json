@@ -1,0 +1,12 @@
+{
+  "folder": "IC-217",
+  "content": "{{knowledge objective\n|Identifiant=OIC-217-01-A\n|Item_parent=Mononucleosis syndrome\n|Item_parent_short=Mononucleosis syndrome\n|Rank=A\n|Title=Know the definition of mononucleosis syndrome\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=1}}\n\n\n== Definition of mononucleosis syndrome ==\n- presence of '''more than 50% of mononucleated elements'' (lymphocytes and monocytes) '''among leukocytes''' on the blood count, due to a '''hyperlymphocytosis''' '''([[Blood count interpretation SD-223|blood count interpretation]]; [[Leukocyte abnormality SD-216|leukocyte abnormality]])'''''\n\n- '''and'''' '''\u2265 10% activated lymphocytes on the blood smear ([[Prescription and analysis of blood smear SD-222|prescription and analysis of blood smear]])''''",
+  "question": {
+    "question": "What is the definition of mononucleosis syndrome?",
+    "option_a": "Presence of more than 20% of mononucleated elements among leukocytes on the blood count",
+    "option_b": "Presence of more than 50% of mononucleated elements among leukocytes on the blood count, due to a hyperlymphocytosis, and \u2265 5% activated lymphocytes on the blood smear",
+    "option_c": "Presence of more than 50% of mononucleated elements among leukocytes on the blood count, due to a hyperlymphocytosis, and \u2265 20% activated lymphocytes on the blood smear",
+    "option_d": "Presence of more than 50% of mononucleated elements among leukocytes on the blood count, due to a hyperlymphocytosis, and \u2265 10% activated lymphocytes on the blood smear, but only in the presence of a viral infection",
+    "correct_option": "B"
+  }
+}

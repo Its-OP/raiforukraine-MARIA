@@ -1,0 +1,46 @@
+{
+  "folder": "IC-179",
+  "content": "{{knowledge objective\n|Identifiant=OIC-179-09-A\n|Item_parent=Health risks linked to water and food. Food poisoning\n|Item_parent_short=Sanitary risks related to water and food. Food poisoning\n|Rank=A\n|Title=Knowing how to detect and report a suspected CFTI\n|Description=None\n|Section=Definition\n|Contributors=Pr Christophe DE CHAMPS DE SAINT LEGER, Dr Johann CAILHOL\n|Ordre=9}}\nA CFT is suspected when there are clustered cases of gastrointestinal or neurological disorders. The diagnosis is made if the clustered cases are compatible with the definition of CFTI, in an environment that is often collective, and where hygiene measures are not respected.\n\nCFTI is a notifiable disease.\n\nReports are made to the ARS via a specific form, without waiting for the investigation or documentation.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the definition of a CFTI (Clustered Foodborne Toxin Ingestion)?",
+        "description": "A CFT is suspected when there are clustered cases of gastrointestinal or neurological disorders. The diagnosis is made if the clustered cases are compatible with the definition of CFTI, in an environment that is often collective, and where hygiene measures are not respected.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "A disease caused by a single traumatic event",
+        "description": "A single incident that leads to a specific illness",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "A disease that occurs in a collective environment with poor hygiene",
+        "description": "A disease that spreads quickly in a group with inadequate sanitation",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "A disease that is not reportable to the ARS",
+        "description": "A disease that must be reported to the health authorities",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "A disease that can be diagnosed without investigation",
+        "description": "A disease that can be confirmed without further testing",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

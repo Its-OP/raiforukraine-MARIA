@@ -1,0 +1,46 @@
+{
+  "folder": "IC-099",
+  "content": "{{knowledge objective\n|Identifiant=OIC-099-10-A\n|Item_parent=Migraine, trigeminal neuralgia and facial pain\n|Item_parent_short=Migraine, trigeminal neuralgia and facial pain\n|Rank=A\n|Title=Know the clinical description of auricular headaches\n|Description=Know the positive clinical features that allow the diagnosis to be made.\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=10}}\n- '''Otalgia : ear pain'''\n\no Can be directly linked to a pathology of the outer or middle ear (otitis in particular)\n\no Or be a projected pain \"reflex otalgia\" often revealing an ENT cancer.\n\no <u>See item 150</u>\n\n\n- '''[[Headache SD-118|Headache]] of auricular cause''''\n\no Headache associated with ear pain, linked to pathology of the external or middle ear <u>(See item 150)</u>.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a characteristic of auricular headaches?",
+        "description": "Auricular headaches are a type of headache that can be caused by ear pain.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Pain that is only caused by inner ear problems",
+        "description": "A type of headache that is only linked to inner ear issues",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Pain that can be linked to ENT cancer",
+        "description": "A type of headache that can be caused by ear pain linked to external or middle ear pathology",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Pain that is only associated with migraines",
+        "description": "A type of headache that is only linked to migraines",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Pain that can be projected to the ear",
+        "description": "A type of headache that can be caused by pain that is perceived in the ear",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The correct letter of the answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

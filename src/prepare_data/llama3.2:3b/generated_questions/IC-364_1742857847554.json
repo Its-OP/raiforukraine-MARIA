@@ -1,0 +1,46 @@
+{
+  "folder": "IC-364",
+  "content": "{{knowledge objective\n|Identifiant=OIC-364-12-B\n|Item_parent=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Item_parent_short=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Rank=B\n|Title=Know how to diagnose complications of ankle fractures\n|Description=Know the risk of growth problems due to epiphysiodesis\n|Section=Follow-up and/or prognosis\n|Contributors=\n|Order=12}}\nBe aware of the high risk of epiphysiodesis after ankle epiphyseal detachment fractures in adolescents. Be aware of the risk of subsequent growth problems <br />.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a potential complication of ankle epiphyseal detachment fractures in adolescents?",
+        "description": "A complication of ankle epiphyseal detachment fractures in adolescents",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Growth problems due to premature closure of the growth plate",
+        "description": "A possible complication of ankle epiphyseal detachment fractures in adolescents",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Infection and sepsis",
+        "description": "A possible complication of ankle epiphyseal detachment fractures in adolescents",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Nerve damage and numbness",
+        "description": "A possible complication of ankle epiphyseal detachment fractures in adolescents",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Hematoma and swelling",
+        "description": "A possible complication of ankle epiphyseal detachment fractures in adolescents",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct letter of the option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

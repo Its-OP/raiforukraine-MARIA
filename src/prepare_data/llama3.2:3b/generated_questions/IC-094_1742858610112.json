@@ -1,0 +1,46 @@
+{
+  "folder": "IC-094",
+  "content": "{{knowledge objective\n|Item_parent=Rachialgia\n|Rank=B\n|Title=Knowing the aetiologies of complicated spinal pain\n|Description=\n|Rubric=\n|College=\n|Contributors=Bisseriex H\u00e9l\u00e8ne,Nguyen Christelle,de S\u00e8ze Mathieu,Rannou Fran\u00e7ois,Coudeyre Emmanuel\n|Order=11\n|Identifiant=OIC-094-11-B\n|Item_parent_short=Rachialgia\n}}\nPREAMBLE:\n\nThe term \"complicated spinal pain\" is used here to refer to the complex causes of chronic common low back pain, and not to the various causes of secondary low back pain. The term \"complex spinal pain\" is preferred.\n\nThe aetiologies of complex spinal pain are considered to be :\n\n- both causes and consequences of chronic low back pain, which can sometimes run up yellow flags,\n\n- which we try to prevent with appropriate, early treatment of low back pain,\n\n- which is what makes it so serious.\n\n\n\nETIOLOGIES OF COMPLEX SPINAL PAIN :\n\n\n1.     SOCIAL\n\n- Restrictions on professional participation: prolonged or repeated work stoppages, unfitness for the job, invalidity, job insecurity, burnout\n\n- Restrictions on social, family, cultural and sporting participation\n\n\n2.     PSYCHOLOGICAL\n\n- Anxiety, depression\n\n- Attitudes of fear and avoidance, kinesiophobia (fear of movement)\n\n- Misuse of analgesics\n\n\n3.     OVERALL PHYSICS\n\n- Deconditioning during exercise, weight gain\n\n- Sedentary lifestyle, physical inactivity\n\n- Sleep disorders\n\n- Side effects of analgesics or NSAIDs (e.g. drowsiness)\n\n\n4.     RACHIDIENNES\n\n- Intense and/or persistent pain, analgesic attitude\n\n- Segmental and/or global stiffening of the spine\n\n- Loss of endurance and strength in the abdominal and spinal muscles\n\n- Persistent functional disability\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a common aetiology of complicated spinal pain?",
+        "description": "Choose the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Restrictions on professional participation",
+        "description": "Prolonged or repeated work stoppages, unfitness for the job, invalidity, job insecurity, burnout",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Social media usage",
+        "description": "Excessive social media use leading to sedentary lifestyle",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Sleep disorders and physical inactivity",
+        "description": "Deconditioning during exercise, weight gain, sedentary lifestyle, physical inactivity",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Mental health conditions",
+        "description": "Anxiety, depression, attitudes of fear and avoidance, kinesiophobia (fear of movement)",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "Restrictions on professional participation",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

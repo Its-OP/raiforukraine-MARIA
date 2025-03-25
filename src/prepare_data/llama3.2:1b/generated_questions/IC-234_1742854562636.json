@@ -1,0 +1,12 @@
+{
+  "folder": "IC-234",
+  "content": "{{knowledge objective\n|Identifiant=OIC-234-01-B\n|Item_parent=Adult heart failure\n|Item_parent_short=Adult heart failure\n|Rank=B\n|Title=Knowing the epidemiology of heart failure\n|Description=To understand the epidemiology of heart failure in the context of an ageing population and improved treatment of cardiovascular pathologies,\n|Rubric=Epidemiology\n|Contributors=Olivier Huttin\n|Order=1}}\n\n* Prevalence of 1 and 2%.\n* Average age: 70-80\n* Predominantly male\n* High mortality (10% at one year)\n* 50% of IC patients have preserved EF and have co-morbidities associated with cardiovascular ageing:\n** Renal failure\n** Metabolic syndrome - Type 2 diabetes - Obesity\n** Pulmonary pathology - Sleep apnoea syndrome\n** Anemia\n* The ageing of the population and better management of cardiovascular risk factors and coronary events are leading to a growing increase in the prevalence of cardiovascular disease.",
+  "question": {
+    "question": "What is the typical age range of patients with heart failure?",
+    "option_a": "70-80 years",
+    "option_b": "50-60 years",
+    "option_c": "90-100 years",
+    "option_d": "Unknown",
+    "correct_option": "option_a"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-245",
+  "content": "{{knowledge objective\n|Identifiant=OIC-245-04-A\n|Item_parent=Adrenal insufficiency in adults and children\n|Item_parent_short=Adrenal insufficiency in adults and children\n|Rank=A\n|Title=Knowing the clinical and biological signs of adrenal insufficiency\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Claire Briet,St\u00e9phanie Espiard\n|Order=4}}\n'''1. Clinical signs'''\n\nGeneral signs are less marked than in primary adrenal insufficiency (see Table 1). They depend on the depth of corticotropic insufficiency, which may be only partial. Asthenia may be the only clinical sign.\n\n<u>No melanoderma replaced by pallor</u>.\n\nDepending on the aetiology, it may be associated with signs of deficiency of other pituitary hormones, a tumour syndrome with signs of chiasmatic compression and headaches (Cf. [[Pituitary adenoma]]).\n\n\n'''2.   Biological signs:''' see table 1 (semiology chapter)\n\n<u>Hyponatremia WITHOUT hyperkalemia</u>.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Clinical signs of adrenal insufficiency",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "The presence of melanoderma is a characteristic of primary adrenal insufficiency",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Adrenal insufficiency is characterized by the absence of symptoms",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Cortisol levels are typically elevated in primary adrenal insufficiency",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Adrenal insufficiency is often associated with signs of deficiency of other pituitary hormones",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "The presence of melanoderma is a characteristic of primary adrenal insufficiency",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

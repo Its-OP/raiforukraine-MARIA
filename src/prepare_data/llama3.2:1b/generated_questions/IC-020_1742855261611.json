@@ -1,0 +1,12 @@
+{
+  "folder": "IC-020",
+  "content": "{{knowledge objective\n|Identifiant=OIC-020-28-B\n|Item_parent=Health research methodology\n|Item_parent_short=Health research methodology\n|Rank=B\n|Intitle=Interaction / effect modification\n|Description=Knowing how to define/recognise\n|Rubric=Definition\n|Contributors=David Hajage (CIMES)\n|Order=28}}\n\n'''Interaction''': occurs when the association between an exposure and a health phenomenon varies according to the level of another factor (= '''effect modification''), called the interaction factor.\n\n* The interaction factor must not be confused with a confounding factor: the presence of a confounding factor can produce (or amplify) the association under study even though it does not exist, or mask (or reduce) it when it does exist.\n* To take account of an interaction factor, we can perform :\n** a stratified analysis,\n** equivalently, the introduction of an interaction term into a multivariate model.\n* The interaction test is necessary to determine whether the effect is modified in a statistically significant way, i.e. whether there is a significant difference in the association between the levels of the interaction factor (the null hypothesis is the absence of interaction, the alternative hypothesis is the existence of an interaction).\n* Example: Study evaluating the association between smoking and lung cancer (fictitious figures):\n\n'''Confusion factor'''\n{| class=\"wikitable\"\n|\n|Men\n|Men\n|Women\n|-\n|RR\n|2,67\n|2,07\n|2,05\n|}\nSex is a confounding factor here: when stratified by sex, the association between smoking and lung cancer decreases, but the estimated RR is approximately the same in each stratum.\n\n'''Interaction factor''''\n{| class=\"wikitable\"\n|\n|Inhalation\n|Inhalation\n|No inhalation\n|-\n|RR\n|1,89\n|2,43\n|1,2\n|}\nThe fact of inhaling smoke is an interaction factor here: the estimate of the association between smoking and lung cancer is not at all the same depending on whether or not the smoke is inhaled.",
+  "question": {
+    "question": "What is the term used to describe the association between an exposure and a health phenomenon that varies according to the level of another factor (= interaction factor)?",
+    "option_a": "Interaction",
+    "option_b": "Confounding",
+    "option_c": "Confusion",
+    "option_d": "Interaction",
+    "correct_option": "Interaction"
+  }
+}

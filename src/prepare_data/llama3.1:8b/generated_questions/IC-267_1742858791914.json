@@ -1,0 +1,12 @@
+{
+  "folder": "IC-267",
+  "content": "{{knowledge objective\n|Identifiant=OIC-267-38-A\n|Item_parent=Disorders of acid-base equilibrium and hydro-electrolytic disorders\n|Item_parent_short=Disorders of acid-base equilibrium and fluid and electrolyte disorders\n|Rank=A\n|Title=Know the main complementary tests useful in the aetiological diagnosis of hypocalcaemia\n|Description=None\n|Rubric= Complementary examinations\n|Contributors=P. Rieu,B. Moulin,M. Flamant\n|Order=38}}\n\n*The reasoning behind hypocalcaemia is based on a few simple biological tests:\n**total calcium\n**ionised calcium and/or albumin\n**serum phosphate\n**plasma parathyroid hormone (PTH)\n**vitamin D (25 OH vitamin D) and calcitriolemia (1.25 OH vitamin D)\n**24-hour calciuria\n\n*The diagnostic approach consists of distinguishing\n**hypocalcaemia with low PTH (<10pg/mL) and therefore inadequate PTH. This is known as hypocalcaemia of parathyroid origin.\n**hypocalcaemia with high PTH (>65 pg/mL) and therefore adapted. This is referred to as hypocalcaemia of extraparathyroidal origin.\n\n<br />",
+  "question": {
+    "question": "What is the diagnostic approach to distinguish between hypocalcaemia of parathyroid origin and hypocalcaemia of extraparathyroidal origin?",
+    "option_a": "Measuring the level of ionised calcium and serum phosphate",
+    "option_b": "Evaluating the level of plasma parathyroid hormone (PTH) and distinguishing between <10 pg/mL and >65 pg/mL",
+    "option_c": "Assessing the level of vitamin D (25 OH vitamin D) and calcitriolemia (1.25 OH vitamin D)",
+    "option_d": "Calculating the total calcium level and comparing it to the ionised calcium level",
+    "correct_option": "B"
+  }
+}

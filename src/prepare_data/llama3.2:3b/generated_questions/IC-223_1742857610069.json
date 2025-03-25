@@ -1,0 +1,11 @@
+{
+  "folder": "IC-223",
+  "content": "{{knowledge objective\n|Identifiant=OIC-223-08-B\n|Item_parent=Dyslipidemia\n|Item_parent_short=Dyslipidemia\n|Rank=B\n|Title=Knowing which biological tests to order in the search for secondary dyslipidaemia\n|Description=None\n|Rubric=Additional tests\n|Contributors=Laurence Duvillard, Bruno Verg\u00e8s, Benjamin Bouillet, Laurence Amar, Christian Boissier, Tristan Mirault, Claire Le Hello\n|Order=8}}\n\n\n* Biological work-up to look for secondary hyperlipidaemia, guided by the clinical context: TSH, creatinine, proteinuria (urine dipstick), alkaline phosphatase.",
+  "question": {
+    "question": "What laboratory tests should be ordered as part of the biological work-up to look for secondary hyperlipidaemia, guided by the clinical context?",
+    "option_a": "TSH, creatinine, alkaline phosphatase, and lipid profile",
+    "option_b": "TSH, creatinine, proteinuria (urine dipstick), and lipid profile",
+    "option_c": "TSH, creatinine, alkaline phosphatase, and liver function tests",
+    "option_d": "TSH, creatinine, proteinuria (urine dipstick), and liver enzyme panel"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-265",
+  "content": "{{knowledge objective\n|Identifiant=OIC-265-11-A\n|Item_parent=Urinary lithiasis\n|Item_parent_short=Urinary lithiasis\n|Rank=A\n|Title=Knowing the emergency biological tests to be carried out for renal colic\n|Description=(Urine dipstick), CBC, ionogram, creatininaemia, CRP\n|Rubric=Additional tests\n|Contributors=Romain Boissier\n|Order=11}}\n\n\n== Biological tests carried out in the emergency department are designed to identify severe/complicated forms of renal colic: ==\n\n*urine dipstick\n*cytobacteriological examination of urine,\n*blood cultures if febrile renal colic is suspected,\n*serum creatinine measurement.",
+  "question": {
+    "question": "What is the main purpose of biological tests carried out in the emergency department for renal colic?",
+    "option_a": "To diagnose the underlying cause of renal colic",
+    "option_b": "To identify severe or complicated forms of renal colic",
+    "option_c": "To monitor the progression of kidney disease",
+    "option_d": "To rule out urinary tract infections",
+    "correct_option": "B"
+  }
+}

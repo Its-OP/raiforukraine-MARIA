@@ -1,0 +1,46 @@
+{
+  "folder": "IC-197",
+  "content": "{{knowledge objective\n|Identifiant=OIC-197-08-B\n|Item_parent=Spondyloarthritis\n|Item_parent_short=Spondyloarthritis\n|Rank=B\n|Title=Knowing the different types of spondyloarthritis\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=8}}\nThese diseases are included in the concept of spondyloarthritis. Patients with these diseases can also be classified using the ASAS criteria as axial or peripheral spondyloarthritis, depending on their clinico-radiological presentation.\n\n'''. Ankylosing spondylitis (= radiographic axial spondyloarthritis): ''' the most typical form, characterised by damage to the axial skeleton (rachis and sacroiliac joints) which can lead to ankylosis.\n\n'''. Psoriatic arthritis''''\n\n'''. Reactive arthritis:''' Reactive arthritis is aseptic arthritis occurring a few weeks after a genital or digestive infection. Fiessinger-Leroy-Reiter syndrome is the most complete form of reactive arthritis and is defined by the triad urethritis-conjunctivitis-arthritis.\n\n'''. Chronic inflammatory enterocolopathies:'''' Peripheral arthritis and/or radiological sacroiliitis occur in 10-20% of cases of Crohn's disease and haemorrhagic rectocolitis.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary characteristic of ankylosing spondylitis?",
+        "description": "A disease included in the concept of spondyloarthritis",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Reactive arthritis",
+        "description": "A type of arthritis that occurs after a genital or digestive infection",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Chronic inflammatory enterocolopathies",
+        "description": "A condition that affects the digestive system and can cause peripheral arthritis",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Psoriatic arthritis",
+        "description": "A type of arthritis that occurs in people with psoriasis",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Radiographic axial spondyloarthritis",
+        "description": "A type of spondyloarthritis characterized by damage to the axial skeleton",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "d",
+        "description": "The correct letter of the option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

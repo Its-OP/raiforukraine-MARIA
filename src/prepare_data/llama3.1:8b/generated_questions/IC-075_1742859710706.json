@@ -1,0 +1,12 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-19-A\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=A\n|Title=Knowing how to detect tobacco use\n|Description=Knowing the question to ask and assessing consumption and objectives (stopping)\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=19}}\nAll patients should have their tobacco consumption assessed and monitored.\n\n* Simple screening: \"Do you smoke?\" followed by a decision algorithm until you stop.\n* Smoking assessment: ''Packs-Year (PA) = number of packs/day x number of years of intoxication''.",
+  "question": {
+    "question": "What is the recommended method for assessing tobacco consumption in all patients?",
+    "option_a": "A comprehensive questionnaire about smoking habits and history",
+    "option_b": "A simple screening question 'Do you smoke?' followed by a decision algorithm until you stop",
+    "option_c": "A physical examination for nicotine stains on the fingers",
+    "option_d": "Measuring the carbon monoxide level in the patient's breath",
+    "correct_option": "B"
+  }
+}

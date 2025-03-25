@@ -1,0 +1,46 @@
+{
+  "folder": "IC-283",
+  "content": "{{knowledge objective\n|Identifiant=OIC-283-01-B\n|Item_parent=Constipation in children and adults\n|Item_parent_short=Constipation in children and adults\n|Rank=B\n|Title=Knowing the prevalence of constipation in children\n|Description=None\n|Rubric=Epidemiology\n|Contributors=\n|Order=1}}\nConstipation is a frequent reason for consultation in young children.\n\nThis symptom accounts for almost 5% of paediatric consultations in private practice.\n\nConstipation most often appears between the ages of 1 and 4 and can affect up to a third of school-age children.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the typical age range when constipation most often appears in children?",
+        "description": "Constipation is a frequent reason for consultation in young children. This symptom accounts for almost 5% of paediatric consultations in private practice. Constipation most often appears between the ages of ______________ and ______________ and can affect up to a third of school-age children.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "0 and 1",
+        "description": "Constipation often appears in infants and toddlers",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "1 and 4",
+        "description": "Constipation most often appears between the ages of 1 and 4 and can affect up to a third of school-age children",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "4 and 6",
+        "description": "Constipation often appears in older children and can affect up to a third of school-age children",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "6 and 10",
+        "description": "Constipation is rare in children under 6 years old",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "1",
+        "description": "The correct option is only the lower bound of the age range",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-18-A\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=A\n|Title=Knowing the procedures for probabilistic treatment of STIs\n|Description=None\n|Heading=Management\n|Contributors=\n|Order=18}}\nUrethritis or cervicitis: treatment of probabilistic gonococcal and chlamydial infection\n\n- Ceftriaxone single dose IM or IV 1000 mg\n\n- Doxycycline 200 mg PO 7 days (or azithromycin 1g single dose)",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the recommended treatment for probabilistic gonococcal and chlamydial infection?",
+        "description": "Choose the correct treatment option",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Ceftriaxone single dose IM or IV 500 mg",
+        "description": "A common antibiotic used to treat gonorrhea",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Doxycycline 200 mg PO 7 days (or azithromycin 1g single dose)",
+        "description": "A recommended treatment for chlamydia",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Ceftriaxone single dose IM or IV 1000 mg and Doxycycline 200 mg PO 7 days",
+        "description": "A combination of antibiotics used to treat gonorrhea and chlamydia",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Erythromycin 500 mg PO 7 days",
+        "description": "An antibiotic used to treat some sexually transmitted infections",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

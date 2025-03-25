@@ -1,0 +1,41 @@
+{
+  "folder": "IC-188",
+  "content": "{{knowledge objective\n|Identifiant=OIC-188-10-A\n|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Rank=A\n|Title=Knowing the signs of severity of an asthma exacerbation in children and adults.\n|Description=Know how to look for signs that could be life-threatening in the short term (disturbed consciousness, respiratory arrest, collapse, auscultatory silence, respiratory rate >30, signs of struggle) (item 359). Know when to call the resuscitator\n|Rubric=Emergency identification\n|Contributors=\n|Order=10}}\n[[Acute respiratory distress SD-160|Acute respiratory distress]]\n\n'''Signs of struggle'''\n\no Speaks in short sentences or interrupted by inspiration\n\no Prefers sitting to lying down\n\no Increase in RF > 25/min\n\no HR > 100/min\n\no SpO2 < 95% in AA\n\no Peak Expiratory Flow (PEF) \u2264 50% of the best value (or theoretical if unknown)\n\n'''Signs of failure'''\n\no Speak in words\n\no Sitting bent over\n\no Agitated\n\no RF > 30/min\n\no Use of accessory respiratory muscles\n\no HR > 120/min\n\no SpO2 < 90% in air\n\no PEF \u2264 50% of the best value (or theoretical if unknown) or impossible to achieve\n\no auscultatory silence\n\no paradoxical breathing\n\no consciousness disorders, bradycardia, collapse",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a sign of a severe asthma exacerbation in children and adults?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Oxygen saturation < 90% in air",
+        "description": "Low oxygen levels in the blood"
+      },
+      "option_b": {
+        "title": "Increased respiratory rate > 30/min",
+        "description": "Rapid breathing rate"
+      },
+      "option_c": {
+        "title": "Auscultatory silence",
+        "description": "Absence of lung sounds"
+      },
+      "option_d": {
+        "title": "Increased respiratory rate > 120/min",
+        "description": "Very rapid breathing rate"
+      },
+      "correct_option": {
+        "title": "",
+        "description": ""
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

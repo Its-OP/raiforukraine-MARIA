@@ -1,0 +1,46 @@
+{
+  "folder": "IC-326",
+  "content": "{{knowledge objective\n|Identifiant=OIC-326-04-B\n|Item_parent=Regulatory framework for therapeutic prescribing and recommendations for correct use\n|Item_parent_short=Regulatory framework for therapeutic prescribing and recommendations for correct use\n|Rank=B\n|Intitle=To understand the role of the professionals involved in dispensing a prescription and their legal and economic responsibilities.\n|Description=Distinguish the drug dispensing process specific to the hospital environment.\n|Rubric=Definition\n|Contributors=\n|Order=4}}\n\n\n==Role of pharmacists==\n\n===Validity of the prescription===\nWhen a prescription is issued, the pharmacist must carry out a number of checks (this list is not exhaustive):\n\n*date of prescription\n*'''type''' of prescription (simple, secure, two-zone or specific for \"exceptional drugs\")\n*dosage and duration of treatment\n*qualification'' of the prescriber, particularly if the pharmaceutical specialities are [[The different legal frameworks for prescribing 2C-326-PC-A01|restricted prescription]]\n*carrying out any prior or periodic ''examinations'' to which the dispensing of certain medicinal products may be subject.\n\n===Pharmaceutical analysis===\nPharmaceutical analysis must enable :\n\n*detect the possible presence of '''' drug interactions'''\n*d'''' assess the choice of a drug (compliance with recommendations, patient profile, etc.)\n*if necessary, ''refuse to dispense'' a medicinal product when it seems necessary in the interests of the patient's health <ref>https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006913718/</ref>.\n\n===Respecting the prescription===\nAccording to article '''L.5125-23 of the CSP'', \"''the pharmacist may only dispense a medicinal product or product other than that which has been prescribed, or having a non-proprietary name different from the prescribed non-proprietary name, with the express prior agreement of the prescriber, except in an emergency and in the interest of the patient''\" <ref>https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041397424/</ref>\n\nConsequently, the pharmacist may only dispense a medicinal product other than that which has been prescribed ''with the express prior agreement of the prescriber'', except in the event of an ''emergency'' and in the patient's ''best interests''. In the event of an emergency, the pharmacist must inform the prescriber as soon as possible.\n\n===Special case of generics===\nSince 1999, pharmacists have had the right - under certain conditions - to [[Know how to explain the prescription of a generic drug or biosimilar 2C-326-PC-A02|substitute a prescribed drug with a generic drug]] belonging to the same ''generic group''. The aim of substitution is to generate savings for the Assurance Maladie.\n\n==Role of nurses==\nAccording to article ''R4312-42 du CSP:''' ''l'infirmier '''applique''' et '''respecter''' la prescription m\u00e9dicale qui, sauf urgence, est '''\u00e9crite''', quantitative et qualitative, dat\u00e9e et sign\u00e9e. They ask the prescriber for \"additional information\" whenever they consider it useful, particularly if they feel they have not been adequately informed. If the nurse has any ''doubt'' about the prescription, he checks it with the prescriber or, if this is not possible, with another member of the profession concerned. In the event of i'''mpossibility of verification'' and of ''''manifest''' and ''''imminent''' risks to the patient's health, he shall, by virtue of his own competence, adopt the <nowiki/>'''attitude which best safeguards the patient's health''', and shall not cause the patient to take any unjustified risk.'' <ref>https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033496651</ref>\n\n===Special case of hospitals===\nThe role of nurses is different in the hospital circuit, insofar as nurses are systematically involved, normally after pharmaceutical validation, with the medical prescription for all types of medicines, whereas in outpatient medicine, nurses are only involved after the prescription for certain medicines, particularly injectables. Generally speaking, in hospitals, most nursing acts relating to medicines, such as the administration of medicines, fall into the category of delegated acts, requiring a medical prescription (R4311-7 CSP) and not the specific role (R4311-5 CSP) of nursing staff.\n\n==Responsibility of those involved downstream of the medical prescription===\nOn several occasions, the French courts have ruled that the \"execution of a prescription\" entails the \"liability\" of those involved downstream of the prescription and not that of the prescriber alone.\n\nIn certain circumstances, the courts have been able to ''simultaneously'' engage the liability of the ''prescriber'' and either a ''pharmacist'' or a ''nurse'', whether before the ''civil'' or ''administrative'' courts (compensation for harm suffered by the victim in outpatient or hospital medicine) or before the ''criminal courts'' (punishment for an offence committed in both the private and public sectors), in particular for errors in dosage, indication or the name of the medicine.\n\nIn addition, these professionals report to a '''professional order''' which can also '''sanction''' them (disciplinary responsibility) for failure to comply with the ethical rules laid down in their respective codes of ethics.<references />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the condition under which a pharmacist may dispense a medicinal product other than that which has been prescribed?",
+        "description": "A pharmacist may dispense a medicinal product other than that which has been prescribed under what conditions?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "With the express prior agreement of the prescriber and in the event of an emergency",
+        "description": "Option A: With the express prior agreement of the prescriber and in the event of an emergency",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Without the express prior agreement of the prescriber, except in an emergency",
+        "description": "Option B: Without the express prior agreement of the prescriber, except in an emergency",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Only when the prescription is for a generic drug",
+        "description": "Option C: Only when the prescription is for a generic drug",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "With the approval of the patient",
+        "description": "Option D: With the approval of the patient",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct answer is Option A",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

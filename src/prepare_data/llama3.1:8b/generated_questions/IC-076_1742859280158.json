@@ -1,0 +1,12 @@
+{
+  "folder": "IC-076",
+  "content": "{{knowledge objective\n|Identifiant=OIC-076-18-B\n|Item_parent=Alcohol dependence\n|Item_parent_short=Alcohol dependence\n|Rank=B\n|Title=How to manage a withdrawal accident (convulsive seizure or delirium tremens)\n|Description=A withdrawal accident requires hospitalisation and must be treated with high-dose half-life benzodiazepines, tapered over one to two weeks, parenteral vitamin B1 and appropriate hydration.\n|Rubric=Management\n|Contributors=\n|Order=18}}\nAny disturbance of consciousness, any symptom suggestive of Gayet Wernicke encephalopathy, any need for hydration in a patient with high-risk alcohol consumption => as a matter of urgency, intravenous vitamin B1 supplementation before any glucose infusion ++++. \n\n\n'''Delirium tremens: '''\n\n- hospitalisation in intensive or continuing care;\n\n- quiet, well-lit room, regular visits from carers for reassurance and supervision;\n\n- restraint is sometimes necessary in cases of severe behavioural problems;\n\n- treatment with high-dose parenteral vitamin B1 before any infusion of serum glucose and polyvitamins ;\n\n- intravenous rehydration and correction of hydroelectrolytic disorders ;\n\n- long-lasting benzodiazepines (diazepam) in high intravenous doses until sedation is achieved;\n\n- monitoring of vitals, hydration, blood ionogram, creatinine and phosphorus levels.\n\n\n'''Convulsive seizure:'''\n\n- treatment identical to that for withdrawal;\n\n- systematic high-dose diazepam, tapering off over 7 to 10 days;\n\n- no systematic initiation of long-term anti-comital treatment. ",
+  "question": {
+    "question": "What is the most appropriate treatment for a convulsive seizure during alcohol withdrawal?",
+    "option_a": "Treatment with long-term anti-convulsant medication",
+    "option_b": "High-dose parenteral vitamin B1 supplementation before any infusion of serum glucose and polyvitamins",
+    "option_c": "Intravenous rehydration and correction of hydroelectrolytic disorders",
+    "option_d": "Treatment with high-dose diazepam tapering off over 7 to 10 days",
+    "correct_option": "D"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-022",
+  "content": "{{knowledge objective\n|Identifiant=OIC-022-04-B\n|Item_parent=Rare diseases\n|Item_parent_short=Rare diseases\n|Rank=B\n|Title=Knowing the epidemiology of rare diseases\n|Description=All together, rare diseases affect more than 3 million people in France, making them a major public health issue. Find out about the number of patients in France with a rare disease, the diversity of rare diseases, the Orphanet website, Maladies Rares Info Service, and the existence of regional services.\n|Rubrique=Epidemiology\n|Contributors=Sylvie Odent\n|Order=4}}\nTogether, rare diseases affect over 3 million people in France, making them a major public health issue.\n\nKey figures:\n\n- 7000 different rare diseases;\n\n- 80% of rare diseases are genetic in origin;\n\n- 350 million rare disease patients worldwide;\n\n- 75% of patients are children;\n\n- 50% of patients do not have a precise diagnosis\n\nSources of information on rare diseases :\n\n- Orphanet: Information platform on rare diseases and orphan drugs in open access [https://www.orpha.net/ (https://www.orpha.net/)]\n\n\n- Maladies rares info services: Reference information and support service on rare diseases. To be listened to, find out information, tell your story and exchange ideas.\n\nhttps://www.maladiesraresinfo.org/\n\nPlatforms of expertise for rare diseases: set up in health establishments hosting CRMRs and CCMRs. The aim is to improve the visibility of the patient pathway: sharing expertise, setting up training courses, medico-social actions, pooling knowledge and skills, coordinating on a regional scale.",
+  "question": {
+    "question": "What percentage of rare diseases are genetic in origin?",
+    "option_a": "50%",
+    "option_b": "75%",
+    "option_c": "80%",
+    "option_d": "90%",
+    "correct_option": "C"
+  }
+}

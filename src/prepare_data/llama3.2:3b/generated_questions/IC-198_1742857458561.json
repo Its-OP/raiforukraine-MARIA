@@ -1,0 +1,41 @@
+{
+  "folder": "IC-198",
+  "content": "{{knowledge objective\n|Identifiant=OIC-198-13-B\n|Item_parent=Microcrystalline arthropathies\n|Item_parent_short=Microcrystalline arthropathies\n|Rank=B\n|Intitle=Knowing the characteristics of an inflammatory fluid\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=13}}\nAnalysis of the synovial fluid obtained during an exploratory puncture reveals :\n\n- the presence of inflammatory joint fluid (cellularity greater than 2,000 nucleated cells/mm<sup>3</sup>, sometimes very high up to 100,000/mm<sup>3</sup>), predominantly neutrophils\n\n- Negative results from routine bacteriological tests (possible combination!)\n\n- Inconsistent presence of microcrystals.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a characteristic of the synovial fluid obtained during an exploratory puncture in microcrystalline arthropathies?",
+        "description": "The analysis of the synovial fluid reveals a specific feature related to the presence of inflammatory cells and microcrystals.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "The presence of a low number of nucleated cells (less than 100 cells/mm<sup>3</sup>)",
+        "description": "This option describes a characteristic that is not supported by the analysis of the synovial fluid."
+      },
+      "option_b": {
+        "title": "The presence of microcrystals is always consistent",
+        "description": "This option is not entirely accurate, as the analysis reveals an inconsistent presence of microcrystals."
+      },
+      "option_c": {
+        "title": "A high number of nucleated cells (greater than 2,000 cells/mm<sup>3</sup>)",
+        "description": "This option describes a characteristic that is consistent with the analysis of the synovial fluid."
+      },
+      "option_d": {
+        "title": "The absence of inflammatory cells",
+        "description": "This option is not supported by the analysis of the synovial fluid, which reveals a predominance of neutrophils."
+      },
+      "correct_option": {
+        "title": "",
+        "description": "A"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

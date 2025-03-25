@@ -1,0 +1,41 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-33-A\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=A\n|Title=Know the definition of school medicine\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=33}}\nPart of the Ministry of Education\n\nIndividual and collective prevention and health promotion for all schoolchildren\n\nWelcoming and supporting each pupil according to their specific needs, particularly in terms of their physical or mental health: individualised reception plans (PAI) and personalised care plans (PPS)",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the main focus of school medicine?",
+        "description": "School medicine is a branch of healthcare that focuses on the health and well-being of schoolchildren.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Preventing diseases and promoting healthy habits",
+        "description": "Preventing diseases and promoting healthy habits is a key aspect of school medicine."
+      },
+      "option_b": {
+        "title": "Providing individualized medical care to each student",
+        "description": "Providing individualized medical care to each student is a key aspect of school medicine."
+      },
+      "option_c": {
+        "title": "Screening for orthopaedic, visual, hearing, and dental abnormalities",
+        "description": "Screening for orthopaedic, visual, hearing, and dental abnormalities is an important part of school medicine."
+      },
+      "option_d": {
+        "title": "Focusing on the health and well-being of all schoolchildren",
+        "description": "Focusing on the health and well-being of all schoolchildren is the main goal of school medicine."
+      },
+      "correct_option": {
+        "title": "d",
+        "description": ""
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-353",
+  "content": "{{knowledge objective\n|Identifiant=OIC-353-09-B\n|Item_parent=Suicidal risk and behaviour in children, adolescents and adults: identification and management\n|Item_parent_short=Suicidal risk and behaviour in children, adolescents and adults: identification and management\n|Rank=B\n|Title=Knowing the indications for hospitalisation\n|Description=None\n|Rubric=Management\n|Contributors=Pierre Vandel\n|Order=9}}\n\nOpen or non-consensual care.\n\n'''Indications for hospitalisation:''''\n\n* to stabilise a patient with a life-threatening prognosis due to the non-psychiatric complications of suicide;\n* in the event of a suicidal risk with a high degree of urgency;\n* in the event of a suicidal risk with a low or medium degree of urgency associated with decompensated psychiatric disorders.\n\n'''Objectives of the hospital stay:'''\n\n*protect the person by limiting the risk of suicide;\n*treat the associated psychiatric disorder;\n*facilitate resolution of the crisis (alternatives) by setting up supportive psychotherapy (a relationship of trust, verbalising suffering, working on the therapeutic alliance, etc.);\n*organise subsequent outpatient follow-up if necessary;\n*complete the psychiatric assessment\n\n\nPatients must be systematically informed about the terms and conditions of their care (location, length of stay in hospital, how the team works).\n\nA \"personalised safety plan\" is drawn up with the patient. This safety plan is a list of resources (resource persons, emergency telephone number, calming activities, reassurance techniques, etc.) that the patient can use before and during a suicidal crisis.",
+  "question": {
+    "question": "What are the indications for hospitalisation in the case of a suicidal risk?",
+    "option_a": "To stabilise a patient with a life-threatening prognosis due to the non-psychiatric complications of suicide",
+    "option_b": "In the event of a suicidal risk with a low degree of urgency",
+    "option_c": "In the event of a suicidal risk with a high degree of urgency and decompensated psychiatric disorders",
+    "option_d": "To treat the associated psychiatric disorder only",
+    "correct_option": "A"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "folder": "IC-136",
+  "content": "{{knowledge objective\n|Identifiant=OIC-136-04-A\n|Item_parent=Local, locoregional and general anaesthesia\n|Item_parent_short=Local, locoregional and general anaesthesia\n|Rank=A\n|Title=Knowing the principles of the pre-anaesthetic consultation\n|Description=Recall of item 136 (133-A03)\n|Heading=Management\n|Contributors=\n|Order=4}}\n\n[[File:Figure 2. Principles of the pre-anaesthetic consultation..jpg|vignette|'''Figure 2. Principles of the pre-anaesthetic consultation.''']]\nThe principles of the pre-anaesthetic consultation are presented in figure 2 ('''[[Pre-anaesthetic consultation SD-300|pre-anaesthetic consultation]]''''', '''[[Reasoned request/prescription and choice of a diagnostic examination SD-178|reasoned request/prescription and choice of a diagnostic examination]]''''', '''[[Preoperative explanation and collection of consent for an invasive diagnostic or therapeutic procedure SD-239|preoperative explanation and collection of consent for an invasive diagnostic or therapeutic procedure]]''''''', '''[[Prevention of healthcare-associated infections SD-311|prevention of healthcare-associated infections]]''''').\n\nThe treatments for which dosage adjustment is necessary because of the perioperative risks are presented in table 1 (see item 322 \"[Personalised therapeutic decision: good use in high-risk situations|Personalised therapeutic decision]]\").\n\nTable 1. Treatments for which dosage adjustment is necessary in the perioperative period.'''\n{| class=\"wikitable\"\n|'''Treatments'''\n|Perioperative risk\n|'''Peri-operative management'''\n|-\n|Platelet antiaggregants\n|Haemorrhage\n|Acetylsalicylic acid: continue except in special cases\n\nOther: multidisciplinary consultation\n|-\n|Anticoagulant\n|Haemorrhage\n|Stop\n|-\n|Diuretic\n|Hypovolemia, dyskalemia\n|Stop\n|-\n|RAAS antagonist\n|Arterial hypotension\n|Stop if hypertension\n\nContinued in other indications\n|-\n|Biguanide\n|Lactic acidosis\n|Stop\n|-\n|Sulfonamide or glinide\n|Hypoglycaemia\n|Stop\n|-\n|Insulins\n|Ketoacidosis, hypoglycaemia\n|Slow insulin: continue\n\nInsulin ultra-rapids: adaptation\n|-\n|Long-term corticosteroid therapy\n|Acute adrenal insufficiency\n|Continuation\n\n+ substitution therapy\n|}\n<br />",
+  "question": {
+    "question": {
+      "title": "What is the primary reason for discontinuing platelet antiaggregants before surgery?",
+      "description": "According to the table 1, what is the perioperative risk associated with platelet antiaggregants that requires dosage adjustment?",
+      "type": "string"
+    },
+    "option_a": {
+      "title": "Hypertension",
+      "description": "Continuing platelet antiaggregants in patients with hypertension may lead to an increased risk of bleeding during surgery."
+    },
+    "option_b": {
+      "title": "Hypoglycaemia",
+      "description": "Platelet antiaggregants may cause hypoglycaemia, which can be a perioperative risk."
+    },
+    "option_c": {
+      "title": "Haemorrhage",
+      "description": "Haemorrhage is a perioperative risk associated with platelet antiaggregants, which require dosage adjustment."
+    },
+    "option_d": {
+      "title": "Dyskalemia",
+      "description": "Dyskalemia is a perioperative risk associated with diuretic therapy, not platelet antiaggregants."
+    },
+    "correct_option": "c"
+  }
+}

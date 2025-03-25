@@ -1,0 +1,15 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-18-A\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=A\n|Title=Know the principles of preventing dental caries\n|Description=None\n|Heading=Management\n|Contributors=\n|Order=18}}\nSugar consumption promotes tooth decay\n\nPrevention is based on\n\n* good oral and dental hygiene: brushing 2 times a day from the first teeth, with fluoride toothpaste depending on age\n* avoid nibbling between meals or taking a sugary bottle to sleep (\"bottle syndrome\")\n* regular dental check-ups, with annual visits to the dentist from the age of 12-18 months\n* if there is a high risk of caries (history, lifestyle habits, difficulty brushing due to disability, for example)\n** fluoride per os\n** Sealing of grooves",
+  "question": {
+    "properties": {
+      "question": "What is the primary method of prevention for sugar consumption and tooth decay?",
+      "option_a": "Good oral and dental hygiene",
+      "option_b": "Avoiding sugary foods and drinks",
+      "option_c": "Regular dental check-ups",
+      "option_d": "Fluoride per os",
+      "option_e": "Sealing of grooves",
+      "correct_option": "option_b"
+    }
+  }
+}

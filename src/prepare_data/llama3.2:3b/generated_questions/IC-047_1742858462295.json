@@ -1,0 +1,46 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-19-B\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=B\n|Title=Knowing the dental eruption calendar\n|Description=None\n|Rubric=Physiopathology\n|Contributors=\n|Order=19}}\nChildren's teeth\n\n* central incisor around 6 months\n* 2nd molar around 2 years\n\nAdult teeth\n\n* Central incisor and first molar around 6 years of age\n* First pre-molar around 10-11 years of age\n* Canine around 11-12 years\n* 3rd molar around 18 years",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the typical age range for the eruption of the first permanent molar in children?",
+        "description": "Select the correct age range from the options provided.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "6-7 years",
+        "description": "The first permanent molar erupts around 6-7 years of age.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "8-9 years",
+        "description": "The first permanent molar erupts around 8-9 years of age.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "10-11 years",
+        "description": "The first permanent molar erupts around 10-11 years of age.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "12-13 years",
+        "description": "The first permanent molar erupts around 12-13 years of age.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct letter of the answer option.",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

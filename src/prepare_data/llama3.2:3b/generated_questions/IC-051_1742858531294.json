@@ -1,0 +1,46 @@
+{
+  "folder": "IC-051",
+  "content": "{{knowledge objective\n|Identifiant=OIC-051-04-B\n|Item_parent=Micturition disorders in children\n|Item_parent_short=Micturition disorders in children\n|Rank=B\n|Item_parent_short=Voiding problems in children\n|Description=orientation towards an organic cause\n|Rubric=Etiologies\n|Contributors=Alice FAURE\n|Order=4}}\n\n\n==In the case of mictional disorders, look for associated disorders such as:==\n\n*Psychological problems in children: urination problems can lead to withdrawal, emotional stress and a loss of self-esteem. Children with voiding problems may also suffer from developmental and learning difficulties.\n*Psychiatric problems: children with micturition problems have 2 to 4 times more behavioural problems, such as attention deficit hyperactivity disorder (ADHD).\n*Sleep disorders such as sleep apnoea and parasomnias, particularly in children with enuresis.\n*Nocturnal respiratory disorders: upper airway obstruction (snoring), especially if accompanied by obstructive apnoea, is frequently reported in isolated primary enuresis.\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a common associated disorder in children with micturition problems?",
+        "description": "A multiple-choice question about the consequences of micturition disorders in children",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Neurological problems",
+        "description": "A plausible but incorrect answer related to the topic",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Psychological problems",
+        "description": "A correct answer based on the knowledge objective",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Sleep disorders",
+        "description": "A plausible but incorrect answer related to the topic",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Developmental problems",
+        "description": "A plausible but incorrect answer related to the topic",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

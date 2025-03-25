@@ -1,0 +1,12 @@
+{
+  "folder": "IC-094",
+  "content": "{{knowledge objective\n|Identifiant=OIC-094-09-A\n|Item_parent=Rachialgia\n|Item_parent_short=Rachialgia\n|Rank=A\n|Title=Knowing the main causes of secondary spinal pain\n|Description=None\n|Rubric=Etiologies\n|Contributors=Bisseriex H\u00e9l\u00e8ne,Nguyen Christelle\n|Order=9}}\n\n'''MAIN ETIOLOGIES''(rank A)'' of secondary spinal pain:''''\n\no tumour: metastases (rarely primary cancer) ''[[Discovery of a bone and joint abnormality on medical imaging examination SDD-228|(discovery of a bone and joint abnormality on medical imaging examination)]'''''\n\no infectious: spondylodiscitis, Pott's disease (if tuberculous spondylodiscitis) (weight loss, asthenia, ''[[Acute or chronic inflammatory syndrome SDD-186|acute or chronic inflammatory syndrome]], [[Hyperthermia/fever SDD-044|hyperthermia/fever]]''')'')\n\no inflammatory: ankylosing spondylitis ''[[Acute or chronic inflammatory syndrome SDD-186|(acute or chronic inflammatory syndrome)]]''''\n\no traumatic: vertebral fracture and traumatic dislocation (remote dynamic images, not forgetting the cervico-occipital hinge) '''[[Spinal trauma SDD-175|(spinal trauma]], [[Fall of the elderly SDD-027|fall of the elderly]])'''''\n\no osteoporotic vertebral fracture ''[[Spinal deformity SDD-065|(spinal deformity)]]'''''\n\no visceral: if back pain",
+  "question": {
+    "question": "What is the main cause of secondary spinal pain?",
+    "option_a": "Inflammatory",
+    "option_b": "Osteoporotic vertebral fracture",
+    "option_c": "Infectious",
+    "option_d": "Tumour",
+    "correct_option": "option_a"
+  }
+}

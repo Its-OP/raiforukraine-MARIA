@@ -1,0 +1,12 @@
+{
+  "folder": "IC-086",
+  "content": "{{knowledge objective\n|Identifiant=OIC-086-07-A\n|Item_parent=Eyelid pathology\n|Item_parent_short=Eyelid pathology\n|Rank=A\n|Title=Photograph of a chalazion\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=7}}\n\n[[File:Chalazion interne.jpg|left|vignette|Chalazion with internal extension to the eyelid (tarsal surface)]]\n\n[[File:Chalazion externe.jpg|gauche|vignette|Chalazion with extension to the outer surface of the eyelid (cutaneous surface)]]",
+  "question": {
+    "question": "What is the typical presentation of a chalazion?",
+    "option_a": "A chalazion is a small, usually painless, bump on the eyelid that occurs when a gland in the eyelid becomes blocked.",
+    "option_b": "A chalazion is a type of acne that occurs on the eyelid, typically on the upper eyelid.",
+    "option_c": "A chalazion is a type of cyst that occurs on the eyelid, often caused by a blockage of a gland.",
+    "option_d": "A chalazion is a type of abscess that occurs on the eyelid, often caused by a bacterial infection.",
+    "correct_option": "A"
+  }
+}

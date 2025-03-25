@@ -1,0 +1,46 @@
+{
+  "folder": "IC-073",
+  "content": "{{knowledge objective\n|Identifiant=OIC-073-01-A\n|Item_parent=Different types of psychotherapeutic techniques\n|Item_parent_short=Different types of psychotherapeutic techniques\n|Rank=A\n|Intitle=Know the definition of psychotherapy\n|Description=None\n|Rubric=Definition\n|Contributors=Amaury MENGIN\n|Order=1}}\n\n==== Definition of psychotherapy ====\nAny use of psychological means to treat a psychiatric disorder or for [[Know the definition of psychotherapy OIC-073-01-A#%20msocom%201|[FB1]]] any other non-psychiatric problem causing psychological suffering or distress\n----[[Know the definition of the term psychotherapy OIC-073-01-A#%20msoanchor%201|[FB1]]]<nowiki/>for too much?",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary purpose of psychotherapy?",
+        "description": "A psychological treatment for a psychiatric disorder or other non-psychiatric problem causing psychological suffering or distress",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To treat physical illnesses",
+        "description": "A plausible but incorrect option, as psychotherapy is primarily focused on psychological issues",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "To improve mental health and well-being",
+        "description": "A correct option, aligning with the definition of psychotherapy",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "To alleviate symptoms of anxiety and depression",
+        "description": "A related but incorrect option, as psychotherapy can address a range of psychological issues",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "To develop coping mechanisms for stress management",
+        "description": "A plausible but incorrect option, as psychotherapy can address a range of psychological issues beyond stress management",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The correct letter corresponding to the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "folder": "IC-070",
+  "content": "{{knowledge objective\n|Identifiant=OIC-070-03-B\n|Item_parent=Psychological disorders in the elderly\n|Item_parent_short=Psychological disorders in the elderly\n|Rank=B\n|Title=Knowing the prevalence of psychobehavioural symptoms in demented elderly subjects\n|Description=Send item 108\n|Topic=Epidemiology\n|Contributors=Pierre Vandel,Marie Tournier\n|Order=3}}\n\nKnown as \"psychological and behavioural symptoms of dementia\" (BPSD)\n\nPresent in over 80% of patients with Alzheimer's disease or other dementias. Early onset.\n\n           Negative symptomatology: withdrawal and apathy 50% prevalence\n\nFrequent psychotic symptoms: delusions, hallucinations",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the estimated prevalence of psychobehavioural symptoms of dementia (BPSD) in patients with Alzheimer's disease or other dementias?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "90% of patients",
+        "description": "A commonly cited estimate, but not the correct answer"
+      },
+      "option_b": {
+        "title": "Over 80% of patients",
+        "description": "The correct answer, according to the text"
+      },
+      "option_c": {
+        "title ": "Early onset is a characteristic of BPSD",
+        "description": "A plausible but incorrect statement about BPSD"
+      },
+      "option_d": {
+        "title": "Negative symptomatology is the most common type of BPSD",
+        "description": "A partially correct statement, but not the most common type"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The correct letter of the correct option"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

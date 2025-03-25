@@ -1,0 +1,12 @@
+{
+  "folder": "IC-027",
+  "content": "{{knowledge objective\n|Identifiant=OIC-027-02-B\n|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Rank=B\n|Title=Knowing the \"microbial\" epidemiology of MFIs\n|Description=Know the main \"microbial\" aetiologies\n|Rubric=Epidemiology\n|Contributors=Alexandre Vivanti, Philippe Deruelle\n|Order=2}}\nMaternal-foetal infections are frequent (1 to 4% of births, all infections combined) and are 2 to 4 times more common in premature babies.\n\nThey may be due to\n\n- Bacteria\n\no Group B Streptococcus: 1<sup>rst</sup> cause of early bacterial neonatal infection\n\no Escherichia coli: 2nd<sup>rst</sup> cause of early bacterial neonatal infection\n\no Listeriosis: 3rd<sup>rst</sup> cause of early neonatal bacterial infection\n\no Treponema pallidum (Syphilis)\n\n- Parasites: toxoplasmosis (incidence: 1.5/1000 births)\n\n- Viruses\n\no Cytomegalovirus (incidence: 1% of births; 1<sup>rst</sup> cause of non-genetic congenital deafness)\n\no Hepatitis B (exceptional in the case of sero-vaccination at birth)\n\no Zika virus\n\no Herpes simplex virus\n\no Chickenpox\n\no Rubella (incidence: 1/100,000 births)\n\no HIV (incidence < 1% when viral load is well controlled)\n\no Parvovirus B19\n\no SARS-CoV-2 (incidence: 3-5% of births after maternal infection)",
+  "question": {
+    "question": "What is the main cause of maternal-foetal infections?",
+    "option_a": "Group B Streptococcus",
+    "option_b": "Escherichia coli",
+    "option_c": "Listeria",
+    "option_d": "Toxoplasmosis",
+    "correct_option": "option_a"
+  }
+}

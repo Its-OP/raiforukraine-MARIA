@@ -1,0 +1,12 @@
+{
+  "folder": "IC-208",
+  "content": "{{knowledge objective\n|Identifiant=OIC-208-07-A\n|Item_parent=Chronic respiratory failure\n|Item_parent_short=Chronic respiratory failure\n|Rank=A\n|Title=Identify decompensation of CKD and assess its severity\n|Description=None\n|Rubric=Identifying the emergency\n|Contributors=\n|Order=7}}\n\n\n*Every patient with CKD has a fragile respiratory system at risk of decompensation, either through an increase in the symptoms of the initial respiratory illness (exacerbations of obstructive CKD or idiopathic pulmonary fibrosis) or through intercurrent events which should be systematically investigated (pulmonary embolism, left ventricular failure, infectious or drug-induced pneumopathy, pneumothorax, etc.).\n*The severity of decompensation should be assessed by clinical signs (see item 359).\n*Blood gases can be used to determine severity by comparison with blood gases in a stable state, which should always be looked for in the file. The signs of seriousness systematically sought are\n**severe hypoxaemia (PaO2<60mmHg)\n**uncompensated respiratory acidosis (pH<7.35 with PaCO2>45mmHg)",
+  "question": {
+    "question": "What are the signs of severe decompensation of CKD?",
+    "option_a": "Severe hypoxaemia (PaO2<60mmHg) and uncompensated respiratory acidosis (pH<7.35 with PaCO2>45mmHg)",
+    "option_b": "Mild hypoxaemia (PaO2<80mmHg) and compensated respiratory acidosis (pH>7.35 with PaCO2<45mmHg)",
+    "option_c": "Severe hypoxaemia (PaO2<60mmHg) but compensated respiratory acidosis (pH>7.35 with PaCO2<45mmHg)",
+    "option_d": "Uncompensated respiratory acidosis (pH<7.35 with PaCO2>45mmHg) but no hypoxaemia",
+    "correct_option": "A"
+  }
+}

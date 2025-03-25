@@ -1,0 +1,46 @@
+{
+  "folder": "IC-353",
+  "content": "{{knowledge objective\n|Identifiant=OIC-353-09-B\n|Item_parent=Suicidal risk and behaviour in children, adolescents and adults: identification and management\n|Item_parent_short=Suicidal risk and behaviour in children, adolescents and adults: identification and management\n|Rank=B\n|Title=Knowing the indications for hospitalisation\n|Description=None\n|Rubric=Management\n|Contributors=Pierre Vandel\n|Order=9}}\n\nOpen or non-consensual care.\n\n'''Indications for hospitalisation:''''\n\n* to stabilise a patient with a life-threatening prognosis due to the non-psychiatric complications of suicide;\n* in the event of a suicidal risk with a high degree of urgency;\n* in the event of a suicidal risk with a low or medium degree of urgency associated with decompensated psychiatric disorders.\n\n'''Objectives of the hospital stay:'''\n\n*protect the person by limiting the risk of suicide;\n*treat the associated psychiatric disorder;\n*facilitate resolution of the crisis (alternatives) by setting up supportive psychotherapy (a relationship of trust, verbalising suffering, working on the therapeutic alliance, etc.);\n*organise subsequent outpatient follow-up if necessary;\n*complete the psychiatric assessment\n\n\nPatients must be systematically informed about the terms and conditions of their care (location, length of stay in hospital, how the team works).\n\nA \"personalised safety plan\" is drawn up with the patient. This safety plan is a list of resources (resource persons, emergency telephone number, calming activities, reassurance techniques, etc.) that the patient can use before and during a suicidal crisis.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary indication for hospitalization in a patient with a suicidal risk?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To treat the associated psychiatric disorder",
+        "description": "One of the objectives of hospitalization",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "To facilitate resolution of the crisis through supportive psychotherapy",
+        "description": "One of the objectives of hospitalization",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "To protect the person by limiting the risk of suicide",
+        "description": "One of the objectives of hospitalization",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "To complete the psychiatric assessment",
+        "description": "One of the objectives of hospitalization",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "a",
+        "description": "A single letter indicating the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

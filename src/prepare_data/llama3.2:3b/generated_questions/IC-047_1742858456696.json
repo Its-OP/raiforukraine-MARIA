@@ -1,0 +1,34 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-36-B\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=B\n|Title=Know how compulsory systematic monitoring of infants and children is organised and compensated.\n|Description=None\n|Rubric=Support\n|Contributors=\n|Ordre=36}}\n100% health insurance cover for compulsory follow-up consultations\n\nBy the child's GP, paediatrician or general practitioner, or by the PMI (up to the age of 6).<br /><references />.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary method for compulsory follow-up consultations for infants and children?",
+        "description": "The method of compulsory follow-up consultations for infants and children.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Health insurance claim",
+        "description": "The child's family submits a claim to the health insurance company.",
+        "type": "string"
+      },
+      "option_b": "Compulsory health examinations by the child's GP, paediatrician or general practitioner",
+      "option_c": "Compulsory health examinations by the PMI (up to the age of 6) only",
+      "option_d": "Health insurance claim and compulsory health examinations by the child's GP, paediatrician or general practitioner",
+      "correct_option": {
+        "title": "B",
+        "description": "The correct option letter",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-099",
+  "content": "{{knowledge objective\n|Identifiant=OIC-099-10-A\n|Item_parent=Migraine, trigeminal neuralgia and facial pain\n|Item_parent_short=Migraine, trigeminal neuralgia and facial pain\n|Rank=A\n|Title=Know the clinical description of auricular headaches\n|Description=Know the positive clinical features that allow the diagnosis to be made.\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=10}}\n- '''Otalgia : ear pain'''\n\no Can be directly linked to a pathology of the outer or middle ear (otitis in particular)\n\no Or be a projected pain \"reflex otalgia\" often revealing an ENT cancer.\n\no <u>See item 150</u>\n\n\n- '''[[Headache SD-118|Headache]] of auricular cause''''\n\no Headache associated with ear pain, linked to pathology of the external or middle ear <u>(See item 150)</u>.",
+  "question": {
+    "question": "Can otalgia be directly linked to a pathology of the outer or middle ear?",
+    "option_a": "Yes, it can be directly linked to a pathology of the outer or middle ear",
+    "option_b": "No, it can be directly linked to a pathology of the middle ear",
+    "option_c": "Yes, it can be directly linked to a pathology of the middle ear",
+    "option_d": "No, it can be directly linked to a pathology of the outer ear",
+    "correct_option": "option_a"
+  }
+}

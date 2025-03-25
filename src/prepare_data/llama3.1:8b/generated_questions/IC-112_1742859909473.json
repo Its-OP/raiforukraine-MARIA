@@ -1,0 +1,12 @@
+{
+  "folder": "IC-112",
+  "content": "{{knowledge objective\n|Identifiant=OIC-112-07-B\n|Item_parent=Bullous dermatosis of the skin and/or external mucous membranes\n|Item_parent_short=Bullous dermatosis affecting the skin and/or external mucous membranes\n|Rank=B\n|Title=Photograph of bullous pemphigoid\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=7}}\n\n[[File:PB.jpg|vignette|Tensive bubbles with clear or haemorrhagic content, and round crusts on urticarial skin, located on the arm, in a man with bullous pemphigoid]]",
+  "question": {
+    "question": "What is a characteristic of bullous pemphigoid as shown in the photograph?",
+    "option_a": "A condition that primarily affects the internal mucous membranes",
+    "option_b": "A disease characterized by the formation of tense blisters with clear or hemorrhagic content and round crusts on urticarial skin",
+    "option_c": "A condition that is more common in children than in adults",
+    "option_d": "A skin condition that is caused by an allergic reaction to insect bites",
+    "correct_option": "B"
+  }
+}

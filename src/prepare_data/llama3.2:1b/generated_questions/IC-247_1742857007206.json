@@ -1,0 +1,12 @@
+{
+  "folder": "IC-247",
+  "content": "{{knowledge objective\n|Identifiant=OIC-247-27-B\n|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Rank=B\n|Title=Knowing the principles of treating diabetic retinopathy\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=27}}\n'''General care:'''\n\n- Glycaemic control: goal of HbA1c < 7%, careful control from the stage of pre-proliferative retinopathy, with the risk of worsening the visual prognosis.\n\n- Blood pressure control and treatment of dyslipidaemia\n\n'''Specialised ophthalmological care'''\n\n- Retinal panphotocoagulation (fixation of the retina, regression of neovessels) as early as the severe RDNP stage\n\n- Intraocular injections of corticoids (fewer indications) and VEGF inhibitors (severe, proliferative form and macular oedema)",
+  "question": {
+    "question": "What is the primary goal of treating diabetic retinopathy in children and adults?",
+    "option_a": "Lower blood pressure to reduce the risk of complications",
+    "option_b": "Increase insulin doses to control blood sugar levels",
+    "option_c": "Lower HbA1c levels to improve glycemic control",
+    "option_d": "Use corticoids and VEGF inhibitors for severe proliferative retinopathy",
+    "correct_option": "option_c"
+  }
+}

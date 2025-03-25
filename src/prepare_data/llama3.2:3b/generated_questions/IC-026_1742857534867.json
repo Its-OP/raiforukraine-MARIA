@@ -1,0 +1,12 @@
+{
+  "folder": "IC-026",
+  "content": "{{knowledge objective\n|Identifiant=OIC-026-03-A\n|Item_parent=Acute abdominal pain in a pregnant woman\n|Item_parent_short=Acute abdominal pain in pregnant women\n|Rank=A\n|Title=Knowing how to manage emergency situations related to acute abdominal pain in pregnant women.\n|Description=Know how to guide the clinical examination and suggest appropriate paraclinical tests during management.\n|Rubric=Identification of the emergency\n|Contributors=Louis Marcellin,Philippe Deruelle\n|Order=3}}\n\nOrientation of the clinical examination in the context of acute abdominal pain in pregnant women\n\n==Search for life-threatening etiologies (extreme emergency)==\n- Obstetrical context\n\n- Medical and obstetrical history\n\n- Characteristics of pain\n\n- Haemodynamic tolerance: BP and pulse\n\n- Palpation of the uterus: uterine contracture\n\n- [[Genital bleeding during pregnancy SD-111|Metrorrhagia]]\n\n- Detection of foetal heart sounds<br />.\n\n==Extreme emergency eliminated==\n- Taking the temperature\n\n- Abdominal palpation, lumbar fossa\n\n- Vaginal touch / speculum: cervical changes / [[Loss of fluid in a preterm pregnant woman SD-109|loss of fluid]]\n\n- [[Urine dipstick analysis SD-182|Urine dipstick]]",
+  "question": {
+    "question": "During the clinical examination of a pregnant woman with acute abdominal pain, which of the following is the most appropriate next step?",
+    "option_a": "Performing a urine dipstick analysis to check for proteinuria",
+    "option_b": "Taking the patient's temperature to assess for signs of infection",
+    "option_c": "Palpating the uterus to check for uterine contracture and detecting foetal heart sounds",
+    "option_d": "Administering pain medication without assessing the patient's haemodynamic tolerance",
+    "correct_option": "C"
+  }
+}

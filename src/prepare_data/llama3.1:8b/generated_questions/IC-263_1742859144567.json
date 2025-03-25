@@ -1,0 +1,12 @@
+{
+  "folder": "IC-263",
+  "content": "{{knowledge objective\n|Identifiant=OIC-263-03-B\n|Item_parent=Vascular nephropathy\n|Item_parent_short=Vascular nephropathy\n|Rank=B\n|Title=Knowing the causes of thrombotic microangiopathy\n|Description=None\n|Rubric=Etiologies\n|Contributors=Jean-Jacques Boffa\n|Order=3}}\n\nCauses of MAT syndrome\n{| class=\"wikitable\"\n|Typical (post-diarrhoeal) enterobacteria producing \"Shiga-like toxins\" (SLT): E.Coli O157:H7, Salmonella, Shigella...\n|-\n|Atypical HUS: mutation of genes coding for complement proteins (complement C3, factor H, factor I, CD46), or anti-factor H antibodies, mutation of the thrombomodulin gene, etc.\n|-\n|Infections: septicaemia, HIV virus, H1N1 influenza\n|-\n|Medications: mitomycin C, gemcitabine, cyclosporine, tacrolimus, anti-VEGF\n|-\n|Malignant hypertension\n|-\n|Eclampsia\n|-\n|Dysimmune disease: scleroderma, systemic lupus erythematosus,\n\nanti-phospholipid syndrome\n|-\n|Cancer\n|-\n|Thrombotic thrombocytopenic purpura: anti-ADAMTS13 (von Willebrand factor protease) autoantibodies or ADAMTS13 genetic deficiency\n|}\n<br />",
+  "question": {
+    "question": "What are common causes of thrombotic microangiopathy (MAT syndrome)?",
+    "option_a": "Typical enterobacteria producing Shiga-like toxins, such as E.Coli O157:H7, and certain medications like cyclosporine.",
+    "option_b": "Atypical HUS caused by mutations in complement proteins, infections like HIV, and autoimmune diseases like systemic lupus erythematosus.",
+    "option_c": "Malignant hypertension, eclampsia, thrombotic thrombocytopenic purpura, and cancer are all primary causes of MAT syndrome.",
+    "option_d": "Atypical HUS caused by mutations in complement proteins, typical enterobacteria, and certain medications like mitomycin C.",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-36-B\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=B\n|Title=Recognising the particularities of STIs according to age\n|Description=Etiologies in post-menopausal women and young girls\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=36}}\nClinical signs do not change with age, except in newborns, where the eyes and respiratory tract may be affected.\n\nThere is no age-related STI\n\no However, induced HPV cancers take several years to develop after the first sexual intercourse.\n\no An STI in a child may raise suspicions of sexual abuse. The questioning and clinical examination must be meticulous and cautious in order not to falsely accuse a parent.\n\nWe are currently seeing an increase in the incidence of PID between the ages of 35 and 45, probably linked to the recomposition of couples and the resumption of sexual activity.",
+  "question": {
+    "question": "What is a notable exception regarding clinical signs of STIs across different age groups?",
+    "option_a": "Clinical signs of STIs remain the same across all age groups.",
+    "option_b": "Clinical signs of STIs are more severe in newborns and elderly individuals.",
+    "option_c": "Clinical signs of STIs do not change with age, except in newborns.",
+    "option_d": "Clinical signs of STIs are more frequent in post-menopausal women.",
+    "correct_option": "C"
+  }
+}

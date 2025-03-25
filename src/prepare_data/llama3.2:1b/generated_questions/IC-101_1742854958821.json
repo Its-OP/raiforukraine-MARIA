@@ -1,0 +1,22 @@
+{
+  "folder": "IC-101",
+  "content": "{{knowledge objective\n|Identifiant=OIC-101-07-A\n|Item_parent=Facial paralysis\n|Item_parent_short=Facial paralysis\n|Rank=A\n|Title=Know the principles of management of facial paralysis with frigidity, including complications.\n|Description=Earlycorticosteroid therapy, eye protection\n|Topic=Management\n|Contributors=\n|Order=7}}\nTreatment of facial paralysis with frigidity ([[Facial paralysis SDD-127|facial paralysis]]) must be undertaken as a matter of urgency:\n\n* Prescription of oral corticosteroids (1 mg/kg/d) for 7 to 10 days. Early initiation (< 72 hours) increases the chances of recovery ([[Prescribe systemic or local corticosteroids SDD-251|prescribe systemic or local corticosteroids]]).\n\n* Systematic prevention of ocular complications (keratitis, revealed by ocular pain) ([[Ocular burning sensation SDD-141|ocular burning sensation]]) :\n\n- Prescription of artificial tears\n\n- Occlusive dressing at night if palpebral occlusion is insufficient\n\n- In the most severe forms, temporary tarsorrhaphy.",
+  "question": {
+    "properties": {
+      "question": "What is the primary treatment for facial paralysis with frigidity?",
+      "option_a": "Early initiation of corticosteroid therapy",
+      "option_b": "Prescribe systemic or local corticosteroids",
+      "option_c": "Temporary tarsorrhaphy",
+      "option_d": "Oral corticosteroids for 7 to 10 days",
+      "correct_option": "option_a"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

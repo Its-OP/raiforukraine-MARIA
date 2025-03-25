@@ -1,0 +1,46 @@
+{
+  "folder": "IC-005",
+  "content": "{{knowledge objective\n|Identifiant=OIC-005-07-A\n|Item_parent=Medical criminal, civil, administrative and disciplinary liability. The management of errors and complaints; therapeutic hazards\n|Item_parent_short=Penal, civil, administrative and disciplinary medical liability. The management of errors and complaints; the therapeutic hazard\n|Rank=A\n|Title=Knowing the definition of fault\n|Description=None\n|Rubric=Definition\n|Contributors=Bastien Boussat\n|Order=7}}\n\nSince the law of 4 March 2002, doctors' professional obligations have been replaced by legally enshrined patients' rights. Patients may claim that one of their rights has been infringed in order to hold a doctor or healthcare establishment liable. However, the onus is on the patient to prove fault. Article L.1142-1 of the French Public Health Code stipulates that health professionals and establishments are only liable for the harmful consequences of preventive, preventive or therapeutic acts if they are at fault.\n\n'''Patients' rights'''\n\nInfringement of one of these rights may give rise to medical liability for negligence:\n\n- right to health protection ;\n\n- right to respect for dignity ;\n\n- the right not to be discriminated against in access to prevention or care;\n\n- right to privacy and confidentiality of information ;\n\n- the right to receive the most appropriate treatment and care and to benefit from therapies whose effectiveness is recognised and which guarantee the best possible health safety and relief of suffering in the light of proven medical knowledge;\n\n- the right not to be subjected to acts of unreasonable obstinacy ;\n\n- the right to deep and continuous sedation causing an alteration in consciousness maintained until death ;\n\n- the right to receive treatment and care to relieve suffering ;\n\n- right of access to palliative care and support ;\n\n- the right to be informed about your state of health ;\n\n-the right to information on the costs to which the user may be exposed in the course of preventive, diagnostic and therapeutic activities;\n\n- the right to refuse or not to receive treatment\n\n\nThe event giving rise to liability must therefore be a proven fault. This fault can take different forms and is usually distinguished as follows:\n\n- technical negligence, which consists of a breach of established medical knowledge or scientific data. This proven medical knowledge constitutes a technical standard to which the judge refers, and may be defined by reference to scientific medical literature and recommendations of good practice. The judge must refer to proven medical knowledge at the time of the disputed medical act;\n\n- breach of a duty of humanism, which refers to the \"human\" dimension of medical practice, and may result in particular from a breach of professional secrecy or a lack of information that does not allow free and informed consent.\n\nIn some cases, the triggering event may take other forms: it may be the defect of a health product, the product being considered defective when it does not offer the safety that can legitimately be expected.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the condition under which health professionals and establishments are liable for the harmful consequences of their actions?",
+        "description": "The concept of fault in medical liability",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Infringement of a patient's rights",
+        "description": "A patient claiming a right has been infringed may hold a doctor or healthcare establishment liable",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Technical negligence, which consists of a breach of established medical knowledge or scientific data",
+        "description": "A breach of established medical knowledge or scientific data leading to a proven medical standard",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Breach of a duty of humanism, which refers to the 'human' dimension of medical practice",
+        "description": "A breach of professional secrecy or lack of information preventing informed consent",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "The event giving rise to liability must be a proven breach of a legal regulation",
+        "description": "A breach of a legal regulation, such as the French Public Health Code",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "technical negligence, which consists of a breach of established medical knowledge or scientific data",
+        "description": "A breach of established medical knowledge or scientific data leading to a proven medical standard",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

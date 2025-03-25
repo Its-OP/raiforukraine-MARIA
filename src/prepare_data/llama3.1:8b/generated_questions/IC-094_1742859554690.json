@@ -1,0 +1,12 @@
+{
+  "folder": "IC-094",
+  "content": "{{knowledge objective\n|Identifiant=OIC-094-04-B\n|Item_parent=Rachialgia\n|Item_parent_short=Rachialgia\n|Rank=B\n|Title=Knowing the main mechanisms of common spinal pain\n|Description=Description of the different aetiologies of common spinal pain. Arguments in favour of a disc or interapophyseal origin.\n|Rubric=Physiopathology\n|Contributors=Bisseriex H\u00e9l\u00e8ne,Nguyen Christelle\n|Order=4}}\n\n===''El\u00e9ments orientant vers une origine DISCALE'''===\n\n* age 25-50;\n* associated factor: exertion or trauma\n* history of rapidly improving lumbago;\n* physical examination: disc syndrome combining medial, mechanical, impulsive lumbago, exacerbated by hyperextension, spinal syndrome.\n\nComplications = radiculalgia, cauda equina syndrome.\n<br />\n\n===''El\u00e9ments orientant vers une origine INTERAPOPHYSAIRE'''===\n\n* age > 50 years;\n* median or unilateral low back pain, mechanical in character, exacerbated by walking or prolonged standing/sitting down\n* pain referred remotely, without a precise path: buttocks, thighs, iliac spines;\n* poor physical examination: hyperaesthesia of these painful areas on palpation, no disc syndrome, rare spinal syndrome.\n\nComplications = narrowed lumbar canal with radicular claudication (onset of difficulty in walking''', [[Intermittent limb claudication SDD-069|intermittent limb claudication]]).'''''",
+  "question": {
+    "question": "What are the typical characteristics of spinal pain originating from a disc?",
+    "option_a": "Age > 50 years, mechanical pain exacerbated by walking or prolonged standing/sitting",
+    "option_b": "Age 25-50, history of rapidly improving lumbago, exacerbated by hyperextension",
+    "option_c": "Pain referred to the buttocks, thighs, and iliac spines, with hyperaesthesia on palpation",
+    "option_d": "Radiculalgia and cauda equina syndrome as complications",
+    "correct_option": "B"
+  }
+}

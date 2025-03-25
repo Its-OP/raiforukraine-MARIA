@@ -1,0 +1,46 @@
+{
+  "folder": "IC-179",
+  "content": "{{knowledge objective\n|Identifiant=OIC-179-05-A\n|Item_parent=Health risks linked to water and food. Food poisoning\n|Item_parent_short=Health risks associated with food and water. Food poisoning\n|Rank=A\n|Title=Knowing how to prevent water-related health risks\n|Description=None\n|Rubric=Definition\n|Contributors=Pr Christophe DE CHAMPS DE SAINT LEGER, Dr Johann CAILHOL\n|Order=5}}\nThe prevention of water-related health risks is based on a system that covers everything from source to distribution.\n\n- Protection of water catchment points\n\n- Water filtration and treatment, physical or chemical\n\n- Distribution network maintenance\n\n- Quality control, on entry into the distribution network and at the point of consumption\n- Control of pollution-generating activities: shellfish production areas, etc.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary purpose of water filtration and treatment?",
+        "description": "A system that covers everything from source to distribution",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To remove impurities from water",
+        "description": "A crucial step in preventing water-related health risks",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "To increase the pH level of water",
+        "description": "A common misconception about water treatment",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "To add minerals to water",
+        "description": "A potential benefit of water treatment, but not its primary purpose",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "To disinfect water",
+        "description": "A necessary step in preventing waterborne illnesses",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

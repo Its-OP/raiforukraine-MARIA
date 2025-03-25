@@ -1,0 +1,12 @@
+{
+  "folder": "IC-156",
+  "content": "{{knowledge objective\n|Identifiant=OIC-156-14-A\n|Item_parent=Infections in the bones and joints (IOA) of children and adults\n|Item_parent_short=Infections osteo articulaires (IOA) de l'enfant et de l'adulte\n|Rank=A\n|Title=Knowing the clinical signs of spondylodiscitis\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Dr Florent Valour\n|Order=14}}\n- Location: most often 1 level (80%), lumbar (50%) > thoracic > cervical\n\n- Febrile spinal syndrome: [[Hyperthermia/fever SD-044|fever/hyperthermia]] (50%) sometimes moderate or absent, [[Spinal pain (cervical, dorsal or lumbar) SD-072|spinal pain]] (cervical, dorsal or lumbar) inflammatory in nature, segmental spinal stiffness, contracture of paravertebral muscles.\n\n- Inability to walk or sit up (in a small child: refusal to sit on the potty)\n\n- Subacute presentation possible, making diagnosis difficult and leading to delayed diagnosis\n\n- Systematic search for signs of severity (sepsis), neurological complications, a portal of entry, other secondary sites of bacteremia, signs of infective endocarditis, etc.\n\n\nTo be considered in the presence of any spinal or radiculalgia:\n\n- Recent febrile or chronic and worsening\n\n- Associated with bacteremia\n\n- Associated with elevated CRP\n\nThe red flags that should prompt consideration of a disco-vertebral infection in the presence of recent onset spinal pain:\n\n- Fever\n\n- Age \u2265 55\n\n- Chest pain (back pain)\n\n- Notion of intravenous drug use\n\n- Inflammatory\" pain",
+  "question": {
+    "question": "What are the red flags that should prompt consideration of a disco-vertebral infection in the presence of recent onset spinal pain?",
+    "option_a": "Recent onset of spinal pain, fever, and age \u2265 55",
+    "option_b": "Recent onset of spinal pain, fever, and intravenous drug use",
+    "option_c": "Recent onset of spinal pain, fever, and inflammatory pain",
+    "option_d": "Recent onset of spinal pain, age \u2265 55, and intravenous drug use",
+    "correct_option": "A"
+  }
+}

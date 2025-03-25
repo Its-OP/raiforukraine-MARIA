@@ -1,0 +1,12 @@
+{
+  "folder": "IC-208",
+  "content": "{{knowledge objective\n|Identifiant=OIC-208-01-A\n|Item_parent=Chronic respiratory failure\n|Item_parent_short=Chronic respiratory failure\n|Rank=A\n|Title=Knowing the definition of chronic respiratory failure (CRF)\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=1}}\n'''SDS:'''\n\n'''20 [[Discovery of abnormalities on pulmonary auscultation SDD-020|discovery of abnormalities on pulmonary auscultation]]''''\n\n'''162 [[Dyspnea SD-162|dyspnea]]''''\n\n'''178 [[Reasoned request/prescription and choice of a diagnostic test SD-178|reasoned request/prescription and choice of a diagnostic test]]''''\n\n'''192 [[Analysis of a blood gas result SD-192|analysis of a blood gas result]]''''\n\n'''247 [[Prescription for rehabilitation SD-247|prescription for rehabilitation]]''''\n\n'''279 [[Chronic disease follow-up consultation SD-279|chronic disease follow-up consultation]]''''\n\n'''286 [[follow-up consultation and therapeutic education for a COPD patient]]''''\n\n'''314 [[Prevention of tobacco-related risks SD-314|prevention of tobacco-related risks]]''''\n\n'''328 [[Chronic illness announcement SD-328|chronic illness announcement]]''''\n\n'''353 [[Identify an exercise deconditioning situation SD-353|identify an exercise deconditioning situation]]'''''\n\n\nChronic respiratory failure is defined as the inability of the respiratory system to ensure haematosis. The threshold for chronic respiratory failure is 70 mmHg PaO2 (9.3 kPa), measured in room air at rest and in a stable state.\n\nSevere CKD is defined by a Pa02<60mmHg.",
+  "question": {
+    "question": "What is the threshold for chronic respiratory failure, measured in room air at rest and in a stable state?",
+    "option_a": "65 mmHg PaO2 (8.6 kPa)",
+    "option_b": "70 mmHg PaO2 (9.3 kPa)",
+    "option_c": "75 mmHg PaO2 (9.9 kPa)",
+    "option_d": "80 mmHg PaO2 (10.6 kPa)",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "folder": "IC-124",
+  "content": "{{knowledge objective\n|Identifiant=OIC-124-10-B\n|Item_parent=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)\n|Item_parent_short=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)\n|Rank=B\n|Title=Know the additional tests required before using HRT.\n|Description=None\n|Heading=Management\n|Contributors=Florence Tr\u00e9mollieres,Anna Gosset\n|Order=10}}\n\nBefore prescribing HRT, it is important to check that there are no clinical contraindications.\n\nIn all cases, the prescription of HRT does not alter the monitoring offered to post-menopausal women, which includes at least one mammogram every two years. Additional examinations should therefore be limited:\n\n- Mammogram (less than 2 years old, in line with the recommendations for systematic screening)\n\n- '''A [[Lipid profile analysis SD-195|bilan biologique minimum comportant un dosage du cholest\u00e9rol total, des triglyc\u00e9rides et de la glyc\u00e9mie \u00e0 jeun]]''' ;\n\n- Bone densitometry: recommended in the presence of osteoporosis risk factors. In practice, these risk factors are not very sensitive at the start of the menopause, so it can be suggested depending on the patient's situation.\n\nUtero-ovarian ultrasound is not relevant for detecting utero-ovarian lesions in asymptomatic postmenopausal women.",
+  "question": {
+    "question": "Before prescribing HRT, what additional examination should be limited?",
+    "option_a": "Utero-ovarian ultrasound",
+    "option_b": "Bone densitometry",
+    "option_c": "Lipid profile analysis",
+    "option_d": "Mammogram (less than 2 years old)"
+  }
+}

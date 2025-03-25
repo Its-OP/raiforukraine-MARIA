@@ -1,0 +1,46 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-11-B\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=B\n|Title=Knowing the clinical signs of an upper genital infection in women (salpingitis, endometritis)\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=11}}\n- PID:\n\n- +/- fever\n\n- Pelvic pain, metrorrhagia, +/- leucorrhoea\n\n- Gynaecological examination: pain on vaginal touch, endocervical inflammation\n\n\n- Endometritis: fever +++, increased pelvic pain on VT, discharge from the cervical os",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What are the clinical signs of an upper genital infection in women?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Fever, pelvic pain, and leucorrhoea",
+        "description": "A combination of symptoms that may indicate an upper genital infection",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Pelvic pain, metrorrhagia, and increased pelvic pain on VT",
+        "description": "A combination of symptoms that may indicate an upper genital infection",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Endometritis: fever ++++, increased pelvic pain on VT, discharge from the cervical os",
+        "description": "A specific diagnosis of endometritis",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "All of the above",
+        "description": "A combination of all the symptoms listed",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The first answer option labeled 'B'",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

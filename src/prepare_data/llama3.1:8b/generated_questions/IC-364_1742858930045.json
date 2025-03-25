@@ -1,0 +1,12 @@
+{
+  "folder": "IC-364",
+  "content": "{{knowledge objective\n|Identifiant=OIC-364-06-A\n|Item_parent=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Item_parent_short=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Rank=A\n|Title=Knowing the principles of initial management of childhood trauma\n|Description=To treat pain and prescribe imaging\n|Heading=Management\n|Contributors=\n|Order=6}}\nknow how to evoke the diagnosis of a fracture without excessive manipulation of the limb, know how to immediately prescribe temporary immobilisation, know how to prescribe a level 2 or 3 painkiller in children, know how to locate the lesion and prescribe imaging targeted at the region concerned.",
+  "question": {
+    "question": "What is the primary goal of initial management of childhood trauma?",
+    "option_a": "To diagnose the fracture immediately",
+    "option_b": "To treat pain and prescribe imaging",
+    "option_c": "To apply a cast without imaging",
+    "option_d": "To refer the child to a specialist without any initial treatment",
+    "correct_option": "B"
+  }
+}

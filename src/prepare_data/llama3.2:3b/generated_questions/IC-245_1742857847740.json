@@ -1,0 +1,46 @@
+{
+  "folder": "IC-245",
+  "content": "{{knowledge objective\n|Identifiant=OIC-245-15-A\n|Item_parent=Adrenal insufficiency in adults and children\n|Item_parent_short=Adrenal insufficiency in adults and children\n|Rank=A\n|Title=Knowing that acute adrenal insufficiency is a vital emergency\n|Description=None\n|Rubric=Identification of the emergency\n|Contributors=Claire Briet,St\u00e9phanie Espiard\n|Order=15}}\nAcute adrenal insufficiency is ''a vital pathology, an extreme emergency''.\n\nTreatment is started as soon as the diagnosis is suspected, even without diagnostic certainty. Hormone levels (cortisol, ACTH) can be measured at a later stage if they are not taken just before emergency treatment. They should not delay treatment.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the priority when starting treatment for acute adrenal insufficiency?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Delay treatment until hormone levels are confirmed",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Start treatment as soon as possible, even without diagnostic certainty",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Wait for a second opinion before starting treatment",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Administer treatment only if the patient has a confirmed diagnosis",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

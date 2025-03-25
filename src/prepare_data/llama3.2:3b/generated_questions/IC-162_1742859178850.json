@@ -1,0 +1,41 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-04-A\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=A\n|Title=Know the principles of caring for a partner or partners\n|Description=None\n|Heading=Management\n|Contributors=\n|Order=4}}\n- Identify the infected or contaminating partner(s) and propose screening, diagnosis and/or probabilistic treatment;\n\n- Systematically offer :\n\n- HIV serology,\n\n- treponemal test,\n\n- hepatitis B serology\n\n- Urinary or genital PCR for Neisseria gonorrhoeae and Chlamydia trachomatis,\n\n- Pharyngeal and anal PCR according to sexual practices\n\n- Emphasise the risks of recontamination (education).\n\n- Consider PrEP (Pre-Exposure Prophylaxis) type treatment against HIV if you take risks too regularly",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What should you do when caring for a partner or partners who has a sexually transmitted infection (STI)?",
+        "description": "Identify the infected or contaminating partner(s) and propose screening, diagnosis and/or probabilistic treatment;",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Only offer HIV serology and hepatitis B serology",
+        "description": "This option is only partially correct, as it does not mention other necessary tests such as treponemal test and urinary or genital PCR."
+      },
+      "option_b": {
+        "title": "All of the above",
+        "description": "This option is correct, as it includes all the necessary tests for screening, diagnosis, and probabilistic treatment."
+      },
+      "option_c": {
+        "title": "Only propose PrEP treatment if the partner has a history of high-risk behavior",
+        "description": "This option is incorrect, as PrEP treatment should be considered for all partners at risk, regardless of behavior."
+      },
+      "option_d": {
+        "title": "Emphasize the risks of recontamination through education, but do not offer any testing",
+        "description": "This option is incorrect, as education on recontamination risks is important, but testing is also necessary for diagnosis and treatment."
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "This consists only of the letter B"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

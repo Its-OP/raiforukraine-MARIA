@@ -1,0 +1,36 @@
+{
+  "folder": "IC-215",
+  "content": "{{knowledge objective\n|Identifiant=OIC-215-05-A\n|Item_parent=Purpuras in adults and children\n|Item_parent_short=Purpuras in adults and children\n|Rank=A\n|Title=Know how to perform a clinical examination on a patient with purpura\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=5}}\nClinical examination based on the type of purpura.\n\n== Vascular purpura ==\n- in favour of vasculitis: fever ([[Hyperthermia/fever SD-044|fever/hyperthermia]])'', ENT signs, peripheral neuropathy, ''[[Proteinuria SD-212|proteinuria]]'' on urine dipstick, haemoptysis ;\n\n- in favour of endocarditis: fever ([[Hyperthermia/fever SD-044|fever/hyperthermia]])''', heart murmur ('''[[Discovery of abnormalities on cardiac auscultation SD-018|discovery of abnormalities on cardiac auscultation]]''') ;\n\n- in favour of ''scurvy'': signs of malnutrition.\n<br />\n\n== Thrombocytopenic purpura ==\n- taking medication\n\n- tumour syndrome ([[Hepatomegaly SD-006|h'''epatomegaly'']]'', [[Splenomegaly SD-058|splenomegaly]], [[Single or multiple adenopathies SD-016|adenopathies]]''), the presence of which necessitates the performance of the myelogram '''([[Interpretation of a myelogram SD-221|interpretation of a myelogram]])'''.",
+  "question": {
+    "question": {
+      "title": "What is a common sign in favour of vasculitis in a patient with purpura?",
+      "description": "A patient presents with purpura, and the following signs are observed: fever, ENT signs, peripheral neuropathy, proteinuria on urine dipstick, and haemoptysis. Which of the following is a common sign in favour of vasculitis in this patient?",
+      "type": "string"
+    },
+    "option_a": {
+      "title": "Splenomegaly",
+      "description": "Enlargement of the spleen",
+      "type": "string"
+    },
+    "option_b": {
+      "title": "Haemoptysis",
+      "description": "Coughing up blood",
+      "type": "string"
+    },
+    "option_c": {
+      "title": "Peripheral neuropathy",
+      "description": "Nerve damage",
+      "type": "string"
+    },
+    "option_d": {
+      "title": "Proteinuria",
+      "description": "Excess protein in the urine",
+      "type": "string"
+    },
+    "correct_option": {
+      "title": "Peripheral neuropathy",
+      "description": "Nerve damage",
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-024",
+  "content": "{{knowledge objective\n|Identifiant=OIC-024-07-B\n|Item_parent=Main complications of pregnancy.\n|Item_parent_short=Main complications of pregnancy.\n|Rank=B\n|Title=Know how to prevent PPH\n|Description=Know the risk factors and directed delivery\n|Heading=Management\n|Contributors=Paul Berveiller,Philippe Deruelle\n|Order=7}}\n\nIt includes:\n\n- directed, ''systematic'' delivery: ''prophylactic administration of oxytocin (APO)'' as soon as the child is discharged (5 to 10 IU IVL of oxytocin);\n\n- the use of a \"blood loss collection bag\" just after expulsion to assess the volume of blood loss;\n\n- normal delivery monitoring\n\n- systematic monitoring for 2 hours in the labour ward\n\n- artificial delivery if the placenta fails to detach 30 minutes after delivery\n\n- macroscopic inspection of the placenta and membranes after delivery.",
+  "question": {
+    "question": "What is the recommended approach to prevent postpartum hemorrhage (PPH)?",
+    "option_a": "Administering oxytocin only after the placenta has been delivered",
+    "option_b": "Prophylactic administration of oxytocin (APO) as soon as the child is discharged, along with systematic monitoring for 2 hours in the labour ward and macroscopic inspection of the placenta and membranes after delivery",
+    "option_c": "Using a 'blood loss collection bag' only after the placenta has been delivered",
+    "option_d": "Artificial delivery if the placenta fails to detach 30 minutes after delivery, without any other preventive measures",
+    "correct_option": "B"
+  }
+}

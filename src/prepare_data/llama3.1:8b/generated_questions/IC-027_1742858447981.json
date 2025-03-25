@@ -1,0 +1,12 @@
+{
+  "folder": "IC-027",
+  "content": "{{knowledge objective\n|Identifiant=OIC-027-18-A\n|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Rank=A\n|Title=Varicella zoster virus (VZV): prevention through vaccination\n|Description=None\n|Rubric=Management\n|Contributors=Alexandre Vivanti, Philippe Deruelle\n|Order=18}}\nSeroprevalence of varicella in pregnant women is estimated at 98.8%.\n\nVaccination against chickenpox is recommended (Vaccination calendar and vaccine recommendations 2021):\n\n- Adolescents aged between 12 and 18 who have no clinical history of chickenpox or whose history is in doubt; a prior serological check may be carried out in this case;\n\n- Women of childbearing age, particularly those planning a pregnancy and with no clinical history of chickenpox; a prior serological check may be carried out in this case. Vaccination must be preceded by a negative pregnancy test, and effective contraception for 3 months is recommended after each dose of vaccine;",
+  "question": {
+    "question": "Who should be vaccinated against chickenpox according to the Vaccination calendar and vaccine recommendations 2021?",
+    "option_a": "Pregnant women with a clinical history of chickenpox",
+    "option_b": "Women of childbearing age, particularly those planning a pregnancy and with no clinical history of chickenpox",
+    "option_c": "Adolescents aged between 12 and 18 with a clinical history of chickenpox",
+    "option_d": "Men of all ages who have never had chickenpox",
+    "correct_option": "B"
+  }
+}

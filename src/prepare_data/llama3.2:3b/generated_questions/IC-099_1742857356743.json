@@ -1,0 +1,41 @@
+{
+  "folder": "IC-099",
+  "content": "{{knowledge objective\n|Identifiant=OIC-099-17-B\n|Item_parent=Migraine, trigeminal neuralgia and facial pain\n|Item_parent_short=Migraine, trigeminal neuralgia and facial pain\n|Rank=B\n|Title=From a video interview, evoke the diagnosis of migraine, facial vascular pain, trigeminal neuralgia.\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=17}}\nPlease refer to the CEN website: www.cen-neurologie.fr where videos are available.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the term for the diagnosis of migraine, facial vascular pain, and trigeminal neuralgia?",
+        "description": "From a video interview, evoke the diagnosis of migraine, facial vascular pain, trigeminal neuralgia.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Trigeminal neuralgia syndrome",
+        "description": "A condition characterized by severe facial pain, often triggered by light touch or movement."
+      },
+      "option_b": {
+        "title": "Migraine with aura",
+        "description": "A type of migraine that is accompanied by neurological symptoms such as visual disturbances or numbness."
+      },
+      "option_c": {
+        "title": "Facial vascular headache",
+        "description": "A type of headache that is caused by inflammation of the blood vessels in the face."
+      },
+      "option_d": {
+        "title": "Trigeminal neuralgia diagnosis",
+        "description": "A term that refers to the process of diagnosing trigeminal neuralgia, a condition that affects the trigeminal nerve."
+      },
+      "correct_option": {
+        "title": "A",
+        "description": ""
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

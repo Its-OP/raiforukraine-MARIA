@@ -1,0 +1,12 @@
+{
+  "folder": "IC-234",
+  "content": "{{knowledge objective\n|Identifiant=OIC-234-23-B\n|Item_parent=Adult heart failure\n|Item_parent_short=Adult heart failure\n|Rank=B\n|Title=Know the principles of treatment of cardiogenic shock\n|Description=Know the principles of inotropic and diuretic treatment,\n|Rubric=Management\n|Contributors=Olivier Huttin\n|Order=23}}\nIn the event of cardiogenic shock (blood pressure < 90 mmHg, oliguria, skin mottling)\n\n- Hospitalisation in intensive care or medical intensive care\n\n- urinary catheter,\n\n- invasive blood pressure monitoring (radial catheter).\n\n- Assess blood volume and adapt treatment: filling if hypovolaemia, diuretics if extracellular hyperhydration (signs of overload).\n\n- administration of inotropes and catecholamine\n\no as a first-line treatment: infusion of dobutamine (beta-1 agonist), the positive inotropic effect of which can be seen in the following studies\n\no association in 2nd line with noradrenaline (predominantly alpha agonist) peripheral vasoconstriction in the event of vasoplegia\n\no other: levosimendan (sensitiser of contractile proteins to calcium, with both inotropic and vasodilatory properties) in patients who cannot be weaned off inotropes and for whom there is no alternative project (assistance, transplant).\n\n- Treatment of the aetiology or triggering factor (e.g. revascularisation in the event of a heart attack, treatment of a rhythm disorder)\n\n- If there is no response to treatment, the following may be discussed:\n\no Intra-aortic counterpulsation in myocardial infarction\n\no circulatory assistance (short term ECMO, or longer term uni- or biventricular assistance),\n\nan artificial heart or an emergency heart transplant.",
+  "question": {
+    "question": "In the event of cardiogenic shock, which inotrope is typically used as a first-line treatment?",
+    "option_a": "Noradrenaline (predominantly alpha agonist)",
+    "option_b": "Levosimendan (sensitiser of contractile proteins to calcium, with both inotropic and vasodilatory properties)",
+    "option_c": "Dobutamine (beta-1 agonist)",
+    "option_d": "All of the above can be used as first-line treatment",
+    "correct_option": "C"
+  }
+}

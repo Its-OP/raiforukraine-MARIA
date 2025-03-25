@@ -1,0 +1,46 @@
+{
+  "folder": "IC-161",
+  "content": "{{knowledge objective\n|Identifiant=OIC-161-11-A\n|Item_parent=Urinary infections in children and adults\n|Item_parent_short=Urinary infections in children and adults\n|Rank=A\n|Title=Know how to treat simple acute pyelonephritis\n|Description=None\n|Heading=Management\n|Contributors=Maxime Vall\u00e9e, Alice Faure\n|Order=11}}\n\n\n\n\u25cf Except in special cases of excessive vomiting preventing the use of oral antibiotics or social isolation preventing outpatient treatment, simple ANP must be treated as an outpatient.\n\n\u25cf First-line antibiotic treatment is based on fluoroquinolones for 7 days (unless antibiotics in this class have been taken within 3 months).\n\n\u25cf In rare cases of uncomplicated ANP requiring hospital management, treatment with IV C3G should be preferred and will be adapted after the ECBU.\n\n\u25cf Progress should be rapidly satisfactory within 48-72 hours; in the event of failure, imaging must be performed and the patient admitted to hospital.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the recommended duration of first-line antibiotic treatment for simple acute pyelonephritis?",
+        "description": "The duration of antibiotic treatment for simple acute pyelonephritis",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "7 days",
+        "description": "The duration of antibiotic treatment for simple acute pyelonephritis",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "14 days",
+        "description": "The duration of antibiotic treatment for simple acute pyelonephritis",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "3 months",
+        "description": "The duration of antibiotic treatment for simple acute pyelonephritis",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Until symptoms resolve",
+        "description": "The duration of antibiotic treatment for simple acute pyelonephritis",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct option letter",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

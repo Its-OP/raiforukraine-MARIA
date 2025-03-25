@@ -1,0 +1,45 @@
+{
+  "folder": "IC-242",
+  "content": "{{knowledge objective\n|Identifiant=OIC-242-04-A\n|Item_parent=Hyperthyroidism\n|Item_parent_short=Hyperthyroidism\n|Rank=A\n|Title=Knowing the clinical signs suggestive of an acute thyrotoxic crisis\n|Description=None\n|Rubric=Identification of the emergency\n|Contributors=Dr Camille Buffet,Dr Magalie Haissaguerre\n|Order=4}}\n\nIt is exceptional, occurring mainly after thyroidectomy in the absence of medical preparation. It is an exacerbation of the symptoms of hyperthyroidism, with fever, dehydration, cardiovascular and neuropsychological disorders that can be life-threatening.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is an acute thyrotoxic crisis?",
+        "description": "A rare but life-threatening complication of hyperthyroidism",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "A sudden worsening of hyperthyroidism symptoms",
+        "description": "Occurring mainly after thyroidectomy in the absence of medical preparation",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "A rare complication of thyroidectomy",
+        "description": "Causing severe hyperthyroidism symptoms and potentially life-threatening",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "A rare exacerbation of hyperthyroidism symptoms",
+        "description": "Causing fever, dehydration, and cardiovascular disorders",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "A rare complication of hyperthyroidism treatment",
+        "description": "Causing severe symptoms and potentially life-threatening",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "A single letter indicating the correct option"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

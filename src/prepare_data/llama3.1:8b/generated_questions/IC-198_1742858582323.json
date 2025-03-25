@@ -1,0 +1,12 @@
+{
+  "folder": "IC-198",
+  "content": "{{knowledge objective\n|Identifiant=OIC-198-16-B\n|Item_parent=Microcrystalline arthropathies\n|Item_parent_short=Microcrystalline arthropathies\n|Rank=B\n|Title=Knowing the risk of excess mortality in untreated gout\n|Description=U-shaped curve\n|Heading=Monitoring and/or prognosis\n|Contributors=\n|Order=16}}\n- Gout must be treated in view of its associated cardiovascular mortality.\n\n- However, hypouricaemia also carries a risk of increased mortality.",
+  "question": {
+    "question": "What is a significant consideration when managing gout?",
+    "option_a": "Gout only increases the risk of kidney damage",
+    "option_b": "Hypouricaemia is associated with a U-shaped curve of increased mortality risk",
+    "option_c": "Gout treatment has no impact on cardiovascular mortality",
+    "option_d": "Gout only affects joints and has no systemic consequences",
+    "correct_option": "B"
+  }
+}

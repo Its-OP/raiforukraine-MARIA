@@ -1,0 +1,46 @@
+{
+  "folder": "IC-024",
+  "content": "{{knowledge objective\n|Identifiant=OIC-024-22-A\n|Item_parent=Main complications of pregnancy.\n|Item_parent_short=Main complications of pregnancy.\n|Rank=A\n|Title=Knowing the measures to prevent the threat of premature birth.\n|Description=Primary and secondary prevention\n|Heading=Management\n|Contributors=Paul Berveiller,Philippe Deruelle\n|Order=22}}\n\n'''Primary prevention:'''\n\n- eliminating risk factors (tobacco, toxic substances, stopping work [[Prevention of foetal risks SD-312]]; [[Prevention of tobacco-related risks SD-314]]; [[Prevention of occupational risks SD-315|Prevention of alcohol-related risks SD-313;]]) )\n\n- if there is a history of AP or FCT (morphological assessment of the uterine cavity, bacteriological investigation and treatment of bacterial vaginosis)\n\n'''Secondary prevention:'''\n\n- If there is a history of premature delivery, the decision to perform a cerclage will depend on the type of history and the current pregnancy.\n\n- No preventive cerclage simply because of a history of conisation, uterine malformation, twin pregnancy or an isolated history of premature delivery.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Question",
+        "description": "What is the correct reason for performing a cerclage in a pregnancy with a history of premature delivery?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Option A",
+        "description": "Because of a history of conisation",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Option B",
+        "description": "Because of a history of twin pregnancy",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Option C",
+        "description": "Because of a history of premature delivery and the current pregnancy",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Option D",
+        "description": "Because of a history of AP or FCT",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "C",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

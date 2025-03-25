@@ -1,0 +1,12 @@
+{
+  "folder": "IC-261",
+  "content": "{{knowledge objective\n|Identifiant=OIC-261-18-B\n|Item_parent=Glomerular nephropathy\n|Item_parent_short=Glomerular nephropathy\n|Rank=B\n|Title=Know the principles of treatment of the main glomerulopathies (other than SNLGM)\n|Description=Know the principles of nephroprotective treatment of proteinuric nephropathies, GEM and NIgA, know that the principle of treatment of GNRP is based on corticoids and immunosuppressants, know the principles of treatment of a GNA.\n|Rubric=Management\n|Contributors=Eric Daugas,Bruno Moulin\n|Order=18}}\n\n'''F.     Treatment of the main glomerular nephropathies (other than SNLGM)'''\n\n'''GEM treatment:''''\n\n*Progression of primary GEM without treatment:\n**25% of cases: spontaneous remission ;\n**50% of cases: partial remission with persistent proteinuria;\n**25% of cases: persistence of nephrotic syndrome and slowly progressive chronic renal failure;\n*Symptomatic and anti-proteinuric treatment.\n*Primary GEM with persistent nephrotic syndrome after 6 months of evolution and/or with renal failure should be treated with an immunosuppressant.\n*Treatment of secondary GEM is based on treatment of the cause.\n\n\nTreatment of primary NIgA\n\nNo treatment has been codified:\n\nsymptomatic and nephroprotective treatment +++ *corticosteroids +/- immunosuppressants are discussed in the most severe forms.\n*corticosteroids +/- immunosuppressants are discussed in the most severe forms.\n\n\n'''Treatment of GNRP'''\n\n*Therapeutic urgency\n*Symptomatic treatment (fluid and electrolyte disorders, ARF, respiratory failure, anaemia)\n*Specific treatment\n**High dose corticosteroids\n**Immunosuppressants or biotherapies (e.g. anti-CD20 antibodies)\n**Addition of plasma exchange for type I GNRP and certain severe forms of type III GNRP.\n*Associated treatments: adjuvant treatment of corticosteroid therapy, eradication of infectious sites (ENT, dental), prevention of opportunistic infections, etc.\n\n\nTreatment of acute post-infectious GN\n\n Treatment is symptomatic.\n\n'''''<br />A detailed description of the chapter is available at: <nowiki>http://cuen.fr/manuel2/spip.php?rubrique12</nowiki>'''''",
+  "question": {
+    "question": "What is the principle of treatment of GNRP?",
+    "option_a": "Corticosteroids only",
+    "option_b": "Immunosuppressants only",
+    "option_c": "High dose corticosteroids and immunosuppressants or biotherapies",
+    "option_d": "Plasma exchange only",
+    "correct_option": "C"
+  }
+}

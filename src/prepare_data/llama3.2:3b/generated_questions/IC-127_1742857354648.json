@@ -1,0 +1,46 @@
+{
+  "folder": "IC-127",
+  "content": "{{knowledge objective\n|Identifiant=OIC-127-05-A\n|Item_parent=Benign prostatic hyperpertrophy\n|Item_parent_short=Benign prostatic hypertrophy\n|Rank=A\n|Title=Know the clinical investigations for diagnosing BPH\n|Description=Evaluate the symptoms of the lower urinary tract, sexuality, perform a digital rectal examination (DRE).\n|Rubric=Positive diagnosis\n|Contributors=Alexandre Ingels, Jonathan Olivier\n|Order=5}}\n\n\n==Questioning is the key to diagnosis ==\n\n*The clinical signs sought are [[Urinary incontinence and voiding disorders in adults and the elderly|lower urinary tract symptoms 125]]\n**<u>Storage symptoms</u>: daytime and nocturnal pollakiuria, urgency.\n**<Emptying symptoms: dysuria, micturition in several stages, sensation of incomplete bladder emptying, delayed drops.\n**These symptoms are grouped together in the IPSS/35 score (0-8: not very symptomatic - 8-19: moderately symptomatic - 20-35: severe symptoms).\n\n*The frequent association of sexual symptoms with BPH or its treatment requires an assessment of sexuality in patients consulting for LUTS.\n**Urination disorders and urinary incontinence in adults and the elderly|Erectile dysfunction 125]], [[Menopause, premature ovarian failure, andropause, age-related androgen deficiency|Libido disorder 124]].\n**IEEF score 5/15\n\n=='''Clinical examination:'''==\n\n*Abdominal palpation to look for [[Acute retention of urine|globe 347]]\n*Examination of the [[Genito-scrotal pathology in boys and men|external genital organs 50]] to look for urethral meatus stenosis, phimosis, etc.].\n*A digital rectal examination to look for cancer, pain (prostatitis) and to assess the volume of the prostate.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary method of diagnosing Benign Prostatic Hyperpertrophy (BPH)?",
+        "description": "The clinical investigation(s) used to diagnose BPH",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Imaging tests such as ultrasound or CT scans",
+        "description": "Imaging tests that can visualize the prostate gland",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Blood tests to measure PSA levels",
+        "description": "Blood tests that measure prostate-specific antigen levels",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "A combination of physical examination and IPSS/35 score",
+        "description": "A comprehensive approach that includes physical examination and symptom scoring",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Electroencephalogram (EEG) to rule out neurological disorders",
+        "description": "A test that measures electrical activity in the brain",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The first letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

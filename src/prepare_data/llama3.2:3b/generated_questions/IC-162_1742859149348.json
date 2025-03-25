@@ -1,0 +1,46 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-26-B\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=B\n|Title=Photograph of a rash at the secondary syphilis stage\n|Description=PUE6-158-3\n|Rubric=Multimedia content\n|Contributors=\n|Order=26}}\n<gallery>\nFile:Secondary syphilis LISA.jpg|Palmar syphilis\n</gallery>",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a characteristic of a rash at the secondary syphilis stage?",
+        "description": "A multiple-choice question about the secondary syphilis stage",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "It is always painful",
+        "description": "A possible description of the rash, but not necessarily accurate",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "It is usually itchy",
+        "description": "A common misconception about rashes in general, but not specific to syphilis",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "It is typically located on the palms of the hands",
+        "description": "A characteristic of the palmar syphilis stage, not the secondary stage",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "It is often accompanied by fever",
+        "description": "A possible symptom of secondary syphilis, but not a characteristic of the rash itself",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct answer, indicating that the rash is often described as a maculopapular rash",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-186",
+  "content": "{{knowledge objective\n|Identifiant=OIC-186-08-B\n|Item_parent=Hypersensitivities and allergies in children and adults: physiopathological, epidemiological and diagnostic aspects and principles of treatment\n|Item_parent_short=Hypersensitivity and allergy in children and adults: pathophysiological, epidemiological and diagnostic aspects and principles of treatment\n|Rank=B\n|Title=Knowing the algorithm for the diagnostic and therapeutic management of IgE-dependent food allergy to peanuts and nuts\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=8}}\nPeanut is the food most frequently implicated in severe anaphylactic food allergy and responsible for death.\n\n- Prevalence in the general population: 1% ;\n\n- '''Allergy generally persistent''' throughout the patient's life.\n\n- Rarely associated with an allergy to other legumes;\n\n- Frequently associated with an allergy to nuts (walnuts, pistachios, cashews, hazelnuts).\n\nThe diagnosis of allergy to peanuts or nuts is based on :\n\n- history (clinical history compatible with an immediate reaction)\n\n- food category survey (consumption of peanuts and/or nuts)\n\n- skin tests (pricks) with standardised extracts or, more often, with the native food. A negative test generally rules out an allergy\n\n- Multi-allergen test (in primary care if no short-term allergic opinion is available), then specific IgE (peanut and nuts).\n\n- a provocation test to provide proof, if necessary, that the suspected food is responsible (gold standard).\n\n\nTreatment is based on the treatment of anaphylaxis during the 1st<sup>er</sup> allergic accident (see Lisa 388 fact sheet), and \"secondary prevention\" via the avoidance of the allergen and therapeutic education, (in particular by training the patient / those around him in the treatment of anaphylaxis).",
+  "question": {
+    "question": "What is the most frequently implicated food in severe anaphylactic food allergy and responsible for death?",
+    "option_a": "Tree nuts",
+    "option_b": "Peanut is the food most frequently implicated in severe anaphylactic food allergy and responsible for death",
+    "option_c": "Soy",
+    "option_d": "Shellfish",
+    "correct_option": "B"
+  }
+}

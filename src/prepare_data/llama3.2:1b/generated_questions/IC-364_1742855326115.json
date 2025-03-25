@@ -1,0 +1,12 @@
+{
+  "folder": "IC-364",
+  "content": "{{knowledge objective\n|Identifiant=OIC-364-08-B\n|Item_parent=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Item_parent_short=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Rank=B\n|Title=Know the principles of management of fractures in children\n|Description=Know the risks of cast immobilisation\n|Rubric=Management\n|Contributors=\n|Order=8}}\nTo know the therapeutic principles of fractures in children: orthopaedic treatment and its monitoring, surgical treatment and its monitoring. Know that osteosynthesis in children differs from that in adults. Know that the growth plate must be rigorously preserved during osteosynthesis in children. Know that plaster cast immobilisation is well tolerated in children and that it is also used after osteosynthesis. Know that there is no indication for physiotherapy after plaster cast immobilisation for fractures in children.",
+  "question": {
+    "question": "What is the main difference between osteosynthesis in adults and children?",
+    "option_a": "Osteosynthesis in adults involves the use of metal plates and screws, while in children it involves the use of plaster casts.",
+    "option_b": "Osteosynthesis in adults is a more complex procedure than in children, requiring a higher level of expertise.",
+    "option_c": "Osteosynthesis in adults is more effective than in children in terms of healing time.",
+    "option_d": "Osteosynthesis in adults is not typically used in children due to the risk of complications.",
+    "correct_option": "option_c"
+  }
+}

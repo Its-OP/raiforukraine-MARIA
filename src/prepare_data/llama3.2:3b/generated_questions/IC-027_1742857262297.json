@@ -1,0 +1,11 @@
+{
+  "folder": "IC-027",
+  "content": "{{knowledge objective\n|Identifiant=OIC-027-27-A\n|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Rank=A\n|Title=Knowing the diagnosis of antierythrocyte alloimmunisation\n|Description=Biological tests and their indications for diagnosing alloimmunisation\n|Rubric=Positive diagnosis\n|Contributors=Alexandre Vivanti, Philippe Deruelle\n|Order=27}}\nAll pregnant women should have their rhesus group phenotype determined and irregular agglutinins (antibodies) tested (RAI) during the 1st trimester of pregnancy.\n\nIn RhD-negative women (Rh-) or women who have previously received blood transfusions, IATs will be prescribed again at the 6th, 8th or 9th month.\n\nIn the event of a positive IAT, the antibody must be identified and titrated. Identification is used to determine whether the antibody in question is a risk factor for foetal or neonatal complications (anti-D in particular, but also anti-Kell, anti-c, etc.). Titration and weight assay are used to assess the affinity and quantity of the antibody.\n\n'''312. [[Prevention of foetal risks SD-312|Prevention of foetal risks]]''''",
+  "question": {
+    "question": "What is the purpose of testing for irregular agglutinins (antibodies) during pregnancy?",
+    "option_a": "To determine the risk of foetal or neonatal complications due to RhD-negative status",
+    "option_b": "To identify the presence of anti-D antibodies and assess their affinity and quantity",
+    "option_c": "To monitor the development of the foetus during the first trimester",
+    "option_d": "To administer blood transfusions to pregnant women with RhD-negative status"
+  }
+}

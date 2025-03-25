@@ -1,0 +1,32 @@
+{
+  "folder": "IC-260",
+  "content": "{{knowledge objective\n|Identifiant=OIC-260-04-B\n|Item_parent=Hematuria\n|Item_parent_short=Hematuria\n|Rank=B\n|Title=Knowing the localising value of macroscopic haematuria\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Charles Dariane, Bruno Moulin\n|Order=4}}\n\n<br />\n\n\nMacroscopic haematuria of urological origin may be isolated or accompanied by pain, clots or burning.\n\n*Macroscopic haematuria, the chronology of the haematuria during micturition has a localising value:\n**'''Initial haematuria''': urethro-prostatic or bladder neck origin.\n**Terminal haematuria'' : bladder origin.\n**Total haematuria'' (the entire duration of micturition): may be of renal origin (urological or nephrological) but has less localising value, especially in the case of abundant haematuria.\n\nMacroscopic haematuria of nephrological origin is complete, without clots, pain or urinary burning. The nephrological origin is often confirmed by the presence of associated proteinuria.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the localising value of macroscopic haematuria during micturition?",
+        "description": "The type of haematuria that has a localising value during micturition",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Terminal haematuria",
+        "description": "Haematuria that occurs at the end of micturition",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Initial haematuria",
+        "description": "Haematuria that occurs at the beginning of micturition",
+        "type": "string"
+      },
+      "option_c": "Both A and B",
+      "option_d": "Haematuria that occurs during the entire duration of micturition",
+      "correct_option": "option_b"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_d"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-074",
+  "content": "{{knowledge objective\n|Identifiant=OIC-074-05-B\n|Item_parent=Prescription and monitoring of psychotropic drugs (see item 330)\n|Item_parent_short=Prescription and monitoring of psychotropic drugs (see item 330)\n|Rank=B\n|Title=Antipsychotics: knowing the rules for correct use at all stages of life, particularly in elderly patients and/or those suffering from dementia.\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=5}}\nThe ''pre-therapeutic assessment'' prior to antipsychotic treatment includes a search for contraindications (ECG), any pregnancy, associated treatments and screening for metabolic disorders.\n\n'''Rules for the proper use''' of antipsychotics :\n\n* First-line molecules: second-generation antipsychotics;\n* Choice of drug based on response to previous treatments, contraindications and patient preferences;\n* Favour the drug with the fewest side effects;\n* Do not combine two QT-prolonging drugs;\n* Look for monotherapy and the minimum effective dose;\n* In emergencies, reserve the intramuscular route for states of intense agitation and avoid dose escalation or repetition;\n* Monitor clinical efficacy and adverse effects.",
+  "question": {
+    "question": "What is the appropriate first-line treatment for antipsychotic medication?",
+    "option_a": "Choice of drug based on response to previous treatments and patient preferences",
+    "option_b": "Do not combine two QT-prolonging drugs",
+    "option_c": "In emergencies, reserve the intramuscular route for states of intense agitation",
+    "option_d": "Look for monotherapy and the minimum effective dose",
+    "correct_option": "option_b"
+  }
+}

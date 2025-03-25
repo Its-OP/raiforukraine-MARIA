@@ -1,0 +1,46 @@
+{
+  "folder": "IC-127",
+  "content": "{{knowledge objective\n|Identifiant=OIC-127-04-B\n|Item_parent=Benign prostatic hypertrophy\n|Item_parent_short=Benign prostatic hypertrophy\n|Rank=B\n|Title=Knowing chronic complications\n|Description=Chronic urine retention, stasis lithiasis, obstructive renal failure, groin hernia\n|Section=Follow-up and/or prognosis\n|Contributors=Alexandre Ingels, Jonathan Olivier\n|Order=4}}\n\n\n==Chronic complications of BPH should be investigated and treated surgically.\n\n*Chronic retention of urine is suggested by the presence of a bladder globe which is not painful. In extreme cases, this retention leads to overflow micturition with urine leakage. It is confirmed by a reno-vesico-prostatic ultrasound (bladder with post-micturition residue > 150 cc). A differential diagnosis such as detrusor hypoactivity must be ruled out. The obstructive or acontractile origin of chronic retention can be differentiated by a dynamic urological assessment.\n\n*[[Urinary lithiasis|'''Stasis lithiasis''' 265]] is linked to the presence of a chronic post-mictional residue which encourages the crystallisation of urine. It leads to an increase in UABS and, more specifically, dysuria, and may be complicated by urinary tract infections or macroscopic haematuria. It is confirmed by renal-vesicoprostatic ultrasound (hyperechoic image).\n\n*The diagnosis of chronic renal failure in adults and children|''obstructive renal failure''' 264]] complicating BPH is based on renal-vesicoprostatic ultrasound, which shows bilateral dilatation of the pyelo-caliceal cavities, with alteration of the renal parenchyma, upstream of the subvesical obstruction, and an increase in creatinine levels in the biological work-up. There may be clinical signs of renal failure (oedema, weight gain, hypertension, nausea, etc.).\n\n*Disorders of micturition and urinary incontinence in adults and the elderly|dysuria 125]] linked to the symptom of bladder emptying is associated with chronic abdominal thrusts which may be complicated by a groin hernia. Management is surgical and must be carried out after the BPH has been treated (deobstruction).",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Question",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Option A",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Option B",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Option C",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Option D",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

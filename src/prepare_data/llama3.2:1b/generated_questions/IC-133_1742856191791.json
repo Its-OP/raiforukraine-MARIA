@@ -1,0 +1,22 @@
+{
+  "folder": "IC-133",
+  "content": "{{knowledge objective\n|Identifiant=OIC-133-06-B\n|Item_parent=Autonomy and dependence in the elderly\n|Item_parent_short=Autonomy and dependence in elderly people\n|Rank=B\n|Title=Knowing the consequences of dependency on patients and carers\n|Description=Knowing the physical, psychological and social consequences of dependency for individuals and carers\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=6}}\n \n{| class=\"wikitable\"\n| rowspan=\"2\" |\n\n\n'''Consequences'''\n| rowspan=\"2\" |\n\n\n'''For the patient'''\n|\n\n\n'''For the carer''''\n|-\n|''The main consequence is''\n\n'''''the exhaustion of the carer,''''' ''with for''.\n\n''consequences:''\n|-\n|'''Physical'''\n|<nowiki>- Overall reduction in capacity</nowiki>.\n\nIntrinsic factors hindering\n\nactivities of daily living :\n\n- reduced cognitive capacity,\n\n- reduction in\n\n- locomotion\n\n- reduced vitality\n\n- Risk of abuse\n|<Increased risk</nowiki>.\n\ncardiovascular,\n\n- Weight loss, asthenia,\n\n- Neglecting your own health,\n\nincluding :\n\n- diagnostic delay,\n\n- screening not carried out\n\norganised,\n\n- poor compliance with follow-up\n\nnecessary.\n|-\n|'''Psychological'''\n|<nowiki>- Psychological suffering</nowiki>\n\n- Risk of abuse\n\n- Changing family dynamics\n\nwith, for example, infantilisation\n|<Psychological suffering</nowiki>.\n\n- Psychological exhaustion\n\n- Over-investment or disinvestment\n|-\n|'''Social'''\n|<Social isolation</nowiki>\n\n- Family isolation\n\n- Change of status and place\n\nin the company\n\n- Difficulty accessing healthcare facilities,\n\nleisure activities, shops\n\n- Possible financial difficulties for\n\nhome improvements, or even\n\nhome abandonment\n\n- draughty\" house: passage of\n\nnumerous medical and social workers\n|<Family difficulties and conflicts</nowiki>\n\n- Reduced time available for work\n\npersonal life :\n\n- Impact on employment\n\n- Impact on leisure activities\n\n- Impact on her\n\nsocial and family interactions\n|}\n<br />",
+  "question": {
+    "properties": {
+      "question": "What is the main consequence of dependency on patients and carers?",
+      "option_a": "The patient's physical health is improved.",
+      "option_b": "The patient's social isolation is increased.",
+      "option_c": "The patient's psychological suffering is reduced.",
+      "option_d": "The patient's physical health is improved, but the psychological suffering is increased.",
+      "correct_option": "option_d"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

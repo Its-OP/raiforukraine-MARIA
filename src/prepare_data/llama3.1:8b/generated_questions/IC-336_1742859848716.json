@@ -1,0 +1,12 @@
+{
+  "folder": "IC-336",
+  "content": "{{knowledge objective\n|Identifiant=OIC-336-09-A\n|Item_parent=Non-traumaticoma in adults and children\n|Item_parent_short=Non-traumatic coma in adults and children\n|Rank=A\n|Title=Know how to prescribe complementary examinations to be carried out in an emergency in adults and children.\n|Description=Capillary glycaemia, knowing how to order a simple biological check-up (glycaemia, natremia, blood gases), a brain scan, knowing how to perform a lumbar puncture. Know how to prescribe them in the appropriate order.\n|Rubrique= Complementary examinations\n|Contributors=Nicolas Weiss\n|Order=9}}\n\n- Capillary glycaemia verified by plasma glycaemia\n\n- Standard ionogram with natraemia, calcaemia, urea, creatinine\n\n- Blood gases\n\n- Liver check-up\n\n- Discuss blood/urine toxicology analysis depending on the anamnestic context (plan to take samples for secondary analysis depending on the forensic context).\n\n- Emergency brain scan if :\n\n- location sign\n\n- possibly traumatic coma\n\no strong suspicion of meningeal haemorrhage\n\no suspected ischaemic stroke, but brain MRI is preferable\n\no coma with no obvious cause or no improvement after appropriate treatment\n\n- Lumbar puncture if :\n\no Context of meningitis\n\no Context of meningoencephalitis or encephalitis\n\no Febrile coma",
+  "question": {
+    "question": "What is the appropriate order for prescribing complementary examinations in an emergency for adults and children?",
+    "option_a": "Capillary glycaemia, followed by a standard ionogram, then blood gases, and finally a liver check-up",
+    "option_b": "Blood gases, followed by capillary glycaemia, then a standard ionogram, and finally a lumbar puncture",
+    "option_c": "A liver check-up, followed by capillary glycaemia, then a standard ionogram, and finally blood gases",
+    "option_d": "A standard ionogram, followed by capillary glycaemia, then blood gases, and finally a lumbar puncture",
+    "correct_option": "A"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "folder": "IC-039",
+  "content": "{{knowledge objective\n|Identifiant=OIC-039-09-A\n|Item_parent=Medical assistance for procreation: the main biological, medical and ethical aspects\n|Item_parent_short=Medical assistance in procreation: the main biological, medical and ethical aspects\n|Rank=A\n|Title=Knowing the main indications for gamete and embryo donation\n|Description=None\n|Rubric=Etiologies\n|Contributors=Patricia Fauque,Fabrice Guerif,Charlotte Sonigo,Geoffroy Robin,Pierre-Emmanuel Bouet,St\u00e9phanie Huberlant,Nathalie Rives\n|Order=9}}\n\n'''The main indications for egg or sperm donation are:'''\n\n*Severe infertility or even medically confirmed sterility (premature ovarian failure, azoospermia, other very severe sperm damage).\n*Risk of transmitting a particularly serious genetic disease to the unborn child.\n*Risk of transmitting a particularly serious viral disease to the other member of the couple.\n*If intraconjugal MPA fails, in certain cases an egg or sperm donation may be offered.\n*Female couple and unmarried woman\n\n\n'''The main indications for embryo reception/double donation are:'''\n\n*Severe double infertility or double sterility for infertile couples\n*Risk of transmitting a particularly serious genetic disease to the unborn child.\n*No wish to use gamete donation AMP\n*Female couple and unmarried woman with severe infertility or infertility of the woman who will carry the child.\n\n<br />",
+  "question": {
+    "properties": {
+      "question": "What are the main indications for gamete and embryo donation?",
+      "option_a": "Severe infertility or medically confirmed sterility, Risk of transmitting a particularly serious genetic disease to the unborn child, Risk of transmitting a particularly serious viral disease to the other member of the couple, Female couple and unmarried woman",
+      "option_b": "Severe double infertility or double sterility for infertile couples, Risk of transmitting a particularly serious genetic disease to the unborn child, Female couple and unmarried woman with severe infertility or infertility of the woman who will carry the child, Risk of transmitting a particularly serious viral disease to the other member of the couple",
+      "option_c": "Severe infertility or infertility of the woman who will carry the child, Risk of transmitting a particularly serious viral disease to the other member of the couple, Female couple and unmarried woman, Risk of transmitting a particularly serious genetic disease to the unborn child",
+      "option_d": "Severe double infertility or double sterility for infertile couples, Risk of transmitting a particularly serious viral disease to the other member of the couple, Female couple and unmarried woman with severe infertility or infertility of the woman who will carry the child, Risk of transmitting a particularly serious genetic disease to the unborn child"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ],
+    "correct_option": "option_a"
+  }
+}

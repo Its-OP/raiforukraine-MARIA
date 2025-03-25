@@ -1,0 +1,12 @@
+{
+  "folder": "IC-299",
+  "content": "{{knowledge objective\n|Identifiant=OIC-299-07-A\n|Item_parent=Intracranial tumours\n|Item_parent_short=Intra-cranial tumours\n|Rank=A\n|Title=Describe the systematic search for primary cancer in the presence of brain metastases\n|Description=Describe the systematic search for primary cancer in the presence of cerebral metastasis\n|Rubric=Positive diagnosis\n|Contributors=Dr Thi\u00e9baud PICART (Hospices Civils de Lyon),Dr Pierre ANTH\u00c9RIEU (Toulouse University Hospital),Pr Fran\u00e7ois VASSAL (Saint-Etienne University Hospital)\n|Order=7}}\n\n'''Extension work-up:''' look for primary cancer (and other extra-encephalic systemic metastases)\n\n- '''Clinical:'''\n\no Skin examination (melanoma)\n\no Pulmonary auscultation\n\no Breast palpation, adenopathy\n\n- '''Imaging:'''\n\no ''Thoracic-abdominal-pelvic scan'', with injection of contrast medium\n\no +/- fluorodeoxyglucose PET scanner (<sup>18</sup>F)\n\no Mammography in women",
+  "question": {
+    "question": "What is the next step in the systematic search for primary cancer in the presence of brain metastases?",
+    "option_a": "Perform a thorough medical history and physical examination",
+    "option_b": "Order a CT scan of the thorax, abdomen, and pelvis with contrast",
+    "option_c": "Conduct a mammography in women over 40 years old",
+    "option_d": "Schedule a follow-up appointment with a specialist in 3 months",
+    "correct_option": "B"
+  }
+}

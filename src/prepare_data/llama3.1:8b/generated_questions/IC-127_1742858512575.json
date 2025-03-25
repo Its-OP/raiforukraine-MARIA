@@ -1,0 +1,12 @@
+{
+  "folder": "IC-127",
+  "content": "{{knowledge objective\n|Identifiant=OIC-127-02-A\n|Item_parent=Benign prostatic hypertrophy\n|Item_parent_short=Benign prostatic hypertrophy\n|Rank=A\n|Title=Knowing the diagnostic process\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Alexandre Ingels, Jonathan Olivier\n|Order=2}}\n\n \nBPH should be suspected in the presence of [[Genito-scrotal pathology in boys and men|lower urinary tract symptoms (LUTS) 50]], and is the most common cause in men over 50.\n \nA positive diagnosis is made on the basis of the clinical context, questioning, the absence of any other cause, and the result of the digital rectal examination (DRE).\n\n\nIt is important to be aware of the differential diagnoses in the presence of SBAU, in particular to look for a history of haematuria, which should lead to a search for another cause, risk factors for urethral stricture (history of urethritis and trauma to the urethra), signs suggestive of polyuria ([[Diabetes mellitus types 1 and 2 in children and adults. Complications|diabetes mellitus 247]], sleep apnoea, [[Adult heart failure|heart failure 234]], [[Eating disorders in adolescents and adults (see item 253)|potomania 71]]...).",
+  "question": {
+    "question": "What is the most common cause of lower urinary tract symptoms (LUTS) in men over 50?",
+    "option_a": "Diabetes mellitus",
+    "option_b": "Benign prostatic hypertrophy (BPH)",
+    "option_c": "Urethral stricture",
+    "option_d": "Heart failure",
+    "correct_option": "B"
+  }
+}

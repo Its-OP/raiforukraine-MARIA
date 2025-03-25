@@ -1,0 +1,12 @@
+{
+  "folder": "IC-136",
+  "content": "{{knowledge objective\n|Identifiant=OIC-136-01-B\n|Item_parent=Local, locoregional and general anaesthesia\n|Item_parent_short=Local, locoregional and general anaesthesia\n|Rank=B\n|Intitle=Know the number of procedures performed annually, the five most frequent procedures\n|Description=None\n|Topic=Epidemiology\n|Contributors=\n|Order=1}}\nMore than 10 million anaesthetic procedures are carried out in France every year. More than 50% of these are performed on an outpatient basis, with a long-term target of 70%. The 5 most frequent procedures are :\n\n- digestive endoscopies\n\n- vaginal deliveries and caesarean sections\n\n- operations on the crystalline lens\n\n- surgery of the mouth and teeth\n\n- carpal tunnel releases",
+  "question": {
+    "question": "How many anaesthetic procedures are carried out in France every year?",
+    "option_a": "More than 10 million",
+    "option_b": "More than 50% of these are performed on an outpatient basis",
+    "option_c": "70% of the 5 most frequent procedures",
+    "option_d": "More than 50% of 5",
+    "correct_option": "option_b"
+  }
+}

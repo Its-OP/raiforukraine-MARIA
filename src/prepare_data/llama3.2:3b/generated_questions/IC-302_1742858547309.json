@@ -1,0 +1,46 @@
+{
+  "folder": "IC-302",
+  "content": "{{knowledge objective\n|Identifiant=OIC-302-13-A\n|Item_parent=Cutaneous, epithelial and melanoma tumours\n|Item_parent_short=Cutaneous, epithelial and melanoma tumours\n|Rank=A\n|Title=Knowing how to prevent melanoma\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=13}}\nPrimary prevention consists of reducing the only known environmental factor responsible for melanoma: UV exposure.\n\nThis means encouraging photoprotection by limiting exposure during hours of strong sunlight and giving priority to clothing protection.\n\n\nSecondary prevention aims to improve prognosis through early detection of melanoma. This involves training doctors, who must know how to examine their patient's integument in its entirety, spot suspicious lesions and refer to an expert correspondent in case of doubt.\n\nIt is essential to combine this with information and education on early melanoma screening for carers (nurses, pharmacists, physiotherapists, etc.), the general population and those most at risk of melanoma.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Prevention of Melanoma",
+        "description": "What is the primary goal of primary prevention for melanoma?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Early detection of melanoma",
+        "description": "Early detection of melanoma is the primary goal of primary prevention.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Reducing UV exposure",
+        "description": "Reducing UV exposure is the primary goal of primary prevention.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Improving prognosis through early detection",
+        "description": "Improving prognosis through early detection is the primary goal of secondary prevention.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Increasing melanoma screening",
+        "description": "Increasing melanoma screening is the primary goal of primary prevention.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The correct letter indicating the primary goal of primary prevention.",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

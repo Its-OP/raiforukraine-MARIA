@@ -1,0 +1,22 @@
+{
+  "folder": "IC-197",
+  "content": "{{knowledge objective\n|Identifiant=OIC-197-07-B\n|Item_parent=Spondyloarthritis\n|Item_parent_short=Spondyloarthritis\n|Rank=B\n|Title=Knowing the clinical, biological and radiological criteria\n|Description=Know the ASAS 2009 classification criteria\n|Topic=Positive diagnosis\n|Contributors=\n|Order=7}}\nSeveral classification criteria have been proposed:\n\n- Amor criteria\n\n- ESSG criteria\n\n- ASAS criteria (the most recent and most widely used) classifying spondyloarthritis as axial (in cases of spinal pain lasting more than 3 months and starting before the age of 45; Figure 1) or peripheral (Figure 2).\n\n[https://videotheque.uness.fr/w/uCda8AuNGkkBKJVzCiPjkB View the recorded ppt on imaging of item 197 by the College of Radiologists (CERF)]\n[[File:Figure 1 ASAS 2009.png|vignette|'''Figure 1. 2009 ASAS classification criteria for axial spondyloarthritis in patients with spinal pain for more than 3 months and an age of onset less than 45 years.''']]\n[[File:Figure 2 ASAS 2009.png|thumb|'''Figure 2. ASAS classification criteria for peripheral spondyloarthritis.''']]]\n<br />",
+  "question": {
+    "properties": {
+      "question": "What is the primary classification criteria for spondyloarthritis?",
+      "option_a": "The ASAS 2009 criteria",
+      "option_b": "The ESSG criteria",
+      "option_c": "The Amor criteria",
+      "option_d": "The ASAS criteria",
+      "correct_option": "option_a"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-06-A\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=A\n|Intitle=To know the age of onset, the percentage of addicts and tobacco-related mortality worldwide and in France, and the risks.\n|Description=Know\n|Rubric=Epidemiology\n|Contributors=\n|Order=6}}\n\n\n*The average age at which the first cigarette is smoked is stable at 14, with daily smoking at 15.\n*30.4% of people (aged 18 to 75) say they smoke tobacco.\n**men 34.6%\n**women 26.5%\n*Tobacco intoxication is responsible for one in ten deaths worldwide.\n*In France: 1<sup>rst</sup> cause of avoidable death = 75,000 deaths/year\n*The <u>duration of intoxication</u> is the <u>most important risk factor</u>.\n**doubling the dose => risk of cancer x 2\n**doubling the duration => cancer risk x 23)\n*''49% of regular smokers show signs of dependence (rank B)''",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the most important risk factor for tobacco addiction?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Duration of intoxication",
+        "description": "The longer you smoke, the higher your risk of addiction",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Increasing the dose",
+        "description": "Doubling the dose of tobacco increases the risk of cancer by 2 times",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Age of onset",
+        "description": "Starting to smoke at a young age increases the risk of addiction",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Percentage of smokers",
+        "description": "30.4% of people smoke tobacco, but this is not a risk factor",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct answer",
+        "description": "The correct answer is a single letter",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

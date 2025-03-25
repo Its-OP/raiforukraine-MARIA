@@ -1,0 +1,12 @@
+{
+  "folder": "IC-108",
+  "content": "{{knowledge objective\n|Identifiant=OIC-108-17-B\n|Item_parent=Confusion, dementia. (see item 132)\n|Item_parent_short=Confusion, dementia. (see item 132)\n|Rank=B\n|Title=Knowing the indications for nuclear medicine examinations in dementia.\n|Description=Cerebral perfusion imaging, Dopamine transporter scintigraphy, 18FDG PET scan\n|Section=Additional examinations\n|Contributors=\n|Order=17}}\nIndications '''([[Request for an imaging test SDD-231|request for an imaging test]])''' for perfusion scintigraphy or FluoroDeoxyGlucose Positron Emission Tomography (FDG-PET) in neurocognitive disorders: all '''forms of difficult diagnosis''' :\n\n- patients seen in the early stages of minor TNC\n\n- atypical clinical profile\n\n- early-onset dementia.\n\nHypoperfusion identified by perfusion scintigraphy and hypometabolism demonstrated by FDG-PET have the same topography:\n\n- in Alzheimer's disease: hypoperfusion/hypometabolism of the associative and medial temporal cortical regions (see item 132 positive diagnosis of AD)\n\n- in frontotemporal lobar degeneration (FTLD): hypoperfusion/hypometabolism in the frontal, anterior temporal and/or cingulate regions (see item 132 question Frontotemporal lobar degeneration)\n\nIndication '''([[Request for an imaging examination SDD-231|request for an imaging examination]])''' of Dopamine transporter scintigraphy in neurocognitive disorders: diagnostic hesitation between diffuse Lewy body disease (pathological examination showing dopaminergic denervation of the striatum) and Alzheimer's disease (normal examination). (cf item 132 question Lewy body disease)",
+  "question": {
+    "question": "What are the common indications for nuclear medicine examinations in dementia?",
+    "correct_option": "Alzheimer's disease",
+    "distractor1": "Diffuse Lewy body disease",
+    "distractor2": "Frontotemporal lobar degeneration",
+    "distractor3": "Cerebral perfusion imaging",
+    "distractor4": "Dopamine transporter scintigraphy"
+  }
+}

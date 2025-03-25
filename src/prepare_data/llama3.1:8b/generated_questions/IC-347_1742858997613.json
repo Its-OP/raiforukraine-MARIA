@@ -1,0 +1,12 @@
+{
+  "folder": "IC-347",
+  "content": "{{knowledge objective\n|Identifiant=OIC-347-08-A\n|Item_parent=Acute urine retention\n|Item_parent_short=Acute urine retention\n|Rank=A\n|Title=Knowing the indications and first-line biological and imaging examinations\n|Description=None\n|Rubric=Additional examinations\n|Contributors=Jonathan Olivier\n|Order=8}}\n\n\n*Additional tests are carried out after the bladder has been drained.\n\n*Examinations to check for complications:\n**Creatininemia\n**Blood ionogram (hyperkalaemia, hyponatraemia, acidosis)\n**Upper urinary tract ultrasound (to look for dilatation)\n\n*Etiological examinations:\n**systematic ECBU\n**Bladder and prostate ultrasound (bladder tumour/lithiasis, detrusor thickening, prostate volume)\n\n<br />",
+  "question": {
+    "question": "What type of examinations are typically carried out after the bladder has been drained in the case of acute urine retention?",
+    "option_a": "Only etiological examinations to determine the cause of the retention",
+    "option_b": "Examinations to check for complications such as creatininemia and blood ionogram",
+    "option_c": "Only examinations to check for complications, including upper urinary tract ultrasound",
+    "option_d": "A combination of both etiological and examinations to check for complications",
+    "correct_option": "B"
+  }
+}

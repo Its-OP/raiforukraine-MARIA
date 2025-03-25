@@ -1,0 +1,44 @@
+{
+  "folder": "IC-288",
+  "content": "{{knowledge objective\n|Identifiant=OIC-288-15-A\n|Item_parent=Hemorrhoidal pathology\n|Item_parent_short=Hemorrhoidal pathology\n|Rank=A\n|Title=Knowing the treatment of external haemorrhoidal thrombosis\n|Description=\n|Rubric=Management\n|Contributors=\n|Order=15}}\n\ncf : ''[[Knowing the main principles of medicinal and non-medicinal management 2C-288-PC-A01|2C-288-PC-A01]]''''",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary treatment for external haemorrhoidal thrombosis?",
+        "description": "The treatment of external haemorrhoidal thrombosis involves both non-medicinal and medicinal approaches.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Surgical excision of the affected area",
+        "description": "A surgical procedure to remove the thrombosed haemorrhoid",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Cold compresses and sitz baths",
+        "description": "A non-medicinal approach to reduce swelling and relieve pain",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Antibiotic ointments",
+        "description": "A medicinal approach to prevent infection",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Hemorrhoidectomy with thrombolytic therapy",
+        "description": "A surgical procedure to remove the thrombosed haemorrhoid and dissolve the clot",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

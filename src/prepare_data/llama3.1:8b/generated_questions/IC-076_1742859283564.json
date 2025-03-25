@@ -1,0 +1,12 @@
+{
+  "folder": "IC-076",
+  "content": "{{knowledge objective\n|Identifiant=OIC-076-14-B\n|Item_parent=Alcohol dependence\n|Item_parent_short=Alcohol dependence\n|Rank=B\n|Title=Knowing early identification and brief intervention (EIBI) and its content\n|Description=Early Identification and Brief Intervention (EIBI) includes systematic screening for alcohol misuse and brief intervention in cases of non-dependent misuse.\n|Rubric=Management\n|Contributors=\n|Order=14}}\nSecondary prevention action\n\n- Aims to identify\n\n- Then encourage alcohol abusers to reduce their consumption,\n\nIdeally below the low-risk guidelines.\n\n\n[Prevention of alcohol-related risks SD-313|Includes systematic screening for alcohol misuse (see above) and brief intervention in the case of non-addictive misuse.\n\n\nBrief intervention\n\n- delivered individually\n\n- in a short time (5 to 20 minutes)\n\n- can be repeated.\n\nIt includes\n\n- reporting the results of the assessment (situating the patient in relation to the benchmarks);\n\n- definition of a standard drink and low-risk consumption guidelines;\n\n- information on the risks associated with consumption, whether personal or situational, which are relevant to the patient, and on any complications already present;\n\n- discussion of the benefits to the patient of reducing consumption;\n\n- choice of a consumption target, if the patient agrees to try to change their current use, leaving them free to choose;\n\n- presentation of reduction methods which can be offered if the patient so requests;\n\n- distribution of written documentation, referral to specialised structures;\n\n- provide an opportunity for reassessment at another interview.\n\nThe procedure is carried out in an empathetic, non-judgemental way, with the emphasis on the patient's free choice at every stage. ",
+  "question": {
+    "question": "What is the primary goal of Early Identification and Brief Intervention (EIBI) in cases of non-dependent alcohol misuse?",
+    "option_a": "To encourage patients to abstain from alcohol completely",
+    "option_b": "To identify and encourage patients to reduce their alcohol consumption below low-risk guidelines",
+    "option_c": "To provide a comprehensive treatment plan for patients with alcohol dependence",
+    "option_d": "To refer patients to specialized structures without any further intervention",
+    "correct_option": "B"
+  }
+}

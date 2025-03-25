@@ -1,0 +1,46 @@
+{
+  "folder": "IC-245",
+  "content": "{{knowledge objective\n|Identifiant=OIC-245-17-B\n|Item_parent=Adrenal insufficiency in adults and children\n|Item_parent_short=Adrenal insufficiency in adults and children\n|Rank=B\n|Title=Knowing how to confirm the diagnosis\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Claire Briet,St\u00e9phanie Espiard\n|Order=17}}\nSHOULD NOT DELAY TREATMENT\n\n*If the diagnosis of adrenal insufficiency is unknown: blood cortisol and ACTH (and renin assay in children''') whatever the'''<nowiki/>'''it the'''<nowiki/>'''' hour, without waiting for the results''' to start treatment.\n*If the diagnosis of adrenal insufficiency is known: None\n\nResults :\n\n*Positive diagnosis: low or collapsed cortisol levels,\n*Etiological diagnosis:\n**elevated ACTH: primary adrenal insufficiency,\n**normal or low ACTH: corticotropic insufficiency.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "When should treatment for adrenal insufficiency begin?",
+        "description": "Based on the diagnostic information, what is the recommended course of action?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Delay treatment until the diagnosis is confirmed through laboratory tests.",
+        "description": "Wait for blood cortisol and ACTH levels to be confirmed before starting treatment.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Immediately start treatment regardless of the diagnostic results.",
+        "description": "Begin treatment without waiting for laboratory test results.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Only start treatment if the diagnosis of adrenal insufficiency is known.",
+        "description": "Do not start treatment if the diagnosis is unknown.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Start treatment immediately, but only if the patient is experiencing symptoms.",
+        "description": "Begin treatment as soon as symptoms are noticed, regardless of laboratory test results.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Start treatment without delay",
+        "description": "Begin treatment immediately, regardless of the diagnostic results.",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

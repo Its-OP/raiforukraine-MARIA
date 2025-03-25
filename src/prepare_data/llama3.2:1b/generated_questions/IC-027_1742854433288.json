@@ -1,0 +1,12 @@
+{
+  "folder": "IC-027",
+  "content": "{{knowledge objective\n|Identifiant=OIC-027-14-B\n|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Rank=B\n|Intitul\u00e9=Herpes simplex virus (HSV): knowing the elements of foetal prevention\n|Description=Knowledge of drug prevention and childbirth rules\n|Rubric=Management\n|Contributors=Alexandre Vivanti, Philippe Deruelle\n|Order=14}}\n\n[[File:Algorithm for the management of an initial episode of genital herpes during pregnancy (source RPC CNGOF 2017).png|vignette|'''Algorithm for the management of an initial episode of genital herpes during pregnancy (source RPC CNGOF 2017)''']]]\nFigure : Algorithm for the management of an initial episode of genital herpes during pregnancy (source RPC CNGOF 2017)\n\nFigure : Algorithm for the management of a herpetic recurrence during pregnancy (source RPC CNGOF 2017)\n[[File:Algorithm for the management of a herpetic recurrence during pregnancy (source RPC CNGOF 2017).png|vignette|Algorithm for the management of a herpetic recurrence during pregnancy (source RPC CNGOF 2017)]]\n3 messages:\n\n1/ in case of primary infection: maternal treatment (aciclovir 1g in 5 doses or valaciclovir 2g in 2 doses for 5 to 10 days) and caesarean section if infection within 6 weeks before start of labour except RPM > 4h.\n\n2/ recurrence: no sampling, vaginal route possible if RPM >4h\n\n3/ prevention in case of recurrence with valaciclovir 1g in 2 doses from 36 SA until birth",
+  "question": {
+    "question": "What is the recommended treatment for primary genital herpes during pregnancy?",
+    "option_a": "Aciclovir 1g in 5 doses or valaciclovir 2g in 2 doses for 5 to 10 days",
+    "option_b": "No treatment, as it is a rare occurrence",
+    "option_c": "Caesarean section if infection within 6 weeks before start of labour except RPM > 4h",
+    "option_d": "Prevention with valaciclovir 1g in 2 doses from 36 SA until birth",
+    "correct_option": "option_a"
+  }
+}

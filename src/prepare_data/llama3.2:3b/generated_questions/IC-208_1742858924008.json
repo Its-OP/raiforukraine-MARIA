@@ -1,0 +1,44 @@
+{
+  "folder": "IC-208",
+  "content": "{{knowledge objective\n|Identifiant=OIC-208-02-A\n|Item_parent=Chronic respiratory failure\n|Item_parent_short=Chronic respiratory failure\n|Rank=A\n|Title=Knowing the clinical evidence for obstructive CKD and restrictive CKD\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=2}}\nThe presence of a cough with chronic sputum is in favour of obstructive CKD (COPD, bronchial dilatation). The clinical examination should look for wheezing, ronchi, a decrease in vesicular murmur (in the case of associated emphysema) and signs of thoracic distension (barrel chest, Hoover's sign, increase in antero-posterior diameter, shortening of the suprasternal segment, tripod position, etc.).\n\nRestrictive CKD should be suspected in the presence of exertional dyspnoea. Infiltrative lung disease should be suspected in the presence of a dry cough and tele-inspiratory crackles. The clinical examination may look for skeletal deformity (kyphoscoliosis) and signs of diaphragmatic dysfunction in favour of restrictive CKD related to an abnormality of the ventilatory pump (CKD with healthy lung).",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What clinical examination findings are characteristic of obstructive CKD?",
+        "description": "The clinical examination should look for wheezing, ronchi, a decrease in vesicular murmur (in the case of associated emphysema) and signs of thoracic distension (barrel chest, Hoover's sign, increase in antero-posterior diameter, shortening of the suprasternal segment, tripod position, etc.).",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Exertional dyspnoea and skeletal deformity (kyphoscoliosis)",
+        "description": "Exertional dyspnoea is a symptom of obstructive CKD, and skeletal deformity (kyphoscoliosis) may be present in some cases.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Dry cough and tele-inspiratory crackles",
+        "description": "Dry cough and tele-inspiratory crackles are characteristic of infiltrative lung disease, not obstructive CKD.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Wheezing and signs of thoracic distension",
+        "description": "Wheezing and signs of thoracic distension (barrel chest, Hoover's sign, increase in antero-posterior diameter, shortening of the suprasternal segment, tripod position, etc.) are characteristic of obstructive CKD.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Infiltrative lung disease and exertional dyspnoea",
+        "description": "Infiltrative lung disease is characterized by a dry cough and tele-inspiratory crackles, not exertional dyspnoea.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "C"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

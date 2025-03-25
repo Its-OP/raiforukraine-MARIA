@@ -1,0 +1,12 @@
+{
+  "folder": "IC-112",
+  "content": "{{knowledge objective\n|Identifiant=OIC-112-01-A\n|Item_parent=Bullous dermatosis of the skin and/or external mucous membranes\n|Item_parent_short=Bullous dermatosis affecting the skin and/or external mucous membranes\n|Rank=A\n|Intitle=Know the definition of autoimmune bullous dermatosis\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=1}}\nGENERAL\n\nA bullous dermatosis should be suspected clinically in the presence of skin lesions such as bullae, post-bullous erosion, wet-linen detachment and Nikolsky's sign (detachment of the epidermis on rubbing the peri-lesional normal skin).\n\n'''''The medical approach to bullous dermatosis should ALWAYS distinguish between autoimmune mechanisms and all other causes of bullous dermatosis.  '''''\n\n''''' There are two places in the skin where a bubble can form:''''' a bubble is intra-epidermal when the cleavage occurs in the epidermis (roof and floor of the bubble in the epidermis) and a bubble is sub-epidermal when there is a cleavage under the epidermis (roof of the bubble consisting of the entire epidermis and floor in the dermis).\n\nThe subepidermal bulla is usually taut and the intraepidermal bulla is flaccid and fragile.\n\nAutoimmune bullous dermatosis is a disease defined by the presence of immunoglobulins deposited at the dermo-epidermal junction or on the surface of keratinocytes. It is characterised by cutaneous lesions, most often bullous, on the skin or mucous membranes.",
+  "question": {
+    "question": "What is the primary characteristic of autoimmune bullous dermatosis?",
+    "option_a": "A bulla is typically sub-epidermal.",
+    "option_b": "Bullae are usually intra-epidermal.",
+    "option_c": "Autoimmune bullous dermatosis is characterized by cutaneous lesions, most often bullous, on the skin or mucous membranes.",
+    "option_d": "The subepidermal bulla is usually flaccid and fragile.",
+    "correct_option": "option_c"
+  }
+}

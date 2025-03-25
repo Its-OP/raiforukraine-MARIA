@@ -1,0 +1,46 @@
+{
+  "folder": "IC-187",
+  "content": "{{knowledge objective\n|Identifiant=OIC-187-15-A\n|Item_parent=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Item_parent_short=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Rank=A\n|Title=Photo of acute eczema\n|Description=Photo of acute eczema\n|Rubric=Multimedia content\n|Contributors=Nad\u00e8ge Cordel; Fr\u00e9d\u00e9ric B\u00e9rard\n|Order=15}}\n[[File:Figure 3 - elementary lesions of acute eczema that is pruritic- oedema, poorly limited erythema, vesicles .jpg|left|vignette|Figure 3 : elementary lesions of acute eczema that is pruritic: oedema, poorly limited erythema, vesicles ]]\n[[File:Figure 4 - Allergic contact eczema with elementary lesions located on areas where the allergen was applied. Note that the erythema extends beyond the area of application..jpg|gauche|vignette|Figure 4 : Allergic contact eczema with location of elementary lesions on areas of allergen application. Note that the erythema extends beyond the area of application]].",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the characteristic feature of acute eczema?",
+        "description": "Describe the typical presentation of acute eczema in children and adults.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Purulent discharge",
+        "description": "A thick, yellowish discharge is often present on the surface of the lesions.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Well-defined borders",
+        "description": "Acute eczema lesions typically have poorly limited erythema and vesicles.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Itching and crusting",
+        "description": "Acute eczema is often characterized by intense itching and crusting of the lesions.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Limited to the area of allergen application",
+        "description": "Allergic contact eczema typically presents with lesions limited to the area where the allergen was applied.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct answer is a brief letter (A, B, C, or D) indicating the correct option.",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

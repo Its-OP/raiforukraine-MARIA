@@ -1,0 +1,11 @@
+{
+  "folder": "IC-235",
+  "content": "{{knowledge objective\n|Identifiant=OIC-235-15-A\n|Item_parent=Acute pericarditis\n|Item_parent_short=Acute pericarditis\n|Rank=A\n|Title=How to diagnose tamponade\n|Description=Knowing how to make the diagnosis in the presence of straight signs and/or a clinical picture of obstructive shock\n|Rubric=Identification of the emergency\n|Contributors=Jennifer Cautela\n|Order=15}}\n\n\n*Tamponnade = Adiastole'': the right +/- left ventricle is unable to fill due to the external pressure exerted by the effusion.\n*Cardiogenic shock due to compression of the cardiac chambers (most often the right, where the pressure is lowest) by an \"abundant\" and/or \"sudden onset\" pericardial effusion.\n*'''Clinical signs:''''\n**Chest pain with positional dyspnoea, polypnoea then orthopnoea and cough, sometimes dysphagia, nausea, hiccups,\n**Signs of acute right heart failure: jugular turgor, hepatojugular reflux''.\n**'''Signs of shock''': tachycardia and PAS<90mmHg, mottling, cold extremities\n**'''Muffled heart sounds'''\n**'''Paradoxical pulse =''' 10 mmHg drop in PAS on inspiration\n\n*'''ECG''': '''microvoltage''', sometimes '''electrical alternation''' (because the heart swings in the abundant fluid and therefore changes axis)\n*ETT:'' confirms the ''compression'' of the right chambers, especially during inspiration and the ''swinging heart'' aspect ''''' the displacement of the septum is paradoxical in inspiration.\n*Emergency\" because it causes \"cardiocirculatory arrest\" (due to electromechanical dissociation) in the absence of treatment; ultrasound confirmation requires drainage\n*Emergency percutaneous or surgical drainage. Filling and amines while awaiting drainage''''",
+  "question": {
+    "question": "What is the primary cause of cardiogenic shock in tamponade?",
+    "option_a": "Compression of the left ventricle by the pericardial effusion",
+    "option_b": "Compression of the right ventricle by the pericardial effusion",
+    "option_c": "Compression of both ventricles by the pericardial effusion",
+    "option_d": "Compression of the atria by the pericardial effusion"
+  }
+}

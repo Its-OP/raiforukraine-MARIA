@@ -1,0 +1,12 @@
+{
+  "folder": "IC-112",
+  "content": "{{knowledge objective\n|Identifiant=OIC-112-06-A\n|Item_parent=Bullous dermatosis of the skin and/or external mucous membranes\n|Item_parent_short=Bullous dermatosis affecting the skin and/or external mucous membranes\n|Rank=A\n|Title=Recognising a bullous lesion\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=6}}\n\n[[File:L\u00e9sion bulleuse.jpg|vignette|Bulle tendue \u00e0 contenu clair si\u00e9geant sur le dessus du pied ]]",
+  "question": {
+    "question": "What is a characteristic of a bullous lesion?",
+    "option_a": "It is a type of skin rash that is caused by a viral infection",
+    "option_b": "It is a blister-like lesion that contains a clear fluid and is typically found on the skin or external mucous membranes",
+    "option_c": "It is a type of skin cancer that is characterized by a raised, scaly patch",
+    "option_d": "It is a type of skin condition that is caused by an allergic reaction to a specific food",
+    "correct_option": "B"
+  }
+}

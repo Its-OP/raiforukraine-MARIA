@@ -1,0 +1,41 @@
+{
+  "folder": "IC-351",
+  "content": "{{knowledge objective\n|Identifiant=OIC-351-02-A\n|Item_parent=Agitation and acute delirium\n|Item_parent_short=Agitation and acute delirium\n|Rank=A\n|Title=Know the definition of delusions and hallucinations\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=2}}\n'''[[Delusional Ideas SD-124|Delusional Ideas]] :'''' Alterations in the content of thought leading to a loss of contact with reality, not shared by the socio-cultural group.\n\n'''[[Hallucinations SD-122|Hallucinations]]:''' Sensory perception without the presence of a detectable object.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What are the defining characteristics of delusions and hallucinations?",
+        "description": "Alterations in the content of thought leading to a loss of contact with reality, not shared by the socio-cultural group. Sensory perception without the presence of a detectable object.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Alterations in the content of thought leading to a loss of contact with reality, not shared by the socio-cultural group, and sensory perception with the presence of a detectable object.",
+        "description": "This option combines the characteristics of delusions and hallucinations, but incorrectly states that sensory perception requires a detectable object."
+      },
+      "option_b": {
+        "title": "Sensory perception without the presence of a detectable object, and alterations in the content of thought leading to a loss of contact with reality, not shared by the socio-cultural group.",
+        "description": "This option correctly describes the characteristics of hallucinations and delusions, but in a different order."
+      },
+      "option_c": {
+        "title": "Both delusions and hallucinations require the presence of a detectable object to occur.",
+        "description": "This option incorrectly states that both delusions and hallucinations require a detectable object, which is not supported by the definition."
+      },
+      "option_d": {
+        "title": "Delusions are sensory perceptions without a detectable object, while hallucinations are alterations in thought content.",
+        "description": "This option incorrectly defines delusions and hallucinations, and also incorrectly states that sensory perception requires a detectable object."
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The correct answer is option B, which correctly describes the characteristics of hallucinations and delusions."
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

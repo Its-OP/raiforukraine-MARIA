@@ -1,0 +1,12 @@
+{
+  "folder": "IC-188",
+  "content": "{{knowledge objective\n|Identifiant=OIC-188-09-A\n|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Rank=A\n|Title=Knowing how to diagnose asthma exacerbations in children and adults.\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=9}}\nThe diagnosis is clinical:\n\no progressive increase in symptoms lasting at least two days and requiring a change in treatment\n\no not soothed by rapid-acting bronchodilators used frequently and in large quantities\n\no without returning to the usual state",
+  "question": {
+    "question": "What is a key indicator of an asthma exacerbation in children and adults?",
+    "option_a": "A sudden and severe increase in symptoms lasting less than 24 hours",
+    "option_b": "A progressive increase in symptoms lasting at least two days and requiring a change in treatment",
+    "option_c": "Soothing of symptoms by rapid-acting bronchodilators used occasionally and in small quantities",
+    "option_d": "A complete resolution of symptoms without any treatment",
+    "correct_option": "B"
+  }
+}

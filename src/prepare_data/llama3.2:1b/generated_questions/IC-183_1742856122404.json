@@ -1,0 +1,12 @@
+{
+  "folder": "IC-183",
+  "content": "{{knowledge objective\n|Identifiant=OIC-183-05-B\n|Item_parent=Organisation of occupational medicine. Prevention of occupational risks\n|Item_parent_short=Organisation of occupational medicine. Occupational risk prevention\n|Rank=B\n|Item_parent_short=Organisation of occupational medicine.\n|Description=Type of documents and methods of exchange with the employer\n|Rubric=Definition\n|Contributors=\n|Order=5}}\n'''Occupational health medical file:''''\n\n*Traces the employee's state of health and occupational exposure. Subject to medical confidentiality.\n\n'''Company sheet''' :\n\n*Document on which are recorded in particular\n**the ''occupational risks'',\n**as well as the occupational physician's opinion on the hazards existing in the company or the constraints linked to the organisation of work\n**and the ''recommendations for reducing exposure'' to these occupational risks.\n*Transmitted to the employer.\n\n\n'''Fitness / unfitness form:'''\n\n*Form sent to the employer, possibly accompanied by recommendations on adapting the workstation, but without any information on the employee's pathology.",
+  "question": {
+    "question": "What is the purpose of a company sheet in occupational health?",
+    "option_a": "To document the employee's work schedule and tasks.",
+    "option_b": "To record the employee's medical history and allergies.",
+    "option_c": "To provide recommendations on reducing occupational risks and improving workplace safety.",
+    "option_d": "To contain confidential information about the employee's health and medical conditions.",
+    "correct_option": "option_c"
+  }
+}

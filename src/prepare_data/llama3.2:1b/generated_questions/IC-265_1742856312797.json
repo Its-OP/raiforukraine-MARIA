@@ -1,0 +1,12 @@
+{
+  "folder": "IC-265",
+  "content": "{{knowledge objective\n|Identifiant=OIC-265-03-B\n|Item_parent=Urinary lithiasis\n|Item_parent_short=Urinary lithiasis\n|Rank=B\n|Title=Knowing the frequency of different types of stones\n|Description=Table showing the frequency of different types of stones\n|Rubric=Epidemiology\n|Contributors=Romain Boissier\n|Order=3}}\n\n<br />\n{| class=\"wikitable\"\n|+\nTable showing the frequency of the various calculations\n<br />\n|\n|'''Calcium phosphate''''\n| colspan=\"2\" |'''Calcium oxalate''''\n|Ammonium magnesium phosphate\n|Cystine\n|Uric acid\n|-\n|'''Prevalence'''\n|13%\n|50%\n|22%\n|1%\n|3%\n|11%\n|-\n|'''Crystalline name''''\n|Carbapatite Hydroxyapatite\nBrushite\n|Whewelitte\n|Weddellite\n|Struvite\n|<nowiki>-</nowiki>\n|<nowiki>-</nowiki>\n|-\n|'''Macroscopic aspect''''\n|Chalky\n|Smooth brownish\n|yellowish spiculated\n|Yellow\n|Irregular yellow\n|Smooth yellow\n|-\n|'''Urinary pH (normal=5.8)'''\n|alkaline\n|Variable\n|Variable\n|alkaline\n|Acid\n|Acid\n|-\n| UH Density\n|1500-2000\n|1200-1700\n|1000-1500\n|500-900\n|600-900\n|350-700\n|}",
+  "question": {
+    "question": "What is the frequency of urinary stones?",
+    "option_a": "10%",
+    "option_b": "20%",
+    "option_c": "30%",
+    "option_d": "40%",
+    "correct_option": "10%"
+  }
+}

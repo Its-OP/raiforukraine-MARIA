@@ -1,0 +1,12 @@
+{
+  "folder": "IC-245",
+  "content": "{{knowledge objective\n|Identifiant=OIC-245-18-B\n|Item_parent=Adrenal insufficiency in adults and children\n|Item_parent_short=Adrenal insufficiency in adults and children\n|Rank=B\n|Title=Knowing the causes of decompensation in treated adrenal insufficiency\n|Description=None\n|Rubric=Etiologies\n|Contributors=Claire Briet,St\u00e9phanie Espiard\n|Order=18}}\nAny intercurrent pathology (vomiting, diarrhoea, infection, fracture, myocardial infarction, surgery, anaesthesia, invasive diagnostic procedure, major physical effort, intense psychological stress, etc.) is a cause of decompensation of treated adrenal insufficiency.\n\nAnd the patient's failure to adapt hydrocortisone treatment sufficiently to these situations: Importance of therapeutic education in adrenal insufficiency.",
+  "question": {
+    "question": "What is the importance of therapeutic education in adrenal insufficiency?",
+    "option_a": "Therapeutic education is not necessary for patients with adrenal insufficiency.",
+    "option_b": "Therapeutic education is crucial for patients with adrenal insufficiency to ensure they understand their condition and treatment.",
+    "option_c": "Therapeutic education is only necessary for patients with adrenal crisis, not for all patients with adrenal insufficiency.",
+    "option_d": "Therapeutic education is not a priority for patients with adrenal insufficiency, as they are already receiving treatment.",
+    "correct_option": "option_b"
+  }
+}

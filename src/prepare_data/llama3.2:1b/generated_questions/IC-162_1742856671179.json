@@ -1,0 +1,20 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-22-A\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=A\n|Title=Know how to prevent STIs\n|Description=Prevention (including vaccination)\n|Heading=Management\n|Contributors=\n|Order=22}}\n'''For all STIs, you need:'''\n\nProtecting sexual relations by using condoms\n\nPreventive vaccination for HPV, hepatitis B (and hepatitis A in men who have sex with men)\n\nIdentify the contaminated or contaminating partner(s) and propose screening, diagnosis and/or probabilistic treatment;\n\nSystematically offer :\n\n- HIV serology,\n\n- treponemal test,\n\n- hepatitis B serology\n\n- Urinary or genital PCR for Neisseria gonorrhoeae and Chlamydia trachomatis\n\n- Pharyngeal and anal PCR according to sexual practices\n\nEmphasise the risks of recontamination (education).\n\nConsider PrEP (Pre-Exposure Prophylaxis) type treatment against HIV if you take risks too regularly",
+  "question": {
+    "id": "KTA_0003_A_05_08",
+    "jsonrpc": "2.0",
+    "jsonauth": "Bearer",
+    "jsonclientid": "7c94c43c8a0f47a94c43c4306c94c43c3",
+    "jsoncallback": "unknown",
+    "options": [
+      "Know how to prevent STIs",
+      "Protecting sexual relations by using condoms",
+      "Preventive vaccination for HPV, hepatitis B (and hepatitis A in men who have sex with men)",
+      "Identify the contaminated or contaminating partner(s) and propose screening, diagnosis and/or probabilistic treatment; Systematically offer",
+      "HIV serology, treponemal test, hepatitis B serology, Urinary or genital PCR for Neisseria gonorrhoeae and Chlamydia trachomatis",
+      "Emphasise the risks of recontamination (education)",
+      "Consider PrEP (Pre-Exposure Prophylaxis) type treatment against HIV if you take risks too regularly"
+    ]
+  }
+}

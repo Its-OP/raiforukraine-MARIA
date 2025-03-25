@@ -1,0 +1,41 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-02-A\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=A\n|Intitle=Define puberty, thelarche and menarche\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=2}}\nThe appearance of isolated early pubic hair (premature pubarche or adrenarche) is most often linked to the physiological increase in adrenal androgens around the age of 8.\n\nIt is a diagnosis of elimination, which requires a pathological production of androgens of adrenal or gonadal origin to have been ruled out: congenital adrenal hyperplasia, adrenal tumour, gonadal tumour.\n\nEarly and isolated breast development (absence of pubic hair, absence of accelerated growth rate) before the age of 2 is often physiological (premature thelarche). It is not related to activation of the gonadotropic axis. It is a diagnosis of elimination, made after suggesting true precocious puberty.\n\nThe term menarche refers to the first menstrual period.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the typical age range for the physiological appearance of isolated early pubic hair (premature pubarche or adrenarche)?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Before the age of 6",
+        "description": "A common age range for premature pubarche or adrenarche"
+      },
+      "option_b": {
+        "title": "Around the age of 8",
+        "description": "A common age range for premature pubarche or adrenarche"
+      },
+      "option_c": {
+        "title": "After the age of 10",
+        "description": "A common age range for premature pubarche or adrenarche"
+      },
+      "option_d": {
+        "title": "After the age of 12",
+        "description": "A common age range for premature pubarche or adrenarche"
+      },
+      "correct_option": {
+        "title": "Around the age of 8",
+        "description": ""
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

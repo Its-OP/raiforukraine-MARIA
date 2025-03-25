@@ -1,0 +1,12 @@
+{
+  "folder": "IC-223",
+  "content": "{{knowledge objective\n|Identifiant=OIC-223-06-A\n|Item_parent=Dyslipidemia\n|Item_parent_short=Dyslipidemia\n|Rank=A\n|Title=Knowing the clinical manifestations of dyslipidemia: xanthelasma\n|Description=None\n|Rubric=Multimedia content\n|Contributors=Laurence Duvillard, Bruno Verg\u00e8s, Benjamin Bouillet, Laurence Amar, Christian Boissier, Tristan Mirault, Claire Le Hello\n|Order=6}}\n<br />[[File:Extravascular signs of hypercholesterolemia.jpg|vignette|605x605px|(A) Arc cornea and xanthelasma; (B) Tendinous xanthomas of the extensor tendons of the fingers; (C and D) Tendinous xanthomas of the Achilles tendons.<sub>With thanks to Dove Medical Press as the original publisher of this figure from Mipomersen and other therapies for the treatment of severe familial hypercholesterolemia Bell D et al Vascular Health and Risk Management 2012 8 651-659 Figure 1 Note: Copyright \u00a9 2008, The Australian Association of Clinical Biochemists. Reproduced with permission from Burnett JR, Hooper AJ. Common and rare gene variants affecting plasma LDL cholesterol. Clin Biochem Rev. 2008;29(1):11-26.</sub>]]The following are the clinical signs that can be observed in hypercholesterolaemia. They are especially present in severe forms, particularly familial hypercholesterolaemia:\n\n*Tendon xanthomas,\n*xanthelasma (before the age of 60),\n*corneal arc (before the age of 60),\n*especially present in severe forms.\n\nThe clinical signs sometimes observed in severe hypertriglyceridaemia are eruptive xanthomatosis and retinal lipaemia (at the fundus).",
+  "question": {
+    "question": "What is a clinical sign that can be observed in hypercholesterolaemia, especially in severe forms?",
+    "option_a": "Eruptive xanthomatosis",
+    "option_b": "Xanthelasma (before the age of 60)",
+    "option_c": "Corneal arc (before the age of 60)",
+    "option_d": "Retinal lipaemia (at the fundus)",
+    "correct_option": "B"
+  }
+}

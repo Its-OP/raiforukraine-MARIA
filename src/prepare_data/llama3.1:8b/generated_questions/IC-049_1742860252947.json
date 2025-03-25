@@ -1,0 +1,12 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-10-A\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=A\n|Title=Knowing the data from the interview and clinical examination pointing to precocious puberty\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=10}}\n'''Questioning data:''' pubertal ages of parents and siblings, age at menarche of mother, parental heights with calculation of genetic target height, family or personal history (IUGR, neurological history, adoption, neurofibromatosis type 1 (NF1)), visual signs or signs of HTIC (headache, nausea, morning vomiting), analysis of growth rate (curve).\n\nClinical examination: Complete examination, pubertal stage (Tanner), skin spots, signs of hyperandrogenism (acne, hirsutism, hyperseborrhoea, clitoral hypertrophy).\n\n<br />",
+  "question": {
+    "question": "What is a key factor in diagnosing precocious puberty?",
+    "option_a": "Analysis of growth rate (curve) and pubertal stage (Tanner) alone",
+    "option_b": "Family or personal history (IUGR, neurological history, adoption, neurofibromatosis type 1 (NF1)) and visual signs or signs of HTIC (headache, nausea, morning vomiting)",
+    "option_c": "Parental heights with calculation of genetic target height and pubertal ages of parents and siblings",
+    "option_d": "Age at menarche of mother and skin spots alone",
+    "correct_option": "A"
+  }
+}

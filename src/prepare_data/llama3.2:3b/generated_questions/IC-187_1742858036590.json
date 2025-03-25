@@ -1,0 +1,46 @@
+{
+  "folder": "IC-187",
+  "content": "{{knowledge objective\n|Identifiant=OIC-187-06-A\n|Item_parent=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Item_parent_short=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Rank=A\n|Title=Knowing the main causes of urticaria\n|Description=Physical, contact, food, drug and infectious urticaria.\n|Rubric=Etiologies\n|Contributors=\n|Order=6}}\nIn the vast majority of cases, acute and chronic urticaria are spontaneous, but certain favouring or triggering factors can be found.\n\n\n- Inducible or physical urticaria\n\nThese are urticaria appearing after contact or a situation that activates mast cells; the best known are dermographism, cold urticaria, cholinergic urticaria (after exertion, an emotion, a hot bath), delayed pressure urticaria, and more rarely solar urticaria, aquagenic urticaria (to water) or vibratory angioedema.\n\n\n- Contact urticaria\n\nUrticaria appears in the area of skin contact with a stinging substance. It is generally non-immunological, but in the case of immunological contact urticaria, anaphylaxis is still possible even after contact.\n\n2 examples:\n\n\u00d8 Allergic contact urticaria to latex proteins contained in latex gloves or objects is an immunological contact urticaria with a risk of anaphylaxis.\n\n\u00d8 Nettle contact urticaria is a non-immunological contact urticaria localised solely to the area of skin contact.\n\n\n- '''Les urticaires alimentaires'''\n\nFoods are very often implicated in urticaria, but IgE-dependent allergic food urticaria is rare.\n\nIn the case of acute food urticaria, the diagnosis of anaphylaxis should be considered if :\n\n- the time between ingestion of the offending food and the onset of signs ranges from a few minutes to less than 2 hours;\n\n- there are associated symptoms which indicate the severity of the condition;\n\n- Symptoms resolve in less than 12 hours;\n\n- recurrence each time the food is taken, which is generally more severe, regardless of the quantity of food ingested.\n\n\n- Drug-induced urticaria\n\nMany so-called \"histamino-releasing\" drugs can promote non-immunological mast cell activation. This is the case with NSAIDs, antibiotics, particularly from the beta-lactam family, morphine derivatives and iodinated contrast products. These generally acute urticaria are non-allergic and occur several days after the drug has been taken.\n\nRare cases of acute urticaria are caused by immunological mechanisms via the activation of IgE antibodies specific to the drug in question; this is known as immediate hypersensitivity or anaphylaxis.\n\nIn the case of acute drug-induced urticaria, the diagnosis of anaphylaxis should be made when ;\n\n- a delay of less than 2 hours between the introduction of the drug and the appearance of acute urticaria;\n\n- the existence of associated extracutaneous signs of anaphylaxis\n\n- resolution of the urticaria within a few hours of stopping the suspected drug\n\n- recurrence, which is generally more severe and more rapid, when the suspected drug is re-administered\n\n\n- Infectious urticaria\n\nThis is usually acute urticaria resulting from an infection.\n\nMany viral, bacterial and parasitic infections, and sometimes vaccinations, can be associated with the onset of urticaria, which is usually acute.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a characteristic of urticaria triggered by contact with a stinging substance?",
+        "description": "A description of the question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "It is always immunological",
+        "description": "A plausible but incorrect option",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "It is generally non-immunological",
+        "description": "The correct option",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "It only occurs in adults",
+        "description": "An incorrect but plausible option",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "It is a sign of anaphylaxis",
+        "description": "An incorrect but plausible option",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

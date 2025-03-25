@@ -1,0 +1,41 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-17-A\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=A\n|Title=Knowing the epidemiology of passive smoking, the main concepts of excess risk\n|Description=None\n|Rubric=Epidemiology\n|Contributors=\n|Order=17}}\nNon-psychiatric medical complications related to <nowiki/>'''passive intoxication''''\n\n* Ischaemic heart disease\n* Bronchopulmonary cancer\n* Coronary artery disease\n* Otitis and asthma in children\n* Bronchitis\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a known non-psychiatric medical complication of passive smoking?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Otitis and asthma in children",
+        "description": "A condition affecting the ears and lungs of young children"
+      },
+      "option_b": {
+        "title": "Coronary artery disease",
+        "description": "A heart condition caused by poor blood flow"
+      },
+      "option_c": {
+        "title": "Bronchitis",
+        "description": "An inflammation of the airways"
+      },
+      "option_d": {
+        "title": "Ischaemic heart disease",
+        "description": "A condition caused by reduced blood flow to the heart"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct letter of the answer"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

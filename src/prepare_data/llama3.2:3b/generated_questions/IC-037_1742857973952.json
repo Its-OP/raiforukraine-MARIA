@@ -1,0 +1,46 @@
+{
+  "folder": "IC-037",
+  "content": "{{knowledge objective\n|Identifiant=OIC-037-04-A\n|Item_parent=Voluntary termination of pregnancy\n|Item_parent_short=Voluntary termination of pregnancy\n|Rank=A\n|Title=To know the age of the population undergoing the most abortions\n|Description=Women aged 20-24 are most concerned.\n|Rubric=Epidemiology\n|Contributors=Arthur Foulon,Philippe Deruelle,Aubert Agostini\n|Order=4}}\n\nWomen aged 20-29 have the most access to abortion. In France, the abortion rate in this age group is 27.9 per 1000 women. It should be noted that the number of abortions performed on minors has not increased since 2005.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the age group with the most access to abortion in France?",
+        "description": "The abortion rate varies by age group in France. Which age group has the most access to abortion?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Women aged 15-19",
+        "description": "This age group is often cited as having high abortion rates, but is it the most accessible to abortion?",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Women aged 20-29",
+        "description": "This age group has a high abortion rate, but is it the most accessible to abortion?",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Women over 30",
+        "description": "This age group may have more financial resources to access abortion services.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Women under 18",
+        "description": "This age group is often exempt from parental consent laws for abortion in France.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Women aged 20-29",
+        "description": "This is the age group with the most access to abortion in France, according to the provided data.",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

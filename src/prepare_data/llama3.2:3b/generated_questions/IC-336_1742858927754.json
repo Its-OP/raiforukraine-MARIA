@@ -1,0 +1,12 @@
+{
+  "folder": "IC-336",
+  "content": "{{knowledge objective\n|Identifiant=OIC-336-13-A\n|Item_parent=Non-traumaticoma in adults and children\n|Item_parent_short=Non-traumatic coma in adults and children\n|Rank=A\n|Title=Know the main causes of non-traumatic coma in adults and children\n|Description=toxic, infectious, metabolic, epileptic, vascular\n|Rubric=Etiologies\n|Contributors=Nicolas Weiss\n|Order=13}}\n\n- Causes of injury :\n\no Vascular :\n\n\u00a7 Meningeal haemorrhage\n\n\u00a7 Intracerebral haematoma\n\n\u00a7 Ischaemic stroke (basilar trunk thrombosis, malignant sylvian stroke)\n\n\u00a7 Cerebral thrombophlebitis\n\no CNS infections\n\n\u00a7 Meningitis\n\n\u00a7 Meningoencephalitis\n\n\u00a7 Encephalitis\n\n\u00a7 Brain abscess\n\n- Non-injury causes :\n\no Metabolic\n\n\u00a7 Hypercapnic encephalopathy\n\n\u00a7 Uremic encephalopathy\n\n\u00a7 Hepatic encephalopathy\n\n\u00a7 Hypo-hypernatremia\n\n\u00a7 Hypo-hypercalcaemia\n\n\u00a7 Constitutional metabolic disease\n\no Endocrine\n\n\u00a7 Hypoglycaemia\n\n\u00a7 Hypothyroidism\n\n\u00a7 Adrenal insufficiency\n\no Residential\n\n\u00a7 Gayet-Wernicke syndrome (vitamin B1 deficiency)\n\n\u00a7 Pellagra (vitamin PP deficiency)\n\no Withdrawal\n\n\u00a7 ''Delirium tremens'' in its severe form (alcohol withdrawal)\n\n\u00a7 Benzodiazepine withdrawal\n\no Poisoning\n\n\u00a7 Benzodiazepines\n\n\u00a7 Opioids\n\n\u00a7 Neuroleptics\n\n\u00a7 CO\n\n\u00a7 ...\n\no Epileptics\n\n\u00a7 Etat de mal \u00e9pileptique\n\n\u00a7 Post-critical coma\n\no HTIC\n\n\u00a7 Intracerebral expansive processes: tumours, abscesses\n\n\u00a7 Cerebral thrombophlebitis\n\n\u00a7 Pseudotumor cerebri (benign intracranial hypertension)\n\n\nNB: sometimes a traumatic coma can take on the appearance of a non-traumatic coma (no obvious notion of trauma), so beware!\n\nNB: low cerebral blood flow of systemic origin (shock) may result in a non-traumatic coma.",
+  "question": {
+    "question": "What is a common cause of non-traumatic coma in adults and children?",
+    "option_a": "Infections of the brain, such as meningitis or encephalitis",
+    "option_b": "Metabolic disorders, such as hypoglycaemia or hypercapnic encephalopathy",
+    "option_c": "Withdrawal from certain substances, such as alcohol or benzodiazepines",
+    "option_d": "Neurological tumors or abscesses, such as pseudotumor cerebri",
+    "correct_option": "b"
+  }
+}

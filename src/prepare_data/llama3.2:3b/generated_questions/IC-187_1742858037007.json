@@ -1,0 +1,46 @@
+{
+  "folder": "IC-187",
+  "content": "{{knowledge objective\n|Identifiant=OIC-187-05-A\n|Item_parent=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Item_parent_short=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Rank=A\n|Title=Knowing how to recognise anaphylaxis\n|Description=None\n|Rubric=Identifying the emergency\n|Contributors=\n|Order=5}}\nIn a minority of cases, acute urticaria may be secondary to an allergy or immediate hypersensitivity called anaphylaxis.\n\nThis is not the case with chronic urticaria, which is never secondary to anaphylaxis.\n\n\nIn the case of anaphylaxis, urticaria may be isolated, but more often than not there are associated signs that suggest the diagnosis of anaphylaxis;\n\n- Respiratory signs: dysphonia, dyspnoea, bronchospasm\n\n- Cardiovascular signs: tachycardia, bradycardia, arterial hypotension\n\n- Digestive signs: nausea, vomiting, diarrhoea\n\n- Neurological signs: headaches, convulsions\n\nIn extreme cases, anaphylactic shock with cardiorespiratory arrest may occur.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Question",
+        "description": "What is the relationship between chronic urticaria and anaphylaxis?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Option A",
+        "description": "Chronic urticaria is always secondary to anaphylaxis.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Option B",
+        "description": "Chronic urticaria is never secondary to anaphylaxis, but may be accompanied by anaphylaxis in some cases.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Option C",
+        "description": "Chronic urticaria is a type of anaphylaxis.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Option D",
+        "description": "Anaphylaxis is a type of chronic urticaria.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "None",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

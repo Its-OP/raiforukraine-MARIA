@@ -1,0 +1,46 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-20-B\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=B\n|Title=Knowing how to identify a dental articulation disorder\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=20}}\nDental articulation = relationship between the maxillary and mandibular teeth\n\nJoint disorder = conflict between the 2 dental arches\n\nManifested by: an open bite, lateral deviation of the mandible, prognathia, abutting incisors, overlapping, maxillary proaleviation\n\nOrthodontic treatment before the age of 16",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a dental articulation disorder?",
+        "description": "A dental articulation disorder is a relationship between the maxillary and mandibular teeth that is abnormal.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "A joint disorder between the two dental arches",
+        "description": "A joint disorder is a conflict between the two dental arches.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "A relationship between the maxillary and mandibular teeth that is normal",
+        "description": "A normal dental articulation is a relationship between the maxillary and mandibular teeth that is typical.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "A condition where the maxillary teeth are too far forward",
+        "description": "Maxillary proaleviation is a condition where the maxillary teeth are too far forward.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "A dental articulation disorder that is manifested by an open bite",
+        "description": "An open bite is a dental articulation disorder that is characterized by an opening between the upper and lower teeth.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-076",
+  "content": "{{knowledge objective\n|Identifiant=OIC-076-05-A\n|Item_parent=Alcohol dependence\n|Item_parent_short=Alcohol dependence\n|Rank=A\n|Title=Knowing how to diagnose harmful use and dependence according to ICD 11 criteria\n|The diagnosis of harmful use requires the elimination of the diagnosis of dependence (they are mutually exclusive).\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=5}}\n'''Harmful use:''' alcohol consumption is responsible for physical damage (cirrhosis; neuropathy) or psychological damage (depressive disorder secondary to alcohol consumption, suicide) but there are no criteria for dependence\n\n\n'''Dependency:''' at least three of the following have occurred at the same time over the past year\n\n1. powerful or compulsive desire to use a psychoactive substance (craving) ;\n\n2. difficulties in controlling the use of the substance ;\n\n3. physiological withdrawal syndrome when the subject reduces or stops taking a psychoactive substance (onset of a characteristic withdrawal syndrome or use of the same substance (or a related substance) to relieve or avoid withdrawal symptoms);\n\n4. tolerance: the subject needs more of the substance to obtain the desired effect;\n\n5. progressive abandonment of other sources of pleasure and interest in favour of use of the psychoactive substance, and an increase in the time spent obtaining the substance, using it, or recovering from its effects;\n\n6. continuing to use the substance despite the occurrence of clearly harmful consequences (the subject being aware of the link between consequence and use).\n\n\nHarmful use and dependence are two diagnoses that exclude each other by convention.",
+  "question": {
+    "question": "According to ICD 11 criteria, what is the relationship between harmful use and dependence?",
+    "option_a": "Harmful use and dependence are interchangeable terms.",
+    "option_b": "Harmful use requires the presence of at least three of the dependence criteria, while dependence requires the elimination of harmful use.",
+    "option_c": "Harmful use and dependence are mutually exclusive diagnoses, and one cannot be diagnosed without the other.",
+    "option_d": "The criteria for dependence include symptoms of craving, withdrawal, and tolerance, but not progressive abandonment of other activities.",
+    "correct_option": "B"
+  }
+}

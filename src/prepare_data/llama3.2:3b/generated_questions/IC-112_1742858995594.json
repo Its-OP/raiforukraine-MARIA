@@ -1,0 +1,46 @@
+{
+  "folder": "IC-112",
+  "content": "{{knowledge objective\n|Identifiant=OIC-112-03-B\n|Item_parent=Bullous dermatosis of the skin and/or external mucous membranes\n|Item_parent_short=Bullous dermatosis affecting the skin and/or external mucous membranes\n|Rank=B\n|Title=Knowing how to support the diagnosis of different autoimmune bullous diseases\n|Description=Pemphigoid group versus pemphigus group, distinguish between subepidermal and intraepidermal bullae\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=3}}\nAutoimmune bullous diseases are classified into two distinct groups, pemphigoid characterised by a subepidermal bulla and pemphigus characterised by an intraepidermal bulla.\n\n\nThe subepidermal bulla is defined by a cleavage under the epidermis, whereas the intraepidermal bulla is located in the epidermis (supra-basal region for pemphigus vulgaris, subhorned region for superficial pemphigus).\n\n\nThe bulla of pemphigoid is usually taut (except on mucous membranes, where it ruptures rapidly), while the bulla of pemphigus is flaccid and fragile.\n\nThe distinction between pemphigoid and pemphigus is based on clinical, histological, direct and indirect immunofluorescence and serological tests.\n\nClinically, bullous pemphigoid affects people aged over 70, often in poor general condition. It is accompanied by intense pruritus and manifests itself in the form of eczematous or urticarial lesions covered with tense bullae. Lesions are localised to the roots and flexural surfaces of the limbs; the head, neck and mucous membranes are spared. Biologically, there is a blood hypereosinophilia.\n\n\nPemphigus vulgaris affects people aged around 45 and manifests itself as painful erosions of the oral mucosa and other mucous membranes (genital, anal, nasal, conjunctival). Secondarily, there may be cutaneous bullae on non-inflammatory skin and a Nikolsky's sign. It may be drug-induced or associated with another autoimmune disease. In superficial pemphigus, there are no mucosal lesions but only squamous-crusty or even keratotic skin lesions.\n\nHistologically, a subepidermal bulla with an infiltrate of eosinophilic polynuclear cells is found in bullous pemphigoid, and an intraepidermal bulla with acantholysis (detachment of keratinocytes) in pemphigus vulgaris.\n\nIn direct immunofluorescence, there is a linear deposition of IgG and C3 at the dermal-epidermal junction in bullous pemphigoid and a deposition of IgG and C3 on the surface of keratinocytes in pemphigus (inter-cellular or mesh marking).\n\n\nIndirect immunofluorescence shows that circulating antibodies recognising the dermo-epidermal junction are present at high titre in bullous pemphigoid and circulating antibodies recognising the intercellular substance in pemphigus.\n\nIn ELISA, these circulating antibodies recognise the following target antigens: BP180 and BP230 proteins in bullous pemphigoid, desmoglein 3 in pemphigus vulgaris and desmoglein 1 in superficial pemphigus.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Which of the following best describes the location of the bulla in pemphigus vulgaris?",
+        "description": "Pemphigus vulgaris is characterized by an intraepidermal bulla. What is the typical location of this bulla?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Subepidermal region",
+        "description": "A location under the epidermis, characteristic of bullous pemphigoid",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Supra-basal region",
+        "description": "A location above the basal layer of the epidermis, characteristic of pemphigus vulgaris",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Subhorned region",
+        "description": "A location characteristic of superficial pemphigus, but not pemphigus vulgaris",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Dermal-epidermal junction",
+        "description": "A location at the boundary between the dermis and epidermis, characteristic of bullous pemphigoid",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The correct letter of the option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

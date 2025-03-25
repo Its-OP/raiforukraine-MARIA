@@ -1,0 +1,22 @@
+{
+  "folder": "IC-284",
+  "content": "{{knowledge objective\n|Identifiant=OIC-284-01-A\n|Item_parent=Functional colorectal disease\n|Item_parent_short=Functional colopathy\n|Rank=A\n|Title=Know the definition of irritable bowel syndrome (IBS) and the different subtypes.\n|Description=with predominant diarrhoea (IBS-D)<br>\nwith predominant constipation (IBS-C) <br>\nwith alternating diarrhoea and constipation (mixed forms, IBS-M) <br>\nunclassified forms\n|Rubric=Definition\n|Contributors=\n|Order=1}}\nIrritable bowel syndrome (IBS) (formerly functional colopathy) is a clinical diagnosis defined by the presence of abdominal pain associated with transit disorders in the absence of any organic digestive disease. By definition, all complementary tests are normal. It is a benign but chronic pathology with a significant deterioration in quality of life.\n\n\nThere are 4 subtypes of IBS, depending on the predominant transit.\n\n           - IBS with predominant diarrhoea (IBS-D),\n\n           - IBS with predominant constipation (IBS-C)\n\n           - IBS with alternating diarrhoea and constipation (IBS-A)\n\n           - IBS indeterminate (IBS-I), for patients who do not fall into any of the 3 subgroups",
+  "question": {
+    "properties": {
+      "question": "What is the primary characteristic of irritable bowel syndrome (IBS)?",
+      "option_a": "Abdominal pain associated with transit disorders in the absence of any organic digestive disease.",
+      "option_b": "A sudden onset of symptoms in the absence of any organic digestive disease.",
+      "option_c": "A sudden onset of symptoms in the presence of any organic digestive disease.",
+      "option_d": "A chronic condition with a significant deterioration in quality of life.",
+      "correct_option": "option_a"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d"
+    ],
+    "type": "string"
+  }
+}

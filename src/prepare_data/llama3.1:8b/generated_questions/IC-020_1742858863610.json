@@ -1,0 +1,12 @@
+{
+  "folder": "IC-020",
+  "content": "{{knowledge objective\n|Identifiant=OIC-020-21-B\n|Item_parent=Health research methodology\n|Item_parent_short=Health research methodology\n|Rank=B\n|Title=Adjusted frequency measurement\n|Description=Knowing how to define/recognise/interpret\n|Rubric=Definition\n|Contributors=Julie Berbis (CUESP),David Hajage (CIMES),Alexandra Rouquette (CIMES)\n|Order=21}}\n\nDescriptive surveys can give rise to comparisons (in time or space). This is only possible if the populations are comparable (in terms of their own characteristics, such as age or gender structure, which may influence the occurrence of health problems). This comparability is achieved through \"standardisation\".\n\nA standardised frequency measure is the weighted average of this frequency measure specific to classes of individuals (often by age and sex). The weights are the proportions of individuals in each class in a so-called reference population (for example: the general French population). The frequency measure most often reported in a standardised way is the incidence rate.\n\nA standardised incidence rate is therefore the incidence rate that would have been estimated in the population studied if it had the same age and sex structure as the population chosen as the reference. Standardisation thus makes it possible to compare frequency measurements from populations with different age and sex structures.\n\n<br />",
+  "question": {
+    "question": "What is the purpose of standardisation in descriptive surveys?",
+    "option_a": "To compare frequency measurements from populations with the same age and sex structures",
+    "option_b": "To compare frequency measurements from populations with different age and sex structures",
+    "option_c": "To adjust for the differences in age and sex structures between populations",
+    "option_d": "To calculate the weighted average of frequency measurements",
+    "correct_option": "C"
+  }
+}

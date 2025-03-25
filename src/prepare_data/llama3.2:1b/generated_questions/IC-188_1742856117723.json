@@ -1,0 +1,12 @@
+{
+  "folder": "IC-188",
+  "content": "{{knowledge objective\n|Identifiant=OIC-188-13-B\n|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Rank=B\n|Title=Knowing the indications for immunoallergic tests\n|Description=Use of specific IgE and provocation tests\n|Rubric=Additional tests\n|Contributors=\n|Order=13}}\n[Prescription and interpretation of allergological tests (patch tests, prick tests, i dr) SD-237|Indication of immuno-allergic tests (prick test and specific IgE assay)\n\no When asthma is diagnosed\n\no Diagnosis of chronic rhinitis of suspected allergic origin.",
+  "question": {
+    "question": "What is the primary indication for immunoallergic tests in asthma?",
+    "option_a": "Asthma with a history of allergic rhinitis",
+    "option_b": "Asthma without a history of allergic rhinitis",
+    "option_c": "Asthma with a history of allergic rhinitis and chronic rhinitis",
+    "option_d": "Asthma with a history of allergic rhinitis and chronic rhinitis and asthma",
+    "correct_option": "option_a"
+  }
+}

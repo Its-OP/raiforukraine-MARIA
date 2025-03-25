@@ -1,0 +1,41 @@
+{
+  "folder": "IC-082",
+  "content": "{{knowledge objective\n|Identifiant=OIC-082-02-A\n|Item_parent=Acute visual impairment\n|Item_parent_short=Acute visual impairment\n|Rank=A\n|Title=Know the definition, significance and aetiological approach to transient monocular blindness\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=2}}\nAmaurosis fugax is an acute onset of total visual loss lasting a few minutes and resolving spontaneously. It corresponds to a ''transient ischaemic attack of the retina''.\n\nIt is a diagnostic ''emergency'' because of the risk of a ''constituted retinal artery occlusion or ischaemic stroke''.\n\nCarotid atheroma or embolism cardiopathy should be sought first. Horton's disease should also be systematically considered.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary concern in diagnosing and managing amaurosis fugax?",
+        "description": "A multiple-choice question about the definition and significance of amaurosis fugax",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Amaurosis fugax is a rare condition caused by a genetic disorder",
+        "description": "A plausible but incorrect option that may confuse respondents"
+      },
+      "option_b": {
+        "title": "Carotid atheroma or embolism cardiopathy should be sought first",
+        "description": "A correct option that reflects the recommended initial diagnostic approach"
+      },
+      "option_c": {
+        "title": "Amaurosis fugax is a type of diabetic retinopathy",
+        "description": "An incorrect option that may be tempting for respondents with limited knowledge of the topic"
+      },
+      "option_d": {
+        "title": "Horton's disease is the primary cause of amaurosis fugax",
+        "description": "An incorrect option that may be misleading due to its similar-sounding name"
+      },
+      "correct_option": {
+        "title": "Carotid atheroma or embolism cardiopathy should be sought first",
+        "description": "The correct answer that reflects the recommended initial diagnostic approach"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-187",
+  "content": "{{knowledge objective\n|Identifiant=OIC-187-08-B\n|Item_parent=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Item_parent_short=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Rank=B\n|Title=Knowing the factors responsible for atopy\n|Description=Genetic, immunological and environmental factors\n|Heading=Pathophysiological factors\n|Contributors=\n|Order=8}}\nAtopy is defined as a predisposing condition to abnormal IgE-mediated immunological reactivity to certain environmental antigens (allergens).\n\nAtopic dermatitis (AD) is the most common and earliest clinical manifestation associated with atopy. It is a complex polygenic disease involving 2 groups of genes: on the one hand, epidermal barrier genes (filaggrin gene++); on the other, genes regulating the adaptive and innate immune system.   \n\nEnvironmental factors play a major role in the pathophysiology of atopic dermatitis, but these have not yet been clearly identified. On the other hand, a number of favourable factors have been documented (e.g. exposure to cats in early childhood).",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary factor contributing to atopic dermatitis (AD)?",
+        "description": "Atopy is defined as a predisposing condition to abnormal IgE-mediated immunological reactivity to certain environmental antigens (allergens).",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Genetic predisposition",
+        "description": "A complex polygenic disease involving 2 groups of genes: on the one hand, epidermal barrier genes (filaggrin gene++)",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Environmental factors",
+        "description": "Environmental factors play a major role in the pathophysiology of atopic dermatitis, but these have not yet been clearly identified.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Early exposure to cats",
+        "description": "A number of favourable factors have been documented (e.g. exposure to cats in early childhood).",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Imbalanced gut microbiome",
+        "description": "Research suggests that an imbalance of gut microbiota may contribute to the development of atopic dermatitis.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

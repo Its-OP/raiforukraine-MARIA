@@ -1,0 +1,46 @@
+{
+  "folder": "IC-132",
+  "content": "{{knowledge objective\n|Identifiant=OIC-132-05-A\n|Item_parent=Cognitive disorders in the elderly. (see item 108)\n|Item_parent_short=Cognitive disorders in the elderly. (see item 108)\n|Rank=A\n|Title=Know the differential diagnoses of Alzheimer's disease and related disorders.\n|Description=Know the curable diseases that can lead to neuro-cognitive disorders.\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=5}}\nThere are medical conditions that can lead to neuro-cognitive disorders that are possibly/partially reversible with appropriate treatment:\n\n\n- Vitamin deficiencies (B12, B9)\n\n- Subdural haematoma\n\n- Intracranial tumour\n\n- Hydrocephalus at normal pressure\n\n- Carbon monoxide poisoning (damage to the basal ganglia)\n\n- Endocrine disorders (hypothyroidism, chronic adrenal insufficiency)\n\n- Hyponatraemia/hypercalcaemia of progressive onset\n\n- Iatrogenicity: drug encephalopathy (valproate, lithium, etc.), anticholinergic drugs, psychotropic drugs, etc.\n\n- Systemic inflammatory diseases (vasculitis, etc.)\n\n- Paraneoplastic syndromes\n\n- Infections (neurosyphilis, HIV...)\n\n- ...\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a possible reversible cause of neuro-cognitive disorders in the elderly?",
+        "description": "Choose the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Hydrocephalus at normal pressure",
+        "description": "A condition characterized by an accumulation of cerebrospinal fluid in the brain",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Vitamin deficiencies (B12, B9)",
+        "description": "Deficiencies in vitamins B12 and B9 can lead to neurological symptoms",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Subdural haematoma",
+        "description": "A collection of blood outside the brain's blood vessels",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Iatrogenicity: drug encephalopathy",
+        "description": "A condition caused by certain medications, such as valproate and lithium",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

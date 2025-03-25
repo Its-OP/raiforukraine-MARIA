@@ -1,0 +1,12 @@
+{
+  "folder": "IC-186",
+  "content": "{{knowledge objective\n|Identifiant=OIC-186-07-A\n|Item_parent=Hypersensitivities and allergies in children and adults: physiopathological, epidemiological and diagnostic aspects and principles of treatment\n|Item_parent_short=Hypersensitivity and allergy in children and adults: pathophysiological, epidemiological and diagnostic aspects and principles of treatment\n|Rank=A\n|Title=Knowing the main allergens in IgE-dependent food allergy\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=7}}\nThe most common allergens responsible for IgE-mediated food allergy are :\n\n- Milk before the age of 6 months\n\n- Peanuts, especially after the age of 3\n\n- Eggs (most frequent), cow's milk, mustard, cod: from 5 months to 15 years of age\n\n- Nuts, certain fruits (apple, pear, plum, peach, apricot, kiwi), shellfish, soya\n\n- In adults, the most frequent allergens are fruits, in particular rosaceous fruits (apples, peaches, pears, apricots, etc.) and fruits associated with latex (kiwi, banana, avocado).",
+  "question": {
+    "question": "What are the most common allergens responsible for IgE-mediated food allergy?",
+    "option_a": "Milk before the age of 6 months",
+    "option_b": "Peanuts, especially after the age of 3",
+    "option_c": "Eggs (most frequent), cow's milk, mustard, cod: from 5 months to 15 years of age",
+    "option_d": "Fruits, in particular rosaceous fruits (apples, peaches, pears, apricots, etc.) and fruits associated with latex (kiwi, banana, avocado)",
+    "correct_option": "option_a"
+  }
+}

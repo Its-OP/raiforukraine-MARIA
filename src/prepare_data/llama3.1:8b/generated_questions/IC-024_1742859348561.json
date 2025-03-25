@@ -1,0 +1,12 @@
+{
+  "folder": "IC-024",
+  "content": "{{knowledge objective\n|Identifiant=OIC-024-11-A\n|Item_parent=Main complications of pregnancy.\n|Item_parent_short=Main complications of pregnancy.\n|Rank=A\n|Title=Knowing the complications of hypertension\n|Description=Complications associated with hypertension\n|Heading=Monitoring and/or prognosis\n|Contributors=Paul Berveiller,Philippe Deruelle\n|Order=11}}\n\nIn the case of gestational hypertension, the risk is progression to pre-eclampsia and its complications. '''(Cf. [[Urine dipstick analysis SD-182|182. Urine dipstick analysis]] / [[Proteinuria SD-212|212. Proteinuria]])''''\n\nEP is screened at each antenatal visit: proteinuria is checked (pathological if > one cross on the BU, > 300 mg/24 h or if the proteinuria/creatinuria ratio on the sample > 30 mg/mmol).\n\n\nMaternal complications of EP can be life-threatening:\n\n- eclampsia\n\n- HELLP syndrome (''Hemolysis, Elevated Liver enzymes'', ''Low Platelets'')\n\n- retroplacental haematoma (HRP)\n\n- Disseminated intravascular coagulation (DIC)\n\n- more rarely: acute renal failure, subcapsular haematoma of the liver, hypertensive retinopathy, cerebromeningeal haemorrhage\n\n\nFetal complications include : IUGR, MFIU on severe IUGR or following eclampsia or HRP; prematurity induced for maternal or foetal rescue.",
+  "question": {
+    "question": "What is a life-threatening maternal complication of pre-eclampsia (EP)?",
+    "option_a": "Acute renal failure",
+    "option_b": "HELLP syndrome ('Hemolysis, Elevated Liver enzymes', 'Low Platelets')",
+    "option_c": "Hypertensive retinopathy",
+    "option_d": "Subcapsular haematoma of the liver",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-302",
+  "content": "{{knowledge objective\n|Identifiant=OIC-302-07-A\n|Item_parent=Cutaneous, epithelial and melanoma tumours\n|Item_parent_short=Cutaneous, epithelial and melanoma tumours\n|Rank=A\n|Title=Knowing how to prevent squamous cell and basal cell carcinomas\n|Description=Know how to prevent squamous cell and basal cell carcinomas\n|Rubric=Management\n|Contributors=\n|Order=7}}\nPrimary prevention consists of encouraging sun prevention and the treatment of precancerous lesions (actinic keratoses, induced HPV viral lesions, etc.).",
+  "question": {
+    "question": "What is the primary prevention strategy for squamous cell and basal cell carcinomas?",
+    "option_a": "Protecting against UV radiation",
+    "option_b": "Using sunscreen and protective clothing",
+    "option_c": "Avoiding sun exposure",
+    "option_d": "Using tanning beds",
+    "correct_option": "option_a"
+  }
+}

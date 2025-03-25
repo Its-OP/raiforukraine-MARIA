@@ -1,0 +1,12 @@
+{
+  "folder": "IC-108",
+  "content": "{{knowledge objective\n|Identifiant=OIC-108-03-A\n|Item_parent=Confusion, dementia. (see item 132)\n|Item_parent_short=Confusion, dementia. (see item 132)\n|Rank=A\n|Title=Know the main neurological causes of mental confusion.\n|Description=Meningitis, tumours, trauma, AVEC, epilepsy\n|Rubric=Etiologies\n|Contributors=\n|Order=3}}\nNeurological causes :\n\n- Meningeal haemorrhage.\n\n- Meningitis and meningoencephalitis (bacterial, viral, parasitic [neuromalaria] and prion).\n\n- Intracranial expansive processes (tumours, brain abscesses, haematomas).\n\n- Head trauma (subdural, extradural and intraparenchymal haematomas).\n\n- Cerebral infarcts (located in the brain stem, basal ganglia and large infarcts).\n\n- Generalised epilepsy (post-critical phase or non-convulsive malignant state).\n\nIn fact, confusion can occur in the course of any chronic neurological pathology (multiple sclerosis, Parkinson's disease, Alzheimer's disease) in the presence of physical stress (see Understanding the main non-neurological causes of mental confusion). The underlying neurological pathology is then more of a risk factor than the cause of the confusion.",
+  "question": {
+    "question": "What are the primary neurological causes of mental confusion?",
+    "option_a": "Meningitis, tumours, trauma, and cerebral infarcts",
+    "option_b": "Meningitis, tumours, trauma, and multiple sclerosis",
+    "option_c": "Meningitis, tumours, trauma, and epilepsy",
+    "option_d": "Meningitis, tumours, trauma, and Alzheimer's disease",
+    "correct_option": "C"
+  }
+}

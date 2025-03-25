@@ -1,0 +1,46 @@
+{
+  "folder": "IC-325",
+  "content": "{{knowledge objective\n|Identifiant=OIC-325-07-A\n|Item_parent=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medicinal errors (see items 4 and 5)\n|Item_parent_short=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medication errors (see items 4 and 5)\n|Rank=A\n|Title=Know the characteristics of ADRs in the elderly\n|Description=None\n|Section=Definition\n|Contributors=Marie Briet\n|Order=7}}\n\n\n== Characteristics of ADRs in elderly subjects ==\n\n* Increased frequency and severity (co-morbidities, multiple medications, age-related pharmacokinetic changes)\n* Varied symptomatology, atypical clinical presentations\n* Main drugs involved: cardiovascular drugs, psychotropic drugs, anticoagulants, non-steroidal anti-inflammatory drugs, etc.\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a characteristic of ADRs in elderly subjects?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Increased frequency and severity due to age-related decline in organ function",
+        "description": "This option is plausible but not entirely accurate",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Varied symptomatology and atypical clinical presentations are more common in younger patients",
+        "description": "This option is incorrect, but related to the topic",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Increased frequency and severity due to co-morbidities and multiple medications",
+        "description": "This option is accurate and reflects the correct answer",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Main drugs involved are only cardiovascular drugs",
+        "description": "This option is incorrect and oversimplifies the topic",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

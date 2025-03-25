@@ -1,0 +1,12 @@
+{
+  "folder": "IC-254",
+  "content": "{{knowledge objective\n|Identifiant=OIC-254-07-A\n|Item_parent=Nutritional needs of pregnant women\n|Item_parent_short=Nutritional needs of pregnant women\n|Rank=A\n|Title=Knowing foods at risk\n|Description=phytoestrogen, phytosterol, mercury\n|Rubric=Taking charge\n|Contributors=\n|Order=7}}\n- Phyto-estrogens are likely to have undesirable effects on the foetus. It is advisable to limit yourself to 1 soy-based food per day.\n\n\n- It is advisable to refrain from consuming products enriched with phytosterols or phytostanols (enriched margarine).\n\n\n- Fish are potentially contaminated with dioxins, methyl-mercury and polychlorinated biphenyls, so it is advisable to vary fish species, origins and methods of supply (wild, farmed, fishing grounds, etc.). Consumption of highly bioaccumulative freshwater fish (eel, barbel, bream, carp and catfish) should be limited to once every two months. Consumption of wild predatory fish (monkfish, bass, bonito, eel, emperor, grenadier, halibut, pike, sea bream, skate, swordfish, tuna, etc.) should be limited and consumption of swordfish, marlin, siki, shark and lamprey should be avoided.",
+  "question": {
+    "question": "What should pregnant women do regarding fish consumption to minimize risks to the fetus?",
+    "option_a": "Consume a variety of fish species, including wild predatory fish, at least once a week.",
+    "option_b": "Limit consumption of highly bioaccumulative freshwater fish to once every two months and avoid highly contaminated fish like swordfish and shark.",
+    "option_c": "Avoid fish altogether, as the risks of mercury and other contaminants outweigh any potential benefits.",
+    "option_d": "Only consume farmed fish, as they are less likely to be contaminated with pollutants.",
+    "correct_option": "B"
+  }
+}

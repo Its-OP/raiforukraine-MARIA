@@ -1,0 +1,12 @@
+{
+  "folder": "IC-234",
+  "content": "{{knowledge objective\n|Identifiant=OIC-234-06-B\n|Item_parent=Adult heart failure\n|Item_parent_short=Adult heart failure\n|Rank=B\n|Title=Know the difference between cardiogenic and lesional PAO\n|Description=Know the difference between lesional and hydrostatic oedema and the immediate implications of such a diagnosis.\n|Heading=Pathophysiological elements\n|Contributors=\n|Order=6}}\nAcute lung oedema occurs when plasma fluid diffuses into the extravascular pulmonary spaces (interstitium, alveolus).\n\nThere are 2 types:\n\n<br />\n\n==== '''lesional oedema due to alteration of the alveolar-capillary membrane''' ====\n- Linked to an increase in permeability due to damage to the alveolar-capillary membrane\n\n- Pulmonary capillary pressure is normal or low < 18mmHg\n\n- The oedema fluid has a very high protein content, close to that of plasma.\n\n- This is responsible for acute respiratory failure, which can progress to interstitial fibrosis, known as ARDS.\n<br />\n\n==== '''cardiogenic pulmonary oedema due to pulmonary capillary hyperpressure''' ====\n- Sudden or chronic increase in pulmonary capillary wedge pressure (PCWP)\n\n- In the normal state, the PCP is of the order of 7-12 mmHg and the oncotic pressure is 25 mmHg.\n\n- Above 25 mm Hg there is extravasation of fluid into the interstitial tissue and then into the alveolus, leading to haematosis disorders with hypoxaemia and a reduction in lung compliance.\n<br />\n\n===== Figure =====\n[[File:Mechanism of cardiogenic pulmonary oedema.png|vignette|462x462px|Mechanism of cardiogenic pulmonary oedema]]\n<br />",
+  "question": {
+    "question": "What is the key difference between lesional and cardiogenic pulmonary edema?",
+    "option_a": "lesional",
+    "option_b": "cardiogenic",
+    "option_c": "lesional",
+    "option_d": "cardiogenic",
+    "correct_option": "lesional"
+  }
+}

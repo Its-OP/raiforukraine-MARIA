@@ -1,0 +1,12 @@
+{
+  "folder": "IC-347",
+  "content": "{{knowledge objective\n|Identifiant=OIC-347-03-A\n|Item_parent=Acute urine retention\n|Item_parent_short=Acute urine retention\n|Rank=A\n|Title=Knowing the main causes of acute urinary retention\n|Description=None\n|Rubric=Etiologies\n|Contributors=\n|Order=3}}\n- '''Mechanical obstruction:'''\n\no In men: [[Benign prostatic hyperplasia]] [[Benign prostatic hyperplasia|127 (BPH)]], [[Urinary tract infections in children and adults|prostatitis 161]], [[Prostate tumours|prostate cancer 310]]\n\no In women: [[Pelvic tumefaction in women|Severe genital prolapse 44]], [[Tumours of the uterine cervix, tumour of the uterine body|cancer of the uterine cervix 300]]\n\no In both: [[Urinary lithiasis|Lithiasis 265]]/bladder or urethral foreign body, faecal impaction, [[Haematuria|endovesical clotting]], [[Bladder tumours|bladder tumour 314]], pelvic tumours 300 and [[Colon and rectum tumours|301]], urethral stricture, [[Constipation in children and adults|constipation 283]].\n\n- '''Detrusor or sphincter contraction abnormality:''''\n\no Slammed bladder\n\no [[Motor and/or sensory deficit of the limbs|Peripheral neuropathies 92]]: Diabetic/alcoholic polyneuropathy, Guillain-Barr\u00e9 syndrome, Cauda equina syndrome, Post-operative (pelvic surgery)\n\no [[Non-traumatic spinal cord compression and cauda equina syndrome|Central neuropathies 93]] : [[Multiple sclerosis|Multiple sclerosis 104]], [[Parkinson's disease|Parkinsonian syndromes 106]], cerebral lesions, spinal cord lesions...\n\no Iatrogenic: epidural analgesia, anticholinergics, opiates, antiparkinsonian drugs, [[Prescription and monitoring of psychotropic drugs (see item 330)|benzodiazepines 74]].",
+  "question": {
+    "question": "What is the main cause of acute urinary retention?",
+    "option_a": "Benign prostatic hyperplasia",
+    "option_b": "Pelvic tumefaction in women",
+    "option_c": "Motor and/or sensory deficit of the limbs",
+    "option_d": "Iatrogenic: epidural analgesia, anticholinergics, opiates, antiparkinsonian drugs",
+    "correct_option": "option_a"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "folder": "IC-102",
+  "content": "{{knowledge objective\n|Identifiant=OIC-102-07-A\n|Item_parent=Diplopia\n|Item_parent_short=Diplopia\n|Rank=A\n|Title=Photography/video of VI paralysis\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=7}}\n\n[[File:VI.jpg|left|vignette|666x666px|Paralysis of the right VI: abolition of abduction of the right eye]]",
+  "question": {
+    "question": {
+      "title": "What is the correct option?",
+      "description": "The multiple-choice question about photography/video of VI paralysis",
+      "type": "string"
+    },
+    "option_a": {
+      "title": "The correct option is the one labeled with 'D'",
+      "description": "The correct option is the one labeled with 'D'",
+      "type": "string"
+    },
+    "option_b": {
+      "title": "The correct option is the one labeled with 'C'",
+      "description": "The correct option is the one labeled with 'C'",
+      "type": "string"
+    },
+    "option_c": {
+      "title": "The correct option is the one labeled with 'A'",
+      "description": "The correct option is the one labeled with 'A'",
+      "type": "string"
+    },
+    "option_d": {
+      "title": "The correct option is the one labeled with 'B'",
+      "description": "The correct option is the one labeled with 'B'",
+      "type": "string"
+    },
+    "correct_option": {
+      "title": "The correct option is the one labeled with 'D'",
+      "description": "This consists only of a letter of the correct option",
+      "type": "string"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d"
+    ]
+  }
+}

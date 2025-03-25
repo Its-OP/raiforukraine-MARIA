@@ -1,0 +1,11 @@
+{
+  "folder": "IC-234",
+  "content": "{{knowledge objective\n|Identifiant=OIC-234-07-A\n|Item_parent=Adult heart failure\n|Item_parent_short=Adult heart failure\n|Rank=A\n|Title=Know how to argue the main differential diagnoses of cardiogenic PAO\n|Description=Know how to find arguments for the main differential diagnoses: pneumonia, COPD exacerbation, asthma, etc.\n|Rubric=Positive diagnosis\n|Contributors=Olivier Huttin\n|Order=7}}\nAll causes of acute respiratory failure may be considered, especially in atypical forms:\n\n- ARDS\n\n- Asthma attacks\n\n- Pulmonary embolism :\n\n- decompensation of COPD,\n\n- Pneumonia,\n\n- tamponade,\n\n- pleural effusion or pneumothorax\n\n- acute pneumonia,\n\n- decompensated respiratory failure.\n\n\n\nLook for associated symptoms suggesting a non-cardiogenic cause:\n\no Coughing, expectoration (bronchopulmonary infection)\n\no Associated respiratory sounds (wheezing, wheezing)\n\no Auscultatory abnormalities (crackles, sibilants, bronchial rales, localised abolition of the vesicular murmur)\n\no Chest percussion abnormalities (dullness or tympany)\n\no Palpation abnormalities (increased or reduced vocal vibration)\n\no Fever\n\no Signs of Phlebitis",
+  "question": {
+    "question": "What are some associated symptoms suggesting a non-cardiogenic cause of acute respiratory failure?",
+    "option_a": "Coughing, fever, and decreased respiratory sounds",
+    "option_b": "Coughing, expectoration, and auscultatory abnormalities",
+    "option_c": "Chest percussion abnormalities, palpation abnormalities, and signs of Phlebitis",
+    "option_d": "Associated respiratory sounds, auscultatory abnormalities, and increased or reduced vocal vibration"
+  }
+}

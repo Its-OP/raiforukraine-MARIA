@@ -1,0 +1,46 @@
+{
+  "folder": "IC-082",
+  "content": "{{knowledge objective\n|Identifiant=OIC-082-14-B\n|Item_parent=Acute visual impairment\n|Item_parent_short=Acute visual impairment\n|Rank=B\n|Intitle=Photograph of a visual field of both eyes with homonymous lateral hemianopia (quadranopsia) (or bitemporal)\n|Description=including relative afferent pupillary deficit\n|Rubric=Multimedia content\n|Contributors=\n|Order=14}}\n\n[[File:Hemianopsia.jpg|left|vignette|Goldman visual field showing left lateral homonymous hemianopia (top), and right lateral homonymous hemianopia (bottom). The diagrams represent what the patient sees (visual field of the right eye on the right, visual field of the left eye on the left)].",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the term for the visual field defect characterized by a loss of vision on one side of both eyes?",
+        "description": "A visual field defect that affects both eyes",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Bitemporal hemianopia",
+        "description": "A visual field defect that affects the outer half of both visual fields",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Lateral hemianopia",
+        "description": "A visual field defect that affects one half of both visual fields",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Quadranopsia",
+        "description": "A visual field defect that affects one quarter of both visual fields",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Monocular vision loss",
+        "description": "A loss of vision in one eye only",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The letter of the correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

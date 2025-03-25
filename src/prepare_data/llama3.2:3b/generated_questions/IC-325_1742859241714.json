@@ -1,0 +1,40 @@
+{
+  "folder": "IC-325",
+  "content": "{{knowledge objective\n|Identifiant=OIC-325-06-B\n|Item_parent=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medicinal errors (see items 4 and 5)\n|Item_parent_short=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medicinal errors (see items 4 and 5)\n|Rank=B\n|Title=Know the epidemiology of iatrogenic risks\n|Description=Knowing the main results of the national study of adverse events related to healthcare\n|Rubric=Epidemiology\n|Contributors=Marie Briet\n|Order=6}}\n\n== Epidemiology of iatrogenic risks\n\n\nAn adverse event related to healthcare is an unfavourable event for the patient as a result of diagnostic, treatment, prevention or rehabilitation strategies and procedures.\n\nRisks related to healthcare are regularly assessed, in particular through the national study of adverse events related to healthcare in healthcare establishments (ENEIS). The main results of this ENEIS study (<nowiki>https://drees.solidarites-sante.gouv.fr/sites/default/files/2020-10/er398-3.pdf</nowiki>) are as follows:\n\n* 3 to 5% of medical and surgical admissions were due to a serious adverse event.\n* Approximately 50% of serious adverse events leading to hospitalisation were associated with healthcare products, half of which were avoidable.\n* The observed incidence of serious adverse events during hospitalisation in medicine or surgery is around 7%.\n* 2 out of 5 serious adverse events occurring during hospitalisation are considered to be avoidable.\n* In 2 out of 5 cases, serious adverse events occurring during hospitalisation lead to prolonged hospitalisation.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the approximate percentage of medical and surgical admissions due to serious adverse events?",
+        "description": "A multiple-choice question about the epidemiology of iatrogenic risks",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "10 to 15%",
+        "description": "A plausible but incorrect answer based on a common misconception"
+      },
+      "option_b": {
+        "title": "3 to 5%",
+        "description": "The correct answer based on the main results of the ENEIS study"
+      },
+      "option_c": {
+        "title": "20 to 25%",
+        "description": "A distractor that is close to the correct answer but not entirely accurate"
+      },
+      "option_d": {
+        "title": "50 to 60%",
+        "description": "An incorrect answer that is not supported by the ENEIS study"
+      },
+      "correct_option": {
+        "title": "A"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

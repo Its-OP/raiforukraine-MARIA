@@ -1,0 +1,12 @@
+{
+  "folder": "IC-070",
+  "content": "{{knowledge objective\n|Identifiant=OIC-070-01-A\n|Item_parent=Psychological disorders in the elderly\n|Item_parent_short=Psychological disorders in the elderly\n|Rank=A\n|Title=Know the definition of psychiatric disorders in the elderly\n|Description=Threshold age - Late-onset psychiatric disorders\n|Rubric=Definition\n|Contributors=Pierre Vandel,Marie Tournier\n|Order=1}}\n\nPsychiatry of the elderly has been a psychiatry option since 2017 and is based on the definition proposed by the WHO.\n\n\"A branch of psychiatry whose general objectives are to detect, treat, assess and prevent all types of psychiatric disorders in the elderly and their consequences.\n\nThis concerns :\n\n- psychobehavioural symptoms of dementia (major neurocognitive disorders);\n\n- all psychiatric disorders of the elderly (for which the age threshold has been set at 65), whether psychiatric disorders that began at a younger age and develop with ageing, or late-onset psychiatric disorders.\n\n<br />",
+  "question": {
+    "question": "What is the age threshold for late-onset psychiatric disorders in the elderly?",
+    "option_a": "40 years old",
+    "option_b": "65 years old",
+    "option_c": "50 years old",
+    "option_d": "70 years old",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-18-B\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=B\n|Title=Knowing the biological assessment to be prescribed in case of delayed puberty\n|Description=None\n|Rubric=Etiologies\n|Contributors=\n|Order=18}}\nSex steroids: testosterone in boys, oestradiol in girls\n\nGonadotropins: baseline FSH and LH (stimulation test unnecessary), distinguish between central pubertal delay/simple pubertal delay (low FSH and LH) and peripheral pubertal delay (high FSH and LH)\n\nOther anterpituitary hormones: TSH, T4L, IGF-1, cortisol, prolactin (rule out multiple anterpituitary insufficiency)\n\nAnti-transglutaminase IgA and total IgA\n\nBlood ionogram, urea and creatinine.\n\nIn cases of central hypogonadism: hypothalamic-pituitary and olfactory bulb MRI;\n\nIn case of peripheral hypogonadism: blood karyotype (search for Turner syndrome in girls and Klinefelter syndrome in boys).\n\nDelayed puberty is more common in boys than in girls. Delayed puberty is most often idiopathic in boys (simple delayed puberty, often with a family history of delayed puberty) and organic in girls.",
+  "question": {
+    "question": "What is the primary biological assessment prescribed for cases of delayed puberty?",
+    "option_a": "Baseline FSH and LH, as well as TSH, T4L, IGF-1, cortisol, and prolactin levels",
+    "option_b": "Gonadotropin stimulation test and blood ionogram, urea, and creatinine",
+    "option_c": "Hypothalamic-pituitary and olfactory bulb MRI and blood karyotype",
+    "option_d": "Anti-transglutaminase IgA and total IgA alone",
+    "correct_option": "A"
+  }
+}

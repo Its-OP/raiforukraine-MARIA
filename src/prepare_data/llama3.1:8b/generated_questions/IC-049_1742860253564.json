@@ -1,0 +1,12 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-16-A\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=A\n|Title=Defining delayed puberty in boys and girls\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=16}}\nDelayed puberty is defined as the absence of breast development after the age of 13 in a girl or testicular enlargement after the age of 14 in a boy.\n\n<br />",
+  "question": {
+    "question": "What is the age criterion for defining delayed puberty in boys?",
+    "option_a": "Breast development after the age of 12 in a girl or testicular enlargement after the age of 15 in a boy",
+    "option_b": "The absence of breast development after the age of 13 in a girl or testicular enlargement after the age of 14 in a boy",
+    "option_c": "Breast development after the age of 14 in a girl or testicular enlargement after the age of 13 in a boy",
+    "option_d": "The absence of breast development after the age of 12 in a girl or testicular enlargement after the age of 16 in a boy",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-267",
+  "content": "{{knowledge objective\n|Identifiant=OIC-267-13-A\n|Item_parent=Disorders of acid-base equilibrium and hydro-electrolytic disorders\n|Item_parent_short=Disorders of acid-base balance and fluid and electrolyte disorders\n|Rank=A\n|Title=Knowing the ECG abnormalities associated with hyperkalaemia\n|Description=None\n|Section=Additional tests\n|Contributors=P Rieu; B Moulin; M Flamant\n|Order=13}}\n\n\n*Cardiac symptoms are manifested by progressive electrocardiographic changes which are, successively and in order of severity:\n**Accelerated repolarisation with an increase in the amplitude of the T waves, which are sharp and symmetrical and may exceed the peak of the R wave, clearly seen in the anterior (V2 to V4) and posterior (DII and DIII) leads.\n**Atrial conduction abnormalities (decrease then disappearance of the P wave), auriculo-ventricular conduction abnormalities (sino-auricular and auriculo-ventricular blocks).\n**Then intraventricular conduction abnormalities with widening of the QRS complexes.\n**Then bradycardia with wide QRS (known as the \"sine wave pattern\") preceding asystole.\n*Ventricular arrhythmias (idiopathic ventricular rhythm, ventricular tachycardia, ventricular fibrillation) may occur if hyperkalaemia is associated with myocardial ischaemia, severe hypocalcaemia, hypothermia, severe acidosis, digitalis intoxication or severe vagal stimulation.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Question",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Option A",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Option B",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Option C",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Option D",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

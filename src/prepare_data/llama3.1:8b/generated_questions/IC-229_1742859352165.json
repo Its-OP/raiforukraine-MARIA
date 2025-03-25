@@ -1,0 +1,12 @@
+{
+  "folder": "IC-229",
+  "content": "{{knowledge objective\n|Identifiant=OIC-229-01-A\n|Item_parent=Venous access monitoring and complications\n|Item_parent_short=Venous access monitoring and complications\n|Rank=A\n|Title=Knowing the different types of venous ports\n|Description=Types of venous access (central - including implantable chambers, tunnelled or peripheral - and peripheral), insertion sites, main indications for the different devices.\n|Rubric=Definition\n|Contributors= Philippe Lacroix, Simon Rickenbach\n|Order=1}}\n\n[[File:Figure 1 item 229.jpg|vignette|Insertion sites for central and peripheral venous approaches]]\n(\"''[[Prescribing and monitoring a vascular approach SD-271|prescribing and monitoring a vascular approach]]\")''''",
+  "question": {
+    "question": "What are the main types of venous access?",
+    "option_a": "Central, peripheral, and arterial",
+    "option_b": "Central, peripheral, and tunneled",
+    "option_c": "Central, peripheral, and implantable",
+    "option_d": "Arterial, peripheral, and central",
+    "correct_option": "B"
+  }
+}

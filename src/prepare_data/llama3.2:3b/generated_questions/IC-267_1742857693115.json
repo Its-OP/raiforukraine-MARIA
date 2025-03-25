@@ -1,0 +1,46 @@
+{
+  "folder": "IC-267",
+  "content": "{{knowledge objective\n|Identifiant=OIC-267-15-A\n|Item_parent=Disorders of acid-base balance and fluid-electrolyte disorders\n|Item_parent_short=Disorders of acid-base balance and fluid and electrolyte disorders\n|Rank=A\n|Title=Know the principle of emergency treatment of severe hyperkalaemia\n|Description=In the event of hyperkalaemia showing signs of severity (ECG changes/level of hyperkalaemia), know how to administer Ca salts and an Insulin-Glucose regimen, know how to seek specialist advice on the indication for an ERA.\n|Rubric=Management\n|Contributors=P Rieu; B Moulin; M Flamant\n|Order=15}}\n\n\n*If hyperkalaemia is suspected, an ECG should be performed immediately. It is essential to assess the degree of severity in order to decide on symptomatic treatment. If there are conduction problems or neuromuscular signs, treatment must be given as a matter of extreme urgency.\n*Severe hyperkalaemia (kalaemia > 7 mmol/L) or an electrocardiographic threat is an absolute emergency:\n**Hyperkalaemic drugs must be stopped.\n**Membrane antagonist limiting hypoexcitability induced by hyperkalaemia:\n***IV calcium salts (10 to 30 ml), except if digitalis is present (in which case use a magnesium salt).\n**Transfer of K to the intracellular compartment:\n***insulin-glucose (e.g. 500 ml G10% + 10-15 U rapid insulin over 30 minutes)",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the immediate treatment for severe hyperkalaemia?",
+        "description": "A question about the emergency treatment of hyperkalaemia",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Administer only insulin-glucose regimen",
+        "description": "A plausible but incorrect option",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Stop hyperkalaemic drugs and administer IV calcium salts",
+        "description": "A correct option, but not the immediate treatment",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Administer IV calcium salts and insulin-glucose regimen",
+        "description": "The correct immediate treatment for severe hyperkalaemia",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Use a magnesium salt instead of IV calcium salts",
+        "description": "An incorrect option, but plausible in certain situations",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "C",
+        "description": "The correct letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

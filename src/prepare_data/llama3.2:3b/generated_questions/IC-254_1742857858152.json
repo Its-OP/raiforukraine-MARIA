@@ -1,0 +1,41 @@
+{
+  "folder": "IC-254",
+  "content": "{{knowledge objective\n|Identifiant=OIC-254-03-B\n|Item_parent=Nutritional needs of pregnant women\n|Item_parent_short=Nutritional needs of pregnant women\n|Rank=B\n|Title=Knowing how to prevent spina bifida\n|Description=Vitamin B9\n|Rubric=Physiopathology\n|Contributors=\n|Order=3}}\nFolic acid (vitamin B9) supplementation is systematically recommended at a rate of 400 \u00b5g/d, 28 days before conception and up to 12 weeks gestation.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Folic acid supplementation during pregnancy",
+        "description": "At what stage of pregnancy is folic acid supplementation recommended?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "At 1-2 months of gestation",
+        "description": "Folic acid supplementation begins after the first two months of pregnancy."
+      },
+      "option_b": {
+        "title": "28 days before conception and up to 12 weeks gestation",
+        "description": "Folic acid supplementation is recommended throughout the entire pregnancy."
+      },
+      "option_c": {
+        "title": "At 12-14 weeks of gestation",
+        "description": "Folic acid supplementation is recommended during the second trimester only."
+      },
+      "option_d": {
+        "title": "After 20 weeks of gestation",
+        "description": "Folic acid supplementation is no longer necessary after the 20th week of pregnancy."
+      },
+      "correct_option": {
+        "title": "28 days before conception and up to 12 weeks gestation",
+        "description": ""
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

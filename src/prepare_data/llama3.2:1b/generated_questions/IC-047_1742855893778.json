@@ -1,0 +1,18 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-35-A\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=A\n|Title=Know the components of the health record and their usefulness.\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=35}}\n<br /><references />Carnet de sant\u00e9 2018<ref>[https://solidarites-sante.gouv.fr/IMG/pdf/carnet_de_sante-num-.pdf Carnet de sant\u00e9 in its latest update (2018)]</ref>\n\nPersonal and family history, allergies\n\nNeonatal data: prenatal monitoring, delivery, term, adaptation to extra-uterine life, maternity monitoring, feeding, weight gain, stool colouring, etc.\n\nFollow-up data with summary of examination and conclusions (follow-up consultations, acute conditions)\n\nGrowth: weight, height, CP, BMI curves, growth rate\n\nOral health\n\nHospitalisation, irradiating examinations, blood products\n\nVaccinations (CERFA) and infectious diseases\n\nThroughout the booklet: advice on childcare, nutrition, parenting, etc.",
+  "question": {
+    "question": "What is the primary purpose of a health record?",
+    "correct_option": "Growth",
+    "description": "A health record is a collection of information about an individual's health status, medical history, and treatment, used to track their progress and make informed decisions.",
+    "option_a": "To identify potential health risks",
+    "option_b": "To track medication adherence",
+    "option_c": "To monitor disease progression",
+    "option_d": "To record personal and family history",
+    "distractors": [
+      "To provide a comprehensive view of an individual's medical history",
+      "To improve disease prevention",
+      "To provide a detailed analysis of an individual's medical history"
+    ]
+  }
+}

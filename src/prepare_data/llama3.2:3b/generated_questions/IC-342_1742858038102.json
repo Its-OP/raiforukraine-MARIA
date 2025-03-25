@@ -1,0 +1,46 @@
+{
+  "folder": "IC-342",
+  "content": "{{knowledge objective\n|Identifiant=OIC-342-13-B\n|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=B\n|Title=Knowing second-line tests for syncope and lipothymia\n|Description=Implantable ECG monitoring, tilt test, endocavitary electrophysiological study\n|Rubric=Additional tests\n|Contributors=\n|Order=13}}\nBlood ionogram and creatininemia, tilt test, ECG monitoring, endocavitary electrophysiological study",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a second-line test for syncope and lipothymia?",
+        "description": "Choose the correct option",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Blood pressure monitoring",
+        "description": "A test that measures blood pressure to diagnose syncope",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "ECG monitoring",
+        "description": "A test that records the electrical activity of the heart",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Tilt test",
+        "description": "A test that measures the body's response to changes in position",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Endocavitary electrophysiological study",
+        "description": "A test that records the electrical activity of the heart from within the heart",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "C",
+        "description": "The letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

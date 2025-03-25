@@ -1,0 +1,46 @@
+{
+  "folder": "IC-187",
+  "content": "{{knowledge objective\n|Identifiant=OIC-187-07-A\n|Item_parent=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Item_parent_short=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Rank=A\n|Title=Knowing how to treat acute urticaria\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=7}}\n- '''Etiological treatment'''\n\nAvoidance of favouring/triggering factors\n\n- '''Symptomatic treatment'''\n\n2<sup>th</sup> generation anti-H1 antihistamines 1 to 2 tablets/day.\n\nIn the event of chronic acute urticaria and/or poor response; 2nd<sup>th</sup> generation anti H1 antihistamines may be increased to 4 tsp/day.\n\n\nIn the event of associated signs of anaphylaxis, treatment should be guided by the symptoms presented;\n\n\u00d8 Parenteral adrenaline in cases of anaphylactic shock or asphyxiant angioedema,\n\n\u00d8 Oxygen therapy if desaturation,\n\n\u00d8 vascular filling if anaphylactic shock,\n\n\u00d8 administration of inhaled beta-2 mimetics in the event of bronchospasm.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the recommended dosage of 2nd generation anti-H1 antihistamines for chronic acute urticaria?",
+        "description": "The dosage of 2nd generation anti-H1 antihistamines for chronic acute urticaria",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "1 to 2 tablets/day",
+        "description": "A common dosage range for 2nd generation anti-H1 antihistamines",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "4 teaspoons/day",
+        "description": "A higher dosage range for some patients with chronic acute urticaria",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "1 to 4 teaspoons/day",
+        "description": "A dosage range that is not typically recommended",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "8 tablets/day",
+        "description": "A dosage that is not commonly recommended",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "4 tsp/day",
+        "description": "The correct dosage range for some patients with chronic acute urticaria",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

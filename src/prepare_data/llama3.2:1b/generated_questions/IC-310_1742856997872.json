@@ -1,0 +1,18 @@
+{
+  "folder": "IC-310",
+  "content": "{{knowledge objective\n|Identifiant=OIC-310-02-B\n|Item_parent=Prostate tumours\n|Item_parent_short=Prostate tumours\n|Rank=B\n|Title=Knowing the epidemiology of prostate cancer\n|Description=Knowing the prevalence, rankings of prostate cancer in relation to the main cancers, in terms of incidence and mortality of prostate cancer, age of peak frequency + prognostic elements\n|Rubric=Epidemiology\n|Contributors=Alexandra MASSON-LECOMTE,Laurent BRUREAU\n|Order=2}}\n\n\n\n<br />\n\n*It is the most common tumour in men over the age of 50.\n\n*Median age at diagnosis: 68.\n*In men, it is the most common cancer (51,000 cases), ahead of lung cancer (around 31,200 cases per year) and colorectal cancer (around 23,200 cases).\n*Incidence is approximately 51,000 new cases per year (estimation period: 2007 - 2016) for a standardised mortality rate of 10/100,000 cases, i.e. approximately 8,700 deaths per year (estimation period: 2007 - 2014).\n*In terms of mortality, it is the 3rd most common cancer (8,700 deaths) behind lung cancer (around 22,700 deaths) and colorectal cancer (around 9,200 deaths).\n\nScreening for prostate cancer is not recommended.\n\nEarly diagnosis is recommended for men:\n\n.with a life expectancy > 10 years\n\n.between the ages of 50 and 70 (40-45 if there is a family or ethnic risk factor)\n\n.after risk-benefit analysis\n\n.a digital rectal examination and a serum PSA test every 2-4 years\n\n\n<br />",
+  "question": {
+    "properties": {
+      "question": "What is the most common tumour in men over the age of 50?",
+      "option_a": "Breast cancer",
+      "option_b": "Lung cancer",
+      "option_c": "Prostate cancer",
+      "option_d": "Colorectal cancer",
+      "correct_option": "option_c"
+    },
+    "required": [
+      "question",
+      "correct_option"
+    ]
+  }
+}

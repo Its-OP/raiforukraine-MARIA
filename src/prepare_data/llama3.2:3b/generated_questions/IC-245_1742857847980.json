@@ -1,0 +1,12 @@
+{
+  "folder": "IC-245",
+  "content": "{{knowledge objective\n|Identifiant=OIC-245-08-B\n|Item_parent=Adrenal insufficiency in adults and children\n|Item_parent_short=Adrenal insufficiency in adults and children\n|Rank=B\n|Title=Know the main causes of adrenal insufficiency in adults (autoimmune, tuberculosis, iatrogenic, metastases)\n|Description=None\n|Rubric=Etiologies\n|Contributors=Claire Briet,St\u00e9phanie Espiard\n|Order=8}}\nThe main causes of primary adrenal insufficiency in adults are summarised in table 2.\n\n\nTable 2: Main causes of primary adrenal insufficiency and their clinical and paraclinical particularities.\n{| class=\"wikitable\"\n|Causes\n|Clinical features\n|Paraclinical\n|-\n|Autoimmune cortical shrinkage\n|>80% of aetiologies\n\nWomen > Men\n\nFamily and personal history of autoimmune diseases\n<br />\n|Positive anti-21-hydroxylase autoantibodies\n\nAtrophic adrenal glands on CT scan\n|-\n|Bilateral adrenal tuberculosis\n<10% of cases in Europe\n\nImmunocompromised or from an endemic country\n\nHistory of tuberculosis\n|Adrenal glands increased in size in the initial phase, then atrophied and calcified (non-systematic signs)\n|-\n|drug-induced\n|Context of :\n\n- bilateral adrenalectomy\n\n- treatment with synthetic anticortisolic agents\n|\n|-\n|Bilateral adrenal lesions\n|<Bilateral metastases</nowiki>.\n\n- Adrenal lymphoma\n|Bilateral adrenal masses\n|-\n|Vascular causes\n|<Adrenal necrosis</nowiki>.\n\n- bilateral adrenal thrombosis\n\nContext: shock, antiphospholipid syndrome, pregnancy, meningococcal meningitis, anticoagulant therapy\n|Hypovascularly enlarged adrenal glands\n|-\n|Infectious causes\n|Advanced HIV infection: adrenal localisation of opportunistic infection\n|\n|}\n<br />",
+  "question": {
+    "question": "What is the main cause of primary adrenal insufficiency in adults?",
+    "option_a": "Bilateral adrenal metastases",
+    "option_b": "Autoimmune cortical shrinkage",
+    "option_c": "Bilateral adrenal tuberculosis",
+    "option_d": "Adrenal lymphoma",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-188",
+  "content": "{{knowledge objective\n|Identifiant=OIC-188-20-A\n|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Rank=A\n|Title=Knowing how to initiate emergency treatment of an asthma attack in children and adults.\n|Description=Emergency oxygen therapy (item 359), systemic corticosteroid therapy and bronchodilators (inhaled beta-mimetics, anticholinergics) and assessing efficacy.\n|Rubric=Management\n|Contributors=\n|Order=20}}\nTreatment of exacerbations is based on\n\no The use of inhaled BDCA (metered-dose aerosol in outpatients, nebulisation in the case of hospitalisation)\n\no Systemic corticosteroid therapy (0.5 to 1mg/kg/d for 5 days, PO or IV)\n\no Use of a nebulised anticholinergic (ipratropium) in the event of severe exacerbation.\n\no Oxygen therapy and/or ventilatory assistance should be discussed in the event of severe exacerbation (in intensive care).",
+  "question": {
+    "question": "What is the recommended treatment for an asthma attack in children and adults?",
+    "option_a": "Use inhaled corticosteroid therapy",
+    "option_b": "Use systemic corticosteroid therapy",
+    "option_c": "Use nebulised ipratropium",
+    "option_d": "Use oxygen therapy alone",
+    "correct_option": "option_a"
+  }
+}

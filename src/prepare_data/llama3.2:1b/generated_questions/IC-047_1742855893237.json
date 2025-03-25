@@ -1,0 +1,12 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-07-A\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=A\n|Title=Know the indications for referring a child to an ophthalmologist.\n|Description=None\n|Rubric=Management\n|Contributors=Elise Launay\n|Order=7}}\n\nRefer to ophthalmologist if\n\n* personal or family history: risk factors = ophthalmological examination between 3 and 12 months, even in the absence of warning signs.\n* abnormality or doubt on inspection\n* abnormality or doubt on screening test\n* warning signs\n* inability to measure visual acuity (verbal age)\n\n'''IN EMERGENCY if'''\n\no leukocoria,\n\no cloudy cornea (glaucoma)\n\no sudden onset of strabismus\n\no recent onset of nystagmus",
+  "question": {
+    "question": "What is the minimum age for referring a child to an ophthalmologist?",
+    "option_a": "6 months",
+    "option_b": "3 months",
+    "option_c": "12 months",
+    "option_d": "18 months",
+    "correct_option": "3 months"
+  }
+}

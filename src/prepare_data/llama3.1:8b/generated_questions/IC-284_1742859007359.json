@@ -1,0 +1,12 @@
+{
+  "folder": "IC-284",
+  "content": "{{knowledge objective\n|Identifiant=OIC-284-02-A\n|Item_parent=Functional colorectal disease\n|Item_parent_short=Functional colopathy\n|Rank=A\n|Title=Knowing the diagnostic criteria for functional bowel disorders\n|Description= Abdominal pain >1 day/month in the last 3 months with 2 criteria (associated with defecation/associated with a change in stool frequency and/or consistency).\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=2}}\nIrritable bowel syndrome is defined by the Rome criteria. They correspond to the presence of recurrent abdominal pain, occurring at least one day a week over the last three months, with at least two of the following criteria:\n\n- 1) abdominal pain associated with defecation,\n\n- 2) abdominal pain associated with a change in the frequency of bowel movements,\n\n- 3) or abdominal pain associated with a change in the appearance of the stools.\n\nSymptoms must have been present for at least six months before a diagnosis can be made.",
+  "question": {
+    "question": "What are the diagnostic criteria for irritable bowel syndrome according to the Rome criteria?",
+    "option_a": "Abdominal pain >1 day/week in the last 3 months with 2 criteria (associated with defecation/associated with a change in stool frequency and/or consistency)",
+    "option_b": "Abdominal pain >1 day/month in the last 3 months with 2 criteria (associated with defecation/associated with a change in stool frequency and/or consistency)",
+    "option_c": "Abdominal pain >1 day/week in the last 3 months with 3 criteria (associated with defecation/associated with a change in stool frequency and/or consistency)",
+    "option_d": "Abdominal pain >1 day/month in the last 3 months with 3 criteria (associated with defecation/associated with a change in stool frequency and/or consistency)",
+    "correct_option": "A"
+  }
+}

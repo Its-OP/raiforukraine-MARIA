@@ -1,0 +1,41 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-17-A\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=A\n|Title=Knowing the interrogation and clinical examination data in favour of delayed puberty\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=17}}\n'''Questioning data:''' pubertal ages of parents and siblings, age at menarche of mother, parental heights with calculation of genetic target height, family history of infertility, smell disorder (anosmia), personal history of chronic illness, cryptorchidism or micropenis (reflection of congenital expression), visual signs or signs of HTIC, statural slowing/cracking (curve), anosmia, digestive signs.\n\n'''Clinical examination''': pubertal stage (Tanner, note penis size, cryptorchidism), dysmorphia, skin spots, growth rate and BMI (curve), complete examination\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the most relevant clinical examination finding in a patient with delayed puberty?",
+        "description": "Select the most appropriate answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Family history of infertility",
+        "description": "A family history of infertility may be relevant, but it is not the most relevant clinical examination finding in delayed puberty."
+      },
+      "option_b": {
+        "title": "Visual signs of HTIC",
+        "description": "Visual signs of Hypogonadotropic Hypogonadism (HTIC) are a key clinical examination finding in delayed puberty."
+      },
+      "option_c": {
+        "title": "Cryptorchidism or micropenis",
+        "description": "Cryptorchidism or micropenis are signs of congenital expression, but they are not the most relevant clinical examination finding in delayed puberty."
+      },
+      "option_d": {
+        "title": "Growth rate and BMI",
+        "description": "Growth rate and BMI are important parameters, but they are not the most relevant clinical examination finding in delayed puberty."
+      },
+      "correct_option": {
+        "title": "Visual signs of HTIC",
+        "description": "Visual signs of Hypogonadotropic Hypogonadism (HTIC) are a key clinical examination finding in delayed puberty."
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

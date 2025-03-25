@@ -1,0 +1,12 @@
+{
+  "folder": "IC-364",
+  "content": "{{knowledge objective\n|Identifiant=OIC-364-02-B\n|Item_parent=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Item_parent_short=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Rank=B\n|Title=Knowing the different types of trauma according to age\n|Description=None\n|Rubric=Definition\n|Contributors=Bruno Dohin\n|Order=2}}\n\nIn small children, low-energy fractures lead to butter clod fractures or epiphyseal fracture-decollement. Plastic deformation of the bones is also one of the forms encountered at this age.\n\nIn children, the most common fractures are epiphyseal dislocations, green wood fractures and metaphyseal fractures.\n\nIn adolescents, the fractures encountered are type III or IV epiphyseal dislocations, apophyseal fracture-avulsions and complete fractures.",
+  "question": {
+    "question": "What types of fractures are most common in children?",
+    "option_a": "Epiphyseal dislocations, green wood fractures, and metaphyseal fractures",
+    "option_b": "Type III or IV epiphyseal dislocations, apophyseal fracture-avulsions, and complete fractures",
+    "option_c": "Epiphyseal fracture-decollement and plastic deformation of the bones",
+    "option_d": "Butter clod fractures and plastic deformation of the bones",
+    "correct_option": "A"
+  }
+}

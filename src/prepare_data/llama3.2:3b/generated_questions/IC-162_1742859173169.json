@@ -1,0 +1,24 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-30-A\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=A\n|Title=Knowing the clinical manifestations of HPV\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=30}}\nVarious locations, single or multiple\n\n- Condylomata acuminata: \"cocksucker's ridges\n\n- Flat condyloma: pinkish maculo-papules\n\n- Intraepithelial neoplasia (IEN): pre-cancerous lesions (LSIL or HSIL)",
+  "question": {
+    "question": {
+      "title": "What is a clinical manifestation of human papillomavirus (HPV)?",
+      "description": "Select the correct answer",
+      "type": "string"
+    },
+    "option_a": {
+      "title": "Condylomata acuminata: 'cocksucker's ridges'",
+      "description": "A common skin lesion associated with HPV",
+      "type": "string"
+    },
+    "option_b": {
+      "title": "Intraepithelial neoplasia (IEN): pre-cancerous lesions (LSIL or HSIL)",
+      "description": "A potential precancerous lesion associated with HPV",
+      "type": "string"
+    },
+    "option_c": "Co-existing with gonorrhea",
+    "option_d": "Flat condyloma: pinkish maculo-papules",
+    "correct_option": "d"
+  }
+}

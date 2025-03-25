@@ -1,0 +1,12 @@
+{
+  "folder": "IC-288",
+  "content": "{{knowledge objective\n|Identifiant=OIC-288-04-A\n|Item_parent=Hemorrhoidal pathology\n|Item_parent_short=Hemorrhoidal pathology\n|Rank=A\n|Title=Distinguishing between external and internal haemorrhoids\n|Description=\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=4}}\n\nThe internal plexus can be seen during an endocanal examination using an anoscope.  The external plexus is only visible in the event of a complication (thrombosis). Apart from the very specific case of external haemorrhoidal thrombosis, haemorrhoids cannot be palpated. The anal touch is insufficient for diagnosis. The epithelial lining is intestinal in the internal haemorrhoidal plexus and squamous in the external haemorrhoidal plexus. The internal haemorrhoidal plexus forms swellings or pads. It plays a part in the resting tone of the upper part of the anal canal and in fine continence.",
+  "question": {
+    "question": "What is the main difference between the internal and external hemorrhoidal plexus?",
+    "option_a": "The internal hemorrhoidal plexus is prone to thrombosis, while the external plexus is not.",
+    "option_b": "The internal hemorrhoidal plexus is only visible during endoscopy, while the external plexus is only visible during a complication.",
+    "option_c": "The internal hemorrhoidal plexus is only visible in the event of a specific type of hemorrhoid.",
+    "option_d": "The internal hemorrhoidal plexus is only visible during a medical examination, while the external plexus is visible during a surgical procedure.",
+    "correct_option": "option_c"
+  }
+}

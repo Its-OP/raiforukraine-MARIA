@@ -1,0 +1,20 @@
+{
+  "folder": "IC-342",
+  "content": "{{knowledge objective\n|Identifiant=OIC-342-06-A\n|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=A\n|Title=Know the characteristics of an epileptic and non-epileptic event (pseudo-seizure).\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=6}}\ncf item 105",
+  "question": {
+    "question": "What is the primary characteristic of a pseudo-seizure in adults?",
+    "option_a": "Absence of convulsions",
+    "option_b": "Seizure duration",
+    "option_c": "Convulsions",
+    "option_d": "Seizure duration",
+    "correct_option": "A",
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

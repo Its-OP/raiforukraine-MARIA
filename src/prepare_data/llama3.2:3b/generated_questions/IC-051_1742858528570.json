@@ -1,0 +1,46 @@
+{
+  "folder": "IC-051",
+  "content": "{{knowledge objective\n|Identifiant=OIC-051-02-B\n|Item_parent=Micturition disorders in children\n|Item_parent_short=Micturition disorders in children\n|Rank=B\n|Title=Knowing the diagnostic approach in the case of mictional disorders: paraclinical examinations\n|Description=Know that investigations are only useful in cases of resistant mictional disorders.\n|Rubric=Complementary examinations\n|Contributors=Alice FAURE\n|Order=2}}\n\n'''Author''' : CFEU : proofreading\n\ntest<br />\n\n*Urine dipstick (supplemented if necessary by an ECBU) is necessary to exclude a low urinary [[Urinary tract infections in children and adults|urinary tract infection 161]] and to suspect hyperconcentration of urine leading to micturition problems.\n\n*Except in special cases, no further examination is necessary at the first consultation.\n\n==If, after questioning and clinical examination, the primary nature of the mictional disorder is not fully established, a urinary debimetry test, an ultrasound scan of the urinary tract with measurement of the post-mictional residue, or even a urodynamic assessment may be suggested. The aim is then to find an organic cause of the voiding problems, such as:==\n\n*Malformative uropathy such as posterior urethral valves causing urethral obstruction to urine flow. Diagnosis may be made in the ante-natal or neonatal period when a bladder globe is discovered with an absent or dripping urine stream and dysuria.\n*Malformative uropathy such as an ectopic abruption of the ureter of the upper pyelone of a double urinary system which manifests itself when the diagnosis is not made in the ante-natal period by permanent urinary incontinence with preserved micturition.\n*A congenital neurovessel in association with congenital spinal cord disease or spinal dysraphism (closure anomalies on the median line of the spine, skin or vertebral bodies). The diagnosis of a neurological bladder may be suspected when a spinal dysraphism is present at birth, or when voiding problems are initially considered benign but repeatedly fail to resolve, or when a work-up is carried out for another symptom, such as severe constipation. Thus, in the case of any [[Micturition disorders and urinary incontinence in adults and the elderly|micturition disorder 125]], a possible neurological cause should be systematically investigated, especially as the child gets older. The same applies when there is constipation or faecal leakage, which may also be the reason for consultation.\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary purpose of urinary debimetry test, ultrasound scan of the urinary tract, or urodynamic assessment in the case of micturition disorders?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To confirm the presence of a urinary tract infection",
+        "description": "Option A",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "To diagnose malformative uropathy such as posterior urethral valves",
+        "description": "Option B",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "To investigate possible neurological causes of micturition disorders",
+        "description": "Option C",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "To rule out constipation as a cause of micturition problems",
+        "description": "Option D",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "To investigate possible neurological causes of micturition disorders",
+        "description": "This is the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

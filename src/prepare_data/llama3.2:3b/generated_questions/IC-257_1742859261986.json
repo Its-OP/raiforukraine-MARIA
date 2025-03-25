@@ -1,0 +1,45 @@
+{
+  "folder": "IC-257",
+  "content": "{{knowledge objective\n|Identifiant=OIC-257-04-A\n|Item_parent=Localised or generalised oedema of the lower limbs\n|Item_parent_short=Localised or generalised oedema of the lower limbs\n|Rank=A\n|Intitle=Photographs: appearance of oedema due to fluid retention, bucket sign\n|Description=None\n|Rubric=Multimedia content\n|Contributors=Jean-Jacques Boffa,Bruno Moulin\n|Order=4}}\n\n[[File:Image oedema.png|vignette|\u0152dema of the lower limbs with bucket]]",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the term for the appearance of oedema due to fluid retention in the lower limbs?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Bucket sign",
+        "description": "A visible swelling of the lower limbs due to fluid retention",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Pitting edema",
+        "description": "A type of edema characterized by the formation of small, fluid-filled blisters on the skin",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Pulmonary edema",
+        "description": "A condition characterized by excess fluid accumulation in the lungs",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Oedema of the upper limbs",
+        "description": "A condition characterized by swelling of the upper limbs due to fluid retention",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The letter of the correct option"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

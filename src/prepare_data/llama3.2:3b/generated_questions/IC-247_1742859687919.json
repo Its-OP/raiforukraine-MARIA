@@ -1,0 +1,12 @@
+{
+  "folder": "IC-247",
+  "content": "{{knowledge objective\n|Identifiant=OIC-247-22-B\n|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Rank=B\n|Title=Knowing the principles of dietary hygiene and therapeutic support for T1DM (see item 330).\n|Description=None\n|Heading=Management\n|Contributors=Eva Feigerlova,H\u00e9l\u00e8ne Bihan,Claire Briet,Etienne Larger,Gaetan Prevost\n|Order=22}}\n\nNutritional advice must be adapted to cultural, ethnic and family traditions, as well as to professional constraints, and is inseparable from the action of insulin therapy. Prescription of insulin therapy, follow-up consultation, education of a type 1 diabetic patient SD-280]]\n\nCarbohydrate intake is defined for each patient on the basis of weight, eating habits, glycaemic profile and insulin regimen.\n\nThe diet should be varied and divided into 3 main meals, supplemented if necessary by 1 or 2 snacks. Snacks are essential during intense physical activity.\n\nThe main aim of dietetics in type 1 diabetes is to avoid excessive fluctuations in blood sugar levels, either through the consumption of products with a high glycaemic index or through an inadequate intake of carbohydrates at meals or during physical exercise, which could lead to hypoglycaemia. [[Hypoglycaemia SD-209]]; [[Hyperglycaemia SD-208]]\n\nPatients must learn to take sugar again in the event of hypoglycaemia.\n\nRegular physical activity promotes a better metabolic balance. It requires education to avoid hypo- and hyperglycaemia at the time of sport and/or afterwards. A clinical assessment is necessary when resuming an activity after a long period of inactivity.\n\nDiabetes can cause personal and family distress. Psychological support can improve metabolic control.\n\n<ref>Polycopy of the Coll\u00e8ge des Enseignants d'Endocrinologie, Diab\u00e8te et Maladies M\u00e9taboliques</ref>\n<references />",
+  "question": {
+    "question": "What is the main aim of dietetics in type 1 diabetes?",
+    "option_a": "To promote weight loss",
+    "option_b": "To avoid excessive fluctuations in blood sugar levels",
+    "option_c": "To increase insulin sensitivity",
+    "option_d": "To manage blood pressure",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-353",
+  "content": "{{knowledge objective\n|Identifiant=OIC-353-08-A\n|Item_parent=Suicidal risk and behaviour in children, adolescents and adults: identification and management\n|Item_parent_short=Suicidal risk and behaviour in children, adolescents and adults: identification and management\n|Rank=A\n|Title=Knowing what to do in an emergency\n|Description=None\n|Rubric=Management\n|Contributors=Pierre Vandel\n|Order=8}}\nFor people in a suicidal crisis or in the immediate aftermath of a suicide attack.\n\nA quiet welcome.\n\nKeeping the patient safe.\n\nA doctor must decide whether to admit the patient to hospital.\n\n'''Systematic psychiatric opinion:'''\n\nOnce her non-psychiatric clinical condition has stabilised\n\nPurpose of the psychiatric interview :\n\n* Assess the potential for suicidal crisis (risk/urgency/dangerousness), evaluate associated psychiatric disorders and guide treatment.\n* Decide on the indication for medicinal treatment\n** sedative or anxiolytic in case of agitation or severe anxiety;\n** hypnotic in the case of severe transient insomnia.\n** prescription for symptomatic purposes, limited in time.",
+  "question": {
+    "question": "What is the primary purpose of the psychiatric interview for a person in a suicidal crisis or in the immediate aftermath of a suicide attempt?",
+    "option_a": "To provide a quiet welcome and establish a therapeutic relationship",
+    "option_b": "To assess the potential for suicidal crisis, evaluate associated psychiatric disorders, and guide treatment",
+    "option_c": "To decide on the indication for medicinal treatment and prescribe medication on the spot",
+    "option_d": "To stabilize the patient's non-psychiatric clinical condition and then reassess",
+    "correct_option": "B"
+  }
+}

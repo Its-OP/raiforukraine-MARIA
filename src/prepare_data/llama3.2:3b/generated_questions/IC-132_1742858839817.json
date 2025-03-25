@@ -1,0 +1,41 @@
+{
+  "folder": "IC-132",
+  "content": "{{knowledge objective\n|Identifiant=OIC-132-14-B\n|Item_parent=Cognitive disorders in the elderly. (see item 108)\n|Item_parent_short=Cognitive disorders in the elderly. (see item 108)\n|Rank=B\n|Title=Know how to diagnose frontotemporal lobar degeneration.\n|Description=Know the positive clinical elements which allow the diagnosis to be made.\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=14}}\nFTD (frontotemporal degeneration)\n\n* Often affects people under 60,\n* There is sometimes a family history of FTD.\n* Genetic and lesional heterogeneity (abnormal metabolism of tau protein).\n\nThe initial clinical presentation is often marked by :\n\n* BEHAVIOURAL DISORDERS'' by behavioural executive impairment (disinhibition, apathy, impulsivity, eating disorders...)\n* Dysexecutive syndrome\n* Neurological examination initially normal, then appearance of archaic reflexes, pyramidal syndrome, astasia-abasia, etc.\n* Bilateral anterior ''FRONTAL and TEMPORAL ATROPHIA'' on brain MRI",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is often the initial clinical presentation of frontotemporal lobar degeneration (FTD)?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Neurological examination initially abnormal, with bilateral anterior frontal and temporal atrophy on brain MRI",
+        "description": "Option A"
+      },
+      "option_b": {
+        "title": "Dysexecutive syndrome, with behavioral executive impairment and disinhibition, apathy, impulsivity, eating disorders...",
+        "description": "Option B"
+      },
+      "option_c": {
+        "title": "A family history of FTD, with genetic and lesional heterogeneity (abnormal metabolism of tau protein)",
+        "description": "Option C"
+      },
+      "option_d": {
+        "title": "A neurological examination initially normal, with no abnormalities on brain MRI",
+        "description": "Option D"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "This consists only a letter of the correct option"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-33-B\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=B\n|Title=Know the additional tests to be carried out to diagnose trichomoniasis, Chlamydia trachomatis and Neisseria gonorrheae infection.\n|Description=Sample to be sent rapidly to the laboratory if direct examination\n|Item=Positive diagnosis\n|Contributors=\n|Order=33}}\n'''Gonococcus''' :\n\n- PCR :\n\n- Male: 1st urine stream or spontaneous urethral discharge\n\n- Women: vaginal self-testing\n\n- +/- pharyngeal, anal\n\n\n- Bacteriological sampling :\n\n- Biological urethritis: >5 PNN on urethral smear x100 or >10 PNN x400\n\n- Direct examination: gram-negative diplococcus, \"coffee bean\", intracellular\n\n- Culture: systematic, on cooked blood agar, antibiotic susceptibility testing\n\n\nChlamydia:\n\n- PCR :\n\n- Male: on first urine stream or spontaneous urethral discharge\n\n- Women: on vaginal self-testing\n\n- +/- pharyngeal, anal\n\n\n- No benefit from serology\n\n\nTrichomoniasis:\n\n- Direct examination or PCR\n\n- In men: urethral discharge or 1st urine stream\n\n- In women: posterior vaginal cul-de-sac (also performed on self-swabbing)",
+  "question": {
+    "question": "What is the recommended method for diagnosing trichomoniasis in women?",
+    "option_a": "Urethral discharge or 1st urine stream",
+    "option_b": "Posterior vaginal cul-de-sac (also performed on self-swabbing)",
+    "option_c": "Gram-negative diplococcus, 'coffee bean', intracellular",
+    "option_d": "Serology testing",
+    "correct_option": "B"
+  }
+}

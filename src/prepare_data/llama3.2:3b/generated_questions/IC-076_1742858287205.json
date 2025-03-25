@@ -1,0 +1,41 @@
+{
+  "folder": "IC-076",
+  "content": "{{knowledge objective\n|Identifiant=OIC-076-01-A\n|Item_parent=Alcohol dependence\n|Item_parent_short=Alcohol dependence\n|Rank=A\n|Title=Knowing the main figures for alcohol consumption in France (sources BEH 2019)\n|Description=None\n|Rubric=Epidemiology\n|Contributors=\n|Order=1}}\nFrance: one of the countries with the highest alcohol consumption.\n\nMore than 1 in 5 French people drink at risk, with a clear male predominance.\n\nFew patients with alcohol misuse access specialist care.\n\nSecond cause of avoidable (premature) death after tobacco.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a notable statistic about alcohol consumption in France?",
+        "description": "According to the BEH 2019 report, what percentage of French people drink at risk?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "More than 1 in 10 French people drink at risk",
+        "description": "A plausible but incorrect estimate that is close to the actual figure"
+      },
+      "option_b": {
+        "title": "More than 1 in 5 French people drink at risk",
+        "description": "The correct answer based on the BEH 2019 report"
+      },
+      "option_c": {
+        "title": "Only 1 in 10 French people drink at risk",
+        "description": "An incorrect but not implausible estimate that might be based on a different source"
+      },
+      "option_d": {
+        "title": "All French people drink at risk",
+        "description": "An extreme and incorrect statement that is not supported by any evidence"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The letter of the correct option"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-261",
+  "content": "{{knowledge objective\n|Identifiant=OIC-261-06-B\n|Item_parent=Glomerular nephropathy\n|Item_parent_short=Glomerular nephropathy\n|Rank=B\n|Title=Know the main elementary glomerular lesions: proliferation, deposits, sclerosis, etc.\n|Description=None\n|Rubric=Definition\n|Contributors=Eric Daugas,Bruno Moulin\n|Order=6}}\n\n2.        Elementary glomerular lesions\n\n* Three techniques are used to study the glomerulus:\n** light microscopy using PAS, trichrome and silver staining ;\n** immunofluorescence examination using antibodies directed against IgG, IgA, IgM, C3, C1q, light chains of kappa and lambda immunoglobulins, and fibrin;\n** electron microscopy.\n\n* 4 elementary glomerular lesions are usually described.\n** Cell proliferation: table 3.\n** Sclerosis (or fibrosis): fibrous scarring replacing the whole of the destroyed glomerulus (sclerotic glomerulus) or part of the destroyed glomerulus (segmental sclerosis).\n** Deposits of immunoglobulin chains (IgG, IgM, IgA, Kappa, Lambda) or complement. Table 4 summarises the different locations.\n** Other deposits\n*** hyaline deposits (segmental and focal hyalinosis) ;\n*** amyloid deposits (Ig chains: AL amyloidosis, SAA: AA amyloidosis);\n*** deposits of glycosylated proteins and extracellular matrix (diabetes).\n\n\nTable 3: Cell proliferation\n{| class=\"wikitable\"\n|Name\n|Cell type\n|Clinical translation\n|-\n|Mesangial proliferation\n|Mesangial cells\n|Inconsistent severity, observed in many pathologies\n|-\n|Endocapillary proliferation\n|Endothelial cells and infiltration by polymorphonuclear cells and monocytes\n|Severity during acute inflammatory attacks (e.g. GNA) with inconstant renal failure.\n|-\n|Extracapillary proliferation\n|Parietal epithelial cells\n|High severity, acute renal failure, e.g. in rapidly progressive (crescentic) glomerulonephritis.\n|}\n\n\nTable 4: Glomerular locations of deposits\n{| class=\"wikitable\"\n|Name\n|Location of deposits\n|-\n|Mesangial\n|Within the mesangium\n|-\n|Edomembranous\n|Subendothelial space (inner side of MBG)\n|-\n|Intramembranous\n|In the MBG\n|-\n|Extramembranous\n|In contact with the podocytes (outer side of the MBG)\n|}\nMBG: glomerular basement membrane\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What are the main elementary glomerular lesions used to study the glomerulus?",
+        "description": "Select the correct answer.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Light microscopy using PAS and trichrome staining only",
+        "description": "Only light microscopy using PAS and trichrome staining is used to study the glomerulus.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Immunofluorescence examination using antibodies against IgG, IgA, IgM, C3, C1q, light chains of kappa and lambda immunoglobulins, and fibrin",
+        "description": "Immunofluorescence examination using antibodies against IgG, IgA, IgM, C3, C1q, light chains of kappa and lambda immunoglobulins, and fibrin is the only technique used to study the glomerulus.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Electron microscopy and light microscopy using PAS, trichrome, and silver staining",
+        "description": "Electron microscopy and light microscopy using PAS, trichrome, and silver staining are the only techniques used to study the glomerulus.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "All of the above",
+        "description": "All three techniques: light microscopy using PAS, trichrome, and silver staining, immunofluorescence examination using antibodies against IgG, IgA, IgM, C3, C1q, light chains of kappa and lambda immunoglobulins, and fibrin, and electron microscopy, are used to study the glomerulus.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Electron microscopy, light microscopy using PAS, trichrome, and silver staining, and immunofluorescence examination using antibodies against IgG, IgA, IgM, C3, C1q, light chains of kappa and lambda immunoglobulins, and fibrin",
+        "description": "The correct answer includes electron microscopy, light microscopy using PAS, trichrome, and silver staining, and immunofluorescence examination using antibodies against IgG, IgA, IgM, C3, C1q, light chains of kappa and lambda immunoglobulins, and fibrin.",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

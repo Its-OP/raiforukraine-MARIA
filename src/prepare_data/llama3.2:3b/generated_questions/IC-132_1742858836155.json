@@ -1,0 +1,45 @@
+{
+  "folder": "IC-132",
+  "content": "{{knowledge objective\n|Identifiant=OIC-132-03-A\n|Item_parent=Cognitive disorders in the elderly. (see item 108)\n|Item_parent_short=Cognitive disorders in the elderly. (see item 108)\n|Rank=A\n|Title=Know how to diagnose vascular encephalopathy.\n|Description=Know the positive clinical elements which allow the diagnosis to be made.\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=3}}\nVascular encephalopathy is the second most common cause of cognitive impairment in the elderly after Alzheimer's disease.\n\nClinical signs depend on the location and extent of the cerebrovascular lesions. Cerebral lesions may be of ischaemic or haemorrhagic origin and may induce mild cognitive impairment (minor TNC) or a dementia syndrome (major TNC).\n\nThere are several types of lesions that can cause cognitive problems:\n\n- multiple infarctions\n\n- multi-lacunar infarctions\n\n- diffuse leukoencephalopathy\n\n- strategic infarction (e.g. thalamus or angular gyrus)\n\n- hypoperfusion\n\n. amyloid angiopathy ...  \n\nThe sudden onset of cognitive impairment, or the classic \"stair-step\", is suggestive but not necessary. In diffuse encephalopathy, particularly lacunar encephalopathy, a progressive onset is observed.\n\nOn clinical examination, there may be focal neurological sequelae (pyramidal syndrome, motor deficit, homonymous lateral hemianopia, etc.) and extra-pyramidal rigidity (if there is vascular damage to the basal ganglia). Cognitive disorders are heterogeneous (dysexecutive, psychomotor slowing, etc.).",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the most common cause of vascular encephalopathy in the elderly?",
+        "description": "Choose the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Alzheimer's disease",
+        "description": "A common cause of cognitive impairment in the elderly",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Multiple infarctions",
+        "description": "A type of cerebral lesion that can cause cognitive problems",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Amyloid angiopathy",
+        "description": "A condition characterized by the buildup of amyloid proteins in blood vessels",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Diffuse leukoencephalopathy",
+        "description": "A type of cerebral lesion that can cause cognitive impairment",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct letter of the correct option"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

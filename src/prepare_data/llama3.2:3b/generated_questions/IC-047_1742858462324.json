@@ -1,0 +1,41 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-38-B\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=B\n|Title=Know the objectives and items contained in the three medical certificates accompanying the compulsory systematic monitoring of infants.\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=38}}\nCommon objectives cf ''[[To know the elements of systematic questioning and clinical examination of a child according to age and context 2C-047-PC-A01|To know the elements of systematic questioning and clinical examination of a child according to age and context]]'''\n\nSpecific objectives\n\n*https://www.formulaires.service-public.fr/gf/cerfa_12596.do 8<sup>th</sup> day]: history, pregnancy, delivery, condition at birth, pathologies in the first week, congenital anomalies, breastfeeding, vaccinations (BCG or HBV), newborn hearing screening,\n*https://www.formulaires.service-public.fr/gf/cerfa_12597.do 9<sup>th</sup> month]: history, vaccinations, eye and hearing tests, psychomotor development, measurements, breastfeeding, risk of lead poisoning, current medical conditions.\n*https://www.formulaires.service-public.fr/gf/cerfa_12598.do 24<sup>\u00e8me</sup> mois]: idem 9th month + dental condition",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the content of the medical certificates accompanying the compulsory systematic monitoring of infants?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "History, pregnancy, delivery, condition at birth, pathologies in the first week, congenital anomalies, breastfeeding, vaccinations (BCG or HBV), and newborn hearing screening",
+        "description": "A list of medical conditions and vaccinations administered to infants"
+      },
+      "option_b": {
+        "title": "History, vaccinations, eye and hearing tests, psychomotor development, measurements, breastfeeding, risk of lead poisoning, and current medical conditions",
+        "description": "A list of medical tests and assessments performed on infants"
+      },
+      "option_c": {
+        "title": "A list of vaccinations and medical conditions administered to infants at 8th day, 9th month, and 24th month",
+        "description": "A list of vaccinations and medical conditions administered to infants at specific ages"
+      },
+      "option_d": {
+        "title": "A list of medical conditions and vaccinations administered to infants at 8th day, 9th month, and 24th month",
+        "description": "A list of medical conditions and vaccinations administered to infants at specific ages"
+      },
+      "correct_option": {
+        "title": "correct",
+        "description": "The correct answer"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-208",
+  "content": "{{knowledge objective\n|Identifiant=OIC-208-05-A\n|Item_parent=Chronic respiratory failure\n|Item_parent_short=Chronic respiratory failure\n|Rank=A\n|Title=Knowing the functional investigations that can lead to obstructive CKD and restrictive CKD\n|Description=EFR, indications\n|Section=Additional tests\n|Contributors=\n|Order=5}}\n\n\n* Obstructive CKD: spirometry with flow-volume curve (TVO: FEV1/CV<0.7).  Plethysmography may be performed to check for chest distension (CPT>120% of predicted values).\n* Restrictive CKD: plethysmography (CPT<80% of predicted values).\n** Impaired diffusion (TLCO<0.7) is consistent with diffuse infiltrative lung disease.\n** Normal diffusion is consistent with pathology of the ventilatory pump (neuromuscular or skeletal diseases). Other tests may more specifically assess the strength of the respiratory muscles (maximum inspiratory pressure, maximum expiratory pressure).\n* Blood gases are used to confirm the diagnosis, assess the severity of CKD and point to pathology of the pulmonary exchanger (gas shunt effect or increase in the alveolar-arterial difference) or pathology of the ventilatory pump (alveolar hypoventilation).",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary test used to diagnose restrictive CKD?",
+        "description": "A measure of lung function",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Spirometry with flow-volume curve",
+        "description": "A measure of lung function",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Plethysmography",
+        "description": "A measure of lung volume",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Maximum inspiratory pressure",
+        "description": "A measure of respiratory muscle strength",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Diffusion capacity of the lung for carbon monoxide (DLCO)",
+        "description": "A measure of lung function",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

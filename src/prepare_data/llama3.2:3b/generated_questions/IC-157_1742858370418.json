@@ -1,0 +1,41 @@
+{
+  "folder": "IC-157",
+  "content": "{{knowledge objective\n|Identifiant=OIC-157-07-A\n|Item_parent=Bacteremia/Fungemia in adults and children\n|Item_parent_short=Bacteremia/Fungemia in adults and children\n|Rank=A\n|Title=Knowing the epidemiological and clinical features of Staphylococcus aureus bacteraemia\n|Description=None\n|Rubric=Etiologies\n|Contributors=David Lebeaux\n|Order=7}}\n- Staphylococcus aureus: 80-90% susceptible to methicillin (=SAMS)\n\n- 30% of the general population are healthy carriers of S. aureus (nose, armpits, perineum)\n\n- Serious infection because :\n\n*Frequent septic metastases\n*Frequent foreign material (source of bacteremia or secondary graft)\n*Associated with endocarditis in 10% of cases: echocardiography must be performed systematically\n*High risk of septic shock\n\n- The route of entry is cutaneous. It is not found in 30% of cases.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a common source of Staphylococcus aureus bacteremia in adults and children?",
+        "description": "The route of entry of Staphylococcus aureus bacteremia",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Frequent septic metastases",
+        "description": "A serious complication of Staphylococcus aureus bacteremia"
+      },
+      "option_b": {
+        "title": "The nose, armpits, and perineum",
+        "description": "Common sites where Staphylococcus aureus is commonly found"
+      },
+      "option_c": {
+        "title": "Foreign material (e.g. grafts, medical devices)",
+        "description": "A common source of Staphylococcus aureus bacteremia"
+      },
+      "option_d": {
+        "title": "Endocarditis in 10% of cases",
+        "description": "A complication of Staphylococcus aureus bacteremia"
+      },
+      "correct_option": {
+        "title": "The nose, armpits, and perineum",
+        "description": "A common source of Staphylococcus aureus bacteremia"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

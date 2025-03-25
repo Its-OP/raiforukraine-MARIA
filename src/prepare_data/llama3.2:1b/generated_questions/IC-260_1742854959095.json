@@ -1,0 +1,16 @@
+{
+  "folder": "IC-260",
+  "content": "{{knowledge objective\n|Identifiant=OIC-260-02-B\n|Item_parent=Hematuria\n|Item_parent_short=Hematuria\n|Rank=B\n|Title=Knowing the main mechanisms of haematuria\n|Description=None\n|Rubric=Physiopathology\n|Contributors=Charles Dariane, Bruno Moulin\n|Order=2}}\n\n<br />\n\n*Micro or macroscopic haematuria correspond to urological or nephrological aetiologies, indicating damage to the renal parenchyma or the urinary excretory tract.\n\n*Urological etiology: lesion of the renal parenchyma or urinary tree with effraction of blood vessels, red blood cells spilled into the urinary excretory tract.\n\n*Nephrological etiology: passage of red blood cells through an altered glomerular basement membrane: extracapillary cell proliferation during rapidly progressive glomrulonephritis and/or remodelling of the glomerular structure (mesangial IgA deposits, Alport syndrome, etc.). Absence of clots due to activation of fibrinolytic tubular urokinase. Presence of haematic cylinders or deformed red blood cells (acanthocytes) in rolls on analysis of the urine pellet. Proteinuria may be present.",
+  "question": {
+    "question": "What is the primary mechanism of micro or macroscopic haematuria?",
+    "correct_option": "A",
+    "description": "The correct answer is the urological etiology: lesion of the renal parenchyma or urinary tree with effraction of blood vessels, red blood cells spilled into the urinary excretory tract.",
+    "options": {
+      "A": "Microscopic haematuria",
+      "B": "Macroscopic haematuria",
+      "C": "Urological etiology: lesion of the renal parenchyma or urinary tree with effraction of blood vessels, red blood cells spilled into the urinary excretory tract.",
+      "D": "Nephrological etiology: passage of red blood cells through an altered glomerular basement membrane: extracapillary cell proliferation during rapidly progressive glomrulonephritis and/or remodelling of the glomerular structure (mesangial IgA deposits, Alport syndrome, etc.) Absence of clots due to activation of fibrinolytic tubular urokinase. Presence of haematic cylinders or deformed red blood cells (acanthocytes) in rolls on analysis of the urine pellet. Proteinuria may be present.",
+      "incorrect_option": "B"
+    }
+  }
+}

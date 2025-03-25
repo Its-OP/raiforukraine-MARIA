@@ -1,0 +1,46 @@
+{
+  "folder": "IC-050",
+  "content": "{{knowledge objective\n|Identifiant=OIC-050-03-B\n|Item_parent=Genito-scrotal pathology in boys and men\n|Item_parent_short=Genito-scrotal pathology in boys and men\n|Rank=B\n|Title=Photographs: transilluminated bursa, non-transilluminated bursa\n|Description=None\n|Rubric=Multimedia content\n|Contributors=C\u00e9dric Leb\u00e2cle, Alice Faure\n|Order=3}}\n      \n\n'''Transilluminable stock exchange:'''\n\n[[File:Bouse transilluminable1.png|vignette|Bourse transilluminable |alt=|n\u00e9ant]]\n\n\n<br /><br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the term for the appearance of a bursa that glows under a blue light?",
+        "description": "A bursa that appears to glow under a blue light when viewed under a transilluminator.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Transilluminable",
+        "description": "A type of bursa that appears to glow under a blue light when viewed under a transilluminator.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Non-transilluminable",
+        "description": "A type of bursa that does not appear to glow under a blue light when viewed under a transilluminator.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Transilluminable cyst",
+        "description": "A type of cyst that appears to glow under a blue light when viewed under a transilluminator.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Glowing bursitis",
+        "description": "Inflammation of the bursa that causes it to appear to glow under a blue light when viewed under a transilluminator.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct answer, indicating the first letter of the correct option.",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

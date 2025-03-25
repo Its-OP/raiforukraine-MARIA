@@ -1,0 +1,12 @@
+{
+  "folder": "IC-328",
+  "content": "{{knowledge objective\n|Identifiant=OIC-328-01-A\n|Item_parent=Non-drug therapies and medical devices\n|Item_parent_short=Non-drug therapies and medical devices\n|Rank=A\n|Title=Explaining the principles of evaluating non-drug therapies\n|Description=None\n|Rubric=Evaluation\n|Contributors=Bisseriex H\u00e9l\u00e8ne\n|Order=1}}\n\nNon-medicinal therapies are prescribed after an \"initial assessment\", which establishes the indication on the basis of the patient's :\n\n- '''disabilities'''\n\n- '''activity limitations'''\n\n- '''participation restrictions'''\n\n- '''environmental factors'''\n\nPrescription for a defined ''therapeutic objective''.\n\n\n'''Evaluation of the system ([[Consultation for monitoring a chronic pathology SDD-279|consultation for monitoring a chronic pathology]]):'''\n\n- therapeutic efficacy'' ratio (impairment, activities and participation with the device) ''/ tolerance'' (complications)\n\n- compliance, conditions of use, maintenance, ease of use, monitoring, renewal",
+  "question": {
+    "question": "What are the common disabilities that can lead to the prescription of non-medicinal therapies?",
+    "option_a": "Disability of speech",
+    "option_b": "Disability of mobility",
+    "option_c": "Disability of hearing",
+    "option_d": "Disability of vision",
+    "correct_option": "option_a"
+  }
+}

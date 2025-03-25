@@ -1,0 +1,46 @@
+{
+  "folder": "IC-326",
+  "content": "{{knowledge objective\n|Identifiant=OIC-326-01-A\n|Item_parent=Regulatory framework for therapeutic prescribing and recommendations for correct use\n|Item_parent_short=Regulatory framework for therapeutic prescribing and recommendations for proper use\n|Rank=A\n|Intitle=Knowing the different legal frameworks for prescribing\n|Description=Knowing the procedures for prescribing and dispensing medicines\n|Heading=Management of costs\n|Contributors=\n|Order=1}}\n\n\n==Prescription procedures==\n\n===Health professionals authorised to prescribe===\nPrescriptions are made by authorised personnel:\n\n*Physicians (and medical interns by delegation). They have <u>large</u> prescribing rights. However, their ability to prescribe may be limited for ''restricted prescription specialities'' - reserved for certain ''specialists'' or ''hospital practitioners''.\n*'''dental surgeons''' may prescribe all procedures, products and services <u>necessary for the practice of dentistry</u>. <ref>https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006688896</ref>\n*'''midwives''' are authorised to prescribe - to women and newborns - within the limits of a <u>restrictive list</u> of medicines set by order of the Minister responsible for health. <ref>https://www.legifrance.gouv.fr/loda/id/JORFTEXT000024686131/</ref>\n\n===Mandatory, optional or restricted prescribing===\nDepending on the conditions under which they are prescribed and dispensed, a distinction is made between :\n\n*specialities subject to ''compulsory medical prescription''.\n*specialities not subject to compulsory prescription. These specialities are therefore available on an optional prescription or for self-medication. Among these specialities, some - the list of which is defined by the ANSM <ref>https://ansm.sante.fr/documents/reference/medicaments-en-acces-direct</ref> - may be presented for direct access in pharmacies.\n*'''restricted prescription''' specialities.\n**Medication reserved for <u>hospital use</u>.\n**Medicinal product with <u>hospital prescription</u>.\n**Drug with <u>hospital ''initial'' prescription</u>.\n**Medication requiring prescription only by certain <u>specialist physicians</u>.\n**Medication requiring <u>particular monitoring</u> during treatment.\n\n===Prescription using the international non-proprietary name===\nSince 1 January 2015, all medicines must be prescribed using the international non-proprietary name [INN].\n\n==Delivery procedures==\n\n===Health professionals authorised to dispense===\nDispensing is the act of dispensing a medicine by a pharmacist.\n\n*The dispensing pharmacist is responsible for dispensing and ensuring the correct use of medicines for outpatients (i.e. not hospitalised patients).\n*The health establishment's pharmacy, known as the in-house pharmacy (PUI), is responsible for dispensing medicines and ensuring the correct use of medicines for in-patients. The pharmacist at the PUI - only for PUIs authorised by the Regional Health Agencies [ARS] - is also responsible for the \"retrocession\" of certain medicines to \"non-hospitalised patients\". The '''list''' of medicines that can be sold to the public by PUIs is '''limited'' and published in the Official Journal of the French Republic. <ref>https://solidarites-sante.gouv.fr/soins-et-maladies/medicaments/professionnels-de-sante/prescription-et-dispensation/article/medicaments-retrocedes-retrocession</ref>\n\n===Checking the prescription===\nDispensing is carried out after checking :\n\n*that the prescription includes all the \"required information\", in particular the \"date\" of the prescription, the dosage and the duration of the treatment; the prescriber's qualifications (initial hospital prescription, prescription reserved for certain specialists, medicines authorised to be prescribed, in particular in the practice of dentistry, to midwives, to chiropodists); completion of the prior or periodic examinations to which the dispensing of certain medicines is subject, where applicable.\n*compliance with the regulations governing the medicines prescribed: whether or not the prescription is secure\n\n===For how long?===\nThe duration of the treatment prescribed on the prescription is, except in special cases, a maximum of one year. However, it is dispensed for a maximum period of 4 weeks or 30 days, depending on the packaging. However, medicinal products presented in packaging corresponding to a treatment period of more than one month may be dispensed for this period ''up to a maximum of three months''. <https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006915040\n\nIn most cases, patients have a \"maximum of 3 months\" after the prescription date to visit a pharmacy. After that date, the prescription is no longer valid and the pharmacist can no longer dispense the drugs.\n\n<br />\n<references />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Question",
+        "description": "What is the maximum duration for which a prescribed medication can be dispensed?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Option A",
+        "description": "Up to 3 months after the prescription date",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Option B",
+        "description": "Up to 1 year after the prescription date",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Option C",
+        "description": "Up to 4 weeks or 30 days, depending on the packaging",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Option D",
+        "description": "Only for hospital use",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "Up to 3 months after the prescription date",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

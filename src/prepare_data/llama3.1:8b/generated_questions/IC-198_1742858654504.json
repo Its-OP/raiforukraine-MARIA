@@ -1,0 +1,12 @@
+{
+  "folder": "IC-198",
+  "content": "{{knowledge objective\n|Identifiant=OIC-198-21-B\n|Item_parent=Microcrystalline arthropathies\n|Item_parent_short=Microcrystalline arthropathies\n|Rank=B\n|Title=Know the two main conditions associated with PPCa deposits\n|Description=haemochromatosis and primary hyperparthyroidism\n|Rubric=Etiologies\n|Contributors=\n|Order=21}}\nHaemochromatosis\n\nPrimary hyperparathyroidism\n\n<br />",
+  "question": {
+    "question": "What are the two main conditions associated with PPCa deposits?",
+    "option_a": "Haemochromatosis and Wilson's disease",
+    "option_b": "Haemochromatosis and primary hyperparathyroidism",
+    "option_c": "Primary hyperparathyroidism and osteoarthritis",
+    "option_d": "Wilson's disease and osteoporosis",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-09-A\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic anomalies, visual, hearing and dental disorders. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=A\n|Title=Knowing the functional and physical signs suggestive of poor vision in children\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=9}}\nCall points\n\n* abnormalities on external examination of the eye, including leukocoria\n* Strabismus (may be physiological if intermittent before 4 months, always pathological if constant or after 4 months)\n* Nystagmus\n* Torticollis\n* Behavioural abnormalities\n** before 4 months: no reaction to visual stimuli, no fixation at 1 month, no blinking at threat after 3 months, no eye pursuit at 4 months, delayed acquisition in grasping objects, gaze levelling off or wandering, infant pressing on his eyes.\n** 6 months-2 years: indifference to surroundings, eyelid wrinkling, discomfort in the sun, after walking age: falls frequently, bumps into things.\n** 2-5 years: language delay, tiredness, performance difficulties\n** after 6 years: difficulty and tiredness when reading, headaches, redness and discomfort in the eyes, eyelid wrinkling",
+  "question": {
+    "question": "What is a sign of poor vision in a child between 6 months and 2 years old?",
+    "option_a": "Strabismus (crossed eyes)",
+    "option_b": "Torticollis (twisted neck)",
+    "option_c": "Indifference to surroundings",
+    "option_d": "Delayed speech development",
+    "correct_option": "C"
+  }
+}

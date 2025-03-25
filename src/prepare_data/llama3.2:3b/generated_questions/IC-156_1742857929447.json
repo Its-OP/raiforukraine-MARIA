@@ -1,0 +1,46 @@
+{
+  "folder": "IC-156",
+  "content": "{{knowledge objective\n|Identifiant=OIC-156-14-A\n|Item_parent=Infections in the bones and joints (IOA) of children and adults\n|Item_parent_short=Infections osteo articulaires (IOA) de l'enfant et de l'adulte\n|Rank=A\n|Title=Knowing the clinical signs of spondylodiscitis\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Dr Florent Valour\n|Order=14}}\n- Location: most often 1 level (80%), lumbar (50%) > thoracic > cervical\n\n- Febrile spinal syndrome: [[Hyperthermia/fever SD-044|fever/hyperthermia]] (50%) sometimes moderate or absent, [[Spinal pain (cervical, dorsal or lumbar) SD-072|spinal pain]] (cervical, dorsal or lumbar) inflammatory in nature, segmental spinal stiffness, contracture of paravertebral muscles.\n\n- Inability to walk or sit up (in a small child: refusal to sit on the potty)\n\n- Subacute presentation possible, making diagnosis difficult and leading to delayed diagnosis\n\n- Systematic search for signs of severity (sepsis), neurological complications, a portal of entry, other secondary sites of bacteremia, signs of infective endocarditis, etc.\n\n\nTo be considered in the presence of any spinal or radiculalgia:\n\n- Recent febrile or chronic and worsening\n\n- Associated with bacteremia\n\n- Associated with elevated CRP\n\nThe red flags that should prompt consideration of a disco-vertebral infection in the presence of recent onset spinal pain:\n\n- Fever\n\n- Age \u2265 55\n\n- Chest pain (back pain)\n\n- Notion of intravenous drug use\n\n- Inflammatory\" pain",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a red flag that should prompt consideration of a discovertebral infection in the presence of recent onset spinal pain?",
+        "description": "A red flag that may indicate a discovertebral infection",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Age < 55",
+        "description": "A characteristic that may not necessarily indicate a discovertebral infection",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Recent febrile or chronic and worsening",
+        "description": "A characteristic that may indicate a discovertebral infection",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Notion of intravenous drug use",
+        "description": "A characteristic that may indicate a discovertebral infection",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Muscle weakness",
+        "description": "A characteristic that may not necessarily indicate a discovertebral infection",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Notion of intravenous drug use",
+        "description": "A red flag that should prompt consideration of a discovertebral infection",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

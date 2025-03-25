@@ -1,0 +1,12 @@
+{
+  "folder": "IC-342",
+  "content": "{{knowledge objective\n|Identifiant=OIC-342-16-A\n|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=A\n|Title=Know the symptomatic treatment of malaise\n|Description=None\n|Heading=Management\n|Contributors=\n|Order=16}}\nFirst aid treatment - Safety position - Lateral safety position if unconscious - Leg elevation if blood pressure low",
+  "question": {
+    "question": "What is the recommended safety position for an unconscious adult?",
+    "option_a": "Supine position with legs elevated",
+    "option_b": "Lateral safety position with the affected side up",
+    "option_c": "Lateral safety position with the unaffected side up",
+    "option_d": "Prone position with legs straight",
+    "correct_option": "C"
+  }
+}

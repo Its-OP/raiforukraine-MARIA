@@ -1,0 +1,46 @@
+{
+  "folder": "IC-198",
+  "content": "{{knowledge objective\n|Identifiant=OIC-198-12-B\n|Item_parent=Microcrystalline arthropathies\n|Item_parent_short=Microcrystalline arthropathies\n|Rank=B\n|Intitle=Knowing polyarticular or oligoarticular forms\n|Description=A known gout sufferer\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=12}}\nApart from gouty attacks, gout can give rise to the following manifestations:\n\n- after several years, gout can affect the upper limbs and even the spine, hip and shoulder.\n\n- oligoarthritis or gouty polyarthritis may occur.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What can happen to a person with gout after several years?",
+        "description": "A person with gout may experience the following manifestations",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Only joint pain and swelling in the hands and feet",
+        "description": "A common symptom of gout, but not a long-term effect",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Oligoarthritis or gouty polyarthritis may occur",
+        "description": "A known complication of long-standing gout",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Cardiovascular disease and diabetes",
+        "description": "Common comorbidities with gout, but not a direct effect",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Neurological disorders such as Parkinson's disease",
+        "description": "Not a known complication of gout",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-197",
+  "content": "{{knowledge objective\n|Identifiant=OIC-197-01-A\n|Item_parent=Spondyloarthritis\n|Item_parent_short=Spondyloarthritis\n|Rank=A\n|Title=Know the definition and description of spondyloarthritis\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=1}}\n- The concept of spondyloarthritis groups together chronic inflammatory rheumatic diseases that share common clinical manifestations and a common genetic background:\n\n- Ankylosing spondylitis,\n\n- psoriatic arthritis,\n\n- reactive arthritis,\n\n- arthritis associated with inflammatory enterocolopathies,\n\n- juvenile forms,\n\n- undifferentiated spondyloarthritis,\n\n- and SAPHO syndrome.\n\n- Terminology taken from the ASAS 2009 classification criteria\n\n- Axial spondyloarthritis\n\n- Radiographic = with radiographic sacroiliitis = ankylosing spondylitis.\n\n- Non-radiographic = without radiographic sacroiliitis.\n\n- '''Peripheral articular spondyloarthritis'''\n\n- Erosive.\n\n- Non-erosive.\n\n- Enthesitic peripheral spondyloarthritis",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the term used to describe the group of chronic inflammatory rheumatic diseases that share common clinical manifestations and a common genetic background?",
+        "description": "The concept of spondyloarthritis groups together chronic inflammatory rheumatic diseases that share common clinical manifestations and a common genetic background",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Spondyloarthropathy",
+        "description": "A term that encompasses a range of inflammatory rheumatic diseases, including ankylosing spondylitis and psoriatic arthritis",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Rheumatoid arthritis",
+        "description": "A chronic inflammatory disease that primarily affects joints, but can also affect other tissues and organs",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Spondyloarthritis",
+        "description": "The specific term used to describe the group of chronic inflammatory rheumatic diseases that share common clinical manifestations and a common genetic background",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Osteoarthritis",
+        "description": "A degenerative joint disease that is characterized by wear and tear on joint cartilage",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Spondyloarthritis",
+        "description": "The specific term used to describe the group of chronic inflammatory rheumatic diseases that share common clinical manifestations and a common genetic background",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-136",
+  "content": "{{knowledge objective\n|Identifiant=OIC-136-09-B\n|Item_parent=Local, locoregional and general anaesthesia\n|Item_parent_short=Local, locoregional and general anaesthesia\n|Rank=B\n|Title=Knowing the main local anaesthetics\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=9}}\nThe main local anaesthetics used are :\n\n           -lidocaine\n\n           -mepivacaine\n\n           -bupivacaine\n\n           -ropivacaine",
+  "question": {
+    "question": "What are the main local anaesthetics used?",
+    "option_a": "Lidocaine and prilocaine",
+    "option_b": "Lidocaine, mepivacaine, and bupivacaine",
+    "option_c": "Mepivacaine, ropivacaine, and articaine",
+    "option_d": "Bupivacaine, ropivacaine, and levobupivacaine",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-270",
+  "content": "{{knowledge objective\n|Identifiant=OIC-270-05-A\n|Item_parent=Acute low back pain\n|Item_parent_short=Acute low back pain\n|Rank=A\n|Title=Knowing the indication for imaging examinations for acute low back pain in adults\n|Description=Depending on the clinical picture (signs of severity, arguments for a secondary cause) and the length of time the pain has been present.\n|Rubric=Additional examinations\n|Contributors=Fran\u00e7ois-Xavier NOUHAUD\n|Order=5}}\n\nHere are the general rules:\n\n* at the end of the clinical examination, no further examination should be systematically requested if there is no specific clinical indication justifying it;\n* in the case of simple lumbago or a recurrence of known low back pain that has already been investigated, there is no need to carry out imaging ;\n* if the pain is resistant to symptomatic treatment or is worsening, or if there are signs of severity (fever, neurological deficit, etc.), imaging tests should be performed.), imaging tests should be ordered as a matter of urgency: (1) in the case of a secondary cause of spinal or neurological origin, the key test is MRI, which should be performed after standard X-rays; (2) in the case of a secondary cause of visceral origin, the key test is a thoraco-abdomino-pelvic CT scan or, failing that, abdominal and pelvic ultrasound.\n\nFor urological and renal causes, the additional imaging examinations are: reference abdominal-renal scanner, non-injected and then possibly injected if there is any doubt about the diagnosis or if there is no obstacle, or ASP/ultrasound if the scanner is not available and there are no criteria or signs of seriousness or complication. No additional imaging is required for cord torsion.",
+  "question": {
+    "question": "What is the indication for imaging examinations for acute low back pain in adults?",
+    "option_a": "Imaging tests should be ordered as a matter of urgency in all cases of acute low back pain",
+    "option_b": "Imaging tests should be ordered as a matter of urgency in cases of simple lumbago or recurrence of known low back pain that has already been investigated",
+    "option_c": "Imaging tests should be ordered as a matter of urgency if the pain is resistant to symptomatic treatment or is worsening, or if there are signs of severity (fever, neurological deficit, etc.)",
+    "option_d": "Imaging tests are not necessary for acute low back pain and should only be performed if there is a specific clinical indication",
+    "correct_option": "C"
+  }
+}

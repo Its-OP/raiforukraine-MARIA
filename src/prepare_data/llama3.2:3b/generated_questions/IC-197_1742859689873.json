@@ -1,0 +1,41 @@
+{
+  "folder": "IC-197",
+  "content": "{{knowledge objective\n|Identifiant=OIC-197-03-B\n|Item_parent=Spondyloarthritis\n|Item_parent_short=Spondyloarthritis\n|Rank=B\n|Title=Knowing the role of genetic background: the HLA-B27 gene\n|Description=Knowing the strong link with HLA B27 and its prevalence\n|Rubric=Physiopathology\n|Contributors=\n|Order=3}}\nThe prevalence of HLA-B27 among patients with ankylosing spondylitis is over 90%, and 6 to 8% in Caucasian populations.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the approximate prevalence of HLA-B27 among Caucasian populations with ankylosing spondylitis?",
+        "description": "Select the correct percentage",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "6 to 8%",
+        "description": "A plausible range, but slightly lower than the actual prevalence"
+      },
+      "option_b": {
+        "title": "90%",
+        "description": "The prevalence among patients with ankylosing spondylitis, but not specifically among Caucasian populations"
+      },
+      "option_c": {
+        "title": "95%",
+        "description": "A slightly higher percentage than the actual range, but still plausible"
+      },
+      "option_d": {
+        "title": "99%",
+        "description": "A very high percentage, but not supported by the text"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct letter to select"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

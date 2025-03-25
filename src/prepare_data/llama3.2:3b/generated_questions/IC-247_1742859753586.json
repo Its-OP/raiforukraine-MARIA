@@ -1,0 +1,41 @@
+{
+  "folder": "IC-247",
+  "content": "{{knowledge objective\n|Identifiant=OIC-247-08-B\n|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Rank=B\n|Title=Knowing the pathophysiology of type 1 diabetes mellitus (T1DM), including in children.\n|Description=including elements of genetic predisposition\n|Topic=Physiopathology\n|Contributors=Eva Feigerlova\n|Order=8}}\n\nType 1 diabetes is characterised by a lack of insulin secretion by the pancreas as a result of autoimmune destruction of pancreatic beta cells.\n\nSeveral factors are involved in the pathophysiology:\n\n- genetic predisposition\n\n- environmental factors\n\n- autoimmune processes\n\nThe following autoantibodies are used as markers of autoimmune disease:\n\n- anti-islanding (ICA),\n\n- anti-insulin (in children)\n\n- anti-GAD (glutamic acid decarboxylase)\n\n- anti-IA2 (Islet Antigen Number 2, related to a tyrosine phosphatase)\n\n- anti-ZnT8 (\u03b2-cell zinc transporter).\n\n\nOther autoimmune diseases and/or organ-specific antibodies may be associated with type 1 diabetes: thyroidopathies, slow adrenal insufficiency, gastric atrophy, coeliac disease and vitiligo.\n\n<ref>CEEDMM, 2019</ref>\n<references />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary cause of type 1 diabetes in children and adults?",
+        "description": "The underlying mechanism of type 1 diabetes",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Genetic predisposition and environmental factors",
+        "description": "A combination of genetic predisposition and environmental factors"
+      },
+      "option_b": {
+        "title": "Autoimmune processes and hormonal imbalance",
+        "description": "Autoimmune destruction of pancreatic beta cells leading to hormonal imbalance"
+      },
+      "option_c": {
+        "title": "Infection with a virus or bacteria",
+        "description": "A viral or bacterial infection triggering the autoimmune response"
+      },
+      "option_d": {
+        "title": "Hormonal imbalance and metabolic syndrome",
+        "description": "A hormonal imbalance and metabolic syndrome causing insulin resistance"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "A"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

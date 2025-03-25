@@ -1,0 +1,46 @@
+{
+  "folder": "IC-076",
+  "content": "{{knowledge objective\n|Identifiant=OIC-076-14-B\n|Item_parent=Alcohol dependence\n|Item_parent_short=Alcohol dependence\n|Rank=B\n|Title=Knowing early identification and brief intervention (EIBI) and its content\n|Description=Early Identification and Brief Intervention (EIBI) includes systematic screening for alcohol misuse and brief intervention in cases of non-dependent misuse.\n|Rubric=Management\n|Contributors=\n|Order=14}}\nSecondary prevention action\n\n- Aims to identify\n\n- Then encourage alcohol abusers to reduce their consumption,\n\nIdeally below the low-risk guidelines.\n\n\n[Prevention of alcohol-related risks SD-313|Includes systematic screening for alcohol misuse (see above) and brief intervention in the case of non-addictive misuse.\n\n\nBrief intervention\n\n- delivered individually\n\n- in a short time (5 to 20 minutes)\n\n- can be repeated.\n\nIt includes\n\n- reporting the results of the assessment (situating the patient in relation to the benchmarks);\n\n- definition of a standard drink and low-risk consumption guidelines;\n\n- information on the risks associated with consumption, whether personal or situational, which are relevant to the patient, and on any complications already present;\n\n- discussion of the benefits to the patient of reducing consumption;\n\n- choice of a consumption target, if the patient agrees to try to change their current use, leaving them free to choose;\n\n- presentation of reduction methods which can be offered if the patient so requests;\n\n- distribution of written documentation, referral to specialised structures;\n\n- provide an opportunity for reassessment at another interview.\n\nThe procedure is carried out in an empathetic, non-judgemental way, with the emphasis on the patient's free choice at every stage. ",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary goal of the Early Identification and Brief Intervention (EIBI) approach?",
+        "description": "A multiple-choice question about the Early Identification and Brief Intervention (EIBI) approach",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To encourage alcohol abusers to seek treatment immediately",
+        "description": "A plausible but incorrect option that may be tempting to respondents who are not familiar with the nuances of EIBI",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "To provide a comprehensive treatment program for alcohol dependence",
+        "description": "A distractor that may confuse respondents who think EIBI is a more extensive intervention",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "To identify and encourage individuals to reduce their alcohol consumption below low-risk guidelines",
+        "description": "The correct answer, which accurately reflects the primary goal of EIBI",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "To educate patients about the risks of alcohol consumption and provide them with support groups",
+        "description": "A distractor that may appeal to respondents who think EIBI focuses more on social support rather than individual behavior change",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "C",
+        "description": "The letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

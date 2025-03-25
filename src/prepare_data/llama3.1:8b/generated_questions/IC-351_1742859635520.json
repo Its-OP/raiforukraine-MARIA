@@ -1,0 +1,12 @@
+{
+  "folder": "IC-351",
+  "content": "{{knowledge objective\n|Identifiant=OIC-351-05-A\n|Item_parent=Agitation and acute delirium\n|Item_parent_short=Agitation and acute delirium\n|Rank=A\n|Title=Knowing the aetiologies of acute delirious syndromes according to age, including toxic causes\n|Description=With reference to item 343\n|Heading=Etiologies\n|Contributors=\n|Order=5}}\n\n\n== Principles of aetiological assessment similar to those for agitation ==\nLook for the most frequent or most serious aetiologies.\n\nAlways rule out non-psychiatric causes before suggesting a psychiatric aetiology.\n\nThe diagnostic approach is the same for patients with or without a psychiatric history.\n\n== Elderly person\nSame possible causes as for agitation\n\n== Young adults\nSame possible causes as for agitation\n\n== Psychiatric conditions\n\n=== Identification of manic symptoms ===\nManic episode with psychotic features, with or without mixed features, in the context of type I bipolar disorder or bipolar disorder induced by a substance (often an antidepressant or corticosteroid) or medical pathology (hyperthyroidism).\n\nDelusions are generally congruent with mood: persecution, megalomania, mission.\n\n=== Identification of depressive symptoms ===\nCharacterised depressive episode with psychotic features, with or without mixed features, as part of a characterised depressive disorder or a recurrent depressive disorder.\n\nDelusions are generally congruent with mood: persecution, ruin, guilt, hypochondria.\n\n=== In the absence of thymic symptoms and in the presence of other psychotic symptoms ===\n\n* Brief psychotic disorder: lasting more than one day and less than one month.\n* Chronic psychotic disorder in its early stages",
+  "question": {
+    "question": "What is the correct approach when assessing the aetiology of acute delirious syndromes in patients?",
+    "option_a": "Always suggest a psychiatric aetiology first",
+    "option_b": "Rule out non-psychiatric causes before suggesting a psychiatric aetiology",
+    "option_c": "Assess patients with a psychiatric history differently than those without a psychiatric history",
+    "option_d": "Only consider the most frequent aetiologies",
+    "correct_option": "B"
+  }
+}

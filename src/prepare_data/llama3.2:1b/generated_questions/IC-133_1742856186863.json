@@ -1,0 +1,12 @@
+{
+  "folder": "IC-133",
+  "content": "{{knowledge objective\n|Identifiant=OIC-133-01-A\n|Item_parent=Autonomy and dependence in the elderly\n|Item_parent_short=Autonomy and dependence in the elderly\n|Rank=A\n|Intitul\u00e9=To know the definition of autonomy and dependence\n|Description=Differentiate the concepts of autonomy and functional dependence\n|Rubric=Definition\n|Contributors=\n|Order=1}}\nDifferentiating the concepts of autonomy and functional dependence\n\n\n- '''Autonomy''': Autonomy refers to the ability, freedom and right to establish one's own laws and the ability to govern oneself. It encompasses intellectual, cognitive and motor skills. It presupposes the capacity for judgement, i.e. the ability to foresee and choose, as well as the freedom and ability to act, to accept or refuse according to one's judgement.\n\n\n- Dependency: Dependency is the partial or total inability of a person to carry out the activities of daily life (eating, washing, dressing, etc.) without assistance.",
+  "question": {
+    "question": "What is the difference between autonomy and functional dependence?",
+    "option_a": "Autonomy refers to the ability to make decisions based on one's own judgment, while functional dependence refers to the inability to perform daily life activities without assistance.",
+    "option_b": "Autonomy is the ability to make decisions, while functional dependence is a lack of ability to perform daily tasks.",
+    "option_c": "Autonomy is the ability to make decisions, while functional dependence is the inability to perform daily tasks.",
+    "option_d": "Autonomy is the ability to make decisions, while functional dependence is the ability to perform daily tasks.",
+    "correct_option": "option_a"
+  }
+}

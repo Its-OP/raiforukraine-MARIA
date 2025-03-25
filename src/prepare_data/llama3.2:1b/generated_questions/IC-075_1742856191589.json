@@ -1,0 +1,22 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-32-B\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=B\n|Title=Knowing when to refer a patient for a tobaccology consultation\n|Description=Tobacology: First recourse, 5A method (ask, assess, advise, assist and arrange)\n|Rubric=Management\n|Contributors=\n|Order=32}}\nEvery medical consultation should be an opportunity to advise patients to stop smoking.\n\nThe professional advises each smoker to stop smoking and discusses the help and support available to help them do so.\n\nALL healthcare professionals MUST suggest stopping smoking (using the 5A technique) at EVERY consultation:\n\n* ask if the person smokes (''Ask'')\n* assess their smoking habits\n* advise each smoker to stop smoking (''Advise'')\n* explain the range of help and support available to help them achieve this ('''Assist'')\n* offer written information to support this advice (''Arrange'')\n\nThis minimum advice helps to increase the weaning rate.\n\nDon't hesitate to refer patients to the <nowiki>http://www.tabac-info-service.fr</nowiki> websites and the 3989 free telephone line, which offer personalised support (coaching).",
+  "question": {
+    "properties": {
+      "question": "What is the minimum advice that a healthcare professional should give to a patient who smokes?",
+      "option_a": "Ask if the person smokes (Ask)",
+      "option_b": "Advise each smoker to stop smoking (Advise)",
+      "option_c": "Explain the range of help and support available to help them achieve this (Assist)",
+      "option_d": "Offer written information to support this advice (Arrange)",
+      "correct_option": "Ask if the person smokes (Ask)"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

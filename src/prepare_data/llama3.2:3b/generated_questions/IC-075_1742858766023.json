@@ -1,0 +1,11 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-04-B\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=B\n|Title=Knowing the toxicity of nicotine, tars and tobacco smoke\n|Description=None\n|Topic=Physiopathology\n|Contributors=\n|Order=4}}\n\n\n* One cigarette = 7,000 compounds, 69 of which are carcinogenic.\n* Nicotine is not considered to be carcinogenic.\n* Nicotine is the main agent responsible for addiction.\n* Tars (carcinogenic) cause epithelial cell changes (but will be replaced by healthy cells if you stop).\n* Free radicals from smoke stimulate degradation of the alveolar wall and inhibit protective enzymes.\n* Carbon monoxide (CO) causes cardiovascular problems.",
+  "question": {
+    "question": "What is the primary effect of nicotine on the human body?",
+    "option_a": "It causes cardiovascular problems.",
+    "option_b": "It stimulates degradation of the alveolar wall and inhibits protective enzymes.",
+    "option_c": "It is the main agent responsible for addiction.",
+    "option_d": "It is not considered to be carcinogenic."
+  }
+}

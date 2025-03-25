@@ -1,0 +1,46 @@
+{
+  "folder": "IC-239",
+  "content": "{{knowledge objective\n|Identifiant=OIC-239-02-A\n|Item_parent=Acrosyndromes (Raynaud's phenomenon, erythermalgia, acrocyanosis, frostbite, digital ischaemia)\n|Item_parent_short=Acrosyndromes (Raynaud's phenomenon, erythermalgia, acrocyanosis, frostbite, digital ischaemia)\n|Rank=A\n|Title=Know the clinical characteristics of the main acrosyndromes\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors= Sophie Blaise, Luc Bressollette, Claire Le Hello\n|Order=2}}\n\nThe diagnosis of RA is based essentially on questioning, rarely on the observation of an attack, and sometimes on examination of a photograph taken by the patient.\n\n'''RP is characterised by'''' phases of extremity colour change (typically 3 phases).('''''[[Extremity colour anomalies SD-015|extremity colour anomalies]]''''' :\n\n*a syncopal phase with whitening of the distal fingers, insensitivity and sometimes pain: the most frequent and obligatory phase for diagnosing RA);\n*sometimes followed by an asphyxia phase (cyanotic fingers, dysaesthesia);\n*sometimes followed by a hyperhaemic phase with painful redness.\n*\n\n'''The diagnosis of erythromalgia''' is clinical and based on :\n\ncrises of :\n\n*pain in the extremities (most often the feet), such as cooking or burning '''(''[[Pain, burning, cramps and paresthesias SD-073|pain, burning, cramps and paresthesias]]''')''' with\n*redness ('''''[[abnormalities in the colour of the extremities - erythema]]'')'''' and increased skin temperature\n\n\ntriggered by heat, exercise or orthostatism ;\n\nrelief by cold, rest or elevation of the limb ;\n\nincreased skin heat during attacks ;\n\nsensitivity to aspirin.\n\n'''Acrocyanosis''' is painless, and is often accompanied by hyperhidrosis '''(''[[Hypersudation SD-025|hypersudation]]''').'''' It most often begins in adolescence (essential acrocyanosis, which represents the vast majority of acrocyanoses). It is more common in people of light build. It most often affects both hands and feet, symmetrically.\n\n'''Frostbite''' is characterised by oedematous, pruritic and sometimes allergic, erythrocyanotic papules, usually bilateral (toes, more rarely fingers), which occur when the skin is cold and damp. The pruritic nature ('''''[[Pruritus SD-088|pruritus]]''''') is particularly suggestive, and localised digital oedema is often associated ('''''[[Localised or diffuse oedema SDD-054|SD-54: localised oedema]]'')'''. The disease progresses by flare-ups lasting 2 to 3 weeks with spontaneous recovery in spring and possible seasonal relapses. It may be complicated by haemorrhagic bullae ( '''''[[Bullae, bullous eruption SD-082|bullae, bullous eruption]]'')''' and exulcerations. The first symptoms usually appear in adolescence and are predominantly female. There are no visceral or biological manifestations.\n\nThe picture of <nowiki/>'''digital ischemia''' is that of a cyanic or white finger (or toe) or fingertip or toe ( '''''[[Color abnormalities of the extremities SD-015|color abnormalities of the extremities]]'')''', cold, painful. The picture may also be one of ulceration of the digital pulp ('''''[[Cutaneous ulcer SD-092|cutaneous ulcer]]'')''' or of digital necrosis with a gangrenous appearance ('''''[[Colour anomaly of the extremities SDD 15|bubbles, bullous eruption]])'''''",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a common characteristic of the phases of RP (Raynaud's phenomenon)?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "A single phase of colour change in the extremities",
+        "description": "A single phase of colour change in the extremities",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Three phases of colour change in the extremities, including a syncopal phase",
+        "description": "Three phases of colour change in the extremities, including a syncopal phase",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Four phases of colour change in the extremities, including a hyperhaemic phase",
+        "description": "Four phases of colour change in the extremities, including a hyperhaemic phase",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Two phases of colour change in the extremities, including an asphyxia phase",
+        "description": "Two phases of colour change in the extremities, including an asphyxia phase",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "The correct answer",
+        "description": "The letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

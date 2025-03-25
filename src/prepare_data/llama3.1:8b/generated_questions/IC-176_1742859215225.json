@@ -1,0 +1,12 @@
+{
+  "folder": "IC-176",
+  "content": "{{knowledge objective\n|Identifiant=OIC-176-17-A\n|Item_parent=Infectious diarrhoea in adults and children\n|Item_parent_short=Infectious diarrhoea in adults and children\n|Rank=A\n|Title=Know how to prescribe oral and intravenous rehydration; Know the symptomatic treatments for acute diarrhoea.\n|Description=None\n|Topic=Identification of the emergency\n|Contributors=\n|Order=17}}\nSee [[Know the principles of prescribing oral and intravenous rehydration. Knowledge of symptomatic treatments for acute diarrhoea 2C-176-PC-A01]]",
+  "question": {
+    "question": "What is the primary goal of prescribing oral rehydration therapy for acute diarrhoea in adults and children?",
+    "option_a": "To replace lost electrolytes and fluids immediately",
+    "option_b": "To manage symptoms such as abdominal pain and vomiting",
+    "option_c": "To prevent the progression of dehydration to severe dehydration",
+    "option_d": "To treat the underlying cause of the diarrhoea",
+    "correct_option": "A"
+  }
+}

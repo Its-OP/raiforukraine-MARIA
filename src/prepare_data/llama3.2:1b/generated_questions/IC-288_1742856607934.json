@@ -1,0 +1,12 @@
+{
+  "folder": "IC-288",
+  "content": "{{knowledge objective\n|Identifiant=OIC-288-14-A\n|Item_parent=Hemorrhoidal pathology\n|Item_parent_short=Hemorrhoidal pathology\n|Rank=A\n|Title=Knowing the four rules of therapeutic preamble\n|Description=\n|Rubric=Management\n|Contributors=\n|Order=14}}\n\nHaemorrhoids in themselves present no risk of degeneration or life-threatening complications. Only symptomatic haemorrhoids should be treated''. It is therefore the symptoms and the patient's request for treatment that should dictate the therapist's attitude. The four rules of the therapeutic preamble can therefore be stated as follows:\n\n- Treatment of haemorrhoids should be reserved for symptomatic forms.\n\n- In most cases, haemorrhoid treatment is a comfort treatment.\n\n- Medicinal treatments are usually reserved for acute symptoms and offered as a short course of treatment.\n\n- Instrumental and surgical procedures, on the other hand, constitute the basic treatment for internal haemorrhoidal disease and are reserved for specialist care.",
+  "question": {
+    "question": "What is the correct statement about hemorrhoids?",
+    "option_a": "Haemorrhoids can be treated with medication, regardless of their severity.",
+    "option_b": "Haemorrhoids are usually treated with surgery, as they are severe and require immediate attention.",
+    "option_c": "Haemorrhoids can be treated with a variety of medications and procedures, including rubber band ligation and sclerotherapy.",
+    "option_d": "Haemorrhoids are always treated with surgery, regardless of their severity or symptoms.",
+    "correct_option": "Haemorrhoids should only be treated when they are symptomatic."
+  }
+}

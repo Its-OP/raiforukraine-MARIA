@@ -1,0 +1,12 @@
+{
+  "folder": "IC-027",
+  "content": "{{knowledge objective\n|Identifiant=OIC-027-16-A\n|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Rank=A\n|Title=Hepatitis B virus (HBV): knowing the elements of foetal prevention through vaccination\n|Description=Knowing the screening/vaccination procedures\n|Heading=Management\n|Contributors=Alexandre Vivanti, Philippe Deruelle\n|Ordre=16}}\nPrevention of foetal risks SD-312|prevention]] is effective and is based on :\n\n- Vaccination of women at risk (possible during pregnancy in cases of high risk);\n\n- Screening for hepatitis B as soon as the pregnancy is declared (recommended by the HAS);\n\n- Serovaccination of newborn babies in HBs+ antigen mothers.\n\nA positive HBsAg test must :\n\n- Be known to those who will be delivering the baby;\n\n- Look for associated infections and addictive behaviour;\n\n- Refer the patient to a hepatologist and/or infectious diseases specialist to assess the progression of the hepatitis and possibly consider antiviral treatment (lamivudine) to reduce the viral load, particularly for primary infections in the last trimester or patients with high viral loads;\n\n- Investigate the pregnant woman's family and friends for infection and offer vaccination to those who are negative;\n\n- Have the newborn baby of an HBs+ antigen mother sero-vaccinated, at best before the 12th hour of life, by :\n\no IM injection of specific gamma globulins,\n\no Vaccination injection (in a different muscle site) followed by 2 further vaccination injections one month apart and a booster at one year,\n\n\nCaesarean section for this infection is not indicated.\n\nBreast-feeding is not contraindicated when neonatal sero-vaccination is carried out.",
+  "question": {
+    "question": "Prevention of foetal risks due to hepatitis B virus (HBV) is effective and is based on:",
+    "option_a": "Screening for hepatitis B as soon as the pregnancy is declared and vaccination of women at risk",
+    "option_b": "Caesarean section for pregnant women with a positive HBsAg test",
+    "option_c": "Breast-feeding is contraindicated when neonatal sero-vaccination is carried out",
+    "option_d": "Antiviral treatment (lamivudine) is administered to all pregnant women with a positive HBsAg test",
+    "correct_option": "A"
+  }
+}

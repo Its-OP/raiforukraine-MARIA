@@ -1,0 +1,12 @@
+{
+  "folder": "IC-186",
+  "content": "{{knowledge objective\n|Identifiant=OIC-186-03-B\n|Item_parent=Hypersensitivities and allergies in children and adults: physiopathological, epidemiological and diagnostic aspects and principles of treatment\n|Item_parent_short=Hypersensitivity and allergy in children and adults: pathophysiological, epidemiological and diagnostic aspects and principles of treatment\n|Rank=B\n|Title=Knowing the major epidemiological trends in food allergy: prevalence, mortality, allergens, etc.\n|Description=None\n|Rubric=Epidemiology\n|Contributors=\n|Order=3}}\nPrevalence of food allergy: twice as common in children as in adults ;\n\n- 4% (between the ages of 2 and 5); 6.8% (6 to 10); 3.4% (11 to 14); 2% (adult).\n\n- In 75% of cases, food allergy occurs before the age of 45.\n\n- 10 to 41% of anaphylactic shocks are due to a food allergy.\n\n- Pre-existing asthma is the main predisposing factor for mortality in anaphylactic shock.\n\n\n'''The most common allergens responsible for food allergies are:'''\n\n\nIn children: eggs, peanuts and cow's milk come to the fore.\n<br />\n{| class=\"wikitable\"\n|'''Allergen or group of allergens'''\n|'''Frequency observed'''\n|-\n|Egg\n|50,9%\n|-\n|Spinach\n|40,41%\n|-\n|Cow's milk\n|16,37%\n|-\n|Pulses\n|8,01%\n|-\n|Fish\n|6,88%\n|-\n|Nuts\n|6,32%\n|-\n|Crayfish\n|5,3%\n|}\n\n\nFor adults: fruit comes first.\n<br />\n{| class=\"wikitable\"\n|'''Allergen or group of allergens'''\n|'''Frequency observed'''\n|-\n|Rosaceae (apples, pears, peaches, apricots,...)\n|27,3%\n|-\n|Latex fruits (kiwi, banana, avocado...)\n|23%\n|-\n|Lambelliferae (celery, fennel, carrots...)\n|17,5%\n|-\n|Nuts\n|16%\n|-\n|Cereal groups (gluten, barley...)\n|14,4%\n|-\n|Buckwheat\n|10,1%\n|-\n|Egg white\n|7%\n|-\n|Pulses (soya, lupins, lentils, etc.)\n|6,5%\n|-\n|Sesame\n|5,8%\n|-\n|Crustaceans\n|4,7%\n|-\n|Fish\n|3%\n|-\n|Meat\n|2,7%\n|}\n<br />",
+  "question": {
+    "question": "What are the most common allergens responsible for food allergies in children?",
+    "option_a": "Eggs, peanuts, and cow's milk",
+    "option_b": "Fruits, nuts, and shellfish",
+    "option_c": "Gluten, soy, and dairy",
+    "option_d": "Spices, herbs, and preservatives",
+    "correct_option": "A"
+  }
+}

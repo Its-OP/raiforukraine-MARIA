@@ -1,0 +1,20 @@
+{
+  "folder": "IC-101",
+  "content": "{{knowledge objective\n|Identifiant=OIC-101-01-B\n|Item_parent=Facial paralysis\n|Item_parent_short=Facial paralysis\n|Rank=B\n|Title=Knowing the different functions of the facial nerve and how to search for an anomaly\n|Description=muscles, hypoesthesia, agueusia, hyperacusis, corneal reflex\n|Rubric=Pathophysiological elements\n|Contributors=\n|Order=1}}\n1) The different functions of the facial nerve :\n\n- Motor, main function: innervation of all the skin muscles of the face and neck, as well as the stapedial muscle of the middle ear.\n\n- Vegetative: secretion from the lacrimal and salivary glands.\n\n- Sensory: innervation of the skin of the concha of the ear (Ramsay-Hunt zone).\n\n- Sensory: gustation for the anterior two-thirds of the tongue.\n\n2) The search for an anomaly consists of :\n\n- Look for a muscular deficit in one hemiface ([[Muscular weakness SDD-074|muscular weakness]]; [[Sensory and/or motor neurological deficit SDD-121|sensory and/or motor neurological deficit]]; [[Facial paralysis SDD-127|facial paralysis]]) at rest, with spontaneous mimicry, and during movements on command:\n\n- Upper face: raise and frown the eyebrows (forehead crease), close the eyes against resistance ([[Palpebral anomalies SD-139|palpebral anomalies]])\n\n- Lower face: uncover teeth, puff out cheeks\n\nAn asymmetry can be confirmed by comparison with a previous photograph. Facial muscles innervated by cranial nerves other than the facial nerve are examined normally: masticatory muscles (trigeminal nerve), muscles of the pharynx and soft palate (glossopharyngeal and vagus nerves), muscles of the tongue (greater hypoglossus nerve).\n\n- Testing sensitivity in the Ramsay-Hunt zone.\n\n- Test the quality of lacrimal and salivary secretions (Schirmer test) and taste function on the anterior two-thirds of the tongue (application of sweet, salty, acidic and bitter solutions).",
+  "question": {
+    "question": "What is the main function of the facial nerve?",
+    "option_a": "Innervation of all the skin muscles of the face and neck, as well as the stapedial muscle of the middle ear.",
+    "option_b": "Secretion from the lacrimal and salivary glands.",
+    "option_c": "Innervation of the skin of the concha of the ear (Ramsay-Hunt zone).",
+    "option_d": "Innervation of the muscles of the tongue.",
+    "correct_option": "Innervation of all the skin muscles of the face and neck, as well as the stapedial muscle of the middle ear.",
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

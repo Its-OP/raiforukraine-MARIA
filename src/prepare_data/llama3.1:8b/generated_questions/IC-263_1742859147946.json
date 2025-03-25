@@ -1,0 +1,12 @@
+{
+  "folder": "IC-263",
+  "content": "{{knowledge objective\n|Identifiant=OIC-263-02-A\n|Item_parent=Vascular nephropathy\n|Item_parent_short=Vascular nephropathy\n|Rank=A\n|Title=Know the definition of thrombotic microangiopathy syndrome\n|Description=None\n|Rubric=Definition\n|Contributors=Jean-Jacques Boffa\n|Order=2}}\n\nThe MAT syndrome meets a biological definition combining :\n\n* haemolytic anaemia (collapsed haptoglobin, elevated LDH), mechanical type (presence of schizocytes);\n* consumption thrombocytopenia;\n* associated with one or more organ dysfunctions.\n\n\nHistologically, it corresponds to the thrombotic microangiopathy lesion.",
+  "question": {
+    "question": "What are the key components of the MAT syndrome?",
+    "option_a": "Haemolytic anaemia, thrombocytopenia, and organ dysfunction, but not mechanical type",
+    "option_b": "Haemolytic anaemia, mechanical type, and thrombocytopenia, but not organ dysfunction",
+    "option_c": "Haemolytic anaemia, thrombocytopenia, and organ dysfunction, and corresponds to the thrombotic microangiopathy lesion",
+    "option_d": "Haemolytic anaemia, mechanical type, and thrombocytopenia, and corresponds to the thrombotic microangiopathy lesion",
+    "correct_option": "C"
+  }
+}

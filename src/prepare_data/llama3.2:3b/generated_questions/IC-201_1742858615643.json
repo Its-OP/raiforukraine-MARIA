@@ -1,0 +1,36 @@
+{
+  "folder": "IC-201",
+  "content": "{{knowledge objective\n|Identifiant=OIC-201-10-A\n|Item_parent=Organ transplants: epidemiological and immunological aspects; principles of treatment and monitoring; complications and prognosis; ethical and legal aspects. Organ procurement and legislation\n|Item_parent_short=Organ transplants: epidemiological and immunological aspects; principles of treatment and monitoring; complications and prognosis; ethical and legal aspects. Organ procurement and legislation\n|Rank=A\n|Title=Knowing the ethical and legal principles of organ donation\n|Description=None\n|Rubric=Definition\n|Contributors=Dany Anglicheau\n|Order=10}}\n\nOrgan donation is governed by 3 major ethical principles enshrined in the French Bioethics Act:\n\n*presumed consent'';''''\n*free donation'';''''\n*anonymity between donor and recipient'''.''''\n\n\nThe removal of organs from donors in a state of encephalic death is governed by the 1994 bioethics laws, which are based on the principle of presumed consent.\n\nIn addition, there is a National Register of Refusals (RNR) managed by the Agence de la Biom\u00e9decine (French Biomedicine Agency), where people who are opposed to organ removal can register their refusal during their lifetime. This register will be automatically consulted before any removal procedure.\n\nSince 1 January 2017, all deceased persons diagnosed as brain dead have been considered as donors by default''''''''' If a person is opposed to the removal of blood during their lifetime, they must register on the national refusal register or provide their next of kin with oral or written testimony. Relatives may testify to the refusal, but they must sign an official document certifying the deceased's refusal.\n\nTable 3 summarises the main laws governing organ transplantation in France.\n\nTable 3: Important laws governing transplantation activities\n{| class=\"wikitable\"\n|Text\n|Content\n|-\n|Circular Jeanneney (1968)\n|Definition of brain death criteria\n|-\n|Caillavet Law (1976)\n|Presumed consent for the deceased donor\n\nChoice freely and expressly consented to by the living donor\n|-\n|Bioethics law (1994)\n|Living donors of full age and related (father/mother, son/daughter, brother/sister)\n\nDeceased donors not on the national refusal register (implied consent, testimony requested from the family)\n\nCreation of the \u00c9tablissement fran\u00e7ais des Greffes (EfG).\n|-\n|1st revision of the bioethics law (2004)\n|Expansion of the circle of living donors: father, mother, spouse, brother or sister, son or daughter, grandparent, uncle or aunt, first cousin, spouse of father or mother, any person providing proof that they have lived together with the recipient for at least 2 years.\n\nPre-transplant living donor committees\n\nAnnual follow-up of living donors after transplantation\n|-\n|2nd revision of the French Bioethics Act (2011)\n|Widening the circle of living donors:\n\nany person providing proof of a close and stable affective relationship with the recipient for at least 2 years;\n\ncross-donation of kidneys limited to two donor-recipient pairs.\n\nsocial protection for living donors\n|}",
+  "question": {
+    "question": {
+      "title": "What is the principle governing the removal of organs from donors in a state of encephalic death in France?",
+      "description": "The principle governing the removal of organs from donors in a state of encephalic death",
+      "type": "string"
+    },
+    "option_a": {
+      "title": "Free donation",
+      "description": "The principle that donors can choose to donate their organs freely",
+      "type": "string"
+    },
+    "option_b": {
+      "title": "Anonymity between donor and recipient",
+      "description": "The principle that ensures the anonymity of the donor and recipient",
+      "type": "string"
+    },
+    "option_c": {
+      "title": "Presumed consent",
+      "description": "The principle that donors are presumed to have given their consent for organ removal",
+      "type": "string"
+    },
+    "option_d": {
+      "title": "Social protection for living donors",
+      "description": "The principle that provides protection for living donors",
+      "type": "string"
+    },
+    "correct_option": {
+      "title": "Presumed consent",
+      "description": "The correct answer",
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-26-B\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=B\n|Title=Knowing the elements for interpreting bone age on a wrist X-ray\n|Description=None\n|Rubric=Additional examinations\n|Contributors=\n|Order=26}}\nBone age: assessment of bone maturation (onset of puberty=sesamoid at 11 years in girls and 13 years in boys). It is most often advanced in early puberty. The standard deviation of this radiographic assessment is plus or minus two years.\n\n<br />",
+  "question": {
+    "question": "What is the standard deviation of bone age assessment on a wrist X-ray?",
+    "option_a": "Plus or minus 1 year",
+    "option_b": "Plus or minus 2 years",
+    "option_c": "Plus or minus 3 years",
+    "option_d": "Plus or minus 4 years",
+    "correct_option": "B"
+  }
+}

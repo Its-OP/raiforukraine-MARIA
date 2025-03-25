@@ -1,0 +1,46 @@
+{
+  "folder": "IC-102",
+  "content": "{{knowledge objective\n|Identifiant=OIC-102-08-A\n|Item_parent=Diplopia\n|Item_parent_short=Diplopia\n|Rank=A\n|Title=Photograph/video of extrinsic/intrinsic III paralysis\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=8}}\n\n[[File:III-bis.jpg|thumbnail]]\n[[File:III.jpg|left|thumbnail]]",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary function of the III cranial nerve in controlling eye movements?",
+        "description": "The III cranial nerve is responsible for controlling eye movements. What is its primary function?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To control the muscles that rotate the eyeball",
+        "description": "The III cranial nerve controls the lateral rectus muscle, which rotates the eyeball outward.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "To control the muscles that rotate the eyeball inward",
+        "description": "The III cranial nerve controls the medial rectus muscle, which rotates the eyeball inward.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "To control the muscles that elevate the eyeball",
+        "description": "The III cranial nerve controls the superior rectus muscle, which elevates the eyeball.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "To control the muscles that depress the eyeball",
+        "description": "The III cranial nerve controls the inferior rectus muscle, which depresses the eyeball.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

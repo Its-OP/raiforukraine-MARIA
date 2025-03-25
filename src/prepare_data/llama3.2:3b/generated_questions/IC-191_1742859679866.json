@@ -1,0 +1,12 @@
+{
+  "folder": "IC-191",
+  "content": "{{knowledge objective\n|Identifiant=OIC-191-02-B\n|Item_parent=Fever in an immunocompromised patient\n|Item_parent_short=Fever in an immunocompromised patient\n|Rank=B\n|Title=Know the risk factors for the main fungal infections\n|Description=candidemia: prolonged neutropenia, allogeneic transplants, resuscitation, digestive breach... cryptococcosis: HIV\n|Rubric=Epidemiology\n|Contributors=Am\u00e9lie Servettaz\n|Order=2}}\n\n<small>Invasive fungal infections occur preferentially in patients with one or more risk factors:</small>\n\n<small>- '''Neutropenia (PNN <0.5G/L) > 7 days''' ''(Aspergillosis, Candidaemia)''</small>\n\n<small>- '''Central vascular catheter (parenteral nutrition)''' ''(Candidemia)'''</small>\n\n<small>- '''Prior colonization''' ''(Candid\u00e9mie)''</small>\n\n<small>- '''Prior antibiotic therapy''' ''(Candidemia)''</small>\n\n<small>- '''Major abdominal surgery''' ''(Candidemia)''</small>\n\n<small>- '''Renal insufficiency''' ''(Candidemia)''</small>\n\n<small>- '''Severity of disease''' ''(Candidemia)''</small>\n\n<small>- '''Length of stay in intensive care'''''(Candid\u00e9mie)'''</small>\n\n<small>- '''Toxicomanie IV''' ''(Candid\u00e9mie)''</small>\n\n<small>- '''Corticotherapy''' ''(Candidaemia, pneumocystis...)''</small>\n\n<small>- '''HIV infection with CD4<200/mm<sup>3</sup>''': ''candidemia, pneumocystis CD4<100/mm<sup>3</sup>: cryptococcosis...''</small>\n\n<small>- '''Allograft patient''' ''(Candidaemia, pneumocystis, aspergillosis...)''</small>\n\n'''<small>-</small>''' <small>''Organ transplant'''</small> (''<small>pneumocystis, aspergillosis, candidemia, ...)</small>'''",
+  "question": {
+    "question": "What is a risk factor for invasive fungal infections?",
+    "option_a": "Organ transplant",
+    "option_b": "Prior antibiotic therapy",
+    "option_c": "Renal insufficiency",
+    "option_d": "HIV infection with CD4<200/mm^3",
+    "correct_option": "A"
+  }
+}

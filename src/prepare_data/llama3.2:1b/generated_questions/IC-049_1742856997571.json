@@ -1,0 +1,14 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-21-B\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=B\n|Title=Photographs: premature thelarche\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=21}}\nThe typical ''premature thelarche'' in girls under 2 years of age most often begins in the perinatal period, with breast development progressing relatively little thereafter. If there is any doubt, a simple pelvic ultrasound showing prepubertal internal genitalia will suggest the diagnosis of isolated ''premature thelarche''.\n[File:Premature thelarche infant 10 months.png|left|thumb]]\n<br />",
+  "question": {
+    "question": "What is the typical age range for premature thelarche in girls under 2 years of age?",
+    "correct_option": "2 years",
+    "distractors": [
+      "2.5 years",
+      "3 years",
+      "5 years",
+      "4 years"
+    ]
+  }
+}

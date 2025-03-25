@@ -1,0 +1,23 @@
+{
+  "folder": "IC-136",
+  "content": "{{knowledge objective\n|Identifiant=OIC-136-12-B\n|Item_parent=Local, locoregional and general anaesthesia\n|Item_parent_short=Local, locoregional and general anaesthesia\n|Rank=B\n|Title=Early rehabilitation after surgery (RAC) and ambulatory surgery\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=12}}\nAmbulatory surgery is defined as all surgical or medical, diagnostic or therapeutic procedures carried out under the technical safety conditions of an operating theatre, under variable anaesthesia and with no increased risk for the patient, enabling patients to be discharged on the same day as their admission, without overnight accommodation. In order to ensure the safety of this care, the selection criteria used to validate outpatient care must be assessed prior to surgery (\"''[[Information and monitoring of a patient undergoing outpatient surgery SD-356|information and monitoring of a patient undergoing outpatient surgery]'').\n\nAmbulatory surgery is part of the more global concept of early rehabilitation after surgery (RAC), which is a comprehensive approach to patient care that ''promotes early recovery of the patient's abilities after surgery''. The key points of an EPR are :\n\n* informing patients and training them in the process\n* anticipate the organisation of care and the patient's discharge\n* reduce the consequences of surgical stress\n* controlling pain in all situations\n* encouraging and stimulating patient autonomy",
+  "question": {
+    "properties": {
+      "question": "What is the definition of ambulatory surgery?",
+      "option_a": "All surgical procedures carried out in an operating theatre under standard anaesthesia and without increased risk for the patient.",
+      "option_b": "All surgical procedures carried out in an operating theatre under variable anaesthesia and with increased risk for the patient.",
+      "option_c": "All surgical procedures carried out in an operating theatre under standard anaesthesia and with no increased risk for the patient.",
+      "option_d": "All surgical procedures carried out in an operating theatre under variable anaesthesia and with increased risk for the patient, enabling patients to be discharged on the same day as their admission.",
+      "correct_option": "option_a"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ],
+    "type": "object"
+  }
+}

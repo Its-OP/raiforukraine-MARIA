@@ -1,0 +1,22 @@
+{
+  "folder": "IC-157",
+  "content": "{{knowledge objective\n|Identifiant=OIC-157-02-B\n|Item_parent=Bacteremia/Fungemia in adults and children\n|Item_parent_short=Bacteremia/Fungemia in adults and children\n|Rank=B\n|Title=Know the frequency of bacteremia/fungemia and the frequency of their complications\n|Description=None\n|Topic=Epidemiology\n|Contributors=David Lebeaux,Jean-Pierre Gangneux\n|Order=2}}\n\nIncidence of bacteraemia in hospitalised patients = 1%.\n\nSerious pathology :\n\n*1/4 of patients present with severity criteria (see [[Sepsis and septic shock in children and adults|sepsis/septic shock]]).\n*10-20% case fatality, depending on the series\n\nIncidence of fungal infections: 1 to 1.5/10,000 hospital days\n\nSecondary septic complications occur in 10-15% of cases: retinitis, endocarditis, hepato-splenic candidiasis, skin.",
+  "question": {
+    "properties": {
+      "question": "What is the approximate incidence of bacteremia/fungemia in hospitalised patients?",
+      "option_a": "0.01",
+      "option_b": "0.1",
+      "option_c": "0.15",
+      "option_d": "0.01",
+      "correct_option": "0.1",
+      "required": [
+        "question",
+        "option_a",
+        "option_b",
+        "option_c",
+        "option_d",
+        "correct_option"
+      ]
+    }
+  }
+}

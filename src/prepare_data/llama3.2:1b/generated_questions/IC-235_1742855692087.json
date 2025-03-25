@@ -1,0 +1,12 @@
+{
+  "folder": "IC-235",
+  "content": "{{knowledge objective\n|Identifiant=OIC-235-08-A\n|Item_parent=Acute pericarditis\n|Item_parent_short=Acute pericarditis\n|Rank=A\n|Title=Knowing how to assess the risk of complications requiring hospitalisation\n|Description=Fever > 38\u00b0, duration of symptoms, abundant pericardial effusion, resistance to anti-inflammatory treatment.\n|Section=Management\n|Contributors=Jennifer Cautela\n|Order=8}}\n\n\n*Clinical picture pointing to a specific aetiology\n*Hyperalgesic patient despite first dose of NSAIDs\n*Presence of factors predictive of tamponade:\n**fever >38\u00b0C\n**symptoms present for several weeks\n**immunocompromised patients\n**patients on oral anticoagulants\n**after chest trauma\n\n*Associated myocarditis (= troponin elevation)\n*Abundant pericardial effusion (>20mm)\n*tamponade\n*Resistance to anti-inflammatory treatment (aspirin or NSAID) for 7 days.",
+  "question": {
+    "question": "What is the primary factor predictive of tamponade in a patient with acute pericarditis?",
+    "option_a": "Immune system suppression",
+    "option_b": "Anticoagulation therapy",
+    "option_c": "Oral anticoagulants",
+    "option_d": "Hyperalgesia",
+    "correct_option": "option_a"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-336",
+  "content": "{{knowledge objective\n|Identifiant=OIC-336-14-A\n|Item_parent=Non-traumaticoma in adults and children\n|Item_parent_short=Non-traumatic coma in adults and children\n|Rank=A\n|Title=Knowing the initial symptomatic management and correction of hypoglycaemia\n|Description=Know how to take respiratory risks into account and carry out the appropriate first-line treatments (opening the airways and oxygen therapy -item 359), safety lateral position and call the resuscitator, resugaring, etc.\n|Rubric=Management\n|Contributors=Nicolas Weiss\n|Order=14}}\n\n- Airway clearance (lateral safety position, removal of foreign body, removal of dental prostheses, insertion of a Gu\u00e9del cannula)\n\n- Oxygen therapy if saturation < 92\n\n- Setting up an infusion with physiological serum\n\n- Assess the need to administer an antidote :\n\no If hypoglycaemia: administration of serum glucose (G30 IV)\n\no If benzodiazepine intoxication >> IV flumazenil\n\no If opioid intoxication >> naloxone IV\n\n- Appropriate monitoring: electrocardioscope, SpO2, NIBP\n\n- Call for help (resuscitator, ambulance, etc.)",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the first-line treatment for hypoglycaemia in adults and children?",
+        "description": "A question about the initial symptomatic management and correction of hypoglycaemia",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Administering naloxone IV",
+        "description": "A possible treatment option for opioid intoxication",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Setting up an infusion with physiological serum",
+        "description": "A possible treatment option for hypoglycaemia",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Calling for help and administering flumazenil IV",
+        "description": "A possible treatment option for benzodiazepine intoxication",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Administering naloxone IV",
+        "description": "A possible treatment option for opioid intoxication",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct letter of the first-line treatment for hypoglycaemia",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

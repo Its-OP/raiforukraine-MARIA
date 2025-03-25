@@ -1,0 +1,12 @@
+{
+  "folder": "IC-133",
+  "content": "{{knowledge objective\n|Identifiant=OIC-133-07-A\n|Item_parent=Autonomy and dependence in the elderly\n|Item_parent_short=Autonomy and dependence in elderly people\n|Rank=A\n|Title=Knowing the main human and technical aids in the home\n|Description=Knowing the main types of human aid and adapting the home\n|Rubrique=Prise en charge\n|Contributors=\n|Order=7}}\n'''Possible financial aid according to the degree of autonomy assessed by the GIR grid:'''\n\n- GIR 1 to 4: Allocation personne \u00e2g\u00e9e (APA), under the authority of the Conseils d\u00e9partementaux, provides funding for home help, meal delivery and certain home improvements, for example; or provides funding for part of the cost of accommodation in Etablissements d'H\u00e9bergements pour personnes \u00e2g\u00e9es d\u00e9pendantes (EHPAD); means-tested.\n\n- GIR 5 to 6: Possible financial aid paid by pension funds and/or mutual insurance companies on a case-by-case basis\n\n\n'''Aides humaines pouvant intervenir au domicile:'''\n\n- Surroundings: friends, family, carers, neighbours\n\n- Social professionals: social workers, home helps, night nurses, meal delivery services\n\n- Paramedical healthcare professionals: nurses, masseur-physiotherapists, pharmacists, speech therapists, occupational therapists, psychomotor therapists, psychologists, healthcare network workers, etc.\n\n- Medical professionals: general practitioners, doctors in care networks\n\n\n'''Technical aids:'''\n\n- Teleassistance\n\n- Walking aids: walker, simple cane, tripod cane\n\n- Bedroom fittings: medical bed, anti-bedsore mattress\n\n- Toilet fittings: handrail, toilet riser, commode chair, non-slip shower mat\n\n- Fitting out the home: adapted telephone, adapted clock, etc.",
+  "question": {
+    "question": "What type of financial aid is available to individuals with a GIR score of 5 to 6?",
+    "option_a": "Allocation personnalis\u00e9e d'autonomie (APA)",
+    "option_b": "Allocation de base",
+    "option_c": "Funding from pension funds and/or mutual insurance companies on a case-by-case basis",
+    "option_d": "Solidarity allowance",
+    "correct_option": "C"
+  }
+}

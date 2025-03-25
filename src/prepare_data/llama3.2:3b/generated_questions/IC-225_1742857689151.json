@@ -1,0 +1,40 @@
+{
+  "folder": "IC-225",
+  "content": "{{knowledge objective\n|Identifiant=OIC-225-02-B\n|Item_parent=Arteriopathy of the aorta, visceral arteries and lower limbs; aneurysms\n|Item_parent_short=Arteriopathy of the aorta, visceral arteries and lower limbs; aneurysms\n|Rank=B\n|Title=Knowing the aetiology and risk factors of AOMI\n|Description=\n|Rubric=Physiopathology\n|Contributors=Christian Boissier,Lucie Salomon Du Mont, Anne Long, Alessandra Bura, Patrick Feugier\n|Order=2}}\n\nAOMI is the local expression of a systemic disease, the prognosis of which is partly conditioned by cardiac complications (angina and myocardial infarction) and cerebrovascular complications.\n\nThe ''risk factors'' for OSA are those for atheroma (Cf [[2C-221|221]]-[[2C-222|22]]2-[[2C-223|223]]-[[2C-224|224]]).\n\n- age,\n\n- Male sex\n\n- smoking,\n\n- diabetes,\n\n- HTA,\n\n- Hypercholesterolemia\n\nObesity and a sedentary lifestyle\n\nIts '''prevention''' joins the '''prevention of cardiovascular disease.'''\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What are the main risk factors for AOMI?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Age, male sex, and smoking are the main risk factors for AOMI",
+        "description": "Option A"
+      },
+      "option_b": {
+        "title": "Obesity, diabetes, and hypercholesterolemia are the main risk factors for AOMI",
+        "description": "Option B"
+      },
+      "option_c": {
+        "title": "A sedentary lifestyle, hypertension, and cardiac complications are the main risk factors for AOMI",
+        "description": "Option C"
+      },
+      "option_d": {
+        "title": "All of the above options are correct",
+        "description": "Option D"
+      },
+      "correct_option": {
+        "title": "B"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

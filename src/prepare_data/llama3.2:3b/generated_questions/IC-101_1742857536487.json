@@ -1,0 +1,46 @@
+{
+  "folder": "IC-101",
+  "content": "{{knowledge objective\n|Identifiant=OIC-101-07-A\n|Item_parent=Facial paralysis\n|Item_parent_short=Facial paralysis\n|Rank=A\n|Title=Know the principles of management of facial paralysis with frigidity, including complications.\n|Description=Earlycorticosteroid therapy, eye protection\n|Topic=Management\n|Contributors=\n|Order=7}}\nTreatment of facial paralysis with frigidity ([[Facial paralysis SDD-127|facial paralysis]]) must be undertaken as a matter of urgency:\n\n* Prescription of oral corticosteroids (1 mg/kg/d) for 7 to 10 days. Early initiation (< 72 hours) increases the chances of recovery ([[Prescribe systemic or local corticosteroids SDD-251|prescribe systemic or local corticosteroids]]).\n\n* Systematic prevention of ocular complications (keratitis, revealed by ocular pain) ([[Ocular burning sensation SDD-141|ocular burning sensation]]) :\n\n- Prescription of artificial tears\n\n- Occlusive dressing at night if palpebral occlusion is insufficient\n\n- In the most severe forms, temporary tarsorrhaphy.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the recommended duration of corticosteroid therapy for facial paralysis with frigidity?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "7 to 10 days",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "10 to 14 days",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "14 to 21 days",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Less than 7 days",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-25-B\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=B\n|Title=Congenital hip dislocation: knowing the complications\n|Description=None\n|Rubric=Follow-up and/or prognosis\n|Contributors=\n|Order=25}}\nDelayed diagnosis leads to more complicated management\n\nFailure to treat dislocating hip disease leads to limping from the onset of walking, chronic pain and early degenerative damage.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a potential consequence of delayed diagnosis and treatment of congenital hip dislocation?",
+        "description": "A question about the complications of congenital hip dislocation",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Chronic pain and early degenerative damage",
+        "description": "A plausible but incorrect option that reflects a common consequence of untreated hip disease",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Limping from the onset of walking",
+        "description": "A correct option that is a well-known consequence of delayed diagnosis and treatment",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Early detection and treatment can prevent chronic pain and degenerative damage",
+        "description": "An incorrect option that reflects a common misconception about the consequences of congenital hip dislocation",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Delayed diagnosis leads to more complicated management",
+        "description": "An incorrect option that is a paraphrase of the correct answer",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The correct letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

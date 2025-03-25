@@ -1,0 +1,12 @@
+{
+  "folder": "IC-201",
+  "content": "{{knowledge objective\n|Identifiant=OIC-201-01-A\n|Item_parent=Organ transplants: epidemiological and immunological aspects; principles of treatment and monitoring; complications and prognosis; ethical and legal aspects. Organ procurement and legislation\n|Item_parent_short=Organ transplants: epidemiological and immunological aspects; principles of treatment and monitoring; complications and prognosis; ethical and legal aspects. Organ procurement and legislation\n|Rank=A\n|Intitle=Know the definition of potential donors\n|Description=None\n|Rubric=Definition\n|Contributors=Dany Anglicheau\n|Order=1}}\n\nThere are 3 categories of [[State of apparent death SD-038|organ donors]] :\n\n*donors in a state of brain death, who represent the majority of donors;\n*donors who have died after circulatory arrest (DCAD). A distinction is made between donors who have suffered an \"uncontrolled\" out-of-hospital cardiac arrest and donors who have suffered a circulatory arrest in intensive care following a decision to stop active treatment;\n*Living donors.",
+  "question": {
+    "question": "What are the three categories of organ donors?",
+    "option_a": "Donors who have died after circulatory arrest (DCAD) and donors who have suffered an uncontrolled out-of-hospital cardiac arrest",
+    "option_b": "Donors in a state of brain death, donors who have died after circulatory arrest (DCAD), and donors who have suffered a circulatory arrest in intensive care following a decision to stop active treatment",
+    "option_c": "Donors in a state of brain death, living donors, and donors who have died after circulatory arrest (DCAD)",
+    "option_d": "Donors in a state of brain death, donors who have died after circulatory arrest (DCAD), and donors who have died after uncontrolled out-of-hospital cardiac arrest and circulatory arrest in intensive care",
+    "correct_option": "B"
+  }
+}

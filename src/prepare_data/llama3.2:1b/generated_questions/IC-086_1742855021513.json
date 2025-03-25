@@ -1,0 +1,12 @@
+{
+  "folder": "IC-086",
+  "content": "{{knowledge objective\n|Identifiant=OIC-086-03-A\n|Item_parent=Eyelid pathology\n|Item_parent_short=Eyelid pathology\n|Rank=A\n|Title=Recognising ptosis\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=3}}\n'''Ptosis''' too low position of the free margin of the upper eyelid. It can be measured by the position of the upper eyelid in relation to the upper sclero-corneal limbus: Normally the eyelid covers the cornea physiologically by only 1 to 2 mm.\n\nPtosis should be distinguished from ''dermachalasis'' (excess eyelid skin), which is very common in the elderly. In this case, the skin fold covers the visual axis, while the free edge of the upper eyelid is well positioned.\n\n<br />",
+  "question": {
+    "question": "What is the normal position of the upper eyelid in relation to the cornea?",
+    "option_a": "A normal ptosis is characterized by the upper eyelid covering only 1 to 2 mm of the cornea.",
+    "option_b": "The normal position of the upper eyelid is when it covers the cornea fully.",
+    "option_c": "The normal position of the upper eyelid is when it is completely uncovered.",
+    "option_d": "Ptosis is not related to the position of the upper eyelid.",
+    "correct_option": "A normal ptosis is characterized by the upper eyelid covering only 1 to 2 mm of the cornea."
+  }
+}

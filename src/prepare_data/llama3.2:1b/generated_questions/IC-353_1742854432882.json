@@ -1,0 +1,20 @@
+{
+  "folder": "IC-353",
+  "content": "{{knowledge objective\n|Identifiant=OIC-353-02-A\n|Item_parent=Suicidal risk and behaviour in children, adolescents and adults: identification and management\n|Item_parent_short=Suicidal risk and behaviour in children, adolescents and adults: identification and management\n|Rank=A\n|Title=Knowing the epidemiology of suicides and attempted suicides, suicidal ideation according to age and sex.\n|Description=According to age and sex\n|Rubric=Epidemiology\n|Contributors=Pierre Vandel\n|Order=2}}\n\n=== Suicidal thoughts ===\nBarom\u00e8tre sant\u00e9 2020: 4.2% of respondents aged 18 to 85 said they had thought about committing suicide in the last 12 months.\n\n=== Suicide attempts\nBetween 150,000 and 200,000 suicide attempts resulting in contact with the healthcare system in France, i.e. one attempt every 4 minutes.\n\nThe 2017 Health Barometer shows that 7.2% of 18-75 year olds said they had attempted suicide in their lifetime and 0.39% in the last 12 months.\n\nRecurrence after ST: 40%. Half within the first year. Lifetime suicide mortality rate for a person who has attempted suicide = 10%.\n\n=== Suicides ===\n* Leading cause of preventable death\n* 16.4 suicides per 100,000 person-years (25.3 for men and 8.0 for women) in France\n* 2019: 9,000 deaths by suicide\n* Second leading cause of death among 15-24 year olds and the leading cause of death among 25-34 year olds.\n* At least one psychiatric disorder at the time of suicide in 90% of suicides.\n\n\n\n<br />",
+  "question": {
+    "question": "What is the estimated lifetime suicide mortality rate for a person who has attempted suicide?",
+    "option_a": "10%",
+    "option_b": "20%",
+    "option_c": "40%",
+    "option_d": "50%",
+    "correct_option": "40%",
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

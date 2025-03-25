@@ -1,0 +1,46 @@
+{
+  "folder": "IC-270",
+  "content": "{{knowledge objective\n|Identifiant=OIC-270-06-A\n|Item_parent=Acute low back pain\n|Item_parent_short=Acute low back pain\n|Rank=A\n|Title=Knowing the biological work-up to prescribe in case of acute low back pain\n|Description=Biology required only if a secondary cause is suspected\n|Rubric=Additional tests\n|Contributors=Fran\u00e7ois-Xavier NOUHAUD\n|Order=6}}\n\n\n*Biological assessment of acute low back pain will depend on the diagnostic orientation based on questioning, inspection and clinical examination. Biological tests are not necessary in cases of acute low back pain of common origin (disco-vertebral or arthrosic origin of the pain). The situation is different if a symptomatic (or secondary) cause or visceral pain is suspected.\n\n==Biological tests should be ordered as a matter of urgency if there is any sign of seriousness, and should be adapted to the diagnostic orientation:==\n\n*urological\n*nephrological\n*visceral\n*vascular and cardiological\n*gynaecological\n*pulmonary\n*neurological\n\n*In most cases, the biological work-up will include : CBC, creatininemia, blood ionogram, CRP, calcemia.\n*Depending on the circumstances, the biological work-up may also include: blood cultures, ECBU, arterial blood gas, blood group, cardiac enzymes (troponin), D-dimer, inflammatory work-up, proteinuria, pregnancy test, etc.\n*In the event of a cardiovascular or pulmonary referral, an ECG should be performed.\n*If the patient is neurologically oriented, an EMG or lumbar puncture may be requested.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary purpose of biological testing in acute low back pain",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To confirm the diagnosis of a specific underlying condition",
+        "description": "A plausible but incorrect option that may be tempting for someone who is not familiar with the nuances of acute low back pain",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "To rule out all possible causes of acute low back pain",
+        "description": "An overly broad and incorrect option that may be tempting for someone who is not aware of the complexity of acute low back pain",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "To confirm the presence of an underlying visceral or urological cause",
+        "description": "A correct option that reflects the nuances of the diagnostic orientation",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "To assess the patient's overall health and well-being",
+        "description": "An incorrect option that is too broad and not specific to the context of acute low back pain",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "C",
+        "description": "The correct letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

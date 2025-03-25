@@ -1,0 +1,12 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-23-A\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=A\n|Title=Knowing the clinical signs of early syphilis\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=23}}\nEarly syphilis :\n\n- Primary: variable duration (usually 21 days)\n\n- Chancre: single ++, clean, indurated, genital background ++, spontaneous regression<blockquote>o Caution: not all syphilitic chancres fully meet these criteria</blockquote>\u00a7 Syphilis must be suspected until proven otherwise in the presence of any ulceration of the genitals.\n\n- Satellite ADP: non-inflammatory\n\n\n- Secondary: duration <1 year\n\n- Syphilitic roseola: pinkish macules on the trunk, no other functional symptoms\n\n- Papular syphilis: copper-coloured papules, variable number and location\n\n- General and extracutaneous signs: fever, headache, poly-ADP, etc.\n\n\n- Early latent: asymptomatic",
+  "question": {
+    "question": "What is a characteristic of a chancre in early syphilis?",
+    "option_a": "It is typically painful and accompanied by significant swelling.",
+    "option_b": "It is a single, clean, indurated lesion with a genital background, which may regress spontaneously.",
+    "option_c": "It is a rash that covers the entire body and is accompanied by fever and headache.",
+    "option_d": "It is a symptom that only occurs in secondary syphilis.",
+    "correct_option": "B"
+  }
+}

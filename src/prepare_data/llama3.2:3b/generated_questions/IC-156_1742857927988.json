@@ -1,0 +1,41 @@
+{
+  "folder": "IC-156",
+  "content": "{{knowledge objective\n|Identifiant=OIC-156-18-B\n|Item_parent=Infections in the bones and joints (IOA) of children and adults\n|Item_parent_short=Infections osteo articulaires (IOA) de l'enfant et de l'adulte\n|Rank=B\n|Title=Photograph of a toe infection\n|Description=\n|Rubric=Multimedia content\n|Contributors=\n|Order=18}}\n[[File:Photograph of a toe infection.jpg|left|thumb|Photograph of a toe infection]]",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the most common cause of toe infections in children and adults?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Poor hygiene",
+        "description": "Not washing hands regularly, especially after using the bathroom or before eating"
+      },
+      "option_b": {
+        "title": "Trauma to the toe",
+        "description": "Injury to the toe, such as a cut or broken bone"
+      },
+      "option_c": {
+        "title": "Fungal infection",
+        "description": "Infection caused by a fungus, such as athlete's foot"
+      },
+      "option_d": {
+        "title": "Bacterial infection",
+        "description": "Infection caused by bacteria, such as strep throat"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": ""
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

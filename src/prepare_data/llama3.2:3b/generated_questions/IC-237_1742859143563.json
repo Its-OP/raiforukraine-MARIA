@@ -1,0 +1,12 @@
+{
+  "folder": "IC-237",
+  "content": "{{knowledge objective\n|Identifiant=OIC-237-02-A\n|Item_parent=Palpitations\n|Item_parent_short=Palpitations\n|Rank=A\n|Title=Know the signs of seriousness and urgent ECG diagnoses\n|Description=Know the alarming symptoms and urgent ECG diagnoses of ACS and VT\n|Topic=Emergency identification\n|Contributors=Arnaud Bisson\n|Order=2}}\nThe elements of seriousness are the '''terrain''', the '''poor haemodynamic tolerance''' and the '''ventricular tachycardia''' which we look for by:\n\n'''The Interrogation:'''\n\n*Personal history:\n**underlying cardiac disease (ischaemic, dilated, hypertrophic, congenital...),\n**rhythm disorders, particularly ventricular,\n**pacemaker or cardiac defibrillator\n*family history\n**sudden death in infancy or before the age of 35 in the family pointing to arrhythmias with a genetic cause (family tree).\n*symptoms :\n**lipothymia, syncope (''Malaise/loss of consciousness)''\n**signs of low output (cerebral: confusion, digestive: abdominal pain)\n**heart failure signs (''dyspnoea'')\n**angina (linked to acute or functional coronary syndrome) (''chest pain'')\n\n'''The electrocardiogram:'''\n\n*Evoking an absolute emergency (risk of cardiorespiratory arrest):\n**Any regular tachycardia with wide QRS is suggestive of ventricular tachycardia until proven otherwise.\n**repolarisation disorder suggestive of acute coronary syndrome\n*ECG elements of severity:\n**fine QRS tachycardia with poor clinical tolerance\n**signs of underlying heart disease (sequelae, primary electrical disease)\n\n[[File:Ventricular tachycardia.png|centric|vignette|900x900px|Regular tachycardia (160/min) with wide QRS (right delay aspect) with ventriculo-atrial dissociation * and capture/fusion complexes <sup>#</sup>)]]",
+  "question": {
+    "question": "What is a key sign of ventricular tachycardia on an electrocardiogram (ECG)?",
+    "option_a": "A wide QRS complex",
+    "option_b": "A narrow QRS complex",
+    "option_c": "A heart rate above 100 beats per minute",
+    "option_d": "A regular rhythm with a rate above 120 beats per minute",
+    "correct_option": "A"
+  }
+}

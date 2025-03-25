@@ -1,0 +1,41 @@
+{
+  "folder": "IC-070",
+  "content": "{{knowledge objective\n|Identifiant=OIC-070-01-A\n|Item_parent=Psychological disorders in the elderly\n|Item_parent_short=Psychological disorders in the elderly\n|Rank=A\n|Title=Know the definition of psychiatric disorders in the elderly\n|Description=Threshold age - Late-onset psychiatric disorders\n|Rubric=Definition\n|Contributors=Pierre Vandel,Marie Tournier\n|Order=1}}\n\nPsychiatry of the elderly has been a psychiatry option since 2017 and is based on the definition proposed by the WHO.\n\n\"A branch of psychiatry whose general objectives are to detect, treat, assess and prevent all types of psychiatric disorders in the elderly and their consequences.\n\nThis concerns :\n\n- psychobehavioural symptoms of dementia (major neurocognitive disorders);\n\n- all psychiatric disorders of the elderly (for which the age threshold has been set at 65), whether psychiatric disorders that began at a younger age and develop with ageing, or late-onset psychiatric disorders.\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary focus of psychiatry of the elderly?",
+        "description": "A branch of psychiatry that deals with psychiatric disorders in older adults.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Diagnosing and treating physical health conditions in older adults",
+        "description": "A focus on the physical aspects of aging and health."
+      },
+      "option_b": {
+        "title": "Assessing and preventing psychiatric disorders in older adults",
+        "description": "A focus on the mental health of older adults."
+      },
+      "option_c": {
+        "title": "Providing palliative care to older adults with terminal illnesses",
+        "description": "A focus on alleviating symptoms and improving quality of life for older adults with serious health conditions."
+      },
+      "option_d": {
+        "title": "Conducting research on the causes of aging and age-related diseases",
+        "description": "A focus on understanding the underlying causes of aging and age-related health issues."
+      },
+      "correct_option": {
+        "title": "",
+        "description": "A"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

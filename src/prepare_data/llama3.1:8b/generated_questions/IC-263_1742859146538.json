@@ -1,0 +1,12 @@
+{
+  "folder": "IC-263",
+  "content": "{{knowledge objective\n|Identifiant=OIC-263-08-B\n|Item_parent=Vascular nephropathy\n|Item_parent_short=Vascular nephropathy\n|Rank=B\n|Title=Diagnosis of renal artery stenosis\n|Angio-CT/MRI: number of renal arteries, location of stenoses, morphological study of the kidneys and the aorta (state of the wall) and the iliac axes;\n|Rubric=Positive diagnosis\n|Contributors=Jean-Jacques Boffa\n|Order=8}}\n\nDiagnostic tests\n{| class=\"wikitable\"\n|'''Examination'''\n|'''Interest'''\n|Limitations\n|-\n|'''Renal ultrasound''''\n|Kidney size asymmetry\n|\n|-\n|Renal Artery Doppler\n|Easily available.\n\nGood sensitivity.\n\nFlow analysis (degree of stenosis).\n\nMeasurement of resistance indexes (predictive of response to treatment).\n|Obese subjects.\n\nRadiologist's experience.\n|-\n|'''Spiral computed tomography''''\n|Direct visualisation of the renal arteries (trunk + dividing branches).\n\nDemonstration of calcifications.\n\nGood definition\n|Large quantities of iodinated contrast products (renal toxicity).\n\nIrradiation.\n|-\n|'''Angio-MRI''''\n|Direct visualisation of the renal arteries.\n\nNo renal toxicity (gadolinium).\n|More restricted access.\n\nOverestimation of lesions.\n|-\n|Renal arteriography\n|Reference examination.\n\nDiagnostic and therapeutic interest.\n|Iodine injection (renal toxicity).\n\nCholesterol crystal emboli.\n|}\n<br />",
+  "question": {
+    "question": "What is a limitation of Renal Artery Doppler in diagnosing renal artery stenosis?",
+    "option_a": "It is not easily available.",
+    "option_b": "It has poor sensitivity.",
+    "option_c": "It is not suitable for obese subjects.",
+    "option_d": "It does not measure resistance indexes.",
+    "correct_option": "C"
+  }
+}

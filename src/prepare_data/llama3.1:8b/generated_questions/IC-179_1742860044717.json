@@ -1,0 +1,12 @@
+{
+  "folder": "IC-179",
+  "content": "{{knowledge objective\n|Identifiant=OIC-179-11-A\n|Item_parent=Health risks linked to water and food. Food poisoning\n|Item_parent_short=Health risks associated with food and water. Food poisoning\n|Rank=A\n|Title=Knowing how to prevent foodborne infections\n|Description=None\n|Section=Definition\n|Contributors=Pr Christophe DE CHAMPS DE SAINT LEGER, Dr Johann CAILHOL\n|Ordre=11}}\n'''Preventive measures outside the context of a TIAC''' :\n\nThe preventive measures consist of applying scrupulous hygiene rules throughout the food preparation chain (source of food, transport, preparation), with staff education and the principle of moving forward in collective kitchens.\n\nPrevention also involves medical surveillance of staff and the exclusion of certain agents depending on the risk, as well as routine microbiological sampling in the catering sector.\n\n'''Preventive measures in the presence of a TIAC''' :\n\nConsignment of suspect foodstuffs\n\nEviction of the source as soon as it is identified\n\nSuspension of catering activities at an establishment pending the results of the investigation",
+  "question": {
+    "question": "What are the preventive measures taken outside the context of a TIAC (Toxic Invasive Algal Bloom) in the prevention of foodborne infections?",
+    "option_a": "Suspension of catering activities at an establishment pending the results of the investigation",
+    "option_b": "Applying scrupulous hygiene rules throughout the food preparation chain, staff education, and the principle of moving forward in collective kitchens",
+    "option_c": "Consignment of suspect foodstuffs and eviction of the source as soon as it is identified",
+    "option_d": "Medical surveillance of staff and routine microbiological sampling in the catering sector only",
+    "correct_option": "B"
+  }
+}

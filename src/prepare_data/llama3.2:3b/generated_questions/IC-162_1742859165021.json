@@ -1,0 +1,46 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-06-A\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=A\n|Title=Photograph of a genital herpes infection\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=6}}\n<gallery>\nFile:Herpes LISA.jpeg|Genital herpes: painful postvesicular millimetric lesions with an inflammatory border of the glans.\n</gallery>",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary mode of transmission for genital herpes?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Genital herpes is primarily spread through the air",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Genital herpes is primarily spread through skin-to-skin contact with an infected partner",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Genital herpes is primarily spread through the consumption of infected food and water",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Genital herpes is primarily spread through mother-to-child during childbirth",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

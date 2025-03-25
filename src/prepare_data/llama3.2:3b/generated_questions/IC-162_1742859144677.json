@@ -1,0 +1,46 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-32-B\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=B\n|Title=Knowing the parasitic aetiologies of STIs\n|Description=Trichomoniasis, Pthirosis\n|Rubric=Etiologies\n|Contributors=\n|Order=32}}\n'''- Trichomoniasis :''' ''Trichomonas vaginalis,'' flagellate protozoan, anaerobic\n\n- Scabies: ''Sarcoptes scabiei hominis'', sarcoptes*.\n\n- Pediculosis of the pubis: ''Phtirius inguinalis\n\n<nowiki>*</nowiki> its mode of transmission makes it similar to an STI, which requires research into risky behaviour and, where appropriate, screening for other STIs",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the aetiology of Trichomoniasis?",
+        "description": "A parasitic infection caused by Trichomonas vaginalis",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "A protozoan flagellate",
+        "description": "A type of single-celled organism",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "A type of lice",
+        "description": "A type of ectoparasite that infests the skin",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "A type of mite",
+        "description": "A type of arachnid that infests the skin",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "A type of bacterial infection",
+        "description": "A type of infection caused by a bacterium",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

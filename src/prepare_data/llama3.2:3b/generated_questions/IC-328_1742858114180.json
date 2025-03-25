@@ -1,0 +1,46 @@
+{
+  "folder": "IC-328",
+  "content": "{{knowledge objective\n|Identifiant=OIC-328-11-A\n|Item_parent=Non-drug therapies and medical devices\n|Item_parent_short=Non-drug therapies and medical devices\n|Rank=A\n|Title=Knowing how to prescribe a wheelchair\n|Description=General rules for prescribing manual and electric wheelchairs\n|Rubric=Definition\n|Contributors=Bisseriex H\u00e9l\u00e8ne,De Boissezon Xavier\n|Order=11}}\n\n'''([[Progressive loss of autonomy SDD-031|progressive loss of autonomy]])''''\n\n'''Manual wheelchair:''''\n\n- on prescription by any doctor\n\n- purchase or rental, paid for by the health insurance scheme\n\n- whether or not combined with the prescription of an anti-bedsore cushion\n\n\n'''Electric wheelchair'''\n\n- requires a trial to validate that the wheelchair is suitable for the disability and is not dangerous, by a PRM doctor + a physiotherapist or occupational therapist\n\n- on simple prescription + trial certificate\n\n- purchase only\n\n- subject to prior agreement with the health insurance, additional financing possible by the MDPH '''([[Situation of disability SDD-345|situation of disability]])''''\n\n- whether or not combined with the prescription of an anti-bedsore cushion",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is required for the prescription of an electric wheelchair?",
+        "description": "The process for prescribing an electric wheelchair",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "A trial with a PRM doctor and a physiotherapist or occupational therapist",
+        "description": "A trial with a PRM doctor and a physiotherapist or occupational therapist",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "A simple prescription and a trial certificate",
+        "description": "A simple prescription and a trial certificate",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "A trial with a doctor and a physiotherapist",
+        "description": "A trial with a doctor and a physiotherapist",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "A simple prescription and a trial with a PRM doctor",
+        "description": "A simple prescription and a trial with a PRM doctor",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct letter of the answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

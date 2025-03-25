@@ -1,0 +1,12 @@
+{
+  "folder": "IC-230",
+  "content": "{{knowledge objective\n|Identifiant=OIC-230-01-A\n|Item_parent=Acute chest pain\n|Item_parent_short=Acute chest pain\n|Rank=A\n|Title=Know the definition of acute chest pain\n|Description=None\n|Rubric=Definition\n|Contributors=Vincent Roule\n|Order=1}}\n'''Know the definition of acute chest pain'''\n\n<nowiki/>= pain (or discomfort) in the region of the rib cage (between the neck and the umbilicus) occurring suddenly.\n\nVariable characteristics: intensity, location, irradiation, duration, triggering or relieving factor, frequency.",
+  "question": {
+    "question": "What is the definition of acute chest pain?",
+    "option_a": "A sharp pain in the lower back",
+    "option_b": "Pain (or discomfort) in the region of the rib cage (between the neck and the umbilicus) occurring suddenly",
+    "option_c": "A dull ache in the upper abdomen",
+    "option_d": "Pain in the arms or jaw",
+    "correct_option": "B"
+  }
+}

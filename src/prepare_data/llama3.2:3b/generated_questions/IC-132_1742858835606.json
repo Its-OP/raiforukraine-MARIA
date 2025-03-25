@@ -1,0 +1,41 @@
+{
+  "folder": "IC-132",
+  "content": "{{knowledge objective\n|Identifiant=OIC-132-08-A\n|Item_parent=Cognitive disorders in the elderly. (see item 108)\n|Item_parent_short=Cognitive disorders in the elderly. (see item 108)\n|Rank=A\n|Title=Knowing the biological tests to be carried out for neurocognitive disorders.\n|Description=Application of HAS 2011 criteria\n|Rubrique=Complementary examinations\n|Contributors=\n|Order=8}}\nThe main purpose of ''biological tests'' is to look for factors that could aggravate cognitive disorders. They are also guided by associated comorbidities.\n\nFirst intention\n\n- Blood count (anaemia?)\n\n- CRP\n\n- TSH\n\n- Blood ionogram with blood calcium, fasting blood sugar\n\n- Albumin levels\n\nDepending on the context\n\n- SGOT/SGPT, \u03b3GT\n\n- TPHA-VDRL, HIV serology\n\n- Vitamins B12, B9\n\n\nWhen neurocognitive problems develop rapidly or the clinical picture is atypical, a lumbar puncture may be performed (biomarkers of Alzheimer's disease, anti-neuronal antibodies, 14 3 3 protein, microbiology or virology depending on the context, etc.).",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the main purpose of biological tests in neurocognitive disorders?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To diagnose Alzheimer's disease",
+        "description": "Option A"
+      },
+      "option_b": {
+        "title": "To look for factors that could aggravate cognitive disorders",
+        "description": "Option B"
+      },
+      "option_c": {
+        "title": "To rule out vitamin deficiencies",
+        "description": "Option C"
+      },
+      "option_d": {
+        "title": "To perform a lumbar puncture",
+        "description": "Option D"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct letter of the answer"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

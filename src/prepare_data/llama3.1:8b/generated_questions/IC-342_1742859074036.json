@@ -1,0 +1,12 @@
+{
+  "folder": "IC-342",
+  "content": "{{knowledge objective\n|Identifiant=OIC-342-02-B\n|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=B\n|Title=Know the main pathophysiological mechanism of malaise\n|Description=Cerebral hypoperfusion or dysfunction of cerebral activity.\n|Rubric=Physiopathology\n|Contributors=\n|Order=2}}\ncerebral hypoperfusion (syncope/lipothymia) or cerebral activity dysfunction (epileptic seizure)",
+  "question": {
+    "question": "What is the main pathophysiological mechanism of malaise?",
+    "option_a": "Inflammation of the brain",
+    "option_b": "Cerebral hypoperfusion or dysfunction of cerebral activity",
+    "option_c": "Infection of the central nervous system",
+    "option_d": "Toxins in the blood",
+    "correct_option": "B"
+  }
+}

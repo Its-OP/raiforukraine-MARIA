@@ -1,0 +1,46 @@
+{
+  "folder": "IC-208",
+  "content": "{{knowledge objective\n|Identifiant=OIC-208-07-A\n|Item_parent=Chronic respiratory failure\n|Item_parent_short=Chronic respiratory failure\n|Rank=A\n|Title=Identify decompensation of CKD and assess its severity\n|Description=None\n|Rubric=Identifying the emergency\n|Contributors=\n|Order=7}}\n\n\n*Every patient with CKD has a fragile respiratory system at risk of decompensation, either through an increase in the symptoms of the initial respiratory illness (exacerbations of obstructive CKD or idiopathic pulmonary fibrosis) or through intercurrent events which should be systematically investigated (pulmonary embolism, left ventricular failure, infectious or drug-induced pneumopathy, pneumothorax, etc.).\n*The severity of decompensation should be assessed by clinical signs (see item 359).\n*Blood gases can be used to determine severity by comparison with blood gases in a stable state, which should always be looked for in the file. The signs of seriousness systematically sought are\n**severe hypoxaemia (PaO2<60mmHg)\n**uncompensated respiratory acidosis (pH<7.35 with PaCO2>45mmHg)",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Identify the correct indicator of severe respiratory decompensation in a patient with CKD",
+        "description": "A patient with CKO has a fragile respiratory system at risk of decompensation. What is the correct indicator of severe respiratory decompensation?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Severe hypoxaemia (PaO2<40mmHg)",
+        "description": "A low level of oxygen in the blood",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Uncompensated respiratory acidosis (pH<7.25 with PaCO2>55mmHg)",
+        "description": "A condition where the blood is too acidic and the body is unable to compensate",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Severe hypoxaemia (PaO2<60mmHg)",
+        "description": "A low level of oxygen in the blood",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Uncompensated respiratory acidosis (pH<7.35 with PaCO2>50mmHg)",
+        "description": "A condition where the blood is too acidic and the body is unable to compensate",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Severe hypoxaemia (PaO2<60mmHg)",
+        "description": "A low level of oxygen in the blood",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

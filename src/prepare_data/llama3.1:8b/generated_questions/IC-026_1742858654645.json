@@ -1,0 +1,12 @@
+{
+  "folder": "IC-026",
+  "content": "{{knowledge objective\n|Identifiant=OIC-026-04-B\n|Item_parent=Acute abdominal pain in a pregnant woman\n|Item_parent_short=Acute abdominal pain in pregnant women\n|Rank=B\n|Title=Knowing how to manage acute abdominal pain in pregnant women\n|Description=Know how to guide the clinical examination and suggest appropriate paraclinical tests during management.\n|Rubric=Multimedia content\n|Contributors=Louis Marcellin,Philippe Deruelle\n|Order=4}}\n\n[[File:Douleurs abdominales de la femme enceinte.jpg|vignette|'''Douleurs abdominales de la femme enceinte'']]",
+  "question": {
+    "question": "What is the most appropriate initial step in managing acute abdominal pain in a pregnant woman?",
+    "option_a": "Order an abdominal ultrasound to confirm the diagnosis",
+    "option_b": "Perform a pelvic examination to assess for any abnormalities",
+    "option_c": "Administer pain medication to alleviate the symptoms",
+    "option_d": "Order a complete blood count (CBC) to rule out infection",
+    "correct_option": "B"
+  }
+}

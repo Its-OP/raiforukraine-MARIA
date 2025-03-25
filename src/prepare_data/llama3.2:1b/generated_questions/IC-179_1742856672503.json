@@ -1,0 +1,12 @@
+{
+  "folder": "IC-179",
+  "content": "{{knowledge objective\n|Identifiant=OIC-179-09-A\n|Item_parent=Health risks linked to water and food. Food poisoning\n|Item_parent_short=Sanitary risks related to water and food. Food poisoning\n|Rank=A\n|Title=Knowing how to detect and report a suspected CFTI\n|Description=None\n|Section=Definition\n|Contributors=Pr Christophe DE CHAMPS DE SAINT LEGER, Dr Johann CAILHOL\n|Ordre=9}}\nA CFT is suspected when there are clustered cases of gastrointestinal or neurological disorders. The diagnosis is made if the clustered cases are compatible with the definition of CFTI, in an environment that is often collective, and where hygiene measures are not respected.\n\nCFTI is a notifiable disease.\n\nReports are made to the ARS via a specific form, without waiting for the investigation or documentation.",
+  "question": {
+    "question": "What is a cluster of cases of gastrointestinal or neurological disorders that are compatible with the definition of a Cluster of Transmission Illness (CFTI) in an environment where hygiene measures are not respected?",
+    "option_a": "A cluster of cases of gastrointestinal or neurological disorders that are compatible with the definition of a CFTI in an environment where hygiene measures are not respected.",
+    "option_b": "A cluster of cases of gastrointestinal or neurological disorders that are compatible with the definition of a CFTI in a highly isolated environment.",
+    "option_c": "A cluster of cases of gastrointestinal or neurological disorders that are compatible with the definition of a CFTI in a highly isolated environment where all individuals are wearing gloves.",
+    "option_d": "A cluster of cases of gastrointestinal or neurological disorders that are compatible with the definition of a CFTI in a highly isolated environment where all individuals are wearing gloves and are not respecting hygiene measures.",
+    "correct_option": "A cluster of cases of gastrointestinal or neurological disorders that are compatible with the definition of a CFTI in an environment where hygiene measures are not respected."
+  }
+}

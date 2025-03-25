@@ -1,0 +1,12 @@
+{
+  "folder": "IC-342",
+  "content": "{{knowledge objective\n|Identifiant=OIC-342-18-B\n|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=B\n|Title=Know the recommendations and organisation of the follow-up of a patient seen for malaise, syncope or reflex lipothymia.\n|Description=Benignity, patient education\n|Rubric=Management\n|Contributors=\n|Order=18}}\npatient reassurance (benignity) - education",
+  "question": {
+    "question": "What is the primary purpose of the follow-up of a patient with malaise, syncope, or reflex lipothymia?",
+    "option_a": "To reassess the patient's condition and adjust treatment accordingly",
+    "option_b": "To provide further reassurance and education to the patient and their family",
+    "option_c": "To investigate the cause of the patient's symptoms",
+    "option_d": "To manage the patient's symptoms and prevent further episodes",
+    "correct_option": "option_b"
+  }
+}

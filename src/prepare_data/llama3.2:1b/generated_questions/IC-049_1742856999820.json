@@ -1,0 +1,12 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-23-B\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=B\n|Title=Photographs: precocious puberty in girls\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=23}}\n<gallery>\nFile:Multimedia puberty.jpg|Mammary development and accelerated growth rate at age 7, patient P2S2R0 Suspi\u00e7ion of precocious puberty.\n</gallery>",
+  "question": {
+    "question": "What is the typical age range for the onset of precocious puberty in girls?",
+    "option_a": "8-10 years",
+    "option_b": "10-12 years",
+    "option_c": "12-14 years",
+    "option_d": "15-17 years",
+    "correct_option": "12-14 years"
+  }
+}

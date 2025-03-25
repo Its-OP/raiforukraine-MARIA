@@ -1,0 +1,11 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-05-B\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic anomalies, visual, hearing and dental problems. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=B\n|Title=Knowing the main risk situations for visual disorders\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=5}}\n'''Personal risk factors''''\n\n* in utero exposure to toxic substances (cocaine, alcohol), certain infectious agents (embryofoetopathies linked to toxoplasmosis or syphilis, for example)\n* prematurity, perinatal anoxia, low birth weight (under 1500g)\n* Neuromotor disorders, cerebral palsy\n* Chromosomal abnormalities (trisomy 21)\n* Malformation of the skull or face (craniostenosis, craniofacial dysostosis, etc.)\n* Deafness\n\n'''Family risk factors''': strabismus; severe refractive disorders: severe and early myopia; amblyopia; astigmatism; hereditary ophthalmological disease, etc.",
+  "question": {
+    "question": "What is a significant risk factor for visual disorders in children?",
+    "option_a": "Premature birth and low birth weight",
+    "option_b": "Chronic ear infections and allergies",
+    "option_c": "Family history of strabismus and severe refractive disorders",
+    "option_d": "Neuromotor disorders and cerebral palsy"
+  }
+}

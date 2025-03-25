@@ -1,0 +1,12 @@
+{
+  "folder": "IC-364",
+  "content": "{{knowledge objective\n|Identifiant=OIC-364-10-B\n|Item_parent=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Item_parent_short=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Rank=B\n|Title=Know how to diagnose a fracture of the lateral condyle of the elbow\n|Description=Know the anatomical specificity\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=10}}\nKnow that a fracture of the lateral condyle is a type III or IV epiphyseal detachment. Know that muscle insertions almost always lead to an initial or secondary displacement. Know that this fracture is articular. Know that its treatment is essentially surgical.",
+  "question": {
+    "question": "What is a characteristic of a fracture of the lateral condyle of the elbow in children?",
+    "option_a": "A Type I or II epiphyseal detachment",
+    "option_b": "A fracture that is non-articular and often treated conservatively",
+    "option_c": "A fracture that is usually stable and requires no immobilization",
+    "option_d": "A fracture that is articular and often leads to displacement due to muscle insertions",
+    "correct_option": "D"
+  }
+}

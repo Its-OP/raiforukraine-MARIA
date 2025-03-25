@@ -1,0 +1,29 @@
+{
+  "folder": "IC-226",
+  "content": "{{knowledge objective\n|Identifiant=OIC-226-09-A\n|Item_parent=Deep vein thrombosis and pulmonary embolism (see item 330)\n|Item_parent_short=Deep vein thrombosis and pulmonary embolism (see item 330)\n|Rank=A\n|Title=Knowing the signs of PE severity and recognising patients who can be managed as outpatients for PE\n|Description=None\n|Topic=Management\n|Contributors=Gilles Pernod, Virginie Dufrost, Guillaume Mah\u00e9\n|Order=9}}\n\n\n=== '''High-risk PE (severe PE)''' ===\n- PE associated with haemodynamic failure defined by a systolic blood pressure (SBP) < 90 mmHg or a fall in SBP \u2265 40 mmHg for more than 15 minutes in the absence of another cause such as sepsis, arrhythmia or hypovolaemia.\n\n- Absolute life-threatening emergency with a mortality risk of > 30%.\n\n=== ''Non-high risk PE'' ===\nStratification of intermediate or high risk is based on a combination of the sPESI or HESTIA score and markers (imaging or biomarkers) of cardiac dysfunction.\n[File:EP severity stratification.jpg|thumbnail]]\nOutpatient\" management (in practice short hospitalisation or care pathway) may be proposed in cases of PE with a low risk of mortality (sPESI score = 0 and no cardiac repercussions).  \n\nPatients with high intermediate severity PE should initially be monitored closely, ideally in intensive care units.",
+  "question": {
+    "question": "What is the typical management approach for patients with high-risk pulmonary embolism?",
+    "options": [
+      {
+        "title": "A) High-risk PE management involves immediate hospitalization and mechanical thrombectomy",
+        "description": "High-risk PE management involves immediate hospitalization and mechanical thrombectomy",
+        "correct": "A"
+      },
+      {
+        "title": "B) High-risk PE management involves outpatient management with close monitoring",
+        "description": "High-risk PE management involves outpatient management with close monitoring",
+        "correct": "B"
+      },
+      {
+        "title": "C) High-risk PE management involves aggressive anticoagulation therapy",
+        "description": "High-risk PE management involves aggressive anticoagulation therapy",
+        "correct": "C"
+      },
+      {
+        "title": "D) High-risk PE management involves a multidisciplinary team approach",
+        "description": "High-risk PE management involves a multidisciplinary team approach",
+        "correct": "D"
+      }
+    ]
+  }
+}

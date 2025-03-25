@@ -1,0 +1,12 @@
+{
+  "folder": "IC-074",
+  "content": "{{knowledge objective\n|Identifiant=OIC-074-19-A\n|Item_parent=Prescription and monitoring of psychotropic drugs (see item 330)\n|Item_parent_short=Prescription and monitoring of psychotropic drugs (see item 330)\n|Rank=A\n|Title=Hypnotics: knowing the rules for correct use at all stages of life, particularly in elderly patients\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=19}}\n\n\n== '''The prescription''' ==\n\n* Must comply with the ''prescribing rules'' described for ''anxiolytics'';\n* Must be prescribed at the ''minimum effective dose'';\n* Must be prescribed for a ''limited period'' to ''avoid the risk of pharmacological tolerance'' and ''use disorders'' (a few days for reactive insomnia, a few weeks for transient insomnia);\n* Must be limited to ''4 weeks'' for ''hypnotics'';\n* Treatment must not be stopped abruptly;\n* Dosages should be adapted for elderly patients (lower doses);\n* A ''short half-life treatment'' should be chosen for ''insomnia associated with falling asleep'' (as well as in the elderly) and a ''longer half-life treatment'' for ''insomnia during the second half of the night'';\n* Patients should be \"informed\" of the risk of \"potentiation by alcohol consumption\" and the \"risk of drowsiness\" (driving);\n* To limit the risk of misuse, zolpidem must be prescribed on a \"secure prescription\" for a maximum of 28 days.",
+  "question": {
+    "question": "What is the recommended duration for prescribing zolpidem?",
+    "option_a": "4 weeks",
+    "option_b": "6 weeks",
+    "option_c": "8 weeks",
+    "option_d": "12 weeks",
+    "correct_option": "4 weeks"
+  }
+}

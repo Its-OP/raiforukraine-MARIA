@@ -1,0 +1,46 @@
+{
+  "folder": "IC-288",
+  "content": "{{knowledge objective\n|Identifiant=OIC-288-17-B\n|Item_parent=Hemorrhoidal pathology\n|Item_parent_short=Hemorrhoidal pathology\n|Rank=B\n|Title=Knowing the spontaneous evolution of external haemorrhoidal thrombosis\n|Description=\n|Topic=Follow-up and/or prognosis\n|Contributors=\n|Order=17}}\n\nExternal haemorrhoidal thrombosis is a benign, uncomplicated condition.  The clot(s) that form(s) in the vascular structures of the external haemorrhoidal plexus are sometimes accompanied by an oedematous reaction. Resorption is fairly slow (several days) and may leave a raised scar known as a mariscus. Sometimes the inflammatory reaction can lead to ulceration at the top of the thrombosis and chronic bleeding due to partial mobilisation of the clot. Secondary suppurative complications are exceptional. However, recurrences are possible, even in the same site.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Question",
+        "description": "Knowing the spontaneous evolution of external haemorrhoidal thrombosis",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Option A",
+        "description": "The condition is usually self-limiting and resolves on its own within a few days.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Option B",
+        "description": "The inflammatory reaction can lead to ulceration at the top of the thrombosis and chronic bleeding due to partial mobilisation of the clot.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Option C",
+        "description": "Resorption is fairly slow (several days) and may leave a raised scar known as a mariscus.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Option D",
+        "description": "Secondary suppurative complications are common and can lead to serious health issues.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "A",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

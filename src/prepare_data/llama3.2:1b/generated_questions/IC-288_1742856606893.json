@@ -1,0 +1,22 @@
+{
+  "folder": "IC-288",
+  "content": "{{knowledge objective\n|Identifiant=OIC-288-02-B\n|Item_parent=Hemorrhoidal pathology\n|Item_parent_short=Hemorrhoidal pathology\n|Rank=B\n|Title=Knowing the frequency of haemorrhoidal pathology\n|Description=\n|Rubric=Epidemiology\n|Contributors=\n|Order=2}}\n\nIt is estimated that a third of the French adult population has had at least one haemorrhoidal symptom in the past year, but only a third have sought medical advice.",
+  "question": {
+    "properties": {
+      "question": "What percentage of the French adult population has had a haemorrhoidal symptom in the past year?",
+      "option_a": "40%",
+      "option_b": "30%",
+      "option_c": "20%",
+      "option_d": "50%",
+      "correct_option": "20%"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

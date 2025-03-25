@@ -1,0 +1,46 @@
+{
+  "folder": "IC-325",
+  "content": "{{knowledge objective\n|Identifiant=OIC-325-03-A\n|Item_parent=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medicinal errors (see items 4 and 5)\n|Item_parent_short=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medication errors (see items 4 and 5)\n|Rank=A\n|Title=Know the definition of inappropriate prescribing of medicines (PMI)\n|Description=None\n|Topic=Definition\n|Contributors=Marie Briet\n|Order=3}}\n\n==Definition==\nInappropriate prescribing refers to prescribing that creates more risks than benefits for the patient.\n\nInappropriateness may relate to :\n\n*Prescribing without a clinical indication, not complying with the marketing authorisation (MA) or the official recommendations of learned societies.\n*Failure to take into account the patient's characteristics when choosing the active ingredient, dose, galenic form or route of administration of the drug: age, weight, co-morbidities (chronic renal failure, hepatocellular insufficiency, etc.), pregnancy, breast-feeding, for example.\n*Failure to take account of potential drug interactions.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is inappropriate prescribing of medicines (PMI)?",
+        "description": "A multiple-choice question about the definition of PMI",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Prescribing without a clinical indication or ignoring official recommendations",
+        "description": "A plausible but incorrect option that is closely related to the definition of PMI",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Taking into account the patient's characteristics when choosing the active ingredient, dose, galenic form or route of administration",
+        "description": "A plausible but incorrect option that is related to PMI, but not the definition",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Failure to take into account potential drug interactions",
+        "description": "A correct option that is part of the definition of PMI",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Prescribing without a clinical indication or ignoring official recommendations, and taking into account the patient's characteristics",
+        "description": "An incorrect option that combines two aspects of PMI, making it plausible but incorrect",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct option that represents the definition of PMI",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

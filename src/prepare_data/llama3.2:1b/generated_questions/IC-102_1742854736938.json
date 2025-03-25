@@ -1,0 +1,12 @@
+{
+  "folder": "IC-102",
+  "content": "{{knowledge objective\n|Identifiant=OIC-102-08-A\n|Item_parent=Diplopia\n|Item_parent_short=Diplopia\n|Rank=A\n|Title=Photograph/video of extrinsic/intrinsic III paralysis\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=8}}\n\n[[File:III-bis.jpg|thumbnail]]\n[[File:III.jpg|left|thumbnail]]",
+  "question": {
+    "question": "What is the primary function of the brain's visual cortex?",
+    "option_a": "Processing visual information and controlling eye movements",
+    "option_b": "Regulating emotions and influencing behavior",
+    "option_c": "Generating motor responses and controlling body movements",
+    "option_d": "Filtering out irrelevant sensory information",
+    "correct_option": "option_a"
+  }
+}

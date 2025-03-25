@@ -1,0 +1,46 @@
+{
+  "folder": "IC-347",
+  "content": "{{knowledge objective\n|Identifiant=OIC-347-10-B\n|Item_parent=Acute urine retention\n|Item_parent_short=Acute urine retention\n|Rank=B\n|Title=Knowing the respective indications for bladder catheterisation and suprapubic catheterisation\n|Description=None\n|Topic=Management\n|Contributors=Jonathan Olivier\n|Order=10}}\n\nAny acute retention of urine is a therapeutic emergency, requiring bladder drainage, either trans-urethral or suprapubic. The type of drainage chosen depends on the context and the weaning objectives.\n{| class=\"wikitable\"\n|\n|'''Bladder catheterisation''''\n|Suprapubic catheterisation\n|-\n|'''Advantages'''\n|Simple\n\nSlope drainage\n\nAllows the bladder to be washed (haematuria: decaillotage)\n|Clamping test possible (assessment of voiding recovery)\n\nAvoiding the risk of urethral malpractice\n|-\n|'''Disadvantages''''\n|No clamping test possible\n\nRisk of false urethral routes\n|Non-decubitus drainage\n\nDoes not allow bladder cleansing (haematuria)\n|-\n|'''Contraindications''''\n|Urethral trauma\nStenosis of the urethra\n\nTrauma to the pelvis\n|Bladder tumour (risk of tumour spreading)\n\nAnticoagulation (risk of bladder clotting)\n\nDiagnostic doubt (risk of intestinal damage)\n\nCross-vascular bypass\n\nPresence of subumbilical scars (relative CI)\n|}\nCI : Contraindication\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a contraindication for bladder catheterisation?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Bladder tumour",
+        "description": "A condition that may require surgical intervention",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Trauma to the pelvis",
+        "description": "A condition that may require surgical intervention",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Anticoagulation",
+        "description": "A condition that increases the risk of bleeding",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Urethral trauma",
+        "description": "A condition that may require surgical intervention",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "The correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

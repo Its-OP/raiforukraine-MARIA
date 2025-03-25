@@ -1,0 +1,12 @@
+{
+  "folder": "IC-045",
+  "content": "{{knowledge objective\n|Identifiant=OIC-045-16-B\n|Item_parent=Specificities of genetic diseases. (see item 9)\n|Item_parent_short=Specificities of genetic diseases. (see item 9)\n|Rank=B\n|Title=Knowing the main principles of the management of cystic fibrosis.\n|Description=Nutrition. Infection prevention. Supplementation\n|Rubric=Management\n|Contributors=Claude F\u00e9rec,Elise Launay,Caroline Schluth-Bolard\n|Order=16}}\n\nClinical care is provided by the Cystic Fibrosis Resource and Competence Centres (CRCM).\n\nThe main principles of clinical management are based on :\n\n- Combating salt loss by regular supplementation;\n\n- Management of gastrointestinal disorders: a high-calorie, low-fat diet with digestive enzymes and fat-soluble vitamins;\n\n- Management of pulmonary pathology: high-dose antibiotics to reduce chronic respiratory infection, mucolytic treatments and respiratory physiotherapy.\n\n- In severe cases, a lung and/or liver transplant may be performed.\n\n- Male infertility is treated by medically assisted procreation (in vitro fertilisation).\n\n\nNew therapies known as \"specific mutations\" have recently been developed. These are small molecules, called modulators, which aim to correct the defective CFTR protein.",
+  "question": {
+    "question": "What are the main principles of clinical management of cystic fibrosis?",
+    "option_a": "Combating salt loss by regular exercise and hydration",
+    "option_b": "Management of gastrointestinal disorders: a high-calorie, low-fat diet with digestive enzymes and fat-soluble vitamins",
+    "option_c": "Management of pulmonary pathology: high-dose antibiotics to reduce chronic respiratory infection, mucolytic treatments and respiratory physiotherapy",
+    "option_d": "Combating salt loss by regular supplementation and management of pulmonary pathology with high-dose antibiotics",
+    "correct_option": "D"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-364",
+  "content": "{{knowledge objective\n|Identifiant=OIC-364-01-A\n|Item_parent=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Item_parent_short=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Rank=A\n|Title=General information on fractures: understanding typical fractures in children\n|Description=Familiarising children with typical fractures\n|Rubric=Definition\n|Contributors=Bruno Dohin\n|Order=1}}\n\nKnowledge of epiphyseal fracture-decollement according to the Salter and Harris classification\n\nBe familiar with the types of fracture specific to children: subperiosteal, green wood, butterball, etc.\n\nKnowing about apophyseal avulsion fractures<br />.",
+  "question": {
+    "question": "What is the typical fracture in children according to the Salter and Harris classification?",
+    "option_a": "Apophyseal avulsion fracture",
+    "option_b": "Subperiosteal fracture",
+    "option_c": "Green wood fracture",
+    "option_d": "Butterball fracture",
+    "correct_option": "option_a"
+  }
+}

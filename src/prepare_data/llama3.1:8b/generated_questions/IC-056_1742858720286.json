@@ -1,0 +1,12 @@
+{
+  "folder": "IC-056",
+  "content": "{{knowledge objective\n|Identifiant=OIC-056-02-A\n|Item_parent=The disabled child: orientation and care (see items 118, 121)\n|Item_parent_short=The disabled child: orientation and care (see items 118, 121)\n|Rank=A\n|Title=Knowing the typology of disability in children\n|Description=Definition of the different types of disability in children and consideration of their temporal characteristics.\n|Rubric=Definition\n|Contributors=\n|Order=2}}\nTemporal characteristics of disability in children ([[Anomaly of psychomotor development SD-115]]) ([[Follow-up consultation for a healthy infant SD-265]]) ([[Paediatric follow-up consultation SD-296]])\n\n- Time of onset: before or at birth = congenital disability (genetic or not) / acquired disability\n\n- Evolution over time: stable/ transitory/ lasting/ intermittent/ evolving disability\n\n\nDifferent types of damage\n\n- Motor (acquired/ genetic or developmental) ([[Sensory and/or motor neurological deficit SD-121]])\n\n- Sensory (hearing/visual impairment)\n\n- Visceral (chronic diseases)\n\n- Psychiatric (pervasive developmental disorders, childhood psychoses ([[Behavioural disorders in children and adolescents SD-133]])\n\n- Cognitive (dys disorders, attention disorders, intellectual disability) ([[Attention disorders SD-129]]) ([[Language and/or phonation disorders SD-134]])\n\n- Aesthetics\n\n\n'''Multi-disability or multi-handicap'' = coexistence of several impairments in the same child\n\n'''Surhandicap''' = the occurrence of one or more secondary impairments linked to the pre-existing disability, without being directly linked to the initial pathology.\n\n'''Multiple disability'''= concerns people with early cerebral dysfunction, having irreversible consequences with serious disturbances in motor, perceptive and cognitive efficiency and in the construction of relationships with the physical and human environment. These people are extremely vulnerable, physically, mentally and socially, and are totally dependent on a third party.",
+  "question": {
+    "question": "What is the term used to describe the coexistence of several impairments in the same child?",
+    "option_a": "Surhandicap",
+    "option_b": "Multiple disability",
+    "option_c": "Multi-disability or multi-handicap",
+    "option_d": "Congenital disability",
+    "correct_option": "C"
+  }
+}

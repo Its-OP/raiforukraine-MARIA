@@ -1,0 +1,41 @@
+{
+  "folder": "IC-179",
+  "content": "{{knowledge objective\n|Identifiant=OIC-179-11-A\n|Item_parent=Health risks linked to water and food. Food poisoning\n|Item_parent_short=Health risks associated with food and water. Food poisoning\n|Rank=A\n|Title=Knowing how to prevent foodborne infections\n|Description=None\n|Section=Definition\n|Contributors=Pr Christophe DE CHAMPS DE SAINT LEGER, Dr Johann CAILHOL\n|Ordre=11}}\n'''Preventive measures outside the context of a TIAC''' :\n\nThe preventive measures consist of applying scrupulous hygiene rules throughout the food preparation chain (source of food, transport, preparation), with staff education and the principle of moving forward in collective kitchens.\n\nPrevention also involves medical surveillance of staff and the exclusion of certain agents depending on the risk, as well as routine microbiological sampling in the catering sector.\n\n'''Preventive measures in the presence of a TIAC''' :\n\nConsignment of suspect foodstuffs\n\nEviction of the source as soon as it is identified\n\nSuspension of catering activities at an establishment pending the results of the investigation",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary purpose of preventive measures in the presence of a TIAC?",
+        "description": "Preventive measures outside the context of a TIAC are focused on applying scrupulous hygiene rules throughout the food preparation chain. What is the primary purpose of preventive measures in the presence of a TIAC?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To apply scrupulous hygiene rules throughout the food preparation chain",
+        "description": "This option is a distractor that is plausible but incorrect, as it describes the primary purpose of preventive measures outside the context of a TIAC."
+      },
+      "option_b": {
+        "title": "To evacuate the source of the contamination as soon as it is identified",
+        "description": "This option is a distractor that is partially correct, but not the primary purpose of preventive measures in the presence of a TIAC."
+      },
+      "option_c": {
+        "title": "To suspend catering activities at an establishment pending the results of the investigation",
+        "description": "This option is a distractor that is partially correct, but not the primary purpose of preventive measures in the presence of a TIAC."
+      },
+      "option_d": {
+        "title": "To consign suspect foodstuffs and evacuate the source of the contamination",
+        "description": "This option is the correct answer, as it accurately describes the primary purpose of preventive measures in the presence of a TIAC."
+      },
+      "correct_option": {
+        "title": "D",
+        "description": "The correct option letter"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

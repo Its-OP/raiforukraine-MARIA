@@ -1,0 +1,46 @@
+{
+  "folder": "IC-070",
+  "content": "{{knowledge objective\n|Identifiant=OIC-070-08-B\n|Item_parent=Psychological disorders in the elderly\n|Item_parent_short=Psychological disorders in the elderly\n|Rank=B\n|Title=Knowing the clinical and paraclinical assessment specific to the elderly subject\n|Description=Mood disorders (item 64 and item 66)Anxiety disorders (item 66)Alcohol- and drug-related disorders (item 77 and item 77)Acute agitation and delirium (item 352)\n|Rubric=Additional examinations\n|Contributors=Pierre Vandel,Marie Tournier\n|Order=8}}\n\nIn the elderly, we need to look for non-psychiatric co-morbidities (pain, cardiovascular pathologies, cancers, neurological and neurodegenerative diseases, etc.) as well as psychiatric ones (anxiety disorders, addictions, personality disorders, etc.).\n\nThe clinical examination should look for pain, faecal impaction, a bladder globe, infection, etc.\n\nComplementary tests depend on the presenting symptoms: CBC, blood ionogram, blood calcium, blood albumin, TSH, vitamins B9-B12, ECG, kidney and liver function, urine dipstick, protid, blood albumin, blood sugar, chest X-ray, brain imaging, etc.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What should be included in the clinical examination of the elderly?",
+        "description": "The clinical examination should look for",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Only psychiatric disorders",
+        "description": "This option is incorrect, as the clinical examination should look for both psychiatric and non-psychiatric co-morbidities",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Only physical pathologies",
+        "description": "This option is incorrect, as the clinical examination should look for both psychiatric and non-psychiatric co-morbidities",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Pain, faecal impaction, and bladder globe",
+        "description": "This option is correct, as these are examples of non-psychiatric co-morbidities to look for in the clinical examination",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Only blood tests",
+        "description": "This option is incorrect, as the clinical examination should include a combination of physical examination and laboratory tests",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Pain, faecal impaction, and bladder globe",
+        "description": "",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

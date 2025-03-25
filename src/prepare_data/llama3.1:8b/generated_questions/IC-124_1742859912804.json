@@ -1,0 +1,12 @@
+{
+  "folder": "IC-124",
+  "content": "{{knowledge objective\n|Identifiant=OIC-124-07-A\n|Item_parent=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)\n|Item_parent_short=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)\n|Rank=A\n|Title=Knowing the signs of hypoestrogenism, hyperoestrogenism.\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Florence Tr\u00e9mollieres,Anna Gosset\n|Order=7}}\n\n== Hypoestrogenism ==\nThe main ''functional symptoms of climacteria'' are the consequences and clinical expression of hypoestrogenism, such as vaginal dryness or urinary or sexual problems with dyspareunia, characteristic of ''menopausal genitourinary syndrome'' (MGUS).\n\nMain symptoms reported in relation to the menopause.\n\nSymptoms directly attributable to estrogen deficiency are shown in bold.\n{| class=\"wikitable\"\n!PHYSICAL SIGNS\n!MENTAL SIGNS\n|-\n|\n=== <small>Vasomotor flushing</small> ===\n|'''Sleep disorders'''\n|-\n|Night sweats\n|Insomnia\n|-\n|Vulvovaginal dryness\n|Asthenia\n|-\n|Weight gain\n|Loss of attention, loss of memory\n|-\n|Arthralgia, myalgia\n|Depression\n|}\n\n== Hyperoestrogenism ==\nSigns of hyperoestrogenism are common during the perimenopause, and may also be linked to an overdose of menopausal hormone treatment:\n\nbilateral mastodynia\n\n'''- pelvic pain''''\n\n'''- weight gain with a feeling of swelling'''\n\n'''-[[Leucorrhoea SD-104|\"white\" vaginal discharge]]''''\n\n- irritability",
+  "question": {
+    "question": "What are the main functional symptoms of climacteric, which are the consequences and clinical expression of hypoestrogenism?",
+    "option_a": "Vasomotor flushing, night sweats, and weight gain",
+    "option_b": "Vaginal dryness, urinary or sexual problems with dyspareunia, and pelvic pain",
+    "option_c": "Bilateral mastodynia, white vaginal discharge, and irritability",
+    "option_d": "Arthralgia, myalgia, and loss of attention",
+    "correct_option": "B"
+  }
+}

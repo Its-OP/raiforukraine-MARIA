@@ -1,0 +1,15 @@
+{
+  "folder": "IC-099",
+  "content": "{{knowledge objective\n|Identifiant=OIC-099-17-B\n|Item_parent=Migraine, trigeminal neuralgia and facial pain\n|Item_parent_short=Migraine, trigeminal neuralgia and facial pain\n|Rank=B\n|Title=From a video interview, evoke the diagnosis of migraine, facial vascular pain, trigeminal neuralgia.\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=17}}\nPlease refer to the CEN website: www.cen-neurologie.fr where videos are available.",
+  "question": {
+    "properties": {
+      "question": "Based on the content, I diagnose someone as suffering from:",
+      "required": [
+        "question"
+      ],
+      "description": "The diagnosis made on this basis.",
+      "type": "string",
+      "correct_option": "migraine, facial vascular pain, trigeminal neuralgia"
+    }
+  }
+}

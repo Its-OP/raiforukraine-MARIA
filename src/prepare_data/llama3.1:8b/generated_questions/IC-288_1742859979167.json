@@ -1,0 +1,12 @@
+{
+  "folder": "IC-288",
+  "content": "{{knowledge objective\n|Identifiant=OIC-288-08-B\n|Item_parent=Hemorrhoidal pathology\n|Item_parent_short=Hemorrhoidal pathology\n|Rank=B\n|Title=Knowing the differential diagnosis of external haemorrhoidal thrombosis\n|Description=\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=8}}\n\nCf: '''[[2C-288-DP-B01]]''''",
+  "question": {
+    "question": "What is a common differential diagnosis for external hemorrhoidal thrombosis?",
+    "option_a": "Fissure-in-ano",
+    "option_b": "Anal fistula",
+    "option_c": "Proctalgia fugax",
+    "option_d": "Rectal abscess",
+    "correct_option": "A"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "folder": "IC-187",
+  "content": "{{knowledge objective\n|Identifiant=OIC-187-05-A\n|Item_parent=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Item_parent_short=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Rank=A\n|Title=Knowing how to recognise anaphylaxis\n|Description=None\n|Rubric=Identifying the emergency\n|Contributors=\n|Order=5}}\nIn a minority of cases, acute urticaria may be secondary to an allergy or immediate hypersensitivity called anaphylaxis.\n\nThis is not the case with chronic urticaria, which is never secondary to anaphylaxis.\n\n\nIn the case of anaphylaxis, urticaria may be isolated, but more often than not there are associated signs that suggest the diagnosis of anaphylaxis;\n\n- Respiratory signs: dysphonia, dyspnoea, bronchospasm\n\n- Cardiovascular signs: tachycardia, bradycardia, arterial hypotension\n\n- Digestive signs: nausea, vomiting, diarrhoea\n\n- Neurological signs: headaches, convulsions\n\nIn extreme cases, anaphylactic shock with cardiorespiratory arrest may occur.",
+  "question": {
+    "properties": {
+      "question": "What is the main difference between acute and chronic urticaria?",
+      "option_a": "Acute urticaria is always associated with anaphylaxis, while chronic urticaria is not.",
+      "option_b": "Chronic urticaria is always isolated, while acute urticaria is often associated with other signs.",
+      "option_c": "Respiratory signs are more common in anaphylaxis, while cardiovascular signs are more common in chronic urticaria.",
+      "option_d": "In extreme cases, anaphylactic shock with cardiorespiratory arrest may occur in both acute and chronic urticaria.",
+      "correct_option": "option_b"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d"
+    ],
+    "type": "string"
+  }
+}

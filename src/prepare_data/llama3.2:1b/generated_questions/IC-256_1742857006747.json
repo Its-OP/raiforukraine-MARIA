@@ -1,0 +1,22 @@
+{
+  "folder": "IC-256",
+  "content": "{{knowledge objective\n|Identifiant=OIC-256-02-B\n|Item_parent=Sport skills in adults and children; nutritional requirements of athletes (see item 80)\n|Item_parent_short=Sport skills in adults and children; nutritional requirements in sportspeople (see item 80)\n|Rank=B\n|Title=Knowing the contraindications to practising sport in schools\n|Description=Specificities of contraindications to sport in the school environment\n|Section=Definition\n|Contributors=\n|Order=2}}\nPhysical and sports education (PSE) is compulsory. In the absence of a specific certificate of inaptitude, all children and adolescents are considered fit for PSE.\n\nPartial or total, temporary or permanent contraindications (inaptitude) to practising sport in the school environment are linked to either\n\n- chronic illnesses in decompensation, permanent disabilities preventing certain activities or situations of severe malnutrition (anorexia nervosa)\n\n- acute illnesses that contraindicate effort or the use of a limb (fracture while it heals)\n\nA medical certificate is required for full or partial exemption. They are valid for no longer than the current school year. Total or permanent disqualifications are exceptional.<ref>Medical supervision of disqualifications from physical education and sport in educational establishments[https://www.legifrance.gouv.fr/download/pdf/circ?id=43765]</ref>\n\nexample of a certificate of unfitness: http://www.lycee-international.ac-versailles.fr/IMG/pdf/certificat_medical_acad._versailles.pdf",
+  "question": {
+    "properties": {
+      "question": "What is the minimum age requirement for participating in physical and sports education (PSE) in schools?",
+      "option_a": "16",
+      "option_b": "18",
+      "option_c": "12",
+      "option_d": "20",
+      "correct_option": "12"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

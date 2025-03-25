@@ -1,0 +1,12 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-05-B\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=B\n|Title=To know the average age of onset of peak bone growth\n|Description=None\n|Rubric=Physiopathology\n|Contributors=\n|Order=5}}\nThe acceleration in the rate of statural growth begins with the first signs of puberty in girls (S2), and is delayed in boys (G3). The average pubertal growth peak is 20-25 cm in girls and 25-30 cm in boys.",
+  "question": {
+    "question": "When does the acceleration in the rate of statural growth begin?",
+    "option_a": "During the first signs of puberty in girls (S2)",
+    "option_b": "After the first signs of puberty in girls (S2)",
+    "option_c": "During the first signs of puberty in boys (G3)",
+    "option_d": "After the first signs of puberty in boys (G3)",
+    "correct_option": "option_a"
+  }
+}

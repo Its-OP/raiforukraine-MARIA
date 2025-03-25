@@ -1,0 +1,12 @@
+{
+  "folder": "IC-198",
+  "content": "{{knowledge objective\n|Identifiant=OIC-198-04-B\n|Item_parent=Microcrystalline arthropathies\n|Item_parent_short=Microcrystalline arthropathies\n|Rank=B\n|Intitle=Radiography of the wrist: calcification of the triangular ligament of the carpus\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=4}}\n\n\n<gallery widths=\"400\" heights=\"400\">\nFile:X-rays of wrists calcification of the triangular ligament of the carpus.PNG\n</gallery>[https://videotheque.uness.fr/w/bEMzk6YJWVC9Z9EV7RoEkZ 4mn video Imaging Microcrystalline Rheumatism CERF]",
+  "question": {
+    "question": "What is the radiographic finding in microcrystalline arthropathies?",
+    "option_a": "Osteoarthritis of the wrist",
+    "option_b": "Calcification of the triangular fibrocartilage complex (TFCC)",
+    "option_c": "Calcification of the triangular ligament of the carpus",
+    "option_d": "Erosion of the carpals",
+    "correct_option": "C"
+  }
+}

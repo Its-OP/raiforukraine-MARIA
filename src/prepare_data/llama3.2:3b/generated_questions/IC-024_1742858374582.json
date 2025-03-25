@@ -1,0 +1,46 @@
+{
+  "folder": "IC-024",
+  "content": "{{knowledge objective\n|Identifiant=OIC-024-24-A\n|Item_parent=Main complications of pregnancy.\n|Item_parent_short=Main complications of pregnancy.\n|Rank=A\n|Title=Knowing the work-up for fever during pregnancy\n|Description=Biologies and complementary examinations according to clinical examination\n|Rubric=Positive diagnosis\n|Contributors=Paul Berveiller,Philippe Deruelle\n|Order=24}}\n\nIn all cases, we will carry out :\n\n- ECBU\n\n- ''NFS - CRP\n\n- blood cultures (if fever > 38.5\u00b0C with search for Listeria M)\n\n- serologies according to context (rubella, toxoplasmosis, hepatitis, CMV, HIV, PB19)\n\n- Others according to signs of orientation: PCR (COVID), rapid influenza test, streto test, etc.\n\n- RCF and tocometry\n\n- obstetrical ultrasound: EPF, foetal well-being and amount of LA.\n\n[[Reasoned request/prescription and choice of a diagnostic examination SD-178]]; [[Urine dipstick analysis SD-182]]; [[Acute or chronic inflammatory syndrome SD-186]]; [[Analysis of a urine cytobacteriological examination (ecbu) SD-189]]; [[Leukocyte abnormality SD-216]]; [[Interpretation of haemogram SD-223]]\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the recommended work-up for fever during pregnancy?",
+        "description": "Biologies and complementary examinations according to clinical examination",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "ECBU, NFS, blood cultures, and serologies",
+        "description": "A comprehensive approach to diagnosing fever during pregnancy",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "ECBU, blood cultures, and PCR",
+        "description": "A focused approach to diagnosing fever during pregnancy",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "ECBU, NFS, and tocometry",
+        "description": "A specialized approach to diagnosing fever during pregnancy",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "ECBU, blood cultures, and obstetrical ultrasound",
+        "description": "A combination of diagnostic approaches to assess fetal well-being",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "The correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

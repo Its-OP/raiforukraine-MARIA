@@ -1,0 +1,46 @@
+{
+  "folder": "IC-109",
+  "content": "{{knowledge objective\n|Identifiant=OIC-109-03-B\n|Item_parent=Gait and balance disorders\n|Item_parent_short=Gait and balance disorders\n|Rank=B\n|Title=Knowing the scales for analysing balance and walking (clinical examination, diagnostic approach)\n|Description=Berg scales, 6-minute walking tests, etc.\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=3}}\n- Walking barefoot in an open corridor\n\n- Romberg test\n\n- Postural tests\n\n- Get up and go test\n\n- Frontal and sagittal posture\n\n.        6-minute walk test\n\n.        Functional ambulation classification (FAC)\n\n.        Berg equilibrium scale",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary purpose of the Berg Equilibrium Scale?",
+        "description": "A clinical tool used to assess balance and walking abilities",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To measure walking speed",
+        "description": "A 6-minute walk test is used to assess walking speed and endurance",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "To evaluate balance and walking abilities",
+        "description": "A clinical tool used to assess balance and walking abilities",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "To diagnose frontal and sagittal posture",
+        "description": "A postural test used to assess frontal and sagittal posture",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "To classify functional ambulation",
+        "description": "A classification system used to assess functional ambulation",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The correct letter corresponding to the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

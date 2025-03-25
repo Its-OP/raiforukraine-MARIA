@@ -1,0 +1,11 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-11-A\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=A\n|Title=Knowing how tobacco is used\n|Description=Know\n|Rubric=Epidemiology\n|Contributors=\n|Order=11}}\n\n\n* '''Slight decrease in overall smoking (2017: 31.8% / 2018: 32%)''''\n** decrease in daily smoking (2017: 26.9% / 2018: 25.4%)\n** increase in occasional smoking (2017: 4.9% / 2018: 6.6%)",
+  "question": {
+    "question": "What was the trend in smoking prevalence in France between 2017 and 2018?",
+    "option_a": "A decrease in daily smoking from 26.9% to 25.4%",
+    "option_b": "A slight decrease in overall smoking from 31.8% to 32%",
+    "option_c": "An increase in occasional smoking from 4.9% to 6.6%",
+    "option_d": "A decrease in occasional smoking from 6.6% to 4.9%"
+  }
+}

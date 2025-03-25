@@ -1,0 +1,12 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-20-A\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=A\n|Title=Know how to choose antibiotics after microbiological documentation of the STI.\n|Description=None\n|Topic=Management\n|Contributors=\n|Order=20}}\nGonococcal :\n\n- Ceftriaxone single dose IM or IV 1000 mg\n\n- If allergic to \u03b2-lactams: single dose of azithromycin or gentamicin or ciprofloxacin\n\n\nChlamydia :\n\n- Doxycycline per os 200mg for 7 days (or azithromycin 1g single dose but risk of resistance to other micro-organisms)\n\n- 2<sup>th</sup> intention: erythromycin or ofloxacin\n\n\nEarly syphilis: Benzathine penicillin G DU IM 2.4 million units\n\n\nTrichomoniasis: Metronidazole per os 2g single dose or 500 mg 2x/d 7 days or Secnidazole 2g single dose",
+  "question": {
+    "question": "What is the recommended treatment for gonococcal infections in patients allergic to \u03b2-lactams?",
+    "option_a": "A single dose of ceftriaxone",
+    "option_b": "A single dose of azithromycin or gentamicin or ciprofloxacin",
+    "option_c": "A 7-day course of doxycycline",
+    "option_d": "A 7-day course of metronidazole",
+    "correct_option": "option_b"
+  }
+}

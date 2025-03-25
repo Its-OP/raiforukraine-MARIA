@@ -1,0 +1,12 @@
+{
+  "folder": "IC-328",
+  "content": "{{knowledge objective\n|Identifiant=OIC-328-09-A\n|Item_parent=Non-drug therapies and medical devices\n|Item_parent_short=Non-drug therapies and medical devices\n|Rank=A\n|Intitle=Know the definition of orthopaedic footwear\n|Description=Definition of orthopaedic footwear and associated components (foot orthoses, etc.)\n|Rubric=Definition\n|Contributors=Bisseriex H\u00e9l\u00e8ne,De Boissezon Xavier\n|Order=9}}\n\nOrthopaedic footwear :\n\n*custom-made orthopaedic shoes = major orthopaedic appliances\n**reimbursed from 60 to 100%, first pair prescribed by a specialist\n**indicated if: neurological pathology, volumetric disorder, instability, inequality of length, limping... '''([[Sensory and/or motor neurological deficit SDD-121|sensory and/or motor neurological deficit]], [[Fall in the elderly SDD-027|fall in the elderly]]),''''\n**carried out by a chiropodist or ortho-prosthetist\n*''standard therapeutic footwear:'''\n**CHUT (temporary use) or CHUP (permanent use)\n**reimbursed at 60%, prescribed by any doctor\n**indicated if: trophic disorders, oedema\n*foot orthoses\n**reimbursed at 60%,\n**performed by a chiropodist, chiropodist or ortho-prosthetist.\n*'''orthoplasty''': protects the toes[[File:Shoe.png|centre|vignette|Chaussure de d\u00e9charge de s\u00e9rie]]",
+  "question": {
+    "question": "What is the indication for custom-made orthopaedic shoes?",
+    "option_a": "Only for patients with sensory and/or motor neurological deficit",
+    "option_b": "For patients with neurological pathology, volumetric disorder, instability, inequality of length, limping, sensory and/or motor neurological deficit, or fall in the elderly",
+    "option_c": "Only for patients with trophic disorders or oedema",
+    "option_d": "For patients with any type of foot problem",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-037",
+  "content": "{{knowledge objective\n|Identifiant=OIC-037-12-B\n|Item_parent=Voluntary termination of pregnancy\n|Item_parent_short=Voluntary termination of pregnancy\n|Rank=B\n|Title=Identifying risk factors for recidivism\n|Description=None\n|Rubric=Follow-up and/or prognosis\n|Contributors=Arthur Foulon,Philippe Deruelle,Aubert Agostini\n|Order=12}}\n\nThe risk factors for repeat abortions are :\n\n- young age\n\n- single patient\n\n- unfavourable socio-economic conditions (difficult economic access to contraception, lack of information)\n\n- unsuitable contraception\n\nLong-acting reversible contraceptive methods, intrauterine devices and implants could help prevent repeat abortions. Efforts must also be made to detect past or ongoing violence.\n\n<br />",
+  "question": {
+    "question": "What are some risk factors for repeat abortions?",
+    "option_a": "History of previous abortions is the most significant risk factor",
+    "option_b": "Young age, single patient status, and unfavourable socio-economic conditions are risk factors for repeat abortions",
+    "option_c": "Long-acting reversible contraceptive methods are the primary cause of repeat abortions",
+    "option_d": "Repeat abortions are mostly due to lack of access to abortion services",
+    "correct_option": "B"
+  }
+}

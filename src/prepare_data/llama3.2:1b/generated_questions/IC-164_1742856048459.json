@@ -1,0 +1,12 @@
+{
+  "folder": "IC-164",
+  "content": "{{knowledge objective\n|Identifiant=OIC-164-01-A\n|Item_parent=Febrile rash in children\n|Item_parent_short=Children's febrile panthemas\n|Rank=A\n|Title=Children's febrile rash: type of rash\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Christ\u00e8le Gras-Le Guen,Emmanuel Grimprel,Elise Launay\n|Order=1}}\n\nAn exanthema is an acute, transient skin rash.\n\nThe classification of an exanthema is based on the characterisation of the elementary lesion: macule, papule, vesicle, pustule. A distinction is made between vesiculo-pustular exanthemas (chickenpox, for example) and erythematous exanthemas (redness due to cutaneous vasodilation). (see sheet 114)\n\nThere are two clinical types of erythematous exanthema:\n\n- macular exanthemas with no interval of healthy skin (also known as scarlatiniform exanthemas) as in scarlet fever\n\n- maculopapular exanthems with patches of healthy skin (also known as morbilliform exanthems), as in measles.  ",
+  "question": {
+    "question": "What is an example of a maculopapular exanthema?",
+    "option_a": "Erythema infectiosum",
+    "option_b": "Scarlet fever",
+    "option_c": "Roseola",
+    "option_d": "Scarlatiniform exanthema",
+    "correct_option": "option_b"
+  }
+}

@@ -19,7 +19,7 @@ def compute_distractor_quality_for_df(df: pd.DataFrame,
     def distractor_quality_applicable(row):
         user_prompt = generate_prompt_for_question(row,
                                                    question_col=question_col,
-                                                   include_options=False)
+                                                   include_options=True)
         
         return call_openai_api(client, system_prompt, user_prompt, temp=temp, max_completion_tokens=max_completion_tokens)
 

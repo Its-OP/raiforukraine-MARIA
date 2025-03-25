@@ -1,0 +1,12 @@
+{
+  "folder": "IC-325",
+  "content": "{{knowledge objective\n|Identifiant=OIC-325-04-B\n|Item_parent=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medicinal errors (see items 4 and 5)\n|Item_parent_short=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medication errors (see items 4 and 5)\n|Rank=B\n|Title=Know how to prevent medication circuit malfunctions.\n|Description=Know the 5B rule\n|Rubric=Definition\n|Contributors=\n|Order=4}}\n\n==Preventing malfunctions in the medication circuit===\nThe 5-B rule is an educational tool designed to prevent errors.\n\nThe 5 Bs:\n\n*Good Patient\n*Right Drug\n*Right Dose\n*Right Route\n*Right Time",
+  "question": {
+    "question": "What is the 5-B rule designed to prevent in the medication circuit?",
+    "option_a": "Medication overuse",
+    "option_b": "Medication circuit malfunctions",
+    "option_c": "Patient medication non-adherence",
+    "option_d": "Medication waste",
+    "correct_option": "B"
+  }
+}

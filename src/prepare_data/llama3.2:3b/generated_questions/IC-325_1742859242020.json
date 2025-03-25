@@ -1,0 +1,46 @@
+{
+  "folder": "IC-325",
+  "content": "{{knowledge objective\n|Identifiant=OIC-325-04-B\n|Item_parent=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medicinal errors (see items 4 and 5)\n|Item_parent_short=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medication errors (see items 4 and 5)\n|Rank=B\n|Title=Know how to prevent medication circuit malfunctions.\n|Description=Know the 5B rule\n|Rubric=Definition\n|Contributors=\n|Order=4}}\n\n==Preventing malfunctions in the medication circuit===\nThe 5-B rule is an educational tool designed to prevent errors.\n\nThe 5 Bs:\n\n*Good Patient\n*Right Drug\n*Right Dose\n*Right Route\n*Right Time",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the purpose of the 5-B rule in preventing medication circuit malfunctions?",
+        "description": "The 5-B rule is an educational tool designed to prevent errors.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To ensure that the patient receives the correct medication at the right time",
+        "description": "The 5-B rule is primarily focused on the timing of medication administration.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "To prevent medication errors by ensuring the right drug is used",
+        "description": "The 5-B rule is primarily focused on the type of medication administered.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "To ensure that the patient receives the correct medication at the right dose",
+        "description": "The 5-B rule is primarily focused on the dosage of medication administered.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "To ensure that the patient receives the correct medication at the right time, dose, and route",
+        "description": "The 5-B rule is a comprehensive approach to preventing medication errors.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "D",
+        "description": "The correct answer is the option that accurately reflects the purpose of the 5-B rule.",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

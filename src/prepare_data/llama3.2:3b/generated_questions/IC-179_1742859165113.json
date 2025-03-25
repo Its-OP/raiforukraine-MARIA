@@ -1,0 +1,45 @@
+{
+  "folder": "IC-179",
+  "content": "{{knowledge objective\n|Identifiant=OIC-179-04-B\n|Item_parent=Health risks linked to water and food. Food poisoning\n|Item_parent_short=Sanitary risks related to water and food. Food poisoning\n|Rank=B\n|Item_parent_short=Health risks linked to water and food.\n|Description=None\n|Rubric=Definition\n|Contributors=Pr Christophe DE CHAMPS DE SAINT LEGER, Dr Johann CAILHOL\n|Order=4}}\nVarious forms of pollution affect water resources:\n\n- Thermal pollution linked to various human activities poses a health risk through the microbiological proliferation it causes (free amoebae, legionella, algae, etc.).\n\n- Radioactive pollution is the lowest apart from exceptional accidents\n\n- Chemical pollution is probably the most common:\n\n* Sodium from mining waste or seawater infiltration.\n* Nitrates from agricultural activities, toxic if reduced to nitrites which bind to haemoglobin. Precursors of nitrosamines, they can be carcinogenic.\n* Phosphates from agricultural activities and urban waste. They play a part in the eutrophication process, leading to the development of algae that produce toxins.\n* Heavy metals (lead, mercury, cadmium), which are deposited in river and coastal sediments.  They can concentrate in aquatic flora and fauna, a source of poisoning for humans.\n* Dangers associated with mineral salt imbalances due to natural contamination or disruption caused by man-made additions.\n* Organic pollution linked to human activities, detergents, solvents, hydrocarbons, medicines, etc.\n\n- Microbial and parasitic pollution :\n\n* Fecal, human and animal origin linked to the absence or inadequate treatment of drinking water.\n\nThe most well-known and frequent are responsible for gastrointestinal disorders.\n\n* Bacteria: salmonella, shigella, E. coli, Vibrio cholerae\n* Viruses: enterovirus, coxackie, echovirus, hepatitis A and E, coronavirus, rotavirus, norovirus, etc., causing gastroenteritis, hepatitis and neuromeningeal disorders.\n* Parasites: Entamoeba histolytica, Giardia intestinalis, Cryptosporidium spp.\n* In certain uses of water, water microorganisms can become pathogenic: Legionella pneumophila, non-tuberculous mycobacteria (Mycobacterium xenopi).\n\nReference Hartemann P Sciences Eaux et Territoires 2013 n\u00b010 p14 \u00e0 21 Eau de consommation, risque sant\u00e9.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What type of pollution is responsible for the most frequent health risks through gastrointestinal disorders?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Thermal pollution",
+        "description": "Linked to various human activities and causes microbiological proliferation",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Radioactive pollution",
+        "description": "Linked to exceptional accidents and poses a health risk",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Chemical pollution",
+        "description": "Commonly linked to human activities and causes various health risks",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Microbial and parasitic pollution",
+        "description": "Linked to the absence or inadequate treatment of drinking water",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "The correct answer"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

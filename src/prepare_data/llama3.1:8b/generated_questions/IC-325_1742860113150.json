@@ -1,0 +1,12 @@
+{
+  "folder": "IC-325",
+  "content": "{{knowledge objective\n|Identifiant=OIC-325-09-B\n|Item_parent=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medicinal errors (see items 4 and 5)\n|Item_parent_short=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medication errors (see items 4 and 5)\n|Rank=B\n|Title=Knowing the principle of imputability\n|Description=Identify the limitations of quantifying drug-related harm.\n|Rubric=Definition\n|Contributors=Marie Briet\n|Order=9}}\n\n\n== Principle of imputability\nImputability is the estimation of the causal link between the drug and the observed effect.\n\nImputability is assessed by the regional pharmacovigilance centre during the pharmaco-medical evaluation of the report of an adverse drug reaction.\n\nThe French imputability method is based on chronological criteria (time of onset, evolution after discontinuation of the drug, re-administration), semiological criteria (existence of favourable factors, absence of differential diagnosis, pharmacological properties of the drug, etc.) and bibliographical criteria.",
+  "question": {
+    "question": "What is the principle of imputability in the context of drug-related harm?",
+    "option_a": "The principle of imputability is the evaluation of the severity of a drug-related adverse event.",
+    "option_b": "Imputability is the estimation of the causal link between the drug and the observed effect.",
+    "option_c": "The principle of imputability is used to quantify the financial burden of drug-related harm.",
+    "option_d": "Imputability is a measure of the probability of a drug being the cause of an adverse event based solely on the patient's medical history.",
+    "correct_option": "B"
+  }
+}

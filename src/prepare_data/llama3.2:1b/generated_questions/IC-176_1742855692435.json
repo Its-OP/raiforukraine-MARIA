@@ -1,0 +1,12 @@
+{
+  "folder": "IC-176",
+  "content": "{{knowledge objective\n|Identifiant=OIC-176-07-A\n|Item_parent=Infectious diarrhoea in adults and children\n|Item_parent_short=Infectious diarrhoea in adults and children\n|Rank=A\n|Title=Knowing the main complementary tests for aetiology\n|Description=Stool cultures, parasitological examination of stools, blood cultures\n|Rubric= Complementary examinations\n|Contributors=Alexis de Rougemont,Christophe Deschamps, Johann Cailhol\n|Order=7}}\n\n- Coproculture'': to be prescribed in the case of acute febrile diarrhoea, particularly in the case of TIAC, signs of seriousness, return from the tropics, and in immunocompromised patients, in the first few days of the illness, before any antibiotic therapy, if possible. Rectal swabs may be useful in infants.\n\n- Parasitological examination of stools: to be prescribed after a stay in an endemic area, in immunocompromised patients (to look for cryptomicro- or isosporidia), or in cases of persistent diarrhoea as a second-line treatment: fresh stool sample taken 3 times, spaced a few days apart to increase sensitivity, and sent to the laboratory in less than 2 hours. A negative result does not rule out the diagnosis.\n\n- C. difficile toxin testing''''' should be requested in adults in the event of diarrhoea following hospitalisation (nosocomial) and/or post-antibiotic treatment. C. difficile diarrhoea is rare in children, and (virtually) non-existent before the age of 4, due to the absence of a toxin receptor. However, children are readily colonised by C. difficile, including toxin-secreting organisms, so there is no need to test for C. difficile in young children.\n\n- Blood cultures: if febrile diarrhoea\n\n- Virological examination: this does not need to be carried out routinely during seasonal winter epidemics, as it does not affect the management of the disease, which is based on symptomatic treatment. It is indicated in the case of epidemics of grouped cases or in immunocompromised patients. It should be reserved for cases of diagnostic doubt or for epidemiological purposes.",
+  "question": {
+    "question": "What is the recommended complementary test for aetiology in cases of acute febrile diarrhoea?",
+    "option_a": "C. difficile toxin testing",
+    "option_b": "Stool culture",
+    "option_c": "Blood culture",
+    "option_d": "Virological examination",
+    "correct_option": "option_a"
+  }
+}

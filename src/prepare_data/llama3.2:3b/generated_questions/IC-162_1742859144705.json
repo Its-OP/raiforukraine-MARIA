@@ -1,0 +1,46 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-29-B\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=B\n|Title=Know how to treat secondary syphilis\n|Description=None\n|Heading=Management\n|Contributors=\n|Order=29}}\nEarly secondary syphilis: Benzathine penicillin G single dose IM 2.4 million units\n\n- If penicillin allergy: doxycycline 14 days\n\n- Herxheimer reaction: possible for primary or secondary syphilis, lysis of treponemes\n\n\nHIV+ patient (primary or secondary syphilis) : Benzathine penicillin G single dose IM 2.4 million units\n\n\nLate secondary syphilis: Benzathine penicillin G single dose IM 2.4 million units once a week for 3 weeks\n\n- If penicillin allergy: doxycycline 28 days\n\n- Herxheimer reaction: possible for primary or secondary syphilis, lysis of treponemes",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the recommended treatment for late secondary syphilis?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Benzathine penicillin G single dose IM 2.4 million units",
+        "description": "A single dose of benzathine penicillin G",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Doxycycline 14 days",
+        "description": "A 14-day course of doxycycline",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Benzathine penicillin G once a week for 3 weeks",
+        "description": "Benzathine penicillin G administered weekly for 3 weeks",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Doxycycline 28 days",
+        "description": "A 28-day course of doxycycline",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

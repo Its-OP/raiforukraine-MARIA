@@ -1,0 +1,12 @@
+{
+  "folder": "IC-351",
+  "content": "{{knowledge objective\n|Identifiant=OIC-351-07-A\n|Item_parent=Agitation and acute delirium\n|Item_parent_short=Agitation and acute delirium\n|Rank=A\n|Title=Knowing the semiological analysis of a delirious syndrome\n|Description=Theme, mechanism, organisation (systematisation), adherence, repercussions, vigilance\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=7}}\n\n\n=== '''Theme''' ===\nSingle or multiple themes to which the delusional idea relates.\n\nThemes: persecution, megalomania, mysticism, filiation, somatic, erotomania, influence, reference, loss of psychic intimacy, mission, messianic\n\n=== '''Mechanism''' ===\nProcess of constructing the delusional idea. Mechanisms: interpretative, hallucinatory, intuitive and imaginative\n\n=== '''Systematisation''' ===\nOrganisation and coherence of delusional ideas.\n\n* In schizophrenia, the delusions are unsystematised, vague, without logic or a narrative thread.\n* In persistent delusional disorder, delusions are systematised with an apparent logic to the delusion.\n\n=== '''Adhesion''' ===\nThe patient's belief in his delusional ideas, fluctuating and dynamic.\n\n* Total adherence: unshakeable conviction, inaccessible to reasoning.\n* Partial adherence: possible criticism of delusional ideas.\n\n=== '''Emotional and behavioural repercussions''' ===\n\n* Anxiety, anger, sadness\n* risk of self- or hetero-aggression\n* lifestyle changes",
+  "question": {
+    "question": "What is the primary characteristic of a delusional idea in schizophrenia?",
+    "option_a": "A fixed and coherent narrative thread",
+    "option_b": "A vague and unsystematised structure",
+    "option_c": "A fluctuating and dynamic belief",
+    "option_d": "A total adherence to the delusion",
+    "correct_option": "option_c"
+  }
+}

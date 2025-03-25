@@ -1,0 +1,46 @@
+{
+  "folder": "IC-302",
+  "content": "{{knowledge objective\n|Identifiant=OIC-302-01-A\n|Item_parent=Cutaneous, epithelial and melanoma tumours\n|Item_parent_short=Cutaneous, epithelial and melanoma tumours\n|Rank=A\n|Title=Know the main skin tumours\n|Description=List the main families of skin tumours (basal cell, squamous cell, melanoma, HPV-induced tumours) and their relative frequency.\n|Rubric=Definition\n|Contributors=\n|Order=1}}\nMalignant skin tumours include tumours of epithelial origin such as basal cell or squamous cell carcinomas, which develop from keratinocytes, and melanoma, which is a malignant melanocytic tumour.\n\nMelanoma is a malignant tumour that develops at the expense of melanocytes (cells that produce melanin).",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the origin of melanoma?",
+        "description": "A question about the type of cells that give rise to melanoma",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Keratinocytes",
+        "description": "A type of skin cell that can give rise to basal cell carcinoma",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Melanocytes",
+        "description": "The correct answer: melanocytes are the cells that produce melanin",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Langerhans cells",
+        "description": "A type of immune cell found in the skin, but not directly related to melanin production",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Fibroblasts",
+        "description": "A type of skin cell involved in wound healing, but not directly related to melanoma development",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The correct option letter",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

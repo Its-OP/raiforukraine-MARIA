@@ -1,0 +1,12 @@
+{
+  "folder": "IC-132",
+  "content": "{{knowledge objective\n|Identifiant=OIC-132-16-B\n|Item_parent=Cognitive disorders in the elderly. (see item 108)\n|Item_parent_short=Cognitive disorders in the elderly. (see item 108)\n|Rank=B\n|Heading=Example of chronic HSD on CT scan (see item 108)\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=16}}[[CT scan of a chronic HSD OIC-108-15-A|CT scan of a chronic HSD]]",
+  "question": {
+    "question": "What is an example of a chronic HSD on a CT scan?",
+    "option_a": "A normal brain structure",
+    "option_b": "A brain with a hemorrhagic stroke",
+    "option_c": "A brain with a chronic HSD (Hypodense Subdural Effusion)",
+    "option_d": "A brain with a subarachnoid hemorrhage",
+    "correct_option": "C"
+  }
+}

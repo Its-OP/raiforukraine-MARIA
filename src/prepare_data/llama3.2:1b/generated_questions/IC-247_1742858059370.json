@@ -1,0 +1,12 @@
+{
+  "folder": "IC-247",
+  "content": "{{knowledge objective\n|Identifiant=OIC-247-02-A\n|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Rank=A\n|Title=Know the classification and main characteristics of the different types of diabetes mellitus.\n|Description=including gestational diabetes\n|Rubric=Definition\n|Contributors=Eva Feigerlova,H\u00e9l\u00e8ne Bihan,Claire Briet,Gaetan Prevost\n|Order=2}}\n\nThe most common causes of diabetes are :\n\n1/ Type 1 diabetes (10%) due to a lack of insulin secretion by the pancreas\n\n           - tends to occur before the age of 35\n\n           - rapid onset, hyperglycaemia at diagnosis > 3 g/L, ketosis often present\n\n           - normal weight or weight loss\n\n           - main cause of death: kidney failure\n\n2/ Type 2 diabetes (> 80%) due to poor use of insulin by the body's cells\n\n           - tends to occur after the age of 35, frequent family history\n\n           - slow onset, hyperglycaemia at diagnosis often < 2 g/L, ketosis often absent\n\n           - obesity or excess abdominal fat\n\n           - degenerative complications at the time of diagnosis present in 50% of cases\n\n           - leading cause of death: cardiovascular disease\n\n\nOther causes of diabetes include:\n\n3/ Gestational diabetes\n\n4/ Rare aetiologies :\n\n- genetic defects in \u03b2-cell function\n\n- diseases of the exocrine pancreas\n\n- endocrine diseases\n\n- drugs and toxic substances...\n\n<ref>CEEDMM, 2019</ref>",
+  "question": {
+    "question": "What is the most common cause of diabetes?",
+    "option_a": "Type 1 diabetes",
+    "option_b": "Type 2 diabetes",
+    "option_c": "Gestational diabetes",
+    "option_d": "Rare aetiologies",
+    "correct_option": "option_a"
+  }
+}

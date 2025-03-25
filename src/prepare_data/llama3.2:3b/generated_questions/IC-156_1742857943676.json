@@ -1,0 +1,46 @@
+{
+  "folder": "IC-156",
+  "content": "{{knowledge objective\n|Identifiant=OIC-156-07-A\n|Item_parent=Infections in the bones and joints (IOA) of children and adults\n|Item_parent_short=Infections osteo articulaires (IOA) de l'enfant et de l'adulte\n|Rank=A\n|Title=Knowing the indications for joint puncture\n|Description=None\n|Rubric=Complementary examinations\n|Contributors=Dr Florent Valour\n|Order=7}}\n'''Indication :''' Joint puncture is a key examination to be carried out as an emergency in the event of acute arthritis, prior to any antibiotic therapy. It can be ultrasound or radio-guided for deep joints.\n\nIn children, joint puncture is always carried out by a surgeon, in the operating theatre and under general anaesthetic.\n\n'''Contraindications:'''\n\n- lesions or skin infection at the puncture site\n\n- coagulation disorder (coagulopathy, anti-coagulant treatment at supra-therapeutic dose, particularly for deep joints)\n\nNB1: Thrombocytopenia < 50 G/L or anti-platelet aggregation therapy is not an absolute contraindication.\n\nNB2: The presence of hardware (joint prosthesis) is not a contraindication to puncture.\n\n'''Tests:''' the tests to be requested systematically are the following, to help determine whether the effusion is mechanical or inflammatory, to make the microbiological diagnosis, and to rule out certain differential diagnoses: macroscopic appearance, cytochemistry, search for crystals (in adults), bacteriology (direct examination, standard culture, ''Kingella kingae'' PCR for septic arthritis in children aged between 6 months and 4 years).\n\n'''Interpretation (in adults):'''\n[[File:Interpretation algorithm for joint puncture.jpg|vignette]]\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Question",
+        "description": "What is the contraindication for joint puncture in adults?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Option A",
+        "description": "Thrombocytopenia < 50 G/L",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Option B",
+        "description": "Coagulation disorder (coagulopathy, anti-coagulant treatment at supra-therapeutic dose, particularly for deep joints)",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Option C",
+        "description": "The presence of hardware (joint prosthesis) is not a contraindication to puncture.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Option D",
+        "description": "Thrombocytopenia < 20 G/L",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "B",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

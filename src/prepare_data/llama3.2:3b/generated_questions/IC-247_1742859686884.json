@@ -1,0 +1,11 @@
+{
+  "folder": "IC-247",
+  "content": "{{knowledge objective\n|Identifiant=OIC-247-28-B\n|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Rank=B\n|Title=Knowing the principles of diabetic foot management\n|Description=None\n|Rubric=Management\n|Contributors=H BIHAN,C BRIET,E FERGEILOVA,E LARGER,G PREVOST\n|Ordre=28}}\n[[Osteite|1]].    Discharge\n\n2.    Careful examination of the wound, looking for bone contact (osteitis)\n\n3.     Local care by an IDE: removal of hyperkeratosis and fibrin and special dressings adapted to the stage (necrosis, fibrin, bud).\n\n4.     Surgical management of serious wounds or suspected osteitis by a vascular and/or orthopaedic surgeon, depending on whether or not there is OSA and the extent of the lesions (CT scan, MRI of the foot): trimming, drainage, removal of necrotic tissue, bone biopsy, amputation, etc.\n\n5.     General care: probabilistic antibiotic therapy if general signs, otherwise wait for bacteriological proof, preventive anticoagulation, control of diabetes, management of other cardiovascular risk factors, analgesic treatment, anti-tetanus vaccination, etc.\n\n6.     Education for the prevention of other lesions, pedicure care",
+  "question": {
+    "question": "What is the primary goal of diabetic foot management?",
+    "option_a": "To prevent the progression of osteitis and promote wound healing through careful examination and local care",
+    "option_b": "To manage symptoms and prevent complications through general care and preventive measures",
+    "option_c": "To perform surgical interventions to treat serious wounds and suspected osteitis",
+    "option_d": "To educate patients on prevention and promote good foot hygiene through pedicure care"
+  }
+}

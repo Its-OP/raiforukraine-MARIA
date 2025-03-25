@@ -1,0 +1,22 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-21-B\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=B\n|Title=Knowing the therapeutic methods for upper genital infections in women\n|Description=None\n|Heading=Management\n|Contributors=\n|Order=21}}\nProbabilistic treatment: 2018 recommendations (CNGOF - SPILF) recommend:\n\n- Uncomplicated IGH: Ceftriaxone 1g IV/IM single dose + Doxycycline 100mg/12h po 10 days + Metronidazole 500mg/12h po 10 days\n\n\n- Gonococcus: Ceftriaxone (1 g/d, IV, 14 days).\n\n- Chlamydia: Doxycycline (100 mg/12 hours, \"per os\" or IV, 14 days).",
+  "question": {
+    "properties": {
+      "question": "What is the recommended treatment for sexually transmitted infections (STIs) in women?",
+      "option_a": "Ceftriaxone (1g IV/IM single dose + Doxycycline 100mg/12h po 10 days + Metronidazole 500mg/12h po 10 days)",
+      "option_b": "Gonococcus (Ceftriaxone 1g IV/14 days)",
+      "option_c": "Chlamydia (Doxycycline 100mg/12 hours per os or IV 14 days)",
+      "option_d": "Metronidazole 500mg/12h po 10 days",
+      "correct_option": "option_a",
+      "required": [
+        "question",
+        "option_a",
+        "option_b",
+        "option_c",
+        "option_d",
+        "correct_option"
+      ]
+    }
+  }
+}

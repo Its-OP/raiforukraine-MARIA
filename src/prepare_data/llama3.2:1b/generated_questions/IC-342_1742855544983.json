@@ -1,0 +1,12 @@
+{
+  "folder": "IC-342",
+  "content": "{{knowledge objective\n|Identifiant=OIC-342-20-A\n|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=A\n|Title=Know the indications for and methods of prescribing anticonvulsant treatment.\n|Description=Know how to administer short-acting antiepileptic treatment (benzodiazepines).\n|Rubric=Management\n|Contributors=\n|Order=20}}\n\n{| class=\"wikitable\"\n|cf item 105\n|}",
+  "question": {
+    "question": "What is the primary indication for administering short-acting antiepileptic treatment (benzodiazepines)?",
+    "option_a": "Seizure in a patient with a history of migraine",
+    "option_b": "Seizure in a patient with a history of diabetes",
+    "option_c": "Seizure in a patient with a history of anxiety",
+    "option_d": "Seizure in a patient with a history of sleep disorders",
+    "correct_option": "option_a"
+  }
+}

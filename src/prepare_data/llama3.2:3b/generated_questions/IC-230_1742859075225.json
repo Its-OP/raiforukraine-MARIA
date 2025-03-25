@@ -1,0 +1,46 @@
+{
+  "folder": "IC-230",
+  "content": "{{knowledge objective\n|Identifiant=OIC-230-09-A\n|Item_parent=Acute chest pain\n|Item_parent_short=Acute chest pain\n|Rank=A\n|Title=Knowing the biological tests to be prescribed and their interpretation for the four cardiovascular emergencies\n|Description=None\n|Rubric=Additional tests\n|Contributors=Vincent Roul\u00e9\n|Order=9}}\n'''Knowledge of the biological tests to be prescribed and their interpretation for the 4 cardiovascular emergencies'''\n\n- Standard biological work-up: CBC/platelets, blood ion count with creatinine, coagulation test (PT, APTT)\n\n- <u>ultrasensitive troponins</u> ('''elevation of cardiac enzymes'' in ACS, less so in PE) with cycle of 2 measurements 1 hour or 2 hours apart if the first is normal. NB= Troponins are also elevated in cases of myocarditis associated with pericarditis.\n\nIt should be noted that elevation of troponin alone is not sufficient to make the diagnosis of ACS (the context and the clinic must be taken into account, since troponin may be elevated in the context of other pathologies).\n\n- <u>D-dimer:</u> in case of low or moderate suspicion of PE (PE ruled out if D-dimer normal), rule out aortic dissection if also normal. Do not confirm any diagnosis\n\n- CRP (C-reactive protein): indicator of inflammatory syndrome, of interest especially for pericarditis but non-specific '''(elevation of C-reactive protein, CRP)''''\n\n- <u>Blood gas</u> '''(analysis of a blood gas result)''': especially if respiratory distress, shunt effect suggestive of PE",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary purpose of performing a blood gas analysis in the context of a cardiovascular emergency?",
+        "description": "A blood gas analysis is performed to diagnose a specific cardiovascular emergency.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To measure the level of troponins",
+        "description": "This option is incorrect, as troponin levels are measured using an ultrasensitive troponin test.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "To rule out pulmonary embolism (PE)",
+        "description": "This option is incorrect, as D-dimer is used to rule out PE, not blood gas analysis.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "To diagnose acute coronary syndrome (ACS)",
+        "description": "This option is incorrect, as troponin levels are measured using an ultrasensitive troponin test, not blood gas analysis.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "To diagnose respiratory distress and shunt effect",
+        "description": "This is the correct answer, as blood gas analysis is used to diagnose respiratory distress and shunt effect suggestive of PE.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "D",
+        "description": "",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

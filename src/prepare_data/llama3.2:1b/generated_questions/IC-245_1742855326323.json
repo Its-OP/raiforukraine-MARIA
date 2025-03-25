@@ -1,0 +1,12 @@
+{
+  "folder": "IC-245",
+  "content": "{{knowledge objective\n|Identifiant=OIC-245-12-A\n|Item_parent=Adrenal insufficiency in adults and children\n|Item_parent_short=Adrenal insufficiency in adults and children\n|Rank=A\n|Title=Know the general principles of the management of acute adrenal insufficiency.\n|Description=Implementation of pharmacological treatment\n|Topic=Management\n|Contributors=Claire Briet,St\u00e9phanie Espiard\n|Order=12}}\n\nThis is an \"extreme emergency\". Treatment is started as soon as the diagnosis is suspected.\n\n'''At the patient's home:'''\n\n*Administration of 100 mg hydrocortisone IV or IM or, failing that, SC.\n*Then medical transport to hospital.\n\n'''At the hospital:'''\n\n*Emergency transfer to intensive care.\n*Non-specific measures in the event of coma, fever, pain, hypoxia, etc.\n*Correct haemodynamics and fluid and electrolyte disorders:\n**refill with 0.9% NaCl to compensate for dehydration;\n**no potassium supplementation, because of hyperkalaemia (+++);\n**administration of glucose to compensate for hypoglycaemia.\n*Hydrocortisone :\n**after an initial dose of 100 mg IV or IM (or, failing that, SC);\n**100 mg every 24 hours by continuous IV infusion using an electric syringe (failing this, 50 mg IV or IM every 6 hours).\n*Treat the triggering factor (++).\n*Haemodynamic and clinical monitoring and control of the ionogram.\n\n<br />",
+  "question": {
+    "question": "What is the correct dose of hydrocortisone for acute adrenal insufficiency?",
+    "option_a": "50 mg IV or IM every 6 hours",
+    "option_b": "100 mg IV or IM every 24 hours",
+    "option_c": "100 mg IV or IM every 12 hours",
+    "option_d": "100 mg IV every 24 hours",
+    "correct_option": "100 mg IV or IM every 24 hours"
+  }
+}

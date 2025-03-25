@@ -1,0 +1,46 @@
+{
+  "folder": "IC-315",
+  "content": "<br />{knowledge objective\n|Identifiant=OIC-315-01-A\n|Item_parent=Acute leukaemia\n|Item_parent_short=Acute leukaemia\n|Rank=A\n|Title=Know the criteria defining acute leukemia (AL)\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=1}}\nA clonal haematopoietic stem cell disease of the bone marrow resulting in proliferation and invasion of the bone marrow by immature, cancerous haematopoietic cells blocked at an early stage of differentiation: blasts. By definition, these blasts represent more than 20% of the cells on cytological examination of the myelogram.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Definition of Acute Leukemia",
+        "description": "A clonal haematopoietic stem cell disease of the bone marrow resulting in proliferation and invasion of the bone marrow by immature, cancerous haematopoietic cells blocked at an early stage of differentiation: blasts. By definition, these blasts represent more than 20% of the cells on cytological examination of the myelogram.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Acute leukemia is a type of blood cancer that occurs when the bone marrow produces too many mature white blood cells.",
+        "description": "This option is a plausible but incorrect definition of acute leukemia.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Acute leukemia is a clonal haematopoietic stem cell disease of the bone marrow resulting in proliferation and invasion of the bone marrow by immature, cancerous haematopoietic cells blocked at an early stage of differentiation: blasts.",
+        "description": "This option is a correct definition of acute leukemia.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Acute leukemia is a type of cancer that occurs when the bone marrow produces too many red blood cells.",
+        "description": "This option is a plausible but incorrect definition of acute leukemia.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Acute leukemia is a type of blood cancer that occurs when the bone marrow produces too many platelets.",
+        "description": "This option is a plausible but incorrect definition of acute leukemia.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The correct letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

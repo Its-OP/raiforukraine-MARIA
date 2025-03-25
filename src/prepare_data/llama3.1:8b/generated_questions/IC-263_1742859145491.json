@@ -1,0 +1,12 @@
+{
+  "folder": "IC-263",
+  "content": "{{knowledge objective\n|Identifiant=OIC-263-01-A\n|Item_parent=Vascular nephropathy\n|Item_parent_short=Vascular nephropathy\n|Rank=A\n|Title=Knowing the different types of vascular nephropathy\n|Description=None\n|Rubric=Definition\n|Contributors=Jean-Jacques Boffa\n|Order=1}}\n\nVascular nephropathies are a group of heterogeneous diseases characterised by damage to the renal vessels. Some diseases involve the large vessels (obstruction of the renal arteries), others the small vessels (nephroangiosclerosis, haemolytic uraemic syndrome, and cholesterol crystal embolism diseases). Drug prescription, follow-up consultation and education of a hypertensive patient SD-282|HTA]] is often at the forefront. It may be the cause or consequence of kidney disease. Vascular nephropathies can be classified according to their rate of progression and the location of renal arterial damage (table 1).\n\nTable 1: Classification of vascular nephropathies\n{| class=\"wikitable\"\n|'''1. acute or rapidly progressive vascular nephropathies'''\n|-\n|<Thrombotic microangiopathy syndrome (HUS, PTT...)</nowiki>\n|-\n|<nowiki>- HTA and malignant nephroangiosclerosis (intrarenal vessels of all calibres).</nowiki>\n|-\n|<Cholesterol crystal emboli (small-calibre intrarenal arterioles).\n|-\n|<Acute occlusion of one or more renal arteries, causing renal infarction.\n|-\n|<Macroscopic periarteritis nodosa (medium-calibre arterioles).\n|-\n|<Acute scleroderma crisis (intrarenal vessels of all calibres).\n|-\n|'''2.    Vascular nephropathies with a chronic course'''\n|-\n|<Renal artery stenosis.\n|-\n|<Benign nephroangiosclerosis (intrarenal vessels of all calibres).\n|-\n|<Anti-phospholipid syndrome.\n|}\n<br />",
+  "question": {
+    "question": "What is a characteristic of vascular nephropathies?",
+    "option_a": "They are all caused by a single disease process",
+    "option_b": "They involve damage to the renal vessels and can be classified according to their rate of progression and the location of renal arterial damage",
+    "option_c": "They are only found in patients with diabetes",
+    "option_d": "They are a type of kidney disease that is not related to the vascular system",
+    "correct_option": "B"
+  }
+}

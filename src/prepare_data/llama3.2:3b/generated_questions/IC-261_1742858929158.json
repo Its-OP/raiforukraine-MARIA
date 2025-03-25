@@ -1,0 +1,46 @@
+{
+  "folder": "IC-261",
+  "content": "{{knowledge objective\n|Identifiant=OIC-261-10-B\n|Item_parent=Glomerular nephropathy\n|Item_parent_short=Glomerular nephropathy\n|Rank=B\n|Title=Know the main ways in which SNLGM develops\n|Description=Know the circumstances that suggest corticosteroid-sensitive, corticosteroid-resistant and corticosteroid-dependent NS.\n|Topic=Follow-up and/or prognosis\n|Contributors=Eric Daugas,Bruno Moulin\n|Order=10}}\n\n'''Evolution/ prognosis: 3 possibilities'''\n\n* Corticosensitivity (80-90% of cases): disappearance of proteinuria. Relapse after discontinuation of treatment in 50% of cases, necessitating resumption of corticosteroid therapy.\n* Corticodependence: relapse after corticosensitivity occurring when corticosteroid therapy is reduced or rapidly after it is stopped. Often requires the addition of an immunosuppressant or immunomodulator.\n* Corticoresistance: non-response (10% of cases), risk (50%) of end-stage chronic renal failure within 5 years.\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary characteristic of corticoresistance in glomerulonephropathy?",
+        "description": "A multiple-choice question about the prognosis of glomerulonephropathy",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Relapse after corticosteroid therapy is stopped",
+        "description": "A plausible but incorrect option that could confuse the respondent",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Non-response to corticosteroid therapy",
+        "description": "A plausible but incorrect option that could confuse the respondent",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Corticosteroid sensitivity and dependence are not applicable",
+        "description": "A distractor that could confuse the respondent due to its ambiguity",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "A significant risk of end-stage chronic renal failure within 5 years",
+        "description": "The correct answer that requires knowledge of corticoresistance",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

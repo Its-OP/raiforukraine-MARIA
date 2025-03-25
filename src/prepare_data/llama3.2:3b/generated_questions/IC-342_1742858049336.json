@@ -1,0 +1,40 @@
+{
+  "folder": "IC-342",
+  "content": "{{knowledge objective\n|Identifiant=OIC-342-04-A\n|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=A\n|Title=Knowing the elements of the diagnosis of syncope and lipothymia\n|Description=Triggering circumstances, clinical features\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=4}}\n<gallery widths=\"420\" heights=\"420\">\nFile:Fig1Malaise.PNG\n</gallery>loss of consciousness - triggering circumstances - presence or absence of prodromal symptoms - onset during exertion or while lying down - trauma -",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a common triggering circumstance for syncope in adults?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Trauma",
+        "description": "Physical injury or shock"
+      },
+      "option_b": {
+        "title": "Vasovagal syncope",
+        "description": "A common type of fainting spell caused by a nervous system response"
+      },
+      "option_c": {
+        "title": "Prolonged standing or sitting",
+        "description": "Prolonged periods of inactivity can lead to decreased blood flow and low blood pressure"
+      },
+      "option_d": {
+        "title": "Hypoglycemia",
+        "description": "Low blood sugar levels"
+      },
+      "correct_option": {
+        "title": "A"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

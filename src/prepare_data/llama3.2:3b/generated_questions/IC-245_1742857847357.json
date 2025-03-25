@@ -1,0 +1,41 @@
+{
+  "folder": "IC-245",
+  "content": "{{knowledge objective\n|Identifiant=OIC-245-06-B\n|Item_parent=Adrenal insufficiency in adults and children\n|Item_parent_short=Adrenal insufficiency in adults and children\n|Rank=B\n|Title=Know how to prescribe and interpret the 8-hour ACTH assay\n|Description=None\n|Section=Additional tests\n|Contributors=\n|Order=6}}\nIn the case of adrenal insufficiency, ACTH is measured at 8 o'clock in the morning because it follows the nycthemeral rhythm of cortisol and this is the time when the value is highest.\n\n\nOnce the diagnosis of adrenal insufficiency has been made, ACTH is used to diagnose the aetiology of adrenal insufficiency:\n\n* if ACTH is high, this is primary adrenal insufficiency\n* if ACTH is normal or low in relation to low cortisol, it is corticotropic insufficiency",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Why is ACTH measured at 8 o'clock in the morning in the case of adrenal insufficiency?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Because cortisol levels are highest at 8 o'clock in the morning",
+        "description": "A plausible but incorrect option"
+      },
+      "option_b": {
+        "title": "To diagnose primary adrenal insufficiency",
+        "description": "A plausible but incorrect option"
+      },
+      "option_c": {
+        "title": "To diagnose corticotropic insufficiency",
+        "description": "A plausible but incorrect option"
+      },
+      "option_d": {
+        "title": "Because ACTH follows the nycthemeral rhythm of cortisol and is highest at 8 o'clock in the morning",
+        "description": "The correct option"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "This consists only a letter of the correct option"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

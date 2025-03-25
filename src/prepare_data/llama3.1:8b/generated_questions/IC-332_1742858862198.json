@@ -1,0 +1,12 @@
+{
+  "folder": "IC-332",
+  "content": "{{knowledge objective\n|Identifiant=OIC-332-09-A\n|Item_parent=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.\n|Item_parent_short=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.\n|Rank=A\n|Title=Know the principles of management of haemorrhagic shock\n|Description=Transfusion strategy; Know the principles of haemostasis (drugs, surgery, interventional radiology of the artery causing haemorrhagic shock, endoscopy, etc.).\n|Rubric=Management\n|Contributors=Julien Poissy\n|Order=9}}\n\nStep 1: Condition monitoring and venous lines (see elements of immediate management of a state of shock)\n\nStep 2: Identify the cause of the haemorrhage and control the bleeding\n\n- Compression points/grips/sutures\n\n- Call to visceral/obstetric/trauma surgeon or gastroenterologist for specialist haemostasis procedure depending on cause of bleeding\n\nStage 3: Initial symptomatic measures\n\n- Prevent and, if necessary, correct hypothermia\n\n- Vascular filling with crystalloids +/- vasopressor amines in the absence of response to volume expansion\n\n- Blood transfusion\n\no If immediate viral emergency without blood group: O+ transfusion. O- in women of childbearing age\n\no Ratio of packed red blood cells to fresh frozen plasma between 1:1 and 1:2\n\n- Correction of haemostasis disorders\n\no Vit K if AVK\n\no Coagulation factor/prothrombin complex concentrates if oral anticoagulants\n\no Correction of hypocalcaemia\n\no Fresh frozen plasma/fibrinogen depending on coagulation disorders\n\n- Tranexamic acid: an antifibrinolytic to be administered early",
+  "question": {
+    "question": "What is the recommended ratio of packed red blood cells to fresh frozen plasma for blood transfusion in the management of haemorrhagic shock?",
+    "option_a": "1:1",
+    "option_b": "1:2",
+    "option_c": "2:1",
+    "option_d": "4:1",
+    "correct_option": "B"
+  }
+}

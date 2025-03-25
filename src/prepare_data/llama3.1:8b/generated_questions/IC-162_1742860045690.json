@@ -1,0 +1,12 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-13-B\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=B\n|Title=Knowing the causes of upper genital infections in women\n|Description=None\n|Rubric=Etiologies\n|Contributors=\n|Order=13}}\nVenereal origin :\n\n- Gonococcus\n\n- Chlamydia\n\n- Trichomoniasis\n\nMycoplasma genitalium\n\nNon-venereal origin: streptococcus, staphylococcus, enterococci, enterobacteria, etc.",
+  "question": {
+    "question": "What is the origin of upper genital infections in women?",
+    "option_a": "Gonococcus, a sexually transmitted bacterium",
+    "option_b": "Mycoplasma genitalium, a sexually transmitted bacterium",
+    "option_c": "Streptococcus, a bacterium commonly found in the respiratory tract",
+    "option_d": "Human Papillomavirus (HPV), a viral infection",
+    "correct_option": "A"
+  }
+}

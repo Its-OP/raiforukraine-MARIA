@@ -1,0 +1,11 @@
+{
+  "folder": "IC-050",
+  "content": "{{knowledge objective\n|Identifiant=OIC-050-13-A\n|Item_parent=Genito-scrotal pathology in boys and men\n|Item_parent_short=Genito-scrotal pathology in boys and men\n|Rank=A\n|Title=Know how to diagnose preputial infections, phimosis and paraphimosis\n|Description=None\n|Topic=Positive diagnosis\n|Contributors=C\u00e9dric Leb\u00e2cle, Alice Faure\n|Order=13}}\n\n<br />\n\n*Balanoposthitis is an inflammation of the glans and foreskin caused by a failure to unclip and an accumulation of smegma. It may be aggravated by unbalanced diabetes mellitus (in adults).\n*Phimosis is physiological in infants and children up to the age of 4-5 years, explained by the existence of balanopreputial adhesions.\n*In adulthood, the appearance of phimosis should prompt a search for: penile cancer, scleratrophic lichen, poorly controlled diabetes.\n*Paraphimosis is oedema of the prepuce and glans. It is secondary to constriction of the preputial ring at the level of the balanopreputial groove by forced unhooding on phimosis in small children or by forgetting to unhood after unhooding (toilet, urinary catheterisation) in adults.",
+  "question": {
+    "question": "What is a potential cause of paraphimosis in adults?",
+    "option_a": "A severe case of balanoposthitis",
+    "option_b": "Poorly controlled diabetes mellitus",
+    "option_c": "A physical injury to the prepuce",
+    "option_d": "A medical condition that affects the penile ring"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-260",
+  "content": "{{knowledge objective\n|Identifiant=OIC-260-11-A\n|Item_parent=Hematuria\n|Item_parent_short=Hematuria\n|Rank=A\n|Title=Knowing the diagnostic tree for haematuria\n|Description=Figure\n|Rubric=Positive diagnosis\n|Contributors=Charles Dariane, Bruno Moulin\n|Order=11}}\n\n[[File:Figure 6 diagnostic tree.png|thumbnail|1050x1050px|\n<big>'''Figure 6. Diagnostic tree for haematuria'''</big>|alt=|neant]]\n\n\n\n\n\n<br />",
+  "question": {
+    "question": "What is the next step in the diagnostic tree for haematuria if the patient has a history of kidney stones and pain during urination?",
+    "option_a": "Perform a CT scan to rule out renal cell carcinoma",
+    "option_b": "Order a urinalysis to check for blood in the urine",
+    "option_c": "Refer the patient to a urologist for further evaluation",
+    "option_d": "Prescribe antibiotics to treat a potential urinary tract infection",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "folder": "IC-336",
+  "content": "{{knowledge objective\n|Identifiant=OIC-336-03-A\n|Item_parent=Non-traumaticoma in adults and children\n|Item_parent_short=Non-traumatic coma in adults and children\n|Rank=A\n|Title=Diagnosing a coma, assessing its stage and depth of coma (Glasgow Coma Scale) in adults and children.\n|Description=Be able to calculate and interpret a Glasgow Coma Score.\n|Rubric=Positive diagnosis\n|Contributors=Nicolas Weiss\n|Order=3}}\n\n- Lack of response from the patient despite verbal, tactile or painful stimulation (increasing intensity) in a patient with eyes closed who appears unconscious.\n\n- Make sure there is a central pulse, otherwise treat as a cardiorespiratory arrest.\n\n- Make sure there is no trauma, if not, treat as a traumatic coma\n\n- Assessment of depth using nociceptive stimuli: pressure on the nail beds of the four limbs and pressure on the temporo-mandibular region (Pierre Marie and Foix manoeuvre).\n\n- Systematically achieving a Glasgow score\n{| class=\"wikitable\"\n|Ocular response\n|Verbal response\n|Motor response\n|-\n|\n|\n|M6\n\nNormal on demand (single orders)\n|-\n|\n|V5\n\nCoherent, oriented discourse\n|M5\n\nLocalizes pain, moves away from pain (pushes arm away)\n|-\n|Y4\n\nSpontaneous eye opening\n|V4\n\nConfused answer (able to make sentences but incoherent or unsuited to the question)\n|M4\n\nNot oriented to pain (withdraws from stimulated side, fidgets)\n|-\n|Y3\n\nEye opening on demand\n|V3\n\nInappropriate response (able to say words, inappropriate, incoherent)\n|M3\n\nStereotyped flexion (formerly decortication)\n|-\n|Y2\n\nOpening your eyes to pain\n|V2\n\nIncomprehensible response (makes sounds, noises, grunts)\n|M2\n\nStereotyped extension (formerly decerebration, coiling)\n|-\n|Y1\n\nFailure to open eyes to pain\n|V1\n\nNo response, not even to pain\n|M1\n\nNone to pain\n|}",
+  "question": {
+    "question": "What is the next step in assessing a patient with a non-traumatic coma in adults and children?",
+    "option_a": "Assess for central pulse and treat as cardiorespiratory arrest if absent",
+    "option_b": "Perform a Pierre Marie and Foix manoeuvre to assess depth of coma",
+    "option_c": "Administer pain medication to the patient",
+    "option_d": "Check for trauma and treat as traumatic coma if present"
+  }
+}

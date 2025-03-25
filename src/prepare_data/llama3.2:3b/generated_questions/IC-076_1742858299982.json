@@ -1,0 +1,45 @@
+{
+  "folder": "IC-076",
+  "content": "{{knowledge objective\n|Identifiant=OIC-076-16-A\n|Item_parent=Alcohol dependence\n|Item_parent_short=Alcohol dependence\n|Rank=A\n|Title=Knowing the principles of motivational interviewing\n|Description=Send item 1\n|Rubric=Management\n|Contributors=\n|Order=16}}\n[Motivational interviewing (see item 1) is an essential tool in addictology.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a key principle of motivational interviewing?",
+        "description": "Motivational interviewing is a technique used in addictions treatment.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Avoidance",
+        "description": "The goal of motivational interviewing is to avoid the patient's triggers and emotions.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Empathy",
+        "description": "Empathy is a key component of motivational interviewing, as it helps build rapport with the patient.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Confrontation",
+        "description": "Motivational interviewing involves directly confronting the patient about their addiction.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Avoiding ambivalence",
+        "description": "The primary goal of motivational interviewing is to eliminate ambivalence in the patient.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "B"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

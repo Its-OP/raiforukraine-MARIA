@@ -1,0 +1,12 @@
+{
+  "folder": "IC-235",
+  "content": "{{knowledge objective\n|Identifiant=OIC-235-05-B\n|Item_parent=Acute pericarditis\n|Item_parent_short=Acute pericarditis\n|Rank=B\n|Title=Knowing the diagnostic value of a pericardial puncture\n|Description=Etiological diagnosis of pericardial effusion (infectious pericarditis, heart failure, tumour).\n|Rubric=Additional examinations\n|Contributors=Jennifer Cautela\n|Order=5}}\n\n\n* Percutaneous or surgical pericardial drainage:\n** indicated urgently in the event of tamponade or to be discussed in the event of haemodynamic repercussions on echo with blood pressure preserved :\n** sometimes also indicated in cases of chronic abundant effusion with no obvious aetiology\n** percutaneous or pericardiocentesis, preferable if the patient is unstable, using an ultrasound-guided needle puncture under the sternum\n** surgical, to be preferred if purulent effusion is suspected (a larger bore drain can be used)\n** In all cases, ''analysis of drained fluid'': bacteriological, virological, cytological >>> contributes to the aetiological assessment.",
+  "question": {
+    "question": "What is the preferred treatment for pericardial effusion?",
+    "option_a": "Percutaneous or surgical pericardial drainage",
+    "option_b": "Cauterization",
+    "option_c": "Surgical pericardiocentesis",
+    "option_d": "Intravenous fluid therapy",
+    "correct_option": "option_a"
+  }
+}

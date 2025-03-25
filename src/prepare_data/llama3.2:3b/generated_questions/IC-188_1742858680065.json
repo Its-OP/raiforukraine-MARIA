@@ -1,0 +1,46 @@
+{
+  "folder": "IC-188",
+  "content": "{{knowledge objective\n|Identifiant=OIC-188-08-A\n|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Rank=A\n|Title=Knowing how to assess asthma control\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=8}}\nAsthma is controlled if :\n\no asthma symptoms are under control (assessed by questioning over the last 4 weeks using the ACT (asthma control test) questionnaire)\n\no exacerbations are rare: < 2 courses of systemic corticosteroid therapy in the previous year\n\no no bronchial obstruction: FEV1/FVC > 0.7 and FEV1 \u2265 80%.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What does asthma control indicate?",
+        "description": "Asthma control is determined by what?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Asthma symptoms are well-managed",
+        "description": "Asthma symptoms are under control",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Exacerbations are frequent",
+        "description": "Exacerbations occur at least once a month",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "FEV1/FVC ratio is less than 0.7",
+        "description": "FEV1/FVC ratio is less than 0.7",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Systemic corticosteroid therapy is used frequently",
+        "description": "Systemic corticosteroid therapy is used at least once a month",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

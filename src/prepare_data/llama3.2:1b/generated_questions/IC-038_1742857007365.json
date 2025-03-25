@@ -1,0 +1,14 @@
+{
+  "folder": "IC-038",
+  "content": "{{knowledge objective\n|Identifiant=OIC-038-02-A\n|Item_parent=Infertility of the couple: conduct of the first consultation\n|Item_parent_short=Infertility of the couple: conduct of the first consultation\n|Rank=A\n|Title=Knowing the definition of an infertile couple\n|Description=None\n|Rubric=Definition\n|Contributors=Geoffroy Robin,Charlotte Sonigo,Pierre-Emmanuel Bouet,Patricia Fauque,Fabrice Gu\u00e9rif\n|Order=2}}\n'''Infertility''' is the biological inability to conceive. It is a [[Difficulty in procreating SD-033|difficulty in procreating]] which is defined by the World Health Organisation (WHO) as the inability to achieve a clinical pregnancy after 12 months or more of unprotected sexual intercourse.\n\nInfertility\" refers to the total impossibility of spontaneously conceiving a pregnancy (bilateral tubal obstruction, premature ovarian failure, anejaculation, azoospermia, etc.).",
+  "question": {
+    "properties": {
+      "question": "What is the definition of infertility?",
+      "option_a": "The inability to conceive a pregnancy after 12 months of unprotected sexual intercourse",
+      "option_b": "A condition where a man or woman cannot get pregnant after 6 months of trying",
+      "option_c": "A condition where a couple cannot conceive a child",
+      "option_d": "A condition where a woman is unable to get pregnant",
+      "correct_option": "The inability to conceive a pregnancy after 12 months of unprotected sexual intercourse"
+    }
+  }
+}

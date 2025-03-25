@@ -1,0 +1,46 @@
+{
+  "folder": "IC-050",
+  "content": "{{knowledge objective\n|Identifiant=OIC-050-10-A\n|Item_parent=Genito-scrotal pathology in boys and men\n|Item_parent_short=Genito-scrotal pathology in boys and men\n|Rank=A\n|Title=Know how to diagnose undescended testis\n|Description=None\n|Topic=Positive diagnosis\n|Contributors=C\u00e9dric Leb\u00e2cle,Alice Faure\n|Order=10}}\n\n*Cryptorchidism is the consequence of a halt in the embryological migration of the testicle along the normal path between the lumbar region (where it is formed) and the scrotum (where it should be at birth).\n*The incidence is higher in premature newborns.\n*The anomaly is most often unilateral. It is bilateral in 10 to 20% of cases.\n*On clinical examination, it is impossible to palpate the testicle in the bursa. The hernial orifices are closed.\n*Three topographical diagnoses are possible:\n**An undescended testicle which can be palpated on the normal migration path: the gonad is in the inguinal canal or at the upper root of the bursa.\n**An undescended testicle that can be palpated outside its normal migratory route: formerly known as \"true ectopia\", the testicle may be in a femoral, pubopenic or crossed intrascrotal position.\n**An undescended testicle that cannot be palpated.\n*If, on clinical examination, the testicle is easily lowered by hand to the bottom of the bursa without tension, this is an oscillating testicle (\"lift\") and not cryptorchidism.\n\n\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the characteristic of an undescended testicle that makes it different from an oscillating testicle?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "The testicle can be palpated on the normal migration path",
+        "description": "A possible characteristic of an undescended testicle",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "The testicle can be easily lowered by hand to the bottom of the bursa without tension",
+        "description": "A characteristic of an oscillating testicle",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "The testicle is always bilateral",
+        "description": "A possible characteristic of undescended testicles",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "The testicle can be palpated outside its normal migratory route",
+        "description": "A possible characteristic of an undescended testicle",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "The testicle cannot be palpated",
+        "description": "The characteristic that distinguishes an undescended testicle from an oscillating testicle",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

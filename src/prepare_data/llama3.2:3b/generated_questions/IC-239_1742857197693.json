@@ -1,0 +1,32 @@
+{
+  "folder": "IC-239",
+  "content": "{{knowledge objective\n|Identifiant=OIC-239-01-A\n|Item_parent=Acrosyndromes (Raynaud's phenomenon, erythermalgia, acrocyanosis, frostbite, digital ischaemia)\n|Item_parent_short=Acrosyndromes (Raynaud's phenomenon, erythermalgia, acrocyanosis, frostbite, digital ischaemia)\n|Rank=A\n|Title=Know the definition of Raynaud's phenomenon, acrocyanosis, erythermalgia, digital ischaemia and frostbite.\n|Description=None\n|Rubric=Definition\n|Contributors= Sophie Blaise, Luc Bressollette, Claire Le Hello\n|Order=1}}\n\nRaynaud's phenomenon (RP): paroxysmal vascular acrosyndrome with vasoconstriction, triggered by exposure to cold.\n\nErythermalgia: paroxysmal vascular acrosyndrome with vasodilatation, triggered by heat, exercise or orthostatism.\n\nAcrocyanosis: permanent vascular acrosyndrome with a pronounced cold, cyanotic appearance of the extremities.\n\nFrostbite: trophic acrosyndrome in the toes, more rarely in the fingers.\n\nDigital ischaemia: ischaemia localised to the fingers or toes.",
+  "question": {
+    "question": {
+      "title": "What is a key characteristic of Raynaud's phenomenon, acrocyanosis, erythermalgia, digital ischaemia, and frostbite?",
+      "description": "These conditions are all types of acrosyndromes, but they differ in their trigger and physiological response.",
+      "type": "string"
+    },
+    "option_a": {
+      "title": "They are all caused by poor circulation",
+      "description": "This is a common misconception about these conditions, but it is not entirely accurate.",
+      "type": "string"
+    },
+    "option_b": {
+      "title": "They are all characterized by vasoconstriction and vasodilation",
+      "description": "This option is partially correct, but it oversimplifies the complex physiological responses of these conditions.",
+      "type": "string"
+    },
+    "option_c": {
+      "title": "They are all permanent conditions with no cure",
+      "description": "This option is incorrect, as some of these conditions can be managed with treatment and lifestyle changes.",
+      "type": "string"
+    },
+    "option_d": {
+      "title": "They are all triggered by exposure to cold",
+      "description": "This option is correct, as Raynaud's phenomenon, acrocyanosis, and frostbite are all triggered by cold exposure.",
+      "type": "string"
+    },
+    "correct_option": "d"
+  }
+}

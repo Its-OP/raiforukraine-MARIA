@@ -1,0 +1,12 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-19-A\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=A\n|Title=Knowing how to screen for human papillomavirus (HPV) infections\n|Description=Prevention\n|Heading=Management\n|Contributors=\n|Order=19}}\nThe diagnosis of condyloma is a clinical diagnosis\n\n\n- In men, if urethral involvement: +/- urethroscopy,\n\n- In women: perform an FCV or HPV-HR test +/- colposcopy-biopsy\n\n- In the event of anal involvement: full proctological examination",
+  "question": {
+    "question": "What is the recommended diagnostic approach for human papillomavirus (HPV) infections?",
+    "option_a": "Perform a blood test to detect HPV antibodies",
+    "option_b": "Conduct a full proctological examination in all patients with suspected HPV infection",
+    "option_c": "Perform an FCV or HPV-HR test +/- colposcopy-biopsy in women and +/- urethroscopy in men",
+    "option_d": "Use a visual inspection of the genital area as the primary diagnostic method",
+    "correct_option": "C"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-101",
+  "content": "{{knowledge objective\n|Identifiant=OIC-101-09-B\n|Item_parent=Facial paralysis\n|Item_parent_short=Facial paralysis\n|Rank=B\n|Title=Photograph/video of post-paralytic facial hemispasm\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=9}}\nPlease refer to the CEN website: www.cen-neurologie.fr where videos are available.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a post-paralytic facial hemispasm?",
+        "description": "A type of facial paralysis that occurs after a stroke or other neurological event",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "A type of facial spasm that occurs after a head injury",
+        "description": "A condition characterized by a sudden, involuntary contraction of facial muscles",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "A type of facial paralysis that is permanent",
+        "description": "A condition that affects the facial nerve, causing weakness or paralysis of the face",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "A type of facial paralysis that is caused by a viral infection",
+        "description": "A condition that affects the nerve cells in the brain, causing weakness or paralysis of the face",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "A type of facial paralysis that is reversible with treatment",
+        "description": "A condition that affects the facial nerve, causing weakness or paralysis of the face, but can be cured with medication or surgery",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The first letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-342",
+  "content": "{{knowledge objective\n|Identifiant=OIC-342-15-A\n|Item_parent=Sickness, loss of consciousness, coma in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=A\n|Title=Know the emergency procedures to be carried out in the presence of a generalised convulsive seizure.\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=15}}\n\n{| class=\"wikitable\"\n|cf item 105\n|}",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the first step to take when a person is having a generalized convulsive seizure?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Call for emergency medical services (EMS) immediately.",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Try to remain calm and still.",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Stay with the person and try to keep them calm.",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Call for a friend or family member to help.",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Option A",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

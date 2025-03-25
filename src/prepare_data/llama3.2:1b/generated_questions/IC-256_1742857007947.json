@@ -1,0 +1,18 @@
+{
+  "folder": "IC-256",
+  "content": "{{knowledge objective\n|Identifiant=OIC-256-04-B\n|Item_parent=Sport skills in adults and children; nutritional requirements of athletes (see item 80)\n|Item_parent_short=Sport skills in adults and children; nutritional requirements of athletes (see item 80)\n|Rank=B\n|Title=Know how to carry out a medical examination to ensure that a child has no contraindications to practising sport.\n|Description=None\n|Rubric=Support\n|Contributors=\n|Order=4}}\nThe consultation for the issue of a medical certificate stating that a minor has no contraindications to practising sport is generally conducted in the same way as for an adult patient ([[Knowing how to conduct a medical examination stating that an adult has no contraindications to practising sport 2C-256-PC-B01|previous title]]).\n\nThe particularities compared to adult athletes are :\n\n- During the clinical examination, particular attention is paid to spinal statics in order to detect any growth disorders.\n\n- The need to assess the overall amount of physical activity children do each week, taking into account all types of activity (school sport, school sports associations, sports clubs). Children who practise intensively (>6 hours/week before the age of 10 or more than 10 hours/week after the age of 10) have a higher risk of developing sports-related pathologies ([[Knowing the main pathologies linked to sport in children 2C-256-ET-B01|next title]]).\n\n- When the child practices intensively, the need to assess :\n\n*the impact of the sport on living conditions and learning at school (distance and travel time between training, home and school)\n\n*his average sleep time\n\n*the quality of the child's diet ([[Nutritional requirements of sports children 2C-256-PC-B04|following heading]]) and any dietary supplements used\n\n\nFinally, as in the case of adults, this consultation should be seen as a preventive consultation, with an update on growth curves, puberty and vaccinations.",
+  "question": {
+    "question": "What is a common aspect of a medical examination for a child with no contraindications to participating in sport?",
+    "options": [
+      "The child's height and weight",
+      "The child's overall activity level and participation in sports",
+      "The child's diet and any supplements used",
+      "The child's sleep patterns and distance to school"
+    ],
+    "correct_option": "A",
+    "required": [
+      "question",
+      "option_a"
+    ]
+  }
+}

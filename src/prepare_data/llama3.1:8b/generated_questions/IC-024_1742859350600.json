@@ -1,0 +1,12 @@
+{
+  "folder": "IC-024",
+  "content": "{{knowledge objective\n|Identifiant=OIC-024-09-B\n|Item_parent=Main complications of pregnancy.\n|Item_parent_short=Main complications of pregnancy.\n|Rank=B\n|Title=Knowing the frequency of hypertension\n|Description=None\n|Rubric=Epidemiology\n|Contributors=Paul Berveiller,Philippe Deruelle\n|Order=9}}\n\nHigh blood pressure during pregnancy affects 5-10% of pregnancies, and of these, 10% will develop pre-eclampsia.",
+  "question": {
+    "question": "What percentage of pregnancies are affected by high blood pressure?",
+    "option_a": "1-2%",
+    "option_b": "5-10%",
+    "option_c": "20-30%",
+    "option_d": "40-50%",
+    "correct_option": "B"
+  }
+}

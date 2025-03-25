@@ -1,0 +1,12 @@
+{
+  "folder": "IC-265",
+  "content": "{{knowledge objective\n|Identifiant=OIC-265-09-B\n|Item_parent=Urinary lithiasis\n|Item_parent_short=Urinary lithiasis\n|Rank=B\n|Title=Knowing other clinical aspects of urinary calculi\n|Description=Hematuria, renal failure, infection, incidental\n|Rubric=Positive diagnosis\n|Contributors=Romain Boissier\n|Order=9}}\n\nThe symptoms associated with a urinary calculus, other than renal colic, are :\n\n*none: asymptomatic stone discovered by chance\n*[[Haematuria|haematuria 260]], rather of effort. macroscopic or microscopic\n*[[Urinary infections of children and adults|urinary infections 161]] (pyelonephritis)\n*[[Chronic renal insufficiency in adults and children|renal insufficiency 264]] (chronic obstruction and coralliform stones)",
+  "question": {
+    "question": "The symptoms associated with a urinary calculus, other than renal colic, are:",
+    "option_a": "Only urinary infections (pyelonephritis)",
+    "option_b": "Only chronic renal insufficiency (chronic obstruction and coralliform stones)",
+    "option_c": "Only haematuria (macroscopic or microscopic)",
+    "option_d": "All of the above (haematuria, urinary infections, and chronic renal insufficiency)",
+    "correct_option": "D"
+  }
+}

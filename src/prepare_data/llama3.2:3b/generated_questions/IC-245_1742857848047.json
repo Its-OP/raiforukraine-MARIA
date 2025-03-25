@@ -1,0 +1,34 @@
+{
+  "folder": "IC-245",
+  "content": "{{knowledge objective\n|Identifiant=OIC-245-19-B\n|Item_parent=Adrenal insufficiency in adults and children\n|Item_parent_short=Adrenal insufficiency in adults and children\n|Rank=B\n|Title=Knowing that acute adrenal insufficiency can be a sign of the disease\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Claire Briet,St\u00e9phanie Espiard\n|Order=19}}\nAcute adrenal insufficiency can be a sign of the disease, in particular:\n\n*In the neonatal period: complete adrenal enzyme block (21-hydroxylase +++).\n*In adulthood\n**Addison's disease\n**bilateral adrenal haemorrhage\n**pituitary apoplexy.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Acute adrenal insufficiency can be a sign of the disease, in particular:",
+        "description": "What is a possible cause of acute adrenal insufficiency in adulthood?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Addison's disease",
+        "description": "A condition characterized by the destruction of the adrenal glands",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Chronic adrenal insufficiency",
+        "description": "A condition where the adrenal glands do not produce enough hormones over time",
+        "type": "string"
+      },
+      "option_c": "Pituitary apoplexy",
+      "option_d": "Bilateral adrenal hyperplasia",
+      "correct_option": "A"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

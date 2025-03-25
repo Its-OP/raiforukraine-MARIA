@@ -1,0 +1,38 @@
+{
+  "folder": "IC-226",
+  "content": "{{knowledge objective\n|Identifiant=OIC-226-01-A\n|Item_parent=Deep vein thrombosis and pulmonary embolism (see item 330)\n|Item_parent_short=Deep vein thrombosis and pulmonary embolism (see item 330)\n|Rank=A\n|Title=Know the definition of deep vein thrombosis (DVT), proximal DVT, distal DVT, pulmonary embolism (PE) and high-risk PE.\n|Description=None\n|Section=Definition\n|Contributors=Gilles Pernod, Virginie Dufrost, Guillaume Mah\u00e9\n|Order=1}}\nDeep vein thrombosis (DVT) and pulmonary embolism (PE) are the two main entities of venous thromboembolic disease (VTE).\n\nDeep vein thrombosis\n\nThis is a partial or total venous obstruction caused by an endoluminal thrombus, which may be located throughout the venous tree, most often in the lower limbs.\n\nIn the lower limbs, DVT is :\n\n- or ''proximal'' (popliteal and suprapopliteal),\n\n- or \"distal\", i.e. sub-popliteal, involving the collecting trunks (posterior tibial, anterior tibial, fibular) or muscle veins (soleus, gastrocnemius).\n\n'''Pulmonary embolism'''\n\nPE occurs when a venous thrombus migrates into the pulmonary arteries.\n\n'''High-risk PE (severe PE):''''\n\n- PE associated with haemodynamic failure (systolic blood pressure (SBP) < 90 mmHg or drop in SBP \u2265 40 mmHg for more than 15 minutes), in the absence of another cause such as sepsis, arrhythmia or hypovolaemia.\n\n- mortality > 25%\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What type of thrombosis occurs when a venous thrombus migrates into the pulmonary arteries?",
+        "description": "The type of thrombosis that occurs when a venous thrombus migrates into the pulmonary arteries",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Proximal DVT",
+        "description": "A type of DVT that occurs in the lower limbs",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Distal DVT",
+        "description": "A type of DVT that occurs in the upper limbs",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "High-risk PE",
+        "description": "A type of PE that is associated with haemodynamic failure",
+        "type": "string"
+      },
+      "option_d": "PE",
+      "correct_option": "d"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

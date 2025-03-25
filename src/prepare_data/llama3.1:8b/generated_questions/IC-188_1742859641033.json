@@ -1,0 +1,12 @@
+{
+  "folder": "IC-188",
+  "content": "{{knowledge objective\n|Identifiant=OIC-188-16-A\n|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Rank=A\n|Title=Knowing the therapeutic principles of allergic rhinitis\n|Description=To understand the role of anti-histamines and corticosteroids in allergic rhinitis.\n|Rubric=Management\n|Contributors=\n|Order=16}}\n\n\n* Avoidance of the allergen\n* Nasal cleansing with saline solution\n* Medication (alone or in combination, depending on severity):\nOral and/or topical anti-histamines ** Rhinocorticoids\n** Rhinocorticoids",
+  "question": {
+    "question": "What is a common therapeutic approach for allergic rhinitis?",
+    "option_a": "Avoiding the allergen is the only treatment",
+    "option_b": "Nasal cleansing with saline solution is the primary treatment",
+    "option_c": "Medication, such as oral and/or topical anti-histamines and rhinocorticoids, is used to manage symptoms",
+    "option_d": "Surgery is the primary treatment for allergic rhinitis",
+    "correct_option": "C"
+  }
+}

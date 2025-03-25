@@ -1,0 +1,46 @@
+{
+  "folder": "IC-263",
+  "content": "{{knowledge objective\n|Identifiant=OIC-263-08-B\n|Item_parent=Vascular nephropathy\n|Item_parent_short=Vascular nephropathy\n|Rank=B\n|Title=Diagnosis of renal artery stenosis\n|Angio-CT/MRI: number of renal arteries, location of stenoses, morphological study of the kidneys and the aorta (state of the wall) and the iliac axes;\n|Rubric=Positive diagnosis\n|Contributors=Jean-Jacques Boffa\n|Order=8}}\n\nDiagnostic tests\n{| class=\"wikitable\"\n|'''Examination'''\n|'''Interest'''\n|Limitations\n|-\n|'''Renal ultrasound''''\n|Kidney size asymmetry\n|\n|-\n|Renal Artery Doppler\n|Easily available.\n\nGood sensitivity.\n\nFlow analysis (degree of stenosis).\n\nMeasurement of resistance indexes (predictive of response to treatment).\n|Obese subjects.\n\nRadiologist's experience.\n|-\n|'''Spiral computed tomography''''\n|Direct visualisation of the renal arteries (trunk + dividing branches).\n\nDemonstration of calcifications.\n\nGood definition\n|Large quantities of iodinated contrast products (renal toxicity).\n\nIrradiation.\n|-\n|'''Angio-MRI''''\n|Direct visualisation of the renal arteries.\n\nNo renal toxicity (gadolinium).\n|More restricted access.\n\nOverestimation of lesions.\n|-\n|Renal arteriography\n|Reference examination.\n\nDiagnostic and therapeutic interest.\n|Iodine injection (renal toxicity).\n\nCholesterol crystal emboli.\n|}\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a limitation of Spiral Computed Tomography (CT) for diagnosing renal artery stenosis?",
+        "description": "Which of the following is a limitation of Spiral Computed Tomography (CT) for diagnosing renal artery stenosis?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Radiologist's experience",
+        "description": "The level of expertise required to interpret the images",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Large quantities of iodinated contrast products (renal toxicity)",
+        "description": "The risk of kidney damage due to the contrast agent",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Irradiation",
+        "description": "The risk of radiation exposure to the patient",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Overestimation of lesions",
+        "description": "The risk of misdiagnosing the extent of the stenosis",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Large quantities of iodinated contrast products (renal toxicity)",
+        "description": "The risk of kidney damage due to the contrast agent",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

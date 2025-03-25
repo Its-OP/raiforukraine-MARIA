@@ -1,0 +1,46 @@
+{
+  "folder": "IC-112",
+  "content": "{{knowledge objective\n|Identifiant=OIC-112-05-B\n|Item_parent=Bullous dermatosis of the skin and/or external mucous membranes\n|Item_parent_short=Bullous dermatosis affecting the skin and/or external mucous membranes\n|Rank=B\n|Title=Knowing other aetiologies of bullous diseases\n|Description=Toxidermia bullosa, erythema multiforme bullosa, thermal origin, caustic origin, phytophotodermatosis, sunburn, insect bite, vasculitis\n|Rubric=Etiologies\n|Contributors=\n|Order=5}}\nOther etiologies of bullous diseases are as follows:\n\n- bullous toxidermia (Lyell's syndrome, see item 115)\n\n- erythema multiforme bullosa (see item 115)\n\n- Thermal bubbles (the appearance of bubbles after exposure to cold, a heat source or rubbing)\n\n- Caustic bubbles (the appearance of bubbles after exposure to a chemical substance)\n\n- phytophotodermatosis (appearance of bullous lesions on contact areas)\n\n- sunburn (appearance of an erythema in the hours following exposure to the sun, followed by the formation of bubbles)\n\n- insect bites (appearance of blisters in the centre of lesions that are often purplish, particularly on the lower limbs)\n\n- vasculitis (see item 193)",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What are some common causes of bullous diseases?",
+        "description": "Select the correct option",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Toxidermia bullosa, erythema multiforme bullosa, thermal origin, caustic origin, phytophotodermatosis, sunburn, insect bite, vasculitis",
+        "description": "Other etiologies of bullous diseases",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Thermal origin, caustic origin, phytophotodermatosis, sunburn, insect bites, vasculitis, Lyell's syndrome",
+        "description": "Other etiologies of bullous diseases",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Toxidermia bullosa, thermal origin, caustic origin, phytophotodermatosis, sunburn, insect bites, Lyell's syndrome",
+        "description": "Other etiologies of bullous diseases",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Thermal origin, caustic origin, phytophotodermatosis, sunburn, insect bites, vasculitis, erythema multiforme bullosa",
+        "description": "Other etiologies of bullous diseases",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

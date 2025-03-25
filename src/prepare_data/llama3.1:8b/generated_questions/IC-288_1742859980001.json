@@ -1,0 +1,12 @@
+{
+  "folder": "IC-288",
+  "content": "{{knowledge objective\n|Identifiant=OIC-288-17-B\n|Item_parent=Hemorrhoidal pathology\n|Item_parent_short=Hemorrhoidal pathology\n|Rank=B\n|Title=Knowing the spontaneous evolution of external haemorrhoidal thrombosis\n|Description=\n|Topic=Follow-up and/or prognosis\n|Contributors=\n|Order=17}}\n\nExternal haemorrhoidal thrombosis is a benign, uncomplicated condition.  The clot(s) that form(s) in the vascular structures of the external haemorrhoidal plexus are sometimes accompanied by an oedematous reaction. Resorption is fairly slow (several days) and may leave a raised scar known as a mariscus. Sometimes the inflammatory reaction can lead to ulceration at the top of the thrombosis and chronic bleeding due to partial mobilisation of the clot. Secondary suppurative complications are exceptional. However, recurrences are possible, even in the same site.",
+  "question": {
+    "question": "What is the typical outcome of external haemorrhoidal thrombosis?",
+    "option_a": "The condition always resolves without any complications or scarring.",
+    "option_b": "The clot is quickly resorbed and does not leave any noticeable scar.",
+    "option_c": "The inflammatory reaction can lead to ulceration and chronic bleeding, but recurrences are rare.",
+    "option_d": "The condition often leads to secondary suppurative complications.",
+    "correct_option": "C"
+  }
+}

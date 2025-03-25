@@ -1,0 +1,12 @@
+{
+  "folder": "IC-161",
+  "content": "{{knowledge objective\n|Identifiant=OIC-161-10-A\n|Item_parent=Urinary infections in children and adults\n|Item_parent_short=Urinary infections in children and adults\n|Rank=A\n|Title=Knowing the treatment of simple acute cystitis including follow-up and prevention of recurrences\n|Description=None\n|Rubric=Management\n|Contributors=Maxime Vall\u00e9e, Alice Faure\n|Order=10}}\n\n\n\n\u25cf The natural course of simple cystitis is spontaneous recovery in more than 50% of cases within 1 month.\n\n\u25cf Antibiotic therapy achieves clinical cure rates of between 58% and 90%, depending on the series, at 1 month.\n\n\u25cf It is therefore easy to understand the importance of antibiotic therapy in reducing the duration of symptoms and improving patient comfort as quickly as possible. The risk of progression to ANP is exceptional.\n\n==The current recommendations for antibiotic treatment are (molecules in order of prescription preference):==\n\n*Bosfomycin-Trometamol single dose\n*Pivmecillinam\n*If the 2 previous molecules are not possible: ECBU to guide choice of treatment\n\n\n\u25cf '''<u>Fluoroquinolones are in all cases to be banned in this indication and should never be used to treat cystitis</u>''''\n\n\u25cf Cure is usually obtained within 72 hours. In the event of clinical failure, an ECBU should be carried out (to look for bacteria resistant to the antibiotic used) or the diagnosis should be questioned.\n\n\u25cf The preventive measures to be proposed are those for recurrent cystitis (see dedicated section)",
+  "question": {
+    "question": "What is the recommended treatment for simple acute cystitis?",
+    "option_a": "Fluoroquinolones are the first-line treatment",
+    "option_b": "Bosfomycin-Trometamol single dose is the preferred initial treatment",
+    "option_c": "Pivmecillinam is the second-line treatment after Bosfomycin-Trometamol",
+    "option_d": "ECBU is the primary treatment for all cases of cystitis",
+    "correct_option": "B"
+  }
+}

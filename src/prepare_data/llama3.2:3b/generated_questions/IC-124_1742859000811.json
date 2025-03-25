@@ -1,0 +1,46 @@
+{
+  "folder": "IC-124",
+  "content": "{{knowledge objective\n|Identifiant=OIC-124-11-B\n|Item_parent=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)\n|Item_parent_short=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)\n|Rank=B\n|Title=Knowing the contraindications of HRT\n|Description=None\n|Heading=Management\n|Contributors=Florence Tr\u00e9mollieres,Anna Gosset\n|Order=11}}\n\n[[File:CI du THM.jpg|vignette|CI du THM]]\n'''Certain situations require the choice of the non-oral route of administration.'''\n\nThese are essentially certain metabolic conditions such as hypertriglyceridaemia or hypertension, or in women with venous thrombo-embolic risk factors.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "When is the non-oral route of administration of HRT required?",
+        "description": "These are essentially certain metabolic conditions such as hypertriglyceridaemia or hypertension, or in women with venous thrombo-embolic risk factors.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "In women with a history of breast cancer",
+        "description": "A plausible option, but not the correct answer",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "In women with hypertriglyceridaemia or hypertension",
+        "description": "A correct option",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "In women with a family history of breast cancer",
+        "description": "A plausible option, but not the correct answer",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "In women with a history of blood clots",
+        "description": "A plausible option, but not the correct answer",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The correct letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

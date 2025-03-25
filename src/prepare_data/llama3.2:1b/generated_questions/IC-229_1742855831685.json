@@ -1,0 +1,12 @@
+{
+  "folder": "IC-229",
+  "content": "{{knowledge objective\n|Identifiant=OIC-229-07-B\n|Item_parent=Venous access monitoring and complications\n|Item_parent_short=Venous access monitoring and complications\n|Rank=B\n|Title=To know the principles of treatment of the most frequent complications of venous lines\n|Description=Treatment of venous line infection and thrombosis\n|Rubric=Management\n|Contributors= Philippe Lacroix, Simon Rickenbach\n|Order=7}}\n\nInfectious complications\n\nIf there are any signs of infection, the equipment should be removed. The catheter is cultured.\n\nIf there are general signs, blood cultures are taken ('''[[Positive blood culture SD-190|positive blood culture]]'''').\n\nThe decision to introduce antibiotic therapy depends on whether the symptoms are local or general ('''[[Prescribe an anti-infective SD-255|prescribe an anti-infective]]'''):\n\n- in the event of fever, general signs of sepsis or even septic shock, antibiotic therapy is initiated\n\n- antibiotic therapy targets staphylococci aureus and epidermidis.\n\n- it is extended to Gram bacilli - in cases of immunodepression, neutropenia or other risk factors\n\nThrombotic complications\n\nIn the event of central venous thrombosis, the catheter may be left in place if it is functional, with prescription of curative anticoagulation adapted to the context.",
+  "question": {
+    "question": "What is the general principle for deciding whether to prescribe antibiotic therapy for venous line infection and thrombosis?",
+    "option_a": "The catheter is cultured.",
+    "option_b": "If there are general signs, blood cultures are taken.",
+    "option_c": "In the event of fever, general signs of sepsis or even septic shock, antibiotic therapy is initiated.",
+    "option_d": "Thrombotic complications are treated with curative anticoagulation adapted to the context.",
+    "correct_option": "option_b"
+  }
+}

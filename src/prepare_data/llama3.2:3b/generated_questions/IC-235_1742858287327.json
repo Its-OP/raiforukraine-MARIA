@@ -1,0 +1,45 @@
+{
+  "folder": "IC-235",
+  "content": "{{knowledge objective\n|Identifiant=OIC-235-07-A\n|Item_parent=Acute pericarditis\n|Item_parent_short=Acute pericarditis\n|Rank=A\n|Title=Electrocardiogram (ECG) of acute pericarditis\n|Description=None\n|Rubric=Multimedia content\n|Contributors=Jennifer Cautela\n|Order=7}}\n\n[[File:Ecg typique.jpg|centr\u00e9|vignette|900x900px|Sus d\u00e9calage de ST, diffuse, non-systematis\u00e9, concave vers le haut, sans miroir ni onde Q ET sous d\u00e9calage PQ]]",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is typically seen on an electrocardiogram (ECG) of acute pericarditis?",
+        "description": "The ECG finding in acute pericarditis",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "ST elevation without reciprocal changes",
+        "description": "A common ECG finding in acute pericarditis",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "PR segment depression",
+        "description": "A common ECG finding in acute pericarditis",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Left axis deviation",
+        "description": "A common ECG finding in acute pericarditis",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Bundle branch block",
+        "description": "A common ECG finding in acute pericarditis",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct answer"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

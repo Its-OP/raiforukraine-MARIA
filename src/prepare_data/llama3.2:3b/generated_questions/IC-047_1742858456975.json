@@ -1,0 +1,41 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-28-A\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=A\n|Title=Scoliosis in children: knowing the clinical examination\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=28}}\nSpinal deformity in all 3 planes\n\n'''PAINLESS'''\n\nHighlighting of a '''GIBBOSITE'''",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a characteristic of a painless examination for scoliosis in children?",
+        "description": "A painless examination for scoliosis in children typically involves",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "A thorough medical history and physical examination",
+        "description": "This option involves taking a detailed medical history and performing a physical examination to assess the child's overall health and detect any potential abnormalities"
+      },
+      "option_b": {
+        "title": "A thorough medical history and imaging studies",
+        "description": "This option involves taking a detailed medical history and using imaging studies such as X-rays or CT scans to assess the child's spine for any abnormalities"
+      },
+      "option_c": {
+        "title": "A thorough medical history and palpation of the spine",
+        "description": "This option involves taking a detailed medical history and using palpation (feeling with the hands) to assess the child's spine for any abnormalities"
+      },
+      "option_d": {
+        "title": "A thorough medical history and radiography",
+        "description": "This option involves taking a detailed medical history and using radiography (e.g. X-rays) to assess the child's spine for any abnormalities"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct answer is A"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

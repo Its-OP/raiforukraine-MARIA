@@ -1,0 +1,12 @@
+{
+  "folder": "IC-353",
+  "content": "{{knowledge objective\n|Identifiant=OIC-353-11-B\n|Item_parent=Suicidal risk and behaviour in children, adolescents and adults: identification and management\n|Item_parent_short=Suicidal risk and behaviour in children, adolescents and adults: identification and management\n|Rank=B\n|Title=Acknowledging the specific features of older people\n|Description=Send item 70\n|Rubric=Management\n|Contributors=Pierre Vandel\n|Order=11}}\n\nCAT guided by the following elements:\n\n* Characteristic depressive episode to be sought systematically. Common in old age.\n* Systematic search for comorbid psychiatric disorders;\n* Think of physical pain and/or abuse in the event of any recent change in behaviour;\n* Systematic psychosocial assessment.\n\n\nIn the event of a proven suicidal crisis: research the means envisaged and available. '''Removal of access to the means.'''",
+  "question": {
+    "question": "What is the primary characteristic of a depressive episode in older adults?",
+    "option_a": "A characteristic of a depressive episode in older adults is a feeling of hopelessness.",
+    "option_b": "A characteristic of a depressive episode in older adults is a sense of guilt.",
+    "option_c": "A characteristic of a depressive episode in older adults is a feeling of anger.",
+    "option_d": "A characteristic of a depressive episode in older adults is a sense of despair.",
+    "correct_option": "option_a"
+  }
+}

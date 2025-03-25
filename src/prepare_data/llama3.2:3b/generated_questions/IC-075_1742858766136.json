@@ -1,0 +1,46 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-18-B\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=B\n|Title=Knowing the socio-professional categories (CSP) of smokers in France\n|Description=Knowing: smoking is a social marker\n|Rubric=Epidemiology\n|Contributors=\n|Order=18}}\n\n\n* Tobacco and social inequalities\n** Since 2000, daily smoking has fallen among the most disadvantaged smokers: from 38.8% in 2016 to 33.0% in 2018 (people on the lowest incomes), and from 49.7% to 40% (unemployed people).\n** tobacco is a powerful social marker: in 2018, the higher the income, the lower the prevalence of daily smoking.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the trend in daily smoking prevalence among the most disadvantaged smokers in France since 2000?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "The prevalence of daily smoking has increased among the most disadvantaged smokers",
+        "description": "This option is plausible but incorrect",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "The prevalence of daily smoking has remained stable among the most disadvantaged smokers",
+        "description": "This option is also plausible but incorrect",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "The prevalence of daily smoking has decreased among the most disadvantaged smokers",
+        "description": "This option is correct",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "The prevalence of daily smoking has increased among the most disadvantaged smokers, especially among unemployed people",
+        "description": "This option is plausible but incorrect, and it's a common misconception",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "C",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

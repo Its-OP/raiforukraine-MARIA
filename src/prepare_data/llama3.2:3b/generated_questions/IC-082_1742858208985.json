@@ -1,0 +1,46 @@
+{
+  "folder": "IC-082",
+  "content": "{{knowledge objective\n|Identifiant=OIC-082-03-A\n|Item_parent=Acute visual impairment\n|Item_parent_short=Acute visual impairment\n|Rank=A\n|Heading=Know how to interpret a direct and consensual photomotor reflex (see item 81)\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=3}}\nThe ''photomotor reflex (PMR)'' is the pupillary constriction that occurs when one eye is illuminated.\n\n'''- the afferent pathway''' of the RPM travels with the optic pathways: it begins at the retinal photoreceptors stimulated by light. The pupillomotor fibres travel along the optic nerves to the chiasma, where they undergo hemidecussation, and then along the optic bands to the external geniculate bodies. They do not follow the optic radiations but reach the two nuclei of the Ill.\n\n- The parasympathetic ''efferent'' pathway of the RPM follows the Ill pathway and ends at the sphincter of the iris.\n\nIn a normal subject, when one eye is illuminated, there is a reflex myosis on the same side: this is the direct RPM; but, because of the hemidecussation of the pupillomotor fibres at the chiasma, there is also myosis of the opposite eye via the contralateral Ill: this is the consensual RPM.\n\nSensory mydriasis secondary to severe visual impairment (e.g. occlusion of the central retinal artery, optic neuropathy):\n\n- when the affected eye is illuminated, the afferent pathway of the RPM is \"suppressed\" due to the drop in vision, the direct RPM is abolished, but so is the consensual RPM\n\n- with illumination of the other eye, conversely, the afferent pathway being normal in this eye and the efferent pathway being normal in both eyes, the RPM is preserved in both eyes\n\nParalytic mydriasis (mydriasis caused by Ill's paralysis):\n\n- with illumination of the affected eye, the afferent pathway of the RPM is preserved, so there is an abolition of the direct RPM (linked to paralysis of the iris sphincter) but the consensual RPM is preserved\n\n- conversely, when the other eye is illuminated, the direct RPM is preserved, but the consensual RPM (RPM of the affected eye) is abolished.\n\nA patient with a photomotor reflex disorder presents with ''Anisocoria'' (asymmetry of pupil size).\n\n*When anisocoria is more marked in the dark, the pathological eye is the one with the tightest pupil (myosis).\n*When anisocoria is more marked in the light, the pathological eye is the one with the largest pupil (mydriasis).",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "In a patient with photomotor reflex disorder presenting with anisocoria, what is the relationship between pupil size and lighting conditions?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "The pathological eye has the smallest pupil in the dark and the largest pupil in the light",
+        "description": "An incorrect option that could be plausible but is incorrect",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "The pathological eye has the tightest pupil in the dark and the largest pupil in the light",
+        "description": "A correct option that requires knowledge of the relationship between anisocoria and lighting conditions",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "The pathological eye has the largest pupil in the dark and the smallest pupil in the light",
+        "description": "An incorrect option that could be plausible but is incorrect",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "The pathological eye has the same pupil size in both dark and light",
+        "description": "An incorrect option that is unlikely but could be a common misconception",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

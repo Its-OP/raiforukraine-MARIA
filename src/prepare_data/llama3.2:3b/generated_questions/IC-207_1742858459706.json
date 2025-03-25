@@ -1,0 +1,46 @@
+{
+  "folder": "IC-207",
+  "content": "{{knowledge objective\n|Identifiant=OIC-207-04-A\n|Item_parent=Intra-thoracic masses and lumps in children and adults\n|Item_parent_short=Opacities and intra-thoracic masses in children and adults\n|Rank=A\n|Title=Know how to diagnose a gaseous pleural effusion in children and adults\n|Description=Diagnosing a pneumothorax\n|Rubric=Positive diagnosis\n|Contributors=Samia Boussouar,Mathieu Lederlin\n|Order=4}}\n\nThe diagnosis of pneumothorax is made on an inspiratory radiograph of the thorax in the upright position, and the mediastinal impact is clarified. Radiographic diagnosis is more difficult in a supine patient. Exhalation X-rays are not recommended as they may increase the size of the pneumothorax.\n\nPleural ultrasound is a non-invasive examination that can be performed in the patient's bed (lying or sitting). In trained hands, it may be more sensitive than radiography for detecting small NOPs.\n\nA chest CT scan is the most sensitive examination (a normal CT scan rules out the presence of a PNO) but is not essential for diagnosis. Its main indications are :\n\n* Chest X-ray difficult to interpret\n* Recurrence of spontaneous pneumothorax looking for apical bubbles or underlying lung disease.\n* Assessment for certain \"at risk\" professionals (divers, pilots)\n* Traumatic pneumothorax: look for other associated traumatic abnormalities.\n\nMRI and FDG PET-CT have no place in the assessment of ONP.\n\n\n'''Semiology:'''\n\nStanding chest x-ray\n\n* Crescent-shaped avascular apico-lateral lung hyperclarity, delimited inferiorly and medially by a thin oblique line corresponding to the visceral pleura (Figure 1)\n* Hydroaeric level if hydropneumothorax (Figure 2).\n<gallery widths=\"450\" heights=\"300\">\nFile:PNO1.JPG|'''Figure 1.''' Right pneumothorax. Lung hyperclarity (orange arrow) limited by the visceral pleural line (blue arrows).\nFile:PNO2.JPG|'''Figure 2.''' Right hydropneumothorax with hydro-aeric level clearly visible from the front and visible anteriorly in profile.\n</gallery>\n\n\nSigns of tension pneumothorax (Figure 3):\n\n* Mediastinal shift towards the opposite side\n* Lowering of the homolateral diaphragmatic dome\n* Expansion of the homolateral hemithorax\n* Enlargement of the intercostal spaces\n* Total pulmonary retraction with collapsed pulmonary opacity at the hilum (complete collapse of the lung)\n<gallery widths=\"300\" heights=\"300\">\nFile:PNO3.JPG|'''Figure 3.''' Left complete pneumothorax with retraction of the lung onto its hilum.\n</gallery>\n\n\nScanner\n\n* Air between the pleural layers\n* Aetiological investigation: underlying lung lesions (emphysema, cystic lung disease, mesothelioma...) (Figure 4)\n<gallery widths=\"400\" heights=\"300\">\nFile:PNO4.JPG|'''Figure 4.''' Left-predominant bilateral pneumothorax (white arrows) arising in a pathological lung.\n</gallery>",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "When diagnosing a pneumothorax, what is the best position for the patient to be in during the radiograph?",
+        "description": "The patient position for diagnosing a pneumothorax",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Supine position",
+        "description": "Diagnosing a pneumothorax in the supine position may be more challenging due to the mediastinal shift and other complications.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Inspiratory radiograph in the upright position",
+        "description": "The correct answer: diagnosing a pneumothorax is made on an inspiratory radiograph of the thorax in the upright position.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Exhalation X-rays",
+        "description": "Exhalation X-rays are not recommended as they may increase the size of the pneumothorax.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Lateral decubitus position",
+        "description": "Lateral decubitus position is not mentioned as a recommended position for diagnosing a pneumothorax.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct option letter",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

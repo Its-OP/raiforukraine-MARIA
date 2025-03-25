@@ -1,0 +1,12 @@
+{
+  "folder": "IC-242",
+  "content": "{{knowledge objective\n|Identifiant=OIC-242-04-A\n|Item_parent=Hyperthyroidism\n|Item_parent_short=Hyperthyroidism\n|Rank=A\n|Title=Knowing the clinical signs suggestive of an acute thyrotoxic crisis\n|Description=None\n|Rubric=Identification of the emergency\n|Contributors=Dr Camille Buffet,Dr Magalie Haissaguerre\n|Order=4}}\n\nIt is exceptional, occurring mainly after thyroidectomy in the absence of medical preparation. It is an exacerbation of the symptoms of hyperthyroidism, with fever, dehydration, cardiovascular and neuropsychological disorders that can be life-threatening.",
+  "question": {
+    "question": "What is an acute thyrotoxic crisis?",
+    "option_a": "A sudden onset of hyperthyroidism symptoms after thyroid surgery",
+    "option_b": "A severe exacerbation of hyperthyroidism symptoms, including fever, dehydration, cardiovascular and neuropsychological disorders",
+    "option_c": "A rare complication of hyperthyroidism treated with radioactive iodine",
+    "option_d": "A chronic condition caused by long-term exposure to excessive thyroid hormones",
+    "correct_option": "B"
+  }
+}

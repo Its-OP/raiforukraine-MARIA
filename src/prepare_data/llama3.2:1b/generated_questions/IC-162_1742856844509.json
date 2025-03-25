@@ -1,0 +1,12 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-05-A\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=A\n|Title=Knowing the causes of infectious and non-infectious genital ulcers\n|Description=None\n|Rubric=Etiologies\n|Contributors=\n|Order=5}}\nInfectious :\n\n- Syphilitic chance: single with clean, indurated background, variable location\n\n- Herpes: painful superficial ulcers with polycyclic outlines\n\n- Chancre mou: terrain (Africa, South America, Asia), single/multiple lesion(s), dirty background, pain (+++), inflammatory adenopathies\n\n- Donovanosis: in Africa, South America and Asia, mildly painful granulomatous lesions\n\n- Nicolas-Favre disease (or lymphogranulomatosis venereum): terrain (Africa, South America, Asia, homosexuals), anorectitis, anogenital ulcerations, misleading diarrhoea\n\n\nNon-infectious: traumatic, caustic, mechanical, bullous dermatitis, toxidermia, etc.",
+  "question": {
+    "question": "What are the typical characteristics of genital ulcers caused by syphilis?",
+    "option_a": "Syphilis is typically associated with single, clean, and indurated ulcers.",
+    "option_b": "Syphilis can cause painful, superficial ulcers with polycyclic outlines.",
+    "option_c": "Syphilis can cause painful, superficial ulcers with polycyclic outlines, and can also be associated with a dirty background.",
+    "option_d": "Syphilis can cause painful, superficial ulcers with polycyclic outlines, and can also be associated with inflammatory adenopathies.",
+    "correct_option": "option_a"
+  }
+}

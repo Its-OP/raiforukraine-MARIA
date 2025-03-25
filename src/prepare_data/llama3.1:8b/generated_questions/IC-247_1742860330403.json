@@ -1,0 +1,12 @@
+{
+  "folder": "IC-247",
+  "content": "{{knowledge objective\n|Identifiant=OIC-247-13-B\n|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Rank=B\n|Title=Know the different stages of diabetic neuropathy, their modes of presentation and their diagnostic criteria.\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=H BIHAN,C BRIET,E FEIGERLOVA,E LARGER,G PREVOST\n|Order=13}}\n\n{| class=\"wikitable\"\n|+\n!\nClinical presentation\nDiagnostic arguments\n|-\n| colspan=\"3\" |'''Sensorimotor neuropathy''''\n|-\n| Polyneuritis\n|Hypoesthesia, distal paresthesias, abolished ROT, sensory disorders (epicritic, thermoalgesic, diaspason, proprioception), arch deformity\n|Interview, DN4 questionnaire, abnormal monofilament test, EMG (if atypical).\n|-\n| Mononeuritis\n|Description of the painful pathway according to the nerve affected (n facial, crural, L2, L3, etc.).\n|Depending on the nerve: cerebral CT scan, EMG\n|-\n| Thoracic polyradiculopathy\n|Abdominal pain aggravated at night, weight loss, wall dehiscence\n|EMG (nerve root involvement T1 to T12)\n|-\n| colspan=\"3\" |'''Autonomic neuropathy''''\n|-\n| Cardiac (NAC)\n|Sinus tachycardia, permanent bradycardia (rare)\n|QT prolongation, variation in heart rate (M. Vasalva, tilt test), stress test\n|-\n| N Vasomotor\n|Orthostatic hypotension\n|fall > 20 mmHg SBP, > 10 DBP on change from lying to standing\n|-\n| Sweating dysregulation\n|Hypersudation\n|\n|-\n| - Gastrointestinal NA\n|Rapid satiety, vomiting, diarrhoea or alternating with constipation, faecal incontinence\n|FOGD (food bolus, bezoar), gastric emptying scan\n|-\n| Genitourinary NA\n|Bladder fullness perception defect, erectile dysfunction, retrograde ejaculation, anejaculation\n|Pelvic ultrasound (post-micturition residual), urodynamic assessment, urinary spermatozoa\n|}",
+  "question": {
+    "question": "What is a diagnostic criterion for autonomic neuropathy, specifically gastrointestinal autonomic neuropathy?",
+    "option_a": "QT prolongation, variation in heart rate (M. Vasalva, tilt test), stress test",
+    "option_b": "Fall > 20 mmHg SBP, > 10 DBP on change from lying to standing",
+    "option_c": "Hypersudation",
+    "option_d": "FOGD (food bolus, bezoar), gastric emptying scan",
+    "correct_option": "D"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-223",
+  "content": "{{knowledge objective\n|Identifiant=OIC-223-07-A\n|Item_parent=Dyslipidemia\n|Item_parent_short=Dyslipidemia\n|Rank=A\n|Title=Knowing the main causes of secondary hyperlipidemia\n|Description=Endocrinopathies, kidney disease, liver damage, drugs\n|Rubric=Etiologies\n|Contributors=Laurence Duvillard, Bruno Verg\u00e8s, Benjamin Bouillet, Laurence Amar, Christian Boissier, Tristan Mirault, Claire Le Hello\n|Order=7}}\nMain causes of secondary hyperlipidaemia :\n\n* Endocrinopathies: hypothyroidism, hypercorticism\n* Renal diseases: nephrotic syndrome, glomerulopathy\n* Cholestasis\n* Medications: corticoids, oestroprogestogens, retinoids, antiretrovirals, neuroleptics, mTOR inhibitors, etc.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a main cause of secondary hyperlipidaemia?",
+        "description": "Choose the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Kidney disease",
+        "description": "A type of renal disease that can cause hyperlipidaemia",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Liver damage",
+        "description": "A condition that can lead to cholestasis and hyperlipidaemia",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Hypothyroidism",
+        "description": "A condition that can cause hyperlipidaemia due to metabolic changes",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Nephrotic syndrome",
+        "description": "A type of kidney disease that can cause hyperlipidaemia",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct letter of the answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

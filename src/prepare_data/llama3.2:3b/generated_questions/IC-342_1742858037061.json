@@ -1,0 +1,46 @@
+{
+  "folder": "IC-342",
+  "content": "{{knowledge objective\n|Identifiant=OIC-342-14-A\n|Item_parent=Sickness, loss of consciousness, coma in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=A\n|Title=Identify the clinical and paraclinical elements justifying an emergency cardiological, neurological or resuscitation opinion.\n|Description=None\n|Rubric=Identifying the emergency\n|Contributors=\n|Order=14}}\nClinical elements justifying a cardiological opinion within 24 hours:\n\n* loss of consciousness during physical effort\n* recent or unexplained dyspnoea\n* heart failure\n* family history of sudden cardiac death in people aged < 40 or known family heart disease\n* heart murmur\n* any significant electrocardiogram (ECG) abnormality (detailed below)\n\nElectrocardiogram (ECG) abnormalities requiring a cardiological opinion within 24 hours:\n\n* sustained atrial arrhythmia,\n* persistent inappropriate bradycardia (''SDD-159 bradycardia''),\n* conduction abnormality: complete right bundle branch block, left bundle branch block, atrioventricular block of any degree\n* right or left ventricular hypertrophy,\n* long QT interval (corrected > 450 ms),\n* short QT interval (corrected < 350 ms),\n* pathological Q wave,\n* ventricular pre-excitation\n* any ventricular arrhythmia (including ventricular extrasystoles),\n* Brugada syndrome,\n* entrained cardiac rhythm (pacemaker),\n* any ST segment or T wave abnormality.\n\nClinical elements justifying a neurological opinion within 2 weeks:\n\n* tongue biting\n* deviation of the head when unconscious\n* no memory of abnormal behaviour, although abnormal behaviour was observed before, during or after the loss of consciousness\n* unusual posture\n* limb movements\n* confusion after brief loss of consciousness\n* prodromal symptoms such as a feeling of d\u00e9j\u00e0 vu or never having seen anything before or any other symptom suggestive of a focal onset\n\nNB: in the event of prodromal symptoms such as a feeling of d\u00e9j\u00e0 vu or never having seen anything before, or any other symptom suggestive of a focal onset, brain imaging ('''[[Discovery of a brain abnormality on medical imaging examination SDD-226]]''') must be carried out as a matter of urgency and a neurological opinion sought as a matter of urgency in the event of an abnormality.\n\nClinical elements justifying an emergency resuscitation opinion:\n\n* persistent coma\n* status epilepticus\n* state of shock\n* rhythmic storms\n* failure of one or more vital organs, requiring the use of an artificial support technique (circulatory assistance, respiratory assistance, extra-renal purification)",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Identify the clinical element justifying a cardiological opinion within 24 hours",
+        "description": "Select the correct answer from the following options",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Recent or unexplained dyspnoea",
+        "description": "A symptom that may indicate a heart condition",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Family history of sudden cardiac death in people aged < 40",
+        "description": "A risk factor for heart disease",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Tongue biting",
+        "description": "A symptom that may indicate a neurological condition",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Long QT interval (corrected > 450 ms)",
+        "description": "An ECG abnormality that may indicate a heart condition",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "d",
+        "description": "The correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

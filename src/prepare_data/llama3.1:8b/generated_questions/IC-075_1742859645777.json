@@ -1,0 +1,12 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-10-A\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=A\n|Title=Knowing the epidemiology of smoking among pregnant women\n|Description=Knowledge\n|Rubric=Epidemiology\n|Contributors=\n|Order=10}}\n\n\n* Pregnancy\n** half of pregnant women continue to smoke during pregnancy\n** more frequently among the youngest and least educated women",
+  "question": {
+    "question": "What is the prevalence of smoking among pregnant women?",
+    "option_a": "More than 75% of pregnant women continue to smoke during pregnancy",
+    "option_b": "Half of pregnant women continue to smoke during pregnancy, with a higher prevalence among the youngest and least educated women",
+    "option_c": "Less than 25% of pregnant women smoke during pregnancy, with a lower prevalence among older and more educated women",
+    "option_d": "Smoking prevalence among pregnant women is the same as the general population of women of childbearing age",
+    "correct_option": "B"
+  }
+}

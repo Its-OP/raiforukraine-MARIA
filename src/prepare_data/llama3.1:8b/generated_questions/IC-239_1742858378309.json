@@ -1,0 +1,12 @@
+{
+  "folder": "IC-239",
+  "content": "{{knowledge objective\n|Identifiant=OIC-239-05-B\n|Item_parent=Acrosyndromes (Raynaud's phenomenon, erythermalgia, acrocyanosis, frostbite, digital ischaemia)\n|Item_parent_short=Acrosyndromes (Raynaud's phenomenon, erythermalgia, acrocyanosis, frostbite, digital ischaemia)\n|Rank=B\n|Title=Know how to perform an Allen manoeuvre\n|Description=None\n|Topic=Positive diagnosis\n|Contributors= Sophie Blaise, Luc Bressollette, Claire Le Hello\n|Order=5}}\n\nThe Allen test explores the permeability of the digital arteries and the function of the palmar arches. It is based on the use of post-occlusive reactive hyperaemia to assess digital vascularisation. The Allen manoeuvre involves compressing the radial and ulnar arteries at the wrist and then asking the patient to flex and extend the fingers until the hand becomes discoloured.\n\nWhen the ulnar artery is released, the hand recolours, which means that the superficial palmar arch is permeable, as are the digital arteries.\n\nThe same manoeuvre is performed by releasing the radial artery; if the hand recolours, this means that the deep palmar arch is permeable as well as the digital arteries. ('''''SD-15 : [[Color abnormalities of the extremities SD-015|color abnormalities of the extremities]]'').''''",
+  "question": {
+    "question": "What is the purpose of the Allen manoeuvre?",
+    "option_a": "To assess the function of the palmar arches and digital arteries by measuring blood flow",
+    "option_b": "To compress the radial and ulnar arteries to reduce blood flow to the hand",
+    "option_c": "To evaluate the permeability of the digital arteries and the function of the palmar arches using post-occlusive reactive hyperaemia",
+    "option_d": "To check for any blockages in the radial artery",
+    "correct_option": "C"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-108",
+  "content": "{{knowledge objective\n|Identifiant=OIC-108-16-B\n|Item_parent=Confusion, dementia. (see item 132)\n|Item_parent_short=Confusion, dementia. (see item 132)\n|Rank=B\n|Title=Knowing the imaging semiology of chronic hydrocephalus in adults\n|Description=None\n|Heading=Additional examinations\n|Contributors=\n|Order=16}}\nChronic adult hydrocephalus '''([[Discovery of a brain abnormality on medical imaging examination SD-226|discovery of a brain abnormality on medical imaging examination]])''' :\n\n- Abnormalities visible on brain scan or MRI.\n\n- Tetraventricular dilatation.\n\n- Absence of mass effect as opposed to obstructive hydrocephalus linked to the presence of an identified obstacle to CSF flow.\n\n- Suffusion of fluid into the periventricular parenchyma (''transependymal resorption'') leading to radiological abnormalities of the periventricular white matter (hypodensity on CT or T2-weighted hypersignal on MRI).\n\n<br />",
+  "question": {
+    "question": "What is a characteristic of chronic adult hydrocephalus on brain scan or MRI?",
+    "option_a": "Mass effect is present",
+    "option_b": "Tetraventricular dilatation",
+    "option_c": "Suffusion of fluid into the periventricular parenchyma leading to radiological abnormalities of the periventricular white matter",
+    "option_d": "Obstructive hydrocephalus linked to the presence of an identified obstacle to CSF flow",
+    "correct_option": "B"
+  }
+}

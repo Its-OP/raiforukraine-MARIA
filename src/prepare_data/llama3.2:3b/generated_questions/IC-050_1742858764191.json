@@ -1,0 +1,46 @@
+{
+  "folder": "IC-050",
+  "content": "{{knowledge objective\n|Identifiant=OIC-050-17-A\n|Item_parent=Genito-scrotal pathology in boys and men\n|Item_parent_short=Genito-scrotal pathology in boys and men\n|Rank=A\n|Title=Photographs of phimosis and paraphimosis\n|Description=None\n|Rubric=Multimedia content\n|Contributors=C\u00e9dric Leb\u00e2cle, Alice Faure\n|Order=17}}\n\n[[File:Phimo.png|left|thumb|399x399px|'''Photo of a phimosis''']]\n\n\n\n\n\n\n\n\n[[File:Para.png|left|thumb|'''Photo of a paraphimosis''']]",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary cause of phimosis?",
+        "description": "A condition where the foreskin cannot be fully retracted",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Inadequate hygiene",
+        "description": "A lack of proper cleaning and care of the genital area",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Tight foreskin",
+        "description": "A condition where the foreskin is too tight and cannot be retracted",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Infection or inflammation",
+        "description": "An infection or inflammation of the foreskin or surrounding tissue",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Genetic predisposition",
+        "description": "A genetic condition that affects the development of the foreskin",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The letter of the correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "folder": "IC-351",
+  "content": "{{knowledge objective\n|Identifiant=OIC-351-03-A\n|Item_parent=Agitation and acute delirium\n|Item_parent_short=Agitation and acute delirium\n|Rank=A\n|Title=Know the definition of acute delirium\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=3}}\nAcute delirium generally includes positive psychotic symptoms ([[Delusional ideas SD-124|delusional ideas]] and [[Hallucinations SD-122|hallucinations]]). Other symptoms may be associated:\n\n* Symptoms of psychotic disorganisation\n* Negative psychotic symptoms\n* Depressive or manic symptoms",
+  "question": {
+    "question": "What are the symptoms of acute delirium?",
+    "option_a": "Delusional ideas",
+    "option_b": "Hallucinations",
+    "option_c": "Psychotic disorganisation",
+    "option_d": "Negative psychotic symptoms",
+    "correct_option": "option_b",
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "folder": "IC-157",
+  "content": "{{knowledge objective\n|Identifiant=OIC-157-18-B\n|Item_parent=Bacteremia/Fungemia in adults and children\n|Item_parent_short=Bacteremia/Fungemia in adults and children\n|Rank=B\n|Title=Know how to monitor the progress of bacteraemia/fungaemia under treatment\n|Description=None\n|Topic=Monitoring and/or prognosis\n|Contributors=\n|Order=18}}\nMonitoring of severity criteria (possibility of secondary onset): signs of shock or organ failure, secondary infectious localisations, etc.\n\nApyrexia obtained in 3-5 days under well-managed treatment, daily search for other secondary lesions\n\nMonitoring treatment tolerance\n\nFollow-up of blood cultures under systematic treatment if: Staphylococcus aureus bacteremia, candidemia, endocarditis, clinically unfavourable evolution\n\nIf the fever persists, the following steps should be taken:\n\n*Check the progress of the infection: control of the portal of entry, treatment of secondary sites, drainage of an abscess/empyema, removal of colonised equipment, etc;\n*Check that antibiotic therapy is appropriate: antibiogram, dosage, routes of administration, spread to infected sites (bone, meninges, vegetations); rate of administration; serum dosage.\n*Look for complications: healthcare-associated infections (including C. difficile colitis, catheter-related infections), drug-induced fever, thromboembolic complications.\n*Look for candidaemia (fungal blood cultures) if not already done and if there are risk factors.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the first step to take if the fever persists",
+        "description": "The next steps to take if the fever persists",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Check the progress of the infection",
+        "description": "Control the source of the infection, treat secondary sites, drain abscesses, remove colonized equipment, etc."
+      },
+      "option_b": {
+        "title": "Check the antibiotic therapy",
+        "description": "Verify the antibiogram, dosage, routes of administration, spread to infected sites, etc."
+      },
+      "option_c": {
+        "title": "Look for complications",
+        "description": "Investigate healthcare-associated infections, drug-induced fever, thromboembolic complications, etc."
+      },
+      "option_d": {
+        "title": "Check for candidemia",
+        "description": "Perform fungal blood cultures if not already done and if there are risk factors."
+      },
+      "correct_option": {
+        "title": "Check the progress of the infection",
+        "description": ""
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

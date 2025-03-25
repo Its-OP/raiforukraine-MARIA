@@ -1,0 +1,41 @@
+{
+  "folder": "IC-188",
+  "content": "{{knowledge objective\n|Identifiant=OIC-188-15-B\n|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Rank=B\n|Title=Knowing the main factors in uncontrolled asthma and knowing how to identify the precipitating factors in acute severe asthma.\n|Description=None\n|Rubric=Etiologies\n|Contributors=\n|Order=15}}\n'''Factors leading to poor asthma control'''\n\no Exposure to an allergen\n\no Exposure to a bronchial irritant (tobacco)\n\no Medications (B blockers, aspirin, NSAIDs)\n\no Medication compliance problems\n\no Respiratory infections\n\no Rhinitis, chronic sinusitis...\n\no Psychological factors: stress, anxiety\n\no GERD: pyrosis, regurgitation\n\no Pregnancy\n\no Weight gain\n\n\n'''Risk factor for asthma-related death'''\n\no History of severe exacerbation requiring a stay in intensive care or requiring intubation and mechanical ventilation\n\no Hospitalisation or emergency room visit for asthma in the previous year\n\no Current use or recent discontinuation of oral corticosteroid therapy\n\no Poor compliance with medication:\n\no discontinuation or absence of inhaled corticosteroids (ICS)\n\no Inadequate use of short-acting bronchodilators (SABs).\n\no No codified follow-up for asthma\n\no Psychiatric illness or psycho-social problems\n\no Food allergy\n\no Hypersensitivity to aspirin and NSAIDs (Widal syndrome combining asthma, nasosinusal polyposis and intolerance to NSAIDs and aspirin).\n\no Active smoking and drug addiction (Cannabis+++)",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a risk factor for asthma-related death?",
+        "description": "Select the correct answer from the options below.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "History of severe exacerbation requiring a stay in intensive care or requiring intubation and mechanical ventilation",
+        "description": "A severe asthma exacerbation that required hospitalization or emergency room visit"
+      },
+      "option_b": {
+        "title": "Current use or recent discontinuation of oral corticosteroid therapy",
+        "description": "Discontinuation or absence of inhaled corticosteroids (ICS) or recent change in medication"
+      },
+      "option_c": {
+        "title": "Poor compliance with medication: discontinuation or absence of inhaled corticosteroids (ICS)",
+        "description": "Not using inhaled corticosteroids as prescribed"
+      },
+      "option_d": {
+        "title": "Active smoking and drug addiction (Cannabis+++)",
+        "description": "Smoking and using cannabis frequently"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "The correct letter of the answer"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

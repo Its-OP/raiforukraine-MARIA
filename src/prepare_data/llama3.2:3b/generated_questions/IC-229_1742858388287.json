@@ -1,0 +1,46 @@
+{
+  "folder": "IC-229",
+  "content": "{{knowledge objective\n|Identifiant=OIC-229-07-B\n|Item_parent=Venous access monitoring and complications\n|Item_parent_short=Venous access monitoring and complications\n|Rank=B\n|Title=To know the principles of treatment of the most frequent complications of venous lines\n|Description=Treatment of venous line infection and thrombosis\n|Rubric=Management\n|Contributors= Philippe Lacroix, Simon Rickenbach\n|Order=7}}\n\nInfectious complications\n\nIf there are any signs of infection, the equipment should be removed. The catheter is cultured.\n\nIf there are general signs, blood cultures are taken ('''[[Positive blood culture SD-190|positive blood culture]]'''').\n\nThe decision to introduce antibiotic therapy depends on whether the symptoms are local or general ('''[[Prescribe an anti-infective SD-255|prescribe an anti-infective]]'''):\n\n- in the event of fever, general signs of sepsis or even septic shock, antibiotic therapy is initiated\n\n- antibiotic therapy targets staphylococci aureus and epidermidis.\n\n- it is extended to Gram bacilli - in cases of immunodepression, neutropenia or other risk factors\n\nThrombotic complications\n\nIn the event of central venous thrombosis, the catheter may be left in place if it is functional, with prescription of curative anticoagulation adapted to the context.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the next step in the management of a patient with a suspected central venous line infection?",
+        "description": "Select the best course of action",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Remove and replace the catheter",
+        "description": "This is the standard procedure for infected central venous lines",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Continue to use the catheter with antibiotic therapy",
+        "description": "This may be appropriate for catheters with minor signs of infection",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Take blood cultures and observe for signs of sepsis",
+        "description": "This is a general approach to managing suspected infections",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Prescribe anticoagulation to prevent further thrombosis",
+        "description": "This is a common approach to managing central venous thrombosis",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Remove and replace the catheter",
+        "description": "This is the correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

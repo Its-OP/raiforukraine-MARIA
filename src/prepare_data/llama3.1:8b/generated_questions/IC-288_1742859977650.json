@@ -1,0 +1,12 @@
+{
+  "folder": "IC-288",
+  "content": "{{knowledge objective\n|Identifiant=OIC-288-01-A\n|Item_parent=Hemorrhoidal pathology\n|Item_parent_short=Hemorrhoidal pathology\n|Rank=A\n|Title=Know the definition of haemorrhoids\n|Description=\n|Rubric=Definition\n|Contributors=\n|Order=1}}\n\nHaemorrhoids are normal anatomical vascular structures of the anus. They are composed of dilated venous lakes, small arterioles or arteriovenous shunts, supporting tissue (smooth muscle fibres and collagen tissue) and a lining epithelium. They form a porto-systemic anastomotic system and are located in the upper part of the anal canal (internal haemorrhoidal plexus) or peri anal (external haemorrhoidal plexus).",
+  "question": {
+    "question": "What are haemorrhoids?",
+    "option_a": "A type of anal cancer",
+    "option_b": "Abnormal growths of tissue in the anal canal",
+    "option_c": "Normal anatomical vascular structures of the anus",
+    "option_d": "A type of digestive disease",
+    "correct_option": "C"
+  }
+}

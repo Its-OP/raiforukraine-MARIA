@@ -1,0 +1,45 @@
+{
+  "folder": "IC-101",
+  "content": "{{knowledge objective\n|Identifiant=OIC-101-10-A\n|Item_parent=Facial paralysis\n|Item_parent_short=Facial paralysis\n|Rank=A\n|Title=Knowing the indications for imaging examinations for facial paralysis\n|Description=None\n|Rubric=Additional examinations\n|Contributors=\n|Order=10}}\n1) In the case of central facial paralysis ([[Facial paralysis SDD-127|facial paralysis]]), cerebral imaging is essential and MRI is the examination of choice, performed without and with injection of gadolinium in the absence of an acute neurovascular context or contraindication.\n\n2) In the case of PFP :\n\n- The indication for brain imaging depends directly on the suspected cause:\n\no Brain MRI: depending on the context, diagnosis of multiple sclerosis, brainstem stroke, or tumour if other cranial nerves are affected (brainstem glioma, cerebellopontine angle tumour, skull base metastasis).\n\no Cerebral scan: in the event of trauma (fracture of the rock) ([[Traumatisme cr\u00e2nien SD-172|traumatisme cr\u00e2nien]]), in the event of purulent ear discharge (mastoiditis), or to identify tumour invasion of the bone at the base of the skull.\n\n- Other: Cervical CT/MRI with injection if swelling homolateral to the PFP (parotitis, parotid tumour) ([[Cervico-facial pain SDD-144|cervico-facial pain]]).\n\n([[Reasoned request/prescription and choice of a diagnostic examination SD-178|Reasoned request/prescription and choice of a diagnostic examination]] ; [[Discovery of a cervico-facial anomaly on medical imaging examination SDD-225|discovery of a cervico-facial anomaly on medical imaging examination]] ; [Discovery of a brain abnormality on medical imaging examination SD-226|Discovery of a brain abnormality on medical imaging examination]])",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "In the case of PFP, which imaging examination is typically performed without an acute neurovascular context or contraindication?",
+        "description": "The imaging examination of choice for facial paralysis",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Brain CT scan",
+        "description": "Imaging examination used to diagnose brain injuries, including fractures and tumours",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "MRI with gadolinium",
+        "description": "Imaging examination used to diagnose brain injuries, including multiple sclerosis and brainstem stroke",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Cervical CT/MRI with injection",
+        "description": "Imaging examination used to diagnose conditions affecting the neck and facial region",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Cerebral angiogram",
+        "description": "Imaging examination used to diagnose blood vessel abnormalities",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "MRI with gadolinium",
+        "description": "The correct answer, as MRI is the examination of choice without an acute neurovascular context or contraindication"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

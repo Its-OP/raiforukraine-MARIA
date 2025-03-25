@@ -1,0 +1,46 @@
+{
+  "folder": "IC-247",
+  "content": "{{knowledge objective\n|Identifiant=OIC-247-03-A\n|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Rank=A\n|Title=Know the circumstances and different diagnostic criteria (with particular reference to children).\n|Description=Type 1 and type 2\n|Section=Definition\n|Contributors=Eva Feigerlova,H\u00e9l\u00e8ne Bihan,Claire Briet,Gaetan Prevost\n|Order=3}}\n\nDiabetes may be diagnosed in the following situations:\n\n1/ Screening\n\n\n2/ Fasting venous blood glucose \u2265 1.26 g/l on two occasions.  \n\n3/ Orally induced hyperglycaemia if blood glucose 2 hours after oral loading is greater than or equal to 2 g/l [11 mmol/l].\n\nOGTT is indicated in the following cases:\n\n- pregnancy\n\n- fasting blood glucose between 1.10 and 1.26 g/l [6 to 7 mmol/l].\n\n\n4/ Emergency situations in symptomatic patients with blood glucose levels of 2 g/l [11 mmol/l] or more\n\nIn children, cardinal syndrome is often present, but is difficult to recognise in infants.\n\nKetoacidosis is often present at diagnosis, especially in children aged < 5 years.\n\n\n<ref>CEEDMM, 2019</ref>\n<references />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "When is Oral Glucose Tolerance Test (OGTT) indicated?",
+        "description": "According to the provided text, in which situations is OGTT indicated?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "When fasting blood glucose levels are between 1.10 and 1.26 g/l [6 to 7 mmol/l]",
+        "description": "A situation where OGTT is indicated",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "When symptoms of diabetic ketoacidosis are present",
+        "description": "A situation where OGTT is indicated",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "When blood glucose levels are 2 g/l [11 mmol/l] or more in emergency situations",
+        "description": "A situation where OGTT is indicated",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "When type 1 diabetes is diagnosed",
+        "description": "A situation where OGTT is not indicated",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "When fasting blood glucose levels are between 1.10 and 1.26 g/l [6 to 7 mmol/l]",
+        "description": "",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

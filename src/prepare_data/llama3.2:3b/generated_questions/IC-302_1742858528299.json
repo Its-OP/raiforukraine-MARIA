@@ -1,0 +1,46 @@
+{
+  "folder": "IC-302",
+  "content": "{{knowledge objective\n|Identifiant=OIC-302-07-A\n|Item_parent=Cutaneous, epithelial and melanoma tumours\n|Item_parent_short=Cutaneous, epithelial and melanoma tumours\n|Rank=A\n|Title=Knowing how to prevent squamous cell and basal cell carcinomas\n|Description=Know how to prevent squamous cell and basal cell carcinomas\n|Rubric=Management\n|Contributors=\n|Order=7}}\nPrimary prevention consists of encouraging sun prevention and the treatment of precancerous lesions (actinic keratoses, induced HPV viral lesions, etc.).",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is primary prevention for squamous cell and basal cell carcinomas?",
+        "description": "Which option correctly describes primary prevention for squamous cell and basal cell carcinomas?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Encouraging sun prevention and treating precancerous lesions",
+        "description": "This option describes a key aspect of primary prevention for squamous cell and basal cell carcinomas",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Surgically removing precancerous lesions and promoting healthy lifestyle choices",
+        "description": "This option is a common misconception about primary prevention, but it is not the correct approach",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Encouraging sun prevention and promoting healthy lifestyle choices",
+        "description": "This option is close, but it lacks the specific mention of treating precancerous lesions",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Surgically removing precancerous lesions and promoting healthy lifestyle choices",
+        "description": "This option is a common misconception about primary prevention, and is not the correct approach",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "The correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

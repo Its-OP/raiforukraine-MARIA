@@ -1,0 +1,28 @@
+{
+  "folder": "IC-260",
+  "content": "{{knowledge objective\n|Identifiant=OIC-260-01-A\n|Item_parent=Hematuria\n|Item_parent_short=Hematuria\n|Rank=A\n|Title=Know the definition of haematuria\n|Description=None\n|Rubric=Definition\n|Contributors=Charles Dariane, Bruno Moulin\n|Order=1}}\n\n<br />\n\n*Haematuria is the abnormal presence of red blood cells in the urine.\n\n*This is a major warning sign: rule out serious underlying pathology (bladder tumours|urothelial tumour 314).\n\n*It must be confirmed by a quantitative urinary cytological examination (ECBU: \u2265 10 red blood cells/mm<sup>3</sup> or \u2265 10,000 red blood cells/mL).\n\n==Differential diagnosis:==\n\n*urethrorrhagia'': bleeding from the urethra, outside micturition.\n*red colouring of the urine: medicines, pigments, food, urate crystals in the form of crystals in nappies, etc.\n*blood contamination of urine'': menstrual bleeding, metrorrhagia, haemospermia, etc.",
+  "question": {
+    "properties": {
+      "question": "What is the definition of haematuria?",
+      "option_a": "The presence of red blood cells in the urine without any other visible signs of injury.",
+      "option_b": "The presence of red blood cells in the urine with visible signs of injury, such as bleeding from the urethra.",
+      "option_c": "The presence of red blood cells in the urine with visible signs of injury, such as bleeding from the urethra.",
+      "option_d": "The presence of red blood cells in the urine with visible signs of injury, such as bleeding from the urethra.",
+      "correct_option": "option_b",
+      "required": [
+        "question",
+        "option_a",
+        "option_b",
+        "option_c",
+        "option_d",
+        "correct_option"
+      ]
+    },
+    "required": [
+      "question"
+    ],
+    "type": "multiple-choice",
+    "title": "Definition of haematuria",
+    "description": "This is a major warning sign: rule out serious underlying pathology (bladder tumours|urothelial tumour 314)."
+  }
+}

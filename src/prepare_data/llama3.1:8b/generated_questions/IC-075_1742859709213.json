@@ -1,0 +1,12 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-01-A\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=A\n|Title=Knowing the main risks associated with active smoking, passive smoking and smoking in utero\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=1}}\n\n{| class=\"wikitable\"\n|'''Neoplastic''''\n\nTobacco responsible for 25% of all cancers\n\n80% of deaths from bronchopulmonary cancer are linked to smoking\n|Bronchopulmonary cancer\n\nOesophageal cancer\n\nBladder cancer\n\nOropharyngeal cancers\n\nLaryngeal cancer\n\nPancreatic cancer\n\nKidney cancer\n|-\n|'''Pulmonary''''\n|BPCO\n\nEmphysema\n\nChronic bronchitis\n\nChronic respiratory insufficiency\n|-\n|Cardiovascular disease\n\nTobacco is the 1<sup>rst</sup> cause of avoidable cardiovascular mortality and the 1<sup>rst</sup> cardiovascular DRF in premenopausal women.\n|Coronary heart disease\n\nAOMI\n\nHigh blood pressure, hypertensive heart disease\n\nAbdominal aortic aneurysm\n\nCerebrovascular accident\n|-\n|'''Dermatological''''\n|Acne\n\nSkin ageing\n\nNail colouring\n\nDry skin\n|-\n|'''Gynaeco-obstetrics''''\n|Decreased fertility\n\nPremature delivery\n\nIntrauterine growth retardation\n\nFetal death in utero, EP, miscarriage\n|-\n|'''Other'''\n|Tooth discolouration\n\nPeriodontal disease\n\nTooth loosening\n\nPolycythemia, polynucleosis\n|-\n|Passive intoxication\n|Ischaemic heart disease\n\nBronchopulmonary cancer\n\nCoronary artery disease\n\nOtitis, Asthma in children\n\nBronchitis\n|}",
+  "question": {
+    "question": "What is the main cause of avoidable cardiovascular mortality and the first cardiovascular Disease Risk Factor (DRF) in premenopausal women?",
+    "option_a": "Coronary heart disease",
+    "option_b": "High blood pressure, hypertensive heart disease",
+    "option_c": "Ischaemic heart disease",
+    "option_d": "AOMI",
+    "correct_option": "C"
+  }
+}

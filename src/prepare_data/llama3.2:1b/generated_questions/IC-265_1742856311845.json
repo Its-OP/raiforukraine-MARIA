@@ -1,0 +1,12 @@
+{
+  "folder": "IC-265",
+  "content": "{{knowledge objective\n|Identifiant=OIC-265-07-A\n|Item_parent=Urinary lithiasis\n|Item_parent_short=Urinary lithiasis\n|Rank=A\n|Title=Knowing the clinical aspects of simple renal colic\n|Description=Pain, radiation, nausea...\n|Rubric=Positive diagnosis\n|Contributors=Romain Boissier\n|Order=7}}\n\nRenal colic is said to be \"simple\" when it occurs :\n\n* without fever or chills,\n* no biological renal failure or oligo-anuria\n* and that it subsides with analgesic treatment with NSAIDs.\n\n<br />",
+  "question": {
+    "question": "What is the definition of simple renal colic?",
+    "option_a": "A sudden, severe pain in the flank area that can be caused by a kidney stone.",
+    "option_b": "A condition where the kidneys are damaged and can only be treated with surgery.",
+    "option_c": "A type of kidney disease that causes the kidneys to produce too much urine.",
+    "option_d": "A condition where the kidneys are affected by a viral infection.",
+    "correct_option": "option_a"
+  }
+}

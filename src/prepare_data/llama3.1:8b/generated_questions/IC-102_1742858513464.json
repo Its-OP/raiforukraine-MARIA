@@ -1,0 +1,12 @@
+{
+  "folder": "IC-102",
+  "content": "{{knowledge objective\n|Identifiant=OIC-102-09-B\n|Item_parent=Diplopia\n|Item_parent_short=Diplopia\n|Rank=B\n|Title=Knowing that VI paralysis has a low localising value\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=9}}\nIn the event of intracranial hypertonia, the VI may be compressed in the cerebellopontine angle as it exits the brainstem. The paralysis is then directly caused by the intracranial hypertension, without any localising value. On the other hand, any other oculomotor paralysis indicates a lesion in the nuclei or nerve tracts concerned.",
+  "question": {
+    "question": "In the case of VI paralysis caused by intracranial hypertonia, what can be said about its localising value?",
+    "option_a": "It has a high localising value, indicating a lesion in the nuclei or nerve tracts concerned",
+    "option_b": "It has a moderate localising value, suggesting a possible lesion in the brainstem but not in the nuclei or nerve tracts",
+    "option_c": "It has a low localising value, indicating that the paralysis is directly caused by intracranial hypertension without any indication of a lesion in the nuclei or nerve tracts",
+    "option_d": "It has no localising value at all, making it impossible to determine the cause of the paralysis",
+    "correct_option": "C"
+  }
+}

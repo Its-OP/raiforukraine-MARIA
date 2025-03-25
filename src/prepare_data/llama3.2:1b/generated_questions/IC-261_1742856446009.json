@@ -1,0 +1,21 @@
+{
+  "folder": "IC-261",
+  "content": "{{knowledge objective\n|Identifiant=OIC-261-15-A\n|Item_parent=Glomerular nephropathy\n|Item_parent_short=Glomerular nephropathy\n|Rank=A\n|Title=Knowing the severity factors of a GNRP syndrome\n|Description=Know how to assess the severity of renal failure and the need for emergency haemodialysis, know how to identify the other complications associated with GNRP, in particular intra-alveolar haemorrhage and its degree of severity (hypoxia, anaemia), know that this is a therapeutic emergency.\n|Rubric=Emergency identification\n|Contributors=Eric Daugas,Bruno Moulin\n|Order=15}}\n\nThis is a genuine diagnostic and therapeutic emergency.\n\nThe prognosis is life-threatening, taking into account\n\n* pulmonary (respiratory distress, alveolar haemorrhage)\n* digestive (digestive haemorrhage, peritonitis),\n* acute complications of acute renal failure (respiratory distress due to pulmonary oedema, hyperkalaemia).\n\n\nThere is a significant risk of permanent kidney failure (stage 5 chronic kidney disease).",
+  "question": {
+    "id": "OIC-261-15-A",
+    "question": "What is the primary consequence of a patient with Glomerular Nephropathy (GNRP) experiencing respiratory distress?",
+    "option_a": "Respiratory failure due to hypoxia",
+    "option_b": "Pulmonary edema due to hyperkalaemia",
+    "option_c": "Peritoneal hemorrhage",
+    "option_d": "Respiratory failure due to hyperkalaemia",
+    "correct_option": "option_a",
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

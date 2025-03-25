@@ -1,0 +1,12 @@
+{
+  "folder": "IC-132",
+  "content": "{{knowledge objective\n|Identifiant=OIC-132-06-A\n|Item_parent=Cognitive disorders in the elderly. (see item 108)\n|Item_parent_short=Cognitive disorders in the elderly. (see item 108)\n|Rank=A\n|Title=Know the main causes of a neuro-cognitive disorder.\n|Description=None\n|Rubric=Etiologies\n|Contributors=\n|Order=6}}\nAccording to the DSM 5, the possible etiologies of major or mild neurocognitive disorders are :\n\n\nAlzheimer's disease,\n\nFrontotemporal degeneration\n\nLewy body disease\n\nNeurovascular encephalopathy\n\nSecondary to cerebral trauma\n\nSecondary to substance use\n\nSecondary to HIV infection\n\nParkinson's disease\n\nPrion disease\n\nHuntington's disease\n\nMultiple etiologies",
+  "question": {
+    "question": "According to the DSM 5, which of the following is NOT a possible etiology of major or mild neurocognitive disorders?",
+    "option_a": "Alzheimer's disease",
+    "option_b": "Secondary to cerebral trauma",
+    "option_c": "Frontotemporal degeneration",
+    "option_d": "Secondary to substance use and HIV infection",
+    "correct_option": "D"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "folder": "IC-310",
+  "content": "{{knowledge objective\n|Identifiant=OIC-310-06-A\n|Item_parent=Prostate tumours\n|Item_parent_short=Prostate tumours\n|Rank=A\n|Title=Knowing the first-line paraclinical examinations for suspected prostate cancer - rules for the correct use of prostate-specific antigen (PSA) testing\n|Description=Knowing the PSA assay and its rules of good use and relevance for early individual diagnosis\n|Rubric=Additional tests\n|Contributors=Alexandra MASSON-LECOMTE,Laurent BRUREAU\n|Order=6}}\n\n\n\n<br />\n\n*PSA is the serum marker (enzyme protein) used routinely. It is specific to the prostate epithelium but not to prostate cancer.\n*Certain pathologies (benign prostatic hyperplasia, prostatitis, etc.) or manipulations of the prostate can increase the level. The PSA level depends on the volume of the prostate.\n*Certain drugs (5 alpha reductase inhibitors) can artificially lower PSA levels.\n\n*The threshold value that should give cause for alarm is 4 ng/ml, but this value should be weighted according to the volume of the prostate and the age of the patient. A 1st elevated test must be confirmed by a 2nd elevated test (within 3 months of the first). A regular increase in PSA over several tests (> 0.75 ng/ml.year) should prompt a search for prostate cancer.\n\n*Early individual diagnosis should only be offered to patients who have been previously informed and whose life expectancy is prolonged (> 10 years).\n*Early diagnosis is recommended from the age of 50 (40-45 if there are risk factors) and continues until the age of 70. It is based on a digital rectal examination (DRE) and a PSA test repeated every 2-4 years, but the optimum frequency has not yet been established.\n\n*An abnormal digital rectal examination (DRE) and/or a PSA > 4 ng/ml (rechecked at least once) should prompt a diagnosis.\n*This is based on multiparametric prostate and pelvic MRI followed by ultrasound-guided prostate biopsies. Prostate MRI is performed systematically prior to prostate biopsy. MRI can be used to detect supectral lesions in the gland and to better sample the prostate with additional biopsy samples from the most suspicious area (targeted biopsy). If the serum PSA or digital rectal examination is abnormal, a normal prostate MRI does not rule out the need for a biopsy. Images seen on MRI are classified using the PI-RADS score (1-2: low risk of cancer - 3: equivocal - 4-5: significant risk of cancer). PI-RADS 3, 4 and 5 images are biopsied in addition to the 12 systematic prostate biopsy samples.",
+  "question": {
+    "question": {
+      "title": "What is the recommended threshold value for PSA testing in prostate cancer screening?",
+      "description": "The threshold value that should give cause for alarm is",
+      "type": "string"
+    },
+    "option_a": {
+      "title": "4 ng/ml",
+      "description": "A fixed threshold value that applies to all patients, regardless of prostate volume or age"
+    },
+    "option_b": {
+      "title": "5 ng/ml",
+      "description": "A threshold value that should be used for patients over 65 years old"
+    },
+    "option_c": {
+      "title": "4 ng/ml",
+      "description": "A threshold value that should be weighted according to the volume of the prostate and the age of the patient"
+    },
+    "option_d": {
+      "title": "3 ng/ml",
+      "description": "A threshold value that should be used for patients with a family history of prostate cancer"
+    },
+    "correct_option": {
+      "title": "c"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "folder": "IC-364",
+  "content": "{{knowledge objective\n|Identifiant=OIC-364-06-A\n|Item_parent=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Item_parent_short=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Rank=A\n|Title=Knowing the principles of initial management of childhood trauma\n|Description=To treat pain and prescribe imaging\n|Heading=Management\n|Contributors=\n|Order=6}}\nknow how to evoke the diagnosis of a fracture without excessive manipulation of the limb, know how to immediately prescribe temporary immobilisation, know how to prescribe a level 2 or 3 painkiller in children, know how to locate the lesion and prescribe imaging targeted at the region concerned.",
+  "question": {
+    "properties": {
+      "question": "How can you immediately prescribe temporary immobilisation to a child who has suffered a fracture without excessive manipulation of the limb?",
+      "option_a": "Immediate mobilisation and manipulation of the limb.",
+      "option_b": "Prescribing painkillers to the child without assessing the fracture.",
+      "option_c": "Locating the lesion and prescribing imaging targeted at the region concerned.",
+      "option_d": "Temporary immobilisation and painkillers in children without assessing the fracture.",
+      "correct_option": "option_c"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ],
+    "type": "object"
+  }
+}

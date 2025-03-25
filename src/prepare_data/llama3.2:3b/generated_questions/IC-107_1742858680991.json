@@ -1,0 +1,46 @@
+{
+  "folder": "IC-107",
+  "content": "{{knowledge objective\n|Identifiant=OIC-107-04-A\n|Item_parent=Anomalous movements\n|Item_parent_short=Anomalous movements\n|Rank=A\n|Title=Recognising the main abnormal movements on typical video cases\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=4}}\nPlease refer to the CEN website where videos are available:\n\nhttps://www.cen-neurologie.fr/videotheque",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the main abnormal movement observed in typical video cases?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Ataxia",
+        "description": "A type of coordination disorder",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Dyskinesia",
+        "description": "A type of movement disorder characterized by involuntary movements",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Spasticity",
+        "description": "A type of increased muscle tone",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Ataxia-tremor syndrome",
+        "description": "A rare neurological disorder characterized by ataxia and tremor",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The letter corresponding to the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

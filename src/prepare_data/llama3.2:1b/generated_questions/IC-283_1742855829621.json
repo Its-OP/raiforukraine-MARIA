@@ -1,0 +1,12 @@
+{
+  "folder": "IC-283",
+  "content": "{{knowledge objective\n|Identifiant=OIC-283-01-B\n|Item_parent=Constipation in children and adults\n|Item_parent_short=Constipation in children and adults\n|Rank=B\n|Title=Knowing the prevalence of constipation in children\n|Description=None\n|Rubric=Epidemiology\n|Contributors=\n|Order=1}}\nConstipation is a frequent reason for consultation in young children.\n\nThis symptom accounts for almost 5% of paediatric consultations in private practice.\n\nConstipation most often appears between the ages of 1 and 4 and can affect up to a third of school-age children.",
+  "question": {
+    "question": "What is the approximate age range in which constipation most often appears?",
+    "option_a": "0-1 year",
+    "option_b": "1-4 years",
+    "option_c": "5-10 years",
+    "option_d": "11-18 years",
+    "correct_option": "b"
+  }
+}

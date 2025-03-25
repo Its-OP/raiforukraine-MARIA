@@ -1,0 +1,12 @@
+{
+  "folder": "IC-342",
+  "content": "{{knowledge objective\n|Identifiant=OIC-342-19-B\n|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=B\n|Title=Know the recommendations and organisation of the follow-up of a patient seen for malaise, orthostatic arterial hypotension.\n|Description=Medication safety, elderly patients\n|Topic=Management\n|Contributors=\n|Order=19}}\nreview of patient treatment - education - vigilance in elderly subjects",
+  "question": {
+    "question": "What is the most appropriate recommendation for follow-up care for a patient seen for malaise and orthostatic arterial hypotension?",
+    "option_a": "Schedule a follow-up appointment with a cardiologist within 1 week to rule out cardiac causes.",
+    "option_b": "Recommend that the patient increase their fluid and salt intake to improve orthostatic tolerance.",
+    "option_c": "Prescribe a medication to manage orthostatic hypotension and monitor its effectiveness at the next appointment.",
+    "option_d": "Refer the patient to a geriatrician for comprehensive evaluation and management.",
+    "correct_option": "D"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "folder": "IC-230",
+  "content": "{{knowledge objective\n|Identifiant=OIC-230-08-A\n|Item_parent=Acute chest pain\n|Item_parent_short=Acute chest pain\n|Rank=A\n|Title=Knowing the place and abnormalities of chest radiography in the four cardiovascular emergencies\n|Description=None\n|Rubric=Additional examinations\n|Contributors=Vincent Roule\n|Order=8}}\n\n'''To know the place and the anomalies of the thoracic radiography of the 4 cardiovascular emergencies:'''\n\n* Chest X-ray is routinely performed in the presence of chest pain.\n* Not necessary in typical ACS (for diagnostic purposes)\n* Helps in the diagnosis of the 3 other emergencies (but not sufficient to confirm the diagnosis), enables differential diagnoses to be made (pneumothorax, pneumopathy).\n\nPR abnormalities '''(request for an imaging test)''':\n\n* in aortic dissection: possible widening of the mediastinum, double aortic contour (cf fig)\n\n[[File:Image5.jpg|vignette|Front pulmonary radiograph showing widening of the mediastinum, suggestive of aortic dissection|alt=|centric]]\n\n* in pulmonary embolism: often normal, pulmonary hyperclarity, ascension of a diaphragmatic cupola, atelectasis in bands\n\n* in pericarditis with tamponade: cardiomegaly with heart in decanter",
+  "question": {
+    "question": "In the context of acute chest pain, what is the typical indication for a chest X-ray?",
+    "option_a": "In the presence of ACS (Acute Coronary Syndrome) for diagnostic purposes",
+    "option_b": "In the presence of chest pain to rule out other cardiovascular emergencies",
+    "option_c": "Only in the presence of aortic dissection or pulmonary embolism",
+    "option_d": "In the presence of pneumothorax or pneumopathy to confirm the diagnosis"
+  }
+}

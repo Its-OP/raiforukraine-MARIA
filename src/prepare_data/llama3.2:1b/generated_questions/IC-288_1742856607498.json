@@ -1,0 +1,12 @@
+{
+  "folder": "IC-288",
+  "content": "{{knowledge objective\n|Identifiant=OIC-288-11-A\n|Item_parent=Hemorrhoidal pathology\n|Item_parent_short=Hemorrhoidal pathology\n|Rank=A\n|Intitle=Photographs of haemorrhoidal thrombosis\n|Description=\n|Rubric=Multimedia content\n|Contributors=\n|Order=11}}\n\n<gallery widths=\"320\" heights=\"320\">\nFile:Image of haemorrhoidal thrombosis.PNG|External haemorrhoidal thrombosis with ulceration at the top of the clot\n</gallery>",
+  "question": {
+    "question": "What is the typical presentation of hemorrhoidal thrombosis?",
+    "option_a": "A large, palpable mass in the rectum",
+    "option_b": "A painless, chronic rectal bleeding",
+    "option_c": "A sudden, severe rectal pain",
+    "option_d": "A rare, asymptomatic condition",
+    "correct_option": "option_b"
+  }
+}

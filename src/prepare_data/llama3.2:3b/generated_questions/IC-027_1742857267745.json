@@ -1,0 +1,46 @@
+{
+  "folder": "IC-027",
+  "content": "{{knowledge objective\n|Identifiant=OIC-027-20-A\n|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Rank=A\n|Title=Maternal-fetal listeriosis (MF): knowing the elements of prevention\n|Description=Knowing the rules of hygiene and diet\n|Rubric=Management\n|Contributors=Alexandre Vivanti, Philippe Deruelle\n|Order=20}}\n'''Foods to avoid'''\n\n- Soft cheeses made from raw milk, cheeses sold grated\n\n- Smoked fish\n\n- Raw sprouts (soya, alfalfa)\n\n- Cooked charcuterie products eaten as they are (p\u00e2t\u00e9, rillettes, jellied products, cooked ham, etc.) or bought in the delicatessen section, cooked before consumption (lardons, bacon, cured ham, etc.).\n\n- If purchased, prefer pre-packaged products and eat them as soon as possible.\n\n- Raw shellfish, surimi, tarama, sushi\n\n'''Hygiene rules to be observed'''\n\n- Carefully cook raw foods of animal origin (meat, fish).\n\n- Wash raw vegetables and herbs thoroughly\n\n- Keep raw food (meat, vegetables, etc.) separate from cooked or ready-to-eat food.\n\n- Wash your hands after handling uncooked food\n\n- Clean kitchen utensils that have been in contact with these foods\n\n- Clean the fridge frequently and then disinfect it with bleach.\n\n- Carefully reheat leftovers and ready meals before immediate consumption\n\n'''[[Fetal risk prevention SD-312|312. Fetal risk prevention]]''''",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Question",
+        "description": "What should you do with cooked charcuterie products?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Option A",
+        "description": "Eat them as they are",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Option B",
+        "description": "Cook them before consumption",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Option C",
+        "description": "Buy them pre-packaged and eat them immediately",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Option D",
+        "description": "Refrigerate them for later use",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "Cook them before consumption",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

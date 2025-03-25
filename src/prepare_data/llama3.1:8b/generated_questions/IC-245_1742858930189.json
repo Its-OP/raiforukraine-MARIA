@@ -1,0 +1,12 @@
+{
+  "folder": "IC-245",
+  "content": "{{knowledge objective\n|Identifiant=OIC-245-01-A\n|Item_parent=Adrenal insufficiency in adults and children\n|Item_parent_short=Adrenal insufficiency in adults and children\n|Rank=A\n|Title=Knowing the definition of adrenal insufficiency in children and adults\n|Description=None\n|Rubric=Definition\n|Contributors=Claire Briet,St\u00e9phanie Espiard\n|Order=1}}\n\n'''Definition:''' a disease resulting from a deficit in the production of cortisol by the adrenal glands, which may be associated with a deficit in the production of aldosterone and adrenal androgen.\n\n*Slow adrenal insufficiency results from chronic hormone(s) deficiency.\n*Acute adrenal insufficiency results from acute hormone(s) deficiency.\n\n\n'''Two types of adrenal insufficiency:'''\n\n*Primary or peripheral adrenal insufficiency (involvement of both adrenal glands):\n**or Addison's disease\n**Adrenal cortisol deficiency associated with aldosterone and adrenal androgen deficiency.\n**\n*Corticotropic or central adrenal insufficiency (pituitary involvement):\n**Deficient production of pituitary ACTH leading to a failure to stimulate adrenal cortisol production.",
+  "question": {
+    "question": "What is the primary cause of adrenal insufficiency?",
+    "option_a": "A chronic infection of the adrenal glands",
+    "option_b": "A deficit in the production of cortisol by the adrenal glands",
+    "option_c": "A deficiency of aldosterone and adrenal androgen",
+    "option_d": "A failure of the pituitary gland to produce ACTH",
+    "correct_option": "B"
+  }
+}

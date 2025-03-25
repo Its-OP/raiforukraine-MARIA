@@ -1,0 +1,46 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-31-B\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic anomalies, visual, hearing and dental problems. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=B\n|Title=Know how to diagnose thoracic kyphosis in children\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=31}}\nCyphosis = vertebral deformity in the sagittal plane. Aggravation of dorsal kyphosis (more rarely inversion of lordosis).\n\nMost frequent cause = spinal growth dystrophy (Scheuermann's disease)\n\nPainful",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is thoracic kyphosis in children?",
+        "description": "A vertebral deformity in the sagittal plane. Aggravation of dorsal kyphosis (more rarely inversion of lordosis). Most frequent cause = spinal growth dystrophy (Scheuermann's disease) Painful",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "A spinal curvature that occurs in adulthood",
+        "description": "A condition that affects the spine in older adults",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "A type of scoliosis",
+        "description": "A spinal deformity that occurs in children and adolescents",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "A type of spinal growth disorder",
+        "description": "A condition that affects the growth of the spine",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "A type of vertebral deformity in the sagittal plane",
+        "description": "A condition that affects the alignment of the spine in the front-to-back direction",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "d",
+        "description": "The correct letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

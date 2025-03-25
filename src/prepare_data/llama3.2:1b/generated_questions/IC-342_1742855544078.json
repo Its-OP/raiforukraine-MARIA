@@ -1,0 +1,12 @@
+{
+  "folder": "IC-342",
+  "content": "{{knowledge objective\n|Identifiant=OIC-342-19-B\n|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=B\n|Title=Know the recommendations and organisation of the follow-up of a patient seen for malaise, orthostatic arterial hypotension.\n|Description=Medication safety, elderly patients\n|Topic=Management\n|Contributors=\n|Order=19}}\nreview of patient treatment - education - vigilance in elderly subjects",
+  "question": {
+    "question": "What is the recommended course of action for a patient with orthostatic arterial hypotension who is taking medication?",
+    "option_a": "Increase the dose of the medication",
+    "option_b": "Switch to a different medication with a different mechanism of action",
+    "option_c": "Monitor the patient's blood pressure closely and adjust the medication as needed",
+    "option_d": "Do not change the medication at all",
+    "correct_option": "option_c"
+  }
+}

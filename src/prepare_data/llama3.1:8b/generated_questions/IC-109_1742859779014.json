@@ -1,0 +1,12 @@
+{
+  "folder": "IC-109",
+  "content": "{{knowledge objective\n|Identifiant=OIC-109-05-A\n|Item_parent=Gait and balance disorders\n|Item_parent_short=Gait and balance disorders\n|Rank=A\n|Title=Know how to diagnose lameness (clinical examination, diagnostic approach)\n|Description=Clinical and video evidence in favour of a lameness in dodging, saluting and Trendelebourg.\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=5}}\nClinical and video evidence in favour of eschewing, saluting and Trendelebourg lameness",
+  "question": {
+    "question": "What are some clinical and video evidence in favor of a lameness diagnosis in horses?",
+    "option_a": "Clinical and video evidence in favor of a lameness in trotting and cantering.",
+    "option_b": "Clinical and video evidence in favor of a lameness in dodging, saluting, and Trendelebourg.",
+    "option_c": "Clinical and video evidence in favor of a lameness in only the trotting phase of the gait cycle.",
+    "option_d": "Clinical and video evidence in favor of a lameness in the horse's left front leg only.",
+    "correct_option": "B"
+  }
+}

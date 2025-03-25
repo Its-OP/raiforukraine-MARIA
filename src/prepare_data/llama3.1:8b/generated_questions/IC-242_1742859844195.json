@@ -1,0 +1,12 @@
+{
+  "folder": "IC-242",
+  "content": "{{knowledge objective\n|Identifiant=OIC-242-08-B\n|Item_parent=Hyperthyroidism\n|Item_parent_short=Hyperthyroidism\n|Rank=B\n|Title=Knowing the indications for thyroid scintigraphy and ultrasonography\n|Description=Etiological diagnosis of hyperthyroidism\n|Section=Additional examinations\n|Contributors=Dr Camille Buffet,Dr Magalie Haissaguerre\n|Order=8}}\n\n[[File:Place of ultrasound and thyroid scintigraphy in the aetiological approach to hyperthyroidism.jpg|vignette]]",
+  "question": {
+    "question": "What are the indications for thyroid scintigraphy and ultrasonography in the etiological diagnosis of hyperthyroidism?",
+    "option_a": "Thyroid scintigraphy is used to assess thyroid function and detect thyroid nodules, while ultrasonography is used to guide fine-needle aspiration biopsies.",
+    "option_b": "Thyroid scintigraphy is used to detect thyroiditis and ultrasonography is used to assess thyroid nodules and guide fine-needle aspiration biopsies.",
+    "option_c": "Both thyroid scintigraphy and ultrasonography are used to assess thyroid function and detect thyroid nodules.",
+    "option_d": "Thyroid scintigraphy is used to assess thyroid nodules and ultrasonography is used to detect thyroiditis.",
+    "correct_option": "C"
+  }
+}

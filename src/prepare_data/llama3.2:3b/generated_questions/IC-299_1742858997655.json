@@ -1,0 +1,46 @@
+{
+  "folder": "IC-299",
+  "content": "{{knowledge objective\n|Identifiant=OIC-299-02-A\n|Item_parent=Intracranial tumours\n|Item_parent_short=Intra-cranial tumours\n|Rank=A\n|Title=Know the definition of primary intracranial tumours: central nervous system and adnexa\n|Description=Know the distinction between tumours originating in the CNS and tumours originating in its adnexa\n|Rubric=Definition\n|Contributors=Dr Thi\u00e9baud PICART (Hospices Civils de Lyon),Dr Pierre ANTH\u00c9RIEU (Toulouse University Hospital),Pr Fran\u00e7ois VASSAL (Saint-Etienne University Hospital)\n|Order=2}}\n\n- Primary brain tumour =''' intra-axial, developed within the brain itself (i.e. brain, trunk, cerebellum), e.g. glioblastoma\n\n- Primary adnexal tumour = extra-axial, developed from the meninges and cranial nerves, e.g. meningioma and schwannoma/neuroma of the vestibular nerve.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What type of tumour originates from the meninges and cranial nerves?",
+        "description": "Identify the type of tumour that develops from the meninges and cranial nerves.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Intra-axial tumour",
+        "description": "A tumour developed within the brain itself",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Extra-axial tumour",
+        "description": "A tumour developed from the meninges and cranial nerves",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Central nervous system tumour",
+        "description": "A tumour originating from the CNS",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Peripheral nervous system tumour",
+        "description": "A tumour originating from the PNS",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The correct option letter",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

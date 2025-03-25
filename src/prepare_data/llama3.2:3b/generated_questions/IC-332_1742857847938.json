@@ -1,0 +1,46 @@
+{
+  "folder": "IC-332",
+  "content": "{{knowledge objective\n|Identifiant=OIC-332-07-B\n|Item_parent=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.\n|Item_parent_short=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.\n|Rank=B\n|Title=Know the investigation strategy for haemorrhagic shock\n|Description=None\n|Rubric=Additional investigations\n|Contributors=Julien Poissy\n|Order=7}}\n\nA distinction is made between\n\n1\u00b0) Biological tests. The aim is to confirm the haemorrhage, quantify the blood loss and assess its severity.\n\nThis is how it works:\n\n- CBC-platelets\n\n- Arterial GDS with lactataemia\n\n- Haemostasis: PT, APTT, fibrinogen, ionised calcium\n\n- Group ABO-Rh\n\n\n2\u00b0) Etiological examinations :\n\n1.      External haemorrhage\n\no Haematemesis, melena, rectal discharge: FOGD+/-rectosigmoidioscopy\n\no Vascular wound/traumatic wound: external compression/twist and call the surgeon\n\no Gynaeco-obstetric haemorrhage: under-valve examination, uterine revision\n\n2.      Non-external haemorrhage\n\no Traumatic context: FAST-echo, chest x-ray, pelvic x-ray +/- injected thoraco-abdominal-pelvic CT scan\n\no Non-trauma: injected thoraco-abdomino-pelvic scan",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary aim of biological tests in diagnosing haemorrhagic shock?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To determine the underlying cause of the shock",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "To confirm the presence of a blood transfusion reaction",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "To identify the severity of the blood loss and assess its impact on organ function",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "To rule out an allergic reaction to a medication",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "To identify the severity of the blood loss and assess its impact on organ function",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

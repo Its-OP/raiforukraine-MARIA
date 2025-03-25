@@ -1,0 +1,41 @@
+{
+  "folder": "IC-235",
+  "content": "{{knowledge objective\n|Identifiant=OIC-235-01-A\n|Item_parent=Acute pericarditis\n|Item_parent_short=Acute pericarditis\n|Rank=A\n|Title=Know the definition of acute pericarditis\n|Description=None\n|Rubric=Definition\n|Contributors=Jennifer Cautela\n|Order=1}}\n\n\n* Acute inflammation of the leaflets of the pericardium\n* Accompanied by pericardial effusion or not (\"dry pericarditis\")\n* If associated with elevated troponin = myopericarditis",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a characteristic of acute pericarditis?",
+        "description": "Choose the correct definition of acute pericarditis.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Accompanied by pericardial effusion or not (dry pericarditis)",
+        "description": "This is a characteristic of acute pericarditis."
+      },
+      "option_b": {
+        "title": "Always accompanied by elevated troponin levels",
+        "description": "This is a characteristic of acute pericarditis."
+      },
+      "option_c": {
+        "title": "Always accompanied by inflammation of the leaflets of the pericardium",
+        "description": "This is a characteristic of acute pericarditis."
+      },
+      "option_d": {
+        "title": "Never accompanied by pericardial effusion",
+        "description": "This is a characteristic of acute pericarditis."
+      },
+      "correct_option": {
+        "title": "A",
+        "description": ""
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

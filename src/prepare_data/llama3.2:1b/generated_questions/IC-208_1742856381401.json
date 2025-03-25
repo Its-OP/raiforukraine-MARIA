@@ -1,0 +1,12 @@
+{
+  "folder": "IC-208",
+  "content": "{{knowledge objective\n|Identifiant=OIC-208-02-A\n|Item_parent=Chronic respiratory failure\n|Item_parent_short=Chronic respiratory failure\n|Rank=A\n|Title=Knowing the clinical evidence for obstructive CKD and restrictive CKD\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=2}}\nThe presence of a cough with chronic sputum is in favour of obstructive CKD (COPD, bronchial dilatation). The clinical examination should look for wheezing, ronchi, a decrease in vesicular murmur (in the case of associated emphysema) and signs of thoracic distension (barrel chest, Hoover's sign, increase in antero-posterior diameter, shortening of the suprasternal segment, tripod position, etc.).\n\nRestrictive CKD should be suspected in the presence of exertional dyspnoea. Infiltrative lung disease should be suspected in the presence of a dry cough and tele-inspiratory crackles. The clinical examination may look for skeletal deformity (kyphoscoliosis) and signs of diaphragmatic dysfunction in favour of restrictive CKD related to an abnormality of the ventilatory pump (CKD with healthy lung).",
+  "question": {
+    "question": "What is the primary indicator of obstructive Chronic Kidney Disease (CKD)?",
+    "option_a": "A dry cough",
+    "option_b": "Exertional dyspnoea",
+    "option_c": "Wheezing, ronchi, a decrease in vesicular murmur (in the case of associated emphysema)",
+    "option_d": "Tele-inspiratory crackles",
+    "correct_option": "option_c"
+  }
+}

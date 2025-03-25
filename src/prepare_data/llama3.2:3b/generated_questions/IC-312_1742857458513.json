@@ -1,0 +1,46 @@
+{
+  "folder": "IC-312",
+  "content": "{{knowledge objective\n|Identifiant=OIC-312-07-B\n|Item_parent=Breast tumours\n|Item_parent_short=Breast tumours\n|Rank=B\n|Title=Photographs of breast skin lesions/anomalies\n|Description=Bloody/lactescent discharge, flat spot, inflamed breast\n|Rubric=Multimedia content\n|Contributors=\n|Order=7}}\n\n[[File:SLIDE 2.jpg|vignette|Mammary asymmetry, left breast inflamed and edematous, orange peel appearance]]\n[[File:Slide 3.jpg|vignette|Mammary retraction (\"axe-like\") opposite the 3 o'clock radius of the left breast]]",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a common symptom of breast skin lesions/anomalies?",
+        "description": "A breast skin lesion/anomaly may present with which of the following symptoms?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Swollen lymph nodes",
+        "description": "Enlarged lymph nodes in the neck or armpits",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Itching or redness",
+        "description": "Skin itching or redness around the affected area",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Breast feeding difficulties",
+        "description": "Discomfort or pain during breastfeeding",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Nipple discharge",
+        "description": "A bloody or lactescent discharge from the nipple",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Nipple discharge",
+        "description": "A bloody or lactescent discharge from the nipple",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

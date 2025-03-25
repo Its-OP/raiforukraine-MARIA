@@ -1,0 +1,46 @@
+{
+  "folder": "IC-134",
+  "content": "{{knowledge objective\n|Identifiant=OIC-134-09-A\n|Item_parent=Neurophysiological bases, physiopathological mechanisms of acute and chronic pain\n|Item_parent_short=Neurophysiological bases, pathophysiological mechanisms of acute and chronic pain\n|Rank=A\n|Title=Know how to diagnose cancer pain\n|Description=Knowing the different types of cancer pain and the particularities of management\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=9}}\n- According to an Inca survey carried out for the second cancer plan in 2010, 53% of patients suffering from all cancers and all stages of the disease say they suffer from pain, and 28% consider their pain to be severe.\n\n- Among those with advanced cancer, 62% appear to be under-treated. Pain persists in 14% of patients in remission.\n\n\n'''<u>Mechanisms of pain in cancer patients</u> ''''\n\n\nCancer pain is caused by several mechanisms: nociceptive, neuropathic, mixed (neuropathic and nociceptive), and nociplastic.\n\n\n- '''<u>Classification of cancer pain</u>''''\n\n'''Cancer-related pain: acute or chronic'''\n\n- Related to the tumour: pain can be nociceptive or neuropathic (due to radicular compression, epiduritis, plexus invasion in particular).\n\n- Related to cancer treatments (surgery, chemotherapy, radiotherapy, hormone therapy): this is often neuropathic pain.\n\n\n'''Types of pain according to duration and evolution'''\n\n\n- Often continuous background pain\n\n- Paroxysmal pain such as throbbing, stabbing or electric shocks, or which may correspond to an increase in continuous pain.\n\n- Paroxysmal pain attacks (PPA)'' or ''breakthrough pain'': these are brief, often intense pain attacks, occurring without any connection with the dose or rate of administration of background treatment, often in the context of bone metastases. The paroxysm is reached in less than 3 minutes. In half the cases, the pain lasts for more than 30 minutes. ADP must be distinguished from pain attacks occurring at the end of a morphine dose?\n\n'''<u>Objectives and therapeutic principles of cancer pain</u>''''\n\nThe objectives of adequate analgesic treatment for cancer pain are :\n\n- No or low-intensity background pain.\n\n- Respect for sleep.\n\n- Fewer than 4 painful attacks per day with treatment efficacy > 50%.\n\n- Normal activities, although limited by the progression of the cancer, are still possible.\n\n- Minor or no adverse effects of treatment.\n\n<u>''Specific features of cancer pain treatments'' (Table 1)</u>\n\n\n- For nociceptive pain, this treatment is essentially based on the WHO levels'' and uses level I, II and III analgesics (see item 135): Level I analgesics are proposed for mild to moderate pain, Level II analgesics for moderate to severe pain, either immediately or in the event of non-response to Level I analgesics, and Level III analgesics (strong opiates) for severe pain, either immediately or in the event of non-response to the previous levels of analgesics.\n\n- ''For neuropathic pain, or in the case of an associated neuropathic component (mixed pain), the treatments are those for neuropathic pain'' (see heading in item 135): gabapentin, duloxetine, tricyclics, transcutaneous electrical external neurostimulation (TENS), local anaesthetic plasters.\n\n- Intramedullary analgesic treatments and peri-nervous blocks are indicated for bone pain, or pain refractory to previous treatments (neuropathic or nociceptive), especially if high doses of strong systemic opiates are required.\n\n- Psychological treatment by a qualified professional (clinical psychologist) is recommended in all cases.\n\n- Complementary pain relief techniques can be added to the previous treatments\n\n- Surgery, cementoplasty, vertebroplasty, radiotherapy and biphosphonates may be offered specifically for bone pain.\n\n- If high doses of systemic morphine are used, the implantation of a reservoir pump and an intrathecal catheter should be considered.\n\n- Radiotherapy is sometimes considered for pain relief (stereotactic radiotherapy in particular).\n{| class=\"wikitable\"\n| colspan=\"3\" |'''Table 1. TREATMENT OF PAIN in cancer according to its mechanisms (examples)'''\n<br />\n|-\n|Cause of pain\n|Treatment\n|Other therapies\n|-\n|Excess nociception\n\n\n\n\nNeuropathic\n|Level I, II, III analgesics\n\n\n\n\nTricyclic antidepressants\n\nIRSNA* (++ duloxetine)\n\nGabapentin\n\nPregabalin\n\nTopical anaesthetics Patches capsaicin 8\n|Nerve blocks\n\nTranscutaneous electrical stimulation\n\nNerve blocks\n|-\n|Bone pain\n\n(tumour or metastases)\n|Tier I, II or III\n\nRadiotherapy\n\nNerve blocks\n\nBisphosphonates\n\nNSAIDS\n\nSurgery, cementoplasty/vertebroplasty\n|Immobilisation\n|-\n|Soft tissue infiltration\n|Tier I, II or III\n\nNSAIDS\n\nCorticosteroids\n|Nerve blocks\n|-\n|Lymphoedema\n|Gentle massage\n\nRaising\n\nCompression stockings\n|Corticosteroids\n|}\n<nowiki>*</nowiki> SNRI: serotonin and noradrenaline reuptake inhibitors",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary mechanism of pain treatment for neuropathic pain in cancer patients?",
+        "description": "The treatment mechanism for neuropathic pain in cancer patients",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "WHO levels of analgesics",
+        "description": "The World Health Organization levels of analgesics",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Tricyclic antidepressants",
+        "description": "Tricyclic antidepressants as a treatment for neuropathic pain",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Nerve blocks",
+        "description": "Nerve blocks as a treatment for neuropathic pain",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Gabapentin",
+        "description": "Gabapentin as a treatment for neuropathic pain",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "d",
+        "description": "The correct option letter",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

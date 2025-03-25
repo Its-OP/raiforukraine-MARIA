@@ -1,0 +1,12 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-02-B\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=B\n|Title=Knowing the frequency of different STIs and their risk factors\n|Description=None\n|Rubric=Epidemiology\n|Contributors=\n|Order=2}}\n'''Gonococcal disease:''' increasing incidence\n\n- Men +++/ women\n\n- Higher in Ile-de-France\n\n\n'''Chlamydia:''' more common than gonorrhoea.\n\n- Leading cause of bacterial STIs in industrialised countries (prevalence up to 10%).\n\n- First identified cause of acute urethritis\n\n- Peak incidence 15-34 in women and 20-39 in men\n\n- High frequency of asymptomatic carriage\n\n\n'''Syphilis:'''\n\n- On the rise since 2000 in France and other industrialised countries,\n\n- Male homosexuals +++ in metropolitan France, 40% of patients are infected with HIV\n\n- Heterosexuals +++ in overseas departments and regions (risk of congenital syphilis)\n\n\n'''HPV infection:''' Most frequent STI, increasing in developed countries (in 16-25 year olds +++)\n\n- Nearly 40% of young European women are infected with HPV\n\n- Worldwide prevalence of latent infections: 25% of under-25s.\n\n\nTrichomoniasis Low in France for several years, similar prevalence in women and men.\n\nThe main risk factors for STIs are: multiple partnerships (at least 2 different partners during the year), a recent change of partner, an STI in a partner, a history of STIs, another active STI, male homosexuality, prostitution and sexual violence.",
+  "question": {
+    "question": "What is the estimated incidence of gonococcal disease in Ile-de-France?",
+    "option_a": "men",
+    "option_b": "women",
+    "option_c": "Ile-de-France",
+    "option_d": "men",
+    "correct_option": "men"
+  }
+}

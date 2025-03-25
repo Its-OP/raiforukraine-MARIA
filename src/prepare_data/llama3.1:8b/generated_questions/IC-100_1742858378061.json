@@ -1,0 +1,12 @@
+{
+  "folder": "IC-100",
+  "content": "{{knowledge objective\n|Identifiant=OIC-100-07-A\n|Item_parent=Unusual acute and chronic headache in adults and children\n|Item_parent_short=Unusual acute and chronic headache in adults and children\n|Rank=A\n|Title=Knowing how to initiate headache treatment in the emergency department\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=7}}\n'''1. treatment of suspected secondary headache''' [[Assessment and management of acute pain SD-259|(assessment and management of acute pain)]]\n\n- Lying down, head at 30\u00b0, patient calm, darkness if photophobia\n\n- On an empty stomach\n\n- '''[[Prescribe analgesics SD-250|Analgesic treatment]]''' (paracetamol 1g, nefopam [Acupan\u00ae] 20 mg) combined with antiemetic treatment if nausea/vomiting (metoclopramide). IV if associated digestive problems. Switch to a level 2 analgesic if unsuccessful.\n\n- Avoid prescribing non-steroidal anti-inflammatory drugs (NSAIDs) SD-249|aspirin and NSAIDs which may aggravate haemorrhage.\n\n- Avoid sedatives that may mask the emergence of consciousness disorders.\n\n- The ''etiological treatment'' depends on the cause identified by complementary examinations\n\n\n'''2. Treatment of primary headache attacks''' [[Assessment and management of acute pain SD-259|(assessment and management of acute pain)]]\n\n- Isolating the patient\n\n- IV rehydration if necessary (severe vomiting)\n\n- IV treatment with analgesic (paracetamol 1g, nefopam [Acupan\u00ae] 20 mg) or NSAID (ketoprofen 100 mg) combined with an antiemetic (metoclopramide 10 mg).\n\n- If the headache persists unchanged, the diagnosis of a primary headache attack should be questioned, and a search made for a cause of secondary headache.",
+  "question": {
+    "question": "What is the recommended initial treatment for a patient with suspected secondary headache in the emergency department?",
+    "option_a": "Administer IV rehydration and analgesic treatment with paracetamol and nefopam",
+    "option_b": "Prescribe analgesics such as paracetamol and nefopam orally, combined with antiemetic treatment if nausea/vomiting",
+    "option_c": "Administer IV NSAIDs such as aspirin and ketoprofen, combined with an antiemetic",
+    "option_d": "Isolate the patient and monitor for signs of secondary headache",
+    "correct_option": "B"
+  }
+}

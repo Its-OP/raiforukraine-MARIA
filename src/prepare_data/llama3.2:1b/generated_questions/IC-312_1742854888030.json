@@ -1,0 +1,23 @@
+{
+  "folder": "IC-312",
+  "content": "{{knowledge objective\n|Identifiant=OIC-312-06-A\n|Item_parent=Breast tumours\n|Item_parent_short=Breast tumours\n|Rank=A\n|Title=Knowing the clinical presentations of breast tumours\n|Description=Clinical breast signs: nodule, discharge, inflammation, skin lesions\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=6}}\nThe clinical examination includes :\n\n* An interview to look for breast pain, self-exploration of nodules, changes in general condition (''asthenia'', ''weight loss'').\n\n* An inspection to look for changes in the skin of the breast or nipple: retraction, dimpling or flattening, deviation or invagination of the nipple, \"nipple discharge\" or eczematous appearance of the nipple, orange peel skin, skin oedema, \"skin ulcer\", inflammation with breast enlargement, localised or diffuse \"erythema\" and local heat (suggestive of inflammatory breast cancer).\n* Bilateral palpation of the breasts and the axillary, supra- and sub-clavicular lymph nodes to look for a nodule in the breast, or single or multiple adenopathies (axillary or supra- or sub-clavicular lymph nodes).",
+  "question": {
+    "properties": {
+      "question": "What are the main clinical signs to look for during a breast examination?",
+      "option_a": "The 'mammogram' is the preferred method for detecting breast tumours.",
+      "option_b": "A nipple discharge may indicate a breast tumour, particularly if it is bloody.",
+      "option_c": "An orange peel skin appearance is a sign of breast cancer.",
+      "option_d": "A breast lump or nodule may be felt during the examination.",
+      "correct_option": "option_c"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ],
+    "type": "object"
+  }
+}

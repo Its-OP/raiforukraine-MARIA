@@ -1,0 +1,46 @@
+{
+  "folder": "IC-208",
+  "content": "{{knowledge objective\n|Identifiant=OIC-208-08-A\n|Item_parent=Chronic respiratory failure\n|Item_parent_short=Chronic respiratory failure\n|Rank=A\n|Title=Knowing the consequences of CKD: acute respiratory failure, polycythemia, pulmonary hypertension, fluid and sodium retention.\n|Description=None\n|Topic=Monitoring and/or prognosis\n|Contributors=\n|Order=8}}\nRelated to hypoxaemia\n\n* Polycythemia (inconstant, other mechanisms including inflammation associated with chronic pathologies can counteract this phenomenon).\n* Group 3 pulmonary hypertension\n** Related to chronic hypoxic pulmonary vasoconstriction.\n** Can be looked for on cardiac ultrasound (assessment of systolic pulmonary artery pressure) and clinical examination (signs of right ventricular failure grouped under the term chronic pulmonary heart disease in this context).\n**\n** Related to hypercapnia\n*** Asthenia, somnolence, impairment of higher functions",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a consequence of chronic kidney disease (CKD)?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Acute respiratory failure",
+        "description": "A complication of CKD that can lead to respiratory failure",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Pulmonary hypertension",
+        "description": "A common consequence of CKD, but also related to chronic hypoxic pulmonary vasoconstriction",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Fluid and sodium retention",
+        "description": "A consequence of CKD, but not directly related to the options listed",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Hypercapnia",
+        "description": "A condition characterized by elevated CO2 levels, but not a direct consequence of CKD",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Group 3 pulmonary hypertension",
+        "description": "The correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

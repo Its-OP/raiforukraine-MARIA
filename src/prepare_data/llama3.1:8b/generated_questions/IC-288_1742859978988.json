@@ -1,0 +1,12 @@
+{
+  "folder": "IC-288",
+  "content": "{{knowledge objective\n|Identifiant=OIC-288-11-A\n|Item_parent=Hemorrhoidal pathology\n|Item_parent_short=Hemorrhoidal pathology\n|Rank=A\n|Intitle=Photographs of haemorrhoidal thrombosis\n|Description=\n|Rubric=Multimedia content\n|Contributors=\n|Order=11}}\n\n<gallery widths=\"320\" heights=\"320\">\nFile:Image of haemorrhoidal thrombosis.PNG|External haemorrhoidal thrombosis with ulceration at the top of the clot\n</gallery>",
+  "question": {
+    "question": "What is the condition depicted in the photograph?",
+    "option_a": "Haemorrhoidal prolapse",
+    "option_b": "Haemorrhoidal thrombosis with ulceration",
+    "option_c": "Anal fissure",
+    "option_d": "Rectal abscess",
+    "correct_option": "B"
+  }
+}

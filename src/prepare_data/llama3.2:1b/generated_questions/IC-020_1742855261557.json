@@ -1,0 +1,12 @@
+{
+  "folder": "IC-020",
+  "content": "{{knowledge objective\n|Identifiant=OIC-020-32-B\n|Item_parent=Health research methodology\n|Item_parent_short=Health research methodology\n|Rank=B\n|Intitul\u00e9=Modalit\u00e9s de la communication scientifique ; processus de publication d'un article scientifique ; revues pr\u00e9datrices.\n|Description=None\n|Rubric=Definition\n|Contributors=Julie Berbis (CUESP),David Hajage (CIMES)\n|Order=32}}\n\nResearchers communicate and share their findings by publishing scientific articles in general or specialist journals. The \"publication process\" involves a reading committee. The manuscript submitted by the researcher to the publisher for publication is then sent for review to peer-reviewers, specialists in the field, who assess the quality of the article (peer-reviewing). The manuscript may then be rejected, accepted as is or accepted subject to modifications of varying degrees.\n\nPredatory journals'' are a scam that offers researchers the opportunity to publish their work quickly and openly (via e-mail solicitations), in return for a publication fee. They present themselves at first glance as serious, but in reality offer no guarantee of scientific integrity and publish manuscripts without any form of evaluation or validation, simply for profit. There are more than 12,000 of them around the world, and researchers need to be increasingly vigilant. However, there is no agreed definition of a predatory journal, and some initiatives offer non-exhaustive lists of scientific journals presumed to be predatory (such as Beall's List) or non-predatory (such as that of Sorbonne University).\n\n<br />",
+  "question": {
+    "question": "What is the primary purpose of the publication process in scientific research?",
+    "option_a": "To publish research findings in general or specialist journals",
+    "option_b": "To publish research findings in general or specialist journals, with a focus on quality and peer-review",
+    "option_c": "To publish research findings in general or specialist journals, with a focus on speed and profit",
+    "option_d": "To publish research findings in general or specialist journals, without any form of evaluation or validation",
+    "correct_option": "option_b"
+  }
+}

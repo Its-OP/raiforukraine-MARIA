@@ -1,0 +1,46 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-01-A\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=A\n|Title=Knowing the causes of sexually transmitted infections (STI) according to their clinical expression\n|Description=None\n|Rubric=Etiologies\n|Contributors=\n|Order=1}}\nNeisseria gonorrhoeae and Chlamydia trachomatis, alone or in combination, are STIs responsible for urogenital infections in men and cervicovaginitis in women.\n\n==== '''Gonococcal disease:''' ====\n- ''Neisseria gonorrhoeae'' or gonococcus, Gram-negative encapsulated diplococcus, intracellular.\n\n- Main sites of infection: urethra, cervix and vagina, throat\n\nUncomplicated infections:\n\n- In men: often noisy (urethritis +++, anorectitis, oropharyngitis), but may be asymptomatic\n\n- In women: cervicitis; anorectitis and oropharyngitis may occur but are usually asymptomatic\n\n==== '''Chlamydia:''' ====\n- ''Chlamydia trachomatis''\n\n- Gram-negative bacillus, obligate intracellular, immobile\n\nUncomplicated chlamydiosis :\n\n- ''In men'': 50% asymptomatic, urethritis, anorectitis, opharyngitis (less noisy than with gonococcal disease)\n\n- In women: cervicitis but usually asymptomatic\n\n==== '''Syphilis:''' ====\n- ''Treponema pallidum'', spirochete\n\nEarly syphilis :\n\n- '''Primary''': chancre at the point of inoculation, satellite adenopathy\n\n- '''Secondary''': syphilitic roseola, syphilis (papular, palmoplantar, genital, etc.), involvement of the phanera (depilation of the eyebrows, alopecia, etc.) +/- general signs (fever) and non-cutaneous-mucosal signs (headache, poly-ADP, etc.).\n\n==== '''HPV infection:''' ====\n- ''Human papillomavirus''\n\n- Low-risk oncogenic HPV (++ 6 and 11), high-risk (++ 16 and 18)\n\nAnogenital lesions :\n\n- Condylomata: acuminate (\"cockscomb\"), flat (pinkish maculo-papular)\n\n- '''Intraepithelial neoplasia (IEN):''' precancerous lesions, HSIL or LSIL\n\n==== '''Trichomoniasis:''' ====\n- ''Trichomonas vaginalis,'' flagellate protozoan, anaerobic\n\nUncomplicated trichomoniasis :\n\n- In men: asymptomatic +++, subacute urethritis, balanoposthitis\n\n- In women: asymptomatic +++, cervicovaginitis or vulvovaginitis (pruritus +++)",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary site of infection for Neisseria gonorrhoeae?",
+        "description": "Identify the correct site of infection for Neisseria gonorrhoeae",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Cervix and vagina",
+        "description": "Intracellular, Gram-negative encapsulated diplococcus, intracellular",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Throat",
+        "description": "Gram-negative bacillus, obligate intracellular, immobile",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Urethra",
+        "description": "50% asymptomatic, urethritis, anorectitis, opharyngitis (less noisy than with gonococcal disease)",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Anogenital lesions",
+        "description": "Chancre at the point of inoculation, satellite adenopathy",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Urethra",
+        "description": "Urethra",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

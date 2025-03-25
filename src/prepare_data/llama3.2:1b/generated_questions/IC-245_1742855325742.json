@@ -1,0 +1,12 @@
+{
+  "folder": "IC-245",
+  "content": "{{knowledge objective\n|Identifiant=OIC-245-10-B\n|Item_parent=Adrenal insufficiency in adults and children\n|Item_parent_short=Adrenal insufficiency in adults and children\n|Rank=B\n|Title=Knowing the other causes of corticotropic insufficiency\n|Description=None\n|Rubric=Etiologies\n|Contributors=Claire Briet,St\u00e9phanie Espiard\n|Order=10}}\nOther causes of corticotropic insufficiency are :\n\n* autoimmune disease (pituitary) ;\n* granulomatosis (sarcoidosis in particular);\n* trauma\n* pituitary surgery\n* radiotherapy;\n* sudden necrosis during hypovolaemic shock in the post-partum period (Sheehan's syndrome) (very rare).",
+  "question": {
+    "question": "What is a common cause of adrenal insufficiency in adults and children?",
+    "option_a": "Autoimmune disease (pituitary)",
+    "option_b": "Granulomatosis (sarcoidosis in particular)",
+    "option_c": "Trauma",
+    "option_d": "Pituitary surgery",
+    "correct_option": "option_b"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-247",
+  "content": "{{knowledge objective\n|Identifiant=OIC-247-16-A\n|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Rank=A\n|Title=How to recognise hypoglycaemia, hyperosmolar coma or diabetic ketoacidosis.\n|Description=None\n|Rubric=Identification of the emergency\n|Contributors=Claire Briet\n|Order=16}}\n'''<u>HYPEROSMOLAR COMA</u>'''\n\n- Clinical signs :\n\n*Intense intra- and extracellular dehydration, with [[Acute renal failure - Anuria|Acute renal failure]].\n*Disorders of alertness are sometimes indicative of unrecognised type 2 diabetes. [[Coma and consciousness disorders SD-028]]\n\n- Biological criteria :\n\n*very high blood sugar often > 30 mmol/l (6 g/l)\n\n*osmolality > 320 mOsmol/kg ((Na<sup>+</sup>+ 13) \u00d7 2\n\n*pH > 7.30\n\n- risk factors:\n\n*age > 80 years\n\n*acute infection\n\n*dehydration: diuretics, poor access to drinks (nursing homes, dementia), corticosteroid therapy, heatwave or fever\n\n'''<u>ACIDO-CETOSIS DIABETIC</u>''''\n\n- Definition:\n\n*ketonemia (> 3 mmol/l) or significant ketonuria (> \"++\"); [[Urine dipstick analysis SD-182]].\n*blood glucose > 250 mg/dl;\n*bicarbonate < 18 mmol/l and/or VEIN pH < 7.30. [Bicarbonate analysis SD-197\n\nBegins with a phase of ketosis (positive ketonemia, bicarbonate and normal pH).\n\n- Clinical :\n\nKetosis phase: aggravated cardinal syndrome (thirst, dry mouth, polyuria, weight loss), associated with digestive disorders (nausea, vomiting [[Vomiting SD-013]], abdominal pain [[Abdominal pain SD-004]]).\n\nThen ketoacidosis phase: Kussmaul dyspnoea, rarely associated with consciousness disorders (stupor) and mixed dehydration, predominantly extracellular.\n\n- Severity criteria: if present, admission to intensive care unit: life-threatening emergency\n\n*elderly subjects;\n*ketonemia > 6 mmol/l ;\n*bicarbonate < 5 mmol/l ;\n*arterial or venous pH < 7; [[Analysis of a blood gas result SD-192]]\n*hypokalaemia, < 3.5 mmol/l on admission;\n*Glasgow score < 12 ;\n*SaO<sub>2</sub> < 92% ;\n*systolic BP < 90 mm Hg\n*heart rate > 100 or < 60 bpm;\n*anion gap * > 16 ( = (Na<sup>+</sup> + K<sup>+</sup>) - (Cl<sup>-</sup> + HCO<sub>3</sub><sup>-</sup>))\n\n- Differential diagnosis :\n\n*Abdominal emergency (pancreatitis: elevated pancreatic enzymes during ketoacidosis, surgical emergencies)\n\n*Hyperosmolar coma: ''CETONEMIA negative'', higher blood sugar levels\n\n'''<u>HYPOGLYCEMIA</u>''''\n\n[Hypoglycemia SD-209]-\n\nDefinition\n\n*In diabetics: when blood glucose < 70 mg/dl [< 3.9 mmol/l].\n*Threatening hypoglycaemia: < 54 mg/dl [< 3 mmol/l].\n*Severe hypoglycaemia: regardless of blood glucose level, is a hypoglycaemia requiring the intervention of a third party.\n**Three levels of severity: severe hypoglycaemia; severe hypoglycaemia with impaired consciousness and/or convulsion; severe hypoglycaemia requiring hospitalisation.\n\n- Clinical:\n\n*adrenergic symptoms: anxiety, tremor, sweating, pallor, tachycardia, palpitation, nausea\n*neuro-glucopenic symptoms: impaired concentration, slurred speech, tremor, motor disorders (hemiparesis, facial paralysis), visual disturbances, convulsions, confusion\n*Coma: deep, rapid onset, agitated, with pallor and sweating, hypothermia, pyramidal syndrome [[Coma and consciousness disorders SD-028]].",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a key criterion for diagnosing hyperosmolar coma?",
+        "description": "A condition characterized by severe dehydration and high blood sugar levels",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Blood glucose > 250 mg/dl",
+        "description": "A common criterion for diagnosing hyperosmolar coma",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Ketonemia > 3 mmol/l",
+        "description": "A criterion for diagnosing ketoacidosis, but not hyperosmolar coma",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Bicarbonate < 18 mmol/l",
+        "description": "A criterion for diagnosing diabetic ketoacidosis, but not hyperosmolar coma",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Osmolality > 320 mOsmol/kg",
+        "description": "A key criterion for diagnosing hyperosmolar coma",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Osmolality > 320 mOsmol/kg",
+        "description": "The correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

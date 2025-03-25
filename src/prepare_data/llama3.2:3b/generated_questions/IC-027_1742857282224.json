@@ -1,0 +1,46 @@
+{
+  "folder": "IC-027",
+  "content": "{{knowledge objective\n|Identifiant=OIC-027-26-B\n|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Rank=B\n|Title=Knowing the pathophysiology of antierythrocyte alloimmunisation\n|Description=Understand and explain foetomaternal alloimmunisation\n|Rubric=Physiopathology\n|Contributors=Alexandre Vivanti, Philippe Deruelle\n|Order=26}}\nAnti-erythrocyte alloimmunisation corresponds to the presence in a pregnant woman of an irregular antibody, i.e. non-A, non-B, directed against a blood group antigen. There are risks for the foetus and/or newborn baby if it has the corresponding antigen. This is the leading cause of foetal anaemia.\n\n\nThe patient may become immune during pregnancy as a result of foetomaternal haemorrhage (passage of \"incompatible\" foetal red blood cells into the maternal circulation).\n\n\nThe most frequent and serious alloimmunisations with foetal and neonatal consequences are anti-D (Rh1), c (Rh4) or Kell. Other blood group antigens may be involved much more rarely and with a lower risk (anti-E).\n\n\nThis situation can lead to foetal anaemia in cases of foetal-maternal blood incompatibility. If the foetus has the erythrocyte antigen corresponding to the maternal antibody, the passage of maternal antibodies across the placenta may be responsible for haemolysis and therefore foetal anaemia. In the case of severe anaemia, this can lead to hydrops (effusion of foetal serosa) and foetal death.\n\n'''312. [[Prevention of foetal risks SD-312|Prevention of foetal risks]]''''",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is anti-erythrocyte alloimmunisation?",
+        "description": "A question about the pathophysiology of anti-erythrocyte alloimmunisation",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "The presence of an antibody against a blood group antigen in the mother's circulation",
+        "description": "A plausible but incorrect option",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "The passage of maternal antibodies across the placenta",
+        "description": "A correct but incomplete option",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "A rare and serious alloimmunisation with foetal and neonatal consequences",
+        "description": "A distractor option that is partially correct but misleading",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "The leading cause of foetal anaemia",
+        "description": "The correct answer",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "D",
+        "description": "The correct letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

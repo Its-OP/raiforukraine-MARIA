@@ -1,0 +1,46 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-15-A\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=A\n|Title=Know the additional examinations to be carried out in the case of STIs: genital ulcerations, urethritis, orchitis, lower female infections, upper female infections, extragenital locations, etc.\n|Description=None\n|Rubric=Additional examinations\n|Contributors=\n|Order=15}}\nSTI test :\n\n- Serologies : HIV, HBV, treponemal test +/- non-treponemal test\n\n- PCR: Gonococcus and chlamydia (on 1st urine stream, urethral discharge, vaginal, pharyngeal and anal self-sampling depending on sexual practices)\n\n- Pharyngeal and anal PCR according to sexual practices\n\n- Culture: systematic for gonococcus, urethral discharge, vaginal self-sampling, depending on symptoms\n\n- Upper respiratory tract infection in women: CRP, CBC, samples taken with a speculum for direct examination + standard culture + PCR, surgical or radioguided samples if complicated infection for culture + PCR + to look for mycoplasma.\n\n- Examination of the cervix if there is a condyloma in the patient or her partner",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the additional examination to be carried out in the case of STIs with genital ulcerations?",
+        "description": "The additional examination to be carried out in the case of STIs with genital ulcerations",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "PCR: Gonococcus and chlamydia",
+        "description": "PCR test for gonococcus and chlamydia",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Culture: systematic for gonococcus",
+        "description": "Systematic culture for gonococcus",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Upper respiratory tract infection in women: CRP, CBC",
+        "description": "Blood tests for CRP and CBC",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Examination of the cervix",
+        "description": "Examination of the cervix for condyloma",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "CRP",
+        "description": "C-Reactive Protein",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

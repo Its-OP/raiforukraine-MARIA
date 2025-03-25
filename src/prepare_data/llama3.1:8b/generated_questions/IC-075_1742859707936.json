@@ -1,0 +1,12 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-24-A\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=A\n|Intitle=Withdrawal stage: find out about the proposed cessation aid each time you contact a healthcare professional\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=24}}\n'''Advice to stop''' : All healthcare professionals must suggest stopping (5A) at every consultation:\n\n# Ask: ask if the person smokes\n# Assess: assess their smoking habits\n# Advise: advise each smoker to stop smoking\n# Assist: discuss the range of aids and support available to help them achieve this goal\n# Arrange: offer written information to support this advice\n\nMotivational interviewing\n\nA patient-centred relational approach, the aim of which is to arouse or reinforce the patient's motivation to change, in order to help them change their behaviour.",
+  "question": {
+    "question": "What is the primary goal of motivational interviewing in the context of smoking cessation?",
+    "option_a": "To provide a list of available cessation aids and support",
+    "option_b": "To assess the patient's smoking habits and offer written information",
+    "option_c": "To help the patient change their behavior by arousing or reinforcing their motivation to quit",
+    "option_d": "To advise each smoker to stop smoking without discussing the range of aids available",
+    "correct_option": "C"
+  }
+}

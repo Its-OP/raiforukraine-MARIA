@@ -1,0 +1,46 @@
+{
+  "folder": "IC-134",
+  "content": "{{knowledge objective\n|Identifiant=OIC-134-01-A\n|Item_parent=Neurophysiological bases, physiopathological mechanisms of acute and chronic pain\n|Item_parent_short=Neurophysiological bases, pathophysiological mechanisms of acute and chronic pain\n|Rank=A\n|Title=Knowing the WHO definition of pain\n|Description=None\n|Rubric=Definition\n|Contributors=Bouhassira Didier\n|Order=1}}\n\n\n- Pain is currently defined (International Association for the Study of Pain) as: '''a sensory and emotional experience associated with, or resembling that associated with, actual or potential tissue damage'''.\n\n- This definition is accompanied by the following comments (Table):\n{| class=\"wikitable\"\n|- Pain is always a personal experience ''influenced to varying degrees by biological, psychological, social and environmental factors.''\n\n- '''Pain and nociception are two distinct phenomena.''' The presence of pain cannot be deduced solely from the activity of sensory neurons.\n\n- Over the course of their lives, individuals learn the concept of pain*.\n\n- Although pain can play an adaptive role, it can also have deleterious effects on social and psychological function and well-being.\n\n- '''The verbal description of pain is only one of the ways in which pain is expressed; the inability to communicate does not exclude the possibility that a human or an animal may feel pain'''\n|}\n''* Refers to the notion of pain as a \"learned\" or conditioned concept''\n\n- Chronic pain is generally defined as ''persistent or recurrent pain for at least 3 months and 2 months for chronic post-operative pain''.\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the definition of pain according to the International Association for the Study of Pain?",
+        "description": "The definition of pain is given as a sensory and emotional experience associated with, or resembling that associated with, actual or potential tissue damage.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "A sensory and emotional experience associated with actual tissue damage",
+        "description": "This option is a plausible definition of pain, but it lacks the 'or resembling that associated with' part of the original definition.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "A sensory and emotional experience associated with actual or potential tissue damage",
+        "description": "This option includes the 'or resembling that associated with' part of the original definition, making it a more accurate representation.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "A sensory and emotional experience associated with actual tissue damage only",
+        "description": "This option is incorrect because it excludes the 'or resembling that associated with' part of the original definition.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "A sensory and emotional experience associated with actual or potential tissue damage, but only if it is accompanied by a specific emotional response",
+        "description": "This option is incorrect because it adds an unnecessary condition to the definition of pain.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The correct option is the one that includes the full definition of pain.",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-20-A\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=A\n|Title=Know how to choose antibiotics after microbiological documentation of the STI.\n|Description=None\n|Topic=Management\n|Contributors=\n|Order=20}}\nGonococcal :\n\n- Ceftriaxone single dose IM or IV 1000 mg\n\n- If allergic to \u03b2-lactams: single dose of azithromycin or gentamicin or ciprofloxacin\n\n\nChlamydia :\n\n- Doxycycline per os 200mg for 7 days (or azithromycin 1g single dose but risk of resistance to other micro-organisms)\n\n- 2<sup>th</sup> intention: erythromycin or ofloxacin\n\n\nEarly syphilis: Benzathine penicillin G DU IM 2.4 million units\n\n\nTrichomoniasis: Metronidazole per os 2g single dose or 500 mg 2x/d 7 days or Secnidazole 2g single dose",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the recommended treatment for gonococcal infection?",
+        "description": "Choose the correct antibiotic treatment for gonococcal infection",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Ceftriaxone single dose IM or IV 1000 mg",
+        "description": "A commonly used antibiotic for gonococcal infection",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Doxycycline per os 200mg for 7 days",
+        "description": "A commonly used antibiotic for chlamydial infection",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Benzathine penicillin G IM 2.4 million units",
+        "description": "A commonly used antibiotic for syphilis treatment",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Metronidazole per os 2g single dose",
+        "description": "A commonly used antibiotic for trichomoniasis treatment",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "C",
+        "description": "",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

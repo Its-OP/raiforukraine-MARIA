@@ -1,0 +1,30 @@
+{
+  "folder": "IC-070",
+  "content": "{{knowledge objective\n|Identifiant=OIC-070-09-A\n|Item_parent=Psychological disorders in the elderly\n|Item_parent_short=Psychological disorders in the elderly\n|Rank=A\n|Title=Knowing the specificities of handling anxiolytics and hypnotics in elderly patients\n|Description=AnxiolyticsHypnotics\n|Rubric=Management\n|Contributors=Pierre Vandel,Marie Tournier\n|Order=9}}\n\nHigh iatrogenic risk in the elderly. Age-related consequences in terms of pharmacokinetics and pharmacodynamics to be taken into account.\n\nPolymedication and risk of frequent drug interactions.\n\nAnxiolytics and hypnotics must comply with specific prescribing rules for elderly patients: prescribe low doses; limited prescription duration (4 weeks); molecules with a short or intermediate half-life; prefer discontinuous (\"on-demand\") prescriptions; end of treatment date set on initiation and noted in the file.\n\nBenzodiazepine anxiolytics should be reserved for acute anxiety symptoms. Avoid in the treatment of chronic anxiety disorders. Monitor tolerance and risk of marked adverse effects in elderly patients.\n\nBenzodiazepine-like hypnotics (Z drugs) are not indicated for chronic insomnia. Their benefit/risk ratio is low in the elderly population (risk of falls and fractures).\n\nIf taken on a long-term basis, suggest a gradual withdrawal.",
+  "question": {
+    "properties": {
+      "question": "What is the recommended treatment approach for anxiolytics and hypnotics in elderly patients?",
+      "option_a": "High iatrogenic risk in the elderly. Age-related consequences in terms of pharmacokinetics and pharmacodynamics to be taken into account. Polymedication and risk of frequent drug interactions. Anxiolytics and hypnotics must comply with specific prescribing rules for elderly patients: prescribe low doses; limited prescription duration (4 weeks); molecules with a short or intermediate half-life; prefer discontinuous ('on-demand') prescriptions; end of treatment date set on initiation and noted in the file.",
+      "option_b": "High iatrogenic risk in the elderly. Age-related consequences in terms of pharmacokinetics and pharmacodynamics to be taken into account. Benzodiazepine anxiolytics should be reserved for acute anxiety symptoms. Avoid in the treatment of chronic anxiety disorders. Monitor tolerance and risk of marked adverse effects in elderly patients.",
+      "option_c": "Benzodiazepine anxiolytics should be reserved for acute anxiety symptoms. Avoid in the treatment of chronic anxiety disorders. Monitor tolerance and risk of marked adverse effects in elderly patients. Benzodiazepine-like hypnotics (Z drugs) are not indicated for chronic insomnia. Their benefit/risk ratio is low in the elderly population (risk of falls and fractures).",
+      "option_d": "Polymedication and risk of frequent drug interactions. Anxiolytics and hypnotics must comply with specific prescribing rules for elderly patients: prescribe low doses; limited prescription duration (4 weeks); molecules with a short or intermediate half-life; prefer discontinuous ('on-demand') prescriptions; end of treatment date set on initiation and noted in the file.",
+      "correct_option": "option_a",
+      "required": [
+        "question",
+        "option_a",
+        "option_b",
+        "option_c",
+        "option_d",
+        "correct_option"
+      ]
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

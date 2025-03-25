@@ -1,0 +1,12 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-05-B\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=B\n|Title=Knowing the mechanism of arterial damage (thrombogenicity, vasomotricity, inflammation)\n|Description=None\n|Topic=Physiopathology\n|Contributors=\n|Order=5}}\n\n\n\nTobacco smoke (median particle diameter = 0.3 microns)\n\n*penetrates the entire respiratory tree and the pulmonary alveoli\n*passes into the bloodstream and causes inflammatory phenomena\n*plays a role in arterial thrombosis (but not venous thrombosis)\n*causes endothelial dysfunction\n*promotes platelet aggregation, which ''increases the risk of arterial thrombosis''.",
+  "question": {
+    "question": "What is the effect of tobacco smoke on the body?",
+    "option_a": "Tobacco smoke only causes inflammation in the lungs",
+    "option_b": "Tobacco smoke promotes platelet aggregation, which increases the risk of arterial thrombosis",
+    "option_c": "Tobacco smoke only causes venous thrombosis",
+    "option_d": "Tobacco smoke has no effect on the cardiovascular system",
+    "correct_option": "B"
+  }
+}

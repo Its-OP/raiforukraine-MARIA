@@ -1,0 +1,12 @@
+{
+  "folder": "IC-226",
+  "content": "{{knowledge objective\n|Identifiant=OIC-226-12-A\n|Item_parent=Deep vein thrombosis and pulmonary embolism (see item 330)\n|Item_parent_short=Deep vein thrombosis and pulmonary embolism (see item 330)\n|Rank=A\n|Title=Knowing contraception contraindicated in cases of VTE (DVT, PE)\n|Description=None\n|Topic=Management\n|Contributors=Gilles Pernod, Virginie Dufrost, Guillaume Mah\u00e9\n|Order=12}}\nIn case of a history of MVTE:\n\n- any form of contraception containing oestrogen is contraindicated\n\n- Another method of contraception should be offered, mainly a micro-progestogen pill or intra-uterine device.",
+  "question": {
+    "question": "In cases of a history of MVTE, what should be done regarding contraception?",
+    "option_a": "Any form of contraception containing oestrogen is contraindicated",
+    "option_b": "Another method of contraception should be offered, mainly a micro-progestogen pill or intra-uterine device",
+    "option_c": "Hormonal IUDs are a safe option for women with a history of MVTE",
+    "option_d": "Barrier methods are the only recommended contraception for women with a history of MVTE",
+    "correct_option": "A"
+  }
+}

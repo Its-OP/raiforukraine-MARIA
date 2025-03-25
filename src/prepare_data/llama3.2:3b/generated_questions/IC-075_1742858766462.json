@@ -1,0 +1,46 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-23-B\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=B\n|Title=Knowing the diagnosis of psychiatric and addictive co-morbidities\n|Description=To know the frequent co-morbidity of psychiatric and addictive disorders; Ref. introductory item 74-79\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=23}}\n\n\n* Smoking may promote panic disorder\n* Significant smoking comorbidity in patients with psychiatric disorders\n** Schizophrenia 82% of smokers\n** Bipolar disorder 56% smokers\n\n* Before giving up smoking, look for anxiety disorders and depressive episodes.\n* Links between difficulty quitting and depressive symptoms\n\n<br />\n\n* Manifestations of anxiety and depression induced by withdrawal:\n** If lasting a few weeks => no pharmacological treatment but support in consultation\n** Beyond that => specific psychiatric treatment\n* After withdrawal, improvement in anxiety and depressive symptoms and quality of life.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a common comorbidity with smoking addiction?",
+        "description": "What is a frequent comorbidity of psychiatric and addictive disorders?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Schizophrenia",
+        "description": "A severe mental disorder that affects 1 in 100 people",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Bipolar disorder",
+        "description": "A mood disorder that affects a person's mood and energy levels",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Depressive disorder",
+        "description": "A mental health condition characterized by persistent sadness and loss of interest",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Anxiety disorder",
+        "description": "A mental health condition characterized by excessive worry and fear",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Schizophrenia",
+        "description": "A mental disorder that is often comorbid with smoking addiction",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

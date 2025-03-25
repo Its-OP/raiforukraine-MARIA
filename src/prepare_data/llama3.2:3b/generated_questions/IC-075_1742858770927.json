@@ -1,0 +1,46 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-09-A\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=A\n|Title=Knowing the epidemiology of smoking among young people\n|Description=Knowledge\n|Rubric=Epidemiology\n|Contributors=\n|Order=9}}\nAge of first cigarette\n\n*Tobacco experimentation at 14 and daily consumption at 15.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the typical age when most people start smoking?",
+        "description": "Choose the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "At 10 years old",
+        "description": "Some people start smoking as early as 10 years old",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "At 12 years old",
+        "description": "Many people start smoking at around 12 years old",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "At 14 years old",
+        "description": "Tobacco experimentation often begins at 14, but daily consumption may not start until later",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "At 16 years old",
+        "description": "Some studies suggest that most people start smoking at 16 years old",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "C",
+        "description": "The correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-109",
+  "content": "{{knowledge objective\n|Identifiant=OIC-109-07-B\n|Item_parent=Gait and balance disorders\n|Item_parent_short=Gait and balance disorders\n|Rank=B\n|Title=Knowing the aetiologies of astasia-abasia\n|Description=None\n|Rubric=Etiologies\n|Contributors=\n|Order=7}}\n- Psychogenic astasia abasia (depressive syndrome, sliding syndrome)\n\n- Secondary astasia-abasia (non-psychogenic): apraxia of walking or frontal ataxia",
+  "question": {
+    "question": "What is the secondary cause of astasia-abasia?",
+    "option_a": "Depressive syndrome",
+    "option_b": "Apraxia of walking or frontal ataxia",
+    "option_c": "Sliding syndrome",
+    "option_d": "Neurodegenerative disease",
+    "correct_option": "B"
+  }
+}

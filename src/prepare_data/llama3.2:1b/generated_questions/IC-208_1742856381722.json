@@ -1,0 +1,22 @@
+{
+  "folder": "IC-208",
+  "content": "{{knowledge objective\n|Identifiant=OIC-208-09-B\n|Item_parent=Chronic respiratory failure\n|Item_parent_short=Chronic respiratory failure\n|Rank=B\n|Title=Differentiating CKD according to pathophysiological mechanism (exchanger-related vs ventilatory pump or central control vs pulmonary vascularisation)\n|Description=None\n|Rubric=Physiopathology, Etiologies\n|Contributors=\n|Order=9}}\nThe main causes of CKD can be grouped according to the predominant pathophysiological mechanism:\n\n*Diseases of the pulmonary exchanger\n**Impaired ventilation/perfusion ratio: COPD, bronchial dilatation\n**Impairment of alveolar-capillary diffusion: diffuse infiltrative lung disease.\n*Diseases of the ventilatory pump\n**Neuromuscular diseases\n**Decreased thoracic compliance (skeletal deformities, obesity-hypoventilation syndrome)\n**Impairment of ventilatory control (rare brain stem disorders, major respiratory impairment by respiratory depressant drugs)",
+  "question": {
+    "question": "What is the main cause of Chronic Obstructive Pulmonary Disease (COPD)?",
+    "options": [
+      "Impaired ventilation/perfusion ratio: COPD, bronchial dilatation",
+      "Impairment of alveolar-capillary diffusion: diffuse infiltrative lung disease",
+      "Diseases of the ventilatory pump",
+      "Neuromuscular diseases"
+    ],
+    "correct_option": "A",
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

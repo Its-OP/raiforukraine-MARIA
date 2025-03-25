@@ -1,0 +1,20 @@
+{
+  "folder": "IC-032",
+  "content": "{{knowledge objective\n|Identifiant=OIC-032-05-B\n|Item_parent=Assessment and care of the newborn at term\n|Item_parent_short=Assessment and care of the newborn at term\n|Rank=B\n|Title=Knowing other screening tests\n|Description=Hip examination, hearing screening, vision screening\n|Heading=Management\n|Contributors=Guillaume Mortamet\n|Order=5}}\n\n# '''Examination of the hips ([[Term newborn examination SD-039|Term newborn examination]])''''  Congenital dislocation of the hips (CDH) affects 3 to 20 children per 1000 births, with 4 girls for every 1 boy. CCHD is the result of an abnormality in the antenatal development of the hip, leading to instability of the joint or even dislocation at birth.  The risk factors for LCH are :  - family history of 1st degree CHL; - breech presentation whatever the mode of delivery; - limitation of unilateral or bilateral hip abduction; - congenital asymmetric pelvis;\n\n- associated postural abnormalities ('genu recurvatum', torticollis).\n\nScreening consists of a clinical examination at birth and then at each consultation until walking age and looks for :\n\n- asymmetry of the folds and lengths of the lower limbs;\n\n- abduction limitation <60\u00b0;\n\n- instability of the hip using the Barlow manoeuvre, which reveals a protrusion in the case of a \"dislocatable hip\" or \"reducible dislocated hip\". In the case of an irreducible dislocated hip, there is no protrusion, only a limitation of abduction with asymmetry.\n\nIf there are any abnormalities in the clinical examination or risk factors for LCH, an ultrasound scan of the hips is prescribed. After 4 months, the reference examination is a pelvic X-ray.\n\n# '''Hearing screening (Hearing loss/deafness)''' 5% of children under the age of 6 have a hearing defect. Congenital CMV infection is the leading cause of congenital deafness Risk factors for congenital deafness are :  - family history; - birth before 32 weeks' gestation and/or birth weight <1800g; - perinatal asphyxia; - hyperbilirubinaemia >350 \u00b5mol/L; - neurological disorders; - malformation of the face and neck; - foetopathy (CMV, rubella, herpes, toxoplasmosis); - ototoxic treatment Screening is carried out systematically in maternity wards using induced acoustic emission tests (EAPT). If the examination is abnormal on two occasions, the newborn is referred to an ENT specialist for a check-up. If abnormalities are confirmed on examination, an audiogram and auditory evoked potentials will be carried out in a specialist centre.\n# '''Visual screening''' The risk factors for visual problems are :  - prematurity, intrauterine growth retardation; - neurological disorders; - deafness; - chromosomal anomalies (trisomy 21, etc.); - craniostenosis, craniofacial dysostoses; - embryo-fetopathies (toxoplasmosis); - in utero exposure to cocaine, alcohol; - family history of hereditary ophthalmological disease (congenital cataract, congenital glaucoma, etc.).  Screening is based on clinical examination: - eyelids: ptosis, epicanthus, angioma; - eyeballs: microphthalmia, buphthalmia; - conjunctivae: redness, tearing; - corneas: symmetry of corneal reflections, corneal opacity; - pupils: leukocoria (retinoblastoma, cataract), aniscoria (neuroblastoma); - iris.  The examination assesses ocular pursuit with a target and looks for the presence of nystagmus.\n\nIntermittent and alternating strabismus may indicate delayed acquisition of oculomotricity up to the age of 3 months. Permanent or divergent strabismus, whatever the age, or present after the age of 3 months, should be considered pathological ('''[[Child Strabismus SD-157|Strabismus]]'')''.",
+  "question": {
+    "question": "What is the percentage of children under the age of 6 who have congenital CMV infection as a leading cause of congenital deafness?",
+    "option_a": "5%",
+    "option_b": "15%",
+    "option_c": "5%",
+    "option_d": "20%",
+    "correct_option": "5%",
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

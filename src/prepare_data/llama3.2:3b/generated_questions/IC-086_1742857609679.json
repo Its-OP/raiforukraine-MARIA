@@ -1,0 +1,46 @@
+{
+  "folder": "IC-086",
+  "content": "{{knowledge objective\n|Identifiant=OIC-086-01-A\n|Item_parent=Eyelid pathology\n|Item_parent_short=Eyelid pathology\n|Rank=A\n|Title=Recognising an ectropion and its complications\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=1}}\n'''Ectropion:''' outward slackening of the eyelid, due to relaxation of the cutaneous tissues, retraction of the tissues or muscular relaxation.\n\n'''Complications:''' corneal exposure, lacrimation (tilting of the lower lacrimal point), inadequate palpebral occlusion.\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a common complication of ectropion?",
+        "description": "A complication of ectropion",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Corneal ulcers",
+        "description": "A condition where the cornea is damaged, often due to a lack of lubrication",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Lacrimation (tear production)",
+        "description": "An increase in tear production",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Inadequate palpebral occlusion",
+        "description": "A condition where the eyelids do not close properly",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Corneal exposure",
+        "description": "A condition where the cornea is exposed to the environment",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

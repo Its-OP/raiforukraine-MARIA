@@ -1,0 +1,12 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-06-A\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=A\n|Title=Photograph of a genital herpes infection\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=6}}\n<gallery>\nFile:Herpes LISA.jpeg|Genital herpes: painful postvesicular millimetric lesions with an inflammatory border of the glans.\n</gallery>",
+  "question": {
+    "question": "What is the primary mode of transmission for genital herpes?",
+    "option_a": "Sexual contact with an infected partner through vaginal, anal, or oral sex.",
+    "option_b": "Mother-to-child transmission during pregnancy or childbirth.",
+    "option_c": "Blood transfusion from an infected donor.",
+    "option_d": "Sharing needles or other equipment for injecting drugs.",
+    "correct_option": "option_a"
+  }
+}

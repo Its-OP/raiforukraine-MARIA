@@ -1,0 +1,12 @@
+{
+  "folder": "IC-261",
+  "content": "{{knowledge objective\n|Identifiant=OIC-261-08-A\n|Item_parent=Glomerular nephropathy\n|Item_parent_short=Glomerular nephropathy\n|Rank=A\n|Title=Know the clinical and biological elements leading to the suspicion of a nephrotic syndrome with minimal glomerular lesions (SNLGM).\n|Description=Know how to identify a pure NS in the absence of extra-renal signs.\n|Rubric=Positive diagnosis\n|Contributors=Eric Daugas,Bruno Moulin\n|Order=8}}\n\nII.     Main glomerular nephropathies'''\n\nA. Minimal glomerular nephrotic syndrome (MGNS)\n\n'''Diagnosis:'''\n\n* the main signs are :\n** sudden onset,\n** usually pure nephrotic syndrome\n** frequent abdominal pain in children,\n** complications of nephrotic syndrome: thrombosis, infections.\n\n* However, in children, renal biopsy is not performed if :\n** pure nephrotic syndrome,\n** age between 1 and 10 years,\n** corticosensitive nephrotic syndrome,\n** no family history of nephropathy,\n** no extrarenal signs,\n** normal serum complement.\n\n* Renal biopsy shows optically normal glomeruli, with no deposits'''''''''''. Electron microscopy shows fusion of the feet of the podocytes.\n* A cause should be sought (secondary SNLGM): NSAIDs, interferon treatment, Hodgkin's disease and non-Hodgkin's lymphoma.\n* In the absence of a cause, SNLGM (like primary segmental and focal hyalinosis) belongs to an entity known as idiopathic nephrotic syndrome.",
+  "question": {
+    "question": "What is the main glomerular nephropathy with minimal glomerular lesions?",
+    "option_a": "Minimal glomerular nephrotic syndrome (MGNS)",
+    "option_b": "Minimal change disease",
+    "option_c": "Focal segmental glomerulosclerosis (FSGS)",
+    "option_d": "Membranous nephropathy",
+    "correct_option": "A"
+  }
+}

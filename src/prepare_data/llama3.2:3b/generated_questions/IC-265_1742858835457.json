@@ -1,0 +1,40 @@
+{
+  "folder": "IC-265",
+  "content": "{{knowledge objective\n|Identifiant=OIC-265-04-B\n|Item_parent=Urinary lithiasis\n|Item_parent_short=Urinary lithiasis\n|Rank=B\n|Title=Knowing the main lithogenic factors\n|Description=None\n|Rubric=Physiopathology\n|Contributors=Romain Boissier\n|Order=4}}\n\n*[[Primary prevention through nutrition in adults and children|Dietary factors 248]] and [[Therapeutic lifestyle modifications (diet and physical activity) in adults and children and knowing how to present them to patients|249]] : dairy products, animal proteins, salt - NaCl (promotes hypercalciuria), oxalate-rich foods (chocolate, dried fruit, spinach, sorrel, rhubarb, tea), purine-rich foods (cold meats, offal), fast sugars (glucose, fructose), reduced dietary fibre intake, inadequate diuresis and insufficient fluid intake.\n*Family factors: There is a history of urinary problems in 40% of cases. Cystinuria is the most common genetic disease.\n*Urinary tract infections in children and adults 161]]: infectious ureasic germs (BGN) Pseudomonas, Klebsielle, Proteus mirabilis.\n*Anatomical abnormalities (urinary stasis): pyeloureteral junction syndrome, calcific diverticulum, horseshoe kidney, etc.\n*Drug-induced stones: These account for only 1% of stones: Indinavir (Crixivan), Diamox, and are radiolucent and of very low density on CT scan.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What are the main lithogenic factors for urinary stones?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Dietary factors such as dairy products, animal proteins, and purine-rich foods",
+        "description": "A common cause of urinary stones"
+      },
+      "option_b": {
+        "title": "Genetic diseases such as cystinuria and urinary tract infections",
+        "description": "A significant contributor to urinary stones"
+      },
+      "option_c": {
+        "title": "Anatomical abnormalities such as pyeloureteral junction syndrome and horseshoe kidney",
+        "description": "A common cause of urinary stones"
+      },
+      "option_d": {
+        "title": "Medications such as Indinavir (Crixivan) and Diamox",
+        "description": "A rare cause of urinary stones"
+      },
+      "correct_option": {
+        "title": "A"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

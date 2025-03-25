@@ -1,0 +1,46 @@
+{
+  "folder": "IC-245",
+  "content": "{{knowledge objective\n|Identifiant=OIC-245-22-B\n|Item_parent=Adrenal insufficiency in adults and children\n|Item_parent_short=Adrenal insufficiency in adults and children\n|Rank=B\n|Title=Understanding the pathophysiology of adrenal insufficiency in children\n|Description=None\n|Rubric=Physiopathology\n|Contributors=Claire Briet,St\u00e9phanie Espiard\n|Order=22}}\nThe pathophysiology of adrenal insufficiency varies according to the aetiology:\n\n'''- in the context of 21 hydroxylase block''' (enzyme responsible for converting progesterone into 11 desoxycorticosterone (DOC), which is the precursor of aldosterone, and 17 hydroxyprogesterone into 11 desoxycortisol (compound S), which is the precursor of cortisol): the absence of enzyme activity leads to a deficit in cortisol (which leads to adrenal insufficiency) and aldosterone (which leads to salt loss and dehydration). In addition, there is an accumulation of precursors upstream of the block: elevation of androgens (17 OH progesterone) resulting in hyperandrogenism and virilisation in young girls.\n\n'''-in the context of adrenoleukodystrophy''': mutation of a gene encoding a transporter of very long-chain fatty acids in the peroxisome leads to an accumulation of these molecules in the cells.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary consequence of the 21 hydroxylase block in adrenal insufficiency?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Deficit in aldosterone production leading to salt loss and dehydration",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Accumulation of androgens resulting in hyperandrogenism and virilisation in young girls",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Mutation of a gene encoding a transporter of very long-chain fatty acids in the peroxisome",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Deficit in cortisol production leading to adrenal insufficiency",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

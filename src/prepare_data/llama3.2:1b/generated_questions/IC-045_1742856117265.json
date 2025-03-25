@@ -1,0 +1,12 @@
+{
+  "folder": "IC-045",
+  "content": "{{knowledge objective\n|Identifiant=OIC-045-04-B\n|Item_parent=Specificities of genetic diseases. (see item 9)\n|Item_parent_short=Specificities of genetic diseases. (see item 9)\n|Rank=B\n|Title=Know how to carry out a foetal karyotype.\n|Description=How a foetal karyotype is performed\n|Rubric=Positive diagnosis\n|Contributors=Elise Launay,Damien Sanlaville,Marie-B\u00e9reng\u00e8re Troadec\n|Order=4}}\n\nThe foetal karyotype is performed on a sample of :\n\n- chorionic villus (CVS) between 12 and 14 weeks of amenorrhoea\n\n- Amniotic fluid (PLA) between 15 weeks of amenorrhoea and the end of pregnancy\n\n- Exceptionally on foetal blood after 24 weeks of amenorrhoea\n\nThe risks are :\n\n- Risk of foeto-placental discordance (of the order of 1-2%) for PVCs;\n\n- Risk of crop failure ;\n\n- Risk of infection following sampling ;\n\n- Risk of miscarriage estimated at 0.5% following PVC and 0.2% following PLA;\n\n- Risk of foetomaternal Rh(D) alloimmunisation in Rh(D) women. Prophylaxis by injection of anti-D immunoglobulins should be considered;\n\n- Risk of bradycardia following puncture of foetal blood.\n\nTime taken to obtain results :\n\n- The PVC allows a response within 2-3 days on direct examination, and 2-3 weeks for the definitive culture result.\n\n- Karyotype results from amniocentesis take 2 to 3 weeks. However, it is possible to perform a faster technique (24-48 hours) by using Fluorescence In Situ Hybridization (FISH) with a probe specific for chromosomes 13, 18, 21, X and Y on interphase nuclei. This technique should be used to obtain a rapid result in the event of an ultrasound anomaly suggestive of foetal aneuploidy.\n\nRegulations: The sample must be accompanied by a signed medical prescription, documents enabling the indication to be determined and any costs to be covered by the health insurance scheme (prior agreement), consent signed by the patient (after she has been given appropriate information) and the genetic counselling certificate signed by the prescribing doctor.",
+  "question": {
+    "question": "What is the typical time taken to obtain results for a foetal karyotype test?",
+    "option_a": "2-3 days",
+    "option_b": "2-3 weeks",
+    "option_c": "24-48 hours",
+    "option_d": "1-2 weeks",
+    "correct_option": "2-3 days"
+  }
+}

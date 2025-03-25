@@ -1,0 +1,46 @@
+{
+  "folder": "IC-351",
+  "content": "{{knowledge objective\n|Identifiant=OIC-351-08-A\n|Item_parent=Agitation and acute delirium\n|Item_parent_short=Agitation and acute delirium\n|Rank=A\n|Title=Knowing the semiological analysis of a hallucinatory syndrome\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=8}}\nA hallucinatory syndrome may affect one or more of the senses: sight, hearing, smell, taste and touch. A distinction is made between :\n\n* Visual hallucinations (should initially point to a non-psychiatric aetiology)\n* Auditory hallucinations, often acoustic/verbal: long or close, hostile or benevolent voices, conversing with each other, addressing the patient or commenting on his or her actions, from one or more people, known or unknown. Listening attitudes, means of protection (headphones, cotton wool in the ears, etc.), soliloquy and changes in emotional state may be observed.\n* Taste hallucinations\n* olfactory hallucinations\n* Tactile hallucinations: which can lead to reactions such as scratching, washing, etc.\n* Cenesthetic hallucinations: visceral somatic sensations, deep inner sensitivity, etc.\n* Kinesthetic hallucinations: the patient utters words that they do not recognise as their own.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What type of hallucination is characterized by the perception of bodily sensations such as pressure, temperature, or movement on the skin?",
+        "description": "A hallucination that affects one or more of the senses: sight, hearing, smell, taste, and touch.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Visual hallucinations",
+        "description": "Hallucinations that involve seeing things that are not there.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Auditory hallucinations",
+        "description": "Hallucinations that involve hearing sounds or voices that are not there.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Tactile hallucinations",
+        "description": "Hallucinations that involve feeling sensations on the skin, such as pressure or movement.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Olfactory hallucinations",
+        "description": "Hallucinations that involve smelling odors that are not there.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "C",
+        "description": "The correct answer is represented by a letter.",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "folder": "IC-353",
+  "content": "{{knowledge objective\n|Identifiant=OIC-353-10-B\n|Item_parent=Suicidal risk and behaviour in children, adolescents and adults: identification and management\n|Item_parent_short=Suicidal risk and behaviour in children, adolescents and adults: identification and management\n|Rank=B\n|Title=Knowing the specific characteristics of children and adolescents\n|Description=None\n|Rubric=Management\n|Contributors=Pierre Vandel\n|Order=10}}\n\nA psychosocial assessment is systematically carried out alongside the medical assessment.\n\nA personalised safety plan is drawn up with the patient and their parents. This safety plan is a list of resources (resource persons, emergency telephone number, calming activities, reassurance techniques, etc.) that the patient can use before and during a suicidal crisis.\n\nInvolving parents in the care process is essential; they need to be made aware of the need for a safe environment (limiting access to lethal means).",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a key component of a safety plan for individuals at risk of suicidal behavior?",
+        "description": "A safety plan is a list of resources that the patient can use before and during a suicidal crisis. What is a key component of this list?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "A list of emergency telephone numbers",
+        "description": "This option is a plausible distractor that may be tempting to choose, but it is not the correct answer",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "A list of calming activities",
+        "description": "This option is partially correct, but not the most critical component of a safety plan",
+        "type": "string"
+      },
+      "option_c": "resources",
+      "option_d": "a safe environment",
+      "correct_option": "option_c"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

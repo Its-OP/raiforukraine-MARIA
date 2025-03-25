@@ -1,0 +1,12 @@
+{
+  "folder": "IC-156",
+  "content": "{{knowledge objective\n|Identifiant=OIC-156-03-B\n|Item_parent=Infections in the bones and joints (IOA) of children and adults\n|Item_parent_short=Infections osteo articulaires (IOA) de l'enfant et de l'adulte\n|Rank=B\n|Title=Knowing the mechanisms of OAIs\n|Description=Routes of inoculation, infectious entry points: arthritis, spondylodiscitis, osteitis, osteomyelitis.\n|Rubric=Physiopathology\n|Contributors=Dr Florent Valour\n|Order=3}}\n'''Mechanisms of onset:''''\n\n- Positive blood culture SD-190|haematogenic]]: secondary location in bone or joints during a bacteremia (most frequent mechanism, particularly in children, with infection of the highly vascularised bone metaphyses of the long bones of the lower limbs in more than 50% of cases).\n\n- inoculation: direct contamination during surgery, puncture/infiltration, trauma or a bite\n\n- contiguity: extension of a local infection (often of the skin and soft tissues) to the osteoarticular system (examples: osteitis of a plantar perforating sore in a diabetic patient, or of a decubitus [[Escarre SD-086|escarre]]).",
+  "question": {
+    "question": "What is the most frequent mechanism of onset of OAI in children?",
+    "option_a": "Inoculation: direct contamination during surgery, puncture/infiltration, trauma or a bite",
+    "option_b": "Contiguity: extension of a local infection to the osteoarticular system",
+    "option_c": "Positive blood culture SD-190: secondary location in bone or joints during a bacteremia, particularly in children",
+    "option_d": "Infection of the highly vascularised bone metaphyses of the long bones of the upper limbs",
+    "correct_option": "C"
+  }
+}

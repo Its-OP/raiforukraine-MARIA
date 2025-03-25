@@ -1,0 +1,12 @@
+{
+  "folder": "IC-176",
+  "content": "{{knowledge objective\n|Identifiant=OIC-176-12-A\n|Item_parent=Infectious diarrhoea in adults and children\n|Item_parent_short=Infectious diarrhoea in adults and children\n|Rank=A\n|Title=Knowing the principles of symptomatic management of diarrhoea\n|Description=None\n|Rubric=Management\n|Contributors=Alexis de Rougemont,Christophe Deschamps\n|Order=12}}\n\n'''In adults'''\n\n1.     Correct or prevent dehydration, giving preference to the oral route whenever possible\n\n2.     Reduce the intensity of diarrhoea\n\n'''In children''': previous item",
+  "question": {
+    "question": "What should be done to prevent dehydration in adults with infectious diarrhoea?",
+    "option_a": "Administer oral rehydration therapy",
+    "option_b": "Give intravenous fluids",
+    "option_c": "Use laxatives to stimulate bowel movements",
+    "option_d": "Use antibiotics to treat the underlying cause of the diarrhoea",
+    "correct_option": "option_a"
+  }
+}

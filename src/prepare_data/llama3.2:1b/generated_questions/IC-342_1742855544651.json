@@ -1,0 +1,12 @@
+{
+  "folder": "IC-342",
+  "content": "{{knowledge objective\n|Identifiant=OIC-342-11-A\n|Item_parent=Sickness, loss of consciousness, coma in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=A\n|Title=Know the indications and decisive abnormalities of the electrocardiogram (ECG) in the event of syncope or lipothymia.\n|Description=ECG abnormalities of immediate diagnostic value\n|Section=Additional tests\n|Contributors=\n|Order=11}}\n<gallery widths=\"420\" heights=\"420\">\nFile:Malaise3.PNG\n</gallery>",
+  "question": {
+    "question": "What is the primary indication of syncope in adults?",
+    "option_a": "A) Hypertension",
+    "option_b": "B) Hypoglycemia",
+    "option_c": "C) Electrolyte imbalance",
+    "option_d": "D) Cardiac arrhythmia",
+    "correct_option": "C"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-101",
+  "content": "{{knowledge objective\n|Identifiant=OIC-101-13-B\n|Item_parent=Facial paralysis\n|Item_parent_short=Facial paralysis\n|Rank=B\n|Intitle=Clinical iconography of a typical example of a parotid tumour complicated by PFP\n|Description=Visualisation of parotid tumour invasion suggesting tumour-induced PFP\n|Rubric=Multimedia content\n|Contributors=\n|Order=13}}\nPlease refer to the CEN website: www.cen-neurologie.fr where videos are available.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the term for the abnormal facial nerve function often associated with parotid tumors?",
+        "description": "A condition characterized by weakness or paralysis of the facial muscles, often resulting from damage to the facial nerve.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Facial paralysis",
+        "description": "A condition characterized by weakness or paralysis of the facial muscles, often resulting from damage to the facial nerve.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Bell's palsy",
+        "description": "A condition characterized by temporary weakness or paralysis of the facial muscles, often caused by inflammation of the facial nerve.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Trigeminal neuralgia",
+        "description": "A condition characterized by sudden, severe pain in the face, often caused by compression or irritation of the trigeminal nerve.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Facial nerve palsy",
+        "description": "A condition characterized by weakness or paralysis of the facial muscles, often resulting from damage to the facial nerve.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The first letter of the correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

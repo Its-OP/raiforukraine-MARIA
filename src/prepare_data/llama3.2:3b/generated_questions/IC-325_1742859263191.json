@@ -1,0 +1,46 @@
+{
+  "folder": "IC-325",
+  "content": "{{knowledge objective\n|Identifiant=OIC-325-11-A\n|Item_parent=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medicinal errors (see items 4 and 5)\n|Item_parent_short=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medication errors (see items 4 and 5)\n|Rank=A\n|Title=Explain the objectives and principles of addictovigilance (see items 77, 78 and 80)\n|Description=None\n|Rubric=Definition\n|Contributors=Caroline Victorri-Vigneau\n|Order=11}}\n\n== Objectives and principles of addictovigilance ==\nThe aim of addictovigilance is to monitor, assess, prevent and manage the risk of abuse, misuse and dependence linked to the consumption of any psychoactive substance, whether medicinal or not, plant or product, excluding alcohol and tobacco.\n\nAddictovigilance in France is based on a network of 13 \"Centres d'\u00c9valuation et d'Information sur la pharmacod\u00e9pendance - Addictovigilance\" (CEIP-A) run by the ANSM.\n\n== Missions of the Addictovigilance Centres ==\n\n* Collection of the information needed to assess the potential for abuse and dependence'': surveillance is based on the principle of notification. Notified cases are centralised in a national database managed by the ANSM and then transmitted to the European and WHO databases. In addition, the addictovigilance network has specific surveys: in care centres specialising in the care of drug users (OPPIDUM), in pharmacies (OSIAP: suspicious prescriptions, indicators of possible abuse, ASOS: narcotic analgesics and secure prescriptions), with toxicology analysts (DRAMES: deaths related to drug and substance abuse, DTA: toxic deaths by analgesics, chemical submission).\n* Information and training for healthcare professionals, in response to questions or notifications, but also as part of initial, specialist and continuing training.\n* Research'', contributing to scientific progress on the abuse and dependence potential of psychoactive substances.\n* ''Expertise, advice and investigation'': the national addictovigilance investigation, requested by the ANSM, is carried out by a rapporteur. Its aim is to assess the risk of abuse, dependence, misuse and abuse of a psychoactive substance, whether medicinal or otherwise, in order to confirm a potential signal, characterise a proven signal, monitor the risk profile of a medicinal product, or measure the impact of a regulatory measure.\n\n== Assessment methods in addictovigilance ==\nThe assessment of the potential for substance abuse and dependence is carried out on the one hand by means of the \"pharmacological and medical assessment of notifications\" (using the severity score based on the items in the definition of dependence, including physical dependence, patient centredness and harmful consequences including somatic consequences, and misuse) and on the other hand by analysing the \"results of the various tools\". The choice of a global strategy and a multifaceted monitoring system implemented by the French addictovigilance network and its expertise in pharmacology is an innovative method of early detection of addictovigilance signals, making it possible to raise awareness and inform patients, users and healthcare professionals quickly.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary goal of addictovigilance in France?",
+        "description": "The aim of addictovigilance is to monitor, assess, prevent and manage the risk of abuse, misuse and dependence linked to the consumption of any psychoactive substance, whether medicinal or not, plant or product, excluding alcohol and tobacco.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To collect information on the use of psychoactive substances",
+        "description": "The addictovigilance network collects information on the use of psychoactive substances to assess the potential for abuse and dependence.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "To provide training for healthcare professionals",
+        "description": "The addictovigilance network provides training for healthcare professionals to improve their knowledge and skills in identifying and managing substance abuse and dependence.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "To monitor and manage the risk of abuse, misuse and dependence",
+        "description": "The primary goal of addictovigilance is to monitor, assess, prevent and manage the risk of abuse, misuse and dependence linked to the consumption of any psychoactive substance.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "To conduct research on the effects of psychoactive substances",
+        "description": "The addictovigilance network conducts research on the abuse and dependence potential of psychoactive substances to inform policy and practice.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "c",
+        "description": "",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-191",
+  "content": "{{knowledge objective\n|Identifiant=OIC-191-03-A\n|Item_parent=Fever in an immunocompromised patient\n|Item_parent_short=Fever in an immunocompromised patient\n|Rank=A\n|Item_parent_short=Fever in immunocompromised patients\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Am\u00e9lie Servettaz\n|Order=3}}\n\n'''<big>The clinical examination may initially provide little information and must therefore be thorough, complete and repeated.</big>''''\n\n<big>The clinical examination must include a careful examination of the following points, in an undressed patient:</big>\n\n<big>- '''Constants:''' Blood pressure, heart rate, respiratory rate, temperature, Glasgow score, HaemoglocuTest, diuresis: '''to quickly detect signs of severity'''</big>\n\n<big>- '''Interrogatory: onset of pain (thoracic, adominal), urinary or digestive functional signs, respiratory functional signs (cough, sputum ...), etc.'' </big>\n\n<big>- '''Pulmonary auscultation (appearance of a focus of crepitus?)'''</big>\n\n<big>- '''Cardiac auscultation (appearance of a murmur?)'''</big>\n\n<big>- '''Examination of the integuments: the entire skin covering and mucosa (buccal and genital)'''</big>\n\n<big>- '''Examination of intravenous catheter insertion points'''</big>\n\n<big>- '''Urinary catheter examination'''</big>\n\n<big>- '''Abdominal palpation (pain/defensiveness/contraction, meteorism, tympany)'''</big>\n\n<big>- '''Thorough examination of the perineum'''</big>",
+  "question": {
+    "question": "The clinical examination of a fever in an immunocompromised patient should include a thorough examination of the following points, in an undressed patient:",
+    "option_a": "Blood pressure, heart rate, respiratory rate, temperature, Glasgow score, HaemoglocuTest, diuresis, and abdominal palpation",
+    "option_b": "Blood pressure, heart rate, respiratory rate, temperature, Glasgow score, HaemoglocuTest, diuresis, and urinary catheter examination",
+    "option_c": "Blood pressure, heart rate, respiratory rate, temperature, Glasgow score, HaemoglocuTest, diuresis, and thorough examination of the perineum",
+    "option_d": "Blood pressure, heart rate, respiratory rate, temperature, Glasgow score, HaemoglocuTest, diuresis, and thorough examination of the entire skin covering and mucosa",
+    "correct_option": "C"
+  }
+}

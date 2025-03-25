@@ -1,0 +1,12 @@
+{
+  "folder": "IC-364",
+  "content": "{{knowledge objective\n|Identifiant=OIC-364-12-B\n|Item_parent=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Item_parent_short=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Rank=B\n|Title=Know how to diagnose complications of ankle fractures\n|Description=Know the risk of growth problems due to epiphysiodesis\n|Section=Follow-up and/or prognosis\n|Contributors=\n|Order=12}}\nBe aware of the high risk of epiphysiodesis after ankle epiphyseal detachment fractures in adolescents. Be aware of the risk of subsequent growth problems <br />.",
+  "question": {
+    "question": "What is a potential complication of ankle fractures in adolescents?",
+    "option_a": "Infection",
+    "option_b": "Epiphysiodesis, which can lead to growth problems",
+    "option_c": "Nerve damage",
+    "option_d": "Arthritis",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-10-A\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=A\n|Title=Knowing the epidemiology of smoking among pregnant women\n|Description=Knowledge\n|Rubric=Epidemiology\n|Contributors=\n|Order=10}}\n\n\n* Pregnancy\n** half of pregnant women continue to smoke during pregnancy\n** more frequently among the youngest and least educated women",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a demographic characteristic that is more frequently associated with smoking during pregnancy?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Older women",
+        "description": "Smokers who are over 35 years old",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Youngest women",
+        "description": "Smokers who are under 20 years old",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Least educated women",
+        "description": "Smokers with a high school diploma or less",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Most educated women",
+        "description": "Smokers with a graduate degree",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "A letter indicating the correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

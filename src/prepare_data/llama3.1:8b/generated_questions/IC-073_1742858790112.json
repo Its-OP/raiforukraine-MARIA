@@ -1,0 +1,12 @@
+{
+  "folder": "IC-073",
+  "content": "{{knowledge objective\n|Identifiant=OIC-073-08-B\n|Item_parent=Different types of psychotherapeutic techniques\n|Item_parent_short=Different types of psychotherapeutic techniques\n|Rank=B\n|Intitle=Knowing cognitive remediation\n|Description=Send item 15\n|Rubric=Taking charge\n|Contributors=Amaury MENGIN\n|Order=8}}\n\n==== Cognitive remediation ====\nTheoretical principles :\n\n- Inherited from neurology, neuropsychology and CBT\n\n- Closer to rehabilitation techniques\n\n- Aims to improve functional disability linked to cognitive impairment\n\nPractical methods :\n\n- Training impaired cognitive processes\n\n- Reinforcement of preserved processes (compensation for impaired cognitive processes)\n\nCognitive functions concerned :\n\n- General\n\no Memory\n\no Caution\n\no Executive functions\n\n- Specific to certain disorders (e.g. schizophrenia)\n\no Metacognition\n\no Social cognition",
+  "question": {
+    "question": "What is the primary goal of cognitive remediation?",
+    "option_a": "To improve emotional regulation",
+    "option_b": "To improve functional disability linked to cognitive impairment",
+    "option_c": "To teach coping mechanisms for anxiety",
+    "option_d": "To enhance creativity",
+    "correct_option": "B"
+  }
+}

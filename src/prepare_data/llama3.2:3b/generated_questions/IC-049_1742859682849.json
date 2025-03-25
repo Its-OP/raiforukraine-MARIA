@@ -1,0 +1,46 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-08-B\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=B\n|Intitle=Cite examples that illustrate the influence of genetic and environmental factors on puberty\n|Description=None\n|Rubric=Physiopathology\n|Contributors=\n|Order=8}}\nPuberty is triggered hypothalamically: reactivation of the GnRH (''Gonadotropin Releasing Hormone'') pulsatility. GnRH stimulates the anteropituitary secretion of the gonadotropins FSH (Follicle Stimulating Hormone) and LH (Luteinising Hormone). The appearance of this pulsatility is modulated by neuroendocrine and peripheral factors, in particular leptin produced by adipose tissue, genetic and ethnic factors, nutritional status and intercurrent pathologies.\n\nIn boys, FSH is responsible for the growth of testicular volume, while LH stimulates the production of testosterone, which is responsible for the development of secondary sexual characteristics (penis, hair) as well as musculoskeletal changes.\n\nIn girls, LH and FSH lead to ovarian activation and the production of oestrogens, which cause mammary, uterovaginal and OGE development, followed by the appearance of the first menstrual periods (menarche).\n\nPubic hair is linked to the production of gonadal and adrenal androgens.\n\nThe increase in sex hormones increases the frequency and amplitude of growth hormone (GH) secretion peaks, and the speed of statural growth accelerates (pubertal growth peak).",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary role of FSH in boys during puberty?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Stimulate the production of testosterone",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Lead to ovarian activation and the production of oestrogens",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Increase the frequency and amplitude of growth hormone secretion peaks",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Cause the development of secondary sexual characteristics",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

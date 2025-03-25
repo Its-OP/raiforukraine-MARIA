@@ -1,0 +1,46 @@
+{
+  "folder": "IC-074",
+  "content": "{{knowledge objective\n|Identifiant=OIC-074-15-A\n|Item_parent=Prescription and monitoring of psychotropic drugs (see item 330)\n|Item_parent_short=Prescription and monitoring of psychotropic drugs (see item 330)\n|Rank=A\n|Heading=Anxiolytics: knowledge of frequent or serious adverse effects, main drug interactions at all stages of life, particularly in elderly patients.\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=15}}\n\n\n==Undesirable effects==\n{| class=\"wikitable\"\n|+\nFor all: possible allergic reactions.\n<br />\n|'''Chemical class'''\n|'''Adverse reactions'''\n|'''Management'''\n|-\n| rowspan=\"7\" |'''Benzodiazepines'''\n|Sedation :\n\n*Daytime sleepiness, asthenia, dizziness, impaired alertness.\n*Potentiated by alcohol\n|\n*Patient information, particularly with regard to driving.\n*Adaptation of doses\n|-\n|Cognitive alterations :\n\n*memory impairment and impaired reaction capacity\n*Confusion may occur in the elderly\n|\n*Adaptation of doses, cautious discontinuation if confusion.\n|-\n|\n*Behavioural disorders favoured by alcohol:\n*Disinhibiting effect\n| rowspan=\"3\" |\n*Do not combine with alcohol\n*Contraindicated for subsequent prescription of benzodiazepines.\n|-\n|\n*Paradoxical reactions favoured by alcohol\n*Agitation and aggression\n|-\n|\n*Amnesic automatic actions: in impulsive patients, which may have medico-legal consequences.\n|-\n|\n*Pharmacological dependence and withdrawal syndrome when treatment is stopped.\n*Use disorder\n|\n*Respect the rules for stopping treatment (gradual reduction).\n|-\n|\n*Anxiety rises when treatment is stopped\n|\n*Monitoring progress\n|-\n|Azapirones\n|\n*Nausea, headache at the start of treatment\n|\n*Wait, symptomatic treatment\n|-\n|H1 antihistamine\n|\n*Sedation, daytime somnolence, asthenia, dizziness, impaired alertness.\n*Potentiated by alcohol\n*QT prolongation\n|\n*Patient information, particularly with regard to driving.\n*Adaptation of doses\n|}\n\n== Main drug interactions\n\n* There are no formally contraindicated associations with benzodiazepines, but certain pharmacodynamics must be taken into account: potentiation of sedative effects by any other CNS depressant.\n* Antihistamines: avoid combinations with other anticholinergics and other CNS depressants.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a potential adverse effect of benzodiazepines that may be favoured by alcohol?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Paradoxical reactions",
+        "description": "Reactions that are opposite of what is expected",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Behavioural disorders",
+        "description": "Disinhibiting effect and agitation and aggression",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Cognitive alterations",
+        "description": "Memory impairment and impaired reaction capacity",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Anxiety rises when treatment is stopped",
+        "description": "A potential adverse effect of benzodiazepines",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

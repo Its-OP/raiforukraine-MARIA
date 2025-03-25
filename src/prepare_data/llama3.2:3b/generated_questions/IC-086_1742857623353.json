@@ -1,0 +1,46 @@
+{
+  "folder": "IC-086",
+  "content": "{{knowledge objective\n|Identifiant=OIC-086-08-A\n|Item_parent=Eyelid pathology\n|Item_parent_short=Eyelid pathology\n|Rank=A\n|Title=Photography of a stye\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=8}}\n\n[[File:Stye.jpg|vignette|532x532px|Lower eyelid stye]]",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the term for a small, localized infection of the oil glands in the eyelid?",
+        "description": "A small, localized infection of the oil glands in the eyelid, also known as a stye or hordeolum.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Chalazion",
+        "description": "A small, painless bump on the eyelid caused by a blocked oil gland",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Hordeolum",
+        "description": "A small, painful boil on the eyelid or eyelash line",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Stye",
+        "description": "A small, painful infection of the oil glands in the eyelid",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Cyst",
+        "description": "A closed sac filled with fluid, typically filled with semi-solid material",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The first letter of the correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

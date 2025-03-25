@@ -1,0 +1,12 @@
+{
+  "folder": "IC-101",
+  "content": "{{knowledge objective\n|Identifiant=OIC-101-09-B\n|Item_parent=Facial paralysis\n|Item_parent_short=Facial paralysis\n|Rank=B\n|Title=Photograph/video of post-paralytic facial hemispasm\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=9}}\nPlease refer to the CEN website: www.cen-neurologie.fr where videos are available.",
+  "question": {
+    "question": "What is a common method used to diagnose facial paralysis?",
+    "option_a": "Photograph/video of pre-paralytic facial movements",
+    "option_b": "Photograph/video of post-paralytic facial hemispasm",
+    "option_c": "Blood test for muscle weakness",
+    "option_d": "Electromyography (EMG) of the facial muscles",
+    "correct_option": "B"
+  }
+}

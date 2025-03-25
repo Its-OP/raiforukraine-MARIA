@@ -1,0 +1,12 @@
+{
+  "folder": "IC-024",
+  "content": "{{knowledge objective\n|Identifiant=OIC-024-05-A\n|Item_parent=Main complications of pregnancy.\n|Item_parent_short=Main complications of pregnancy.\n|Rank=A\n|Title=Know the definition of post partum haemorrhage (PPH)\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=5}}\nThis is a '''haemorrhage >500 mL'' in the 24 hours following childbirth, whether natural or by caesarean section. This haemorrhage is '''severe''' above '''1000mL'''.'''(Cf. [[Abnormal genital bleeding in post-parfum SD-110|110. Abnormal genital bleeding in the post partum]])'''\n\n<br />",
+  "question": {
+    "question": "What is the definition of postpartum hemorrhage (PPH)?",
+    "option_a": "A hemorrhage of 1000 mL or more in the first hour following childbirth",
+    "option_b": "A hemorrhage of 500 mL or more in the 24 hours following childbirth",
+    "option_c": "A hemorrhage of 1000 mL or more in the 24 hours following childbirth",
+    "option_d": "A hemorrhage of 500 mL or more in the first hour following childbirth",
+    "correct_option": "B"
+  }
+}

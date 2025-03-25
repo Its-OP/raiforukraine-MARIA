@@ -1,0 +1,12 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-18-B\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=B\n|Title=Knowing the socio-professional categories (CSP) of smokers in France\n|Description=Knowing: smoking is a social marker\n|Rubric=Epidemiology\n|Contributors=\n|Order=18}}\n\n\n* Tobacco and social inequalities\n** Since 2000, daily smoking has fallen among the most disadvantaged smokers: from 38.8% in 2016 to 33.0% in 2018 (people on the lowest incomes), and from 49.7% to 40% (unemployed people).\n** tobacco is a powerful social marker: in 2018, the higher the income, the lower the prevalence of daily smoking.",
+  "question": {
+    "question": "According to the data from 2018, what can be said about the relationship between income and daily smoking in France?",
+    "option_a": "Daily smoking is more prevalent among people with higher incomes.",
+    "option_b": "Daily smoking is more prevalent among people with lower incomes.",
+    "option_c": "There is no significant difference in daily smoking prevalence between people with different income levels.",
+    "option_d": "Daily smoking is equally prevalent among people with all income levels.",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-310",
+  "content": "{{knowledge objective\n|Identifiant=OIC-310-04-B\n|Item_parent=Prostate tumours\n|Item_parent_short=Prostate tumours\n|Rank=B\n|Title=Knowing how prostate cancer spreads\n|Description=Know how prostate cancer spreads locally, the main lymphatic routes and sites of metastatic dissemination.\n|Rubric=Physiopathology\n|Contributors=Alexandra MASSON-LECOMTE,Laurent BRUREAU\n|Order=4}}\n\n<br />\n\n*In most cases, prostate cancer is localised (limited to the prostate). When the tumour grows locally, it may cross the capsule and reach the seminal vesicles and adjacent organs (rectum, bladder neck, external sphincter, pelvic wall).\n\n*Lymphatic extension is to the pelvic regional lymph nodes (iliac) and then to distant non-regional lymph nodes (lumbo-aortic).\n*The main site of non-node metastasis is bone, but the tumour can also spread to the lung and liver.\n\n\n\nExtension assessment of localised/locally advanced prostate cancer depends on the [[OIC-310-07-B|d'Amico prognostic group]] (CC-AFU 2022-2024) (OIC-310-07-B):\n\n-Low risk: pelvic MRI\n\n-Intermediate risk: pelvic MRI + bone scan with SPECT/CT (if ISUP: 3, 4 or 5)\n\n-High risk: pelvic MRI + bone scan with SPECT/CT + thoraco-abdominopelvic CT scan\n\nFor all 3 groups, prostate MRI is requested for local extension (capsule, seminal vesicles) if it has not been performed prior to biopsies.\n\nExtension work-up for metastatic prostate cancer includes: bone scan and thoraco-abdomino-pelvic CT scan. In metastatic prostate cancer, pelvic MRI is optional.\n\n\n'''TNM classification (2018)''' - for information\n{| class=\"wikitable\"\n| rowspan=\"5\" |T\n\nPrimary tumour\n|T0: primary tumour not found\n|-\n|T1: tumour not palpable on digital rectal examination (DRE) or visible on imaging\n\n*T1a: tumour occupying less than 5% of resected tissue with an ISUP score of 1 or absence of grade 4 or 5.\n*T1b: tumour occupying more than 5% of resected tissue or ISUP score \u2265 2 or presence of grade 4 or 5.\n*T1c: tumour discovered on prostate biopsy due to an elevated PSA value.\n|-\n|T2: tumour confined to the prostate\n\n*T2a: tumour affecting half a lobe or less\n*T2b: tumour affecting more than half a lobe but not both lobes.\n\n*T2c: tumour affecting both lobes\n|-\n|T3: extension beyond the prostate gland\n\n*T3a: uni- or bilateral extra-prostatic extension\n*T3b: extension to the seminal vesicles uni- or bilaterally\n|-\n|T4: tumour fixed or involving structures other than the seminal vesicles (external sphincter, rectum, anus lift muscle or pelvic wall).\n|-\n| rowspan=\"4\" |N\n\nRegional lymph nodes\n|Nx : regional lymph nodes not evaluated\n|-\n|N0: no regional lymph node metastasis\n|-\n|N1: regional lymph node involvement\n|-\n|N1 mi: lymph node metastasis \u2264 0.2 cm (optional)\n|-\n| rowspan=\"3\" |M\n\nDistant metastases <br />\n|Mx: distant metastases not assessed\n|-\n|M0: no distant metastases\n|-\n|M1: distant metastases\n\n*M1a: non-regional lymph node involvement\n*M1b: bone involvement\n\nM1c: other sites with or without bone involvement\n|}\n[[File:NOU05.png|neant|thumb|'''Diagram: Sagittal section of the prostate and neighbouring organs''']]\n\n\n[[File:NOU02.png|neant|vignette|''Diagram: Local and regional extension of the prostate'']]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<br />\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the main site of non-node metastasis in prostate cancer?",
+        "description": "Prostate cancer can spread to various sites, but which one is the main site of non-node metastasis?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Lymph nodes",
+        "description": "Prostate cancer often spreads to lymph nodes in the pelvic region.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Bone",
+        "description": "Bone is the main site of non-node metastasis in prostate cancer.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Liver",
+        "description": "The liver is another site where prostate cancer can spread to.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Lung",
+        "description": "Prostate cancer can also spread to the lung, but it's not the main site of non-node metastasis.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "",
+        "description": "",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

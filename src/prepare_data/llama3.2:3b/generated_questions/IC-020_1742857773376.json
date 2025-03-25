@@ -1,0 +1,46 @@
+{
+  "folder": "IC-020",
+  "content": "{{knowledge objective\n|Identifiant=OIC-020-10-B\n|Item_parent=Health research methodology\n|Item_parent_short=Health research methodology\n|Rank=B\n|Title=Probabilities, random variables, probability laws\n|Description=Know the principles of probability, the definitions of random variables and probability laws.\n|Rubric=Definition\n|Contributors=Julie Berbis (CUESP),David Hajage (CIMES),Alexandra Rouquette (CIMES)\n|Order=10}}\n\nProbability models random phenomena whose possible outcomes are known, but whose value cannot be predicted because their realisation is uncertain.\n\nA ''random variable'' is a function that assigns a number to all possible outcomes. It can be discrete (e.g. gender) or continuous (e.g. blood glucose level).\n\nThe ''probability law'' describes the probability associated with each value of a discrete random variable, or the probability associated with any interval of values of a continuous random variable.\n\nBy observing the outcomes of a random variable over sufficiently large series (for example, a large number of individuals), it is possible to determine their frequencies and then estimate the probability law governing the variable.\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary purpose of a probability model?",
+        "description": "A probability model is used to describe a random phenomenon.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To predict the value of a random variable",
+        "description": "This option is incorrect, as probability models do not predict values, but rather describe the uncertainty associated with them.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "To estimate the probability law governing a random variable",
+        "description": "This option is correct, as observing outcomes over a large series allows for the estimation of the probability law.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "To determine the frequency of a random variable",
+        "description": "This option is incorrect, as determining frequencies is a secondary step in understanding the probability law.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "To classify a random variable as discrete or continuous",
+        "description": "This option is incorrect, as classification is a characteristic of the random variable, not the purpose of a probability model.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The correct letter indicating the correct option.",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

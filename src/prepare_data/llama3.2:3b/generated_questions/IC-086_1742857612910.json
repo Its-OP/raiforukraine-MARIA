@@ -1,0 +1,46 @@
+{
+  "folder": "IC-086",
+  "content": "{{knowledge objective\n|Identifiant=OIC-086-09-B\n|Item_parent=Eyelid pathology\n|Item_parent_short=Eyelid pathology\n|Rank=B\n|Title=Knowing how to suspect a malignant palpebral tumour\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=9}}\n'''Most frequent benign palpebral tumours:'''\n\n*papilloma\n*hidrocystoma (lacrimal cyst)\n*xanthelesmas (cholesterol deposits)\n\n'''Most frequent malignant palpebral tumours:'''\n\n*<u>Epithelial tumours:</u>\n**basal cell carcinoma, which presents a risk of ulceration and local decay\n**and more rarely the more aggressive \"squamous cell carcinoma\" with metastatic potential.\n\n*<Malignant non-epithelial tumours\n**malignant melanoma\n**MALT lymphoma\n\n\n'''The signs of malignancy of a palpebral tumour are as follows:'''\n\n* rapid and continuous growth ;\n* heterochromia\n* tissue invasion ;\n* loss of eyelashes (Madarosis);\n* for basal cell carcinoma: pearly nodules and telangiectasias.\n\n\nManagement of malignant tumours of the eyelids: this requires the opinion of a multidisciplinary consultation meeting, and can range from removal with simple surveillance (nodular basal cell carcinoma removed in its entirety) to combined radio-chemotherapy depending on the histology and the margins of removal.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a characteristic sign of malignancy in a palpebral tumour?",
+        "description": "A palpebral tumour may exhibit one or more of the following signs of malignancy. Which one is a characteristic sign?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Rapid and continuous growth",
+        "description": "A common feature of many tumours, but not exclusive to malignant tumours.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Loss of eyelashes (Madarosis)",
+        "description": "A characteristic sign of malignancy in palpebral tumours, especially basal cell carcinoma.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Heterochromia",
+        "description": "A condition where the iris has multiple colours, but not necessarily a sign of malignancy.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Pearly nodules and telangiectasias",
+        "description": "A characteristic sign of basal cell carcinoma, but not exclusive to malignant tumours.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "string",
+        "description": "The correct answer, which should be one of the options above.",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

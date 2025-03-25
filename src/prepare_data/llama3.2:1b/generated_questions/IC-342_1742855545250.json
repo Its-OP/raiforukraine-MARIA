@@ -1,0 +1,12 @@
+{
+  "folder": "IC-342",
+  "content": "{{knowledge objective\n|Identifiant=OIC-342-05-A\n|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=A\n|Title=Knowing the elements of the diagnosis of orthostatic hypotension, hypoglycaemia, etc.\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=5}}Diagnosis of orthostatic arterial hypotension (''[[Malaise/loss of knowledge SDD-050]]''):\n\n* a fall of > 20 mmHg in systolic blood pressure (SBP) within 1 to 3 minutes of becoming orthostatic,\n* or a fall of > 10 mmHg in diastolic blood pressure (DBP) within 1 to 3 minutes of becoming orthostatic,\n* or systolic blood pressure (SBP) \u2264 90 mmHg reproducing spontaneous symptoms within 1 to 3 minutes of transition to orthostatism.\n\nDiagnosis of hypoglycaemia ('''[[Convulsion SDD-120]], [[Coma and disturbed consciousness SDD-028]], [[Hypoglycaemia SDD-209]]'''): simultaneous finding (Whipple's triad)::\n\n* signs of neuroglucopenia: manifestation of focal or generalised dysfunction of the nervous system\n* low venous glycaemia (<0.5 g/l in non-diabetics - <0.60 g/l in diabetics)\n* and the rapid correction (10-15 min) of symptoms when blood sugar levels return to normal.\n\nSystematic testing of blood glucose levels in any patient with any degree of consciousness impairment.",
+  "question": {
+    "question": "What is the typical blood pressure drop in orthostatic hypotension?",
+    "option_a": "More than 10 mmHg in diastolic blood pressure (DBP) within 1 to 3 minutes of becoming orthostatic",
+    "option_b": "More than 20 mmHg in systolic blood pressure (SBP) within 1 to 3 minutes of becoming orthostatic",
+    "option_c": "A fall of 10 mmHg in diastolic blood pressure (DBP) within 1 to 3 minutes of becoming orthostatic",
+    "option_d": "A fall of 20 mmHg in systolic blood pressure (SBP) within 1 to 3 minutes of becoming orthostatic",
+    "correct_option": "option_b"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-09-B\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=B\n|Title=Knowing the causes of urethritis in men\n|Description=None\n|Rubric=Etiologies\n|Contributors=\n|Order=9}}\n'''Venereal origin:''''\n\n- Gonorrhoea: acute anterior ++, purulent urethral discharge (90% of cases)\n\n- Chlamydia: urethritis (less noisy than for gonococcus) +/- urethral discharge present (< 50% of cases), usually clear, moderate and intermittent.\n\n- Trichomoniasis: subacute urethritis, morning discharge, +/- pruritus\n\n\n'''Non-venereal origin:'''\n\n- Infectious: Escherichia, Klebsiella, Enterobacter, Serratia, etc.\n\n- Traumatic\n\n- Radique\n\n- Tumoral\n\n- Irritating",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Venereal origin:",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Option A",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Option B",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Option C",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Option D",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

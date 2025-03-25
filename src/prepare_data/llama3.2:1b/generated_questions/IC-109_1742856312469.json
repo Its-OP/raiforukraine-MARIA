@@ -1,0 +1,12 @@
+{
+  "folder": "IC-109",
+  "content": "{{knowledge objective\n|Identifiant=OIC-109-13-A\n|Item_parent=Gait and balance disorders\n|Item_parent_short=Gait and balance disorders\n|Rank=A\n|Title=Cite the main complementary examinations other than imaging in the presence of a walking or balance disorder.\n|Description=Depending on the aetiology EMG, biology...\n|Rubric= Complementary examinations\n|Contributors=\n|Order=13}}\nBiological work-up (hypoglycaemia, ionic disorders: dyskalaemia, hypercalcaemia, hypocalcaemia, hyponatraemia, anaemia) blood gas, PR (pulmonary embolism)\n\nECG: rhythm disorders\n\nInjection-free brain scan: (subdural haematoma, extra-dural haematoma, stroke)",
+  "question": {
+    "question": "What should be done in a case of hypoglycaemia in a patient with a walking or balance disorder?",
+    "option_a": "The patient should be given glucose to rapidly raise their blood glucose levels.",
+    "option_b": "The patient should be given insulin to rapidly raise their blood glucose levels.",
+    "option_c": "The patient should be given a blood test to check their electrolyte levels.",
+    "option_d": "The patient should be given a blood test to check their electrolyte levels.",
+    "correct_option": "option_b"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-245",
+  "content": "{{knowledge objective\n|Identifiant=OIC-245-24-B\n|Item_parent=Adrenal insufficiency in adults and children\n|Item_parent_short=Adrenal insufficiency in adults and children\n|Rank=B\n|Title=Knowing the specificities of the biological diagnosis of adrenal insufficiency in children\n|Description=None\n|Section=Additional tests\n|Contributors=Claire Briet,St\u00e9phanie Espiard\n|Order=24}}\nThe specificities concern the aetiological diagnosis with the determination of 17 OH progesterone in the context of 21 hydroxylase block. This assay has been performed systematically on blotting paper in all newborns in France since 1995 on the 3rd day of life. [Systematic newborn screening SD-308\n\nIn adrenoleukodystrophy, long-chain fatty acids are measured.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the specific test performed on newborns in France since 1995 to diagnose adrenal insufficiency?",
+        "description": "A test used to determine the aetiological diagnosis of adrenal insufficiency in children",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Blood test to measure cortisol levels",
+        "description": "A test to measure the levels of cortisol in the blood",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "17 OH progesterone assay",
+        "description": "A test to determine the levels of 17 OH progesterone",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Biopsy of the adrenal gland",
+        "description": "A test to examine the adrenal gland for abnormalities",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Genetic testing for 21 hydroxylase deficiency",
+        "description": "A test to identify genetic mutations causing adrenal insufficiency",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The first letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

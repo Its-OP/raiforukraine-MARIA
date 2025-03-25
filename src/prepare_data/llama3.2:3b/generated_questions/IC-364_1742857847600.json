@@ -1,0 +1,46 @@
+{
+  "folder": "IC-364",
+  "content": "{{knowledge objective\n|Identifiant=OIC-364-09-A\n|Item_parent=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Item_parent_short=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Rank=A\n|Title=Identifying the signs of severity of a supracondylar fracture\n|Description=Screening for neurovascular complications\n|Topic=Identifying the emergency\n|Contributors=\n|Order=9}}\nKnow that a supracondylar fracture can be complicated by vascular, nerve and skin lesions; know how to palpate the pulses and observe the colouration of the extremities in the event of a supracondylar fracture of the humerus in children; know how to briefly test the 3 main nerve trunks in the upper limb. Know that incomplete, temporary or complete ischaemia can lead to compartment syndrome of the forearm. Know that pain is the first sign of compartment syndrome. Know that the first action in the event of compartmental syndrome is to open the cast.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the first action to take in the event of compartmental syndrome following a supracondylar fracture of the humerus in children?",
+        "description": "The first action in the event of compartmental syndrome is to",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Apply a warm compress to the affected area",
+        "description": "Applying a warm compress may help relieve pain and reduce swelling",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Open the cast immediately",
+        "description": "This is the recommended first action to relieve pressure and restore blood flow",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Monitor the patient's vital signs closely",
+        "description": "Continuous monitoring of vital signs is essential to detect any signs of compartment syndrome",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Administer pain medication",
+        "description": "Pain relief may be necessary, but it is not the first action to take",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Open the cast",
+        "description": "The correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

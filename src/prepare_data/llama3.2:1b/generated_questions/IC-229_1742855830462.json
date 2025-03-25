@@ -1,0 +1,12 @@
+{
+  "folder": "IC-229",
+  "content": "{{knowledge objective\n|Identifiant=OIC-229-05-A\n|Item_parent=Venous access monitoring and complications\n|Item_parent_short=Venous access monitoring and complications\n|Rank=A\n|Title=Know how to remove a venous line\n|Description=None\n|Topic=Monitoring and/or prognosis\n|Contributors= Philippe Lacroix, Simon Rickenbach\n|Order=5}}\n\nRemoval of the venous access requires compression of the insertion point to limit the risk of haematoma.\n\nBe careful in the event of haemostasis problems and/or an insertion point that is difficult to compress.\n\nRisk of gas embolism when removing a central venous line in the superior vena cava: removal should be carried out in the supine position, asking the conscious non-ventilated patient to stop breathing or breathe out during removal.",
+  "question": {
+    "question": "What is the correct procedure for removing a venous line in the superior vena cava?",
+    "option_a": "The insertion point should be compressed to limit the risk of haematoma.",
+    "option_b": "The insertion point should be compressed to limit the risk of haematoma. The patient should be asked to stop breathing or breathe out during removal.",
+    "option_c": "The insertion point should be compressed to limit the risk of haematoma. The patient should be asked to stop breathing or breathe out during removal. The patient should be in the supine position.",
+    "option_d": "The insertion point should be compressed to limit the risk of haematoma. The patient should be asked to stop breathing or breathe out during removal. The patient should be in the supine position and the patient should be conscious.",
+    "correct_option": "option_b"
+  }
+}

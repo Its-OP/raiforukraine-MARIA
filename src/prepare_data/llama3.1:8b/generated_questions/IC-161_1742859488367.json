@@ -1,0 +1,12 @@
+{
+  "folder": "IC-161",
+  "content": "{{knowledge objective\n|Identifiant=OIC-161-11-A\n|Item_parent=Urinary infections in children and adults\n|Item_parent_short=Urinary infections in children and adults\n|Rank=A\n|Title=Know how to treat simple acute pyelonephritis\n|Description=None\n|Heading=Management\n|Contributors=Maxime Vall\u00e9e, Alice Faure\n|Order=11}}\n\n\n\n\u25cf Except in special cases of excessive vomiting preventing the use of oral antibiotics or social isolation preventing outpatient treatment, simple ANP must be treated as an outpatient.\n\n\u25cf First-line antibiotic treatment is based on fluoroquinolones for 7 days (unless antibiotics in this class have been taken within 3 months).\n\n\u25cf In rare cases of uncomplicated ANP requiring hospital management, treatment with IV C3G should be preferred and will be adapted after the ECBU.\n\n\u25cf Progress should be rapidly satisfactory within 48-72 hours; in the event of failure, imaging must be performed and the patient admitted to hospital.",
+  "question": {
+    "question": "What is the recommended treatment approach for simple acute pyelonephritis (ANP) in most cases?",
+    "option_a": "Inpatient treatment with IV antibiotics is always recommended.",
+    "option_b": "Outpatient treatment with oral fluoroquinolones for 7 days is the standard approach.",
+    "option_c": "Hospitalization is required for all cases of ANP, even if symptoms are mild.",
+    "option_d": "Treatment with oral antibiotics is only recommended for patients with a history of antibiotic allergies.",
+    "correct_option": "B"
+  }
+}

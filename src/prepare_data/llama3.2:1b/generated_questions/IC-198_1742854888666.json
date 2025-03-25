@@ -1,0 +1,12 @@
+{
+  "folder": "IC-198",
+  "content": "{{knowledge objective\n|Identifiant=OIC-198-05-B\n|Item_parent=Microcrystalline arthropathies\n|Item_parent_short=Microcrystalline arthropathies\n|Rank=B\n|Title=Radiography of the knee: meniscal calcification, cartilage calcification\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=5}}\n<gallery widths=\"400\" heights=\"400\">\nFile:Knee X-ray meniscal calcification, cartilage calcification .PNG\n</gallery>",
+  "question": {
+    "question": "What is the correct option?",
+    "option_a": "The correct option",
+    "option_b": "The second answer option labeled 'B'",
+    "option_c": "The third answer option labeled 'C'",
+    "option_d": "The fourth answer option labeled 'D'",
+    "correct_option": "The first answer option labeled 'A'"
+  }
+}

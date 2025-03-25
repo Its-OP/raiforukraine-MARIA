@@ -1,0 +1,12 @@
+{
+  "folder": "IC-247",
+  "content": "{{knowledge objective\n|Identifiant=OIC-247-05-B\n|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Rank=B\n|Title=Know the definition of pregestational diabetes (vs gestational diabetes)\n|Description=None\n|Rubric=Definition\n|Contributors=Eva Feigerlova,H\u00e9l\u00e8ne Bihan,Claire Briet,Etienne Larger,Gaetan Prevost\n|Order=5}}\n\nPre-pregnancy diabetes is defined as the presence of diabetes prior to pregnancy.\n\nPre-pregnancy diabetes includes type 1 and type 2 diabetes, which by definition are present before pregnancy.\n\nGestational diabetes is defined as glucose intolerance that becomes apparent and/or develops during pregnancy. It is diagnosed using an oral glucose tolerance test (OGTT) between the 24<sup>th</sup> and 28<sup>th</sup> week of pregnancy. [[Gestational diabetes]]\n\n<ref>Polycopy of the College of Teachers of Endocrinology, Diabetes and Metabolic Diseases (4th edition, 2019)</ref>\n<references />",
+  "question": {
+    "question": "What is defined as pre-pregnancy diabetes?",
+    "option_a": "Glucose intolerance that becomes apparent and/or develops during pregnancy",
+    "option_b": "The presence of diabetes prior to pregnancy, including type 1 and type 2 diabetes",
+    "option_c": "A condition that occurs in the first trimester of pregnancy",
+    "option_d": "A condition that only affects women who have given birth before",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "folder": "IC-288",
+  "content": "{{knowledge objective\n|Identifiant=OIC-288-12-B\n|Item_parent=Hemorrhoidal pathology\n|Item_parent_short=Hemorrhoidal pathology\n|Rank=B\n|Title=Knowing the main factors favouring haemorrhoidal pathology\n|Description=\n|Rubric=Etiologies\n|Contributors=\n|Order=12}}\n\nCf: ''[[Knowing the pathophysiology of haemorrhoids 2C-288-EP-B01|2C-288-EP-B01]]''''",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Knowing the main factors favouring haemorrhoidal pathology",
+        "description": "Which of the following factors does not favour the development of haemorrhoidal pathology?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "High fibre diet",
+        "description": "A high fibre diet can reduce the risk of haemorrhoidal pathology",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Standing for long periods",
+        "description": "Standing for long periods can favour the development of haemorrhoidal pathology",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Low physical activity",
+        "description": "Low physical activity can favour the development of haemorrhoidal pathology",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Good circulation",
+        "description": "Good circulation can favour the development of haemorrhoidal pathology",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

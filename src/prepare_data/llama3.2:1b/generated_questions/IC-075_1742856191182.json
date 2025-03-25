@@ -1,0 +1,12 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-27-A\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=A\n|Title=Knowing the institutional tools (tabac info service)\n|Description=None\n|Rubric=Taking charge\n|Contributors=\n|Order=27}}\nTelephone support: Tabac Info Service line (3989)\n\n* Do not hesitate to refer patients to the <nowiki>http://www.tabac-info-service.fr</nowiki> websites and the 3989 free telephone line, which offer personalised coaching.",
+  "question": {
+    "question": "What is the main goal of the Tabac Info Service?",
+    "option_a": "To provide free smoking cessation programs",
+    "option_b": "To offer personalized coaching and support for patients",
+    "option_c": "To provide information on the risks and dangers of smoking",
+    "option_d": "To promote the sale of tobacco products",
+    "correct_option": "option_b"
+  }
+}

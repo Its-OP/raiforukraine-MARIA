@@ -1,0 +1,12 @@
+{
+  "folder": "IC-328",
+  "content": "{{knowledge objective\n|Identifiant=OIC-328-03-B\n|Item_parent=Non-drug therapies and medical devices\n|Item_parent_short=Non-drug therapies and medical devices\n|Rank=B\n|Title=Knowing the regulatory and medico-economic aspects of non-drug therapies\n|Description=None\n|Rubric=Management\n|Contributors=Bisseriex H\u00e9l\u00e8ne,De Boissezon Xavier\n|Order=3}}\n\nPrescription :\n\n- initial''' by '''specialist''' for orthotics (including orthopaedic shoes), custom-made orthotics, prostheses, and for electric wheelchairs, '''renewal''' by '''general practitioner,'''\n\n- prior agreement and specific form for major equipment,\n\n- reimbursed at 60 to 100% depending on whether or not you have ALD,\n\n- by a physiotherapist, with the possibility of reimbursement: certain aids for preventing bedsores, walking, joint and spinal series orthoses,\n\n- by a nurse with the possibility of reimbursement: certain aids for pressure sore prevention, healing, elastic support.\n\n\nSmall and large appliances are included in the LPPR (List of Reimbursable Products and Services).\n\n\nThe financing of a medical device can often not be separated from the associated procedure. Depending on whether the device is used in the community or in hospital, 2 main types of reimbursement are possible:\n\n- In hospitals, the financing of medical devices, whether for individual use or linked to a procedure, is covered by the hospital stay charge (GHS). It is only if the medical device is included on the so-called 'extra' list that its financing will be covered by the LPPR. '''[[Organisation of discharge from hospital SDD-355|Organisation of discharge from hospital]]''''\n\n- In towns and cities, DM is financed directly by the procedure or by the LPPR tariff in the case of individual use.",
+  "question": {
+    "question": "What is the main type of reimbursement for medical devices in hospitals?",
+    "option_a": "Reimbursement by the hospital stay charge (GHS)",
+    "option_b": "Reimbursement by the LPPR tariff",
+    "option_c": "Reimbursement by a general practitioner",
+    "option_d": "Reimbursement by a physiotherapist",
+    "correct_option": "option_b"
+  }
+}

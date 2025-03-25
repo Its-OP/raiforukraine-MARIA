@@ -1,0 +1,46 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-15-B\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=B\n|Title=Knowing the biological test to prescribe in the case of proven precocious puberty\n|Description=None\n|Rubric=Etiologies\n|Contributors=\n|Order=15}}\nSex steroids: testosterone in boys, oestradiol of little contribution in girls.\n\n\nInhibin B: increased during puberty in boys.\n\n\nGonadotropins: basal FSH and LH and after stimulation (LH-RH/GnRH test). Used to diagnose and distinguish between central (detectable LH, peak LH) and peripheral (undetectable LH) precocious puberty.\n\n\nBone age: assessment of bone maturation (onset of puberty=sesamoid at 11 years in girls and 13 years in boys). It is most often advanced in early puberty.\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "In precocious puberty, which of the following is NOT a relevant biological test to diagnose and distinguish between central and peripheral precocious puberty?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Inhibin B",
+        "description": "Increased during puberty in boys",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Basal FSH and LH levels",
+        "description": "Used to diagnose and distinguish between central and peripheral precocious puberty",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "LH-RH/GnRH test",
+        "description": "Used to diagnose and distinguish between central and peripheral precocious puberty",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Bone age assessment",
+        "description": "Assessment of bone maturation",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Sex steroids",
+        "description": "Testosterone in boys, oestradiol in girls",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

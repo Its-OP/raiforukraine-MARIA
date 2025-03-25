@@ -1,0 +1,46 @@
+{
+  "folder": "IC-198",
+  "content": "{{knowledge objective\n|Identifiant=OIC-198-15-A\n|Item_parent=Microcrystalline arthropathies\n|Item_parent_short=Microcrystalline arthropathies\n|Rank=A\n|Title=Knowing the two essential biological tests for the diagnosis of gout\n|Description=uricemia, estimation of glomerular filtration rate (MDRD or CKD-EPI)\n|Section=Additional tests\n|Contributors=\n|Order=15}}\n- Uricemia, which may be normal during a gouty attack\n\n- Serum creatinine with estimated glomerular filtration rate (eGFR, using MDRD or CKD-EPI formulae)\n\n\n- A blood count will also be taken.\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is one of the essential biological tests for the diagnosis of gout?",
+        "description": "A multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Uric acid level",
+        "description": "A test that measures the level of uric acid in the blood",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Serum creatinine with eGFR",
+        "description": "A test that estimates the glomerular filtration rate using serum creatinine",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Blood count",
+        "description": "A test that measures various components of blood",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Uricemia",
+        "description": "A condition characterized by high levels of uric acid in the blood",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "The correct answer, represented by a letter",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-086",
+  "content": "{{knowledge objective\n|Identifiant=OIC-086-09-B\n|Item_parent=Eyelid pathology\n|Item_parent_short=Eyelid pathology\n|Rank=B\n|Title=Knowing how to suspect a malignant palpebral tumour\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=9}}\n'''Most frequent benign palpebral tumours:'''\n\n*papilloma\n*hidrocystoma (lacrimal cyst)\n*xanthelesmas (cholesterol deposits)\n\n'''Most frequent malignant palpebral tumours:'''\n\n*<u>Epithelial tumours:</u>\n**basal cell carcinoma, which presents a risk of ulceration and local decay\n**and more rarely the more aggressive \"squamous cell carcinoma\" with metastatic potential.\n\n*<Malignant non-epithelial tumours\n**malignant melanoma\n**MALT lymphoma\n\n\n'''The signs of malignancy of a palpebral tumour are as follows:'''\n\n* rapid and continuous growth ;\n* heterochromia\n* tissue invasion ;\n* loss of eyelashes (Madarosis);\n* for basal cell carcinoma: pearly nodules and telangiectasias.\n\n\nManagement of malignant tumours of the eyelids: this requires the opinion of a multidisciplinary consultation meeting, and can range from removal with simple surveillance (nodular basal cell carcinoma removed in its entirety) to combined radio-chemotherapy depending on the histology and the margins of removal.",
+  "question": {
+    "question": "What are the most common signs of malignancy in a palpebral tumour?",
+    "option_a": "Rapid and continuous growth, heterochromia, and tissue invasion",
+    "option_b": "Rapid and continuous growth, heterochromia, and loss of eyelashes (Madarosis)",
+    "option_c": "Rapid and continuous growth, pearly nodules, and telangiectasias",
+    "option_d": "Heterochromia, tissue invasion, and loss of eyelashes (Madarosis)",
+    "correct_option": "A"
+  }
+}

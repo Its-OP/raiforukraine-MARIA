@@ -1,0 +1,12 @@
+{
+  "folder": "IC-094",
+  "content": "{{knowledge objective\n|Identifiant=OIC-094-01-A\n|Item_parent=Rachialgia\n|Item_parent_short=Rachialgia\n|Rank=A\n|Title=Knowing the definitions of spinal pain: neck pain, back pain, low back pain\n|Description=Rachialgia: neck pain, back pain, low back pain\n|Rubric=Definition\n|Contributors=Bisseriex H\u00e9l\u00e8ne,Nguyen Christelle\n|Order=1}}\n\n'''Rachialgies''' : pain felt in the spinal region. '''[[Spinal pain (cervical, dorsal or lumbar) SDD-072|spinal pain (cervical, dorsal or lumbar)]]''''\n\n\nSorted by location:\n\n- cervicalgia: pain in the posterior region of the cervical spine\n\n- back pain: pain felt over the thoracic spine (T1 to T12)\n\n- lumbago: pain located between the thoracolumbar hinge and the lower gluteal fold ''(HAS)''' '''[[Lower back pain SDD-036|(lower back pain)]]'''''\n\n\nClassification according to ''duration'' :\n\n- acute: < 6 weeks\n\n- sub-acute: 6 weeks to 3 months\n\n- chronic: > 3 months '''[[Assessment and management of chronic pain SDD-260|(chronic pain)]]''''\n\n\nClassification according to ''etiology'' :\n\n- common low back pain (non-specific)\n\n- symptomatic low back pain (secondary to an acute or chronic condition)\n\n\nClassification according to evolution'': new classification\n\n- ''acute attack of low back pain'': de novo or on chronic or recurrent low back pain\n\n- '''chronic low back pain''' : > 3 months '''[[Assessment and management of chronic pain SDD-260|(chronic pain)]]''''\n\n- ''recurrent low back pain'': recurrence within 12 months",
+  "question": {
+    "question": "What is the definition of spinal pain?",
+    "option_a": "Spinal pain is a type of pain that occurs in the spinal region.",
+    "option_b": "Spinal pain is a type of pain that occurs in the lower back.",
+    "option_c": "Spinal pain is a type of pain that occurs in the neck.",
+    "option_d": "Spinal pain is a type of pain that occurs in the back of the head.",
+    "correct_option": "option_a"
+  }
+}

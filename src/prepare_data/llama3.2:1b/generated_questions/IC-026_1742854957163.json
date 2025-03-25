@@ -1,0 +1,12 @@
+{
+  "folder": "IC-026",
+  "content": "{{knowledge objective\n|Identifiant=OIC-026-04-B\n|Item_parent=Acute abdominal pain in a pregnant woman\n|Item_parent_short=Acute abdominal pain in pregnant women\n|Rank=B\n|Title=Knowing how to manage acute abdominal pain in pregnant women\n|Description=Know how to guide the clinical examination and suggest appropriate paraclinical tests during management.\n|Rubric=Multimedia content\n|Contributors=Louis Marcellin,Philippe Deruelle\n|Order=4}}\n\n[[File:Douleurs abdominales de la femme enceinte.jpg|vignette|'''Douleurs abdominales de la femme enceinte'']]",
+  "question": {
+    "question": "What is the most common cause of acute abdominal pain in pregnant women?",
+    "option_a": "Gastritis",
+    "option_b": "Hemorrhage",
+    "option_c": "Gallstones",
+    "option_d": "Appendicitis",
+    "correct_option": "option_c"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "folder": "IC-226",
+  "content": "{{knowledge objective\n|Identifiant=OIC-226-03-B\n|Item_parent=Deep vein thrombosis and pulmonary embolism (see item 330)\n|Item_parent_short=Deep vein thrombosis and pulmonary embolism (see item 330)\n|Rank=B\n|Heading=Know the pathophysiology of VTE including familial forms\n|Description=None\n|Topic=Physiopathology\n|Contributors=Gilles Pernod, Virginie Dufrost, Guillaume Mah\u00e9\n|Order=3}}\nThe occurrence of DVT complicated or not by PE is based on Virchow's triad: venous stasis, damage to the venous wall and \"hypercoagulability\".\n\nVenous stasis, for example, is encouraged by surgery, immobilisation, etc.\n\nEndothelial damage is promoted by acute medical events such as sepsis.\n\nHypercoagulability is promoted by :\n\n- the [[2C-226-ET-A01|acquired thrombophilias or constitutional hereditary thrombophilias]].\n\n- [[Know the situations that favour VTE (circumstances of onset, temporary and persistent favouring factors)|thrombogenic situations such as cancer, inflammatory diseases, pregnancy, post partum....]]",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What promotes hypercoagulability in the context of Venous Thromboembolism (VTE)?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Surgery and immobilization",
+        "description": "Venous stasis is promoted by surgery and immobilization, but what else?"
+      },
+      "option_b": {
+        "title": "Acquired thrombophilias and constitutional hereditary thrombophilias",
+        "description": "These are correct, but what else promotes hypercoagulability?"
+      },
+      "option_c": {
+        "title": "Cancer and inflammatory diseases",
+        "description": "These are examples of thrombogenic situations, but are they the only factors that promote hypercoagulability?"
+      },
+      "option_d": {
+        "title": "Pregnancy and postpartum",
+        "description": "These are examples of thrombogenic situations, but are they the only factors that promote hypercoagulability?"
+      },
+      "correct_option": {
+        "title": "All of the above",
+        "description": ""
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

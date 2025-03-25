@@ -1,0 +1,12 @@
+{
+  "folder": "IC-132",
+  "content": "{{knowledge objective\n|Identifiant=OIC-132-04-B\n|Item_parent=Cognitive disorders in the elderly. (see item 108)\n|Item_parent_short=Cognitive disorders in the elderly. (see item 108)\n|Rank=B\n|Title=Know how to diagnose Lewy body disease.\n|Description=Know the positive clinical elements which allow the diagnosis to be made.\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=4}}\nLewy body disease (LBD) is one of the three main causes of dementia in the elderly.\n\nLewy bodies are intra-neuronal aggregates of alpha-synuclein described in Parkinson's disease (PD) and MCL.\n\nThe clinical signs of this disease combine the presence of ''progressive cognitive disorders'' (mainly impairment of executive functions, attentional capacities, visual functions), with (according to Mc Keith 2017 CLINICAL criteria):\n\n*Parkinsonian syndrome, especially akineto-rigid,\n*Behavioural disorders during REM sleep, with a sensation of \"waking dreams\" or even violent nightmares (= loss of hypotonia during REM sleep).\n*Early visual hallucinations\n*Fluctuations\n\nbut also\n\n*Dysautonomia with orthostatic hypotension\n*Hypersensitivity to neuroleptics\n*Hypersomnia\n*Apathy\n*Auditory and somaesthetic hallucinations, etc.\n*Hypposmia\n*Anxiety - depression",
+  "question": {
+    "question": "What are some common clinical signs of Lewy body disease (LBD)?",
+    "option_a": "Progressive cognitive disorders, including memory loss and language impairment",
+    "option_b": "Parkinsonian syndrome, behavioural disorders during REM sleep, early visual hallucinations, and fluctuations",
+    "option_c": "Dysautonomia with orthostatic hypotension, hypersensitivity to neuroleptics, and auditory hallucinations",
+    "option_d": "Hypersomnia, apathy, and anxiety-depression",
+    "correct_option": "B"
+  }
+}

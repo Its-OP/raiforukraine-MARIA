@@ -1,0 +1,40 @@
+{
+  "folder": "IC-008",
+  "content": "{{knowledge objective\n|Identifiant=OIC-008-03-B\n|Item_parent=Discrimination\n|Item_parent_short=Discrimination\n|Rank=B\n|Title=Knowing discrimination and its forms in the healthcare system\n|Description=Structural and organisational causes of discrimination in healthcare\n|Rubric=Definition\n|Contributors=Lechopier Nicolas,Kessel Nils\n|Order=3}}\n\nDiscrimination is not only due to social representations or a lack of vigilance on the part of healthcare providers. It refers to malfunctions in the healthcare system, a failure to provide care or a reduction in the quality of care.\n\nSeveral structural and organisational factors have been identified and are listed in the Migration Sant\u00e9 Alsace publication (Vers plus d'\u00e9galit\u00e9 en sant\u00e9: guide de pr\u00e9vention et de lutte contre les discriminations, 2019).\n\n1) Asymmetrical power relationships in care. Patients may feel illegitimate, and therefore not ask questions or express their preferences.\n\n2) Heterogeneous practices. Some care teams do not have sufficient conditions to reflect on the malfunctions that can lead to discrimination.\n\n3) Territorial inequalities in healthcare provision. In a situation of desertification or shortage of healthcare provision, refusal of care is not distributed equitably.\n\n4) Lack of co-ordination, which explains why some carers refuse to treat certain patients deemed more difficult to treat.\n\n5) Insufficient use of professional interpreters, despite the difficulty of providing care in the absence of a common language.\n\n6) Economic logic in tension with care objectives: the race for profitability can reinforce the differential orientation of patients, and the fact that patients who are thought to be more complicated are treated less well.\n\nhttps://www.migrationssante.org/axes-dintervention/discriminations-et-sante/guide/<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What are some structural and organisational factors that contribute to discrimination in the healthcare system?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Lack of training for healthcare providers",
+        "description": "This option is plausible but not directly related to the factors listed in the Migration Sant\u00e9 Alsace publication",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Asymmetrical power relationships in care, heterogeneous practices, territorial inequalities in healthcare provision, lack of co-ordination, insufficient use of professional interpreters, and economic logic in tension with care objectives",
+        "description": "This option is a comprehensive list of the factors identified in the publication",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Refusal of care by healthcare providers based on patient characteristics",
+        "description": "This option is a common misconception about discrimination in healthcare, but not one of the factors listed in the publication",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "correct_option"
+    ]
+  }
+}

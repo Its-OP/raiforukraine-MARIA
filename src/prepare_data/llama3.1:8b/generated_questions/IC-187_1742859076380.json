@@ -1,0 +1,12 @@
+{
+  "folder": "IC-187",
+  "content": "{{knowledge objective\n|Identifiant=OIC-187-15-A\n|Item_parent=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Item_parent_short=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Rank=A\n|Title=Photo of acute eczema\n|Description=Photo of acute eczema\n|Rubric=Multimedia content\n|Contributors=Nad\u00e8ge Cordel; Fr\u00e9d\u00e9ric B\u00e9rard\n|Order=15}}\n[[File:Figure 3 - elementary lesions of acute eczema that is pruritic- oedema, poorly limited erythema, vesicles .jpg|left|vignette|Figure 3 : elementary lesions of acute eczema that is pruritic: oedema, poorly limited erythema, vesicles ]]\n[[File:Figure 4 - Allergic contact eczema with elementary lesions located on areas where the allergen was applied. Note that the erythema extends beyond the area of application..jpg|gauche|vignette|Figure 4 : Allergic contact eczema with location of elementary lesions on areas of allergen application. Note that the erythema extends beyond the area of application]].",
+  "question": {
+    "question": "What are the characteristic lesions of acute eczema, as shown in the photographs?",
+    "option_a": "Widespread, well-defined erythema with minimal oedema",
+    "option_b": "Oedema, poorly limited erythema, and vesicles",
+    "option_c": "Erythema limited to the area of allergen application",
+    "option_d": "Blisters and scabs with minimal erythema",
+    "correct_option": "B"
+  }
+}

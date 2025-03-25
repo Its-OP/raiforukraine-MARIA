@@ -1,0 +1,12 @@
+{
+  "folder": "IC-364",
+  "content": "{{knowledge objective\n|Identifiant=OIC-364-05-A\n|Item_parent=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Item_parent_short=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Rank=A\n|Title=Knowing the signs that should lead to suspicion of maltreatment in the event of a fracture in a child\n|Description=None\n|Rubric=Identification of the emergency\n|Contributors=\n|Order=5}}\n[Know that the following factors are suggestive of maltreatment: fracture before the age of walking, unexplained context or unclear context; delay in the child's presentation; metaphyseal or torsional location; presence of ecchymosis, petechiae or haematomas, especially of different ages (how long ago); radiological discovery of trauma of different ages (how long ago), of unusual location (scapula, sternum, etc.), of frequent but unusual location (shoulder blade, sternum, etc.), of frequent but unusual location (shoulder blade, sternum, etc.).Several different types of trauma (burns, wounds, haematomas or ecchymoses, fractures, cranial trauma, etc.) of different ages (how long ago they occurred).",
+  "question": {
+    "question": "What are the factors suggestive of maltreatment in the event of a fracture in a child?",
+    "option_a": "The child's age at the time of the fracture.",
+    "option_b": "The presence of ecchymosis, petechiae or haematomas, especially of different ages (how long ago).",
+    "option_c": "The child's ability to walk before the age of walking.",
+    "option_d": "The unexplained context or unclear context.",
+    "correct_option": "option_b"
+  }
+}

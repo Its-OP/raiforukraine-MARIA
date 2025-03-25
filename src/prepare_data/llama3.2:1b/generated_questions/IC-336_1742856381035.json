@@ -1,0 +1,12 @@
+{
+  "folder": "IC-336",
+  "content": "{{knowledge objective\n|Identifiant=OIC-336-08-A\n|Item_parent=Non-traumaticoma in adults and children\n|Item_parent_short=Non-traumatic coma in adults and children\n|Rank=A\n|Title=Identify extreme emergency situations of coma in adults and children\n|Description=Respiratory status, blood sugar levels, knowledge of the HTIC syndrome and recognition of internal temporal involvement or the significance of unilateral mydriasis, status epilepticus;\n|Rubric=Emergency identification\n|Contributors=Nicolas Weiss\n|Order=8}}\n\n- check for the presence of non-gas respiratory movements and a central pulse (MCE if absent)\n\n- signs of respiratory distress\n\n- Glasgow score < 8 (loss of airway protection)\n\n- Blood glucose below 3 mmol/L\n\n- Involvement: unilateral mydriasis with decerebrate motor response (stereotyped extension) on the same side during temporal involvement if progressing to central involvement, pulse and blood pressure lability, respiratory pauses, cardiorespiratory arrest.\n\n- Generalised tonic-clonic seizures lasting more than 5 minutes or following one another without regaining consciousness between seizures (sub-intrinsic seizures)\n\n- HTIC (difficult to diagnose if the patient is immediately seen in a coma) apart from the signs of involvement: uni- or bi-lateral VI involvement, papilledema at the back of the eye, intense headache with jet vomiting before the coma phase, obliteration of the sulci, disappearance of the ventricles on the brain scan.",
+  "question": {
+    "question": "What is the correct answer to the question: Check for the presence of non-gas respiratory movements and a central pulse (MCE if absent) in a patient with a coma?",
+    "option_a": "Check for signs of respiratory distress",
+    "option_b": "Check for Glasgow score < 8 (loss of airway protection)",
+    "option_c": "Check for blood glucose below 3 mmol/L",
+    "option_d": "Check for unilateral mydriasis with decerebrate motor response (stereotyped extension) on the same side during temporal involvement if progressing to central involvement, pulse and blood pressure lability, respiratory pauses, cardiorespiratory arrest.",
+    "correct_option": "option_c"
+  }
+}

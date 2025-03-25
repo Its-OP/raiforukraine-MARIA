@@ -1,0 +1,12 @@
+{
+  "folder": "IC-187",
+  "content": "{{knowledge objective\n|Identifiant=OIC-187-01-A\n|Item_parent=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Item_parent_short=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Rank=A\n|Title=Know the definition of urticaria\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=1}}\n\n\nUrticaria is a frequent inflammatory dermatosis (15-20% of the population in its acute form) secondary to the activation of masctocytes by complex immunological or non-immunological mechanisms. It is diagnosed clinically. The course of the disease is usually acute and sometimes chronic, with flare-ups occurring daily or almost daily for more than 6 weeks at a time.\nAcute urticaria is usually non-allergic, although it may be allergic in rare cases.",
+  "question": {
+    "question": "What is the definition of urticaria?",
+    "option_a": "A skin condition characterized by the presence of red, itchy patches on the skin",
+    "option_b": "A type of allergic reaction that is usually chronic and requires treatment",
+    "option_c": "A frequent inflammatory dermatosis caused by the activation of mast cells by immunological or non-immunological mechanisms",
+    "option_d": "A contagious skin infection that can be spread through direct contact",
+    "correct_option": "C"
+  }
+}

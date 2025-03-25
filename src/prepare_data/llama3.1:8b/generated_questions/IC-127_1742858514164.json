@@ -1,0 +1,12 @@
+{
+  "folder": "IC-127",
+  "content": "{{knowledge objective\n|Identifiant=OIC-127-09-A\n|Item_parent=Benign prostatic hypertrophy\n|Item_parent_short=Benign prostatic hypertrophy\n|Rank=A\n|Title=Knowing the situations justifying specialist advice\n|Description=None\n|Heading=Follow-up and/or prognosis\n|Contributors=Alexandre Ingels, Jonathan Olivier\n|Order=9}}\n\n \n==Situations justifying a specialist opinion\u0301 according to the Association Fran\u00e7aise d'Urologie==\n\n*SBAU a priori unrelated to BPH: patient < 50 years, isolated urgency, isolated nocturia, urinary incontinence, particular context (neurological disease, known urethral stenosis, unbalanced diabetes mellitus, etc.), haematuria with risk factor for urothelial cancer (tobacco, profession, etc.).\n*Anomaly on clinical examination: palpable globe, nodule or induration on rectal examination (or rectal examination not possible), tight phimosis.\n\n*'''Abnormal ECBU'' (bacteriuria, leucocyte or haematuria).\n*Ineffective medical treatment (specialist advice\u0301 is recommended before starting anticholinergic treatment).\n*'''Increased PSA'''\n*'''Severe obstruction or occurrence of a complication'' (severe symptoms, acute urine retention, obstructive renal failure, acute prostatitis, bladder stone or diverticulum, post mictional residue > 100 ml).\n\n\n\n'''References''' :\n\n*H.A.S.: Recommendations for clinical practice; Diagnostic and therapeutic management of benign prostatic hyperplasia, 2003\n\n*AFU report 2018: benign prostatic hyperplasia, G. Robert, A. De La Taille, A. Descazeau, Prog Urol 2018 28, 803-812\n*Guide to the management in general practice of lower urinary tract symptoms in men associated with benign prostatic hyperplasia, A Descazeaud, N Barry\n\nDelongchamps, J-N Cornu , A R Azzouzi , D Buchon , A Benchikh , et al. Prog Urol 2015 Jun;25(7):404-12",
+  "question": {
+    "question": "What are the situations justifying specialist advice for a patient with benign prostatic hypertrophy (BPH), according to the Association Fran\u00e7aise d'Urologie?",
+    "option_a": "Patient < 50 years, isolated urgency, isolated nocturia",
+    "option_b": "Abnormal ECBU (bacteriuria, leucocyte or haematuria) and ineffective medical treatment",
+    "option_c": "Severe obstruction or occurrence of a complication (severe symptoms, acute urine retention, obstructive renal failure)",
+    "option_d": "Increased PSA and palpable globe on rectal examination",
+    "correct_option": "C"
+  }
+}

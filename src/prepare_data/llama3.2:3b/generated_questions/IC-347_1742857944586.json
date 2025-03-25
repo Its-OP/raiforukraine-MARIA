@@ -1,0 +1,46 @@
+{
+  "folder": "IC-347",
+  "content": "{{knowledge objective\n|Identifiant=OIC-347-01-A\n|Item_parent=Acute urine retention\n|Item_parent_short=Acute urine retention\n|Rank=A\n|Title=Know the definition of acute retention of urine\n|Description=None\n|Rubric=Definition\n|Contributors=Jonathan Olivier\n|Order=1}}\n\n\n== Definition of acute urinary retention ==\nComplete and sudden inability to urinate despite an urgent or painful need to do so\n\n== Know the main causes of acute urine retention ==\n'''Mechanical obstruction:''''\n\n* <u>In men</u> : [[2C-127|Benign prostatic hypertrophy 127 (BPH)]], [[2C-161|prostatitis 161]], [[2C-310|prostate cancer 310]]\n* <u>In women</u> : [[2C-044|Severe genital prolapse 44]], [[2C-300|cervical cancer 300]]\n* <u>In both</u>: [[2C-265|Lithiasis 265]]/bladder or urethral foreign body, fecal impaction, endovesical clotting, [[2C-314|bladder tumour 314]], [[2C-300|pelvic tumour 300]] and [[2C-301|301]], urethral stricture, [[2C-283|constipation 283]]\n\n'''Detrusor or sphincter contraction abnormality:''''\n\n* <u>Clapped bladder</u>\n* [[2C-092|<u>Peripheral neuropathies</u> 92]] : Diabetic/alcoholic polyneuropathy, Guillain-Barr\u00e9 syndrome, Cauda equina syndrome, Postoperative (pelvic surgery)\n* [[2C-093|<u>Central neuropathies</u> 93]] : [[2C-104|Multiple sclerosis 104]], [[2C-106|Parkinson's disease 106]], cerebral lesions, spinal cord lesions..<u>.</u>\n* <u>Latrogenic</u> : epidural analgesia, anticholinergic, opiate, antiparkinsonian, [[2C-074|benzodiazepines 74]]",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the definition of acute urinary retention?",
+        "description": "Complete and sudden inability to urinate despite an urgent or painful need to do so",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "A sudden inability to urinate due to a urinary tract infection",
+        "description": "A common cause of acute urinary retention",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Complete and sudden inability to urinate due to a pelvic tumor",
+        "description": "A possible cause of acute urinary retention",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "A sudden inability to urinate due to a neurological disorder",
+        "description": "A possible cause of acute urinary retention",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "A sudden inability to urinate due to a blockage in the urinary tract",
+        "description": "A possible cause of acute urinary retention",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

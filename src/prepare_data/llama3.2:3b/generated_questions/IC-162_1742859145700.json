@@ -1,0 +1,12 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-17-B\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=B\n|Title=Knowing the investigations to be carried out in the event of an upper genital infection in women\n|Description=None\n|Rubric=Additional tests\n|Contributors=\n|Order=17}}\n- Upper genital infection in women :\n\n         - CRP, CBC,\n\n         - Sampling with speculum for direct examination + standard culture + PCR ''Neisseria gonorrhoeae'' and ''Chlamydia trachomatis'',\n\n         - Surgical or radioguided specimen if complicated infection for culture + PCR for Neisseria gonorrhoeae and Chlamydia trachomatis, + search for mycoplasma.",
+  "question": {
+    "question": "What is typically done after a direct examination of the cervix in a woman with an upper genital infection?",
+    "option_a": "Send the sample to a microbiology laboratory for culture and PCR analysis",
+    "option_b": "Perform a blood test to check for elevated CRP levels",
+    "option_c": "Take a sample of cervical tissue for histopathological examination",
+    "option_d": "Administer antibiotics without waiting for test results",
+    "correct_option": "A"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-245",
+  "content": "{{knowledge objective\n|Identifiant=OIC-245-07-A\n|Item_parent=Adrenal insufficiency in adults and children\n|Item_parent_short=Adrenal insufficiency in adults and children\n|Rank=A\n|Title=Knowing the principles of the synacthen test\n|Description=None\n|Rubric=Additional tests\n|Contributors=Claire Briet,St\u00e9phanie Espiard\n|Order=7}}\n\nSynACTHene \u00ae (tetracosactide) is an ACTH analogue.\n\nIt directly explores primary adrenal insufficiency and indirectly the possibility of corticotropic insufficiency by testing for adrenal atrophy resulting from the lack of stimulation of the adrenal cortex by ACTH.\n\nThe synactene test consists of :\n\n*cortisol measurement before the test (at 8 hours)\n*IM or IV administration of a 250 \u00b5g ampoule of tetracosactide\n*followed by a cortisol measurement at 1 hour (+/- 30 min).\n*Interpretation:\n** peak cortisol < 180 ng/ml (500 nmol/l) = no response to synacthenes test = adrenal insufficiency, ''whatever the aetiology.''\n** cortisolemia is \u2265 180 ng/ml (500 nmol/l) = response is normal = adrenal insufficiency ruled out EXCEPT in cases of recent or partial adrenocortical insufficiency. This is because the adrenal cortex is not atrophied and will be able to respond to a high dose of exogenous ACTH during the test. (example: acquired corticotropic insufficiency following surgery for a pituitary adenoma, when the corticotropic axis was normal pre-operatively).\n**Two other stimulation tests can be carried out but in a hospital setting: insulin hypoglycaemia or the Metopirone test.\n\nIf the pre-test cortisol is <5 ng/ml (138 nmol/l), the diagnosis of adrenal insufficiency is made without the need for a synACTHene stimulation test.\n\nOutside a situation of major physical stress, if cortisol is >500 nmol/l, the diagnosis of adrenal insufficiency is ruled out and the stimulation test is not necessary.\n\n<br />",
+  "question": {
+    "question": "What is the correct interpretation of a peak cortisol level of \u2265 180 ng/ml (500 nmol/l) in the synacthen test?",
+    "option_a": "Adrenal insufficiency is confirmed",
+    "option_b": "Adrenal insufficiency is ruled out, except in cases of recent or partial adrenocortical insufficiency",
+    "option_c": "The test is inconclusive and needs to be repeated",
+    "option_d": "The test is only valid if the pre-test cortisol is < 5 ng/ml (138 nmol/l)",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-283",
+  "content": "{{knowledge objective\n|Identifiant=OIC-283-03-B\n|Item_parent=Constipation in children and adults\n|Item_parent_short=Constipation in children and adults\n|Rank=B\n|Title=Distinguishing the functional origin from the organic and especially congenital origin of constipation in children\n|Description=Distinguish functional from organic and especially congenital causes of constipation in children\n|Rubric=Physiopathology\n|Contributors=\n|Order=3}}\nConstipation in children is most often functional, requiring symptomatic treatment (hygienic and dietary measures, often combined with medication).\n\nAn organic cause should be considered in the presence of certain warning signs or in the event of a poor response to well-managed first-line treatment.\n\nThe functional origin is multi-factorial and develops after 6 months. Before 6 months, the mechanism is essentially reflex.\n\nRepeated retention of stool in the rectal ampulla leads to constipation. This is terminal retention.\n\nOther mechanisms may contribute to functional constipation:\n\n- Lack of water or fibre intake\n\n- Exclusive lacto-meal diet\n\nThe organic origin is explained by different mechanisms, depending on the cause:\n\n- Absence of colonic contraction\n\n- Ionic disorders\n\n- Medicines\n\n- Insufficient thrust\n\n- Hypertonia of the sphincter\n\n- Anal obstruction",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Constipation in children",
+        "description": "What is the typical age range for the development of the functional origin of constipation in children?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "After 1 year",
+        "description": "Constipation in children typically develops after 1 year of age",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Between 6 months to 1 year",
+        "description": "Constipation in children typically develops between 6 months to 1 year of age",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "At birth",
+        "description": "Constipation in children typically develops at birth",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "After 2 years",
+        "description": "Constipation in children typically develops after 2 years of age",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Between 6 months to 1 year",
+        "description": "This is the correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-328",
+  "content": "{{knowledge objective\n|Identifiant=OIC-328-07-B\n|Item_parent=Non-drug therapies and medical devices\n|Item_parent_short=Non-drug therapies and medical devices\n|Rank=B\n|Title=Know how to prescribe orthoses\n|Description=General information on prescribing small and large orthoses\n|Rubrique=Prise en charge\n|Contributors=Bisseriex H\u00e9l\u00e8ne,De Boissezon Xavier\n|Order=7}}\n\n- '''cf \"Small and large equipment\"''''",
+  "question": {
+    "question": "What is the primary purpose of prescribing orthoses?",
+    "option_a": "To provide temporary relief from pain",
+    "option_b": "To correct or prevent deformities and support joints",
+    "option_c": "To improve mobility and range of motion",
+    "option_d": "To reduce inflammation and swelling",
+    "correct_option": "B"
+  }
+}

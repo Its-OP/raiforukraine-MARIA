@@ -1,0 +1,14 @@
+{
+  "folder": "IC-347",
+  "content": "{{knowledge objective\n|Identifiant=OIC-347-07-A\n|Item_parent=Acute urine retention\n|Item_parent_short=Acute urine retention\n|Rank=A\n|Title=Knowing the initial assessment of urinary retention\n|Description=None\n|Rubric=Additional tests\n|Contributors=Jonathan Olivier\n|Order=7}}\n\n* No further tests are required as a matter of urgency.\n* If there is any doubt about the diagnosis, a suprapubic ultrasound may be performed to assess bladder fullness.",
+  "question": {
+    "question": "What is the typical outcome of a suprapubic ultrasound in a patient with acute urinary retention?",
+    "options": {
+      "A": "The patient may experience a feeling of a full bladder",
+      "B": "The patient may experience a feeling of a full bladder",
+      "C": "The patient may experience a feeling of a full bladder",
+      "D": "The patient may experience a feeling of a full bladder",
+      "correct_option": "A"
+    }
+  }
+}

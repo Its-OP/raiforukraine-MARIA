@@ -1,0 +1,12 @@
+{
+  "folder": "IC-176",
+  "content": "{{knowledge objective\n|Identifiant=OIC-176-16-A\n|Item_parent=Infectious diarrhoea in adults and children\n|Item_parent_short=Infectious diarrhoea in adults and children\n|Rank=A\n|Title=Knowing how to identify situations requiring emergency treatment\n|Description=Dehydration, HUS\n|Rubric=Identification of emergencies\n|Contributors=Johann Cailhol\n|Order=16}}\nSee [[Knowing how to identify situations to be managed in an emergency 2C-176-IU-A01|previous paragraph]]\n\nSee [[Health risks linked to food and water. Food poisoning|Item 179]]",
+  "question": {
+    "question": "What is the primary cause of Hemolytic Uremic Syndrome (HUS)?",
+    "option_a": "Viral gastroenteritis",
+    "option_b": "Bacterial contamination of food and water",
+    "option_c": "Parasitic infection",
+    "option_d": "Immunodeficiency disorder",
+    "correct_option": "B"
+  }
+}

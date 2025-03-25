@@ -1,0 +1,22 @@
+{
+  "folder": "IC-070",
+  "content": "{{knowledge objective\n|Identifiant=OIC-070-10-B\n|Item_parent=Psychological disorders in the elderly\n|Item_parent_short=Psychological disorders in the elderly\n|Rank=B\n|Title=Knowing the specificities of the handling of psychotropic drugs in elderly patients\n|Description=AntipsychoticsAntidepressantsThymoregulators\n|Rubric=Management\n|Contributors=Pierre Vandel,Marie Tournier\n|Order=10}}\n\n'''General prescription rules to favour tolerance and avoid iatrogenicity:''''\n\n* Start at half the dose of a young adult;\n* increase gradually when necessary (the \"start low, go slow\" rule);\n* Only one psychotropic drug per class,\n* avoid combining psychotropic drugs\n* assess tolerance and efficacy\n\n'''Antidepressants:'''\n\ngive preference to SSRI and SNRI antidepressants, mirtazapine and mianserin because they are well tolerated.\n\nAvoid tricyclics.\n\n'''Thymoregulators''' :\n\nsame prescribing rules as for adults, but risk of more serious side effects.\n\n'''Antipsychotics''' :\n\nextrapyramidal tolerance to be monitored. Cardiovascular and cognitive risks.\n\nIn neurodegenerative diseases, risk of adverse cerebrovascular effects.",
+  "question": {
+    "properties": {
+      "question": "What is the preferred initial dose for starting antipsychotics in elderly patients?",
+      "option_a": "20mg/day",
+      "option_b": "40mg/day",
+      "option_c": "80mg/day",
+      "option_d": "120mg/day",
+      "correct_option": "40mg/day"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

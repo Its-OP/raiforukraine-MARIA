@@ -1,0 +1,12 @@
+{
+  "folder": "IC-101",
+  "content": "{{knowledge objective\n|Identifiant=OIC-101-04-A\n|Item_parent=Facial paralysis\n|Item_parent_short=Facial paralysis\n|Rank=A\n|Title=Photograph/video of central facial paralysis\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=4}}\nPlease refer to the CEN website: www.cen-neurologie.fr where videos are available.",
+  "question": {
+    "question": "What is the best format for photographing facial paralysis?",
+    "option_a": "Photograph from a distance, focusing on the face as a whole",
+    "option_b": "Close-up photograph of the affected area, highlighting the details",
+    "option_c": "Video recording of the patient's facial movements over time",
+    "option_d": "Photograph of the patient's facial expression in a mirror",
+    "correct_option": "C"
+  }
+}

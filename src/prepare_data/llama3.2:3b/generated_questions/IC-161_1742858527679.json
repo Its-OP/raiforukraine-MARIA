@@ -1,0 +1,40 @@
+{
+  "folder": "IC-161",
+  "content": "{{knowledge objective\n|Identifiant=OIC-161-13-A\n|Item_parent=Urinary infections in children and adults\n|Item_parent_short=Urinary infections in children and adults\n|Rank=A\n|Title=Knowing the diagnostic criteria for male urinary tract infections (clinical, biological, radiological)\n|Description=Knowing how to determine the indications for additional examinations for male urinary tract infections, knowing the complications of male urinary tract infections, knowing how to eliminate differential diagnoses.\n|Rubric=Positive diagnosis\n|Contributors=Maxime Vall\u00e9e, Alice Faure\n|Order=13}}\n\n\n==There are fundamental clinical elements for the positive diagnosis of male urinary tract infection (MUTI, formerly \"acute prostatitis\"):==\n\n*the occurrence of an '''acute symptomatology'''\n*''the presence of [[Acute fever in children and adults|fever]]''' [[Fever 147|147]] +/- associated with chills\n\n<br />\n\n*There are descriptions of MUI without fever, called \"cystitis like\", but its diagnosis must be cautious, since the terrain of MUI is that of a man with pre-existing lower urinary tract symptoms (LUTS), which should not lead to a false diagnosis of infection.\n*The other symptoms that are obviously frequently associated are LUTS during the filling phase with urinary burning.\n*The main complications are severe sepsis and acute urine retention, which are diagnostic and therapeutic emergencies.\n*Biological and radiological examinations (see dedicated question)\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a common symptom of male urinary tract infection (MUTI) in adults?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Chronic cough",
+        "description": "A persistent cough that may be associated with other conditions"
+      },
+      "option_b": {
+        "title": "Acute fever",
+        "description": "A sudden onset of high temperature, often accompanied by chills"
+      },
+      "option_c": {
+        "title": "Severe abdominal pain",
+        "description": "Intense pain in the abdominal region, often associated with other conditions"
+      },
+      "option_d": {
+        "title": "Urinary burning",
+        "description": "A sensation of burning while urinating, a common symptom of UTIs"
+      },
+      "correct_option": {
+        "title": "A"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

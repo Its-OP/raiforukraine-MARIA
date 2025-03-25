@@ -1,0 +1,46 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-21-B\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=B\n|Title=Knowing the therapeutic methods for upper genital infections in women\n|Description=None\n|Heading=Management\n|Contributors=\n|Order=21}}\nProbabilistic treatment: 2018 recommendations (CNGOF - SPILF) recommend:\n\n- Uncomplicated IGH: Ceftriaxone 1g IV/IM single dose + Doxycycline 100mg/12h po 10 days + Metronidazole 500mg/12h po 10 days\n\n\n- Gonococcus: Ceftriaxone (1 g/d, IV, 14 days).\n\n- Chlamydia: Doxycycline (100 mg/12 hours, \"per os\" or IV, 14 days).",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the recommended treatment for uncomplicated gonococcal infections in women?",
+        "description": "A multiple-choice question about the treatment of gonococcal infections",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Ceftriaxone 1g IV/IM single dose + Metronidazole 500mg/12h po 10 days",
+        "description": "A treatment regimen that includes Metronidazole",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Doxycycline 100mg/12h po 10 days + Metronidazole 500mg/12h po 10 days",
+        "description": "A treatment regimen that includes Doxycycline and Metronidazole",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Ceftriaxone 1g IV/IM single dose + Doxycycline 100mg/12h po 14 days",
+        "description": "A treatment regimen that includes Ceftriaxone and Doxycycline",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Ceftriaxone 1g IV/IM single dose + Doxycycline 100mg/12h po 14 days",
+        "description": "A treatment regimen that includes Ceftriaxone and Doxycycline",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "A letter indicating the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

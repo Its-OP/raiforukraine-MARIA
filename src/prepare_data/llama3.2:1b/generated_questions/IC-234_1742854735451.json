@@ -1,0 +1,22 @@
+{
+  "folder": "IC-234",
+  "content": "{{knowledge objective\n|Identifiant=OIC-234-09-A\n|Item_parent=Adult heart failure\n|Item_parent_short=Adult heart failure\n|Rank=A\n|Title=Know how heart failure is diagnosed\n|Description=Know the main functional signs, NYHA class and physical signs; Know the different clinical pictures.\n|Rubric=Positive diagnosis\n|Contributors=Olivier Huttin\n|Order=9}}\n\n\n=== '''Main functional signs of CI''' ===\n- Dyspnoea\n\n- On exertion, the most common clinical sign but the least specific,\n\n- Orthopnoea, which is more specific,\n\n- Paroxysmal nocturnal dyspnoea (equivalent to pulmonary sub-oedema).\n\n- It is classified according to the NYHA scale (see below)\n\n{| class=\"wikitable\"\n| colspan=\"2\" |'''New York Heart Association (NYHA) Scale''''\n|-\n|Stage I\n|No symptoms on exertion, no limitation of physical activity\n|-\n|Stage II\n|Symptoms on heavy exertion (running, climbing several flights of stairs, etc.), moderate reduction in physical activity\n|-\n|Stage III\n|Symptoms with moderate exertion (housework, toileting), marked reduction in physical activity\n|-\n|Stage IV\n|Symptoms at rest, severe limitation of physical activity\n|}\n\n\n- Other associated signs :\n\n- rest fatigue: Asthenia ;\n\n- palpitations\n\n- breathing problems (Cheynes-Stokes respiration)\n\n- Neurological signs (confusion linked to low cerebral output);\n\n- Digestive signs (abdominal pain, nausea, vomiting).\n\n\nVarious tables :\n\n=== '''Left heart failure''' ===\n- Dyspnoea, crackling or sub-crepitating rales, usually bilateral, declining and symmetrical\n\n- pleural effusion.\n\n- Tachycardia\n\n- Table of OAPs (see specific paragraph)\n<br />\n\n=== '''Right heart failure''' ===\n- jugular turgidity\n\n- hepatojugular reflux\n\n- hepatomegaly\n\n- peripheral oedemas, which are usually soft, white, painless, bilateral, cup-shaped and predominantly on the lower parts of the body (lower limbs, lumbar region in bedridden patients)\n\n- Disturbances to liver function ascites\n\n\nWhen a patient presents with signs of both right and left heart failure, he is said to have global heart failure. Both right and left heart failure can be complicated by cardiogenic shock (see specific paragraph).",
+  "question": {
+    "properties": {
+      "question": "What is the main functional sign of heart failure?",
+      "option_a": "Dyspnoea",
+      "option_b": "Orthopnoea",
+      "option_c": "Paroxysmal nocturnal dyspnoea",
+      "option_d": "Rest fatigue",
+      "correct_option": "Dyspnoea"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-22-B\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=B\n|Intitle=Photographs: adrenarche\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=22}}\n",
+  "question": {
+    "question": "What is adrenarche?",
+    "option_a": "The onset of menstruation in females",
+    "option_b": "A phase of rapid growth and development in puberty",
+    "option_c": "The increase in androgen production by the adrenal glands during puberty",
+    "option_d": "A condition of delayed puberty",
+    "correct_option": "C"
+  }
+}

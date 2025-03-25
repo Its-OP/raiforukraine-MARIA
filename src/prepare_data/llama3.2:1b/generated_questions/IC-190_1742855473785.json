@@ -1,0 +1,12 @@
+{
+  "folder": "IC-190",
+  "content": "{{knowledge objective\n|Identifiant=OIC-190-06-B\n|Item_parent=Prolonged fever\n|Item_parent_short=Prolonged fever\n|Rank=B\n|Title=Knowing the indication for imaging examinations in cases of prolonged fever\n|Description=None\n|Rubric=Additional examinations\n|Contributors=\n|Order=6}}\n\n\n\n\n==''First-line'''==\no As a minimum: full-face chest X-ray and abdomino-pelvic ultrasound,\n\no Most often replaced by: thoraco-abdomino-pelvic computed tomography (CT) with injection\n\no Trans-thoracic echocardiography if endocarditis suspected\n\no According to clinical context:\n\n\u00a7 CT scan of the sinuses\n\n\u00a7 Dental panoramic\n\n\u00a7 Mammography\n<br />\n\n==''As a second-line treatment or depending on the clinical context'''==\no Cerebral magnetic resonance imaging (MRI)\n\no Positron emission tomography (PET)-FDG (fluoro-2-deoxyglucose) CT (<sup>18</sup>).\n\n\n'''In children'''\n\n'''in first intention:'''\n\nchest X-ray, abdominal ultrasound and cardiac ultrasound (to check for complications of kawasaki)\n\n'''in second intention:'''\n\nDepending on the clinical context\n\n- CAT SCAN,\n\n- dental panoramic\n\n- bone scan\n\n- Brain MRI\n\n- PET\n\n<br />",
+  "question": {
+    "question": "What is the typical first-line imaging examination for cases of prolonged fever?",
+    "option_a": "Chest X-ray, abdominal ultrasound, and cardiac ultrasound",
+    "option_b": "Chest X-ray, abdominal ultrasound, and cerebral magnetic resonance imaging",
+    "option_c": "Chest X-ray, dental panoramic, and bone scan",
+    "option_d": "Chest X-ray, dental panoramic, and brain MRI",
+    "correct_option": "option_a"
+  }
+}

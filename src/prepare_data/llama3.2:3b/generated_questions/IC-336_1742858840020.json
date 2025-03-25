@@ -1,0 +1,46 @@
+{
+  "folder": "IC-336",
+  "content": "{{knowledge objective\n|Identifiant=OIC-336-02-B\n|Item_parent=Non-traumaticoma in adults and children\n|Item_parent_short=Non-traumatic coma in adults and children\n|Rank=B\n|Title=Know the mechanisms that can contribute to coma\n|Description=Knowing the nerve centres of awakening and consciousness\n|Rubric=Physiopathology\n|Contributors=Nicolas Weiss\n|Order=2}}\n\n<gallery widths=\"300\" heights=\"300\">\nFile:Pathophysiological elements coma.jpg\n</gallery>",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a common mechanism that can contribute to coma in adults and children?",
+        "description": "A person is in a non-traumatic coma. What could be the cause?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Severe infection",
+        "description": "A severe infection can cause a coma by overwhelming the body's immune system and disrupting brain function.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Severe allergic reaction",
+        "description": "A severe allergic reaction can cause a coma by releasing large amounts of histamine and other chemicals that can affect the brain.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Hypoxia",
+        "description": "Hypoxia is a condition in which the body, or a region of the body, is deprived of adequate oxygen supply.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Toxins in the blood",
+        "description": "Toxins in the blood can cause a coma by disrupting normal brain function and leading to brain damage.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "C",
+        "description": "",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

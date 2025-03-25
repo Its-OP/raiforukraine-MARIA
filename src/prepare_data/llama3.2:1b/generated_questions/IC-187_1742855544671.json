@@ -1,0 +1,12 @@
+{
+  "folder": "IC-187",
+  "content": "{{knowledge objective\n|Identifiant=OIC-187-01-A\n|Item_parent=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Item_parent_short=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Rank=A\n|Title=Know the definition of urticaria\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=1}}\n\n\nUrticaria is a frequent inflammatory dermatosis (15-20% of the population in its acute form) secondary to the activation of masctocytes by complex immunological or non-immunological mechanisms. It is diagnosed clinically. The course of the disease is usually acute and sometimes chronic, with flare-ups occurring daily or almost daily for more than 6 weeks at a time.\nAcute urticaria is usually non-allergic, although it may be allergic in rare cases.",
+  "question": {
+    "question": "What is the typical course of urticaria?",
+    "option_a": "Acute and chronic, with flare-ups occurring daily or almost daily for more than 6 weeks at a time",
+    "option_b": "Acute and chronic, with flare-ups occurring daily or almost daily for less than 6 weeks at a time",
+    "option_c": "Acute and chronic, with flare-ups occurring daily or almost daily for less than 6 weeks at a time",
+    "option_d": "Chronic and rarely, with flare-ups occurring daily or almost daily for less than 6 weeks at a time",
+    "correct_option": "option_a"
+  }
+}

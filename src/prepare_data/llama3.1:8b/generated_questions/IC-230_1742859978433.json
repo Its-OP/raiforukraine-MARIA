@@ -1,0 +1,38 @@
+{
+  "folder": "IC-230",
+  "content": "{{knowledge objective\n|Identifiant=OIC-230-04-A\n|Item_parent=Acute chest pain\n|Item_parent_short=Acute chest pain\n|Rank=A\n|Title=Savoir \u00e9voquer les quatre urgences cardio-vasculaires devant une douleur thoracique\n|Description=Aortic dissection, acute coronary syndromes, pericarditis with tamponade, pulmonary embolism\n|Rubric=Positive diagnosis\n|Contributors=Vincent Roule\n|Order=4}}\n\n'''The 4 cardiovascular emergencies that can cause chest pain are:'''\n\n- aortic dissection\n\n- acute coronary syndrome (ACS)\n\n- pulmonary embolism (PE)\n\n- pericarditis (tamponade)\n\n=> Mnemonic PIED (Pericarditis, Infarction, Embolism, Dissection)",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Question",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Option A",
+        "description": "The first answer option labeled ",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Option B",
+        "description": "The second answer option labeled ",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Option C",
+        "description": "The third answer option labeled ",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Option D",
+        "description": "The fourth answer option labeled ",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    }
+  }
+}

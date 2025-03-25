@@ -1,0 +1,12 @@
+{
+  "folder": "IC-245",
+  "content": "{{knowledge objective\n|Identifiant=OIC-245-22-B\n|Item_parent=Adrenal insufficiency in adults and children\n|Item_parent_short=Adrenal insufficiency in adults and children\n|Rank=B\n|Title=Understanding the pathophysiology of adrenal insufficiency in children\n|Description=None\n|Rubric=Physiopathology\n|Contributors=Claire Briet,St\u00e9phanie Espiard\n|Order=22}}\nThe pathophysiology of adrenal insufficiency varies according to the aetiology:\n\n'''- in the context of 21 hydroxylase block''' (enzyme responsible for converting progesterone into 11 desoxycorticosterone (DOC), which is the precursor of aldosterone, and 17 hydroxyprogesterone into 11 desoxycortisol (compound S), which is the precursor of cortisol): the absence of enzyme activity leads to a deficit in cortisol (which leads to adrenal insufficiency) and aldosterone (which leads to salt loss and dehydration). In addition, there is an accumulation of precursors upstream of the block: elevation of androgens (17 OH progesterone) resulting in hyperandrogenism and virilisation in young girls.\n\n'''-in the context of adrenoleukodystrophy''': mutation of a gene encoding a transporter of very long-chain fatty acids in the peroxisome leads to an accumulation of these molecules in the cells.",
+  "question": {
+    "question": "What is the primary effect of 21 hydroxylase deficiency on hormone production in the context of adrenal insufficiency?",
+    "option_a": "It leads to a deficiency of cortisol and aldosterone, with an accumulation of precursors upstream of the block.",
+    "option_b": "It leads to an excess of cortisol and aldosterone, with a deficiency of precursors upstream of the block.",
+    "option_c": "It has no effect on cortisol and aldosterone production, but leads to an accumulation of very long-chain fatty acids in cells.",
+    "option_d": "It leads to a deficiency of cortisol, but an excess of aldosterone, with a deficiency of precursors upstream of the block.",
+    "correct_option": "A"
+  }
+}

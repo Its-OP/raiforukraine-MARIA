@@ -1,0 +1,46 @@
+{
+  "folder": "IC-187",
+  "content": "{{knowledge objective\n|Identifiant=OIC-187-18-A\n|Item_parent=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Item_parent_short=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Rank=A\n|Title=Knowing the main principles of treating contact eczema\n|Description=None\n|Rubric=Management\n|Contributors=Nad\u00e8ge Cordel; Fr\u00e9d\u00e9ric B\u00e9rard\n|Order=18}}The treatment of contact eczema is based on 2 principles:\n\n* Avoid contact with the allergen: this is the most important aspect of the treatment (secondary prevention).\n* Dermocorticoid'', 1 application daily until the eczema has healed, usually about ten days.\n** Cream or ointment depending on the site:\n*** cream (folds or oozing lesion)\n*** ointment (the rest of the body outside the folds, and on non-oozing lesions).\n\nAfter an eczema flare-up, a ''moisturising cream'' is recommended to combat skin flaking, which follows the inflammatory phase of eczema.\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary goal of treatment for contact eczema?",
+        "description": "The main principle of treating contact eczema",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To apply a dermatocorticoid ointment daily until the eczema has healed",
+        "description": "A common treatment approach",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "To avoid contact with the allergen and apply a moisturizing cream after the eczema has healed",
+        "description": "A comprehensive treatment strategy",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "To use a cream or ointment depending on the site of the lesion",
+        "description": "A treatment approach for specific lesion types",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "To prevent future eczema flare-ups through lifestyle changes",
+        "description": "A long-term prevention strategy",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "",
+        "description": "",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

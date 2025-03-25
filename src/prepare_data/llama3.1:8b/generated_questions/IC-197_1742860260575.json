@@ -1,0 +1,12 @@
+{
+  "folder": "IC-197",
+  "content": "{{knowledge objective\n|Identifiant=OIC-197-05-A\n|Item_parent=Spondyloarthritis\n|Item_parent_short=Spondyloarthritis\n|Rank=A\n|Title=Knowing the signs of joints and periarticular joints\n|Description=Knowing how to recognise the clinical manifestations: peripheral joint syndrome, pelvic spinal syndrome, peripheral enthesopathic involvement, etc.\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=5}}\n'''. Pelvic spine syndrome ([[Spinal pain (cervical, dorsal or lumbar) SDD-072|72. Spinal pain (cervical, dorsal or lumbar)]]'''\n\n- Inflammatory back pain\n\n- Inflammatory pygalgia (=fessalgia): Sacroiliitis results in the appearance of inflammatory pain in the buttocks. Gluteal pain may be unilateral, bilateral or tilted.\n\n'''. Peripheral joint syndrome ([[Localised or diffuse oedema SDD-054|54. Localised or diffuse oedema]]) ([[56. Joint stiffness]]) ([[67. Joint pain]]) ([[68. Lameness]])'''''\n\nOligoarthritis of the lower limbs, often affecting large joints.\n\nCoxofemoral involvement, known as coxitis, is seen in severe forms.\n\n'''. Peripheral enthesopathic disease''''\n\n- Enthesitis: the most common and most characteristic is talalgia, which is inflammatory in nature,\n\n- Sausage toe or finger (dactylitis),\n\n- Involvement of the anterior chest wall. '''([[161. Chest pain]])''''",
+  "question": {
+    "question": "What is a characteristic of peripheral enthesopathic disease?",
+    "option_a": "Involvement of the anterior chest wall",
+    "option_b": "Sausage toe or finger (dactylitis)",
+    "option_c": "Inflammatory back pain",
+    "option_d": "Oligoarthritis of the lower limbs, often affecting large joints",
+    "correct_option": "B"
+  }
+}

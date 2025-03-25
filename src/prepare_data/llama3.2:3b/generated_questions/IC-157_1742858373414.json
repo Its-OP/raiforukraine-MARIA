@@ -1,0 +1,46 @@
+{
+  "folder": "IC-157",
+  "content": "{{knowledge objective\n|Identifiant=OIC-157-10-B\n|Item_parent=Bacteremia/Fungemia in adults and children\n|Item_parent_short=Bacteremia/Fungemia in adults and children\n|Rank=B\n|Title=Knowing the indications for additional tests during bacteremia/fungemia\n|Description=None\n|Rubric= Complementary examinations\n|Contributors=\n|Order=10}}\n'''Depending on microbial identification:'''\n\n* Staphylococcus aureus: systematic echocardiography\n* Candida: systematic echocardiography and fundus examination\n* Enterobacteriaceae, enterococci: ECBU +/- abdominal imaging\n* Anaerobes: abdominal imaging\n* Bacteria associated with endocarditis (see item 152: S. aureus, oral streptococcus, Streptococcus gallolyticus): echocardiography\n* Streptococcus pneumoniae: chest X-ray +/- lumbar puncture (if meningeal syndrome or normal chest imaging)",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Question",
+        "description": "What additional tests are indicated during bacteremia/fungemia based on microbial identification?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Option A",
+        "description": "Systematic echocardiography and abdominal imaging",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Option B",
+        "description": "Systematic echocardiography and fundus examination",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Option C",
+        "description": "Abdominal imaging and chest X-ray",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Option D",
+        "description": "Echocardiography and lumbar puncture",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

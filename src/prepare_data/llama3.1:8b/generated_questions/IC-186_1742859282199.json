@@ -1,0 +1,12 @@
+{
+  "folder": "IC-186",
+  "content": "{{knowledge objective\n|Identifiant=OIC-186-12-B\n|Item_parent=Hypersensitivities and allergies in children and adults: physiopathological, epidemiological and diagnostic aspects and principles of treatment\n|Item_parent_short=Hypersensitivity and allergy in children and adults: pathophysiological, epidemiological and diagnostic aspects and principles of treatment\n|Rank=B\n|Title=Knowing the indication for carrying out a multi-allergen IgE screening test (aeroallergens and trophallergens)\n|Description=None\n|Section=Additional tests\n|Contributors=\n|Order=12}}\nThe multiallergenic test is prescribed by the ''primary care physician''.\n\nIt is prescribed for patients when questioning points to a respiratory or food allergy, and when an allergist cannot be consulted for several months.\n\n\nThe aim is to detect ''IgE antibodies specific to a panel of allergens'' most commonly encountered in the immediate type of allergy.\n\n\nIn case of suspected respiratory allergy :\n\n- Tests with mixtures of pneumallergens: Phadiatop\u00ae, Alatop\u00ae, Allergyscreen\u00ae.\n\n\nIn the event of a suspected food allergy :\n\n- Tests with trophallergen mixtures: Trophatop\u00ae (children or adults, see \"paediatric specialities\" below)\n\nIt is not necessary to be fasting or to have stopped taking anti-histamines before the sample is taken.\n\n\nThe answer is only ''qualitative'' (positive or negative).\n\n\nWarning: ''a positive multi-allergen test does not mean allergy''. In fact, if exposure to the allergen detected as positive is well tolerated, there is no allergy (e.g. positive specific IgE to peanuts, even though the patient eats peanuts without any problem, means sensitisation and not allergy). This is important because it is not necessary to avoid the food in this case, or ''it may cause a long-term allergy to this food'' (break in tolerance).   \n\n\nMulti-allergenic tests can also detect atopy with very good sensitivity (>90%).",
+  "question": {
+    "question": "Who typically prescribes a multi-allergen IgE screening test (aeroallergens and trophallergens)?",
+    "option_a": "Dermatologist",
+    "option_b": "Primary care physician",
+    "option_c": "Allergist",
+    "option_d": "Pediatrician",
+    "correct_option": "B"
+  }
+}

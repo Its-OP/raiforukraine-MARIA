@@ -1,0 +1,22 @@
+{
+  "folder": "IC-198",
+  "content": "{{knowledge objective\n|Identifiant=OIC-198-17-B\n|Item_parent=Microcrystalline arthropathies\n|Item_parent_short=Microcrystalline arthropathies\n|Rank=B\n|Title=Knowing the differences in the terrain between gout, calcium pyrophosphate arthropathy (CPA) and apatitic calcification\n|Description=Men, elderly subjects, young women\n|Section=Positive diagnosis\n|Contributors=\n|Order=17}}\n'''In a caricatural way, two elements are important:'''\n\nThe terrain differs according to the disease:\n\n- for gout: mature men, often overweight or obese, suffering from cardiovascular disease, kidney failure or diabetes mellitus\n\n- for rheumatism caused by PPCD crystals: elderly subjects\n\n- for apatitic calcium attacks: younger women.\n\nThe site of the acute arthritis or periarthritis can sometimes help in the diagnosis:\n\n- Gout: initially affecting the metatarsophalangeal joint (MTP) of the big toe or another joint in the foot (other MTPs, tarsus, ankle),\n\n- Pyrophosphate rheumatism: arthritis of the knee or wrist,\n\n- periarticular attacks linked to apatitic deposits often affect the shoulder, with calcifying tendinitis of the cuff muscles, or the hand, with recurrent pseudophlegmons/abcesses/cellulitis of the fingers or wrists.",
+  "question": {
+    "properties": {
+      "question": "What is the primary difference in the terrain between gout, calcium pyrophosphate arthropathy (CPA), and apatitic calcification?",
+      "option_a": "Gout: typically affects the metatarsophalangeal joint (MTP) of the big toe or another joint in the foot (other MTPs, tarsus, ankle),",
+      "option_b": "Rheumatism caused by PPCD crystals: typically affects the knee or wrist,",
+      "option_c": "Apatitic calcification: typically affects the shoulder, with calcifying tendinitis of the cuff muscles, or the hand, with recurrent pseudophlegmons/abcesses/cellulitis of the fingers or wrists,",
+      "option_d": "Gout: initially affects the metatarsophalangeal joint (MTP) of the big toe or another joint in the foot (other MTPs, tarsus, ankle),",
+      "correct_option": "option_c"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

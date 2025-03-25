@@ -1,0 +1,22 @@
+{
+  "folder": "IC-315",
+  "content": "<br />{knowledge objective\n|Identifiant=OIC-315-01-A\n|Item_parent=Acute leukaemia\n|Item_parent_short=Acute leukaemia\n|Rank=A\n|Title=Know the criteria defining acute leukemia (AL)\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=1}}\nA clonal haematopoietic stem cell disease of the bone marrow resulting in proliferation and invasion of the bone marrow by immature, cancerous haematopoietic cells blocked at an early stage of differentiation: blasts. By definition, these blasts represent more than 20% of the cells on cytological examination of the myelogram.",
+  "question": {
+    "properties": {
+      "question": "What is the main characteristic of acute leukemia?",
+      "option_a": "A clonal proliferation of immature, cancerous cells in the bone marrow.",
+      "option_b": "A specific type of cancer that affects the lymph nodes.",
+      "option_c": "A condition where the immune system is weakened and the body's ability to fight infections is impaired.",
+      "option_d": "A type of bone tumor.",
+      "correct_option": "A"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

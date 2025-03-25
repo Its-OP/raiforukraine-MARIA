@@ -1,0 +1,46 @@
+{
+  "folder": "IC-364",
+  "content": "{{knowledge objective\n|Identifiant=OIC-364-02-B\n|Item_parent=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Item_parent_short=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Rank=B\n|Title=Knowing the different types of trauma according to age\n|Description=None\n|Rubric=Definition\n|Contributors=Bruno Dohin\n|Order=2}}\n\nIn small children, low-energy fractures lead to butter clod fractures or epiphyseal fracture-decollement. Plastic deformation of the bones is also one of the forms encountered at this age.\n\nIn children, the most common fractures are epiphyseal dislocations, green wood fractures and metaphyseal fractures.\n\nIn adolescents, the fractures encountered are type III or IV epiphyseal dislocations, apophyseal fracture-avulsions and complete fractures.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What are the most common fractures in children?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Epiphyseal dislocations, green wood fractures, and metaphyseal fractures",
+        "description": "Common fractures in children",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Type III or IV epiphyseal dislocations, apophyseal fracture-avulsions, and complete fractures",
+        "description": "Common fractures in adolescents",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Butter clod fractures or epiphyseal fracture-decollement and plastic deformation of the bones",
+        "description": "Forms of fractures in small children",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Green wood fractures, metaphyseal fractures, and complete fractures",
+        "description": "Common fractures in adolescents",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct letter of the option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

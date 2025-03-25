@@ -1,0 +1,12 @@
+{
+  "folder": "IC-191",
+  "content": "{{knowledge objective\n|Identifiant=OIC-191-01-A\n|Item_parent=Fever in an immunocompromised patient\n|Item_parent_short=Fever in an immunocompromised patient\n|Rank=A\n|Title=Know the definition of febrile neutropenia\n|Description=Fever and neutropenia <500\n|Rubric=Definition\n|Contributors=Am\u00e9lie Servettaz\n|Order=1}}\n\n<big>Definition neutropenia: PNN < 1500/mm3 but the infectious risk is major if PNN < 500/mm3</big>.\n\n<big>The definition of '''febrile neutropenia''' is therefore:</big>.\n\n<big>- '''Fever''': T\u00b0\u226538\u00b0C on 2 occasions or for more than 1 hour or any T\u00b0\u226538.3\u00b0C)</big>\n\n<big>- In a patient with '''Neutrophil Polynuclei (PNN) <0.5G/L'''</big>\n\n<big>- '''It's a therapeutic emergency'''</big>",
+  "question": {
+    "question": "What is the definition of febrile neutropenia?",
+    "option_a": "Fever and neutropenia < 1500/mm3 but the infectious risk is minor if PNN < 500/mm3",
+    "option_b": "Fever and neutropenia < 500/mm3 but the infectious risk is minor if PNN < 1500/mm3",
+    "option_c": "Fever and neutropenia < 500/mm3 but the infectious risk is minor if PNN < 1500/mm3",
+    "option_d": "Fever and neutropenia < 1500/mm3 but the infectious risk is minor if PNN < 500/mm3",
+    "correct_option": "option_b"
+  }
+}

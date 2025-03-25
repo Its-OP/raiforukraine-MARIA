@@ -1,0 +1,12 @@
+{
+  "folder": "IC-132",
+  "content": "{{knowledge objective\n|Identifiant=OIC-132-13-B\n|Item_parent=Cognitive disorders in the elderly. (see item 108)\n|Item_parent_short=Cognitive disorders in the elderly. (see item 108)\n|Rank=B\n|Title=Know the pathophysiological elements of Alzheimer's disease.\n|Description=Know the main pathophysiological features of Alzheimer's disease.\n|Rubric=Physiopathology\n|Contributors=\n|Order=13}}\n\nThe brain lesions of Alzheimer's disease are characterised by the presence of :\n\n- Amyloid plaques (extracellular lesions composed of deposits of amyloid A\u03b2 peptides resulting from abnormal cleavage of the amyloid precursor protein or APP)\n\n- Neurofibrillary degeneration (intracellular lesions composed of hyperphosphorylated tau (tubulin associated unit) protein; this hyperphosphorylation disrupts the functioning of microtubules and therefore intra-neuronal transport).\n\n- Activation of neuroinflammation\n\n- And ultimately neuronal loss.\n\nIn people aged over 75, lesions from different pathologies frequently co-exist (e.g. lesions characteristic of Alzheimer's disease and diffuse or lacunar ischaemic vascular lesions, microhaemorrhages).",
+  "question": {
+    "question": "What are the characteristic brain lesions of Alzheimer's disease?",
+    "option_a": "Amyloid plaques, neurofibrillary degeneration, and activation of neuroinflammation",
+    "option_b": "Amyloid plaques, neurofibrillary degeneration, and gliosis (an abnormal formation of glial cells)",
+    "option_c": "Amyloid plaques, neurofibrillary degeneration, and neuronal loss",
+    "option_d": "Amyloid plaques, neurofibrillary degeneration, and cerebral edema",
+    "correct_option": "C"
+  }
+}

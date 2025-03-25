@@ -1,0 +1,21 @@
+{
+  "folder": "IC-132",
+  "content": "{{knowledge objective\n|Identifiant=OIC-132-05-A\n|Item_parent=Cognitive disorders in the elderly. (see item 108)\n|Item_parent_short=Cognitive disorders in the elderly. (see item 108)\n|Rank=A\n|Title=Know the differential diagnoses of Alzheimer's disease and related disorders.\n|Description=Know the curable diseases that can lead to neuro-cognitive disorders.\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=5}}\nThere are medical conditions that can lead to neuro-cognitive disorders that are possibly/partially reversible with appropriate treatment:\n\n\n- Vitamin deficiencies (B12, B9)\n\n- Subdural haematoma\n\n- Intracranial tumour\n\n- Hydrocephalus at normal pressure\n\n- Carbon monoxide poisoning (damage to the basal ganglia)\n\n- Endocrine disorders (hypothyroidism, chronic adrenal insufficiency)\n\n- Hyponatraemia/hypercalcaemia of progressive onset\n\n- Iatrogenicity: drug encephalopathy (valproate, lithium, etc.), anticholinergic drugs, psychotropic drugs, etc.\n\n- Systemic inflammatory diseases (vasculitis, etc.)\n\n- Paraneoplastic syndromes\n\n- Infections (neurosyphilis, HIV...)\n\n- ...\n\n<br />",
+  "question": {
+    "properties": {
+      "question": "What are some medical conditions that can lead to neuro-cognitive disorders that are possibly/partially reversible with appropriate treatment?",
+      "option_a": "Vitamin deficiencies (B12, B9)",
+      "option_b": "Subdural haematoma",
+      "option_c": "Intracranial tumour",
+      "option_d": "Hydrocephalus at normal pressure",
+      "option_e": "Carbon monoxide poisoning (damage to the basal ganglia)",
+      "option_f": "Endocrine disorders (hypothyroidism, chronic adrenal insufficiency)",
+      "option_g": "Hyponatraemia/hypercalcaemia of progressive onset",
+      "option_h": "Iatrogenicity: drug encephalopathy (valproate, lithium, etc.), anticholinergic drugs, psychotropic drugs, etc.",
+      "option_i": "Systemic inflammatory diseases (vasculitis, etc.)",
+      "option_j": "Paraneoplastic syndromes",
+      "option_k": "Infections (neurosyphilis, HIV...)",
+      "correct_option": "option_e"
+    }
+  }
+}

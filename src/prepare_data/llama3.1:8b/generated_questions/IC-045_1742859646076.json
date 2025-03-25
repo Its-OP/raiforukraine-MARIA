@@ -1,0 +1,12 @@
+{
+  "folder": "IC-045",
+  "content": "{{knowledge objective\n|Identifiant=OIC-045-10-A\n|Item_parent=Specificities of genetic diseases. (see item 9)\n|Item_parent_short=Specificities of genetic diseases. (see item 9)\n|Rank=A\n|Title=Savoir \u00e9voquer le diagnostic clinique de trisomie 21 en postnatal.\n|Description=Epidemiology and main postnatal clinical signs of trisomy 21.\n|Rubric=Positive diagnosis\n|Contributors=Elise Launay,Damien Sanlaville,Marie-B\u00e9reng\u00e8re Troadec\n|Order=10}}\n\nThe diagnosis is currently made most often (80-90%) in the ante-natal period. If this is not the case, the diagnosis is made in the neonatal period on the basis of the triad:\n\n- Axial hypotonia\n\n- Heart murmur on auscultation ([[Discovery of abnormalities on cardiac auscultation SD-018|discovery of abnormalities on cardiac auscultation]])\n\n- Facial dysmorphia\n\nVery rarely, the diagnosis may be made later (mosaic trisomy 21) based on the following factors\n\n- Psychomotor retardation ([[Psychomotor development abnormality SD-115|psychomotor development abnormality]])\n\n- Learning difficulties associated with immaturity",
+  "question": {
+    "question": "When is the diagnosis of trisomy 21 most often made?",
+    "option_a": "In the neonatal period based on the triad of axial hypotonia, heart murmur, and facial dysmorphia",
+    "option_b": "In the fetal period through prenatal testing, such as ultrasound or amniocentesis",
+    "option_c": "In the postnatal period based on psychomotor retardation and learning difficulties associated with immaturity",
+    "option_d": "In the adolescent period through genetic testing and family history",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-24-B\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=B\n|Title=Knowing the indication for imaging examinations in abnormal puberty\n|Description=None\n|Rubric=Additional examinations\n|Contributors=\n|Order=24}}\n- Pathological peripheral puberty: pelvic ultrasound in girls\n\n- Central precocious puberty: brain MRI to look for a tumour affecting the hypothalamo-hypophyseal region\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the typical indication for imaging examinations in abnormal puberty?",
+        "description": "What is the standard diagnostic imaging study for abnormal puberty?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Pelvic ultrasound to evaluate for adrenal gland abnormalities",
+        "description": "An imaging study to evaluate for adrenal gland abnormalities in girls with abnormal puberty",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Brain MRI to look for a tumour affecting the hypothalamo-hypophyseal region",
+        "description": "Imaging study to look for a tumour affecting the hypothalamo-hypophyseal region in girls with central precocious puberty",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Pelvic ultrasound to evaluate for ovarian cysts",
+        "description": "Imaging study to evaluate for ovarian cysts in girls with abnormal puberty",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Bone age assessment via X-ray",
+        "description": "Assessment of bone age via X-ray to evaluate pubertal development",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "b",
+        "description": "The correct answer, indicating brain MRI to look for a tumour affecting the hypothalamo-hypophyseal region",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

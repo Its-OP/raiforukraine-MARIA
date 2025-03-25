@@ -1,0 +1,46 @@
+{
+  "folder": "IC-239",
+  "content": "{{knowledge objective\n|Identifiant=OIC-239-09-B\n|Item_parent=Acrosyndromes (Raynaud's phenomenon, erythermalgia, acrocyanosis, frostbite, digital ischaemia)\n|Item_parent_short=Acrosyndromes (Raynaud's phenomenon, erythermalgia, acrocyanosis, frostbite, digital ischaemia)\n|Rank=B\n|Title=Knowing the indication for anti-nuclear antibodies (ANA) and capillaroscopy\n|Description=None\n|Section=Additional examinations\n|Contributors= Sophie Blaise, Luc Bressollette, Claire Le Hello\n|Order=9}}\n\nIn the case of RA, the major step is to be able to recognise secondary RA. Questioning and clinical examination provide important clues, and should be supplemented by testing for antinuclear antibodies and capillaroscopy in cases of suspected secondary RA, or recent onset or worsening RA ('''''SD-178 : [[Reasoned request/prescription and choice of a diagnostic test SD-178|reasoned request/prescription and choice of a diagnostic test]]'')'''''",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Question",
+        "description": "In the case of RA, what is the major step to recognise secondary RA?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Option A",
+        "description": "Performing capillaroscopy and testing for antinuclear antibodies",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Option B",
+        "description": "Only performing capillaroscopy",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Option C",
+        "description": "Performing capillaroscopy and testing for antinuclear antibodies in all cases of RA",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Option D",
+        "description": "Only testing for antinuclear antibodies",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "A",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

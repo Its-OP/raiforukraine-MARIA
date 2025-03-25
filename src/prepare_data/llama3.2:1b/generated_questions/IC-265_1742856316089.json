@@ -1,0 +1,12 @@
+{
+  "folder": "IC-265",
+  "content": "{{knowledge objective\n|Identifiant=OIC-265-04-B\n|Item_parent=Urinary lithiasis\n|Item_parent_short=Urinary lithiasis\n|Rank=B\n|Title=Knowing the main lithogenic factors\n|Description=None\n|Rubric=Physiopathology\n|Contributors=Romain Boissier\n|Order=4}}\n\n*[[Primary prevention through nutrition in adults and children|Dietary factors 248]] and [[Therapeutic lifestyle modifications (diet and physical activity) in adults and children and knowing how to present them to patients|249]] : dairy products, animal proteins, salt - NaCl (promotes hypercalciuria), oxalate-rich foods (chocolate, dried fruit, spinach, sorrel, rhubarb, tea), purine-rich foods (cold meats, offal), fast sugars (glucose, fructose), reduced dietary fibre intake, inadequate diuresis and insufficient fluid intake.\n*Family factors: There is a history of urinary problems in 40% of cases. Cystinuria is the most common genetic disease.\n*Urinary tract infections in children and adults 161]]: infectious ureasic germs (BGN) Pseudomonas, Klebsielle, Proteus mirabilis.\n*Anatomical abnormalities (urinary stasis): pyeloureteral junction syndrome, calcific diverticulum, horseshoe kidney, etc.\n*Drug-induced stones: These account for only 1% of stones: Indinavir (Crixivan), Diamox, and are radiolucent and of very low density on CT scan.",
+  "question": {
+    "question": "What is the main lithogenic factor that contributes to the development of urinary lithiasis?",
+    "option_a": "Dairy products, animal proteins, salt - NaCl",
+    "option_b": "Oxalate-rich foods (chocolate, dried fruit, spinach, sorrel, rhubarb, tea)",
+    "option_c": "Purine-rich foods (cold meats, offal), fast sugars (glucose, fructose)",
+    "option_d": "Reduced dietary fibre intake, inadequate diuresis and insufficient fluid intake",
+    "correct_option": "option_a"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-076",
+  "content": "{{knowledge objective\n|Identifiant=OIC-076-19-B\n|Item_parent=Alcohol dependence\n|Item_parent_short=Alcohol dependence\n|Rank=B\n|Title=Knowing the existence of self-help groups and addiction treatment structures\n|Description=None\n|Rubric=Taking charge\n|Contributors=\n|Order=19}}\n'''Self-help groups''' = patient associations (based on the \"peer-help\" principle)\n\n- value mutual support\n\n- facilitate social links, both inside and outside the group.\n\nMain objective: to combat isolation.\n\n\n'''Addiction treatment structures:''''\n\n* Prevention teams:\n\no schoolchildren and students;\n\no party environments and vulnerable populations through risk and harm reduction ;\n\no companies through training for intermediaries.\n\n* Outpatient teams\n\no CSAPA (Centre de soins, d'accompagnement et de pr\u00e9vention en addictologie - addiction care, support and prevention centre): multi-disciplinary teams open to anyone experiencing difficulties with their drug use or behavioural addictions, as well as their families.\n\no CAARUD (reception and support centres for harm reduction for drug users) welcome anyone with problems using illicit substances who is not yet in care.\n\no CJCs (consultations jeunes consommateurs - young consumer clinics) are aimed at minors and young adults with difficulties linked to substance abuse or substance-free behaviour.\n\no hospital addictology consultations ;\n\n* Inpatient teams :\n\no Hospital addiction care and liaison teams (ELSA) ;\n\no simple withdrawal beds, complex withdrawal beds (i.e. offering adapted therapeutic activities)\n\no day hospitals. \n\no addictology follow-up and rehabilitation care (SSRA): post-hospitalisation facilities that keep patients in hospital for longer periods with adapted therapeutic activities",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the main objective of self-help groups?",
+        "description": "The main objective of self-help groups is to",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To provide medical treatment for addiction",
+        "description": "An incorrect option that might be plausible, but not accurate",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "To facilitate social links and combat isolation",
+        "description": "The correct answer, aligning with the peer-help principle",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "To offer counseling services for individuals with addiction",
+        "description": "An option that is partially correct, but not the main objective",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "To provide financial support for individuals with addiction",
+        "description": "An option that is not accurate, but might be a related concept",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The correct letter corresponding to the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

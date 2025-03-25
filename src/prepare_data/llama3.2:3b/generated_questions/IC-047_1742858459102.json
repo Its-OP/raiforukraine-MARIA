@@ -1,0 +1,41 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-03-A\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic anomalies, visual, hearing and dental disorders. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=A\n|Title=Know the elements of systematic questioning and clinical examination of a child according to age and context.\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=3}}\nInvestigate the child's ''fundamental needs'' (physiological and health needs, need for protection, need for emotional and relational security, need to experience and explore the world, need for a framework of rules and limits, need for identity, need for self-esteem and self-worth).\n\nrelated starting situations : [[Healthy infant follow-up consultation SD-265|Healthy infant follow-up consultation]], [[Paediatric follow-up consultation SD-296|Paediatric follow-up consultation]]\n\n== '''Interview''' ==\nWith the child and their parents, take a moment alone with the teenagers\n\nWith the help of the health record\n\n* '''Life context''': family, living environment (exposure to environmental risks in the broad sense including [[Prevention of unexplained infant death SD-318|prevention of unexplained infant death]] [[Prevention of exposure to screens SD-323|prevention of exposure to screens]], [[Prevention of domestic accidents SD-325|domestic accidents]] and [[Suspected abuse and children at risk SD-321|violence]]), possible vulnerability ([[Subjects in precarious situations|precarity]],isolation) ([[Precarious social situation and isolation SD-347|precarious social situation and isolation]]), social life (communities, schooling, extra-curricular activities ([[Assessment of aptitude for sport and drafting of a certificate of no contraindication SD-335|assessment of aptitude for sport and drafting of a certificate of no contraindication]]), interaction with peers)\n* '''Medical-psychological history''' personal and family including '''vaccinations''' (''[[Adult and Child Vaccinations SD-322|Vaccinations]], [[vaccinations]]'')''', '''' pregnancy progress for newborns ''([[Assessment and care of the newborn at term|Assessments and care of the newborn at term]])'''\n* '''Physiological and health needs''' : nutrition (''[[Nutrition and nutritional needs of infants and children|nutrition and nutritional needs of infants]]'')([[Eating disorders (anorexia or bulimia) SD-132]]), sleep, physical activity ([[Therapeutic lifestyle modifications (nutrition and physical activity) in adults and children and knowing how to present them to patients|therapeutic lifestyle modification]], [[Therapeutic lifestyle modification (sleep, physical activity, nutrition..) SD-324|and SDD 324]]), psychological well-being ([[Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder.]])([[Behavioural disorders in children and adolescents SD-133]])\n* Parenting: emotional and educational needs, difficulties encountered by the parent(s), child, adolescent.\n\n== '''Clinical examination''' ==\n\n*'''Staturo-ponderal development''': weight, height, BMI, CP (up to 3 years) (''[[Staturo-ponderal growth retardation|staturo-ponderal growth retardation]],'' [[Prevention of overweight and obesity SD-319|prevention of overweight and obesity]]) ([[Anomalies of staturo-ponderal growth SD-026|anomalies of staturo-ponderal growth]])\n*'''Intellectual and psychomotor development''' ''([[psychomotor development of infants and children]]) ([[Anomaly of psychomotor development SD-115]])'''\n*'''Sensory development''' ([[Screening for visual disorders by the treating physician: modalities 2C-047-DP-B01]], [[Screening for hearing disorders by the treating physician: modalities 2C-047-PC-B03]], [[Strabismus and amblyopia in children]], [[Strabismus in children SD-157]], [[Decreased hearing/deafness SD-140]])''\n*'''Puberty''' (''[[Normal and pathological puberty]]'')([[Early or delayed puberty SD-113]])\n*'''And according to the complaints'' brought by the parents and/or the child-adolescent",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary goal of a systematic questioning and clinical examination of a child according to age and context?",
+        "description": "The process of gathering information about a child's needs and health status",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To identify and address potential health risks and disorders",
+        "description": "A plausible but incorrect option that is related to the topic"
+      },
+      "option_b": {
+        "title": "To provide a framework for the child's development and growth",
+        "description": "A plausible but incorrect option that is related to the topic"
+      },
+      "option_c": {
+        "title": "To determine the child's need for protection and emotional security",
+        "description": "The correct option that aligns with the topic"
+      },
+      "option_d": {
+        "title": "To assess the child's cognitive and academic abilities",
+        "description": "A plausible but incorrect option that is related to the topic"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "The letter of the correct option"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

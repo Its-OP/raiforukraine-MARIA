@@ -1,0 +1,44 @@
+{
+  "folder": "IC-265",
+  "content": "{{knowledge objective\n|Identifiant=OIC-265-12-B\n|Item_parent=Urinary lithiasis\n|Item_parent_short=Urinary lithiasis\n|Rank=B\n|Title=Knowing the tests to be carried out for the aetiological diagnosis of urinary lithiasis\n|Description=First-line metabolic test according to the recommendations of the urolithiasis committee\n|Rubric=Additional tests\n|Contributors=Romain Boissier\n|Order=12}}\n\nThe first-line metabolic work-up recommended by the Lithiasis Committee of the Association Fran\u00e7aise d'Urologie includes :\n\n* morphological and infrared analysis (Infrared SpectroPhotometry: SPIR) of the stone or fragments to determine the molecular and crystalline composition of the stone,\n* a metabolic assessment on :\n** fresh morning urine sample: crystalluria, pH, specific gravity, BU\n** 24-hour urine analysis: total volume, creatinine, calcium, sodium, urea, urates,\n** blood analysis: creatinine, calcium, fasting blood sugar, uricemia.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the first-line metabolic work-up recommended for the aetiological diagnosis of urinary lithiasis?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Urine culture and microscopy",
+        "description": "A test to check for bacterial infection or the presence of germs",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Infrared SpectroPhotometry (SPIR) of the stone or fragments",
+        "description": "A test to determine the molecular and crystalline composition of the stone",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "24-hour urine analysis and blood analysis",
+        "description": "A test to check for various parameters such as creatinine, calcium, and uricemia",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Imaging studies such as CT or MRI",
+        "description": "A test to visualize the urinary tract and detect stones or other abnormalities",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Infrared SpectroPhotometry (SPIR) of the stone or fragments"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

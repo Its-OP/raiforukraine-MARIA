@@ -1,0 +1,12 @@
+{
+  "folder": "IC-045",
+  "content": "{{knowledge objective\n|Identifiant=OIC-045-07-B\n|Item_parent=Specificities of genetic diseases. (see item 9)\n|Item_parent_short=Specificities of genetic diseases. (see item 9)\n|Rank=B\n|Title=Knowing the procedures for genetic counselling in the case of a history of trisomy 21.\n|Description=Know how to explain the risk of recurrence in the event of a new pregnancy depending on the type of trisomy 21.\n|Rubric=Management\n|Contributors=Elise Launay,Damien Sanlaville,Marie-B\u00e9reng\u00e8re Troadec\n|Order=7}}\n\nThe risk of recurrence depends on the karyotype:\n\n- Free, complete and homogeneous trisomy 21: recurrence risk of approximately 1% unless the mother is over 40 (risk then linked to the mother's age);\n\n- Mosaic trisomy 21: low risk of recurrence ;\n\n- Trisomy 21 by translocation: high risk of recurrence if translocation inherited from a parent\n\no Trisomy 21 by Robertsonian translocation (14;21)\n\n\u00a7 If of maternal origin: risk of recurrence 10-15%.\n\n\u00a7 If of paternal origin: risk of recurrence 2-5 %.\n\no Trisomy 21 by Robertsonian translocation (21;21)\n\n\u00a7 Risk of recurrence: 100% if inherited from a healthy parent (non-viable monosomy 21).\n\n\nIn the case of free trisomy 21, it is not necessary to carry out the parents' karyotype (de novo occurrence, generally due to meiotic non-disjunction).\n\nIn the case of trisomy 21 by translocation, it is necessary to carry out karyotyping of the parents. In the event of a balanced anomaly in one parent, the family branch concerned should be further investigated in order to identify the other carriers.\n\nThe increased risk of recurrence after the birth of a child with Down's syndrome means that parents can request a foetal karyotype if they so wish.\n\nIf the parents do not wish to take the risk of miscarriage, PND can be offered.\n\nMen with Down's syndrome have reduced fertility. A few pregnancies have been initiated by men with Down's syndrome. The children did not have trisomy 21. Fertility in women with trisomy 21 is reduced but pregnancies are possible. The risk of trisomy 21 is around 30% in women with trisomy 21.",
+  "question": {
+    "question": "What is the risk of recurrence of trisomy 21 in the case of a Robertsonian translocation (21;21)?",
+    "option_a": "2-5%",
+    "option_b": "10-15%",
+    "option_c": "100%",
+    "option_d": "50%",
+    "correct_option": "C"
+  }
+}

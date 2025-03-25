@@ -1,0 +1,40 @@
+{
+  "folder": "IC-288",
+  "content": "{{knowledge objective\n|Identifiant=OIC-288-03-B\n|Item_parent=Hemorrhoidal pathology\n|Item_parent_short=Hemorrhoidal pathology\n|Rank=B\n|Title=Knowing the pathophysiology of haemorrhoids\n|Description=None\n|Rubric=Physiopathology\n|Contributors=\n|Order=3}}\nHaemorrhoidal disease refers to all complaints associated with changes in haemorrhoidal tissue. It is referred to as an \"attack\" when complaints are of short duration and include a painful component, or as a chronic disease when signs are regular. Symptoms are usually accompanied by a morphological change in the haemorrhoids, but there is no anatomo-clinical correlation (people can complain of small haemorrhoids, or have large haemorrhoids without feeling them). The pathogenesis of haemorrhoidal disease is only partially understood. There are two theories that lead to a normal, asymptomatic anatomical component becoming symptomatic: the mechanical theory and the vascular theory.\n\n- The mechanical theory is based on a weakening of the support tissue or anchoring material of the internal haemorrhoids: long bowel movements, straining (dyschesia), changes in stool consistency (hard stools) and childbirth are risk factors for the onset of haemorrhoidal signs. Many patients express the fact that the onset of signs of haemorrhoidal disease coincides with childbirth.\n\n- Vascular theory likens haemorrhoidal disease to venous insufficiency. However, haemorrhoids are not veins (they do not have congenital valves) and the red bleeding of a haemorrhoidal crisis is not venous. However, the increase in size of haemorrhoidal tissue at the end of pregnancy and the short-term effectiveness of so-called veinotonic treatments support this hypothesis.\n\nCf item ''[[2C-288-ET-B01]]''''",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the underlying theory that explains the pathogenesis of haemorrhoidal disease?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "The mechanical theory, which suggests that haemorrhoids are caused by a weakening of the support tissue and are exacerbated by factors such as long bowel movements and childbirth",
+        "description": "This option is a plausible explanation, but not entirely accurate"
+      },
+      "option_b": {
+        "title": "The vascular theory, which likens haemorrhoids to venous insufficiency and suggests that they are caused by a malfunction of the venous system",
+        "description": "This option is a reasonable hypothesis, but not supported by evidence"
+      },
+      "option_c": {
+        "title": "The inflammatory theory, which suggests that haemorrhoids are caused by an overgrowth of inflammatory cells and are exacerbated by factors such as spicy foods and constipation",
+        "description": "This option is a common misconception, but not supported by scientific evidence"
+      },
+      "option_d": {
+        "title": "The mechanical theory, which states that haemorrhoids are caused by a weakening of the support tissue and are exacerbated by factors such as long bowel movements and childbirth",
+        "description": "This option is the correct answer"
+      },
+      "correct_option": {
+        "title": "D"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

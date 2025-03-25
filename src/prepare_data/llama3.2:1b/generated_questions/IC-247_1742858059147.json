@@ -1,0 +1,12 @@
+{
+  "folder": "IC-247",
+  "content": "{{knowledge objective\n|Identifiant=OIC-247-10-B\n|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Rank=B\n|Title=Knowing the risk factors for the occurrence of foot wounds in patients with diabetes and the gradation of the diabetic foot.\n|Description=None\n|Topic=Physiopathology\n|Contributors=\n|Order=10}}\n\n\nRisk factors for foot ulcers: OAHI, neuropathy with impaired statics/deformities of the foot, history of ulceration, social insecurity, etc.\n\nGrading: 0: absence of sensory neuropathy and arteriopathy 1: presence of isolated sensory neuropathy 2: association of neuropathy with arteriopathy or foot/toe deformities 3: history of ulceration or amputation",
+  "question": {
+    "question": "What is the primary risk factor for foot ulcers in patients with diabetes?",
+    "option_a": "Social insecurity",
+    "option_b": "History of ulceration",
+    "option_c": "Grading",
+    "option_d": "OAHI",
+    "correct_option": "option_b"
+  }
+}

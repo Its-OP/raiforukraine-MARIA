@@ -1,0 +1,12 @@
+{
+  "folder": "IC-247",
+  "content": "{{knowledge objective\n|Identifiant=OIC-247-01-A\n|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Rank=A\n|Title=Knowing the definition of diabetes in children and adults\n|Description=None\n|Rubric=Definition\n|Contributors=Eva Feigerlova,H\u00e9l\u00e8ne Bihan,Claire Briet,Gaetan Prevost\n|Order=1}}\n\nDiabetes includes conditions characterised by chronic hyperglycaemia.\n\nThe definition of diabetes is based on the risk of long-term retinopathy. This risk was established on the basis of the results of epidemiological studies, which showed a risk of retinopathy for fasting blood glucose levels in excess of 1.26 g/l (7 mmol/l).\n\n<ref>CEEDMM, 2019</ref>",
+  "question": {
+    "question": "What is the definition of diabetes based on?",
+    "option_a": "Chronic hyperglycemia",
+    "option_b": "Risk of long-term retinopathy",
+    "option_c": "Fasting blood glucose levels below 1.26 g/l (7 mmol/l)",
+    "option_d": "Hemoglobin A1c levels above 6.5%",
+    "correct_option": "A"
+  }
+}

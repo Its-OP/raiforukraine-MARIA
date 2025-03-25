@@ -1,0 +1,46 @@
+{
+  "folder": "IC-226",
+  "content": "{{knowledge objective\n|Identifiant=OIC-226-10-A\n|Item_parent=Deep vein thrombosis and pulmonary embolism (see item 330)\n|Item_parent_short=Deep vein thrombosis and pulmonary embolism (see item 330)\n|Rank=A\n|Title=Know the principles of treatment of non-severe DVT/PE in the initial phase (see item 330)\n|Description=None\n|Heading=Management\n|Contributors=Gilles Pernod, Virginie Dufrost, Guillaume Mah\u00e9\n|Order=10}}\nIn cases of high clinical probability (DVT, PE), anticoagulant treatment is started before diagnostic confirmation by imaging.\n\n== Outpatient/hospital management of VTE ==\n\n=== '''DVT''' ===\nExcept in special cases, patients with DVT are treated on an outpatient basis.\n\nHospitalisation is recommended for patients :\n\n*severe renal failure (creatinine clearance < 30 mL/min);\n*or with a pathology at risk of haemorrhage;\n*or in a psychosocial, geographical or medical environment that does not allow optimal management at home;\n*or in cases of proximal DVT with severe obstructive syndrome or ilio-caval localisation;\n*or in cases of phlegmatia c\u0153rulea (ischaemic DVT);\n*or in cases of DVT occurring despite a well-managed anticoagulant treatment;\n*or in cases of DVT associated with a non-low-risk pulmonary embolism.\n\nIn all cases, bed rest is not indicated.\n\n=== '''PE''' ===\nIn the case of non-severe PE, it is essential to assess its \"severity\" in order to determine the place of initial management and the choice of anticoagulant treatment.\n\n==Anticoagulant treatment ==\nTherapeutic or curative doses of anticoagulants are the mainstay of treatment for VTE. ([[Heparins]] and [[Oral anticoagulants (VKAs and OADs)]]).\n\n''''' Choice of anticoagulant treatment and available treatment regimens'''''\n\n*Direct oral anticoagulants (Rivaroxaban, Apixaban)''''\n**Recommended as first-line treatment except for high-risk or high-intermediate PE.\n**prescribed immediately (without heparin phase).  \n**Main contraindications: severe renal insufficiency (creatinine clearance < 30 mL/min according to Cockcroft), pregnancy, breast-feeding, drug interactions (Cyt 3A4 or PgP).\n**May be used in certain cancer patients.\n*''Low molecular weight heparin (LMWH) / fondaparinux - VKA relay.'''\n**Not recommended as a first-line strategy, but offered if contraindication to VKAs.\n**VKA treatment is started on the first day of treatment.\n**Parenteral treatment (LMWH / fondaparinux) is prescribed at a curative dose for at least 5 days (no monitoring) and then discontinued once 2 INR > 2 have been achieved at least 24 hours apart.\n*Unfractionated heparin (UFH)\n**reserved for severe PE and the treatment of MVTE in patients with renal insufficiency and a urine clearance of less than 15 mL/min.\n**initial dose of 80 IU/kg\n**initial dose of UFH is 18 IU/kg/hour\n**daily monitoring of anti-Xa activity (ideally) and at each dose change (target 0.3 - 0.6 U/ml).\n**Platelet count monitored twice weekly for the first 2 weeks of treatment.\n**VKA relay must be carried out according to the same procedures as for LMWH/Fondaparinux.\n**The relay may also be taken with an AOD.\n*LMWH without VKA relay. This regimen is proposed for\n**patients with cancer, particularly digestive cancer or certain urogenital cancers\n**patients with a high risk of haemorrhage\n**pregnant women:\n***Only heparins, in practice LMWH, may be used throughout pregnancy.\n***If VTE occurs during pregnancy, a minimum of 3 months' anticoagulant treatment is required, including the first 6 weeks post-partum (a period of high thrombotic risk).\n***If breast-feeding, LMWH or warfarin may be used.\n***AODs are contraindicated. Fondaparinux is not recommended.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Question",
+        "description": "What is the recommended duration of anticoagulant treatment for VTE in patients with cancer?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Option A",
+        "description": "At least 3 months after treatment of the underlying cancer",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Option B",
+        "description": "For life, as cancer patients are at high risk of recurrence",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Option C",
+        "description": "Until the cancer is in complete remission",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Option D",
+        "description": "Until the patient is no longer at high risk of thrombosis",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "At least 3 months after treatment of the underlying cancer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

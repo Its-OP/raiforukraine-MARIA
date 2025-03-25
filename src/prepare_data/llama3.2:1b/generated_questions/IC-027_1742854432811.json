@@ -1,0 +1,12 @@
+{
+  "folder": "IC-027",
+  "content": "{{knowledge objective\n|Identifiant=OIC-027-44-B\n|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Rank=B\n|Title=Addiction and pregnancy: long-term consequences\n|Description=None\n|Rubric=Diagnosis\n|Contributors=Alexandre Vivanti, Philippe Deruelle\n|Ordre=44}}\nThe long-term consequences of addictive behaviour during pregnancy are linked to :\n\n- the environment: the mother-child and parent-child bond, family lifestyle, maternal psychological disorders, etc;\n\n- in utero\" exposure to alcohol: malformations, psychomotor developmental abnormalities SD-115|mental retardation, learning difficulties, social behaviour disorders;\n\n- possible after-effects of prematurity or foetal suffering \"in utero\".\n\nThis chapter concludes with two key points:\n\n- the importance of an environment of caring professionals ;\n\n- the need for multidisciplinary work.\n\nThese are essential guarantees of support for expectant mothers and their newborn babies.",
+  "question": {
+    "question": "What are the long-term consequences of addictive behaviour during pregnancy?",
+    "option_a": "environmental factors such as a mother's stress and anxiety, social isolation, and lack of support.",
+    "option_b": "exposure to alcohol during pregnancy, which can lead to malformations, psychomotor developmental abnormalities, and mental retardation.",
+    "option_c": "possible after-effects of prematurity or foetal suffering 'in utero'.",
+    "option_d": "the importance of an environment of caring professionals.",
+    "correct_option": "option_a"
+  }
+}

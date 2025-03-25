@@ -1,0 +1,12 @@
+{
+  "folder": "IC-351",
+  "content": "{{knowledge objective\n|Identifiant=OIC-351-09-B\n|Item_parent=Agitation and acute delirium\n|Item_parent_short=Agitation and acute delirium\n|Rank=B\n|Title=Knowing the clinical elements pointing to a psychiatric versus non-psychiatric cause\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=9}}\nThere is no a priori evidence to suggest a psychiatric cause for any patient who may present with such an acute condition for non-psychiatric reasons. The following factors should make you fear a non-psychiatric aetiology. Once you have ruled them out, you can consider a psychiatric aetiology.\n\n* Confusional syndrome\n* Physical signs of dehydration\n* Physical signs of infection\n* Signs of cardiovascular or respiratory failure\n* Urinary incontinence, faecal impaction\n* abnormalities identified on neurological examination and general physical examination",
+  "question": {
+    "question": "What factors should make you fear a non-psychiatric aetiology for a patient presenting with an acute condition?",
+    "option_a": "A history of previous psychiatric episodes",
+    "option_b": "Physical signs of dehydration, infection, cardiovascular or respiratory failure, urinary incontinence, faecal impaction, abnormalities on neurological examination and general physical examination",
+    "option_c": "A family history of psychiatric conditions",
+    "option_d": "The patient's age and sex",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-332",
+  "content": "{{knowledge objective\n|Identifiant=OIC-332-06-B\n|Item_parent=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.\n|Item_parent_short=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.\n|Rank=B\n|Title=Know how to characterise the type of shock.\n|Description=Know how to use additional tests to characterise the aetiology of shock (echocardiography, computer tomography, biology).\n|Rubric=Additional tests\n|Contributors=Julien Poissy\n|Order=6}}\n\nA distinction is made between :\n\n- Examinations to assess severity\n\no Venous arterial lactates\n\no Arterial blood gases: hypoxaemia/acidosis\n\no Liver function tests: liver shock\n\no CBC-coagulation: intensity of polynucleosis and lymphopenia, also of orientation value/CIVD\n\no Blood ionogram and creatinine\n\n- Diagnostic or pre-therapeutic examinations\n\no ECG\n\no Chest X-ray and other imaging according to clinical findings\n\no CBC\n\no Pair of blood cultures and other microbiological samples according to clinical signs, unless there is an obvious alternative diagnosis\n\no ABO-Rhesus group\n\n- Examinations to characterise the haemodynamic profile\n\no Specialist assessment in the intensive care sector, including cardiac echography",
+  "question": {
+    "question": "What type of examination is used to characterise the haemodynamic profile in a patient with shock?",
+    "option_a": "Examinations to assess severity",
+    "option_b": "Diagnostic or pre-therapeutic examinations",
+    "option_c": "Examinations to characterise the aetiology of shock",
+    "option_d": "Examinations to assess the intensity of polynucleosis and lymphopenia",
+    "correct_option": "C"
+  }
+}

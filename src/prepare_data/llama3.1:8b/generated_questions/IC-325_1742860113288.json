@@ -1,0 +1,12 @@
+{
+  "folder": "IC-325",
+  "content": "{{knowledge objective\n|Identifiant=OIC-325-14-A\n|Item_parent=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medicinal errors (see items 4 and 5)\n|Item_parent_short=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medication errors (see items 4 and 5)\n|Rank=A\n|Title=Know how to report an adverse reaction suspected to be due to biomaterials.\n|Description=Know how to report an adverse reaction suspected of being due to biomaterials (what to report, to whom, by whom, how?).\n|Rubric=Definition\n|Contributors=\n|Order=14}}\n\n\n= Report of an adverse reaction suspected to be due to biomaterials =\n\n== What to report\nAny incident or risk of a serious incident resulting or likely to result in the death or serious deterioration in the state of health of a patient, third party or user relating to a medical device.\n<br />\n\n== To whom and how?\nTo the local materials vigilance correspondent if the witness of the incident works in a health establishment or in an association distributing medical devices at home.\n\nDirectly to the ANSM using the portal for reporting adverse health events (<nowiki>https://signalement.social-sante.gouv.fr</nowiki>) or by post (materiovigilance@ansm.sant\u00e9.fr) with the corresponding Cerfa declaration form if the witness of the incident does not work in a health establishment, is a manufacturer, an agent or a private individual.",
+  "question": {
+    "question": "What should be reported in the case of an adverse reaction suspected to be due to biomaterials?",
+    "option_a": "Any incident or risk of a minor incident",
+    "option_b": "Any incident or risk of a serious incident resulting or likely to result in the death or serious deterioration in the state of health of a patient, third party or user",
+    "option_c": "Only incidents involving medical devices used in hospitals",
+    "option_d": "Only incidents involving biomaterials used in medical devices",
+    "correct_option": "B"
+  }
+}

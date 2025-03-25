@@ -1,0 +1,41 @@
+{
+  "folder": "IC-201",
+  "content": "{{knowledge objective\n|Identifiant=OIC-201-05-A\n|Item_parent=Organ transplants: epidemiological and immunological aspects; principles of treatment and monitoring; complications and prognosis; ethical and legal aspects. Organ procurement and legislation\n|Item_parent_short=Organ transplants: epidemiological and immunological aspects; principles of treatment and monitoring; complications and prognosis; ethical and legal aspects. Organ procurement and legislation\n|Rank=A\n|Title=Know the main principles of the bioethics law concerning organ donation.\n|Description=Know the three main ethical principles of organ donation: Consent/gratuity/anonymity\n|Rubric=Definition\n|Contributors=Dany Anglicheau\n|Order=5}}\n\nOrgan donation is governed by 3 major ethical principles enshrined in the French Bioethics Act:\n\n*presumed consent'';''''\n*free donation'';''''\n*anonymity between donor and recipient'''.''''",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What are the three main ethical principles governing organ donation in France?",
+        "description": "Select the correct principle",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Presumed consent and free donation",
+        "description": "Two principles that are often mentioned together"
+      },
+      "option_b": {
+        "title": "Anonymity and presumed consent",
+        "description": "A principle that is often confused with presumed consent"
+      },
+      "option_c": {
+        "title": "Free donation and anonymity",
+        "description": "A principle that is often associated with altruistic donations"
+      },
+      "option_d": {
+        "title": "Consent, gratuity, and anonymity",
+        "description": "The three main principles enshrined in the French Bioethics Act"
+      },
+      "correct_option": {
+        "title": "D",
+        "description": "The correct answer"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

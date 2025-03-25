@@ -1,0 +1,12 @@
+{
+  "folder": "IC-260",
+  "content": "{{knowledge objective\n|Identifiant=OIC-260-07-A\n|Item_parent=Hematuria\n|Item_parent_short=Hematuria\n|Rank=A\n|Title=Photographs of a typical example of macroscopic haematuria\n|Description=None\n|Rubric=Multimedia content\n|Contributors=Charles Dariane,Bruno Moulin\n|Order=7}}\n\n<br /><big>'''Figure 3.''' Urine collecting bag reflecting macroscopic haematuria</big>\n[[File:Figure 3 urine collection bag HUbis.jpg|neant|vignette|<big>'''Figure 3.''' Urine collecting bag reflecting macroscopic haematuria</big>]]",
+  "question": {
+    "question": "What is macroscopic haematuria?",
+    "option_a": "A condition where blood is only visible under a microscope",
+    "option_b": "A condition where blood is visible to the naked eye in the urine",
+    "option_c": "A condition where urine is cloudy or has a strong odor",
+    "option_d": "A condition where the kidneys are not functioning properly",
+    "correct_option": "B"
+  }
+}

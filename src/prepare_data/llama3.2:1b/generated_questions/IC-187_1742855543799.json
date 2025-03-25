@@ -1,0 +1,12 @@
+{
+  "folder": "IC-187",
+  "content": "{{knowledge objective\n|Identifiant=OIC-187-04-A\n|Item_parent=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Item_parent_short=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Rank=A\n|Intitle=Photography of a urticaria\n|Description=Photo of edematous patches of urticaria\n|Rubric=Multimedia content\n|Contributors=\n|Order=4}}\n\n[[File:Figure 7 .png|centre|thumb|''edematous papules of urticaria'']]\nSee also Figure 5.",
+  "question": {
+    "question": "What is the primary characteristic of urticaria?",
+    "option_a": "Hives that appear suddenly and are usually itchy",
+    "option_b": "Itching that occurs in a specific pattern, such as on the arms or legs",
+    "option_c": "A rash that is typically itchy and may be accompanied by other symptoms such as fever or joint pain",
+    "option_d": "A condition that causes inflammation of the skin, but is not typically associated with urticaria",
+    "correct_option": "option_c"
+  }
+}

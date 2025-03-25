@@ -1,0 +1,12 @@
+{
+  "folder": "IC-342",
+  "content": "{{knowledge objective\n|Identifiant=OIC-342-06-A\n|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=A\n|Title=Know the characteristics of an epileptic and non-epileptic event (pseudo-seizure).\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=6}}\ncf item 105",
+  "question": {
+    "question": "What is a key difference between an epileptic seizure and a non-epileptic event (pseudo-seizure)?",
+    "option_a": "Both types of events typically involve a loss of consciousness.",
+    "option_b": "Non-epileptic events (pseudo-seizures) are often associated with a clear cause, such as a head injury, while epileptic seizures are typically idiopathic.",
+    "option_c": "Epileptic seizures are always accompanied by a visible aura, while non-epileptic events (pseudo-seizures) are not.",
+    "option_d": "Epileptic seizures are always preceded by a warning sign, such as a change in behavior, while non-epileptic events (pseudo-seizures) often occur suddenly without warning.",
+    "correct_option": "B"
+  }
+}

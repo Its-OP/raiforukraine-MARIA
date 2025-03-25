@@ -1,0 +1,12 @@
+{
+  "folder": "IC-038",
+  "content": "{{knowledge objective\n|Identifiant=OIC-038-10-B\n|Item_parent=Infertility of the couple: conduct of the first consultation\n|Item_parent_short=Infertility of the couple: conduct of the first consultation\n|Rank=B\n|Title=Knowing the main causes of infertility in men\n|Description=None\n|Rubric=Etiologies\n|Contributors=Charlotte Sonigo,Geoffroy Robin,Patrica Fauque,Fabrice Guerif,Pierre Emmanuel Bouet\n|Order=10}}\n\n{| class=\"wikitable\"\n| colspan=\"2\" |'''Causes of male infertility (30%)'''\n|-\n|'''Secretory causes'''\n\n(abnormality in the production of spermatozoa by the testicles)\n\n\n\n<br />\n|'''Testicular origin''''\n\n- Environmental causes (exposure to toxic substances, heat, etc.)\n\n- Genetic causes (Klinefelter's syndrome, microdeletions within the AZF [Azoospermia Factor] locus located on the long arm of the Y chromosome, etc.).\n\n- Acquired testicular pathologies (torsion, testicular cancer, history of cryptorchidism, varicocele).\n\n\n'''Central origin (Hypogonadotropic hypogonadism)''''\n\n- Functional causes (iatrogenic, etc.)\n\n- Tumours of the hypothalamo-hypophyseal region...\n\n- Hyperprolactinemia\n\n- Kallman de Morsier syndrome and other congenital gonadotropic deficiencies\n\n- Haemochromatosis\n|-\n| '''Excretory causes'''\n\nnormal sperm production, but obstruction downstream of the testis\n|<Sequelae of genitourinary infection</nowiki>.\n\n\n- Surgical sequelae\n\n\n- Bilateral absence of the vas deferens (often secondary to mutations in the CFTR gene (genital involvement in cystic fibrosis))\n\n- Seminal tract tumour (bilateral epididymal cysts, cyst of the prostatic utricle)\n\n\n- [[Sexual disorders and erectile dysfunction SD-063|Sexological disorders, erectile dysfunction]]\n<br />\n|}\nNote: in women, as in men, mixed causes are frequent (e.g. ovulation disorder + tubal obstruction; unilateral agenesis of the right vas deferens + left varicocele).",
+  "question": {
+    "question": "What is the primary cause of male infertility?",
+    "option_a": "Environmental causes, such as exposure to toxic substances and heat",
+    "option_b": "Genetic causes, such as Klinefelter's syndrome and microdeletions within the AZF locus",
+    "option_c": "Acquired testicular pathologies, such as torsion and testicular cancer",
+    "option_d": "Hypogonadotropic hypogonadism, a condition characterized by low sex hormone production",
+    "correct_option": "B"
+  }
+}

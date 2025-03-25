@@ -1,0 +1,46 @@
+{
+  "folder": "IC-020",
+  "content": "{{knowledge objective\n|Identifiant=OIC-020-25-A\n|Item_parent=Health research methodology\n|Item_parent_short=Health research methodology\n|Rank=A\n|Intitle=Calculating the number of subjects required\n|Description=Know how to define\n|Rubric=Definition\n|Contributors=Julie Berbis (CUESP),J\u00e9r\u00f4me Lambert (CIMES),David Hajage (CIMES),Alexandra Rouquette (CIMES)\n|Order=25}}\n\nThe number of subjects required to be included in a study must always be calculated a priori.\n\nFor \"descriptive studies\", this is the minimum number of subjects required to ensure the desired \"precision\" (precision = half-width of the confidence interval, CI) of the estimated parameter (prevalence, incidence rate, etc.). It therefore depends on the alpha confidence level of the CI (generally 5%), the desired precision and the expected value of the estimated parameter.\n\nFor ''analytical and experimental studies'', this is the minimum number of subjects that must be included in the sample (and analysed) to guarantee sufficient ''power'' for the study (cf. [[Factors likely to influence the power of a study 2C-020-DE-A10]]). It depends on statistical parameters (risk of 1<sup>rst</sup> alpha species, risk of 2<sup>th</sup> beta species) and clinical parameters (effect size - see [[Effect size 2C-323-DE-A06]] - and variability of the endpoint).",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Calculating the number of subjects required for a study",
+        "description": "What is the primary purpose of calculating the number of subjects required in a study?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To determine the minimum sample size for a pilot study",
+        "description": "This is the first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "To ensure the desired level of precision of the estimated parameter",
+        "description": "This is the correct answer",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "To guarantee sufficient power for the study",
+        "description": "This is the second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "To determine the minimum sample size for a randomized controlled trial",
+        "description": "This is the third answer option labeled 'C'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-074",
+  "content": "{{knowledge objective\n|Identifiant=OIC-074-13-A\n|Item_parent=Prescription and monitoring of psychotropic drugs (see item 330)\n|Item_parent_short=Prescription and monitoring of psychotropic drugs (see item 330)\n|Rank=A\n|Title=Anxiolytics: knowing the indications, non-indications and contraindications at all stages of life, particularly in elderly patients.\n|Description=None\n|Rubric=Management\n|Contributors=Louise Carton,Florian Naudet,Marie Tournier\n|Order=13}}\n\n== '''Indications''' ==\nThe main indications are as follows:\n\n*Symptomatic treatment of intense and/or incapacitating anxiety;\n*Preventive treatment for alcohol withdrawal: prevention of withdrawal syndrome (delirium tremens);\n*Treatment of convulsive seizures and epilepsy (partial or generalised).\n*Neuropathic pain\n\nWhen prescribing benzodiazepine anxiolytics to elderly patients, particular care must be taken and the usual prescribing rules must be followed:\n\n* maintain a low dosage\n* Regularly reassess the need for treatment,\n* reassess its efficacy and safety.\n\n== '''Contraindications''' ==\nThere are absolute and relative contraindications\n\n=== Absolute contraindications ===\n\n*Known hypersensitivity\n*Severe respiratory insufficiency\n*Hepatic impairment (with the exception of oxazepam)\n*Obstructive sleep apnoea syndrome not treated by continuous positive airway pressure CPAP\n*Myasthenia\n\n=== Relative contraindications ===\n\n*Pregnancy and breast-feeding\n*Renal insufficiency\n*History of addictive disorders\n*A history of paradoxical reactions\n\n<br />",
+  "question": {
+    "question": "What is a relative contraindication for prescribing benzodiazepine anxiolytics to elderly patients?",
+    "option_a": "Severe respiratory insufficiency",
+    "option_b": "History of addictive disorders",
+    "option_c": "Pregnancy and breast-feeding",
+    "option_d": "Neuropathic pain",
+    "correct_option": "B"
+  }
+}

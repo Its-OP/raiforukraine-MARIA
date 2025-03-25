@@ -1,0 +1,46 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-04-A\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic anomalies, visual, hearing and dental disorders. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=A\n|Title=Knowing systematic screening for visual disorders\n|Description=Recommended ophthalmological examinations in children.\n|Rubric=Definition\n|Contributors=Elise Launay\n|Order=4}}\n\nSystematic eye check at birth, 2 months, 4 months, between 9 and 24 months, 2-3 years, 5 years (6th<sup>year</sup>)\n\nVery frequent anomalies: 1 in 5 children under 6 years of age",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the recommended age for systematic eye checks in children?",
+        "description": "Select the correct age range for systematic eye checks in children.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "At birth, 2 months, and 4 months",
+        "description": "Systematic eye checks at these ages are not typically recommended.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Between 9 and 24 months, and 2-3 years",
+        "description": "This option is consistent with the recommended age range for systematic eye checks in children.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "At 5 years (6th year) and 10 years",
+        "description": "This option is not consistent with the recommended age range for systematic eye checks in children.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Every 6 months from birth to 6 years",
+        "description": "This option is not consistent with the recommended age range for systematic eye checks in children.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The correct letter for the correct option.",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

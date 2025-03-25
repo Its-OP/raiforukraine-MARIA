@@ -1,0 +1,46 @@
+{
+  "folder": "IC-024",
+  "content": "{{knowledge objective\n|Identifiant=OIC-024-06-B\n|Item_parent=Main complications of pregnancy.\n|Item_parent_short=Main complications of pregnancy.\n|Rank=B\n|Title=Knowing the principles of management of PPH\n|Description=Great principles of PPH treatment\n|Rubric=Management\n|Contributors=Paul Berveiller,Philippe Deruelle\n|Order=6}}\n\nThe importance of the ''temporality'' of care++.\n\nAwareness that losses tend to be ''undervalued''.\n\n\n'''Main principles of care:''''\n\n- Estimated blood loss (collection bag)\n\n- ''emergency artificial delivery'' if haemorrhage before expulsion of the placenta.\n\n- uterine revision\n\n- uterine massage\n\n- ''under-valve inspection of the lower genital tract''.\n\n- administration of uterotonics (oxytocin) 10 IU by slow IV infusion, repeated once if necessary\n\n- indwelling urinary catheterisation\n\n- suturing of any perineal tears.\n\n- N.B.: if the delivery is by caesarean section, a search for haemoperitoneum is necessary (abdominal ultrasound with examination of the Morrisson and the gutters)''.\n\n'''In case of failure'''\n\n- ''2<sup>th</sup> VVP - filling'' with macromolecules\n\n- Oxygen therapy\n\n- Prostaglandins (sulprostone by electric syringe)\n\n- Tranexamic acid 1 g IV\n\n- consider a ''transfusion of packed red blood cells'' and fresh frozen plasma '''[[Prescribe and perform a blood transfusion SD-272|272. Prescribing and carrying out a blood transfusion]]''''\n\n- Biological work-up: CBC, coagulation, emergency IAR\n\n\n'''Monitoring is constant +++ (haemodynamics, diuresis, uterine tone, bleeding, biological tests (repeated as often as necessary)'''.\n\nIf the haemorrhage persists, the following may be suggested:\n\n- Intrauterine tamponade (Bakri balloon)\n\n- selective arterial embolisation (radiologist immediately available - patient hemodynamically stable - embolisation unit nearby)\n\n- or \"surgical ligation of the uterine arteries or hypogastric arteries\", or \"uterine compression techniques\".\n\nas a last resort: a \"haemostasis hysterectomy\". There should be no hesitation in carrying out this operation quickly in the event of unstable haemodynamics or established DIC, as this is the procedure that will save the patient's life.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Question",
+        "description": "What is the most appropriate immediate treatment for a patient with uterine atony in the event of severe postpartum hemorrhage?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Option A",
+        "description": "Prescribe and perform a blood transfusion",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Option B",
+        "description": "Administer tranexamic acid 1 g IV and consider a blood transfusion",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Option C",
+        "description": "Perform an emergency cesarean section and search for haemoperitoneum",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Option D",
+        "description": "Perform a haemostasis hysterectomy as a last resort",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "Administer tranexamic acid 1 g IV and consider a blood transfusion",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

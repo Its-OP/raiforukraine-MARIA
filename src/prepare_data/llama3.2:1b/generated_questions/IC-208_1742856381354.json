@@ -1,0 +1,12 @@
+{
+  "folder": "IC-208",
+  "content": "{{knowledge objective\n|Identifiant=OIC-208-06-B\n|Item_parent=Chronic respiratory failure\n|Item_parent_short=Chronic respiratory failure\n|Rank=B\n|Title=To know the methods of interpretation of functional explorations allowing to orientate towards an obstructive CKD and towards a restrictive CKD.\n|Description=FRI, interpretation\n|Section=Additional tests\n|Contributors=\n|Order=6}}\nsee above",
+  "question": {
+    "question": "What is the primary goal of a functional exploratory in the context of chronic respiratory failure?",
+    "option_a": "To diagnose obstructive CKD",
+    "option_b": "To diagnose restrictive CKD",
+    "option_c": "To monitor the effectiveness of treatment",
+    "option_d": "To assess the patient's overall health",
+    "correct_option": "option_b"
+  }
+}

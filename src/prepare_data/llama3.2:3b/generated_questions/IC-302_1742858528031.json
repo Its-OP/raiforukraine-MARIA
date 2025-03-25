@@ -1,0 +1,41 @@
+{
+  "folder": "IC-302",
+  "content": "{{knowledge objective\n|Identifiant=OIC-302-10-B\n|Item_parent=Cutaneous, epithelial and melanoma tumours\n|Item_parent_short=Cutaneous, epithelial and melanoma tumours\n|Rank=B\n|Title=Knowing the pathophysiology of nevi\n|Description=Tracing the natural history of the cancerisation process in melanoma\n|Rubric=Physiopathology\n|Contributors=\n|Order=10}}\nCommon nevi are present in the majority of individuals.\n\nTheir natural history is as follows:\n\n* Appearance around 4-5 years of age\n* Gradual increase up to age 30\n* Regression after age 60\n\n\nThe risk of a common nevus turning into a melanoma is very low (probability of less than 1 in 100,000).\n\nThe risk of transformation of a small congenital nevus is comparable to that of common nevi.\n\nIn the case of giant congenital nevi, the risk of transformation depends on size (the larger the nevus, the greater the risk), the presence of satellite lesions and median topography.\n\nRepeated microtrauma does not induce the transformation of nevi into melanoma.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a characteristic of the natural history of common nevi?",
+        "description": "Select the correct statement about the development and transformation of common nevi",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Common nevi typically appear after the age of 10",
+        "description": "This option describes a possible, but incorrect, age range for the appearance of common nevi"
+      },
+      "option_b": {
+        "title": "The risk of transformation of a common nevus into melanoma is comparable to that of small congenital nevi",
+        "description": "This option reflects a plausible, but incorrect, statement about the risk of transformation"
+      },
+      "option_c": {
+        "title": "The risk of transformation of a common nevus into melanoma is very low (probability of less than 1 in 100,000)",
+        "description": "This option accurately describes the risk of transformation of common nevi into melanoma"
+      },
+      "option_d": {
+        "title": "Repeated microtrauma can induce the transformation of nevi into melanoma",
+        "description": "This option describes a common misconception about the relationship between microtrauma and nevi transformation"
+      },
+      "correct_option": {
+        "title": "None of the above",
+        "description": ""
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

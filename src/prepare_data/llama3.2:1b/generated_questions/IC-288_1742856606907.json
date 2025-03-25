@@ -1,0 +1,12 @@
+{
+  "folder": "IC-288",
+  "content": "{{knowledge objective\n|Identifiant=OIC-288-15-A\n|Item_parent=Hemorrhoidal pathology\n|Item_parent_short=Hemorrhoidal pathology\n|Rank=A\n|Title=Knowing the treatment of external haemorrhoidal thrombosis\n|Description=\n|Rubric=Management\n|Contributors=\n|Order=15}}\n\ncf : ''[[Knowing the main principles of medicinal and non-medicinal management 2C-288-PC-A01|2C-288-PC-A01]]''''",
+  "question": {
+    "question": "What is the typical treatment for external hemorrhoidal thrombosis?",
+    "option_a": "A) Conservative management with lifestyle changes and pain relief medication",
+    "option_b": "B) Surgical intervention to remove the thrombosis and repair the hemorrhoids",
+    "option_c": "C) Use of anticoagulant medications to prevent further clotting",
+    "option_d": "D) Dietary changes and probiotics to promote healing",
+    "correct_option": "B"
+  }
+}

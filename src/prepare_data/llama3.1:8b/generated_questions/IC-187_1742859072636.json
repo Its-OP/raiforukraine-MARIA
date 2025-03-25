@@ -1,0 +1,12 @@
+{
+  "folder": "IC-187",
+  "content": "{{knowledge objective\n|Identifiant=OIC-187-10-A\n|Item_parent=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Item_parent_short=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Rank=A\n|Title=Photo of atopic dermatitis\n|Description=Photo of atopic dermatitis in infants in flare-up.\n|Rubric=Multimedia content\n|Contributors=\n|Order=10}}\n\n[[File:DA poussee.jpg|vignette|Dermatitis atopique du nourrisson en pouss\u00e9e]]",
+  "question": {
+    "question": "What is the condition depicted in the photo?",
+    "option_a": "Urticaria",
+    "option_b": "Atopic dermatitis in infants during a flare-up",
+    "option_c": "Contact dermatitis caused by an allergic reaction",
+    "option_d": "Seborrheic dermatitis",
+    "correct_option": "B"
+  }
+}

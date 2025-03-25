@@ -1,0 +1,46 @@
+{
+  "folder": "IC-136",
+  "content": "{{knowledge objective\n|Identifiant=OIC-136-10-B\n|Item_parent=Local, locoregional and general anaesthesia\n|Item_parent_short=Local, locoregional and general anaesthesia\n|Rank=B\n|Title=Knowing the mechanism of pain during labour and delivery\n|Description=None\n|Rubric=Physiopathology\n|Contributors=\n|Order=10}}\nThere are two types of pain during labour: visceral and somatic. During the first phase of labour, uterine contractions lead to the cervix collapsing and dilating, and the visceral pain impulse is carried by non-myelinated C fibres. Pain specific to contractions is handled by A\u03b4 fibres. These two types of fibre relay to the posterior horn of the spinal cord from T10 to L1. At the end of the first phase and during the second phase of labour, pain of somatic origin appears secondary to distension of the pelvic floor, vagina and perineum and is transmitted by the pudendal nerves originating from the sacral roots S2-S4.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What type of nerve fibers transmit visceral pain during the first phase of labour?",
+        "description": "During the first phase of labour, what type of nerve fibers transmit visceral pain?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "A\u03b4 fibres",
+        "description": "A type of nerve fiber that transmits pain specific to contractions",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Pudendal nerves",
+        "description": "Nerves that transmit pain from the pelvic floor, vagina, and perineum",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "C fibres",
+        "description": "Nerve fibers that transmit pain from the cervix and uterus",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Somatic nerve fibers",
+        "description": "Nerve fibers that transmit pain from the pelvic floor, vagina, and perineum",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "C",
+        "description": "The correct letter of the answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

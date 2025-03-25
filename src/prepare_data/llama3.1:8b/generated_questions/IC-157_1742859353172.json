@@ -1,0 +1,12 @@
+{
+  "folder": "IC-157",
+  "content": "{{knowledge objective\n|Identifiant=OIC-157-08-A\n|Item_parent=Bacteremia/Fungemia in adults and children\n|Item_parent_short=Bacteremia/Fungemia in adults and children\n|Rank=A\n|Title=Know how to prescribe emergency samples prior to antibiotic therapy\n|Description=Know how to prescribe blood cultures prior to emergency antibiotic therapy\n|Section=Additional tests\n|Contributors=David Lebeaux\n|Order=8}}\nMicrobiological tests must be taken before the start of antibiotic therapy (including the [[Positive blood culture SD-190|haemocultures]], see below).\n\nThe exceptions to this rule are :\n\n- Purpura fulminans\n\n- Patients presenting with septic shock or bacterial meningitis whose microbiological sampling would delay the start of antibiotic therapy by more than one hour.",
+  "question": {
+    "question": "What is an exception to the rule of taking microbiological tests before starting antibiotic therapy?",
+    "option_a": "Purpura fulminans",
+    "option_b": "Patients with severe burns",
+    "option_c": "Patients presenting with septic shock or bacterial meningitis",
+    "option_d": "Patients with a history of antibiotic resistance",
+    "correct_option": "C"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-112",
+  "content": "{{knowledge objective\n|Identifiant=OIC-112-01-A\n|Item_parent=Bullous dermatosis of the skin and/or external mucous membranes\n|Item_parent_short=Bullous dermatosis affecting the skin and/or external mucous membranes\n|Rank=A\n|Intitle=Know the definition of autoimmune bullous dermatosis\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=1}}\nGENERAL\n\nA bullous dermatosis should be suspected clinically in the presence of skin lesions such as bullae, post-bullous erosion, wet-linen detachment and Nikolsky's sign (detachment of the epidermis on rubbing the peri-lesional normal skin).\n\n'''''The medical approach to bullous dermatosis should ALWAYS distinguish between autoimmune mechanisms and all other causes of bullous dermatosis.  '''''\n\n''''' There are two places in the skin where a bubble can form:''''' a bubble is intra-epidermal when the cleavage occurs in the epidermis (roof and floor of the bubble in the epidermis) and a bubble is sub-epidermal when there is a cleavage under the epidermis (roof of the bubble consisting of the entire epidermis and floor in the dermis).\n\nThe subepidermal bulla is usually taut and the intraepidermal bulla is flaccid and fragile.\n\nAutoimmune bullous dermatosis is a disease defined by the presence of immunoglobulins deposited at the dermo-epidermal junction or on the surface of keratinocytes. It is characterised by cutaneous lesions, most often bullous, on the skin or mucous membranes.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a characteristic of subepidermal bullae in autoimmune bullous dermatosis?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "They are flaccid and fragile",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "They are taut and fragile",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "They are only found on the surface of keratinocytes",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "They are always associated with autoimmune mechanisms",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

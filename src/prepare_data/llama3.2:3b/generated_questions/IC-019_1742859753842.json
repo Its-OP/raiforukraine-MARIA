@@ -1,0 +1,41 @@
+{
+  "folder": "IC-019",
+  "content": "{{knowledge objective\n|Identifiant=OIC-019-08-A\n|Item_parent=Social security. Health insurance. Supplementary insurance. Supplementary health insurance (CSS). Medical consumption. Social protection. Medical consumption and health economics\n|Item_parent_short=Social security. Health insurance. Supplementary insurance. Supplementary health insurance (CSS). Medical consumption. Social protection. Medical consumption and health economics\n|Rank=A\n|Title=Knowing the different social security schemes\n|Description=Knowledge\n|Rubric=Definition\n|Contributors=Anne-Laurence Le Faou\n|Order=8}}\n\nThe Social Security system is made up of a number of different schemes that group together insured persons according to their professional activity:\n\n- '''the general scheme covers 88% of the French population'' and covers most employees, students, recipients of certain benefits and ordinary residents. Since 1<sup>er</sup> January 2018, social protection for the self-employed (RSI) has been entrusted to the general Social Security scheme.\n\n- '''le r\u00e9gime agricole''', within the Mutualit\u00e9 sociale agricole (MSA), covers '''5% of the French population''' and concerns farmers and agricultural employees[1]; made up of a ''one-stop shop'' that manages both health insurance, occupational accidents and diseases, retirement and family benefits. The MSA itself manages the collection of its contributions.\nFile:19 MSA.png\n</gallery>\n\n* The special schemes predate the general scheme and refused to join it in 1945. Although they predate the creation of the Social Security system, they were maintained by the legislator in the decree of 8 June 1946, which is set out in articles L711-1 and R711-1 of the Social Security Code. The latter states: \"The following remain subject to a special social security organisation, if their members already benefit from a special scheme under one or more of the social security legislations:\n* administrations, services, offices, public establishments of the State, industrial establishments of the State and the Imprimerie Nationale, for civil servants, magistrates and workers of the State;\n* regions, d\u00e9partements and communes;\n\n* departmental and communal public establishments that are not of an industrial or commercial nature;\n* activities which entail membership of the French Seamen's Insurance Scheme established by the Decree-Law of 17 June 1938 as amended;\n* mining companies and companies treated as such, as defined by decree no 46-2769 of 27 November 1946, with the exception of activities relating to the exploration or exploitation of liquid or gaseous hydrocarbons;\n* Soci\u00e9t\u00e9 Nationale des Chemins de Fer Fran\u00e7ais;\n* secondary general interest and local interest railways and tramways;\n* the production, transport and distribution of electricity and gas;\n* the Banque de France;\n* the Th\u00e9\u00e2tre national de l'Op\u00e9ra de Paris and the Com\u00e9die-Fran\u00e7aise.\n\nThere are three main types of special schemes:\n\n* the civil service scheme (civil servants and military personnel) ;\n* the scheme for public companies and establishments;\n* other schemes, smaller in terms of the number of beneficiaries, which may be structured either on a professional basis (schemes for notary clerks and employees, mines, churches, etc.) or on a company basis (schemes for staff of the Paris Opera, RATP, SNCF).\n\nThe organisation and operation of special schemes are quite different from one another. However, they are characterised by the fact that the various risks (sickness, family, retirement, accidents at work, etc.) are covered in different ways by the companies or institutions themselves, by specific funds or by the bodies of the General Scheme.\n\nSince 1945, however, we have witnessed a dual phenomenon:\n\n* a significant reduction in their number: while there were more than a hundred of them when Social Security was created in 1945, there will be 27 in 2021, concentrated mainly in the management of pensions (which explains the current problems of reforming the pension system);\n* a rapprochement with the R\u00e9gime G\u00e9n\u00e9ral, both in the way they operate and in the payment of benefits, which are increasingly aligned with it (particularly in terms of retirement and health insurance).\n\nSocial and economic changes have led to major transformations in the economic sectors covered by the special schemes: industrial sectors such as mining and tobacco have declined sharply, with fewer workers and therefore fewer resources for these schemes. The deterioration in the ratio between the number of contributors and the number of beneficiaries poses, in the more or less short term, the problem of the sustainability of these schemes.\n----[1] <nowiki>https://www.securite-sociale.fr/la-secu-cest-quoi/organisation/les-regimes#:~:text=Les%20R%C3%A9gimes%20sp%C3%A9ciaux,7%25%20de%20la%20population%20fran%C3%A7aise</nowiki>.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What percentage of the French population is covered by the r\u00e9gime agricole?",
+        "description": "The r\u00e9gime agricole covers a certain percentage of the French population and concerns farmers and agricultural employees.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "5% of the French population",
+        "description": "This option states that the r\u00e9gime agricole covers 5% of the French population."
+      },
+      "option_b": {
+        "title": "88% of the French population",
+        "description": "This option states that the r\u00e9gime agricole covers 88% of the French population."
+      },
+      "option_c": {
+        "title": "10% of the French population",
+        "description": "This option states that the r\u00e9gime agricole covers 10% of the French population."
+      },
+      "option_d": {
+        "title": "20% of the French population",
+        "description": "This option states that the r\u00e9gime agricole covers 20% of the French population."
+      },
+      "correct_option": {
+        "title": "a",
+        "description": "The correct answer is denoted by a letter."
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

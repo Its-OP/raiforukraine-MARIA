@@ -1,0 +1,22 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-01-A\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=A\n|Title=Knowing normal pubertal development\n|Description=None\n|Rubric=Evaluation\n|Contributors=\n|Order=1}}\n'''Pubertal clinic''''\n{| class=\"wikitable\"\n|\n|First sign\n|Normal limits\n|-\n|Puberty in girls\n|Breast development (Tanner stage S2)\n|8-13 years\n|-\n|Menarche\n|2 years near S2\n\n12.5 years on average\n|\n|-\n|Puberty in boys\n|Testicular development (VT>4 ml or length>25 mm) (Tanner G2 stage)\n|Age 9-14\n|}\n\n\nS: breasts\n\nVT: testicular volume\n\nGynecomastia is common and transient in boys.\n\nThe development of pubic (P2) or axillary (A2) hair appears secondary to the development of the breasts in girls or the testicles in boys. Any development of pubic or axillary hair prior to the development of breasts in girls or testicles in boys should rule out an adrenal pathology (see pubarche premature below).",
+  "question": {
+    "properties": {
+      "question": "What is the typical age range for the development of breasts in girls?",
+      "option_a": "8-10 years",
+      "option_b": "12-14 years",
+      "option_c": "8-13 years",
+      "option_d": "12.5 years",
+      "correct_option": "8-13 years"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

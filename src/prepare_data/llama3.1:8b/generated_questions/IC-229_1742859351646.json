@@ -1,0 +1,12 @@
+{
+  "folder": "IC-229",
+  "content": "{{knowledge objective\n|Identifiant=OIC-229-02-A\n|Item_parent=Venous access monitoring and complications\n|Item_parent_short=Venous access monitoring and complications\n|Rank=A\n|Title=Knowing the complications of different venous accesses\n|Description=Know the complications of peripheral and central venous accesses (infectious, thrombotic, mechanical, haemorrhagic, embolic (including gaseous)).\n|Rubric=Definition\n|Contributors= Philippe Lacroix, Simon Rickenbach\n|Order=2}}\n\n(\"''[[Suspicion of an Adverse Drug Reaction or Care SD-348|suspicion of an Adverse Drug Reaction or Care]]'''\", \"''[[Acute Respiratory Distress SD-160|acute respiratory distress]]'''\")\n<br />\n[[File:Figure 2 Item 229.jpg|vignette|Main complications of central and peripheral venous access routes.]]",
+  "question": {
+    "question": "What are the main complications of central and peripheral venous access routes?",
+    "option_a": "Infectious complications, such as sepsis, are the most common complication of central venous access, while thrombotic complications are more common in peripheral venous access.",
+    "option_b": "Thrombotic complications, such as deep vein thrombosis, are the most common complication of central venous access, while infectious complications are more common in peripheral venous access.",
+    "option_c": "Mechanical complications, such as catheter occlusion, are the most common complication of both central and peripheral venous access.",
+    "option_d": "Hemorrhagic complications, such as bleeding at the insertion site, are the most common complication of both central and peripheral venous access.",
+    "correct_option": "A"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-227",
+  "content": "{{knowledge objective\n|Identifiant=OIC-227-05-A\n|Item_parent=Chronic venous insufficiency. Varicose veins\n|Item_parent_short=Chronic venous insufficiency. Varicose veins\n|Rank=A\n|Title=Knowing the factors favouring CVI\n|Description=Knowing how to identify the factors favouring the onset of varicose veins and CVI\n|Rubric=Etiologies\n|Contributors=Simon Soudet, Marie-Antoine Sevestre Pietri, Sophie Blaise\n|Order=5}}\nChronic venous insufficiency and varicose veins have several factors in common:\n\n* Heredity (major factor),\n* Primary prevention through nutrition in adults and children - sedentary lifestyle,\n* age\n* female gender\n* multiple pregnancies,\n* [[Obesity in children and adults (see item 71)|overweight and obesity]] (''SDS-[[Prevention of overweight and obesity SD-319|prevention of overweight and obesity]]''),\n* exposure to heat\n* prolonged orthostatism,\n* chronic constipation.",
+  "question": {
+    "question": "What are the factors that favour the onset of varicose veins and chronic venous insufficiency?",
+    "option_a": "Heredity, sedentary lifestyle, and age are the only factors that contribute to varicose veins and chronic venous insufficiency.",
+    "option_b": "Heredity, primary prevention through nutrition in adults and children, and age are factors that favour the onset of varicose veins and chronic venous insufficiency.",
+    "option_c": "Female gender, multiple pregnancies, and overweight/obesity are the primary factors that contribute to varicose veins and chronic venous insufficiency.",
+    "option_d": "Prolonged orthostatism, chronic constipation, and exposure to heat are the main factors that lead to varicose veins and chronic venous insufficiency.",
+    "correct_option": "B"
+  }
+}

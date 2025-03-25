@@ -1,0 +1,12 @@
+{
+  "folder": "IC-045",
+  "content": "{{knowledge objective\n|Identifiant=OIC-045-13-A\n|Item_parent=Specificities of genetic diseases. (see item 9)\n|Item_parent_short=Specificities of genetic diseases. (see item 9)\n|Rank=A\n|Title=Know the procedures for generalised newborn screening for cystic fibrosis.\n|Description=Know how cystic fibrosis is screened at birth\n|Rubric=Positive diagnosis\n|Contributors=Claude F\u00e9rec,Elise Launay,Caroline Schluth-Bolard\n|Order=13}}\n[[File:Depistage muco.png|vignette|548x548px|Organisation of newborn screening for cystic fibrosis]]\nScreening for cystic fibrosis is carried out on the third day of life by taking a bloodstain from the newborn's heel ([[Systematic neonatal screening SD-308|systematic neonatal screening]]). This test combines a biochemical assay of immunoreactive trypsin (IRT) (a sensitive but not very specific marker of pancreatic damage) with a search for the most frequent mutations in the CFTR gene. The combination of an elevated IRT and two causal mutations in a newborn indicates a diagnosis. Screening for the disease enables early treatment in specialised centres (CRCM) and informed genetic counselling.",
+  "question": {
+    "question": "What is the primary purpose of the biochemical assay of immunoreactive trypsin (IRT) in the newborn screening for cystic fibrosis?",
+    "option_a": "To detect the most frequent mutations in the CFTR gene",
+    "option_b": "To identify pancreatic damage in newborns",
+    "option_c": "To screen for other genetic disorders",
+    "option_d": "To confirm the diagnosis of cystic fibrosis",
+    "correct_option": "B"
+  }
+}

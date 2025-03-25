@@ -1,0 +1,41 @@
+{
+  "folder": "IC-187",
+  "content": "{{knowledge objective\n|Identifiant=OIC-187-01-A\n|Item_parent=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Item_parent_short=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Rank=A\n|Title=Know the definition of urticaria\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=1}}\n\n\nUrticaria is a frequent inflammatory dermatosis (15-20% of the population in its acute form) secondary to the activation of masctocytes by complex immunological or non-immunological mechanisms. It is diagnosed clinically. The course of the disease is usually acute and sometimes chronic, with flare-ups occurring daily or almost daily for more than 6 weeks at a time.\nAcute urticaria is usually non-allergic, although it may be allergic in rare cases.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the typical course of urticaria?",
+        "description": "The duration of acute urticaria",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Acute and chronic, with flare-ups occurring daily for more than 6 weeks",
+        "description": "A possible description of the course of urticaria"
+      },
+      "option_b": {
+        "title": "Chronic and rare, with flare-ups occurring only once a year",
+        "description": "A plausible but incorrect description of the course of urticaria"
+      },
+      "option_c": {
+        "title": "Acute and non-allergic, with flare-ups occurring only at night",
+        "description": "A plausible but incorrect description of the course of urticaria"
+      },
+      "option_d": {
+        "title": "Chronic and allergic, with flare-ups occurring only during stress",
+        "description": "A plausible but incorrect description of the course of urticaria"
+      },
+      "correct_option": {
+        "title": "Acute and sometimes chronic, with flare-ups occurring daily or almost daily for more than 6 weeks",
+        "description": "The correct description of the course of urticaria"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

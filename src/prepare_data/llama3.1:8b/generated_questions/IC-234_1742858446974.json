@@ -1,0 +1,12 @@
+{
+  "folder": "IC-234",
+  "content": "{{knowledge objective\n|Identifiant=OIC-234-12-B\n|Item_parent=Adult heart failure\n|Item_parent_short=Adult heart failure\n|Rank=B\n|Title=Know the value and limitations of BNP or NT proBNP for diagnosis and follow-up\n|Description=Knowing the value and limitations of BNP or NT proBNP for diagnosis and follow-up\n|Rubric=Additional tests\n|Contributors=Olivier Huttin\n|Order=12}}\n- BNP (brain natriuretic peptide) and its precursor NT pro BNP are peptides secreted by atrial and ventricular cardiomyocytes when tissue is strained. Their value therefore reflects the average pressure regime in the heart chambers.\n\n- normal values of BNP (<100 pg/ml) or NT-proBNP (<300 pg/ml) very unlikely diagnosis in the presence of acute dyspnoea Figure 2\n\n- BNP > 300 pg/ml or NT-proBNP with age-dependent threshold values:\n\no > 450 pg/ml in subjects under 50,\n\no > 900 pg/ml between the ages of 50 and 75,\n\no > 1800 pg/ml > 75 years of age).\n[[File:Interpretation of natriuretic peptides in the context of acute dyspnoea.png|vignette|369x369px|Interpretation of natriuretic peptides in the context of acute dyspnoea]]\n\n\n\n\n\n\n\n\n\n\nWhat you need to know to interpret the rates\n\n- Increases with age in women\n\n- Decreases with obesity\n\n- Increased in cases of renal insufficiency or atrial fibrillation\n\n- Treatment with ARNI (Angiotensin Receptor-Neprilysin Inhibitor), represented by the combination of Sacubitril and Valsartan (Entresto\u00ae), leads to an increase in BNP concentrations which cannot be interpreted. However, NT-proBNP is not a neprilysin substrate, so its concentration remains independent of drug intake.",
+  "question": {
+    "question": "What happens to NT-proBNP concentrations when a patient is treated with ARNI (Angiotensin Receptor-Neprilysin Inhibitor)?",
+    "option_a": "They decrease",
+    "option_b": "They increase",
+    "option_c": "They remain unchanged because NT-proBNP is also a neprilysin substrate",
+    "option_d": "They are not affected, but BNP concentrations may increase",
+    "correct_option": "D"
+  }
+}

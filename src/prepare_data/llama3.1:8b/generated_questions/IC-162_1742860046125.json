@@ -1,0 +1,12 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-08-A\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=A\n|Title=Knowing the clinical signs of male urethritis\n|Description=prostatitis, orchiepididymitis\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=8}}\nUrethritis :\n\n- Urethral discharge ;\n\n- Dysuria ;\n\n- Urethral pain: permanent or micturitional burning;\n\n- Urethral pruritus ;\n\n- Meatite, even balanite\n\n- Acute or sub-acute",
+  "question": {
+    "question": "What is a common symptom of male urethritis?",
+    "option_a": "Inguinal pain",
+    "option_b": "Urethral discharge",
+    "option_c": "Testicular swelling",
+    "option_d": "Urethral constriction",
+    "correct_option": "B"
+  }
+}

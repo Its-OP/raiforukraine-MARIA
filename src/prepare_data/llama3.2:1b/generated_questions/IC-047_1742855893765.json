@@ -1,0 +1,13 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-11-B\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=B\n|Title=Knowing the main risk situations for hearing problems in children depending on their age.\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=11}}\nReference = guide pratique SFP/DGS <ref>[https://solidarites-sante.gouv.fr/IMG/pdf/Depistage_des_troubles_de_l_audition_chez_l_enfant.pdf Guide pratique de d\u00e9pistage des troubles de l'audition chez l'enfant]</ref>\n\nFamily risk factors\n\n* deafness: hearing aid before the age of 50\n\nPersonal risk factors\n\n* In utero: exposure in utero to toxic substances and certain infectious agents (e.g. embryofoetopathies linked to rubella, CMV and syphilis).\n* Neonatal: prematurity, perinatal anoxia, low birth weight, neuromotor disorders, cerebral palsy, chromosomal abnormalities (trisomy 21, 22q11), cranial or facial malformations (craniostenosis), severe jaundice with blood transfusion, severe infection and/or ototoxic treatment.\n\n* Post-neonatal period: rock trauma, bacterial meningitis (pneumococcus ++), chronic otitis",
+  "question": {
+    "question": "What is a common risk factor for hearing problems in children?",
+    "correct_option": "A",
+    "description": "A common risk factor for hearing problems in children is exposure to toxic substances and certain infectious agents (e.g. embryofoetopathies linked to rubella, CMV and syphilis) before birth",
+    "option_a": "A",
+    "option_b": "B",
+    "option_c": "D",
+    "option_d": "C"
+  }
+}

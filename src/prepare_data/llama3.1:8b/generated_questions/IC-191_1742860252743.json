@@ -1,0 +1,12 @@
+{
+  "folder": "IC-191",
+  "content": "{{knowledge objective\n|Identifiant=OIC-191-10-B\n|Item_parent=Fever in an immunocompromised patient\n|Item_parent_short=Fever in an immunocompromised patient\n|Rank=B\n|Title=Know the main principles of preventing the risk of infection in asplenic patients and the emergency treatment of febrile asplenic patients.\n|Description=antibioprophylaxis, vaccines, therapeutic education\n|Rubric=Management\n|Contributors=Am\u00e9lie Servettaz\n|Order=10}}\n\n'''Origin''': asplenia may be post-splenectomy or functional asplenia (e.g. sickle cell anaemia patient).\n\n'''Fi\u00e8vre chez aspl\u00e9nique'''\n\n* Fever in an asplenic patient is a therapeutic emergency due to the risk of OPSI (Overwhelming Post-Splenectomy Infection): a fulminant infection, most often pneumococcal.\n* In the event of unexplained fever in an asplenic patient, antibiotic therapy active against encapsulated bacteria must be started as a matter of urgency following appropriate microbiological sampling: 3rd generation parenteral cephalosporins (cefotaxime, ceftriaxone), etc.\n\n'''Prevention of infectious risks:'''\n\n* Vaccinations: if splenectomy: at least 2 weeks before splenectomy or at least 2 weeks after if emergency splenectomy.\n** Anti-pneumococcal: 13-valent conjugate vaccine then 23-valent polysaccharide vaccine at least two months after the conjugate vaccine and 5 years afterwards.\n** Anti-meningococcal: tetravalent ACYW135 and B.\n** Anti-Haemophilus B: 1 single injection\n** Don't forget the ''usual vaccination schedule'' (Rq: ''no vaccination contraindication for asplenics)''.\n* Antibiotic prophylaxis with penicillin V (oracillin) for 2 years after splenectomy in adults.\n* Patient education: consultation in the event of fever, vaccination, splenectomy card, etc.",
+  "question": {
+    "question": "What is the recommended treatment for unexplained fever in an asplenic patient?",
+    "option_a": "Start antibiotic therapy active against non-encapsulated bacteria",
+    "option_b": "Start antibiotic therapy active against encapsulated bacteria",
+    "option_c": "Wait for further diagnostic tests before starting antibiotic therapy",
+    "option_d": "Administer a single dose of penicillin and observe for 24 hours",
+    "correct_option": "B"
+  }
+}

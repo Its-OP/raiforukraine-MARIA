@@ -1,0 +1,12 @@
+{
+  "folder": "IC-100",
+  "content": "{{knowledge objective\n|Identifiant=OIC-100-09-A\n|Item_parent=Unusual acute and chronic headache in adults and children\n|Item_parent_short=Unusual acute and chronic headache in adults and children\n|Rank=A\n|Title=Knowing the principles of treatment and management of primary headaches outside the emergency context.\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=9}}\n- Primary headaches are managed in consultation ('''<u>item 99</u>''').\n\n- Seizure treatments are prescribed to relieve each seizure, and must be as specific as possible for each type of primary headache.\n\n- They are sometimes supplemented by background treatment to reduce the number of attacks.\n\n<br />",
+  "question": {
+    "question": "What is the primary treatment for primary headaches?",
+    "option_a": "A. Medication",
+    "option_b": "B. Rest",
+    "option_c": "C. Medication and background treatment",
+    "option_d": "D. No specific treatment",
+    "correct_option": "C"
+  }
+}

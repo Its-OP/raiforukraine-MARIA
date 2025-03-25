@@ -1,0 +1,12 @@
+{
+  "folder": "IC-161",
+  "content": "{{knowledge objective\n|Identifiant=OIC-161-07-A\n|Item_parent=Urinary infections in children and adults\n|Item_parent_short=Urinary infections in children and adults\n|Rank=A\n|Title=Know the definition of urinary colonisation\n|Description=Know the mechanisms of urinary colonisation, including catheter colonisation\n|Rubric=Definition\n|Contributors=Maxime Vall\u00e9e,Alice Faure\n|Order=7}}\n\n*Urinary colonisation, also known as asymptomatic bacteriuria, is the presence of bacteria in the urine in the absence of any symptoms.\n*It is very common (elderly patients, diabetics, etc.) and is sometimes systematic in certain situations, such as in patients with indwelling endo-urinary equipment.\n*It should not be treated except in special cases (patients having urological surgery in contact with urine and pregnant women 28).\n*Colonisation depends on many factors and is not in itself pathological. The urinary microbiota may change depending on the clinical situation, without this being a warning sign. The ECBU is an examination that does not reveal all the bacteria present in urine, which explains why urine has been called \"sterile\" for decades. However, modern DNA detection techniques have made it possible to identify a urinary microbiota that overturns this dogma.",
+  "question": {
+    "question": "What is urinary colonisation, also known as asymptomatic bacteriuria?",
+    "option_a": "A condition where bacteria in the urine are accompanied by symptoms such as pain or burning during urination",
+    "option_b": "The presence of bacteria in the urine in the absence of any symptoms",
+    "option_c": "A type of urinary infection that requires immediate medical attention",
+    "option_d": "A condition that only affects people with a weakened immune system",
+    "correct_option": "B"
+  }
+}

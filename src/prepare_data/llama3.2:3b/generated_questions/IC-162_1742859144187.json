@@ -1,0 +1,36 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-37-B\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=B\n|Title=Photograph of a condyloma\n|Description=Photography of a condyloma\n|Rubric=Multimedia content\n|Contributors=\n|Order=37}}\n<gallery>\nFile:Condyloma LISA.jpg|Condylomata acuminata on the labia majora\n</gallery>",
+  "question": {
+    "question": {
+      "title": "What is the term for the warts caused by the human papillomavirus (HPV)?",
+      "description": "A question about the medical condition",
+      "type": "string"
+    },
+    "option_a": {
+      "title": "Condyloma",
+      "description": "A type of genital wart caused by HPV",
+      "type": "string"
+    },
+    "option_b": {
+      "title": "Genital warts",
+      "description": "A general term for warts that occur on the genitals",
+      "type": "string"
+    },
+    "option_c": {
+      "title": "HPV lesions",
+      "description": "A term that is sometimes used to describe the lesions caused by HPV",
+      "type": "string"
+    },
+    "option_d": {
+      "title": "Condyloma acuminata",
+      "description": "A specific type of genital wart caused by HPV, but not the general term for all HPV-related warts",
+      "type": "string"
+    },
+    "correct_option": {
+      "title": "A",
+      "description": "The first letter of the correct option",
+      "type": "string"
+    }
+  }
+}

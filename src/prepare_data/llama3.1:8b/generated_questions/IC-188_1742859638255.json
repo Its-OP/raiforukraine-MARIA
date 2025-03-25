@@ -1,0 +1,12 @@
+{
+  "folder": "IC-188",
+  "content": "{{knowledge objective\n|Identifiant=OIC-188-02-B\n|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Rank=B\n|Title=To understand the frequency and risk factors of asthma and allergic rhinitis in the adult and paediatric population.\n|Description=Elements of primary and secondary prevention\n|Rubric=Epidemiology\n|Contributors=\n|Order=2}}\n'''Prevalence:'''\n\n* Asthma: 6% of the general population\n* Allergic rhinitis: 24% of the general population (80% of asthmatics)\n\n'''Risk factors'''\n\n* Genetic component: Polygenic disease (no single gene is responsible for the disease). Risk of a child developing asthma :\n** 10% if there is no history of asthma in the parents\n** 25% if one of the parents has asthma\n** more than 50% if both parents have asthma\n* Environmental factors favouring the development of the disease:\n** viral infections\nviral infections; ** sensitisation to pneumallergens;\n** exposure to tobacco from conception\n** indoor air pollution.",
+  "question": {
+    "question": "What is the approximate risk of a child developing asthma if both parents have asthma?",
+    "option_a": "10%",
+    "option_b": "25%",
+    "option_c": "50%",
+    "option_d": "More than 50%",
+    "correct_option": "D"
+  }
+}

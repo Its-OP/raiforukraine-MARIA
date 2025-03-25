@@ -1,0 +1,12 @@
+{
+  "folder": "IC-364",
+  "content": "{{knowledge objective\n|Identifiant=OIC-364-03-B\n|Item_parent=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Item_parent_short=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Rank=B\n|Title=Knowing the role of the periosteum\n|Description=Bone remodelling\n|Topic=Physiopathology\n|Contributors=Bruno Dohin,\n|Order=3}}\n\nThe periosteum is one of the essential elements contributing to bone growth. In children, this structure also plays a mechanical role, enveloping the bone. During fractures, its early activity leads to the rapid formation of a \"periosteal\" callus, which ensures early fracture stability and completes the consolidation of the fracture haematoma by the callus. Over time, after initial consolidation, it helps to remodel the callus and correct certain vicious calluses or secondary displacements.",
+  "question": {
+    "question": "What is the role of the periosteum in bone growth and fracture healing?",
+    "option_a": "The periosteum is a thin layer of connective tissue that lines the surface of bones and helps to form the callus after a fracture.",
+    "option_b": "The periosteum is a layer of cartilage that covers the surface of bones and is involved in the formation of the epiphyseal plate.",
+    "option_c": "The periosteum is a layer of connective tissue that helps to repair damaged bones by forming a callus and promoting bone remodeling.",
+    "option_d": "The periosteum is a layer of bone that covers the surface of bones and is involved in the formation of the epiphyseal plate.",
+    "correct_option": "option_c"
+  }
+}

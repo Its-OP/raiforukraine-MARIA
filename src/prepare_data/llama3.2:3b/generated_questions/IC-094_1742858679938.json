@@ -1,0 +1,41 @@
+{
+  "folder": "IC-094",
+  "content": "{{knowledge objective\n|Identifiant=OIC-094-14-A\n|Item_parent=Rachialgia\n|Item_parent_short=Rachialgia\n|Rank=A\n|Title=Differential diagnosis: knowing the extrarachidian causes of low back pain\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Bisseriex H\u00e9l\u00e8ne,Nguyen Christelle\n|Order=14}}\n\n'''Extra-spinal causes of low back pain = referred low back pain'''\n\n(of abdominal-pelvic origin)\n\n- vascular pathology: abdominal aortic aneurysm\n\n- urinary tract pathology: lithiasis, hydronephrosis, tumour\n\n- digestive pathology: gastric, rectocolic or pancreatic tumour; chronic pancreatitis\n\n- gynaecological pathology: pelvic tumour, endometriosis\n\n- other pathologies: retroperitoneal adenopathy or fibrosis",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is an extrarachidian cause of low back pain?",
+        "description": "Choose the correct option",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "A vascular pathology: abdominal aortic aneurysm",
+        "description": "A condition affecting the blood vessels in the abdominal region"
+      },
+      "option_b": {
+        "title": "A urinary tract pathology: lithiasis",
+        "description": "A condition affecting the urinary system"
+      },
+      "option_c": {
+        "title": "A digestive pathology: gastric tumour",
+        "description": "A condition affecting the digestive system"
+      },
+      "option_d": {
+        "title": "A gynaecological pathology: pelvic tumour",
+        "description": "A condition affecting the female reproductive system"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct letter of the option"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

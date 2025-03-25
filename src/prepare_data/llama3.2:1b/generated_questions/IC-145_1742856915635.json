@@ -1,0 +1,15 @@
+{
+  "folder": "IC-145",
+  "content": "{{knowledge objective\n|Identifiant=OIC-145-01-A\n|Item_parent=Surveillance of communicable infectious diseases\n|Item_parent_short=Surveillance of communicable infectious diseases\n|Rank=A\n|Intitle=Know the definition of a communicable infectious disease; the definition of epidemic/pandemic; indicators\n|Description=None\n|Rubric=Definition\n|Contributors=Didier HOCQUET,Elodie COUVE,Anne-Marie ROGUES,Alexandre DUVIGNAUD\n|Order=1}}\n\nTransmissible infectious diseases are defined by :\n\n- The fact that they are caused by an infectious agent (bacteria, virus, parasite, fungus, prion);\n\n- And their ability to be transmitted between individuals in the case of contagious diseases, or to several individuals from a common source.\n\nNote: not all communicable diseases are contagious, i.e. they are not all transmitted from person to person (e.g. tetanus, botulism, legionellosis).\n\n''''' Epidemic: a rapid increase in the incidence of a communicable disease in a given geographical area over a given period.\n\n'''''\"Pandemic\": a worldwide epidemic.\n\n'''''In the field of health, an indicator''''' is a variable that is measured and used to describe and monitor the state of health of a population. It is a tool for evaluation and decision-making (e.g. mortality, morbidity, incidence, prevalence).",
+  "question": {
+    "properties": {
+      "question": "What is the definition of a communicable infectious disease?",
+      "option_a": "A disease caused by an infectious agent",
+      "option_b": "A disease caused by a fungus",
+      "option_c": "A disease caused by a prion",
+      "option_d": "A disease caused by a parasite",
+      "option_e": "A disease with a rapid increase in incidence in a given geographical area",
+      "correct_option": "A disease caused by an infectious agent"
+    }
+  }
+}

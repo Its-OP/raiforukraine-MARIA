@@ -1,0 +1,12 @@
+{
+  "folder": "IC-188",
+  "content": "{{knowledge objective\n|Identifiant=OIC-188-04-A\n|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Rank=A\n|Title=Know how to make a positive diagnosis and differential diagnosis of allergic rhinitis in children and adults.\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=4}}\n'''Clinical diagnosis:'''\n\no Symptoms grouped together under the acronym PAREO (pruritus, anosmia, rhinorrhoea, sneezing, nasal obstruction) which may be accompanied by ocular symptoms (conjunctivitis).\n\no Examination of the nasal cavities with the nasal speculum (or otoscope) reveals inflammatory mucosa and looks for any polyps.\n\no Search for arguments in favour of the allergic nature of the rhinitis (strong association between exposure to an allergen and the onset of symptoms assessed by the units of place, time and action ''AND'' the objectification of sensitisation to the allergen: positive skin test / presence of specific IgE; cf item 186).\n\n'''Differential diagnosis: chronic non-allergic rhinitis'''\n\no Non-allergic inflammatory rhinitis\n\no Vasomotor rhinitis",
+  "question": {
+    "question": "What is the most common cause of chronic non-allergic rhinitis?",
+    "option_a": "Vasomotor rhinitis",
+    "option_b": "Asthma",
+    "option_c": "Rhinitis medicamentosa",
+    "option_d": "Hormonal changes",
+    "correct_option": "option_b"
+  }
+}

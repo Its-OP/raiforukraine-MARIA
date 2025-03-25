@@ -1,0 +1,12 @@
+{
+  "folder": "IC-086",
+  "content": "{{knowledge objective\n|Identifiant=OIC-086-08-A\n|Item_parent=Eyelid pathology\n|Item_parent_short=Eyelid pathology\n|Rank=A\n|Title=Photography of a stye\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=8}}\n\n[[File:Stye.jpg|vignette|532x532px|Lower eyelid stye]]",
+  "question": {
+    "question": "What is a stye?",
+    "option_a": "A stye is a type of eyelid cancer",
+    "option_b": "A stye is a bacterial infection of the eyelid margin, often caused by Staphylococcus aureus",
+    "option_c": "A stye is a condition where the eyelid becomes inflamed due to a foreign object",
+    "option_d": "A stye is a type of eyelid tumor",
+    "correct_option": "B"
+  }
+}

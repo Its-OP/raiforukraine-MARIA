@@ -1,0 +1,12 @@
+{
+  "folder": "IC-235",
+  "content": "{{knowledge objective\n|Identifiant=OIC-235-09-A\n|Item_parent=Acute pericarditis\n|Item_parent_short=Acute pericarditis\n|Rank=A\n|Title=Know the aetiology of the usual clinical form\n|Description=Acute viral pericarditis\n|Rubric=Etiologies\n|Contributors=Jennifer Cautela\n|Order=9}}\n'''Acute pericarditis:''''\n\n* Viral etiology\n* Benign in 90% of cases\n* Generally corresponds to a non-purulent lymphocytic effusion.\n* Typical clinical picture :\n** '''recent flu-like episode'''\n** Young adult male with no significant cardiological history.\n** Frequent recurrence or relapse (30 to 50%)\n** Rare tamponade\n* Viral and autoimmune etiology is not necessary in simple forms:\n** Virology is usually negative: serologies should be repeated at 15-day intervals if there is any doubt (in practice not carried out).\n** Viruses involved: enterovirus (coxsackies A and B), echovirus, adenovirus, cytomegalovirus, parvovirus B19, Epstein-Barr, herpes, HIV, hepatitis C, influenza, coronavirus (COVID-19), etc.\n** PCR on effusion fluid or pericardial biopsy provides a definitive diagnosis: rarely carried out, given the invasive nature of the examination (pericardial puncture) and the lack of therapeutic implications in a benign form.\n\n<br />",
+  "question": {
+    "question": "What is the typical clinical picture of acute pericarditis?",
+    "option_a": "Recent flu-like episode",
+    "option_b": "Young adult male with no significant cardiological history",
+    "option_c": "Frequent recurrence or relapse (30 to 50%)",
+    "option_d": "Rare tamponade",
+    "correct_option": "option_b"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-124",
+  "content": "{{knowledge objective\n|Identifiant=OIC-124-15-A\n|Item_parent=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)\n|Item_parent_short=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)\n|Rank=A\n|Title=Know the definition of andropause or age-related androgen deficiency.\n|Description=None\n|Rubric=Definition\n|Contributors=Benjamin Pradere\n|Order=15}}\n\n<br />\n\n*The term ''age-related testosterone deficiency syndrome'' should be preferred to the term ''andropause''.\n\n*Its definition is based on the ''association'' of a ''biochemical syndrome'' (hypotestosteronemia) with a ''decrease in serum androgens'' associated with ''advancing age'' impacting on ''quality of life'' and the function of certain organs (Figure 1).\n\n<br />\n\n[File:Figure1definition.png|neant|vignette|alt=|Figure1]]\n<br />The biochemical deficit is defined by a test of testosterone '''total and bioavailable''' in the morning (8-11H)",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the definition of age-related androgen deficiency?",
+        "description": "The term associated with a biochemical syndrome and a decrease in serum androgens linked to advancing age.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "A decrease in serum androgens associated with advancing age impacting on quality of life and the function of certain organs.",
+        "description": "The biochemical deficit is defined by a test of testosterone total and bioavailable in the morning (8-11H)",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "The term andropause should be preferred to age-related testosterone deficiency syndrome.",
+        "description": "Its definition is based on the association of a biochemical syndrome (hypotestosteronemia) with a decrease in serum androgens associated with advancing age impacting on quality of life and the function of certain organs (Figure 1).",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "The biochemical deficit is defined by a test of testosterone total and bioavailable in the morning (8-11H).",
+        "description": "The term age-related testosterone deficiency syndrome should be preferred to the term andropause.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "A decrease in serum androgens associated with advancing age impacting on quality of life and the function of certain organs.",
+        "description": "The biochemical deficit is defined by a test of testosterone total and bioavailable in the morning (8-11H)",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

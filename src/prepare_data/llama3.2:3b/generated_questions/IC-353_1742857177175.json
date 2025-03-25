@@ -1,0 +1,46 @@
+{
+  "folder": "IC-353",
+  "content": "{{knowledge objective\n|Identifiant=OIC-353-03-A\n|Item_parent=Suicidal risk and behaviour in children, adolescents and adults: identification and management\n|Item_parent_short=Suicidal risk and behaviour in children, adolescents and adults: identification and management\n|Rank=A\n|Title=Knowing how to diagnose a suicidal crisis\n|Description=Semiology\n|Rubric=Positive diagnosis\n|Contributors=Pierre Vandel\n|Order=3}}\n\nPatients should always be questioned about the existence of suicidal thoughts and explored.\n\nSuicidal crisis = psychological crisis linked to prior vulnerability and with the onset of suicidal ideation. The outcome may be suicide, with the risk of death.\n\nMeets the definition of a crisis: beginning and end, reversible and temporary.\n\nOccurs when coping strategies are overwhelmed. Absence of choice, the only solution perceived by the individual to put an end to the suffering.\n\n'''Manifestations of suicidal crisis:'''\n\n* ''non-specific symptoms'' from the [[Sad mood/moral pain SD-123|depressive]] or [[Generalised anxiety disorder; Panic disorder; Agoraphobia; Social anxiety disorder; Specific phobias; Separation anxiety; Anxious school refusal 2C-066-DE-A02|anxious]] register; consumption of psychoactive substances (alcohol, illicit substances, tobacco); reckless risk-taking; withdrawal from affection and physical contact; isolation.\n* ''more specific worrying ideas and behaviour'': feelings of despair; intense psychological suffering; reduced sense of values; cynicism; taste for the morbid; sudden search for lethal means.\n\n\n''Vigilance'': ''presuicidal Ringel syndrome''. Corresponds to an apparent calm with a withdrawn attitude, reduced emotional and affective reactivity. Risk of imminent acting out.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a characteristic of a suicidal crisis?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "A temporary and reversible condition",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "A psychological crisis linked to prior vulnerability and with the onset of suicidal ideation",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "A crisis that only occurs in adults",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "A crisis that is irreversible and permanent",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "folder": "IC-108",
+  "content": "{{knowledge objective\n|Identifiant=OIC-108-14-B\n|Item_parent=Confusion, dementia. (see item 132)\n|Item_parent_short=Confusion, dementia. (see item 132)\n|Rank=B\n|Title=Knowing the imaging semiology of chronic subdural haematoma (SDH)\n|Description=extraparenchymal collection with fluid content, sometimes associated with recent bleeding, usually crescent-shaped, limited by the dural sinuses, and quite often bilateral.\n|Rubric=Additional examinations\n|Contributors=\n|Order=14}}\nSubdural haematoma '''([[Discovery of a brain abnormality on medical imaging examination SD-226|discovery of a brain abnormality on medical imaging examination]])''':\n\n- extraparenchymal fluid collection in the meningeal spaces (between the dura and arachnoid)\n\n- crescent-moon appearance, often bilateral\n\n- hypodense on cerebral X-ray if the haematoma is chronic\n\n- mixture of hypodense and hyperdense areas (fresh blood) in cases of recent bleeding\n\n'''Insert figure 18.5 from the manual'''",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Characteristics of a chronic subdural haematoma on medical imaging",
+        "description": "What is a common feature of a chronic subdural haematoma on imaging?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Bilateral and crescent-shaped",
+        "description": "An extraparenchymal fluid collection in the meningeal spaces, limited by the dural sinuses",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Unilateral and crescent-shaped",
+        "description": "A fluid collection in the subarachnoid space, often associated with recent bleeding",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Bilateral and hypodense on cerebral X-ray",
+        "description": "A mixture of hypodense and hyperdense areas, often with a crescent-moon appearance",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Unilateral and hypodense on cerebral X-ray",
+        "description": "A fluid collection in the subarachnoid space, often associated with recent bleeding and a crescent-moon appearance",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": ""
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

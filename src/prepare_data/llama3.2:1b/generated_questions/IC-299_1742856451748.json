@@ -1,0 +1,12 @@
+{
+  "folder": "IC-299",
+  "content": "{{knowledge objective\n|Identifiant=OIC-299-02-A\n|Item_parent=Intracranial tumours\n|Item_parent_short=Intra-cranial tumours\n|Rank=A\n|Title=Know the definition of primary intracranial tumours: central nervous system and adnexa\n|Description=Know the distinction between tumours originating in the CNS and tumours originating in its adnexa\n|Rubric=Definition\n|Contributors=Dr Thi\u00e9baud PICART (Hospices Civils de Lyon),Dr Pierre ANTH\u00c9RIEU (Toulouse University Hospital),Pr Fran\u00e7ois VASSAL (Saint-Etienne University Hospital)\n|Order=2}}\n\n- Primary brain tumour =''' intra-axial, developed within the brain itself (i.e. brain, trunk, cerebellum), e.g. glioblastoma\n\n- Primary adnexal tumour = extra-axial, developed from the meninges and cranial nerves, e.g. meningioma and schwannoma/neuroma of the vestibular nerve.",
+  "question": {
+    "question": "What are the definitions of primary intracranial tumours: central nervous system and adnexa?",
+    "option_a": "Primary brain tumour =''' intra-axial, developed within the brain itself (i.e. brain, trunk, cerebellum), e.g. glioblastoma",
+    "option_b": "Primary adnexal tumour = extra-axial, developed from the meninges and cranial nerves, e.g. meningioma and schwannoma/neuroma of the vestibular nerve",
+    "option_c": "Primary intracranial tumour =''' extra-axial, developed from the meninges and cranial nerves, e.g. meningioma and schwannoma/neuroma of the vestibular nerve",
+    "option_d": "Primary brain tumour =''' extra-axial, developed from the meninges and cranial nerves, e.g. meningioma and schwannoma/neuroma of the vestibular nerve",
+    "correct_option": "option_b"
+  }
+}

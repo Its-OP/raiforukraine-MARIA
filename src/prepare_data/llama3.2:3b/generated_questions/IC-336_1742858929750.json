@@ -1,0 +1,46 @@
+{
+  "folder": "IC-336",
+  "content": "{{knowledge objective\n|Identifiant=OIC-336-06-B\n|Item_parent=Non-traumaticoma in adults and children\n|Item_parent_short=Non-traumatic coma in adults and children\n|Rank=B\n|Title=Know the diagnostic criteria for brain death\n|Description=Know the clinical examination of a brain-dead patient and the additional tests required (angiography, EEG).\n|Rubric=Positive diagnosis\n|Contributors=Nicolas Weiss\n|Order=6}}\n\n'''In the absence of confounding factors,'''\n\n'''Diagnosis of brain death =''''\n\n- '''Deep coma Glasgow = 3'''\n\n- '''Abolition of all brain stem reflexes'''\n\n- '''One of the additional tests confirming the diagnosis'''\n\n- Clinical examination :\n\no Absence of trunk reflexes\n\n\u00a7 Absence of photomotor reflex\n\n\u00a7 Absence of corneal reflex\n\n\u00a7 Absence of oculovestibular reflex (absence of eye movements on passive mobilisation of the head)\n\n\u00a7 Absence of cough reflex\n\n\u00a7 Absence of oculocardiac reflex\n\no Abolition of spontaneous ventilation with hypercapnia test in ventilated patients\n\n\n'''+'''\n\n\n- Additional tests (2 possibilities) :\n\n\no 2 electroencephalograms\n\n\u00a7 At least 30 minutes\n\n\u00a7 4 hours apart\n\n\u00a7 At maximum amplification\n\n\u00a7 Conditions: patient temperature > 35\u00b0C, negative toxicity (barbiturates +++)\n\n'''OR'''\n\n\no Imaging examination with injection of contrast medium\n\n\u00a7 4-axis angiography\n\n\u00a7 Angioscanner\n\n\u00a7 Absence of visualization (opacification) of the intracerebral arteries\n\n\nNB: although the transition to brain death is often accompanied by diabetes insipidus, its presence is not one of the criteria. The diagnosis of brain death allows the death certificate to be signed.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the next step in diagnosing brain death after a clinical examination?",
+        "description": "According to the diagnostic criteria for brain death",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Perform a lumbar puncture",
+        "description": "A procedure that may be performed to rule out other conditions",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Conduct an electroencephalogram (EEG) with a 30-minute recording",
+        "description": "A test that measures electrical activity in the brain",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Order a CT or MRI scan with contrast medium",
+        "description": "An imaging test to visualize the brain",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Administer a hypercapnia test to a ventilated patient",
+        "description": "A test to assess the patient's respiratory response to increased CO2 levels",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Conduct an electroencephalogram (EEG) with a 30-minute recording",
+        "description": "A test that measures electrical activity in the brain",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

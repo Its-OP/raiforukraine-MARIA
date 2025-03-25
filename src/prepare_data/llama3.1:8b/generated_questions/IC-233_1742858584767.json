@@ -1,0 +1,12 @@
+{
+  "folder": "IC-233",
+  "content": "{{knowledge objective\n|Identifiant=OIC-233-09-B\n|Item_parent=Valvulopathies\n|Item_parent_short=Valvulopathies\n|Rank=B\n|Title=Know the principle of percutaneous treatment of MI, RA, MR\n|Description=VIAT, knowing that this percutaneous alternative exists for MI (MITRACLIP)\n|Section=Management\n|Contributors=Myriam Akodad,Florence Leclercq\n|Order=9}}\n\n*\n\n*Mitral insufficiency:''''\n**Percutaneous mitral repair= Mitraclip (This is a device used to percutaneously reproduce the surgical technique introduced by Alfieri, which consists of suturing the edges of the two leaflets of the mitral valve).\n\n*Aortic stenosis:\n**Aortic balloon valvuloplasty:\n***rarely performed as restenosis is frequent,\n***except in emergency (patient in shock or refractory IC),\n***in the event of urgent non-cardiac surgery\n***sometimes as a palliative measure\n**Percutaneous aortic bioprosthesis implantation (TAVI, native valve left in place)\n\n*Mitral narrowing:''''\n**Percutaneous commissurotomy: rheumatic MR in case of favourable anatomy: valve with little calcification and flexibility, absent or minimal MI.\n\n*''Under evaluation'' :\n**Mitral narrowing or insufficiency: percutaneous implantation of a bioprosthesis in the mitral position (TMVI)\n**Aortic insufficiency: TAVI\n\n<br />",
+  "question": {
+    "question": "What is a common indication for percutaneous commissurotomy?",
+    "option_a": "Aortic stenosis with severe calcification",
+    "option_b": "Mitral narrowing with rheumatic MR and favourable anatomy",
+    "option_c": "Aortic insufficiency with significant regurgitation",
+    "option_d": "Mitral insufficiency with significant mitral regurgitation",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-247",
+  "content": "{{knowledge objective\n|Identifiant=OIC-247-23-A\n|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Rank=A\n|Title=Knowing the general principles of multifactorial management of T2DM and the patient-centred approach.\n|Description=None\n|Topic=Management\n|Contributors=Gaetan Pr\u00e9vost,Eva Feigerlova,H\u00e9l\u00e8ne Bihan,Claire Briet,Etienne Larger\n|Order=23}}\n\nMultifactorial management of T2DM means taking into account all the CV risk factors present in the patient.\n\nIn addition to controlling blood sugar levels, therapeutic objectives will include stopping smoking, controlling lipid levels and blood pressure, and adhering to dietary rules, physical activity and taking medication.\n\nTherapeutic objectives (glycaemia, blood pressure, lipids) are tailored to the patient's clinical and biological profile.\n\n\nThe factors to be taken into account when determining the glycaemic target (HbA1c) are the duration of diabetes, life expectancy, the existence of co-morbidities, the risk of hypoglycaemia [[Hypoglycaemia SD-209]] or other adverse drug reactions [[Suspicion of an adverse drug reaction or treatment SD-348]] and the patient's motivation.\n\n\nLipid control targets are mainly adapted to cardiovascular risk (primary prevention, presence of FDR, secondary prevention), blood pressure targets to cardiovascular and renal risk (GFR, proteinuria).",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is multifactorial management of T2DM in adults?",
+        "description": "A multiple-choice question about the management of type 2 diabetes mellitus",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Taking into account only the patient's medical history and blood sugar levels",
+        "description": "A plausible but incomplete approach to managing T2DM",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Controlling blood sugar levels, smoking, lipid levels, blood pressure, dietary rules, physical activity, and taking medication",
+        "description": "A comprehensive approach to managing T2DM",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Focusing solely on cardiovascular risk factors and excluding other comorbidities",
+        "description": "An incomplete approach to managing T2DM",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Setting a single glycaemic target (HbA1c) and ignoring other therapeutic objectives",
+        "description": "An overly simplistic approach to managing T2DM",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "b",
+        "description": "",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

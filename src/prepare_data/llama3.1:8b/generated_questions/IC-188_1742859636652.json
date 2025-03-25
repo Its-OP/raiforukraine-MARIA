@@ -1,0 +1,12 @@
+{
+  "folder": "IC-188",
+  "content": "{{knowledge objective\n|Identifiant=OIC-188-22-A\n|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Rank=A\n|Title=Knowing the main allergenic avoidance measures in asthma and allergic rhinitis, including occupational asthma and rhinitis.\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=22}}\n\n\n* Dust mites: reduce indoor relative humidity (<50%); vacuum cleaning (High Efficiency Particulate Air Filter); change bedding if infestation is high; wash sheets regularly at a high temperature (at least 60\u00b0C - dust mites die at a temperature > 56\u00b0C); anti-dust mite covers for mattresses (+++), duvets and pillows; use a slatted bed base; keep room temperature below 20\u00b0C, ventilate bedrooms.\n* Pets should be kept outside and out of the bedroom. Cat allergens can persist in the home for several months after the animal has left.\n* Mould: clean with bleach; plenty of ventilation and sunlight; avoid green plants indoors.\n* Pollens:''' difficult to avoid; do not dry clothes outdoors and limit going out during peak pollen periods; adapt workstation.\n* Occupational asthma:'''' Asthma is recognised as an occupational disease in several tables. The implementation of protection measures, workstation adjustments or professional reclassification should be discussed with the occupational physician.",
+  "question": {
+    "question": "What is the recommended indoor relative humidity to reduce dust mites?",
+    "option_a": "Less than 30%",
+    "option_b": "Less than 50%",
+    "option_c": "Less than 60%",
+    "option_d": "Less than 20%",
+    "correct_option": "B"
+  }
+}

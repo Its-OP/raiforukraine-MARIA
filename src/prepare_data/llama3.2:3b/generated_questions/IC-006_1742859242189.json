@@ -1,0 +1,12 @@
+{
+  "folder": "IC-006",
+  "content": "{{knowledge objective\n|Identifiant=OIC-006-02-A\n|Item_parent=The organisation of clinical practice and the methods used to secure the patient's care pathway\n|Item_parent_short=The organisation of clinical practice and the methods which make it possible to secure the patient pathway\n|Rank=A\n|Item_parent_short=The organisation of clinical practice and methods for securing the patient's care pathway\n|Description=Knowing the main systems\n|Rubric=Definition\n|Contributors=Virginie Migeot\n|Order=2}}\n\nThere are different methods of working in multi-professional teams in outpatient and inpatient settings:\n\n- A multi-professional protocol\n\n- Multidisciplinary consultation meetings (RCP)\n\n- The checklist in the operating theatre or for so-called \"interventional\" activities (endoscopy, interventional radiology, central venous catheters, chemotherapy, etc.).\n\n- Mortality and morbidity review (RMM)\n\n<br />",
+  "question": {
+    "question": "What is the primary purpose of a multidisciplinary consultation meeting (RCP)?",
+    "option_a": "To review patient outcomes and identify areas for improvement in care pathways",
+    "option_b": "To develop and implement new treatment protocols for complex cases",
+    "option_c": "To provide education and training for healthcare professionals on new technologies and procedures",
+    "option_d": "To facilitate communication and collaboration among healthcare teams to improve patient care",
+    "correct_option": "D"
+  }
+}

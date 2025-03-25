@@ -1,0 +1,46 @@
+{
+  "folder": "IC-026",
+  "content": "{{knowledge objective\n|Identifiant=OIC-026-04-B\n|Item_parent=Acute abdominal pain in a pregnant woman\n|Item_parent_short=Acute abdominal pain in pregnant women\n|Rank=B\n|Title=Knowing how to manage acute abdominal pain in pregnant women\n|Description=Know how to guide the clinical examination and suggest appropriate paraclinical tests during management.\n|Rubric=Multimedia content\n|Contributors=Louis Marcellin,Philippe Deruelle\n|Order=4}}\n\n[[File:Douleurs abdominales de la femme enceinte.jpg|vignette|'''Douleurs abdominales de la femme enceinte'']]",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary concern during the clinical examination of a pregnant woman with acute abdominal pain?",
+        "description": "A pregnant woman presents with acute abdominal pain. What should be the primary concern during the clinical examination?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Uterine tenderness",
+        "description": "The patient reports a dull ache in the lower abdomen, and the uterus is tender to palpation.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Adnexal tenderness",
+        "description": "The patient reports a sharp pain in the lower abdomen, and the adnexal area is tender to palpation.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Rectal examination",
+        "description": "The patient is uncomfortable with a rectal examination due to the presence of the fetus.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Pelvic examination",
+        "description": "The patient is hesitant to undergo a pelvic examination due to concerns about the fetus.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "A",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

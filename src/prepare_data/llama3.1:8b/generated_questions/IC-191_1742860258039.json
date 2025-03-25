@@ -1,0 +1,46 @@
+{
+  "folder": "IC-191",
+  "content": "{{knowledge objective\n|Identifiant=OIC-191-06-A\n|Item_parent=Fever in an immunocompromised patient\n|Item_parent_short=Fever in an immunocompromised patient\n|Rank=A\n|Item_parent_short=Fever in a febrile immunocompromised patient\n|Description=None\n|Rubric=Identification of urgency\n|Contributors=Am\u00e9lie Servettaz\n|Order=6}}\n\nFebrile neutropenia is \"always a therapeutic emergency\". Appropriate antibiotic therapy should be started as early as possible, after taking appropriate microbiological samples. Antibiotic therapy must be \"broad\" and \"adapted\" to the depth of neutropenia, its duration and the patient's risk factors, any clinical warning signs and \"previous microbiological documentation\" (e.g. carriage of multi-resistant bacteria, history of Pseudomonas infection, etc.).\n\nIn an immunocompromised patient, fever is always an emergency and an infectious agent must be sought, depending on the patient's deficiency (e.g. pneumococcal infection in a patient with a humoral deficiency, pulmonary pneumocystis in a patient with a cellular deficiency, etc.).",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Question",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Option A",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Option B",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Option C",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Option D",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

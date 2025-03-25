@@ -1,0 +1,46 @@
+{
+  "folder": "IC-027",
+  "content": "{{knowledge objective\n|Identifiant=OIC-027-38-B\n|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Rank=B\n|Intitul\u00e9=Alcohol and pregnancy: mechanism - dose-effect relationship\n|Description=None\n|Rubric=Physiopathology\n|Contributors=Alexandre Vivanti, Philippe Deruelle\n|Order=38}}\nFoetal damage is proportional to the quantity of alcohol ingested.\n\nThere are three main types of consumption, regardless of the type of drink involved (a drink containing approximately 10g of pure alcohol, whatever the alcohol):\n\n- Heavy consumption: more than 2 drinks per day. The foetal impact is well documented, with a risk of FAS.\n\n- Occasional, light or moderate consumption: around 1 to 2 drinks per day. There is no dysmorphic or malformative syndrome. In the case of occasional or light alcohol consumption, the scientific data are reassuring regarding the occurrence of long-term cognitive or behavioural problems. In the case of moderate drinking, studies are contradictory, but there is a risk of alteration in behavioural scores, as well as affective and/or anxiety disorders.\n\n- Binge drinking: this is common in early pregnancy, when the pregnancy is still unknown. There is no proven impact of a binge drinking episode (\u2265 4 drinks in one go) on the occurrence of foetal malformations or cognitive-behavioural disorders at this stage of pregnancy, provided that the episode remains isolated and is not repeated thereafter. Later on, during pregnancy - particularly in the 2nd and 3rd trimesters - acute alcohol consumption (5 drinks) can lead to cognitive problems as a result of impaired neuronal migration.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the correct relationship between alcohol consumption and foetal damage?",
+        "description": "Alcohol consumption during pregnancy and its impact on the foetus",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Foetal damage is proportional to the quantity of alcohol consumed",
+        "description": "This option is a general statement about the relationship between alcohol consumption and foetal damage",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "The risk of foetal damage is directly proportional to the number of drinks consumed per day",
+        "description": "This option is a more specific statement about the relationship between alcohol consumption and foetal damage",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Alcohol consumption has no impact on the foetus, regardless of the quantity consumed",
+        "description": "This option is a common misconception about the impact of alcohol consumption on the foetus",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Foetal damage is only a risk if the mother consumes more than 2 drinks per day",
+        "description": "This option is a specific statement about the risk of foetal damage based on the quantity of alcohol consumed",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Foetal damage is proportional to the quantity of alcohol ingested",
+        "description": "This option is the correct answer based on the provided text",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

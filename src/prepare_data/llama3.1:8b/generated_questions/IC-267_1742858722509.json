@@ -1,0 +1,12 @@
+{
+  "folder": "IC-267",
+  "content": "{{knowledge objective\n|Identifiant=OIC-267-07-A\n|Item_parent=Disorders of acid-base equilibrium and hydro-electrolytic disorders\n|Item_parent_short=Disorders of acid-base balance and fluid and electrolyte disorders\n|Rank=A\n|Title=Know the main causes of respiratory acidosis\n|Description=None\n|Rubric=Etiologies\n|Contributors=P Rieu; B Moulin; M Flamant\n|Order=7}}\n\nTable 4: Aetiological diagnosis of the main respiratory acidoses\n{| class=\"wikitable\"\n| colspan=\"3\" | NON-PULMONARY ALVEOLARY HYPOVENTILATION\n|-\n|Type of failure\n|Mechanism\n\npathophysiology\n|Etiologies\n|-\n| rowspan=\"3\" |'''Ventilatory control''''\n|Cerebral dysfunction\n|- Infections (encephalitis)\n\n- Injuries\n\n- Tumours\n\n- Stroke (Trunk)\n\n- Sedatives\n|-\n|'''Dysfunction of the centres''''\n\n'''respiratory'''\n|- Loss of control\n\n- SAS central type\n\n- Hypothyroidism\n\n- Metabolic alkalosis\n\n- Sedatives\n\n- Damage to afferent and efferent pathways\n\n- Cervical spinal cord injury (> C5)\n\n- Transverse myelitis\n\n- Multiple sclerosis\n\n- Parkinson\n|-\n|Peripheral receptor dysfunction\n|- Bilateral carotid endarterectomy\n\n- Diabetic neuropathy\n<br />\n|-\n| rowspan=\"2\" |'''Ventilatory pump''''\n|Impaired neuromuscular function\n|- Anterior medullary horn\n\n- Poliomyelitis\n\n- ALS\n\n- Peripheral nerves\n\n- Guillain-Barr\u00e9 syndrome\n\n- Neuromuscular junction\n\n- Myasthenia\n\n- Botulism\n\n- Respiratory muscles (diaphragm)\n\n- Inflammatory myopathies and myositis\n\n- Metabolic disorders (hypokalemia, hypophosphatemia, hypermagnesemia)\n|-\n|'''Pathology'''\n\n'''de la cage thoracique'''\n|- Cyphoscoliosis,\n\n- Pleural fluid or gas effusion\n\n- Obesity\n|-\n|colspan=\"3\" |PULMONARY ALVEOLARY HYPOVENTILATION\n|-\n| colspan=\"3\" |- Severe COPD\n\n- Severe pulmonary emphysema\n\n- Parenchymal reduction (surgical resection, extensive scarring)\n\n- Inflammatory lung diseases with diaphragmatic myositis (lupus, polymyositis)\n|}\n\n\n\n<br />",
+  "question": {
+    "question": "What is a common cause of respiratory acidosis due to ventilatory pump dysfunction?",
+    "option_a": "Cerebral dysfunction, such as encephalitis or stroke",
+    "option_b": "Impaired neuromuscular function, such as poliomyelitis or Guillain-Barr\u00e9 syndrome",
+    "option_c": "Dysfunction of the respiratory centres, such as hypothyroidism or metabolic alkalosis",
+    "option_d": "Pathology of the thoracic cage, such as cyphoscoliosis or pleural fluid effusion",
+    "correct_option": "B"
+  }
+}

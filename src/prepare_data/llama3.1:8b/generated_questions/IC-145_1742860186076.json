@@ -1,0 +1,12 @@
+{
+  "folder": "IC-145",
+  "content": "{{knowledge objective\n|Identifiant=OIC-145-05-B\n|Item_parent=Surveillance of communicable infectious diseases\n|Item_parent_short=Surveillance of communicable infectious diseases\n|Rank=B\n|Title=Knowing the performance indicators of diagnostic tests\n|Description=None\n|Rubric=Definition\n|Contributors=Didier HOCQUET,Elodie COUVE,Anne-Marie ROGUES,Alexandre DUVIGNAUD\n|Order=5}}\n\n'''''Sensitivity''':'' proportion of subjects classified as ill (with a positive test result) out of all subjects actually suffering from the disease.\n\n'''''\"Specificity\": proportion of subjects classified as not ill (with a negative test result) out of all subjects not affected by the disease.\n\n''''' ''Positive predictive value'':'' proportion of sick subjects among those classified as sick (with a positive test result).\n\n''''' ''Negative predictive value'': '''proportion of non-diseased subjects among those classified as non-diseased (with a negative test result).<br />''.\n{| class=\"wikitable\"\n| colspan=\"4\" |'''Calculation of the sensitivity (Se), specificity (Sp), positive predictive value (PPV) and negative predictive value (NPV) of a diagnostic test'''\n|-\n|\n| colspan=\"2\" |Actual state of the subject\n|\n|-\n|Test results\n|Ill\n|Non-sick\n|\n|-\n|Positive\n|a = true positive\n|b = false positive\n|VPP = a/(a + b)\n|-\n|Negative\n|c = false negative\n|d = true negative\n|VPN = d/(c + d)\n|-\n|\n|Se = a/(a + c)\n|Sp = d/(b + d)\n|\n|}\n\n\n\n<br />",
+  "question": {
+    "question": "What is the definition of sensitivity in the context of diagnostic tests?",
+    "option_a": "Proportion of subjects classified as ill out of all subjects actually suffering from the disease",
+    "option_b": "Proportion of subjects classified as not ill out of all subjects not affected by the disease",
+    "option_c": "Proportion of sick subjects among those classified as sick (with a positive test result)",
+    "option_d": "Proportion of non-diseased subjects among those classified as non-diseased (with a negative test result)",
+    "correct_option": "A"
+  }
+}

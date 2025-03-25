@@ -1,0 +1,46 @@
+{
+  "folder": "IC-267",
+  "content": "{{knowledge objective\n|Identifiant=OIC-267-20-A\n|Item_parent=Disorders of acid-base balance and fluid-electrolyte disorders\n|Item_parent_short=Disorders of acid-base equilibrium and fluid and electrolyte disorders\n|Rank=A\n|Title=Knowing the ECG abnormalities associated with hypokalaemia\n|Description=None\n|Section=Additional tests\n|Contributors=P Rieu; B Moulin; M Flamant\n|Order=20}}\n\n\n*Myocardial damage leads to a state of cardiac hyperexcitability.\n**The ECG signs present include the following, depending on the degree of hypokalaemia:\n**ST segment depression (from V1 to V3 and in DII);\n**Decrease or even inversion of the T wave;\n**Appearance of a \"pathological\" U wave in V3 and DII (slowing of repolarisation);\n**Prolongation of the QT interval;\n**Supraventricular rhythm disorders (atrial fibrillation, sinus tachycardia);\n**Ventricular rhythm disorders (ventricular extrasystoles, ventricular tachycardia, torsade de pointe, ventricular fibrillation).\n*In the context of chronic hypokalaemia, the potassium ratio between the intracellular and extracellular sectors is relatively constant and explains the absence of ECG signs, even when kalaemia levels are below 3 mmol/L.\n*The onset of arrhythmia is favoured by :\n**underlying ischaemic heart disease;\n**left ventricular hypertrophy;\n**hypercalcaemia;\n**treatment with digitalis or anti-arrhythmics;\n**the occurrence of torsade de pointes is favoured by hypomagnesaemia.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary factor that leads to the onset of arrhythmia in the context of chronic hypokalaemia?",
+        "description": "Select the correct answer from the options below",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Hypomagnesaemia",
+        "description": "A condition characterized by low levels of magnesium in the blood",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Left ventricular hypertrophy",
+        "description": "A condition where the muscle wall of the left ventricle becomes thickened",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Underlying ischaemic heart disease",
+        "description": "A condition where the heart muscle does not receive enough oxygen due to blocked arteries",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Hypercalcaemia",
+        "description": "A condition characterized by high levels of calcium in the blood",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct letter of the answer option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

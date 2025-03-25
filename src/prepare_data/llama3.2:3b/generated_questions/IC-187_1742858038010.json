@@ -1,0 +1,46 @@
+{
+  "folder": "IC-187",
+  "content": "{{knowledge objective\n|Identifiant=OIC-187-04-A\n|Item_parent=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Item_parent_short=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Rank=A\n|Intitle=Photography of a urticaria\n|Description=Photo of edematous patches of urticaria\n|Rubric=Multimedia content\n|Contributors=\n|Order=4}}\n\n[[File:Figure 7 .png|centre|thumb|''edematous papules of urticaria'']]\nSee also Figure 5.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary characteristic of urticaria?",
+        "description": "A medical condition characterized by itchy, raised patches on the skin",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Itchy, raised patches on the skin",
+        "description": "A common symptom of urticaria",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "A chronic autoimmune disorder",
+        "description": "Characterized by inflammation of the joints",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "A type of skin cancer",
+        "description": "Caused by exposure to UV radiation",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "A genetic disorder affecting the skin",
+        "description": "Caused by a mutation in the COL3A1 gene",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

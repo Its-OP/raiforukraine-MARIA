@@ -1,0 +1,46 @@
+{
+  "folder": "IC-364",
+  "content": "{{knowledge objective\n|Identifiant=OIC-364-07-A\n|Item_parent=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Item_parent_short=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Rank=A\n|Title=Knowing the indication for imaging examinations for fractures in children\n|Description=None\n|Rubric=Additional examinations\n|Contributors=\n|Order=7}}\nKnow how to request a frontal and lateral X-ray adapted to the anatomical region where the lesion has been located. There is no indication to carry out a comparative radiography except in exceptional cases of persistent doubt and after specialist advice on a bone lesion on the initial film homolateral to the lesion. Be aware that epiphyses are cartilaginous in children, and that ultrasound or MRI can be used to help diagnose the lesion.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "When requesting X-rays for fractures in children, what is the standard approach?",
+        "description": "A question about the appropriate imaging protocol for fractures in children.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Always perform comparative radiography to confirm the initial film",
+        "description": "A plausible but incorrect option that may be tempting for those who are not aware of the specific guidelines.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Request a frontal and lateral X-ray adapted to the anatomical region where the lesion has been located",
+        "description": "The correct answer, as per the guidelines.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Use ultrasound or MRI as the primary diagnostic tool for fractures in children",
+        "description": "An incorrect option that may be tempting for those who are not aware of the limitations of these modalities in this context.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Perform a comparative radiography to confirm the initial film in all cases",
+        "description": "An incorrect option that may be tempting for those who are not aware of the exceptions to this rule.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The letter of the correct option.",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

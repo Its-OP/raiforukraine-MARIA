@@ -1,0 +1,12 @@
+{
+  "folder": "IC-198",
+  "content": "{{knowledge objective\n|Identifiant=OIC-198-06-B\n|Item_parent=Microcrystalline arthropathies\n|Item_parent_short=Microcrystalline arthropathies\n|Rank=B\n|Title=Radiography of the pelvis: calcifications of the pubic symphysis and femoral cartilages\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=6}}\n<gallery widths=\"401\" heights=\"400\">\nFile:Pelvis radiography femoral cartilage calcifications .PNG|Pelvis radiography: femoral cartilage calcifications.\n</gallery><gallery widths=\"400\" heights=\"400\">\nFile:Radiography of pelvis calcifications of the pubic symphysis .PNG|Radiography of pelvis: calcifications of the pubic symphysis\n</gallery>",
+  "question": {
+    "question": "What is the typical age range for the appearance of calcifications in the pubic symphysis?",
+    "option_a": "Children and adolescents",
+    "option_b": "Young adults and adults",
+    "option_c": "Middle-aged adults",
+    "option_d": "Older adults",
+    "correct_option": "option_b"
+  }
+}

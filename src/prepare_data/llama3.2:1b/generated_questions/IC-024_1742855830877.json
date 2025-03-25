@@ -1,0 +1,54 @@
+{
+  "folder": "IC-024",
+  "content": "{{knowledge objective\n|Identifiant=OIC-024-22-A\n|Item_parent=Main complications of pregnancy.\n|Item_parent_short=Main complications of pregnancy.\n|Rank=A\n|Title=Knowing the measures to prevent the threat of premature birth.\n|Description=Primary and secondary prevention\n|Heading=Management\n|Contributors=Paul Berveiller,Philippe Deruelle\n|Order=22}}\n\n'''Primary prevention:'''\n\n- eliminating risk factors (tobacco, toxic substances, stopping work [[Prevention of foetal risks SD-312]]; [[Prevention of tobacco-related risks SD-314]]; [[Prevention of occupational risks SD-315|Prevention of alcohol-related risks SD-313;]]) )\n\n- if there is a history of AP or FCT (morphological assessment of the uterine cavity, bacteriological investigation and treatment of bacterial vaginosis)\n\n'''Secondary prevention:'''\n\n- If there is a history of premature delivery, the decision to perform a cerclage will depend on the type of history and the current pregnancy.\n\n- No preventive cerclage simply because of a history of conisation, uterine malformation, twin pregnancy or an isolated history of premature delivery.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Knowing the measures to prevent the threat of premature birth",
+        "description": "Primary and secondary prevention",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Eliminating risk factors",
+        "description": "tobacco, toxic substances, stopping work [[Prevention of foetal risks SD-312]]; [[Prevention of tobacco-related risks SD-314]]; [[Prevention of occupational risks SD-315|Prevention of alcohol-related risks SD-313;]]",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "If there is a history of AP or FCT",
+        "description": "morphological assessment of the uterine cavity, bacteriological investigation and treatment of bacterial vaginosis",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "If there is a history of premature delivery",
+        "description": "the decision to perform a cerclage will depend on the type of history and the current pregnancy",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "No preventive cerclage simply because of a history of conisation, uterine malformation, twin pregnancy or an isolated history of premature delivery",
+        "description": "Preventive cerclage will depend on the type of history and the current pregnancy",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ],
+    "example": {
+      "question": "What measures can be taken to prevent premature birth?",
+      "option_a": "Eliminating risk factors (tobacco, toxic substances, stopping work [[Prevention of foetal risks SD-312]]; [[Prevention of tobacco-related risks SD-314]]; [[Prevention of occupational risks SD-315|Prevention of alcohol-related risks SD-313;]])",
+      "option_b": "If there is a history of AP or FCT (morphological assessment of the uterine cavity, bacteriological investigation and treatment of bacterial vaginosis)",
+      "option_c": "If there is a history of premature delivery",
+      "option_d": "No preventive cerclage simply because of a history of conisation, uterine malformation, twin pregnancy or an isolated history of premature delivery",
+      "correct_option": "If there is a history of premature delivery"
+    }
+  }
+}

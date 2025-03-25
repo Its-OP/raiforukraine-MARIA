@@ -1,0 +1,12 @@
+{
+  "folder": "IC-109",
+  "content": "{{knowledge objective\n|Identifiant=OIC-109-06-A\n|Item_parent=Gait and balance disorders\n|Item_parent_short=Gait and balance disorders\n|Rank=A\n|Item_parent=Gait and balance disorders\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=6}}\nABASIA ASTASIA: panic fear of walking; if the patient is pushed to take a few steps, he clings to the examiner or to furniture or walls, at the cost of risky postures with a high risk of falling. Any attempt to let go of the subject is accompanied by major anxiety reactions.",
+  "question": {
+    "question": "What is abasia astasia?",
+    "option_a": "A condition characterized by a fear of walking and a tendency to cling to furniture or walls for support.",
+    "option_b": "A type of paralysis that affects the legs and makes it difficult to walk or stand.",
+    "option_c": "A psychological disorder that involves a fear of falling or losing balance.",
+    "option_d": "A condition that affects the brain's ability to coordinate movement and balance.",
+    "correct_option": "A"
+  }
+}

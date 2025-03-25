@@ -1,0 +1,12 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-29-B\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=B\n|Title=Scoliosis in children: knowing the indication for imaging\n|Description=None\n|Rubric=Additional examinations\n|Contributors=\n|Order=29}}\nX-rays of the spine (ideally using an EOS system with less radiation), in the upright position, from the front and from the side, are indicated for the initial assessment and the preoperative assessment. The initial X-rays enable the vertebral structures to be analysed (looking for malformations), determine the site of the scoliosis and the side, and quantify the extent of the deformity (measurement of the Cobb angle on the frontal X-ray). The profile allows analysis of the bone structures, curvatures in the sagittal plane and the statics of the spine and pelvis. Analysis of the ossification nuclei of the iliac crests assesses bone maturation (Risser test) and makes it possible to determine the end of growth (fusion of the ossification nuclei) with a reduced risk of progression.\n\nMRI is recommended in cases of painful scoliosis, malformations, neurological signs or as a preoperative assessment, even for scoliosis considered to be idiopathic.\n\nMonitoring every 6 months during growth (face, low dose), if progress = orthopaedic opinion",
+  "question": {
+    "question": "What is the typical imaging modality used for the initial assessment and preoperative assessment of scoliosis in children?",
+    "option_a": "X-rays of the spine (ideally using an EOS system with less radiation)",
+    "option_b": "Computed Tomography (CT) scans",
+    "option_c": "Magnetic Resonance Imaging (MRI)",
+    "option_d": "Ultrasound",
+    "correct_option": "option_a"
+  }
+}

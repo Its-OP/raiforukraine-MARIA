@@ -1,0 +1,13 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-17-A\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=A\n|Title=Knowing the interrogation and clinical examination data in favour of delayed puberty\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=17}}\n'''Questioning data:''' pubertal ages of parents and siblings, age at menarche of mother, parental heights with calculation of genetic target height, family history of infertility, smell disorder (anosmia), personal history of chronic illness, cryptorchidism or micropenis (reflection of congenital expression), visual signs or signs of HTIC, statural slowing/cracking (curve), anosmia, digestive signs.\n\n'''Clinical examination''': pubertal stage (Tanner, note penis size, cryptorchidism), dysmorphia, skin spots, growth rate and BMI (curve), complete examination\n\n<br />",
+  "question": {
+    "question": "What is the typical age range of pubertal onset in boys?",
+    "correct_option": "Tanner stage 3",
+    "option_a": "Tanner stage 1",
+    "option_b": "Tanner stage 4",
+    "option_c": "Tanner stage 2",
+    "option_d": "Tanner stage 2",
+    "answer_type": "number"
+  }
+}

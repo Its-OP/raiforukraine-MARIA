@@ -1,0 +1,12 @@
+{
+  "folder": "IC-157",
+  "content": "{{knowledge objective\n|Identifiant=OIC-157-13-A\n|Item_parent=Bacteremia/Fungemia in adults and children\n|Item_parent_short=Bacteremia/Fungemia in adults and children\n|Rank=A\n|Title=Know how to choose the right antibiotic for the right infectious agent based on microbiological documentation.\n|Description=None\n|Heading=Management\n|Contributors=David Lebeaux\n|Order=13}}\n\n{| class=\"wikitable\"\n|'''Infectious agents''''\n|'''[[Prescribe an anti-infective SD-255|1st-line antimicrobial]]'''''\n|\n|-\n|Meticillin-sensitive Staphylococcus aureus (MSSA)\n|Penicillin M or cefazolin (1st<sup> generation</sup> cephalosporin)\n|\n|-\n|Meticillin-resistant Staphylococcus aureus (MRSA)\n|Vancomycin (glycopeptide)\n|\n|-\n|Streptococcus pneumoniae\n|Penicillin A (amoxicillin)/ 3rd generation cephalosporin (cefotaxime, ceftriaxone) if meningitis or severe acute community-acquired pneumonia.\n|\n|-\n|Other streptococci\n|Penicillin A (amoxicillin)\n|\n|-\n|Meningococcus\n|3rd</sup> generation cephalosporin (cefotaxime, ceftriaxone)\n|\n|-\n|Enterococcus\n|Penicillin A (amoxicillin) +/- gentamicin if endocarditis suspected\n|\n|-\n|Escherichia coli\n|3rd</sup> generation cephalosporin / fluoroquinolone if allergy\n|\n|-\n| rowspan=\"2\" |Anaerobes\n| rowspan=\"2\" |Imidazole (if anaerobes not already covered by antibiotic therapy already prescribed)\n|\n|-\n|\n|-\n|Candida\n|Fluconazole or Echinocandin (depending on antifungals)\n|\n|}",
+  "question": {
+    "question": "What is the most appropriate antibiotic for treating a patient with Streptococcus pneumoniae meningitis?",
+    "option_a": "Penicillin A (amoxicillin)",
+    "option_b": "Vancomycin",
+    "option_c": "Ceftriaxone",
+    "option_d": "Gentamicin",
+    "correct_option": "option_a"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-198",
+  "content": "{{knowledge objective\n|Identifiant=OIC-198-23-B\n|Item_parent=Microcrystalline arthropathies\n|Item_parent_short=Microcrystalline arthropathies\n|Rank=B\n|Title=Knowing the principles of treatment of an acute attack of hydroxyapatite crystals\n|Description=None\n|Topic=Management\n|Contributors=\n|Order=23}}\nTreatment includes rest, icing, NSAIDs and even oral corticosteroids (30 mg per day) for a short course of 3 to 5 days. Local cortisone injections are effective, but should be used as a second-line treatment, as spontaneous favourable evolution is the rule.",
+  "question": {
+    "question": "What is the recommended treatment for an acute attack of hydroxyapatite crystals?",
+    "option_a": "Rest, icing, NSAIDs, and oral corticosteroids (30 mg per day) for a short course of 3 to 5 days",
+    "option_b": "Local cortisone injections as the first line of treatment",
+    "option_c": "Rest, icing, NSAIDs, and oral corticosteroids (30 mg per day) for a short course of 3 to 5 days, and local cortisone injections as a first-line treatment",
+    "option_d": "Intravenous corticosteroids (60 mg per day) for a short course of 3 to 5 days",
+    "correct_option": "A"
+  }
+}

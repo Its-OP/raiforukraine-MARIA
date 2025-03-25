@@ -1,0 +1,22 @@
+{
+  "folder": "IC-223",
+  "content": "{{knowledge objective\n|Identifiant=OIC-223-10-A\n|Item_parent=Dyslipidaemia\n|Item_parent_short=Dyslipidemia\n|Rank=A\n|Title=Knowing the rules of hygiene and diet\n|Description=Adapted dietary recommendations in the case of dyslipidaemia\n|Rubric=Management\n|Contributors=Laurence Duvillard, Bruno Verg\u00e8s, Benjamin Bouillet, Laurence Amar, Christian Boissier, Tristan Mirault, Claire Le Hello\n|Order=10}}\n\n\n*Hypercholesterolaemia:\n**daily fat intake <35% of total calorie intake,\n**reduce saturated fatty acids (<10%),\n**prefer monounsaturated and polyunsaturated omega-3 fatty acids,\n**encourage consumption of fruit and vegetables.\n\n*Moderate hyperglyceridemia:\n**weight reduction (diet + physical activity),\n**reduction (or even elimination) of alcohol,\n**reducing carbohydrate intake, particularly simple sugars.\n\n*Severe hyperglyceridemia:\n**low-fat diet,\n**use of oil based on medium-chain triglycerides.",
+  "question": {
+    "properties": {
+      "question": "What is the recommended daily fat intake for individuals with hypercholesterolaemia?",
+      "option_a": "35% of total calorie intake",
+      "option_b": "10% of total calorie intake",
+      "option_c": "20% of total calorie intake",
+      "option_d": "50% of total calorie intake",
+      "correct_option": "35% of total calorie intake",
+      "required": [
+        "question",
+        "option_a",
+        "option_b",
+        "option_c",
+        "option_d",
+        "correct_option"
+      ]
+    }
+  }
+}

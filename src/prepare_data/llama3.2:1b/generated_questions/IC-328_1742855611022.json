@@ -1,0 +1,16 @@
+{
+  "folder": "IC-328",
+  "content": "{{knowledge objective\n|Identifiant=OIC-328-02-A\n|Item_parent=Non-drug therapies and medical devices\n|Item_parent_short=Non-drug therapies and medical devices\n|Rank=A\n|Intitle=Know the definition of a medical device\n|Description=None\n|Rubric=Definition\n|Contributors=Bisseriex H\u00e9l\u00e8ne,De Boissezon Xavier\n|Order=2}}\n\n'''Medical device:''' any instrument, apparatus, equipment, material, product (with the exception of products of human origin) including accessories and software, used alone or in combination, for medical purposes in humans, and whose principal intended action is not obtained by pharmacological, immunological or metabolic means ''(ANSM)''.\n\nA new European regulation (EU regulation 2017/745) dating from May 2021 aims to standardise the marketing and commissioning of medical devices within the European Union (without regulating prices and reimbursements by social organisations).\n\n<br />",
+  "question": {
+    "id": "OIC-328-02-A",
+    "title": "Know the definition of a medical device",
+    "description": "What is a medical device?",
+    "type": "definition",
+    "correct_option": "A new European regulation (EU regulation 2017/745) dating from May 2021 aims to standardise the marketing and commissioning of medical devices within the European Union (without regulating prices and reimbursements by social organisations.",
+    "distractor_1": "A medical device is a device that is used to treat or prevent a disease or injury.",
+    "distractor_2": "A medical device is a device that is used to diagnose a disease or injury.",
+    "distractor_3": "A medical device is a device that is used to treat a disease or injury.",
+    "distractor_4": "A medical device is a device that is used to diagnose a disease or injury.",
+    "distractor_5": "A medical device is a device that is used to treat a disease or injury."
+  }
+}

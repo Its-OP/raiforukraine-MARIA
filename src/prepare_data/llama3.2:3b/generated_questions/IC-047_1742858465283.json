@@ -1,0 +1,41 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-26-B\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=B\n|Title=Know how to diagnose axis anomalies of the lower limbs.\n|Description=Twist disorder, genu valgum and varum\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=26}}\n'''Torsion disorder''' (abnormality of rotation in the transverse axis): excessive internal rotation in young children (\"foot in\" physiological up to 7 years), excessive external rotation in older children. Most often progresses favourably with growth. No orthopaedic treatment. Surgery is exceptional\n\n'''Genu varum''' (anomaly of rotation in the frontal axis): intercondylar spacing, physiological up to 3 years of age\n\n''Genu valgum'' (anomaly of rotation in the frontal axis): intermaleolar spacing, physiological from 3 to 10 years of age, disappears at puberty.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the typical age range for genu valgum (anomaly of rotation in the frontal axis)?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "From birth to 3 years of age",
+        "description": "The first answer option labeled 'A'"
+      },
+      "option_b": {
+        "title": "From 3 to 7 years of age",
+        "description": "The second answer option labeled 'B'"
+      },
+      "option_c": {
+        "title": "From 7 to 10 years of age",
+        "description": "The third answer option labeled 'C'"
+      },
+      "option_d": {
+        "title": "From 10 to puberty",
+        "description": "The fourth answer option labeled 'D'"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "This consists only a letter of the correct option"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

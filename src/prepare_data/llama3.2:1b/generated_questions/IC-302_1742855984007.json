@@ -1,0 +1,22 @@
+{
+  "folder": "IC-302",
+  "content": "{{knowledge objective\n|Identifiant=OIC-302-10-B\n|Item_parent=Cutaneous, epithelial and melanoma tumours\n|Item_parent_short=Cutaneous, epithelial and melanoma tumours\n|Rank=B\n|Title=Knowing the pathophysiology of nevi\n|Description=Tracing the natural history of the cancerisation process in melanoma\n|Rubric=Physiopathology\n|Contributors=\n|Order=10}}\nCommon nevi are present in the majority of individuals.\n\nTheir natural history is as follows:\n\n* Appearance around 4-5 years of age\n* Gradual increase up to age 30\n* Regression after age 60\n\n\nThe risk of a common nevus turning into a melanoma is very low (probability of less than 1 in 100,000).\n\nThe risk of transformation of a small congenital nevus is comparable to that of common nevi.\n\nIn the case of giant congenital nevi, the risk of transformation depends on size (the larger the nevus, the greater the risk), the presence of satellite lesions and median topography.\n\nRepeated microtrauma does not induce the transformation of nevi into melanoma.",
+  "question": {
+    "properties": {
+      "question": "What is the typical age range in which common nevi typically appear?",
+      "option_a": "2-3 years",
+      "option_b": "4-5 years",
+      "option_c": "6-7 years",
+      "option_d": "8-9 years",
+      "correct_option": "4-5 years"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

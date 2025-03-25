@@ -1,0 +1,12 @@
+{
+  "folder": "IC-099",
+  "content": "{{knowledge objective\n|Identifiant=OIC-099-17-B\n|Item_parent=Migraine, trigeminal neuralgia and facial pain\n|Item_parent_short=Migraine, trigeminal neuralgia and facial pain\n|Rank=B\n|Title=From a video interview, evoke the diagnosis of migraine, facial vascular pain, trigeminal neuralgia.\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=17}}\nPlease refer to the CEN website: www.cen-neurologie.fr where videos are available.",
+  "question": {
+    "question": "What is the primary diagnosis that can be inferred from a video interview of a patient presenting with facial pain, considering the characteristics of migraine, facial vascular pain, and trigeminal neuralgia?",
+    "option_a": "Migraine with aura",
+    "option_b": "Trigeminal neuralgia",
+    "option_c": "Facial vascular pain due to sinusitis",
+    "option_d": "Cluster headache",
+    "correct_option": "B"
+  }
+}

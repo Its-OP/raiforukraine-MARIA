@@ -1,0 +1,46 @@
+{
+  "folder": "IC-230",
+  "content": "{{knowledge objective\n|Identifiant=OIC-230-02-A\n|Item_parent=Acute chest pain\n|Item_parent_short=Acute chest pain\n|Rank=A\n|Title=Knowing how to look for vital distress in chest pain\n|Description=Respiratory or haemodynamic distress, disturbances of consciousness\n|Rubric=Identification of the emergency\n|Contributors=Vincent Roule\n|Order=2}}\n\n'''Entitul\u00e9 :''' '''Savoir rechercher une d\u00e9tresse vitale devant une douleur thoracique''''\n\n- '''acute respiratory distress'''\n\n- haemodynamic distress: ''signs of shock\n\n- neurological distress (coma and consciousness disorders)",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Quelle est la d\u00e9tresse vitale \u00e0 rechercher chez un individu pr\u00e9sentant une douleur thoracique ?",
+        "description": "Respiratoire ou ha\u00e9modynamique, ou troubles du sommeil",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Troubles du sommeil",
+        "description": "Troubles du sommeil, comoth\u00e9sie, trouble de la conscience",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Signes de choc",
+        "description": "Signes de choc, trouble de la circulation sanguine, trouble de la respiration",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Troubles respiratoires",
+        "description": "Troubles respiratoires, trouble de la capacit\u00e9 \u00e0 inspirer ou \u00e0 expirer",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Troubles cardiovasculaires",
+        "description": "Troubles cardiovasculaires, trouble de la pression art\u00e9rielle",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "A",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

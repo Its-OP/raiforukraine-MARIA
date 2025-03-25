@@ -1,0 +1,41 @@
+{
+  "folder": "IC-312",
+  "content": "{{knowledge objective\n|Identifiant=OIC-312-01-B\n|Item_parent=Breast tumours\n|Item_parent_short=Breast tumours\n|Rank=B\n|Title=Knowing the epidemiology of breast tumours\n|Description=Knowing the incidence and prevalence of breast cancer in France\n|Rubric=Epidemiology\n|Contributors=\n|Order=1}}\nBreast cancer is the most common cancer in women, both in terms of incidence and mortality. It is the 2nd most common cancer in both sexes combined. Its incidence is increasing as screening becomes more widespread and the population ages. Mortality is falling.\n<br />\n{| class=\"wikitable\"\n|\n* '''In France:'''\n* 1 in 8 to 10 women will develop breast cancer;\n* There are around 58,000 new cases each year;\n* there are around 12,000 deaths per year;\n* The median age at diagnosis is 61;\n* the median age at death is 74.\n|}",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the median age at diagnosis of breast cancer in France?",
+        "description": "Select the correct age",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "40",
+        "description": "The median age at diagnosis of breast cancer in France"
+      },
+      "option_b": {
+        "title": "55",
+        "description": "The median age at diagnosis of breast cancer in France"
+      },
+      "option_c": {
+        "title": "61",
+        "description": "The median age at diagnosis of breast cancer in France"
+      },
+      "option_d": {
+        "title": "70",
+        "description": "The median age at diagnosis of breast cancer in France"
+      },
+      "correct_option": {
+        "title": "C",
+        "description": "The correct letter of the option"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

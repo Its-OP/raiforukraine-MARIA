@@ -1,0 +1,46 @@
+{
+  "folder": "IC-351",
+  "content": "{{knowledge objective\n|Identifiant=OIC-351-07-A\n|Item_parent=Agitation and acute delirium\n|Item_parent_short=Agitation and acute delirium\n|Rank=A\n|Title=Knowing the semiological analysis of a delirious syndrome\n|Description=Theme, mechanism, organisation (systematisation), adherence, repercussions, vigilance\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=7}}\n\n\n=== '''Theme''' ===\nSingle or multiple themes to which the delusional idea relates.\n\nThemes: persecution, megalomania, mysticism, filiation, somatic, erotomania, influence, reference, loss of psychic intimacy, mission, messianic\n\n=== '''Mechanism''' ===\nProcess of constructing the delusional idea. Mechanisms: interpretative, hallucinatory, intuitive and imaginative\n\n=== '''Systematisation''' ===\nOrganisation and coherence of delusional ideas.\n\n* In schizophrenia, the delusions are unsystematised, vague, without logic or a narrative thread.\n* In persistent delusional disorder, delusions are systematised with an apparent logic to the delusion.\n\n=== '''Adhesion''' ===\nThe patient's belief in his delusional ideas, fluctuating and dynamic.\n\n* Total adherence: unshakeable conviction, inaccessible to reasoning.\n* Partial adherence: possible criticism of delusional ideas.\n\n=== '''Emotional and behavioural repercussions''' ===\n\n* Anxiety, anger, sadness\n* risk of self- or hetero-aggression\n* lifestyle changes",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a characteristic of delusional ideas in persistent delusional disorder?",
+        "description": "The organisation and coherence of delusional ideas in persistent delusional disorder",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "They are always vague and lack logic",
+        "description": "A characteristic of delusional ideas in schizophrenia",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "They are systematised with an apparent logic to the delusion",
+        "description": "A characteristic of delusional ideas in persistent delusional disorder",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "They are always accompanied by hallucinations",
+        "description": "A characteristic of delusional ideas in schizophrenia",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "They are always accompanied by anxiety",
+        "description": "A common symptom of delusional disorders",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The correct letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

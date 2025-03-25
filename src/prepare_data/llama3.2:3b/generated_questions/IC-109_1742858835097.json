@@ -1,0 +1,11 @@
+{
+  "folder": "IC-109",
+  "content": "{{knowledge objective\n|Identifiant=OIC-109-08-B\n|Item_parent=Gait and balance disorders\n|Item_parent_short=Gait and balance disorders\n|Rank=B\n|Title=Knowing the etiology of waddling gaits\n|Description=None\n|Rubric=Etiologies\n|Contributors=\n|Order=8}}\nThe waddling gait results from a motor deficit in the muscles of the roots of the lower limbs and the pelvic girdle, and may be associated with hyperlordosis with the pelvis tilted forward and the trunk and head thrown backwards. It is characteristic of myopathic approaches. It may be preceded or associated with myalgias and muscle cramps when the myopathy is metabolic or inflammatory.",
+  "question": {
+    "question": "What is the etiology of a waddling gait?",
+    "option_a": "A deficit in the muscles of the lower limbs and the pelvic girdle, with a possible association with hyperlordosis.",
+    "option_b": "A deficit in the muscles of the upper limbs and the shoulder girdle, with a possible association with kyphosis.",
+    "option_c": "A deficit in the muscles of the trunk and head, with a possible association with myalgias and muscle cramps.",
+    "option_d": "A deficit in the muscles of the roots of the lower limbs and the pelvic girdle, with a possible association with metabolic or inflammatory myopathy."
+  }
+}

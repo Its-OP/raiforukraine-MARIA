@@ -1,0 +1,12 @@
+{
+  "folder": "IC-121",
+  "content": "{{knowledge objective\n|Identifiant=OIC-121-01-A\n|Item_parent=Psychological disability (see items 56 and 118)\n|Item_parent_short=Psychological disability (see item 56 and 118)\n|Rank=A\n|Title=Know the definition of mental disability, know the difference with intellectual disability.\n|Description=Define mental disability, know the difference with intellectual disability\n|Rubric=Definition\n|Contributors=Fabrice Berna,Pierre Vandel\n|Order=1}}\n\nWhen a psychiatric disorder leads to an alteration in cognitive abilities or cognitive biases, and these interfere with social relations or daily activities, we speak of a \"situation of psychic disability\", or for short of \"follow-up consultation and basic treatment for a patient suffering from a chronic psychiatric disorder (excluding depression) SD-269|psychic disability]\".\n\nPsychiatric disability differs from intellectual disability in that it is not present from birth, is progressive and requires medical care.\n\nIntellectual disability: linked to an intellectual impairment\n\nPsychological disability: linked to a psychiatric disorder\n\nThere are three levels of disability\n\n- Impairment: is the consequence of cognitive or motivational impairment\n\n- Activity limitations: these are the consequence of the disability and concern the difficulty of carrying out an activity.\n\n- Restrictions on participation refer to activities or roles that the person is unable to carry out because of their disability, but also because of their environment or society.",
+  "question": {
+    "question": "What is the main difference between psychiatric disability and intellectual disability?",
+    "option_a": "Psychiatric disability is present from birth, whereas intellectual disability is not.",
+    "option_b": "Psychiatric disability is linked to a psychiatric disorder, whereas intellectual disability is linked to an intellectual impairment.",
+    "option_c": "Psychiatric disability is not progressive, whereas intellectual disability is.",
+    "option_d": "Psychiatric disability only affects social relations, whereas intellectual disability affects daily activities and social relations.",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-190",
+  "content": "{{knowledge objective\n|Identifiant=OIC-190-01-A\n|Item_parent=Prolonged fever\n|Item_parent_short=Prolonged fever\n|Rank=A\n|Title=Know the definition of \"classic\" prolonged fever\n|Description=\u226538\u00b0C on several occasions, \u22653 weeks, without diag after appropriate investigations (3 days in hospital or 3 cs)\n|Section=Definition\n|Contributors=\n|Order=1}}\nDefinition of \"classic\" prolonged fever '''([[Hyperthermia/fever SD-044|hyperthermia/fever]])'''''\n\n* Occurrence in a subject with no particular medical condition (non-immunocompromised, not hospitalised)\n* Temperature (taken at rest) \u2265 38.3\u00b0C on several occasions,\n* For \u2265 3 weeks,\n* No cause identified after appropriate investigations carried out during three days in hospital or after three consultations. There is no pre-established, definitive list of these investigations, which vary according to the clinical context of each patient.\n\n\nNote: there is no pre-established, definitive list of appropriate investigations (which vary depending on the patient) before making the diagnosis of prolonged fever.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the definition of 'classic' prolonged fever?",
+        "description": "A prolonged fever is defined as a fever that lasts for more than 3 weeks without a clear cause after appropriate investigations.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "\u2265 38.3\u00b0C on several occasions for more than 2 weeks without any underlying medical condition",
+        "description": "A common misconception about the definition of classic prolonged fever",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "\u2265 38.3\u00b0C on several occasions for more than 3 weeks without a clear cause after appropriate investigations",
+        "description": "The correct definition of classic prolonged fever",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "\u2265 38.3\u00b0C on several occasions for more than 3 weeks with a clear cause after appropriate investigations",
+        "description": "A possible misunderstanding of the definition of classic prolonged fever",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "\u2265 38.3\u00b0C on several occasions for more than 3 weeks with no underlying medical condition",
+        "description": "A plausible but incorrect definition of classic prolonged fever",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The correct letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

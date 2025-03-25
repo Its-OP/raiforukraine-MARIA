@@ -1,0 +1,44 @@
+{
+  "folder": "IC-364",
+  "content": "{{knowledge objective\n|Identifiant=OIC-364-08-B\n|Item_parent=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Item_parent_short=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Rank=B\n|Title=Know the principles of management of fractures in children\n|Description=Know the risks of cast immobilisation\n|Rubric=Management\n|Contributors=\n|Order=8}}\nTo know the therapeutic principles of fractures in children: orthopaedic treatment and its monitoring, surgical treatment and its monitoring. Know that osteosynthesis in children differs from that in adults. Know that the growth plate must be rigorously preserved during osteosynthesis in children. Know that plaster cast immobilisation is well tolerated in children and that it is also used after osteosynthesis. Know that there is no indication for physiotherapy after plaster cast immobilisation for fractures in children.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a key consideration when immobilizing a child's fracture using a plaster cast?",
+        "description": "The management of fractures in children requires special considerations due to their unique anatomy and growth patterns.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "The use of plaster casts is always necessary for all fractures in children.",
+        "description": "A common misconception about plaster cast immobilization in children.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Plaster cast immobilization is well-tolerated and effective for all types of fractures in children.",
+        "description": "A plausible but incorrect option that reflects a common misunderstanding about plaster cast immobilization.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Monitoring of growth and development is not necessary for children with fractures.",
+        "description": "A distractor that reflects a misconception about the importance of monitoring in children's fractures.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "The growth plate must be preserved during osteosynthesis in children to allow for future growth.",
+        "description": "The correct answer that reflects the importance of preserving the growth plate in children's fractures.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "d"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

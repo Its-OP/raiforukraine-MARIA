@@ -1,0 +1,12 @@
+{
+  "folder": "IC-024",
+  "content": "{{knowledge objective\n|Identifiant=OIC-024-19-A\n|Item_parent=Main complications of pregnancy.\n|Item_parent_short=Main complications of pregnancy.\n|Rank=A\n|Title=Knowing the risk factors for the threat of premature birth.\n|Description=None\n|Rubric=Epidemiology\n|Contributors=Paul Berveiller,Philippe Deruelle\n|Order=19}}\n\nNo aetiology is found in almost 60% of cases.\n\nMaternal risk factors\n\n- ''age:'' young < 18 or old > 35\n\n- tobacco, toxic substances\n\n- precariousness, hard work\n\n- Close pregnancies, many dependent children\n\n- psychological disorders (depression, anxiety, maternal stress)\n\n- ''abdominal trauma'', ''metrorrhagia'' in the 2nd<sup>e</sup> or 3rd<sup>e</sup> trimester.\n\n\n'''Infectious causes'''\n\n- urinary tract infections, asymptomatic bacteriuria and vaginal infections\n\n- ''chorioamniotitis (''or endo-uterine infection) and/or rupture of membranes [[Loss of fluid in a pregnant woman before term SD-109]].\n\n'''Any infection can lead to uterine contractions.'''\n\n'''Obstetrical causes'''\n\n- ''history of PA or FCT''.\n\n- Uterine or ovarian causes:''\n\n- by a reduction in the \"competence of the cervix\": cervico-isthmic gap, conisation, short cervix measured by ultrasound during pregnancy\n\n- by a reduction in the \"size of the uterine cavity\": uterine malformation, fibroids, etc.\n\n- increased uterine distension during pregnancy: multiple pregnancies, hydramnios, foetal macrosomia.",
+  "question": {
+    "question": "What is a common cause of premature birth?",
+    "option_a": "Infectious causes, such as urinary tract infections and vaginal infections",
+    "option_b": "Maternal risk factors, including young age and tobacco use",
+    "option_c": "Obstetrical causes, including a history of previous preterm birth or cervical incompetence",
+    "option_d": "Any infection can lead to uterine contractions, regardless of the type of infection",
+    "correct_option": "C"
+  }
+}

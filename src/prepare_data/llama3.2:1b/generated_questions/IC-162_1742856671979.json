@@ -1,0 +1,12 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-04-A\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=A\n|Title=Know the principles of caring for a partner or partners\n|Description=None\n|Heading=Management\n|Contributors=\n|Order=4}}\n- Identify the infected or contaminating partner(s) and propose screening, diagnosis and/or probabilistic treatment;\n\n- Systematically offer :\n\n- HIV serology,\n\n- treponemal test,\n\n- hepatitis B serology\n\n- Urinary or genital PCR for Neisseria gonorrhoeae and Chlamydia trachomatis,\n\n- Pharyngeal and anal PCR according to sexual practices\n\n- Emphasise the risks of recontamination (education).\n\n- Consider PrEP (Pre-Exposure Prophylaxis) type treatment against HIV if you take risks too regularly",
+  "question": {
+    "question": "What is the primary partner to be targeted for sexually transmitted infections (STIs) such as gonococcal, chlamydial, syphilis, human papillomavirus (HPV), and trichomoniasis?",
+    "option_a": "The person who has had sex with the infected partner.",
+    "option_b": "The person who has had sex with the partner who has had sex with the infected partner.",
+    "option_c": "The person who has had sex with the infected partner, but has not had sex with the partner who has had sex with the infected partner.",
+    "option_d": "The person who has had sex with the partner who has had sex with the infected partner.",
+    "correct_option": "option_a"
+  }
+}

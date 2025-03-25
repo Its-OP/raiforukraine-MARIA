@@ -1,0 +1,12 @@
+{
+  "folder": "IC-208",
+  "content": "{{knowledge objective\n|Identifiant=OIC-208-05-A\n|Item_parent=Chronic respiratory failure\n|Item_parent_short=Chronic respiratory failure\n|Rank=A\n|Title=Knowing the functional investigations that can lead to obstructive CKD and restrictive CKD\n|Description=EFR, indications\n|Section=Additional tests\n|Contributors=\n|Order=5}}\n\n\n* Obstructive CKD: spirometry with flow-volume curve (TVO: FEV1/CV<0.7).  Plethysmography may be performed to check for chest distension (CPT>120% of predicted values).\n* Restrictive CKD: plethysmography (CPT<80% of predicted values).\n** Impaired diffusion (TLCO<0.7) is consistent with diffuse infiltrative lung disease.\n** Normal diffusion is consistent with pathology of the ventilatory pump (neuromuscular or skeletal diseases). Other tests may more specifically assess the strength of the respiratory muscles (maximum inspiratory pressure, maximum expiratory pressure).\n* Blood gases are used to confirm the diagnosis, assess the severity of CKD and point to pathology of the pulmonary exchanger (gas shunt effect or increase in the alveolar-arterial difference) or pathology of the ventilatory pump (alveolar hypoventilation).",
+  "question": {
+    "question": "What is a functional investigation used to confirm the diagnosis, assess the severity of Chronic Respiratory Disease (CKD) and point to pathology of the pulmonary exchanger?",
+    "option_a": "Plethysmography",
+    "option_b": "Blood gases",
+    "option_c": "Spirometry with flow-volume curve",
+    "option_d": "Maximum inspiratory pressure",
+    "correct_option": "B"
+  }
+}

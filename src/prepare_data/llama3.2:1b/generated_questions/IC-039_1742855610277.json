@@ -1,0 +1,21 @@
+{
+  "folder": "IC-039",
+  "content": "{{knowledge objective\n|Identifiant=OIC-039-08-A\n|Item_parent=Medical assistance for procreation: the main biological, medical and ethical aspects\n|Item_parent_short=Medical assistance for procreation: the main biological, medical and ethical aspects\n|Rank=A\n|Title=Knowing the main indications for in vitro fertilisation (IVF) with or without intracytoplasmic microinjection (ICSI)\n|Description=None\n|Rubric=Etiologies\n|Contributors=Patricia Fauque,Fabrice Guerif,Charlotte Sonigo,Geoffroy Robin,Pierre-Emmanuel Bouet,St\u00e9phanie Huberlant,Nathalie Rives\n|Order=8}}\n\n'''The main indications for IVF-c are:'''\n\n* Tubal infertility (undisputed indication for c-IVF)\n* Endometriosis\n* Failed IUI or simple induction of ovulation <br />Failed IUI or simple induction of ovulation <br />Failed IUI or simple induction of ovulation <br />Failed IUI or simple induction of ovulation\n\n'''The main indications for ICSI are:'''\n\n* Severe sperm abnormalities\n* Use of sperm extracted surgically (epididymal or testicular) or from urine (in the case of retrograde ejaculation).\n* IVF-c failure\n\n<br />",
+  "question": {
+    "properties": {
+      "question": "What are the main indications for in vitro fertilisation (IVF) with or without intracytoplasmic microinjection (ICSI)?",
+      "option_a": "Tubal infertility",
+      "option_b": "Endometriosis",
+      "option_c": "Failed IUI or simple induction of ovulation",
+      "option_d": "Severe sperm abnormalities",
+      "correct_option": "Failed IUI or simple induction of ovulation",
+      "required": [
+        "question",
+        "option_a",
+        "option_b",
+        "option_c",
+        "option_d"
+      ]
+    }
+  }
+}

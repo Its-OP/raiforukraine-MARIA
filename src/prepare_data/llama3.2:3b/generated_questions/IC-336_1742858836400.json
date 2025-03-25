@@ -1,0 +1,46 @@
+{
+  "folder": "IC-336",
+  "content": "{{knowledge objective\n|Identifiant=OIC-336-04-A\n|Item_parent=Non-traumaticoma in adults and children\n|Item_parent_short=Non-traumatic coma in adults and children\n|Rank=A\n|Title=Know how to carry out a neurological examination of a patient in coma.\n|Description=Be able to interpret the examination of the pupils, a threatening blink; be able to describe the position and movement of the eyeballs.\n|Rubric=Positive diagnosis\n|Contributors=Nicolas Weiss\n|Order=4}}\n\n- Better motor response to nociceptive stimuli\n\n- State of the pupils (photomotor reflex) :\n\no Myosis >> opioid toxidrome\n\no Unilateral mydriasis >> temporal engagement until proven otherwise\n\no Bilateral mydriasis >> tricyclic antidepressant toxidrome or severe neurological impairment\n\n- Eye movements :\n\no The axis of the 2 eyes is parallel overall (slight exophoria in reality). If this parallelism is lost, suggest a lesion of the brain stem (basilar trunk thrombosis +++, brain stem haematoma).\n\no Pendular movements of the eyeballs (slow, regular movements from left to right and right to left) are not localising, often associated with coma of intermediate depth.\n\no Unilateral or bilateral VI paralysis is not localising (length of nerve pathway) >> HTIC",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the significance of the pupils' reaction to light in a patient in coma?",
+        "description": "The patient is in a coma and the pupils are examined. What does the reaction to light indicate?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "The pupils are dilated, indicating opioid toxidrome",
+        "description": "The pupils are dilated, but this is not necessarily indicative of opioid toxidrome",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "The pupils are constricted, indicating opioid toxidrome",
+        "description": "The pupils are constricted, which is a normal response to light",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "The pupils are dilated bilaterally, indicating tricyclic antidepressant toxidrome",
+        "description": "The pupils are dilated bilaterally, but this is not necessarily indicative of tricyclic antidepressant toxidrome",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "The pupils are constricted unilaterally, indicating unilateral mydriasis",
+        "description": "The pupils are constricted unilaterally, which is not a normal response to light",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

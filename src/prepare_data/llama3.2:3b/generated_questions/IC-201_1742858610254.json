@@ -1,0 +1,46 @@
+{
+  "folder": "IC-201",
+  "content": "{{knowledge objective\n|Identifiant=OIC-201-02-A\n|Item_parent=Organ transplants: epidemiological and immunological aspects; principles of treatment and monitoring; complications and prognosis; ethical and legal aspects. Organ procurement and legislation\n|Item_parent_short=Organ transplants: epidemiological and immunological aspects; principles of treatment and monitoring; complications and prognosis; ethical and legal aspects. Organ procurement and legislation\n|Rank=A\n|Title=Know the definition of transplanted tissues and organs\n|Description=None\n|Rubric=Definition\n|Contributors=Dany Anglicheau\n|Order=2}}\n\nThe different organs transplanted are :\n\n*Rein\n*Liver\n*Heart\n*Pancreas\n*Lungs\n*Intestines\n\n\nCell and tissue transplants can involve :\n\n*Haematopoietic stem cells\n*Cornea\n*Amniotic membranes\n*bones, tendons, ligaments, menisci\n*Skin\n*Heart valves, arteries and veins",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What types of tissues and organs can be transplanted?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Only organs like kidneys and livers can be transplanted",
+        "description": "This option is partially correct, but not entirely accurate",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "All of the above (rein, liver, heart, pancreas, lungs, intestines, hematopoietic stem cells, cornea, amniotic membranes, bones, tendons, ligaments, menisci, skin, heart valves, arteries, and veins)",
+        "description": "This option includes all the correct answer choices",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Only tissues like skin and cornea can be transplanted",
+        "description": "This option is partially correct, but not entirely accurate",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Only organs like kidneys and livers can be transplanted in an adult",
+        "description": "This option is partially correct, but not entirely accurate",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

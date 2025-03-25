@@ -1,0 +1,11 @@
+{
+  "folder": "IC-082",
+  "content": "{{knowledge objective\n|Identifiant=OIC-082-13-B\n|Item_parent=Acute visual impairment\n|Item_parent_short=Acute visual impairment\n|Rank=B\n|Title=Photograph of Papilledema\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=13}}\n\n[[File:OP.jpg|left|vignette|Papillary edema of the right eye. In this photo, the papilla appears blurred, in relief, and it is not possible to draw its border. When we say that the papilla is \"sharp-edged\", it is to express the absence of papilloedema.|434x434px]]",
+  "question": {
+    "question": "What is the term for the blurring of the optic disc in the eye, as seen in the photograph?",
+    "option_a": "Papillary edema",
+    "option_b": "Papilloedema",
+    "option_c": "Acute visual impairment",
+    "option_d": "Optic disc swelling"
+  }
+}

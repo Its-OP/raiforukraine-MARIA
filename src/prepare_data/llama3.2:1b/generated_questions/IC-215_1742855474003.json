@@ -1,0 +1,12 @@
+{
+  "folder": "IC-215",
+  "content": "{{knowledge objective\n|Identifiant=OIC-215-04-A\n|Item_parent=Purpuras in adults and children\n|Item_parent_short=Purpuras in adults and children\n|Rank=A\n|Title=Savoir \u00e9voquer le diagnostic de purpura fulminas\n|Description=None\n|Rubric=Identification of the emergency\n|Contributors=\n|Order=4}}\nPurpura fulminans should be suspected when:\n\n- '''Fever ([[Hyperthermia/fever SD-044|hyperthermia/fever]])'''\n\n- Signs of haemodynamic failure ('''[[Discovery of arterial hypotension SD-043|hypotension]]''', mottling, polypnoea, collapse, oligoanuria, etc.).\n\n- Neurological signs (obnubilation, coma, meningeal syndrome). Note that meningeal syndrome may be absent.\n\n- Necrotic and/or ecchymotic and/or extensive purpura (physical examination to be carried out with the patient in underwear).",
+  "question": {
+    "question": "Quel est le principal sympt\u00f4me de la purpura fulminante?",
+    "option_a": "Fever ([[Hyperthermia/fever SD-044|hyperthermia/fever]])",
+    "option_b": "Signes de dysfonctionnement h\u00e9modynamique ([[Discovery of arterial hypotension SD-043|hypotension]]', mottling, polypnoea, collapse, oligoanuria, etc.)",
+    "option_c": "Neurologie (obnubilation, coma, meningeal syndrome)",
+    "option_d": "Necrotic and/or ecchymotique et/ou extr\u00eamement purpuraux (examen physique \u00e0 effectuer avec le patient en sous-v\u00eatements)",
+    "correct_option": "option_a"
+  }
+}

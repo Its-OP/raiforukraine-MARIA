@@ -1,0 +1,12 @@
+{
+  "folder": "IC-267",
+  "content": "{{knowledge objective\n|Identifiant=OIC-267-36-A\n|Item_parent=Disorders of acid-base equilibrium and hydro-electrolytic disorders\n|Item_parent_short=Disorders of acid-base equilibrium and fluid and electrolyte disorders\n|Rank=A\n|Title=Know the main clinical signs associated with hypocalcaemia\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=P. Rieu,B. Moulin,M. Flamant\n|Order=36}}\n\n*they are correlated with the depth of hypocalcaemia and the speed with which it develops\n\n<br />\n\n*Neuromuscular disorders mainly:\n**distal paraesthesias\n**muscle cramps\n**laryngeal spasms\n**tetany\n**seizures\n**Chvostek's and Trousseau's provoked signs\n\n<br />",
+  "question": {
+    "question": "What is the main clinical sign associated with hypocalcaemia?",
+    "option_a": "Muscle cramps",
+    "option_b": "Neuromuscular disorders",
+    "option_c": "Tetany",
+    "option_d": "Seizures",
+    "correct_option": "option_c"
+  }
+}

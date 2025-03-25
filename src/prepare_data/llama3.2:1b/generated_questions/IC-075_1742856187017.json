@@ -1,0 +1,12 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-16-A\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=A\n|Title=Knowing the epidemiology of smoking and the main tobacco-related diseases\n|Description=None\n|Rubric=Epidemiology\n|Contributors=\n|Order=16}}\nRecent trends in smoking :\n\n* In 2017 and again in 2018, the proportion of smokers fell by 12% after several years of stability.\n* 11 million smokers in 2018\n\nThere are many contributing factors, including\n\n* The price has risen sharply,\n* the neutral packet\n* or the \"No Smoking Month\" operation.\n\nDaily and occasional smoking: (among 18-75 year olds in 2018)\n\n* 32% smokers, including 25.4% daily smokers and 6.6% occasional smokers\n\n<br />",
+  "question": {
+    "question": "What is the trend in the number of smokers in the United States in 2018?",
+    "option_a": "The proportion of smokers fell by 10%.",
+    "option_b": "The proportion of smokers increased by 5%.",
+    "option_c": "The proportion of smokers remained stable.",
+    "option_d": "The proportion of smokers increased by 20%.",
+    "correct_option": "option_a"
+  }
+}

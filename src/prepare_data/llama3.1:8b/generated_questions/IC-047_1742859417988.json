@@ -1,0 +1,12 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-33-A\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=A\n|Title=Know the definition of school medicine\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=33}}\nPart of the Ministry of Education\n\nIndividual and collective prevention and health promotion for all schoolchildren\n\nWelcoming and supporting each pupil according to their specific needs, particularly in terms of their physical or mental health: individualised reception plans (PAI) and personalised care plans (PPS)",
+  "question": {
+    "question": "What is the definition of school medicine?",
+    "option_a": "School medicine is a type of medical specialty that deals with the diagnosis and treatment of children's illnesses in a school setting.",
+    "option_b": "School medicine refers to the practice of providing individualized reception plans (PAI) and personalized care plans (PPS) to support pupils with specific needs, particularly in terms of their physical or mental health.",
+    "option_c": "School medicine is a type of health education program that focuses on teaching children about healthy habits and disease prevention.",
+    "option_d": "School medicine is a compulsory health examination that is required for all schoolchildren to ensure they are healthy and fit to attend school.",
+    "correct_option": "B"
+  }
+}

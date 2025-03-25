@@ -1,0 +1,46 @@
+{
+  "folder": "IC-024",
+  "content": "{{knowledge objective\n|Identifiant=OIC-024-05-A\n|Item_parent=Main complications of pregnancy.\n|Item_parent_short=Main complications of pregnancy.\n|Rank=A\n|Title=Know the definition of post partum haemorrhage (PPH)\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=5}}\nThis is a '''haemorrhage >500 mL'' in the 24 hours following childbirth, whether natural or by caesarean section. This haemorrhage is '''severe''' above '''1000mL'''.'''(Cf. [[Abnormal genital bleeding in post-parfum SD-110|110. Abnormal genital bleeding in the post partum]])'''\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the definition of postpartum hemorrhage (PPH)?",
+        "description": "A multiple-choice question about the definition of PPH",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "A haemorrhage of >1000 mL in the 24 hours following childbirth",
+        "description": "Option A describes a haemorrhage above the threshold, but not necessarily severe",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "A haemorrhage of >500 mL in the 24 hours following childbirth, whether natural or by caesarean section",
+        "description": "Option B is the correct definition of PPH",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "A haemorrhage of >2000 mL in the 24 hours following childbirth",
+        "description": "Option C describes a haemorrhage above the threshold, but the severity is not specified",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "A haemorrhage of >1000 mL in the 24 hours following childbirth, with symptoms of shock",
+        "description": "Option D includes symptoms of shock, which are not part of the definition of PPH",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The correct letter of the definition of PPH",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

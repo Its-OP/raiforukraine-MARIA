@@ -1,0 +1,12 @@
+{
+  "folder": "IC-261",
+  "content": "{{knowledge objective\n|Identifiant=OIC-261-01-A\n|Item_parent=Glomerular nephropathy\n|Item_parent_short=Glomerular nephropathy\n|Rank=A\n|Title=Know how to diagnose glomerular nephropathy\n|Description=Know how to identify glomerular proteinuria and haematuria of glomerular origin.\n|Rubric=Positive diagnosis\n|Contributors=Eric Daugas,Bruno Moulin\n|Order=1}}\n\nI. Diagnosing glomerular nephropathy\n\nA. Suggest a glomerular syndrome if one or both of the following signs are present:'''\n\n*[[Proteinuria SD-212|Proteinuria]] glomerular ''':''''\n**detected by dipstick ;\n**confirmed by assay (in g/g creatinine or mg/mmol creatinine or g/24 hours);\n**composed of at least 60% albumin.\n*Haematuria :\n**microscopic (red blood cells > 10/mm3 or 104/ml) +/- deformed red blood cells or red blood cell cylinders;\n**total macroscopic, painless, without clots.\n**Three other signs may be associated:\n*HTA ;\n*Peripheral oedema;\n*acute or chronic renal failure.",
+  "question": {
+    "question": "What are the signs that suggest a glomerular syndrome?",
+    "option_a": "Proteinuria detected by dipstick, confirmed by assay, and composed of less than 60% albumin",
+    "option_b": "Proteinuria detected by dipstick, confirmed by assay, and composed of at least 60% albumin, and haematuria microscopic or total macroscopic, painless",
+    "option_c": "Haematuria microscopic or total macroscopic, painless, and three other signs may be associated: HTA, peripheral oedema, and acute or chronic renal failure",
+    "option_d": "All of the above signs are necessary to suggest a glomerular syndrome",
+    "correct_option": "B"
+  }
+}

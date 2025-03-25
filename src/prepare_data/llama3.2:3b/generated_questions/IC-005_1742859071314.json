@@ -1,0 +1,46 @@
+{
+  "folder": "IC-005",
+  "content": "{{knowledge objective\n|Identifiant=OIC-005-06-A\n|Item_parent=Medical criminal, civil, administrative and disciplinary liability. The management of errors and complaints; therapeutic hazards\n|Item_parent_short=Penal, civil, administrative and disciplinary medical liability. The management of errors and complaints; the therapeutic hazard\n|Rank=A\n|Title=Knowing the definition of no-fault liability\n|Description=None\n|Rubric=Definition\n|Contributors=Bastien Boussat\n|Order=6}}\n\nIn the case of damage related to care but which has occurred without any breach of professional or scientific rules or error, this is known as no-fault liability.\n\nThe legislator has recognised compensation systems for which liability may be incurred on the basis of an event other than proven fault. This is the case with nosocomial infections.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What type of liability is incurred when damage occurs due to a nosocomial infection without any breach of professional or scientific rules or error?",
+        "description": "A medical concept",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Fault-based liability",
+        "description": "A type of liability that requires proof of fault or negligence",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "No-fault liability",
+        "description": "A type of liability that does not require proof of fault or negligence",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Strict liability",
+        "description": "A type of liability that holds the healthcare provider responsible for any damage, regardless of fault or negligence",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Proximate cause liability",
+        "description": "A type of liability that holds the healthcare provider responsible for damage caused by a proximate cause",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The correct letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

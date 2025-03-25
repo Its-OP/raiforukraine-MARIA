@@ -1,0 +1,41 @@
+{
+  "folder": "IC-229",
+  "content": "{{knowledge objective\n|Identifiant=OIC-229-06-B\n|Item_parent=Venous access monitoring and complications\n|Item_parent_short=Venous access monitoring and complications\n|Rank=B\n|Title=Knowing the conditions for inserting a central venous line\n|Description=Link to a video filming and explaining the insertion of a CVV\n|Section=Management\n|Contributors= Philippe Lacroix, Simon Rickenbach\n|Order=6}}\n[https://videotheque.uness.fr/w/2byuuZFUNHTbN2VR81yvZa Know the conditions for inserting a central venous line]",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary condition that must be met before inserting a central venous line?",
+        "description": "Select the correct condition from the options below.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "The patient must be on a ventilator",
+        "description": "A patient on mechanical ventilation may require a central venous line for medication administration or monitoring."
+      },
+      "option_b": {
+        "title": "The patient must have a history of cardiac disease",
+        "description": "Central venous lines are often used in patients with cardiac disease, but this is not a primary condition for insertion."
+      },
+      "option_c": {
+        "title": "The patient must be experiencing severe sepsis",
+        "description": "While central venous lines may be used in septic patients, this is not a primary condition for insertion."
+      },
+      "option_d": {
+        "title": "The patient must be undergoing chemotherapy",
+        "description": "Chemotherapy patients may require central venous lines for medication administration, but this is not a primary condition for insertion."
+      },
+      "correct_option": {
+        "title": "",
+        "description": ""
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

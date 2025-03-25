@@ -1,0 +1,46 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-04-B\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=B\n|Title=Knowing the different Tanner stages\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=4}}\n'''Tanner stages'''\n\nIt is rated from 1 (no sign) to 5 (adult appearance).\n{| class=\"wikitable\"\n| colspan=\"2\" |Girl breast development (S)\n|-\n|S1\n|No breast development\n|-\n|S2\n|Small breast bud with enlarged areola\n|-\n|S3\n|mammary gland extending beyond the surface of the areola\n|-\n|S4\n|Protrusion of areola and nipple over gland, submammary fold\n|-\n|S5\n|Mature appearance\n|-\n| colspan=\"2\" |\n|-\n| colspan=\"2\" |Development of boys' OGE (G)\n|-\n|G1\n|Testicles and penis of infantile size (testicular volume < 4 ml or testicular length < 25 mm)\n|-\n|G2\n|Testicular volume between 4 and 6 mL (or testicular length between 25 and 30 mm)\n|-\n|G3\n|Testicular volume between 8 and 10 mL and growth of the penis\n|-\n|G4\n|Testicular volume between 12 and 15 mL and growth of the penis\n|-\n|G5\n|Adult appearance\n|-\n|colspan=\"2\" |Pubic hairiness (P)\n|-\n|P1\n|No hair\n|-\n|P2\n|Some pubic hair\n|-\n|P3\n|Pubic hair above the symphysis\n|-\n|P4\n|Triangular pubic hair not reaching root of thighs.\n|-\n|P5\n|Adult appearance (triangular in women, diamond-shaped in men, extending to the roots of the thighs).\n|}\n\n\nOGE: external genitalia\n\nDrawings Tanner Girls and Boys",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Tanner Stages",
+        "description": "Identify the correct Tanner stage for adult appearance",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Tanner Stage 1",
+        "description": "No breast development or testicular enlargement",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Tanner Stage 5",
+        "description": "Mature appearance",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Tanner Stage 2",
+        "description": "Small breast bud with enlarged areola",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Tanner Stage 3",
+        "description": "Testicular volume between 8 and 10 mL and growth of the penis",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct letter of the answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-038",
+  "content": "{{knowledge objective\n|Identifiant=OIC-038-01-A\n|Item_parent=Infertility of the couple: conduct of the first consultation\n|Item_parent_short=Infertility of the couple: conduct of the first consultation\n|Rank=A\n|Title=Knowing the definition of a couple's fertility, fecundity and fecundability\n|Description=None\n|Rubric=Definition\n|Contributors=Geoffroy Robin,Charlotte Sonigo,Pierre-Emmanuel Bouet,Patricia Fauque,Fabrice Gu\u00e9rif\n|Order=1}}\n\n== Fertility ==\nFertility is a couple's ability to conceive.\n\nThis is a qualitative concept that can be approximated by quantifiable indicators such as the time taken to conceive or fertility.\n\n== Fertility ==\nFertility is the ability to reproduce, i.e. the ability to conceive and give birth to a living child. Fertility therefore represents reality and a couple is said to be fertile if they have had a child. The ''fertility rate'' is a demographic parameter defined as the ratio of the number of live births in a given year to the total female population of childbearing age (average number of women aged between 15 and 50 over the year).\n\n== Fertility ==\nFertility'' is the probability of a pregnancy occurring in the course of a month or a menstrual cycle in a couple not using contraception.",
+  "question": {
+    "question": "What does the term 'fertility' refer to in the context of a couple?",
+    "option_a": "The ability to conceive and give birth to a living child within a year",
+    "option_b": "The ratio of live births in a given year to the total female population of childbearing age",
+    "option_c": "The probability of a pregnancy occurring in the course of a month or a menstrual cycle",
+    "option_d": "The time taken to conceive or the number of children a couple has had",
+    "correct_option": "C"
+  }
+}

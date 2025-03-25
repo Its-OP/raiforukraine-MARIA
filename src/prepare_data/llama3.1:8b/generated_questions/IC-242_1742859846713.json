@@ -1,0 +1,12 @@
+{
+  "folder": "IC-242",
+  "content": "{{knowledge objective\n|Identifiant=OIC-242-06-A\n|Item_parent=Hyperthyroidism\n|Item_parent_short=Hyperthyroidism\n|Rank=A\n|Title=Knowing how to interpret hormone assays\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Dr Camille Buffet,Dr Magalie Haissaguerre\n|Order=6}}\n\nTSH = [[Reasoned request/prescription and choice of diagnostic test SD-178|first-line test]] :\n\n- Always collapsed in cases of peripheral hyperthyroidism.\n\n- If TSH is low, second-line T4L assay to assess the severity of thyrotoxicosis.\n\n- Determination of T3L, if T4L is normal, to look for T3 hyperthyroidism.\n\nA distinction is made between frust or sub-clinical thyroid disease (with normal peripheral hormones) and frank thyroid disease (with elevated peripheral hormones).",
+  "question": {
+    "question": "What is the role of TSH in diagnosing hyperthyroidism?",
+    "option_a": "TSH is always elevated in cases of peripheral hyperthyroidism.",
+    "option_b": "If TSH is low, a second-line T4L assay is used to assess the severity of thyrotoxicosis.",
+    "option_c": "Determination of T3L is necessary if T4L is normal to look for T3 hyperthyroidism.",
+    "option_d": "TSH is not used in the diagnosis of hyperthyroidism, as it is a first-line test.",
+    "correct_option": "B"
+  }
+}

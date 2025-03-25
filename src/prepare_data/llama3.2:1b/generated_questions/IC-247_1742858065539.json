@@ -1,0 +1,22 @@
+{
+  "folder": "IC-247",
+  "content": "{{knowledge objective\n|Identifiant=OIC-247-11-B\n|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Rank=B\n|Title=Knowing the different types of damage observed in diabetic retinopathy\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=H BIHAN,C BRIET,E FEIGERLOVA,E LARGER,G PREVOST\n|Order=11}}\n\nClassification table :\n{| class=\"wikitable\"\n|'''Classification'''\n|'''Name'''\n|'''Fundus signs'''\n|'''Monitoring rhythm'''\n|-\n| rowspan=\"3\" |'''Non-proliferative RD''''\n\n'''(RDNP)''''\n|RDNP minimal\n|Microaneurysms\n|1-2 years depending on BP, HbA1c\n|-\n|Moderate RDNP\n|Exudates, haemorrhages\n|Annual\n|-\n|Severe RDNP (pre-proliferative)\n|Venous changes, extensive haemorrhage\n|3-4 months\n|-\n| rowspan=\"4\" |'''proliferative RD''''\n\n'''(RDP)''''\n|RDP minimal\n| rowspan=\"3\" |Neo-vessels\n| rowspan=\"4\" |3 months\n\n\n\n2-3 months\n|-\n|RDP moderate\n|-\n|Severe PDR\n|-\n|Complicated PDR\n|Intravitreal haemorrhage\n\nRetinal detachment\n\nNeovascular glaucoma\n|}\nRisk of progression at 5 years: 15% for minimal RDNP, 33% if moderate, and 60% if severe.\n\nDiabetic maculopathy'' includes: Exudates, cystoid or non-cystoid macular oedema, ischaemic maculopathy, etc.\n\n\n\n\n\n<br />",
+  "question": {
+    "properties": {
+      "question": "What is the primary risk factor for diabetic retinopathy?",
+      "option_a": "High blood pressure",
+      "option_b": "Smoking",
+      "option_c": "Diabetes duration",
+      "option_d": "Age",
+      "correct_option": "option_a"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d"
+    ],
+    "type": "string"
+  }
+}

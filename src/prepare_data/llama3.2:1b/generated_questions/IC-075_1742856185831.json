@@ -1,0 +1,12 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-12-A\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=A\n|Title=Know the order of magnitude of the number of tobacco-related cancer cases\n|Description=Know\n|Rubric=Epidemiology\n|Contributors=\n|Order=12}}\n\n\n* There is no threshold below which smoking represents no risk.\n* The duration of intoxication is the most important risk factor\n** doubling the dose => cancer risk x 2\n** doubling the duration => cancer risk x 23)\n* Tobacco responsible for 25% of all cancers\n** 80% of deaths from bronchopulmonary cancers are linked to smoking\n* Other tobacco-related cancers\n** upper aerodigestive tract\n** pancreas\n** kidney\n** bladder\n* Passive smoking increases the relative risk of bronchopulmonary cancer by 26%.",
+  "question": {
+    "question": "What is the order of magnitude of the number of tobacco-related cancer cases?",
+    "option_a": "1",
+    "option_b": "2",
+    "option_c": "3",
+    "option_d": "4",
+    "correct_option": "3"
+  }
+}

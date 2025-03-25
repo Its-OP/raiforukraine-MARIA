@@ -1,0 +1,46 @@
+{
+  "folder": "IC-201",
+  "content": "{{knowledge objective\n|Identifiant=OIC-201-08-B\n|Item_parent=Organ transplants: epidemiological and immunological aspects; principles of treatment and monitoring; complications and prognosis; ethical and legal aspects. Organ procurement and legislation\n|Item_parent_short=Organ transplants: epidemiological and immunological aspects; principles of treatment and monitoring; complications and prognosis; ethical and legal aspects. Organ procurement and legislation\n|Rank=B\n|Title=Know the main classes of immunosuppressive drugs used in organ transplantation.\n|Description=None\n|Rubric=Management\n|Contributors=Dany Anglicheau\n|Order=8}}\n\nImmunosuppression is intended to :\n\n*Prevent acute rejection in the initial phase (induction treatment);\n*prevent rejection after the initial phase (maintenance treatment);\n*treat acute rejection (curative treatment).\n\n\nInduction treatment :\n\n*It allows strong immunosuppression to be introduced during the first few days of transplantation, when the risk of rejection is highest.\n*The molecules used are polyclonal antibodies that deplete T lymphocytes or a non-depleting monoclonal antibody.\n\n\nMaintenance treatment :\n\n*The aim is to prevent the occurrence of an acute rejection episode in the long term, with the least possible iatrogenicity.\n*Maintenance treatment usually involves a combination of 2 or 3 immunosuppressive agents from different families (Table 2).\n\nImmunosuppressive treatment increases the risk of infectious and tumour complications, warranting [[Follow-up of immunosuppressed patients SD-291|suu suivi sp\u00e9cialis\u00e9]].\n\n\nTable 2: Main classes of immunosuppressants targeting T lymphocytes\n{| class=\"wikitable\"\n|Mechanisms of action\n|Therapeutic class\n|Molecules\n|-\n|Depletion of circulating T lymphocytes\n|Anti-lymphocyte antibodies\n|Anti-lymphocyte polyclonal antibodies\n|-\n| rowspan=\"2\" |Inhibitors of lymphocyte activation (signal 1 and signal 2)\n|Inhibitors of T-receptor engagement signal 1\n|Calcineurin inhibitors (ciclosporin and tacrolimus)\n|-\n|Signal 2 inhibitors (inhibition of costimulation)\n|Belatacept\n|-\n|Inhibitors of lymphocyte proliferation (signal 3)\n|by inhibiting the action of IL-2 on its receptor\n|Antibodies directed against the CD25 chain of the IL-2 receptor (basiliximab)\n|-\n|inhibition of cell proliferation\n|mTOR inhibitors (sirolimus, everolimus)\n|-\n|Purine base inhibition\n|Azathioprine\n\nMycophenolic acid\n|-\n|Anti-inflammatory and immunosuppressant\n|Corticosteroids\n|Prescribing systemic or local corticosteroids SD-251|Corticosteroids\n|}",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary purpose of induction treatment in organ transplantation?",
+        "description": "A question about the purpose of induction treatment in organ transplantation",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To prevent acute rejection in the long term",
+        "description": "A plausible but incorrect option that could confuse the respondent",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "To treat acute rejection (curative treatment)",
+        "description": "A plausible but incorrect option that could confuse the respondent",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "To prevent acute rejection in the initial phase (induction treatment)",
+        "description": "The correct answer",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "To prevent chronic rejection",
+        "description": "A distractor that is not mentioned in the provided text",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

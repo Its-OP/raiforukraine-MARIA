@@ -1,0 +1,12 @@
+{
+  "folder": "IC-325",
+  "content": "{{knowledge objective\n|Identifiant=OIC-325-10-A\n|Item_parent=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medicinal errors (see items 4 and 5)\n|Item_parent_short=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medication errors (see items 4 and 5)\n|Rank=A\n|Title=Know how to report an adverse reaction suspected to be due to a medicinal product.\n|Description=Know how to report an adverse drug reaction suspected of being due to a medicinal product (what to report, to whom, by whom, how).\n|Rubric=Definition\n|Contributors=Marie Briet\n|Order=10}}\n\n\n== Report an adverse reaction suspected to be drug-related ==\n\n== Who reports?\nHealthcare professionals (mandatory reporting of adverse drug reactions, particularly serious and/or unexpected reactions)\n\nCompanies or organisations exploiting medicinal products\n\nPatients and approved patient associations\n\n== What?\nAdverse reactions suspected to be due to a medicinal product or one of the products mentioned above, including overdose, abuse and medication errors.\n\n== How?\nReport via the adverse health events reporting portal: <nowiki>https://signalement.social-sante.gouv.fr</nowiki>\n\nCerfa form sent to the Regional Pharmacovigilance Centre in the area <nowiki>https://www.service-public.fr/particuliers/vosdroits/R14404</nowiki>",
+  "question": {
+    "question": "What is the primary responsibility of a healthcare professional when reporting an adverse reaction suspected to be drug-related?",
+    "option_a": "To inform the manufacturer of the medicinal product",
+    "option_b": "To report the adverse reaction to the patient's doctor or pharmacist",
+    "option_c": "To notify the authorities responsible for regulating medicinal products",
+    "option_d": "To report the adverse reaction to the patient themselves",
+    "correct_option": "option_c"
+  }
+}

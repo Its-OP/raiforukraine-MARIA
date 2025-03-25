@@ -1,0 +1,12 @@
+{
+  "folder": "IC-039",
+  "content": "{{knowledge objective\n|Identifiant=OIC-039-02-A\n|Item_parent=Medical assistance for procreation: the main biological, medical and ethical aspects\n|Item_parent_short=Medical assistance in procreation: the main biological, medical and ethical aspects\n|Rank=A\n|Title=Knowing the definition of female and male fertility preservation (child, adolescent, adult)\n|Description=None\n|Rubric=Definition\n|Contributors=Patricia Fauque,Fabrice Guerif,Charlotte Sonigo,Geoffroy Robin,Pierre-Emmanuel Bouet,St\u00e9phanie Huberlant,Nathalie Rives\n|Order=2}}\n\nFertility preservation refers to the clinical and biological practices that enable any ''person whose medical care is likely to impair fertility, or whose fertility is in danger of being prematurely impaired, to benefit from the collection and preservation of his gametes or germ tissue,'' with a view to the subsequent provision, for his benefit, of medically assisted procreation, or with a view to the preservation and restoration of his fertility.\n\nSince the Bioethics Act of 2021, it has been possible to have a gamete frozen to preserve fertility, in the absence of a medical indication.\n\n<br />",
+  "question": {
+    "question": "What does fertility preservation refer to?",
+    "option_a": "The process of artificially inseminating a woman with a man's sperm",
+    "option_b": "The clinical and biological practices that enable individuals to benefit from the collection and preservation of their gametes or germ tissue",
+    "option_c": "The use of assisted reproductive technologies to select the sex of a child",
+    "option_d": "The freezing of eggs or sperm for future use without medical indication",
+    "correct_option": "B"
+  }
+}

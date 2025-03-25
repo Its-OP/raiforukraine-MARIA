@@ -1,0 +1,12 @@
+{
+  "folder": "IC-076",
+  "content": "{{knowledge objective\n|Identifiant=OIC-076-19-B\n|Item_parent=Alcohol dependence\n|Item_parent_short=Alcohol dependence\n|Rank=B\n|Title=Knowing the existence of self-help groups and addiction treatment structures\n|Description=None\n|Rubric=Taking charge\n|Contributors=\n|Order=19}}\n'''Self-help groups''' = patient associations (based on the \"peer-help\" principle)\n\n- value mutual support\n\n- facilitate social links, both inside and outside the group.\n\nMain objective: to combat isolation.\n\n\n'''Addiction treatment structures:''''\n\n* Prevention teams:\n\no schoolchildren and students;\n\no party environments and vulnerable populations through risk and harm reduction ;\n\no companies through training for intermediaries.\n\n* Outpatient teams\n\no CSAPA (Centre de soins, d'accompagnement et de pr\u00e9vention en addictologie - addiction care, support and prevention centre): multi-disciplinary teams open to anyone experiencing difficulties with their drug use or behavioural addictions, as well as their families.\n\no CAARUD (reception and support centres for harm reduction for drug users) welcome anyone with problems using illicit substances who is not yet in care.\n\no CJCs (consultations jeunes consommateurs - young consumer clinics) are aimed at minors and young adults with difficulties linked to substance abuse or substance-free behaviour.\n\no hospital addictology consultations ;\n\n* Inpatient teams :\n\no Hospital addiction care and liaison teams (ELSA) ;\n\no simple withdrawal beds, complex withdrawal beds (i.e. offering adapted therapeutic activities)\n\no day hospitals. \n\no addictology follow-up and rehabilitation care (SSRA): post-hospitalisation facilities that keep patients in hospital for longer periods with adapted therapeutic activities",
+  "question": {
+    "question": "What is the primary goal of addiction treatment structures?",
+    "option_a": "To provide immediate support and care for individuals with severe addiction",
+    "option_b": "To offer a range of services, including outpatient and inpatient care, to support individuals with addiction",
+    "option_c": "To provide a comprehensive approach to addiction treatment, including prevention and harm reduction strategies",
+    "option_d": "To focus solely on providing medication-assisted treatment for individuals with opioid use disorder",
+    "correct_option": "option_c"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-086",
+  "content": "{{knowledge objective\n|Identifiant=OIC-086-05-A\n|Item_parent=Eyelid pathology\n|Item_parent_short=Eyelid pathology\n|Rank=A\n|Title=Recognising a chalazion\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=5}}\n'''Chalazion='''' inflammatory granuloma developed on an engorged meibomian gland within the tarsus, by occlusion of the gland orifice at the posterior part of the free edge.\n\nMost of the time, there is no infection and the secretions contained in the chalazion are purely sebaceous. It may present clinically as a painful swelling of the eyelid, with no communication with the free margin.\n\nDepending on the case, the swelling is more visible on the conjunctival or cutaneous side of the eyelid. It may last longer than a stye, up to several weeks.",
+  "question": {
+    "question": "What is the typical presentation of a chalazion?",
+    "option_a": "A chalazion is a benign growth of the meibomian gland that typically presents as a painful swelling of the eyelid, with no infection.",
+    "option_b": "A chalazion is a type of acne that is usually caused by a bacterial infection.",
+    "option_c": "A chalazion is a type of non-cancerous growth that can be treated with minor surgical removal.",
+    "option_d": "A chalazion is a type of inflammatory granuloma that occurs in the eyelid.",
+    "correct_option": "A chalazion is a benign growth of the meibomian gland that typically presents as a painful swelling of the eyelid, with no infection."
+  }
+}

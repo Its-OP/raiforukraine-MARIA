@@ -1,0 +1,12 @@
+{
+  "folder": "IC-188",
+  "content": "{{knowledge objective\n|Identifiant=OIC-188-01-A\n|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Rank=A\n|Intitle=Know the definition of asthma and allergic rhinitis (in adults and children, according to age in children)\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=1}}\n'''Asthma'''\n\n*Chronic inflammatory disease leading to changes in the structure of the lower airways associating :\n**respiratory symptoms varying in time and intensity ([[Dyspnoea SD-162|dyspnoea]], [[Chest auscultation abnormalities SD-020|whistling]], chest tightness and/or [[Cough SD-167|cough]])\n**AND lower airway obstruction that varies over time and/or is totally or partially reversible with rapid-acting bronchodilators.\n\n'''Allergic rhinitis:''''\n\nChronic inflammatory disease of the upper airways defined by the presence of \"PAREO\" symptoms (Pruritus, Anosmia, Rhinorrhoea, Sneezing, Nasal obstruction). Allergic rhinitis (AR) is the clinical expression of rhinitis and an immuno-allergic finding (IgE-dependent inflammation that can be linked to allergen exposure).",
+  "question": {
+    "question": "What is the primary characteristic of asthma?",
+    "option_a": "A chronic inflammatory disease of the upper airways",
+    "option_b": "A chronic inflammatory disease of the lower airways leading to changes in the structure of the airways",
+    "option_c": "A condition characterized by the presence of 'PAREO' symptoms",
+    "option_d": "A disease that is only reversible with medication",
+    "correct_option": "B"
+  }
+}

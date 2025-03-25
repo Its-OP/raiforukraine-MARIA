@@ -1,0 +1,12 @@
+{
+  "folder": "IC-156",
+  "content": "{{knowledge objective\n|Identifiant=OIC-156-09-A\n|Item_parent=Infections in the bones and joints (IOA) of children and adults\n|Item_parent_short=Infections osteo articulaires (IOA) de l'enfant et de l'adulte\n|Rank=A\n|Title=Identifying septic arthritis (= therapeutic emergency)\n|Description=None\n|Rubric=Identifying the emergency\n|Contributors=Dr Florent Valour\n|Order=9}}\nUrgent hospital management to limit the risk of complications",
+  "question": {
+    "question": "What is the first step in managing a patient with suspected septic arthritis?",
+    "option_a": "Administer antibiotics immediately.",
+    "option_b": "Perform an X-ray to confirm the diagnosis.",
+    "option_c": "Apply ice to reduce pain and inflammation.",
+    "option_d": "Wait for the patient to recover on their own before seeking medical attention.",
+    "correct_option": "option_a"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "folder": "IC-299",
+  "content": "{{knowledge objective\n|Identifiant=OIC-299-01-A\n|Item_parent=Intracranial tumours\n|Item_parent_short=Intra-cranial tumours\n|Rank=A\n|Title=Know the main types and locations of intracranial tumours\n|Description=Know how to distinguish: primary/secondary tumour, of the brain/adnexa, benign/malignant, fractal/rare, above or below the tentorial.\n|Rubric=Definition\n|Contributors=Dr Thi\u00e9baud PICART (Hospices Civils de Lyon),Dr Pierre ANTH\u00c9RIEU (Toulouse University Hospital),Pr Fran\u00e7ois VASSAL (Saint-Etienne University Hospital)\n|Order=1}}\n\n- Primary tumour: arising from intracranial tissue\n\n- Secondary tumour = metastasis: resulting from intracranial dissemination of a tumour originating in another organ/system.\n\n\n- Intra-parenchymal tumour: developed within the brain itself\n\n- Extra-parenchymal tumour: developed from the appendages of the brain, i.e. the meninges and cranial nerves.\n\n \n\n\n\n\u00a0\n\n- Benign'' tumour: generally well circumscribed, slow-growing and with a good prognosis (e.g. meningioma).\n\n- Malignant tumour = cancer: rapidly progressive and with a poorer prognosis (e.g. glioblastoma)\n\n==Topography:==\n\n*Supra tentorial = \"above the cerebellum tentum\" (about 80% of cases in adults)\n*'''Infra tentorial =''''below the cerebellum tentum'' (about 20% of cases in adults)\n*The distribution of the different histological types is not homogeneous within these two groups +++.\n\n==Most frequent histological varieties, in descending order:==\n\n*Metastases\n*Gliomas (8 new cases/100,000 population/year)\n*Meningiomas (5 new cases / 100,000 inhabitants / year)\n*Pituitary adenomas (5 new cases/100,000 population/year)",
+  "question": {
+    "question": "What type of tumour is a meningioma?",
+    "option_a": "A primary tumour arising from the meninges",
+    "option_b": "A secondary tumour resulting from the dissemination of a tumour from another organ",
+    "option_c": "A benign tumour that is generally well-circumscribed and slow-growing",
+    "option_d": "A malignant tumour that rapidly progresses and has a poorer prognosis"
+  }
+}

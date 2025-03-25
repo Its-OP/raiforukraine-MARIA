@@ -1,0 +1,12 @@
+{
+  "folder": "IC-074",
+  "content": "{{knowledge objective\n|Identifiant=OIC-074-26-B\n|Item_parent=Prescription and monitoring of psychotropic drugs (see item 330)\n|Item_parent_short=Prescription and monitoring of psychotropic drugs (see item 330)\n|Rank=B\n|Intitle=Psychostimulants: knowing the frequent or serious adverse effects, main drug interactions\n|Description=None\n|Heading=Management\n|Contributors=\n|Order=26}}\n\n{| class=\"wikitable\"\n|+\n|'''Treatment'''\n|'''Methylphenidate''''\n|'''Modafinil''''\n|-\n|'''Main AMIs'''\n|Tricyclic antidepressants\n\nVolatile anaesthetics\n\nVasopressor agents\n|Inactivation by modafinil :\n\n* oral contraceptives\n* ciclosporin\n|-\n|'''Main AEs''''\n|Neurological and psychological\n\n* Headaches\n* Tics\n* Anxiety, nervousness\n* Sadness of mood\n* Insomnia\n* Psychotic symptoms\n\n'''Digestive'''\n\n* Nausea\n* Anorexia (weight loss)\n* Abdominal pain\n\nCardiovascular\n\n* Tachycardia\n* Palpitations\n* Arterial hypertension\n* Arteritis, Raynaud's phenomenon\n\nMusculoskeletal\n\n* Possible slowing of weight and height\n* Cramps, trismus\n* Arthralgia\n\n'''Haematological'''\n\n* Cytopenias\n\n'''Allergies'''\n\n* Anaphylactic reaction\n\n'''Misuse''''\n|Neurological and psychological''\n\n* Headaches\n* Nervousness\n* Insomnia\n* Confusion\n* Dyskinesias\n* Visual disturbances\n\n'''Digestive'''\n\n* Nausea\n* Anorexia\n* Dry mouth\n\nCardiovascular\n\n* Tachycardia\n* Palpitations\n* Hypertension\n* Hypotension\n* (also possible)\n\nMusculoskeletal\n\n* Myalgias\n\n'''Haematological'''\n\n* Eosinophilia\n\n'''Allergies'''\n\n* Urticaria or angioedema\n\n'''Misuse''''\n<br />\n|-\n| colspan=\"3\" |IAM: drug interactions; AE adverse reactions\n|}",
+  "question": {
+    "question": "What is a potential serious adverse effect of methylphenidate?",
+    "option_a": "Nausea and anorexia",
+    "option_b": "Psychotic symptoms and tachycardia",
+    "option_c": "Eosinophilia and urticaria",
+    "option_d": "Arteritis and Raynaud's phenomenon",
+    "correct_option": "B"
+  }
+}

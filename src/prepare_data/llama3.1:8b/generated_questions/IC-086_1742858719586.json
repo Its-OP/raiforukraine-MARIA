@@ -1,0 +1,12 @@
+{
+  "folder": "IC-086",
+  "content": "{{knowledge objective\n|Identifiant=OIC-086-04-A\n|Item_parent=Eyelid pathology\n|Item_parent_short=Eyelid pathology\n|Rank=A\n|Title=Knowing the main causes of ptosis\n|Description=None\n|Rubric=Etiologies\n|Contributors=\n|Order=4}}\nPtosis can be :\n\n*neurogenic'' by paralysis of the III, or by paralysis of the cervical sympathetic (Claude-Bernard-Horner syndrome: association of ptosis-myosis-enophthalmos).\n*myogenic'' due to damage to the levator muscle of the upper eyelid: myasthenia, congenital ptosis.\n*senile'' due to relaxation of the levator aponeurosis.\n*traumatic'' due to rupture of the levator aponeurosis",
+  "question": {
+    "question": "What are the main causes of ptosis?",
+    "option_a": "Injury to the eyelid",
+    "option_b": "Damage to the levator muscle of the upper eyelid",
+    "option_c": "Congenital conditions",
+    "option_d": "Aging and relaxation of the levator aponeurosis",
+    "correct_option": "B"
+  }
+}

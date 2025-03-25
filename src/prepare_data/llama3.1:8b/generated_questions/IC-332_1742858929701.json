@@ -1,0 +1,12 @@
+{
+  "folder": "IC-332",
+  "content": "{{knowledge objective\n|Identifiant=OIC-332-01-A\n|Item_parent=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.\n|Item_parent_short=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.\n|Rank=A\n|Title=Know the definition of shock\n|Description=Know the definition of shock\n|Rubric=Definition\n|Contributors=Julien Poissy\n|Order=1}}\n\nPhysiopathological definition\n\n- Circulatory insufficiency\n\n- At the root of a mismatch between oxygen requirements and supply\n\n- Leading to cellular energy suffering as a result of oxygen debt\n\n- Responsible for organ failure\n\nDiagnosis\n\nThis is a clinical diagnosis based on\n\nA/ Arterial hypotension\n\n- PAS<90 mmHg or MAP<65 mmHg or variation of more than 30% compared with the patient's usual figures.\n\nReactive tachycardia is usually present.\n\nB/ Clinical signs of peripheral hypoperfusion\n\n- Polypnoea > 22 cycles/min\n\n- Mottling\n\n- Longer skin recolouring time\n\n- Confusion\n\n- Oliguria\n\nLactataemia >2mmol/L is a major biological sign, included in the definition of septic shock.",
+  "question": {
+    "question": "What is the definition of shock?",
+    "option_a": "Circulatory insufficiency leading to organ failure due to inadequate oxygen supply",
+    "option_b": "A state of cellular energy suffering due to oxygen debt, leading to organ failure",
+    "option_c": "A mismatch between oxygen requirements and supply, resulting in circulatory insufficiency and organ failure",
+    "option_d": "A clinical diagnosis based on arterial hypotension and clinical signs of peripheral hypoperfusion",
+    "correct_option": "C"
+  }
+}

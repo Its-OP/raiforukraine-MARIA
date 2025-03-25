@@ -1,0 +1,12 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-23-B\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=B\n|Title=Congenital hip dislocation: knowing the clinical forms\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=23}}\nCongenital dislocation of the hip or luxating hip disease is an abnormality in the development of the hip which manifests itself by instability of the hip (abnormal mobility between the pelvis and the femur). Constitution in utero (end of pregnancy)\n\nLuxated hip\n\nHip Luxable\n\nSubluxation",
+  "question": {
+    "question": "What is an abnormality in the development of the hip that manifests itself by instability of the hip?",
+    "option_a": "Congenital dislocation of the hip or luxating hip disease",
+    "option_b": "Developmental dysplasia of the hip",
+    "option_c": "Hip subluxation",
+    "option_d": "Luxating hip disease",
+    "correct_option": "A"
+  }
+}

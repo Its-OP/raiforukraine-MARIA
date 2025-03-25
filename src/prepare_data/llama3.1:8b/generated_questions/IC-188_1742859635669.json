@@ -1,0 +1,12 @@
+{
+  "folder": "IC-188",
+  "content": "{{knowledge objective\n|Identifiant=OIC-188-08-A\n|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Rank=A\n|Title=Knowing how to assess asthma control\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=8}}\nAsthma is controlled if :\n\no asthma symptoms are under control (assessed by questioning over the last 4 weeks using the ACT (asthma control test) questionnaire)\n\no exacerbations are rare: < 2 courses of systemic corticosteroid therapy in the previous year\n\no no bronchial obstruction: FEV1/FVC > 0.7 and FEV1 \u2265 80%.",
+  "question": {
+    "question": "What is a key indicator of controlled asthma?",
+    "option_a": "Less than 2 courses of systemic corticosteroid therapy in the previous year, but FEV1/FVC ratio is less than 0.7",
+    "option_b": "Asthma symptoms are under control over the last 4 weeks, as assessed by the ACT questionnaire, but FEV1 is less than 80%",
+    "option_c": "Asthma symptoms are under control over the last 4 weeks, as assessed by the ACT questionnaire, and exacerbations are rare, with less than 2 courses of systemic corticosteroid therapy in the previous year, and FEV1/FVC ratio is greater than 0.7 and FEV1 is greater than or equal to 80%",
+    "option_d": "Asthma symptoms are under control over the last 4 weeks, as assessed by the ACT questionnaire, but the FEV1/FVC ratio is greater than 0.7 and FEV1 is greater than or equal to 80%, but exacerbations are frequent",
+    "correct_option": "C"
+  }
+}

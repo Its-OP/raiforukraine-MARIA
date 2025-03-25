@@ -1,0 +1,43 @@
+{
+  "folder": "IC-161",
+  "content": "{{knowledge objective\n|Identifiant=OIC-161-05-A\n|Item_parent=Urinary infections in children and adults\n|Item_parent_short=Urinary infections in children and adults\n|Rank=A\n|Title=Knowing the principles of performing and interpreting urine dipstick tests\n|Description=None\n|Rubric=Complementary examinations\n|Contributors=Maxime Vall\u00e9e, Alice Faure\n|Order=5}}\n\n\n*This is an ''orientation'' test and has no definitive diagnostic value. A BU is not intended to formally confirm or rule out a UTI; the clinic takes precedence!\n*It should only be carried out in patients with suspected community-acquired UTI. In the case of a UTI associated with care or the use of indwelling endo-urinary equipment, the BU is of no value and should not be carried out.'''\n*Check the expiry date of the BU.\n*Check that the patient is not taking any medication that could interfere with the BU reagents (certain antibiotics, vitamin C, phenazopyridine).\n*Check that the patient's diet provides an adequate supply of nitrates.\n\n<br />\n\n*Leukocyturia, haematuria or the presence of nitrites may point to a UTI, depending on the clinical context.\n**Leukocyturia and haematuria are almost systematic in the presence of endo-urinary material, which is why the BU is not used in these cases.\n**The presence of nitrites requires the presence of nitrates (supplied by the diet) and bacteria carrying a nitrate reductase (enterobacteria) which breaks down nitrates into nitrites.\n\n== It is important to remember that the PPV and NPV of a diagnostic test are dependent on the prevalence of the disease. In studies, the BU has been widely misused and should be used and interpreted as follows: ==\n\n*In the case of a symptomatic patient (male or female), the PPV is excellent (but in the end the BU merely confirms what a clinical examination has already diagnosed). '''The NPV in this case has no value and should not be used to rule out the diagnosis of UTI'''\n**'''In the case of an asymptomatic patient'' (male or female), it is the NPV that is excellent (but the BU merely confirms what was already known, since the patient is symptom-free).\n**Its value is therefore extremely limited and its interpretation must be made with great care.\n\n<br />\n\n*Similarly, populations (diabetics, elderly patients, etc.) at risk of urinary colonisation (or asymptomatic bacteriuria) will frequently have a positive BU, which should not point to a UTI unless the clinical context is suggestive.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the correct interpretation of the results of a urine dipstick test (BU) for a patient with suspected community-acquired urinary tract infection (UTI)?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "The BU confirms the diagnosis of UTI in symptomatic patients and has excellent positive predictive value (PPV)",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "The NPV of the BU is excellent in asymptomatic patients and should be used to rule out the diagnosis of UTI",
+        "description": "The second answer option labeled 'B'"
+      },
+      "option_c": {
+        "title": "The BU is of no value in patients with suspected UTI and should not be performed",
+        "description": "The third answer option labeled 'C'"
+      },
+      "option_d": {
+        "title": "The BU confirms the diagnosis of UTI in asymptomatic patients and has excellent negative predictive value (NPV)",
+        "description": "The fourth answer option labeled 'D'"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

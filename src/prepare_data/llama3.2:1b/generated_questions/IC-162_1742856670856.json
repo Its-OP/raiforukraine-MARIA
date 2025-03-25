@@ -1,0 +1,12 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-28-A\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=A\n|Title=Know how to treat primary syphilis\n|Description=None\n|Heading=Management\n|Contributors=\n|Order=28}}\nEarly syphilis: Benzathine penicillin G single dose IM 2.4 million units\n\n- If penicillin allergy: doxycycline 14 days\n\n- Herxheimer reaction: possible for primary or secondary syphilis, lysis of treponemes\n\n\nHIV+ patient (primary or secondary syphilis) : Benzathine penicillin G single dose IM 2.4 million units",
+  "question": {
+    "question": "What is the recommended treatment for primary syphilis?",
+    "option_a": "Benzathine penicillin G single dose IM 2.4 million units",
+    "option_b": "Doxycycline 14 days",
+    "option_c": "Herpes zoster vaccine",
+    "option_d": "Zinc oxide cream",
+    "correct_option": "option_a"
+  }
+}

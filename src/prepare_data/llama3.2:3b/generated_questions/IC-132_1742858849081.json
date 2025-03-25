@@ -1,0 +1,46 @@
+{
+  "folder": "IC-132",
+  "content": "{{knowledge objective\n|Identifiant=OIC-132-01-A\n|Item_parent=Cognitive disorders in the elderly. (see item 108)\n|Item_parent_short=Cognitive disorders in the elderly. (see item 108)\n|Rank=A\n|Title=Know the definition of a neuro-cognitive disorder.\n|Description=DSM 5 definition\n|Rubric=Definition\n|Contributors=\n|Order=1}}\n'''The DSM-5 definition distinguishes between minor (mild) and major neuro-cognitive disorders according to their impact on the patient's functional independence.'''\n\n'''Minor cognitive impairment'''\n\nA. Presence of moderate cognitive decline from a previous level of performance in one or more domains of cognition (complex attention, executive functions, learning and memory, language, perceptual-motor or social cognition) based on :\n\nB. ''Cognitive deficits do not interfere with autonomy in daily life'' (i.e. instrumental activities of daily living (IADLs) such as paying bills or taking medication are preserved, but require greater effort, compensatory strategies or adjustment).\n\nC. Cognitive deficits do not only occur in the context of delirium (confusional syndrome in French terminology).\n\nD. Cognitive deficits are not better explained by another mental disorder (e.g. major depressive episode, schizophrenia).\n\n\n'''Major neurocognitive disorder'''\n\nA. Presence of significant cognitive decline from a previous level of performance in one or more domains of cognition (complex attention, executive functions, learning and memory, language, perceptual-motor or social cognition) based on :\n\nB. ''Cognitive decline affects autonomy'' in daily activities (i.e. requires at least assistance with complex instrumental activities such as paying bills or managing medication).\n\nC. Cognitive deficits do not only occur in the context of delirium (confusional syndrome in French terminology).\n\nD. Cognitive deficits are not better explained by another mental disorder (e.g. major depressive episode, schizophrenia).",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the DSM-5 definition of neuro-cognitive disorders in the elderly?",
+        "description": "The DSM-5 distinguishes between minor and major neuro-cognitive disorders according to their impact on the patient's functional independence.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "A. Presence of moderate cognitive decline from a previous level of performance in one or more domains of cognition (complex attention, executive functions, learning and memory, language, perceptual-motor or social cognition) based on",
+        "description": "Presence of moderate cognitive decline from a previous level of performance in one or more domains of cognition (complex attention, executive functions, learning and memory, language, perceptual-motor or social cognition) based on",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "B. Cognitive deficits do not interfere with autonomy in daily life (i.e. instrumental activities of daily living (IADLs) such as paying bills or taking medication are preserved, but require greater effort, compensatory strategies or adjustment).",
+        "description": "Cognitive deficits do not interfere with autonomy in daily life (i.e. instrumental activities of daily living (IADLs) such as paying bills or taking medication are preserved, but require greater effort, compensatory strategies or adjustment).",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "C. Cognitive deficits do not only occur in the context of delirium (confusional syndrome in French terminology).",
+        "description": "Cognitive deficits do not only occur in the context of delirium (confusional syndrome in French terminology).",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "D. Cognitive deficits are not better explained by another mental disorder (e.g. major depressive episode, schizophrenia).",
+        "description": "Cognitive deficits are not better explained by another mental disorder (e.g. major depressive episode, schizophrenia).",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "A",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

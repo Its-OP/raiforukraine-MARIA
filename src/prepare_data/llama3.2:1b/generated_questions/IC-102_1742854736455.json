@@ -1,0 +1,22 @@
+{
+  "folder": "IC-102",
+  "content": "{{knowledge objective\n|Identifiant=OIC-102-06-A\n|Item_parent=Diplopia\n|Item_parent_short=Diplopia\n|Rank=A\n|Title=Knowing the symptomatology and vicious position of the head in complete paralysis of III, IV, VI\n|Description=Stroke, MS\n|Rubric=Multimedia content\n|Contributors=\n|Order=6}}\n'''Paralysis of the III'''\n\nTotal paralysis of the Ill causes on the pathological side :\n\n- total ptosis (which may mask diplopia)\n\n- a marked divergence (functional lateral right)\n\n- paralysis in raising and lowering the eye\n\n- loss of accommodation\n\n- areflective mydriasis\n\n\n'''Paralysis of the IV'''\n\n- Vertical and oblique diplopia, accentuated downwards and inwards (field of the superior oblique muscle), disabling in activities such as reading or descending stairs.\n\n- Compensatory head position: tilted to the healthy side, chin lowered.\n\n\n'''Paralysis of the VI'''\n\n- Horizontal diplopia\n\n- Convergence of the affected eye\n\n- Abduction deficit\n\n- Compensatory position of the head: turned towards the side of the oculomotor paralysis",
+  "question": {
+    "properties": {
+      "question": "What is the typical presentation of diplopia in the case of complete paralysis of the III, IV, VI nerves?",
+      "option_a": "Vertical diplopia, accentuated downwards and inwards, disabling activities such as reading or descending stairs.",
+      "option_b": "Horizontal diplopia, with convergence of the affected eye.",
+      "option_c": "Total ptosis, which may mask diplopia.",
+      "option_d": "A marked divergence (functional lateral right), with paralysis in raising and lowering the eye.",
+      "correct_option": "option_a"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

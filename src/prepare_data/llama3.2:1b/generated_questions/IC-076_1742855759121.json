@@ -1,0 +1,14 @@
+{
+  "folder": "IC-076",
+  "content": "{{knowledge objective\n|Identifiant=OIC-076-13-A\n|Item_parent=Alcohol dependence\n|Item_parent_short=Alcohol dependence\n|Rank=A\n|Title=Knowing the basic principles of primary prevention of alcohol misuse\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=13}}\nObjective: to prevent or delay the first use of psychoactive substances, in particular by acting on early use.\n\n- Takes into account the person rather than the substance\n\n- Frees itself from any judgmental or stigmatising attitude.\n\nThe main tools are information and education for future users, to reduce risk factors and promote healthy behaviour. <br />",
+  "question": {
+    "properties": {
+      "question": "What is the primary goal of primary prevention of alcohol misuse?",
+      "option_a": "To reduce the number of people who become alcohol dependents",
+      "option_b": "To increase the number of people who become alcohol dependents",
+      "option_c": "To promote healthy behavior",
+      "option_d": "To educate users about the risks of alcohol misuse",
+      "correct_option": "To promote healthy behavior"
+    }
+  }
+}

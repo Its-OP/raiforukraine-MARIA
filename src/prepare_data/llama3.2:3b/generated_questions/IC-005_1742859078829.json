@@ -1,0 +1,31 @@
+{
+  "folder": "IC-005",
+  "content": "{{knowledge objective\n|Identifiant=OIC-005-05-A\n|Item_parent=Medical criminal, civil, administrative and disciplinary liability. The management of errors and complaints; therapeutic hazards\n|Item_parent_short=Penal, civil, administrative and disciplinary medical liability. The management of errors and complaints; the therapeutic hazard\n|Rank=A\n|Title=Knowing the definition of disciplinary liability\n|Description=None\n|Rubric=Definition\n|Contributors=Bastien Boussat\n|Order=5}}\n\nDisciplinary liability is that incurred before the bodies of the Ordre des M\u00e9decins. Disciplinary action is independent of any other action that may be taken against a doctor (civil or criminal).\n\n'''Misconduct and disciplinary sanctions'''\n\nDisciplinary offences\n\nAny breach of the rules of medical ethics constitutes a disciplinary offence. It is a violation of a moral rule rather than a strictly legal rule, whether or not it is enshrined in a text such as the Code of Medical Ethics. In principle, such misconduct is related to professional activity, but not exclusively. An act in private life may be prejudicial to the honour or morality of the profession. The rules governing medical ethics are set out in the Code of Medical Ethics (articles R.4127-1 to R.4127-112 of the Public Health Code). The fundamental principles it contains apply to all doctors registered with the Ordre des M\u00e9decins, as well as to medical interns performing locums.\n\nThis Code differs from the Penal Code, which does not set out principles but rather lists behaviours prohibited by our society (criminal offences). It is drawn up by the Conseil national de l'Ordre des m\u00e9decins, which is vested with regulatory powers that are subject to the Conseil d'Etat. It is revised periodically, as it must comply with the law.\n\nDisciplinary sanctions\n\nThe penalties incurred are a warning, a reprimand, a temporary ban from performing any duties remunerated by the State or public authorities, a temporary ban from practising (for a maximum of three years) or removal from the roll of the Ordre.\n\nTemporary disqualifications may be accompanied by a suspended sentence (partial or total), which may be revoked if a new disciplinary offence is committed within the following five years. If the ban is lifted, the person concerned may ask for it to be lifted again after three years. If this is refused, they must wait three years before applying again.\n\n'''Implementation of disciplinary liability'''\n\n'''Jurisdictions'''\n\nThe competent courts are the disciplinary chamber of the Ordre's regional council and, on appeal, the disciplinary chamber of the Ordre's national council. Appeals may be lodged with the Conseil d'Etat.\n\n'''Referral'''\n\nReferrals may be made to the disciplinary chamber of the regional council of the Ordre for self-employed doctors by a departmental council of the Ordre, the national council of the Ordre, a doctor, a doctors' union, the director of the regional health agency, the prefect, the public prosecutor and the minister responsible for health.\n\nFor doctors working in the public hospital sector, the power to refer cases is limited to the Conseil d\u00e9partemental de l'Ordre, the Conseil national de l'Ordre, the Director of the Regional Health Agency, the Prefect, the Public Prosecutor and the Minister for Health.\n\nA patient's complaint against a private practitioner or hospital doctor must be referred to the Conseil d\u00e9partemental de l'Ordre, which is obliged to attempt conciliation.\n\nIf this fails, the Conseil d\u00e9partemental de l'Ordre is obliged to forward the complaint to the disciplinary chamber of the Conseil r\u00e9gional de l'Ordre.\n\n'''Procedure'''\n\nThe patient is one of the parties to the proceedings, so he or she is entitled to appeal (recours, pourvoi en cassation) and may be accompanied by a lawyer. The doctor, for his part, may be assisted before the court by a lawyer from the bar or a colleague. Proceedings before the Order's courts are adversarial; the hearing is public.",
+  "question": {
+    "question": {
+      "title": "What is disciplinary liability?",
+      "description": "A question about the definition of disciplinary liability",
+      "type": "string"
+    },
+    "option_a": {
+      "title": "A breach of a strictly legal rule",
+      "description": "Option A: A breach of a strictly legal rule"
+    },
+    "option_b": {
+      "title": "A violation of a moral rule related to professional activity",
+      "description": "Option B: A violation of a moral rule rather than a strictly legal rule"
+    },
+    "option_c": {
+      "title": "A penalty incurred for a criminal offence",
+      "description": "Option C: A penalty incurred for a criminal offence"
+    },
+    "option_d": {
+      "title": "A warning given by a superior",
+      "description": "Option D: A warning given by a superior"
+    },
+    "correct_option": {
+      "title": "B",
+      "description": "The correct option letter"
+    }
+  }
+}

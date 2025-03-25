@@ -1,0 +1,12 @@
+{
+  "folder": "IC-234",
+  "content": "{{knowledge objective\n|Identifiant=OIC-234-15-A\n|Item_parent=Adult heart failure\n|Item_parent_short=Adult heart failure\n|Rank=A\n|Title=Chest radiography of PAO of haemodynamic origin\n|Description=None\n|Rubric=Multimedia content\n|Contributors=Olivier Huttin\n|Order=15}}\n\n[[File:Example of chest film of acute lung oedema.png|vignette|538x538px|Example of chest film of acute lung oedema]]",
+  "question": {
+    "question": "What is the primary indication for chest radiography in a patient with acute heart failure of haemodynamic origin?",
+    "option_a": "To assess the size of the heart and the presence of pulmonary oedema",
+    "option_b": "To evaluate the function of the left ventricle and the presence of mitral regurgitation",
+    "option_c": "To diagnose the cause of acute heart failure, such as myocardial infarction or cardiomyopathy",
+    "option_d": "To monitor the response to treatment and adjust the medication regimen",
+    "correct_option": "A"
+  }
+}

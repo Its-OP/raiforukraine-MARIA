@@ -1,0 +1,12 @@
+{
+  "folder": "IC-191",
+  "content": "{{knowledge objective\n|Identifiant=OIC-191-07-B\n|Item_parent=Fever in an immunocompromised patient\n|Item_parent_short=Fever in an immunocompromised patient\n|Rank=B\n|Item_parent_short=Fever in an immunocompromised patient |Item_parent_short=Fever in an immunocompromised patient\n|Description=TUE7-187-1 : neutropenia, asplenia, cellular immunity deficiency\n|Rubric=Etiologies\n|Contributors=Am\u00e9lie Servettaz,Jean-Daniel Leli\u00e8vre\n|Order=7}}\n\n'''Cellular immunity deficiencies''' (Immunosuppressive treatment for autoimmune disease or organ transplantation, corticosteroids, even in small doses, HIV infection ....)\n\n*CMV\n*Pneumocystis jirovecii\n*More rarely Toxoplasma, Aspergillus, Candida, Nocardia, BK (anti-TNF)\n\nHumoral immunity deficiencies (CVID, treatment with anti CD20, CLL, etc.)\n\n*extra-cellular bacteria, particularly Streptococcus pneumoniae and Hemophilus Influenzae.\n\nNeutropenia (chemotherapy, etc.)\n\n*Gram-negative bacteria (enterobacteria, Pseudomonas aeruginosa),\n*Staphylococci in the presence of catheters\n*Fungi (Aspergillus or Candida) in cases of deep and prolonged neutropenia.\n\n'''Complement deficiencies''' (use of therapeutic anti-C5 antibodies, hereditary deficiencies)\n\n*Neisseiria (meningitidis +++)\n\n'''Organ transplant patients'''\n\n*Early phase (< 1 month): infections are most often nosocomial (pneumopathies, urinary tract infections, toxoplasmosis acquired via the graft, etc.).\n*Intermediate phase (1 to 6 months): major cellular deficiency: CMV, Pneumocystis jirovecii +++, toxoplasmosis (reactivation).\n*Late phase (>6 months): persistent but less profound cellular deficiency.",
+  "question": {
+    "question": "What is a common feature of infections in immunocompromised patients?",
+    "option_a": "Infections are often caused by viruses such as CMV and Pneumocystis jirovecii",
+    "option_b": "Infections are often caused by Gram-negative bacteria such as Pseudomonas aeruginosa and Staphylococci in the presence of catheters",
+    "option_c": "Infections are often caused by Neisseria meningitidis in patients with complement deficiencies",
+    "option_d": "Infections are often caused by fungal pathogens such as Aspergillus and Candida",
+    "correct_option": "A"
+  }
+}

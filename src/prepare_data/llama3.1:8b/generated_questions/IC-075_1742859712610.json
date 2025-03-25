@@ -1,0 +1,12 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-31-B\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=B\n|Title=Knowing about medication other than nicotine replacement therapy\n|Description=Varenicline and Bupropion\n|Rubric=Management\n|Contributors=\n|Order=31}}\nAfter nicotine replacement therapy, Varenicline can be offered as a second-line treatment, followed by Bupropion as a last-line treatment.\n\n'''Varenicline''' :\n\n* Partial agonist of nicotinic acetylcholine receptors.\n* Indicated in cases of failure of nicotine replacement therapy and strong nicotine dependence.\n* The main side effects are nausea, headaches, nightmares, insomnia, depression and cardiovascular risk.\n* Reimbursed by health insurance\n\n'''Bupropion''' :\n\n* Noradrenaline and dopamine reuptake inhibitor\n\n<br />",
+  "question": {
+    "question": "What is the primary mechanism of action of Bupropion?",
+    "option_a": "Partial agonist of nicotinic acetylcholine receptors",
+    "option_b": "Indicated in cases of failure of nicotine replacement therapy and strong nicotine dependence",
+    "option_c": "Noradrenaline and dopamine reuptake inhibitor",
+    "option_d": "Reimbursed by health insurance",
+    "correct_option": "C"
+  }
+}

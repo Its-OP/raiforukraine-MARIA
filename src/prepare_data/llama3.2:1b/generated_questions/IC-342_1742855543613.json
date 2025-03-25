@@ -1,0 +1,12 @@
+{
+  "folder": "IC-342",
+  "content": "{{knowledge objective\n|Identifiant=OIC-342-10-A\n|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=A\n|Heading=Know the severity of malaise according to its cause and the monitoring to be undertaken.\n|Description=None\n|Item=Identification of the emergency\n|Contributors=\n|Order=10}}\nSeverity linked to the aetiology, particularly cardiac causes - hospitalisation with continuous monitoring of cardiac rhythm\n\n<br />",
+  "question": {
+    "question": "What is the primary cause of malaise in adults, particularly cardiac causes?",
+    "option_a": "Dizziness",
+    "option_b": "Nausea",
+    "option_c": "Coma",
+    "option_d": "Fever",
+    "correct_option": "c"
+  }
+}

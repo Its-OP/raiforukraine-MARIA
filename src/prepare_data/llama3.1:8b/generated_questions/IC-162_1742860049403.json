@@ -1,0 +1,12 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-12-A\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=A\n|Title=Knowing the causes of lower genital infections in women\n|Description=None\n|Rubric=Etiologies\n|Contributors=\n|Order=12}}\n- Gonococcus :\n\n- Clinical: purulent leucorrhoea, pelvic heaviness, signs of associated urethritis\n\n- Gynaecological examination: cervix with little or no inflammation and purulent discharge from the cervical os\n\n\n- Chlamydia, Mycoplasma :\n\n- Clinical: whitish or yellowish leucorrhoea, cystalgia, urethral syndrome and/or dyspareunia.\n\n- Gynaecological examination: fragility of the uterine cervix and/or mucopurulent secretions, and/or a friable and haemorrhagic ectropion\n\n\n- Trichomoniasis :\n\n- Clinical: intense pruritus ''+++,'' +/- dyspareunia, +/- urinary signs, abundant, greenish, foamy and foul-smelling leucorrhoea, vulva is oedematous\n\n- Gynaecological examination: punctiform (\"leopard\") colpitis.\n\n\n- Candidiasis :\n\n- Clinical: white, caseous leucorrhoea, pruritus +++, +/- dysuria, +/- pollakiuria, vulvitis\n\n- Gynaecological examination: white, curdled, lumpy leucorrhoea lining the vaginal walls\n\n\n- Bacterial vaginosis :\n\n- Clinical: grey discharge with little smell\n\n- Gynaecological examination: little local irritation\n\n\n- Vulvovaginitis :\n\n- Streptococcus pyogenes bacteria\n\n- Pinworm parasite\n\n\n- Hormonal (non-infectious) :\n\n- Atrophy in menopausal women\n\n\n- Neoplastic (non-infectious) :\n\n- Clinical: leucorrhoea with or without metrorrhagia\n\n- Gynaecological examination: cervical involvement, neoplastic mass, etc.",
+  "question": {
+    "question": "What is the primary symptom of trichomoniasis in women?",
+    "option_a": "Purulent leucorrhoea with little or no inflammation",
+    "option_b": "Intense pruritus, abundant, greenish, foamy and foul-smelling leucorrhoea",
+    "option_c": "White, caseous leucorrhoea with pruritus",
+    "option_d": "Grey discharge with little smell",
+    "correct_option": "B"
+  }
+}

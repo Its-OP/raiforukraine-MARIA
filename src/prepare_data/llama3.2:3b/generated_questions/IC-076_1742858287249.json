@@ -1,0 +1,46 @@
+{
+  "folder": "IC-076",
+  "content": "{{knowledge objective\n|Identifiant=OIC-076-11-A\n|Item_parent=Alcohol dependence\n|Item_parent_short=Alcohol dependence\n|Rank=A\n|Title=Knowing the usual biological markers of alcohol consumption: blood alcohol, GGT, mean blood volume (MBV), desialyzed transferrin, etc.\n|Description=The usual markers of alcohol consumption are blood alcohol, gamma GT, MGV and desialylated transferrin.\n|Rubric=Additional tests\n|Contributors=\n|Order=11}}\nUsefulness\n\no Objectivise misuse in cases of denial or minimisation (etiological diagnosis of pancreatitis, etc.)\n\no Addiction monitoring: identifying relapses, motivational and educational aspects\n\no Not useful for systematic screening or diagnosis of dependence\n\n\nBlood alcohol level (breathalyser or blood test)\n\no useful in emergencies in the event of a fall, malaise, behavioural problems or loss of consciousness\n\nGGT (Gamma Glutamyl Transpeptidase)\n\no marker of alcohol consumption and alcohol-related liver damage\n\no poor sensitivity\n\no poor specificity (to be interpreted in conjunction with the entire liver work-up)\n\no difficult to interpret if obese or with metabolic syndrome\n\no decreases from the first week after stopping consumption, and normalises in 4 to 10 weeks.\n\nVGM (Mean corpuscular volume)\n\no The least sensitive\n\no fairly specific\n\no slowly returns to normal (three months after stopping).\n\nCDT (desialylated transferrin)\n\no Slightly more sensitive than GGT\n\no very specific\n\no normalises within a few weeks of stopping consumption",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is CDT (desialylated transferrin) primarily used for in the context of alcohol consumption?",
+        "description": "A measure of alcohol consumption",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Systematic screening and diagnosis of dependence",
+        "description": "Used in conjunction with other tests to identify dependence",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Monitoring relapses and motivational aspects",
+        "description": "Used to track relapses and provide educational aspects",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Identifying liver damage and monitoring alcohol consumption",
+        "description": "Used to assess liver damage and detect alcohol consumption",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Monitoring and interpreting blood alcohol levels",
+        "description": "Used to determine blood alcohol levels in emergencies",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Identifying liver damage and monitoring alcohol consumption",
+        "description": "Used to assess liver damage and detect alcohol consumption",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

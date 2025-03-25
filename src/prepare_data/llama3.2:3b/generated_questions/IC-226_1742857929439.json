@@ -1,0 +1,46 @@
+{
+  "folder": "IC-226",
+  "content": "{{knowledge objective\n|Identifiant=OIC-226-02-A\n|Item_parent=Deep vein thrombosis and pulmonary embolism (see item 330)\n|Item_parent_short=Deep vein thrombosis and pulmonary embolism (see item 330)\n|Rank=A\n|Heading=Knowing the situations that favour venous thromboembolism (VTE): circumstances of onset, temporary and persistent favouring factors, etc.\n|Description=thrombophilia\n|Rubric=Etiologies\n|Contributors=Gilles Pernod, Virginie Dufrost, Guillaume Mah\u00e9\n|Order=2}}\n\n==Transient risk factors (TRFs)===\n{| class=\"wikitable\"\n|+\n\n!'''FdR transitoire <u>majeur</u>''''\n!'''Main corresponding clinical situations'''\n|-\n|'''Surgery with general anaesthesia > 30 min in the last 3 months'''\n|Orthopaedics (THR, PTG, hip fracture), neurosurgery, carcinological surgery...\n|-\n|Traumatology\n|Lower limb fracture within the last 3 months\nProlonged immobilisation (plaster cast)\n|-\n|'''Immobilisation m\u00e9dicale > 3j dans les 3 derniers mois'''\n|Stroke, acute heart failure, sepsis, acute respiratory decompensation...\n|-\n|Gynaecology - obstetrics\n|Oetroprogestogenic contraception, pregnancy, post partum, hormone replacement therapy for the menopause...\n|-\n|\n|\n|-\n!'''Transient ToR <u>minor</u>''''\n!'''Main corresponding clinical situations'''\n|-\n|Traumatology\n|Injury to a non-platellar lower limb with reduced mobility \u2265 3 days.\n|-\n|Travel\n|Prolonged (plane > 6h)\n|}\n==Persistent risk factors===\n{| class=\"wikitable\"\n|+\n!Persistent <u>major</u> risk factors\n!Main corresponding clinical situations\n|-\n|'''Cancer'''\n|Active or treated cancer, myeloproliferative syndromes\n|-\n|'''Severe thrombophilias''''\n|Antiphospholipid syndrome\nAntithrombin deficiency\n\n(Other thrombophilias are a minor ToR)\n|-\n|History of VTE\n|1<sup>rst</sup> degree relatives\n|-\n| '''Persistent <u>minor</u> FdR'''\n| '''Main corresponding clinical situations'''\n|-\n|Chronic inflammatory diseases''\n|Digestive or articular (Crohn's, UC, Beh\u00e7et), nephrotic syndrome...\n|-\n|General characteristics\n|Age (increasing risk), obesity: BMI \u2265 30 kg/m\u00b2.\n|}\n<br />\n----<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a major transient risk factor for venous thromboembolism (VTE)?",
+        "description": "A major transient risk factor for VTE",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Surgery with general anaesthesia lasting less than 30 minutes",
+        "description": "Surgery with general anaesthesia lasting less than 30 minutes",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Lower limb fracture within the last 3 months",
+        "description": "Lower limb fracture within the last 3 months",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Prolonged immobilisation (plaster cast) lasting more than 3 months",
+        "description": "Prolonged immobilisation (plaster cast) lasting more than 3 months",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Active or treated cancer",
+        "description": "Active or treated cancer",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Active or treated cancer",
+        "description": "Active or treated cancer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

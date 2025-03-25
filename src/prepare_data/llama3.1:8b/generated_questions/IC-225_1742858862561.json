@@ -1,0 +1,12 @@
+{
+  "folder": "IC-225",
+  "content": "{{knowledge objective\n|Identifiant=OIC-225-06-A\n|Item_parent=Arteriopathy of the aorta, visceral arteries and lower limbs; aneurysms\n|Item_parent_short=Arteriopathy of the aorta, visceral arteries and lower limbs; aneurysms\n|Rank=A\n|Title=Knowing complications and prognosis: acute ischaemia of the lower limbs, cardiovascular morbidity and mortality\n|Description=None\n|Topic=Monitoring and/or prognosis\n|Contributors=Christian Boissier, Lucie Salomon Du Mont, Anne Long, Alessandra Bura, Patrick Feugier\n|Order=6}}\n\nCoronary, cerebrovascular and mesenteric complications determine the patient's vital prognosis.\n\nThe functional prognosis is linked to the chronic, low-noise evolution of occlusive vascular lesions in the absence of medical treatment. These lead to an increase in ischaemia, the appearance of permanent critical ischaemia and trophic disorders. If the diagnosis is made too late, it may be impossible to revascularise the lower limb and amputations may be necessary.\n\n==II) Acute limb ischaemia==)\nAcute limb ischaemia can also be very sudden, with the onset of [[Limb pain (upper or lower) SD-071|'''''intense pain''''']].\n\nIt is a medico-surgical emergency: it is a medico-surgical therapeutic emergency because it threatens the patient's vital prognosis and/or the functional prognosis of the limb.\n\nIt requires rapid treatment in a specialised facility.\n\nDespite appropriate treatment, the overall prognosis remains poor. Acute ischaemia is associated with 10% of deaths, 25% of amputations, 15% of sequelae and only 50% of good results.",
+  "question": {
+    "question": "What is the overall prognosis for acute limb ischaemia despite appropriate treatment?",
+    "option_a": "The overall prognosis is excellent with a high success rate of good results.",
+    "option_b": "The overall prognosis is poor with a significant risk of death, amputation, and sequelae.",
+    "option_c": "The overall prognosis is neutral with no significant impact on the patient's vital prognosis.",
+    "option_d": "The overall prognosis is very good with a high success rate of amputation-free results.",
+    "correct_option": "B"
+  }
+}

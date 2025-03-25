@@ -1,0 +1,12 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-37-B\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=B\n|Title=Photograph of a condyloma\n|Description=Photography of a condyloma\n|Rubric=Multimedia content\n|Contributors=\n|Order=37}}\n<gallery>\nFile:Condyloma LISA.jpg|Condylomata acuminata on the labia majora\n</gallery>",
+  "question": {
+    "question": "What is a photograph of a condyloma typically used to diagnose?",
+    "option_a": "Gonococcal infection",
+    "option_b": "Human papillomavirus (HPV) infection",
+    "option_c": "Chlamydial infection",
+    "option_d": "Syphilis infection",
+    "correct_option": "B"
+  }
+}

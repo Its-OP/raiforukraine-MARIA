@@ -1,0 +1,12 @@
+{
+  "folder": "IC-265",
+  "content": "{{knowledge objective\n|Identifiant=OIC-265-12-B\n|Item_parent=Urinary lithiasis\n|Item_parent_short=Urinary lithiasis\n|Rank=B\n|Title=Knowing the tests to be carried out for the aetiological diagnosis of urinary lithiasis\n|Description=First-line metabolic test according to the recommendations of the urolithiasis committee\n|Rubric=Additional tests\n|Contributors=Romain Boissier\n|Order=12}}\n\nThe first-line metabolic work-up recommended by the Lithiasis Committee of the Association Fran\u00e7aise d'Urologie includes :\n\n* morphological and infrared analysis (Infrared SpectroPhotometry: SPIR) of the stone or fragments to determine the molecular and crystalline composition of the stone,\n* a metabolic assessment on :\n** fresh morning urine sample: crystalluria, pH, specific gravity, BU\n** 24-hour urine analysis: total volume, creatinine, calcium, sodium, urea, urates,\n** blood analysis: creatinine, calcium, fasting blood sugar, uricemia.",
+  "question": {
+    "question": "What is the first-line metabolic test recommended by the Lithiasis Committee of the Association Fran\u00e7aise d'Urologie for the aetiological diagnosis of urinary lithiasis?",
+    "option_a": "24-hour urine analysis: total volume, creatinine, calcium, sodium, urea, urates",
+    "option_b": "Blood analysis: creatinine, calcium, fasting blood sugar, uricemia",
+    "option_c": "Morphological and infrared analysis (Infrared SpectroPhotometry: SPIR) of the stone or fragments",
+    "option_d": "Fresh morning urine sample: crystalluria, pH, specific gravity, BU, and 24-hour urine analysis: total volume, creatinine, calcium, sodium, urea, urates, and blood analysis: creatinine, calcium, fasting blood sugar, uricemia",
+    "correct_option": "C"
+  }
+}

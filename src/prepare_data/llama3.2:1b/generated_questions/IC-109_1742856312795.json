@@ -1,0 +1,46 @@
+{
+  "folder": "IC-109",
+  "content": "{{knowledge objective\n|Identifiant=OIC-109-11-B\n|Item_parent=Gait and balance disorders\n|Item_parent_short=Gait and balance disorders\n|Rank=B\n|Item_parent_short=Gait and balance disorders\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=11}}\nPlease refer to the CEN website: www.cen-neurologie.fr where videos are available.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary function of the vestibular system?",
+        "description": "The vestibular system is responsible for maintaining balance and spatial orientation. It consists of the semicircular canals and the otolith organs.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Maintain posture and movement",
+        "description": "The vestibular system helps to maintain posture and movement by detecting changes in head position and movement.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Regulate body temperature",
+        "description": "The vestibular system does not play a significant role in regulating body temperature.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Detect changes in head position and movement",
+        "description": "The vestibular system is responsible for detecting changes in head position and movement, which helps to maintain balance and spatial orientation.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Regulate eye movements",
+        "description": "The vestibular system does not play a significant role in regulating eye movements.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Maintain posture and movement",
+        "description": "The vestibular system is responsible for maintaining posture and movement. It consists of the semicircular canals and the otolith organs.",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-336",
+  "content": "{{knowledge objective\n|Identifiant=OIC-336-07-A\n|Item_parent=Non-traumaticoma in adults and children\n|Item_parent_short=Non-traumatic coma in adults and children\n|Rank=A\n|Title=Knowing the clinical signs of hypoglycaemia and correcting it\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Nicolas Weiss\n|Order=7}}\n\n- coma or any neurological disorder\n\n- evoked by capillary blood glucose, confirmed by blood glucose (blood glucose < 3 mmol/L)\n\n- emergency resucration with direct IV glucose serum (G30% 1 ampoule) if consciousness is impaired\n\n- orally, if you are conscious enough: sugar cubes, orange juice, etc.\n\n- revaluation",
+  "question": {
+    "question": "What is the primary treatment for hyperglycemia in children?",
+    "option_a": "Oral glucose solution",
+    "option_b": "IV glucose infusion",
+    "option_c": "Glyburide",
+    "option_d": "Oral glucose solution",
+    "correct_option": "Oral glucose solution"
+  }
+}

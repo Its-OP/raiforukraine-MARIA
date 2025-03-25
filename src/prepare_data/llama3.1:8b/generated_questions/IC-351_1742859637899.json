@@ -1,0 +1,12 @@
+{
+  "folder": "IC-351",
+  "content": "{{knowledge objective\n|Identifiant=OIC-351-06-A\n|Item_parent=Agitation and acute delirium\n|Item_parent_short=Agitation and acute delirium\n|Rank=A\n|Title=How to diagnose agitation\n|Description=Semiology, clinical examination\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=6}}\n\n\n== Interviewing the patient and next of kin ==\n\n=== Context of onset ===\nduration, mode of onset (sudden or gradual), permanent or fluctuating course, time of day, triggering factors\n\n=== History ===\nPsychiatric and non-psychiatric history, use of psychoactive substances, treatment or recent change in treatment\n\n== Clinical examination\n\n=== Search for signs of seriousness (vital prognosis): ===\n\n* Vitals: temperature, blood pressure, heart rate\n* Confusion: acute and transient disturbance of attention, cognition and consciousness, manifested by temporo-spatial disorientation, disturbances of memory, speech, perceptions and behaviour. Onset is generally abrupt and the course fluctuates. Main aetiologies: non-psychiatric pathologies, intoxication or withdrawal of a psychoactive substance, iatrogeny.\n* Severe dehydration (hydro-electrolytic disorders)\n* Sepsis: cardiovascular shock, acute respiratory distress, cyanosis.\n\n=== Non-psychiatric signs ===\n\n* Neurological examination: miosis, mydriasis, meningeal syndrome, focal signs, tongue biting, etc.\n* General examination to look for a metabolic, hydro-electrolytic or endocrine aetiology: dehydration, tachycardia, urinary globe, etc.\n* General examination to look for an infectious aetiology: hyperthermia, meningeal syndrome, dyspnoea, cyanosis, sweating, etc.\n\n=== Psychiatric signs ===\n\n* Depressive and manic symptoms\n* Psychotic symptoms\n* Anxiety symptoms\n\n== Paraclinical examinations\nA minimum blood test is systematically carried out; it will be combined with additional tests depending on the anamnesis and the points raised during questioning and clinical examination (see corresponding knowledge objective).\n<br />",
+  "question": {
+    "question": "What is the primary purpose of the clinical examination in diagnosing agitation and acute delirium?",
+    "option_a": "To identify the underlying cause of the agitation and acute delirium",
+    "option_b": "To assess the patient's vital signs and overall physical condition",
+    "option_c": "To evaluate the patient's psychiatric history and treatment history",
+    "option_d": "To determine the severity of the agitation and acute delirium",
+    "correct_option": "B"
+  }
+}

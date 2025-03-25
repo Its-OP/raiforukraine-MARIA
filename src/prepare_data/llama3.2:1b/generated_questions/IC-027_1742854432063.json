@@ -1,0 +1,12 @@
+{
+  "folder": "IC-027",
+  "content": "{{knowledge objective\n|Identifiant=OIC-027-35-A\n|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Rank=A\n|Title=Knowing the consequences of smoking during pregnancy\n|Description=None\n|Rubric=Diagnosis\n|Contributors=Alexandre Vivanti, Philippe Deruelle\n|Order=35}}\n'''In the 1st trimester'''\n\n- EP: the risk of EP is significant, with a relative risk (RR) > 2\n\n- Spontaneous miscarriage: a dose-dependent increase in spontaneous miscarriages has been established (RR = 2);\n\n'''In the 2nd<sup>\u00e8me</sup> and 3rd<sup>\u00e8me</sup> quarters'''\n\n- Intrauterine growth retardation: birth weight and height are significantly reduced in proportion to the quantity of cigarettes consumed daily. Growth retardation occurs more frequently in the second half of pregnancy. Even passive smoking has a significant influence;\n\n- Premature delivery: the additional risk is small but significant;\n\n- Placenta previa: a 30% increase in risk\n\n- Retroplacental haematoma: the risk is doubled;\n\n- Unexpected infant death: smoking doubles this risk, even if the child is cared for in a non-smoking environment;\n\n- Lower respiratory infections and ear infections in children: a 50% increase in risk;\n\n- Adolescent obesity\n\n- Caesarean section: the risk of caesarean section is only increased for patients smoking more than 20 cigarettes a day.\n\n'''312. [[Prevention of foetal risks SD-312|Prevention of foetal risks]]''''\n\n'''314. ['''Prevention of tobacco-related risks SD-314|Prevention of tobacco-related risks]''''",
+  "question": {
+    "question": "What is the relative risk (RR) of spontaneous miscarriage when a woman smokes cigarettes?",
+    "option_a": "1.2",
+    "option_b": "2.5",
+    "option_c": "3.4",
+    "option_d": "4.8",
+    "correct_option": "2.5"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "folder": "IC-188",
+  "content": "{{knowledge objective\n|Identifiant=OIC-188-17-A\n|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Rank=A\n|Title=Know the main basic therapeutic principles of asthma with the main therapeutic classes that can be used.\n|Description=To understand the role of bronchodilators and corticosteroids (anti-leukotrienes) in asthma.\n|Rubric=Management\n|Contributors=\n|Order=17}}\n'''251 [[Prescribing systemic or local corticosteroids SD-251|prescribing systemic or local corticosteroids]]''''\n\n'''279 [[Chronic disease follow-up consultation SD-279|chronic disease follow-up consultation]]''''\n\n'''283 [[Follow-up consultation and therapeutic education for an asthma patient SD-283|consultation de suivi et \u00e9ducation th\u00e9rapeutique d'un patient asthmatique]]''''\n\n'''299 [[Post-allergic event consultation SD-299|post-allergic event consultation]]''''\n\no Short-acting B2-mimetic bronchodilators (SADB) (metered dose inhaler or powder inhaler): treatment for asthma symptoms or exacerbation.\n\no Inhaled corticosteroids (ICS) (metered dose inhaler or powder inhaler): the most effective background treatment prescribed for all persistent asthma.\n\no Long-acting B2-mimetic bronchodilators (LABD) (metered dose inhaler or powder inhaler): always prescribed in combination with ICS (never prescribe LABD alone in asthma because of the risk of GAD).\n\no Anti-leukotriene (montelukast) (oral): alternative to BDLA\n\nAll asthma is treated with BDCA as a matter of course. Background treatment is initiated if symptoms are frequent (<2/month). Treatment is adjusted in stages according to the level of asthma control (see asthma control).\n\nIf asthma is not controlled with ICS and BDLA, additional treatment should be discussed during a specialist consultation (long-acting anti-cholinergic, anti-IgE immunotherapy, anti-IL5, long-term systemic corticosteroid therapy).\n{| class=\"wikitable\"\n|\n|\n|\n|\n|\n| rowspan=\"4\" |'''tier 5''''\n\nHigh-dose ICS + BDLA\n\nRefer to a severe asthma centre for additional treatment (tiotropium)\n\n''anti-IgE, anti-IL5, or other biotherapy)''\n|-\n|\n|\n|\n|\n| rowspan=\"3\" |'''tier 4''''\n\nModerate dose ICS + BDLA\n|-\n|\n|\n|\n| rowspan=\"2\" |'''tier 3''''\n\nLow dose ICS + BDLA\n|-\n|\n|\nLevel 1\n\nNo background treatment\n|Level 2 treatment\n\nLow dose ICS\n|-\n|'''''other options'''''\n|consider low-dose ICS\n|anti-leukotrienes (ALT)\n|Moderate to high dose ICS or\n\nLow dose ICS + ALT\n|High dose ICS + ALT or + tiotropium\n|Low dose CSO\n|-\n|'''rescue treatment'''\n|BDCA on demand\n|BDCA on demand\n|BDCA on demand\n|BDCA on demand\n|BDCA on demand\n|}",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary background treatment for persistent asthma?",
+        "description": "The main therapeutic classes that can be used for asthma treatment",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Long-acting B2-mimetic bronchodilators (LABD)",
+        "description": "Treatment for asthma symptoms or exacerbation"
+      },
+      "option_b": {
+        "title": "Anti-leukotriene (montelukast)",
+        "description": "Alternative to BDLA"
+      },
+      "option_c": {
+        "title": "Inhaled corticosteroids (ICS)",
+        "description": "The most effective background treatment prescribed for all persistent asthma"
+      },
+      "option_d": {
+        "title": "Low-dose ICS",
+        "description": "Treatment for mild asthma"
+      },
+      "correct_option": {
+        "title": "Inhaled corticosteroids (ICS)",
+        "description": "The correct answer"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

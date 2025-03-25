@@ -1,0 +1,12 @@
+{
+  "folder": "IC-156",
+  "content": "{{knowledge objective\n|Identifiant=OIC-156-13-A\n|Item_parent=Infections in the bones and joints (IOA) of children and adults\n|Item_parent_short=Infections osteo articulaires (IOA) de l'enfant et de l'adulte\n|Rank=A\n|Title=Identifying spondylodiscitis = diagnostic emergency\n|Description=Urgent hospital management\n|Rubric=Identifying the emergency\n|Contributors=Dr Florent Valour\n|Order=13}}\nIn the event of suspected disco-vertebral infection, urgent hospital management for diagnostic confirmation (imaging), microbiological documentation and treatment to limit the risk of complications.\n\nNo probabilistic antibiotic therapy before sampling to avoid delaying therapeutic treatment\n\n<br />",
+  "question": {
+    "question": "What is the recommended approach for suspected disco-vertebral infection?",
+    "option_a": "Urgent hospital management for diagnostic confirmation, microbiological documentation, and treatment to limit the risk of complications, including probabilistic antibiotic therapy before sampling",
+    "option_b": "Probabilistic antibiotic therapy before sampling to avoid delaying therapeutic treatment",
+    "option_c": "Waiting for several days to see if symptoms resolve on their own before seeking medical attention",
+    "option_d": "Performing a series of blood tests to confirm the diagnosis before going to the hospital",
+    "correct_option": "A"
+  }
+}

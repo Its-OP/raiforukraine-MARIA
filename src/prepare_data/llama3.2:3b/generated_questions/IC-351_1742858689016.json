@@ -1,0 +1,46 @@
+{
+  "folder": "IC-351",
+  "content": "{{knowledge objective\n|Identifiant=OIC-351-09-B\n|Item_parent=Agitation and acute delirium\n|Item_parent_short=Agitation and acute delirium\n|Rank=B\n|Title=Knowing the clinical elements pointing to a psychiatric versus non-psychiatric cause\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=9}}\nThere is no a priori evidence to suggest a psychiatric cause for any patient who may present with such an acute condition for non-psychiatric reasons. The following factors should make you fear a non-psychiatric aetiology. Once you have ruled them out, you can consider a psychiatric aetiology.\n\n* Confusional syndrome\n* Physical signs of dehydration\n* Physical signs of infection\n* Signs of cardiovascular or respiratory failure\n* Urinary incontinence, faecal impaction\n* abnormalities identified on neurological examination and general physical examination",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What factors should make you suspect a non-psychiatric cause for a patient's agitation and acute delirium?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Confusional syndrome",
+        "description": "A condition characterized by disorientation and confusion",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Physical signs of dehydration",
+        "description": "Visible symptoms of dehydration, such as dry mouth and dark urine",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Signs of cardiovascular or respiratory failure",
+        "description": "Indicators of heart or lung problems, such as difficulty breathing or chest pain",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Urinary incontinence and faecal impaction",
+        "description": "Loss of bladder or bowel control, which can be a sign of neurological disorders",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Physical signs of infection",
+        "description": "Visible signs of infection, such as redness, swelling, or pus",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

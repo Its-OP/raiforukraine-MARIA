@@ -1,0 +1,12 @@
+{
+  "folder": "IC-186",
+  "content": "{{knowledge objective\n|Identifiant=OIC-186-09-B\n|Item_parent=Hypersensitivities and allergies in children and adults: physiopathological, epidemiological and diagnostic aspects and principles of treatment\n|Item_parent_short=Hypersensitivities and allergies in children and adults: pathophysiological, epidemiological and diagnostic aspects and principles of treatment\n|Rank=B\n|Title=Knowing the algorithm for the diagnostic and therapeutic management of food allergy to allergens crossing with pneumallergens\n|Description=None\n|Topic=Positive diagnosis\n|Contributors=\n|Order=9}}\nCross-allergies between respiratory and food allergens can be explained by the ''recognition, by a patient's specific IgE antibodies'', of '''similar'' or highly homologous allergens present in '''distinct allergenic sources'' (respiratory and food).\n\nThe most common clinical picture is that of an \"oral syndrome\" (labial or lingual oedema, oral or pharyngeal pruritus, labial, lingual or palatal erythema) after eating fruit in a patient with a pollen allergy.\n\n\nFor example: - birch, apple and other raw fruit and vegetable pollens ;\n\n- cypress, peach and sometimes citrus pollens.\n\n- egg-bird syndrome (induction of egg allergy by the respiratory route by feathers or bird droppings);",
+  "question": {
+    "question": "What is the underlying mechanism for cross-allergies between respiratory and food allergens?",
+    "option_a": "Recognition by a patient's specific IgE antibodies of identical allergens in distinct allergenic sources",
+    "option_b": "Recognition by a patient's specific IgE antibodies of similar or highly homologous allergens in distinct allergenic sources",
+    "option_c": "Recognition by a patient's specific IgE antibodies of allergens that are not present in the respiratory system",
+    "option_d": "Recognition by a patient's specific IgE antibodies of allergens that are only present in the food system",
+    "correct_option": "B"
+  }
+}

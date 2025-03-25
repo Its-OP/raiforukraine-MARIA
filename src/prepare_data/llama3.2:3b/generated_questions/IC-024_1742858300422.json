@@ -1,0 +1,45 @@
+{
+  "folder": "IC-024",
+  "content": "{{knowledge objective\n|Identifiant=OIC-024-18-A\n|Item_parent=Main complications of pregnancy.\n|Item_parent_short=Main complications of pregnancy.\n|Rank=A\n|Title=Defining and diagnosing the threat of preterm birth.\n|Description=None\n|Rubric=Epidemiology\n|Contributors=Paul Berveiller,Philippe Deruelle\n|Order=18}}\n\nMenace d'accouchement pr\u00e9matur\u00e9 (MAP) = association de '''modifications cervicales''' et de '''contractions ut\u00e9rines''' (CU) r\u00e9guli\u00e8res et douloureux '''avant 37 SA,''' soit entre '''22 SA et 36 SA + 6 jours.''' ''(Cf. [[Uterine contraction in a pregnant woman SD-098|09. Uterine contractions in a pregnant woman]] / [[Pelvic pain SD-099|99. Pelvic pain]])''''\n\nRegarding changes to the cervix: assessed by TV and/or ultrasound of the cervix (more objective and reproducible vs TV. A shortened cervix is defined by a length < 25 mm.\n\nIf the birth occurs before 22 weeks' gestation, it is known as a \"late miscarriage\".",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the definition of a late miscarriage?",
+        "description": "A late miscarriage occurs before 22 weeks' gestation.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "A miscarriage that occurs before 20 weeks' gestation",
+        "description": "A miscarriage that occurs before 20 weeks' gestation",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "A miscarriage that occurs between 22 and 36 weeks' gestation",
+        "description": "A miscarriage that occurs between 22 and 36 weeks' gestation",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "A late miscarriage",
+        "description": "A late miscarriage",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "A miscarriage that occurs after 37 weeks' gestation",
+        "description": "A miscarriage that occurs after 37 weeks' gestation",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "A"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

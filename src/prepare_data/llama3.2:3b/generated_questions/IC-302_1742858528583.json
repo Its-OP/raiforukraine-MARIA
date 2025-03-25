@@ -1,0 +1,46 @@
+{
+  "folder": "IC-302",
+  "content": "{{knowledge objective\n|Identifiant=OIC-302-15-B\n|Item_parent=Cutaneous, epithelial and melanoma tumours\n|Item_parent_short=Cutaneous, epithelial and melanoma tumours\n|Rank=B\n|Title=Photograph of a basal cell carcinoma\n|Description=Photograph of a typical basal cell carcinoma\n|Rubric=Multimedia content\n|Contributors=\n|Order=15}}\n\n[[File:Figure B.jpg|vignette|Nodular basal cell carcinoma: translucent nodule covered with telangiectasias]]\n[[File:Figure A.jpg|vignette|Superficial basal cell carcinoma: well-limited erythematosquamous plaque with pearly border]]",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the characteristic that distinguishes basal cell carcinoma from other types of skin cancer?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "A pearly border",
+        "description": "A pearly border is a characteristic of basal cell carcinoma, but it can also be seen in other types of skin cancer",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "A translucent nodule",
+        "description": "A translucent nodule can be a sign of basal cell carcinoma, but it can also be seen in other types of skin cancer",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Erythematosquamous plaque",
+        "description": "Erythematosquamous plaque is a characteristic of superficial basal cell carcinoma, but it can also be seen in other types of skin cancer",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Nodular appearance",
+        "description": "Nodular appearance is a characteristic of basal cell carcinoma, but it can also be seen in other types of skin cancer",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct answer is a characteristic of basal cell carcinoma",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

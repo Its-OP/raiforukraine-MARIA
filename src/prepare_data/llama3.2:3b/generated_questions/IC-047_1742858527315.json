@@ -1,0 +1,12 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-22-A\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=A\n|Title=Congenital hip dislocation: finding out about screening procedures\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=22}}\nInspection: shortening of the thigh, symmetry of skin folds\n\nSearch for abduction limitations (norm > 60\u00b0)\n\nSearch for hip instability: Barlow manoeuvre (jerk)",
+  "question": {
+    "question": "What is the next step in the screening procedure for congenital hip dislocation?",
+    "option_a": "Barlow manoeuvre (jerk)",
+    "option_b": "Ortolani manoeuvre",
+    "option_c": "Growth spurt at 6 months",
+    "option_d": "X-ray examination",
+    "correct_option": "A"
+  }
+}

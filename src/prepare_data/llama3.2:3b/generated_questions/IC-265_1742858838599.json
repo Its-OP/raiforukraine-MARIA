@@ -1,0 +1,12 @@
+{
+  "folder": "IC-265",
+  "content": "{{knowledge objective\n|Identifiant=OIC-265-08-A\n|Item_parent=Urinary lithiasis\n|Item_parent_short=Urinary lithiasis\n|Rank=A\n|Title=Knowing the clinical aspects of complicated renal colic\n|Description=Summary tables: according to clinical features (fever, anuria, pain) and condition (pregnancy, single kidney, HIV, etc.).\n|Rubric=Positive diagnosis\n|Contributors=Romain Boissier\n|Order=8}}\n\n<br />\n{| class=\"wikitable\"\n|+\n'''Table of clinical aspects of complicated renal colic'''\n\n<Nephritic colic in pregnant women:\n\n-hospitalisation: obstetrical care: premature delivery: 40-70\n\n-pain: NSAIDs: CI in the 3rd<sup>trimester (24 ADT): paracetamol or morphine from the outset\n\nImaging: ultrasound or non-injected 1.5T MRI: 1st<sup>trimester but difficult in emergency practice or low-dose CT (<4 mSv) 2-3rd trimesters (< 20 mGy).\n\n-1st intention monitoring: expulsion 70-80%.\n\n-renal urine diversion: if pain, PAD, pre-eclampsia, fever, renal failure - catheter or nephrostomy: no recommendation - change every 4-6 weeks\n|'''Febrile renal colic = acute obstructive pyelonephritis = severe acute pyelonephritis'''\n|Fever >38.5\u00b0C, chills, skin mottling, haemodynamic instability, positive urine dipstick.\n|-\n|Renal colic with acute renal failure\n|Congenital or acquired single functional kidney\n\nOr bilateral stones (rare)\n\noligo-anuria < 500cc / 24h\n|-\n|Hyperalgesic renal colic\n|Nephritic colic resistant to NSAID and morphine administration\n|}\n<br />",
+  "question": {
+    "question": "What is the recommended imaging modality for pregnant women with renal colic?",
+    "option_a": "Low-dose CT scan (<4 mSv)",
+    "option_b": "Non-injected 1.5T MRI (1st trimester)",
+    "option_c": "Ultrasound or non-injected 1.5T MRI (1st trimester but difficult in emergency practice or low-dose CT (<4 mSv) 2-3rd trimesters (< 20 mGy))",
+    "option_d": "High-dose CT scan (>4 mSv)",
+    "correct_option": "C"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "folder": "IC-235",
+  "content": "{{knowledge objective\n|Identifiant=OIC-235-10-B\n|Item_parent=Acute pericarditis\n|Item_parent_short=Acute pericarditis\n|Rank=B\n|Title=Knowing the aetiologies of pericarditis during myocardial infarction\n|Description=Early pericarditis, Dressler syndrome\n|Rubric=Etiologies\n|Contributors=Jennifer Cautela\n|Order=10}}\n\n\n* Early pericarditis (D3 - D5):''''\n** following transmural -> haemopericardial infarction, due to effusion.\n** Most often a favourable outcome if minimal,\n** Emergency surgery in case of myocardial rupture.\n* Late pericarditis (2-16 weeks) = Dressler syndrome.\n** Classically associated with fever, pleurisy, arthralgia, AEG, significant inflammatory syndrome, prolongation of the QT interval on ECG.\n** Rare nowadays.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a characteristic typically associated with late pericarditis (Dressler syndrome)?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Fever and pleurisy",
+        "description": "Common symptoms of Dressler syndrome"
+      },
+      "option_b": {
+        "title": "Myocardial rupture and haemopericardial infarction",
+        "description": "Complications of early pericarditis"
+      },
+      "option_c": {
+        "title": "Prolongation of the QT interval on ECG",
+        "description": "Common finding in Dressler syndrome"
+      },
+      "option_d": {
+        "title": "Significant inflammatory syndrome",
+        "description": "Common feature of Dressler syndrome"
+      },
+      "correct_option": {
+        "title": "Fever and pleurisy",
+        "description": "Correct answer"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

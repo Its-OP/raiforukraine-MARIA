@@ -1,0 +1,46 @@
+{
+  "folder": "IC-164",
+  "content": "{{knowledge objective\n|Identifiant=OIC-164-07-A\n|Item_parent=Febrile rash in children\n|Item_parent_short=Children's febrile panthemas\n|Rank=A\n|Intitle=Infectious eruptive diseases: sudden exanthema\n|Description=epidemiology (B), clinical features (A)\n|Rubric=Etiologies\n|Contributors=Christ\u00e8le Gras-Le Guen,Emmanuel Grimprel,Elise Launay\n|Order=7}}\n\n'''Epidemiology'''\n\n- HHV6 virus (Herpesviridae family, beta-herpesvirinae subfamily, roseolovirus genus)\n\n- human-to-human transmission via the respiratory route (saliva, droplets)\n\n- primary infection in early childhood, then lifelong latency, with potentially severe reactivation in immunocompromised patients (Herpes virus)\n\n\nClinical characteristics (primary infection)\n\n'''-'''' incubation 5 to 15 days\n\noften asymptomatic\n\n- symptomatic form (roseola): 2 phases\n\n           - pre-eruptive (invasion): high fever with general signs lasting 1 to 6 days (average 3 days)\n\n           - eruptive: ''maculopapular exanthema'', pink ''pale'', face and trunk, ''fleeting'', 24 hours. Fever disappears with the rash (diagnostic argument).\n\n\nTreatment is symptomatic\n\nComplications are rare (neurological)",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the typical presentation of primary infection in children with HHV6 virus?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "A high fever with general signs lasting 1 to 6 days, followed by a maculopapular exanthema",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "A sudden onset of a severe rash, accompanied by high fever and general signs",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "A lifelong latency period, with potentially severe reactivation in immunocompromised patients",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "A primary infection in early childhood, followed by lifelong latency, with potentially severe reactivation in immunocompromised patients",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "D",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

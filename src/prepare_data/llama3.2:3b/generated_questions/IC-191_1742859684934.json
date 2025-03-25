@@ -1,0 +1,46 @@
+{
+  "folder": "IC-191",
+  "content": "{{knowledge objective\n|Identifiant=OIC-191-08-B\n|Item_parent=Fever in an immunocompromised patient\n|Item_parent_short=Fever in an immunocompromised patient\n|Rank=B\n|Title=Knowing the complementary examinations to be carried out in febrile neutropenic patients according to clinical orientation\n|Description=None\n|Rubric=Complementary examinations\n|Contributors=Am\u00e9lie Servettaz\n|Order=8}}\n\nCertain microbiological tests are carried out systematically:\n\n* Peripheral aero-anaerobic blood cultures and central blood cultures if a central venous catheter is used, prior to any antibiotic treatment.\n* Urine cytobacteriological examination (ECBU)'''\n* Additional biological tests:'''' CBC, TP TCA fibrinogen, Ionogram, renal and hepatic function, CRP\n* Additional imaging tests:'''  Chest X-ray or CT scan without injection\n\nCertain examinations will be carried out according to a point of call:\n\n* Cytobacteriological examination of sputum (ECBC), nasopharyngeal sampling for PCR of respiratory viruses during epidemics if respiratory symptoms are present.\n* Stool culture if diarrhoea, clostridium test if prior antibiotic treatment\n\nIf fever persists after 48 hours of probabilistic antibiotic therapy, the following tests should be carried out:\n\n* A thoracic-abdominal-pelvic CT scan to look for a deep-seated infection.\n* Aspergillosis antigenemia and B-D glucans, mycological blood cultures to support a suspicion of fungal infection (aspergillosis) if neutropenia \u2265 7 days.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What additional tests should be carried out if fever persists after 48 hours of probabilistic antibiotic therapy in febrile neutropenic patients?",
+        "description": "The following tests should be carried out if fever persists after 48 hours of probabilistic antibiotic therapy.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "A thoracic-abdominal-pelvic CT scan to look for a deep-seated infection, Aspergillosis antigenemia and B-D glucans, mycological blood cultures to support a suspicion of fungal infection (aspergillosis) if neutropenia \u2265 7 days",
+        "description": "A thoracic-abdominal-pelvic CT scan to look for a deep-seated infection, Aspergillosis antigenemia and B-D glucans, mycological blood cultures to support a suspicion of fungal infection (aspergillosis) if neutropenia \u2265 7 days",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "A thoracic-abdominal-pelvic CT scan to look for a deep-seated infection, CBC, TP TCA fibrinogen, Ionogram, renal and hepatic function, CRP",
+        "description": "A thoracic-abdominal-pelvic CT scan to look for a deep-seated infection, CBC, TP TCA fibrinogen, Ionogram, renal and hepatic function, CRP",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "A thoracic-abdominal-pelvic CT scan to look for a deep-seated infection, Urine cytobacteriological examination (ECBU), Stool culture if diarrhoea, clostridium test if prior antibiotic treatment",
+        "description": "A thoracic-abdominal-pelvic CT scan to look for a deep-seated infection, Urine cytobacteriological examination (ECBU), Stool culture if diarrhoea, clostridium test if prior antibiotic treatment",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "A thoracic-abdominal-pelvic CT scan to look for a deep-seated infection, Chest X-ray or CT scan without injection, Urine cytobacteriological examination (ECBU), Stool culture if diarrhoea",
+        "description": "A thoracic-abdominal-pelvic CT scan to look for a deep-seated infection, Chest X-ray or CT scan without injection, Urine cytobacteriological examination (ECBU), Stool culture if diarrhoea",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "A",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

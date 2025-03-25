@@ -1,0 +1,12 @@
+{
+  "folder": "IC-260",
+  "content": "{{knowledge objective\n|Identifiant=OIC-260-07-A\n|Item_parent=Hematuria\n|Item_parent_short=Hematuria\n|Rank=A\n|Title=Photographs of a typical example of macroscopic haematuria\n|Description=None\n|Rubric=Multimedia content\n|Contributors=Charles Dariane,Bruno Moulin\n|Order=7}}\n\n<br /><big>'''Figure 3.''' Urine collecting bag reflecting macroscopic haematuria</big>\n[[File:Figure 3 urine collection bag HUbis.jpg|neant|vignette|<big>'''Figure 3.''' Urine collecting bag reflecting macroscopic haematuria</big>]]",
+  "question": {
+    "question": "What is the typical microscopic appearance of macroscopic haematuria?",
+    "option_a": "Red blood cells in the urine",
+    "option_b": "White blood cells in the urine",
+    "option_c": "Protein in the urine",
+    "option_d": "Mucus in the urine",
+    "correct_option": "option_a"
+  }
+}

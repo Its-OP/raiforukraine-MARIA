@@ -1,0 +1,12 @@
+{
+  "folder": "IC-136",
+  "content": "{{knowledge objective\n|Identifiant=OIC-136-03-A\n|Item_parent=Local, locoregional and general anaesthesia\n|Item_parent_short=Local, locoregional and general anaesthesia\n|Rank=A\n|Title=Know the principles of the anaesthesia decree\n|Description=Explain the principles of the decree in its objective of patient safety (pre-anaesthetic consultation...), for better multidisciplinary interaction.\n|Rubric=Management\n|Contributors=\n|Order=3}}\nThe practice of anaesthesia is governed by safety decrees included in the public health code.\n\nIn the event of a scheduled procedure requiring general or locoregional anaesthesia:\n\n1. a ''pre-anaesthetic consultation'', carried out at least 2 days before a scheduled operation, valid for 1 month (unless anaesthetic advice is sought) ('''[[Pre-anaesthetic consultation SD-300|pre-anaesthetic consultation]]'''') ;\n\n2. a \"pre-anaesthetic visit\" carried out within 24 hours prior to a scheduled operation;\n\n3. the resources required to carry out the anaesthetic procedure;\n[File:Figure 1. anaesthetic process for a planned procedure requiring general or locoregional anaesthesia..jpg|vignette|'''Figure 1. anaesthetic process for a planned procedure requiring general or locoregional anaesthesia.''']]]\n4. continuous monitoring after the procedure ;\n\n5. an organisation capable of dealing with complications arising from the operation or anaesthesia at any time.\n\nThe anaesthetic process as a whole is summarised in figure 1 ('''[[Preoperative explanation and collection of consent for an invasive diagnostic or therapeutic procedure SD-239|Preoperative explanation and collection of consent for an invasive diagnostic or therapeutic procedure]]'''). The anaesthetic process is identical for both general and locoregional anaesthesia.\n\nIn the event of an emergency operation, the anaesthetic process is adapted to the degree of urgency of the situation.",
+  "question": {
+    "question": "What is the primary objective of the anaesthesia decree?",
+    "option_a": "Patient safety",
+    "option_b": "Public health",
+    "option_c": "Multidisciplinary interaction",
+    "option_d": "Pre-anaesthetic consultation",
+    "correct_option": "option_a"
+  }
+}

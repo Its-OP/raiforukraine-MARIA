@@ -1,0 +1,12 @@
+{
+  "folder": "IC-235",
+  "content": "{{knowledge objective\n|Identifiant=OIC-235-12-A\n|Item_parent=Acute pericarditis\n|Item_parent_short=Acute pericarditis\n|Rank=A\n|Title=Knowing the treatment of benign acute pericarditis\n|Description=Rest, analgesics, anti-inflammatory bi-therapy: aspirin or ibuprofen and colchicine\n|Rubric=Management\n|Contributors=Jennifer Cautela\n|Order=12}}\n\n\n* Rest, no sport (minimum duration until resolution of symptoms after normalisation of CRP, ECG and ETT: in practice 3 months)'''\n* Double anti-inflammatory treatment:''''\n** '''AINS :''''\n*** especially '''aspirin''' 1000 mg * 3 per day\n*** or ibuprofen 800 mg *3 per day for 2 weeks\n*** then decrease progressively according to symptoms and CRP\n** Systematically combined with '''COLCHICIN:''''\n*** 0.5 mg \u00d7 2 if weight > 70kg\n*** 0.5 mg daily if weight <70kg\n*** for 3 months,\n*** calms pain and above all reduces the risk of recurrence\n*** potential drug interactions (via cytochrome P450)\n*** strict biological monitoring (transaminases, creatinine, CPK, CBC, platelets)\n*** contraindicated in cases of severe renal impairment\n\n* Association with gastric protection\n* No corticosteroids as first-line treatment\n* Most often ''favourable'' outcome",
+  "question": {
+    "question": "What is the typical duration of rest and no sport for the treatment of benign acute pericarditis?",
+    "option_a": "1 month",
+    "option_b": "3 months",
+    "option_c": "6 months",
+    "option_d": "1 year",
+    "correct_option": "3 months"
+  }
+}

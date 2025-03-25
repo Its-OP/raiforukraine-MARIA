@@ -1,0 +1,41 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-36-B\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=B\n|Title=Recognising the particularities of STIs according to age\n|Description=Etiologies in post-menopausal women and young girls\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=36}}\nClinical signs do not change with age, except in newborns, where the eyes and respiratory tract may be affected.\n\nThere is no age-related STI\n\no However, induced HPV cancers take several years to develop after the first sexual intercourse.\n\no An STI in a child may raise suspicions of sexual abuse. The questioning and clinical examination must be meticulous and cautious in order not to falsely accuse a parent.\n\nWe are currently seeing an increase in the incidence of PID between the ages of 35 and 45, probably linked to the recomposition of couples and the resumption of sexual activity.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a potential consequence of an STI in a child?",
+        "description": "A child may be suspected of sexual abuse if an STI is detected.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "The child may be at risk of contracting another STI.",
+        "description": "A plausible but incorrect option that is related to the topic"
+      },
+      "option_b": {
+        "title": "The child may be at risk of physical harm from the perpetrator.",
+        "description": "A plausible but incorrect option that is related to the topic"
+      },
+      "option_c": {
+        "title": "The child's sexual activity may increase the risk of STI transmission.",
+        "description": "A plausible but incorrect option that is related to the topic"
+      },
+      "option_d": {
+        "title": "An STI in a child may raise suspicions of sexual abuse.",
+        "description": "The correct answer"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The letter of the correct option"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-161",
+  "content": "{{knowledge objective\n|Identifiant=OIC-161-08-A\n|Item_parent=Urinary infections in children and adults\n|Item_parent_short=Urinary infections in children and adults\n|Rank=A\n|Title=Know the diagnostic criteria for acute cystitis (simple, at risk of complication)\n|Description=Know the evolutionary potential of simple acute cystitis; know how to eliminate differential diagnoses.\n|Rubric=Positive diagnosis\n|Contributors=Maxime Vall\u00e9e, Alice Faure\n|Order=8}}\n\n==The diagnosis of cystitis is fairly straightforward, but there are a few important points to bear in mind:==\n\n*These are ''acute'' symptoms. Old symptoms are very rarely of infectious origin '''even if bacteriuria is demonstrated'''\n*The most frequent symptoms of the lower urinary tract (forget the term \"urinary incontinence and micturition disorders in adults and the elderly|urinary functional signs 125]\") are those of the filling phase:\n**pollakiuria\n**urinary urgency\n**incontinence sometimes\n*Dysuria is sometimes noted, but this is related to pollakiuria (the patient \"forces an empty bladder\" because the need is felt).\n*The main symptom = urinary burning\n*Other frequent symptoms: discreet [[Haematuria|haematuria 260]], pyuria, bladder tenesmus with pelvic pain/weight at the end of micturition.\n*On the other hand, these symptoms are the only way of expressing a \"bladder disorder\". Many pathologies (idiopathic overactive bladder, bladder tumour, etc.) manifest themselves in the same way. It is often a careful history that helps to distinguish between a recent and an old event.\n\n<br />\n\n*'''<u>Remember that the evolution of simple cystitis is not pyelonephritis!</u>''''\n\n<br />\n\n*In the absence of any anatomical or functional abnormality, cystitis does not become pyelonephritis (hence the classification of cystitis at risk of complications). This rare complication accounts for less than 1% of cystitis cases. This explains why the clinical presentation of ANP is febrile back pain without any lower urinary tract symptoms.",
+  "question": {
+    "question": "What is the evolution of simple cystitis?",
+    "option_a": "It often leads to pyelonephritis",
+    "option_b": "It is characterized by febrile back pain without lower urinary tract symptoms",
+    "option_c": "It is a complication that accounts for less than 1% of cystitis cases",
+    "option_d": "It is always accompanied by urinary incontinence",
+    "correct_option": "C"
+  }
+}

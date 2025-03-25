@@ -1,0 +1,12 @@
+{
+  "folder": "IC-039",
+  "content": "{{knowledge objective\n|Identifiant=OIC-039-07-A\n|Item_parent=Medical assistance for procreation: the main biological, medical and ethical aspects\n|Item_parent_short=Medical assistance for procreation: the main biological, medical and ethical aspects\n|Rank=A\n|Title=Knowing the main indications for artificial insemination\n|Description=None\n|Rubric=Etiologies\n|Contributors=Patricia Fauque,Fabrice Guerif,Charlotte Sonigo,Geoffroy Robin,Pierre-Emmanuel Bouet,St\u00e9phanie Huberlant,Nathalie Rives\n|Order=7}}\n\nAn IUI can be performed with sperm selected from a \"fresh\" or frozen sperm sample.\n\nIUI with frozen sperm can be carried out using the sperm of the partner (''IAC'') or a third-party donor (''IAD'').\n\n\n'''Indication of IAC with \"fresh\" spermatozoa:''''\n\n*Unexplained infertility\n*Cervical infertility (abnormalities of the cervix and/or cervical mucus)\n*Moderate alterations in sperm parameters\n*Ballistic sexual disorders ([[Sexual disorders and erectile dysfunctions SD-063|Sexual disorders and erectile dysfunctions]]: erectile dysfunction, ante-portal ejaculation ...) <br />\n\n'''Indications for IAC with frozen sperm:'''\n\n*Spermatozoa stored prior to gonadotoxic treatment with persistence of severe spermatogenesis disorders following treatment (spermogram 2 years after the end of treatment).\n*Sperm stored for other medical indications (e.g. collection difficulties)\n*Context of viral risk in men (mainly hepatitis B and C, HIV) <br />\n\n'''Indications for IAD with frozen donor sperm:'''\n\n*Obstructive or non-obstructive azoospermia with or without failure of surgical extraction of testicular or epididymal sperm.\n*Repeated ICSI failures for male indications\n*Genetic pathology / male cytogenetics\n*Female couples or unmarried women\n\n<br />",
+  "question": {
+    "question": "What are the main indications for artificial insemination using frozen sperm?",
+    "option_a": "Unexplained infertility and cervical infertility (abnormalities of the cervix and/or cervical mucus)",
+    "option_b": "Spermatozoa stored prior to gonadotoxic treatment and context of viral risk in men (mainly hepatitis B and C, HIV)",
+    "option_c": "Obstructive or non-obstructive azoospermia with or without failure of surgical extraction of testicular or epididymal sperm",
+    "option_d": "Repeated ICSI failures for male indications and genetic pathology / male cytogenetics",
+    "correct_option": "B"
+  }
+}

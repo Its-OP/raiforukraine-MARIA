@@ -1,0 +1,12 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-14-A\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=A\n|Title=Deaf child\n|Description=A better definition?\n|Rubric=Definition\n|Contributors=\n|Order=14}}\nSee also ''[[item 89]]''\n\nDefinition according to\n\n* the degree assessed on four conversational frequencies: 500, 1,000, 2,000 and 4,000 Hertz (Hz) of the better ear\n** mild (hearing loss of 21 to 40 decibels (dB))\n** moderate (41 to 70 dB loss)\n** severe (71 to 90 dB loss)\n** profound (loss of more than 90 dB) where nothing is perceived even when the voice is loud\n\n* organs affected\n** sound transmission (mostly acquired): outer ear and middle ear\n** perception (mostly congenital, sometimes acquired as after certain bacterial meningitis): inner ear, more rarely the central auditory system.\n** mixed",
+  "question": {
+    "question": "What is the definition of a deaf child?",
+    "option_a": "A child with a hearing loss of 21 to 40 decibels (dB) in the better ear",
+    "option_b": "A child with a hearing loss of 41 to 70 dB in the better ear",
+    "option_c": "A child with a hearing loss of 71 to 90 dB in the better ear",
+    "option_d": "A child with a hearing loss of more than 90 dB in the better ear",
+    "correct_option": "D"
+  }
+}

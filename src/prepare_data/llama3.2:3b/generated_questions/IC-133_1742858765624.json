@@ -1,0 +1,46 @@
+{
+  "folder": "IC-133",
+  "content": "{{knowledge objective\n|Identifiant=OIC-133-04-A\n|Item_parent=Autonomy and dependence in elderly people\n|Item_parent_short=Autonomy and dependence in elderly people\n|Rank=A\n|Title=Knowing the main scales for assessing dependency\n|Description=Know the score measuring basic acts (Katz scales) and instrumental acts of daily living (Lawton scale)\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=4}}\n- '''ADL''' : ''Activities of daily living''. It is used to determine the ability of the person being assessed to carry out everyday activities involving the body. It is a short scale, easy to use and highly predictive of morbidity and mortality. The items studied are body care, dressing, using the toilet, transfers, continence and eating. A score of 6 indicates complete autonomy, while any loss of a point indicates dependence, with a greater risk of adverse events.\n\n- IADL: Instrumental activities of daily living. Instrumental activities of daily living require the use of so-called instrumental cognitive functions, such as arithmetic and the development of executive strategies. This scale is highly predictive of an elderly person's ability to live alone at home. The items studied are the ability to use a telephone, do the shopping, prepare a meal, do the housework, wash clothes, prepare for a trip, take medication or manage a personal budget. The subject assesses his or her own abilities, but it may be useful to check with family and friends or to use role-playing.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary purpose of the Katz scales?",
+        "description": "A question about the Katz scales",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To assess instrumental activities of daily living",
+        "description": "A plausible distractor",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "To determine the ability of the person being assessed to carry out everyday activities involving the body",
+        "description": "A correct option",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "To evaluate the cognitive function of an elderly person",
+        "description": "A plausible distractor",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "To assess the ability of an elderly person to live alone at home",
+        "description": "A distractor that is similar to option B",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The correct letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

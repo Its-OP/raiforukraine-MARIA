@@ -1,0 +1,12 @@
+{
+  "folder": "IC-086",
+  "content": "{{knowledge objective\n|Identifiant=OIC-086-06-A\n|Item_parent=Eyelid pathology\n|Item_parent_short=Eyelid pathology\n|Rank=A\n|Title=Recognising a stye\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=6}}\n'''Stye=''''' furuncle of the free edge of the eyelid centred on a pilosebaceous follicle of the eyelash.\n\nIt corresponds to a bacterial infection, most often with Staphylococcus aureus, of the pilosebaceous follicle. It develops over a few days and can cause severe pain. Clinically, it appears as a red swelling centred by a white dot at the free edge. Secretions are not always present at first.",
+  "question": {
+    "question": "What is a stye?",
+    "option_a": "A small cyst on the eyelid",
+    "option_b": "A bacterial infection of the pilosebaceous follicle of the eyelash",
+    "option_c": "A red swelling on the eyelid with a black spot in the centre",
+    "option_d": "A viral infection of the eyelid",
+    "correct_option": "B"
+  }
+}

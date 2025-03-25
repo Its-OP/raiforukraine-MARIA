@@ -1,0 +1,46 @@
+{
+  "folder": "IC-005",
+  "content": "{{knowledge objective\n|Identifiant=OIC-005-13-A\n|Item_parent=Medical criminal, civil, administrative and disciplinary liability. The management of errors and complaints; therapeutic hazards\n|Item_parent_short=Penal, civil, administrative and disciplinary medical liability. The management of errors and complaints; the therapeutic hazard\n|Rank=A\n|Title=Human factors: understanding the concept of human error (typology and contributing factors)\n|Description=None\n|Rubric=Definition\n|Contributors=Bastien Boussat\n|Order=13}}\n\nHuman beings are fallible and it is in their nature to make mistakes. Acknowledging that we can make mistakes is a prerequisite for adopting error-prevention behaviour. Acknowledging that we have made a mistake is an opportunity to learn and progress. This is true for individuals, but it is also true for organisations. When an organisation puts in place systems for identifying, analysing and preventing errors, we speak of a \"learning organisation\".\n\n'''Individual human factors'''\n\nLack of knowledge, skills and experience can lead to mistakes. It's important to remember that you can't know everything. Memory is limited and you need to be able to check or ask for help.\n\nStress, lack of time, fatigue and illness are also circumstances that reduce an individual's performance.\n\nCertain linguistic or cultural factors which can interfere with the proper understanding of a situation. Finally, there are also factors linked to the patient, whose attitude or behaviour influences the risk of error.\n\n'''Collective human factors'''\n\nProviding care, especially in hospitals, is a team effort. Poor team organisation, a lack of communication and even conflict can hamper cooperation and increase the risk of errors.\n\nAn effective team starts with the awareness that it is a team with identified leadership. Everyone's role is clearly defined. Communication is organised with briefings before the action and debriefings afterwards.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary factor that contributes to human error?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Lack of knowledge and skills",
+        "description": "A common misconception that human error can be prevented by having all the necessary skills and knowledge.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Stress and fatigue",
+        "description": "A common misconception that human error can be prevented by managing stress and fatigue.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Poor communication",
+        "description": "A common misconception that human error can be prevented by having clear and effective communication.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "A team effort",
+        "description": "A common misconception that human error can be prevented by having a team effort.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Lack of knowledge and skills",
+        "description": "This consists only of option_a",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

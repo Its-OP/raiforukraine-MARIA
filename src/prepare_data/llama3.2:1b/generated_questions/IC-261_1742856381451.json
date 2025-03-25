@@ -1,0 +1,12 @@
+{
+  "folder": "IC-261",
+  "content": "{{knowledge objective\n|Identifiant=OIC-261-10-B\n|Item_parent=Glomerular nephropathy\n|Item_parent_short=Glomerular nephropathy\n|Rank=B\n|Title=Know the main ways in which SNLGM develops\n|Description=Know the circumstances that suggest corticosteroid-sensitive, corticosteroid-resistant and corticosteroid-dependent NS.\n|Topic=Follow-up and/or prognosis\n|Contributors=Eric Daugas,Bruno Moulin\n|Order=10}}\n\n'''Evolution/ prognosis: 3 possibilities'''\n\n* Corticosensitivity (80-90% of cases): disappearance of proteinuria. Relapse after discontinuation of treatment in 50% of cases, necessitating resumption of corticosteroid therapy.\n* Corticodependence: relapse after corticosensitivity occurring when corticosteroid therapy is reduced or rapidly after it is stopped. Often requires the addition of an immunosuppressant or immunomodulator.\n* Corticoresistance: non-response (10% of cases), risk (50%) of end-stage chronic renal failure within 5 years.\n\n<br />",
+  "question": {
+    "question": "What is the main difference between corticosteroid-sensitive, corticosteroid-resistant, and corticosteroid-dependent NS?",
+    "option_a": "Corticosteroid-sensitive NS is characterized by the presence of proteinuria and the need for corticosteroid therapy to control proteinuria.",
+    "option_b": "Corticosteroid-resistant NS is characterized by the absence of proteinuria and the need for corticosteroid therapy to control proteinuria.",
+    "option_c": "Corticosteroid-dependent NS is characterized by the presence of proteinuria and the need for corticosteroid therapy to control proteinuria, but with a higher risk of end-stage chronic renal failure.",
+    "option_d": "Corticosteroid-sensitive NS is characterized by the absence of proteinuria and the need for corticosteroid therapy to control proteinuria, but with a lower risk of end-stage chronic renal failure.",
+    "correct_option": "option_c"
+  }
+}

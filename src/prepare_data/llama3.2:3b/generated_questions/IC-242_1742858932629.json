@@ -1,0 +1,46 @@
+{
+  "folder": "IC-242",
+  "content": "{{knowledge objective\n|Identifiant=OIC-242-01-A\n|Item_parent=Hyperthyroidism\n|Item_parent_short=Hyperthyroidism\n|Rank=A\n|Title=Know the definition of hyperthyroidism and thyrotoxicosis\n|Description=None\n|Rubric=Definition\n|Contributors=Dr Camille Buffet,Dr Magalie Haissaguerre\n|Order=1}}\n\nHyperthyroidism = excess production of thyroid hormones linked to hyperfunction of the thyroid gland.\n\nThyrotoxicosis = consequences of excess thyroid hormones in target tissues, whatever the cause:\n\n* release of thyroid hormones, as in De Quervain's sub-acute thyroiditis, for example\n* hyperproduction of thyroid hormones by the thyroid gland, as in Graves' disease, for example\n* exogenous supply of thyroid hormones (factitious thyrotoxicosis).\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the definition of thyrotoxicosis?",
+        "description": "The consequences of excess thyroid hormones in target tissues, whatever the cause.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Excess production of thyroid hormones linked to hyperfunction of the thyroid gland.",
+        "description": "A condition characterized by an overproduction of thyroid hormones by the thyroid gland.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Release of thyroid hormones due to injury or infection.",
+        "description": "A consequence of thyroid hormone release, as in De Quervain's sub-acute thyroiditis.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Exogenous supply of thyroid hormones from external sources.",
+        "description": "A cause of thyrotoxicosis, such as factitious thyrotoxicosis.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "A combination of all the above options.",
+        "description": "A comprehensive definition of thyrotoxicosis.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "option_c",
+        "description": "",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

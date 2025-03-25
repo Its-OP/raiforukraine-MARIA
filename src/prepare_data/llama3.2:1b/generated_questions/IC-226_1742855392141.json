@@ -1,0 +1,12 @@
+{
+  "folder": "IC-226",
+  "content": "{{knowledge objective\n|Identifiant=OIC-226-17-B\n|Item_parent=Deep vein thrombosis and pulmonary embolism (see item 330)\n|Item_parent_short=Deep vein thrombosis and pulmonary embolism (see item 330)\n|Rank=B\n|Title=Knowing the complication to detect before stopping anticoagulant treatment for PE\n|Description=None\n|Topic=Follow-up and/or prognosis\n|Contributors=Gilles Pernod, Virginie Dufrost, Guillaume Mah\u00e9\n|Order=17}}\nBefore stopping the anticoagulant treatment prescribed for PE, it is important to ensure that there is no [[Dyspnoea SD-162|dyspnoea]]. In the event of dyspnoea, it is essential to detect [[https://sides.uness.fr/lisa/Savoir_%C3%A9voquer_les_complications_%C3%A0_long_terme_de_la_MTEV_(post-thrombotic_syndrome,_HTAP)_2C-226-SP-B01 post-embolic pulmonary hypertension (PH)] by first performing a transthoracic Doppler cardiac ultrasound.\n----",
+  "question": {
+    "question": "What is the name of the complication to detect before stopping anticoagulant treatment for Deep Vein Thrombosis and Pulmonary Embolism?",
+    "option_a": "pulmonary embolism",
+    "option_b": "Pulmonary hypertension",
+    "option_c": "Dyspnoea",
+    "option_d": "Pulmonary hypertension",
+    "correct_option": "pulmonary embolism"
+  }
+}

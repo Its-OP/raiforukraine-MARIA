@@ -1,0 +1,45 @@
+{
+  "folder": "IC-156",
+  "content": "{{knowledge objective\n|Identifiant=OIC-156-11-B\n|Item_parent=Infections in the bones and joints (IOA) of children and adults\n|Item_parent_short=Infections osteo articulaires (IOA) de l'enfant et de l'adulte\n|Rank=B\n|Title=Knowing the complications of acute septic arthritis\n|Description=None\n|Topic=Follow-up and/or prognosis\n|Contributors=Dr Florent Valour\n|Order=11}}\n- Sepsis, septic shock\n\n- Abscesses of adjacent soft tissue\n\n- Contiguous osteitis\n\n- Joint destruction with functional sequelae\n\n- Linked to bacteremia: infective endocarditis, other secondary localizations",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a potential complication of acute septic arthritis?",
+        "description": "A complication of acute septic arthritis in children and adults",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Joint destruction with functional sequelae",
+        "description": "A possible outcome of untreated septic arthritis",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Infective endocarditis",
+        "description": "A condition that can be caused by bacteremia",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Osteomyelitis",
+        "description": "An infection of the bone",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Septic shock",
+        "description": "A life-threatening condition that can occur in response to sepsis",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Joint destruction with functional sequelae",
+        "description": "The correct answer, indicating a potential long-term consequence of untreated septic arthritis"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

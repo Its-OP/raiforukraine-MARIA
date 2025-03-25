@@ -1,0 +1,46 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-26-B\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=B\n|Title=Knowing the elements for interpreting bone age on a wrist X-ray\n|Description=None\n|Rubric=Additional examinations\n|Contributors=\n|Order=26}}\nBone age: assessment of bone maturation (onset of puberty=sesamoid at 11 years in girls and 13 years in boys). It is most often advanced in early puberty. The standard deviation of this radiographic assessment is plus or minus two years.\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the typical age range for the onset of puberty, as assessed through a wrist X-ray?",
+        "description": "Bone age assessment on a wrist X-ray is used to determine the onset of puberty.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "10-12 years",
+        "description": "The onset of puberty typically occurs between 10-12 years in girls and 12-14 years in boys.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "11-13 years",
+        "description": "The standard deviation of this radiographic assessment is plus or minus two years, so the typical age range is 11-13 years in girls and 13-15 years in boys.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "12-14 years",
+        "description": "The onset of puberty typically occurs between 12-14 years in girls and 14-16 years in boys.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "13-15 years",
+        "description": "The standard deviation of this radiographic assessment is plus or minus two years, so the typical age range is 13-15 years in girls and 15-17 years in boys.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct option is the one that matches the typical age range for the onset of puberty, as assessed through a wrist X-ray.",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

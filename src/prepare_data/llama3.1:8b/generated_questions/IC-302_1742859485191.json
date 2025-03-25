@@ -1,0 +1,12 @@
+{
+  "folder": "IC-302",
+  "content": "{{knowledge objective\n|Identifiant=OIC-302-14-B\n|Item_parent=Cutaneous, epithelial and melanoma tumours\n|Item_parent_short=Cutaneous, epithelial and melanoma tumours\n|Rank=B\n|Title=Photograph of a skin precancerous lesion\n|Description=Photography of typical actinic keratoses\n|Rubric=Multimedia content\n|Contributors=\n|Order=14}}\n\n[[File:Figure C.jpg|vignette|Multiple actinic keratoses of the scalp]]",
+  "question": {
+    "question": "What is the characteristic that distinguishes actinic keratoses from other skin lesions?",
+    "option_a": "The presence of a dark pigment",
+    "option_b": "The presence of a scaly or rough texture",
+    "option_c": "The appearance of multiple lesions in sun-exposed areas",
+    "option_d": "The presence of a distinct border",
+    "correct_option": "C"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-245",
+  "content": "{{knowledge objective\n|Identifiant=OIC-245-04-A\n|Item_parent=Adrenal insufficiency in adults and children\n|Item_parent_short=Adrenal insufficiency in adults and children\n|Rank=A\n|Title=Knowing the clinical and biological signs of adrenal insufficiency\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Claire Briet,St\u00e9phanie Espiard\n|Order=4}}\n'''1. Clinical signs'''\n\nGeneral signs are less marked than in primary adrenal insufficiency (see Table 1). They depend on the depth of corticotropic insufficiency, which may be only partial. Asthenia may be the only clinical sign.\n\n<u>No melanoderma replaced by pallor</u>.\n\nDepending on the aetiology, it may be associated with signs of deficiency of other pituitary hormones, a tumour syndrome with signs of chiasmatic compression and headaches (Cf. [[Pituitary adenoma]]).\n\n\n'''2.   Biological signs:''' see table 1 (semiology chapter)\n\n<u>Hyponatremia WITHOUT hyperkalemia</u>.",
+  "question": {
+    "question": "What is a common biological sign of adrenal insufficiency?",
+    "option_a": "Hyperkalemia",
+    "option_b": "Hyponatremia with hyperkalemia",
+    "option_c": "Hyponatremia without hyperkalemia",
+    "option_d": "Hypernatremia",
+    "correct_option": "C"
+  }
+}

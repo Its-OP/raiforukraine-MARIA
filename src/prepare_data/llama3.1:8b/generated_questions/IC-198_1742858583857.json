@@ -1,0 +1,12 @@
+{
+  "folder": "IC-198",
+  "content": "{{knowledge objective\n|Identifiant=OIC-198-06-B\n|Item_parent=Microcrystalline arthropathies\n|Item_parent_short=Microcrystalline arthropathies\n|Rank=B\n|Title=Radiography of the pelvis: calcifications of the pubic symphysis and femoral cartilages\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=6}}\n<gallery widths=\"401\" heights=\"400\">\nFile:Pelvis radiography femoral cartilage calcifications .PNG|Pelvis radiography: femoral cartilage calcifications.\n</gallery><gallery widths=\"400\" heights=\"400\">\nFile:Radiography of pelvis calcifications of the pubic symphysis .PNG|Radiography of pelvis: calcifications of the pubic symphysis\n</gallery>",
+  "question": {
+    "question": "What is typically visible on a radiography of the pelvis in cases of microcrystalline arthropathies?",
+    "option_a": "Calcifications of the pubic symphysis and femoral bone",
+    "option_b": "Calcifications of the pubic symphysis and femoral cartilages",
+    "option_c": "Calcifications of the femoral bone and hip joint",
+    "option_d": "Calcifications of the pubic bone and sacroiliac joint",
+    "correct_option": "B"
+  }
+}

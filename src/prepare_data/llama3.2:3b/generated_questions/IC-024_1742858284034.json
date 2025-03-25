@@ -1,0 +1,46 @@
+{
+  "folder": "IC-024",
+  "content": "{{knowledge objective\n|Identifiant=OIC-024-02-A\n|Item_parent=Main complications of pregnancy.\n|Item_parent_short=Main complications of pregnancy.\n|Rank=A\n|Title=Knowing how to manage a first-trimester miscarriage\n|Description=Treatment of miscarriage\n|Rubric=Management\n|Contributors=Paul Berveiller,Philippe Deruelle\n|Order=2}}\n\nSupport :\n\n'''Attention+++ :'''\n\n- '''prevention of rhesus alloimmunisation'''-D\n\n- Importance of ''information'' given to the patient - ''reassurance''.\n\n- Psychological care offered\n\nAfter discussion with the patient, it is possible to consider expulsion of the terminated pregnancy. Two methods are possible:\n\n- medical treatment (prostaglandins) for small bags and minor haemorrhages\n\n- surgical treatment'' in other cases.\n\n- hospitalisation, pre-operative assessment and anaesthetic consultation\n\n- under general or local anaesthetic\n\n- dilatation of the cervix, aspiration with a cannula + anatomopathological examination of the aspiration product\n\n- Checking uterine vacuity on ultrasound\n\n- out the same day or the following day.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a possible method for managing a first-trimester miscarriage?",
+        "description": "A multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Hospitalization for observation only",
+        "description": "A plausible but incorrect option",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Surgical treatment with general anesthesia",
+        "description": "A plausible but incorrect option",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Dilatation of the cervix and aspiration with cannula",
+        "description": "A correct option",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Prevention of rhesus alloimmunization",
+        "description": "A plausible but incorrect option",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "",
+        "description": "",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

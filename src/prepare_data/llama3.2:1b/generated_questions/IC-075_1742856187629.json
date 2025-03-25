@@ -1,0 +1,42 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-29-B\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=B\n|Title=Knowing how to look for co-morbidities according to the patient's condition\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=29}}\nIn the case of dependence, pharmacological treatment is recommended as it reduces withdrawal symptoms, craving and relapses.\n\nIt is important to assess psychiatric co-morbidities and co-addictions prior to smoking cessation.\n\n*Psychiatric disorders\n**Schizophrenia 82% of smokers\n**Bipolar disorder 56% of smokers\n**Look for anxiety disorders and major depressive episodes.\n***there are links between difficulty in quitting and depressive symptoms\n***There are anxiety and depressive symptoms induced by withdrawal:\n**** lasting a few weeks => no pharmacological treatment but support in consultation\n**** beyond => specific psychiatric treatment\n**At a distance from withdrawal, improvement in anxiety and depressive symptoms and quality of life.  <br />\n\n*Co-addictions\n**Use or misuse of alcohol and/or cannabis\n**Other psychoactive substances (in the context of poly-drug use)\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Question",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Option A",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Option B",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Option C",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Option D",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "correct_option"
+    ],
+    "type": "object"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "folder": "IC-242",
+  "content": "{{knowledge objective\n|Identifiant=OIC-242-06-A\n|Item_parent=Hyperthyroidism\n|Item_parent_short=Hyperthyroidism\n|Rank=A\n|Title=Knowing how to interpret hormone assays\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Dr Camille Buffet,Dr Magalie Haissaguerre\n|Order=6}}\n\nTSH = [[Reasoned request/prescription and choice of diagnostic test SD-178|first-line test]] :\n\n- Always collapsed in cases of peripheral hyperthyroidism.\n\n- If TSH is low, second-line T4L assay to assess the severity of thyrotoxicosis.\n\n- Determination of T3L, if T4L is normal, to look for T3 hyperthyroidism.\n\nA distinction is made between frust or sub-clinical thyroid disease (with normal peripheral hormones) and frank thyroid disease (with elevated peripheral hormones).",
+  "question": {
+    "question": "What is the primary purpose of measuring TSH in a patient with hyperthyroidism?",
+    "option_a": "To confirm the diagnosis of hyperthyroidism by ruling out hypothyroidism",
+    "option_b": "To assess the severity of thyrotoxicosis and guide treatment",
+    "option_c": "To distinguish between frust or sub-clinical thyroid disease and frank thyroid disease",
+    "option_d": "To evaluate the effectiveness of treatment and monitor for recurrence"
+  }
+}

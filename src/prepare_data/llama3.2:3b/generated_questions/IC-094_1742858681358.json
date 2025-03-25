@@ -1,0 +1,46 @@
+{
+  "folder": "IC-094",
+  "content": "{{knowledge objective\n|Identifiant=OIC-094-10-B\n|Item_parent=Rachialgia\n|Item_parent_short=Rachialgia\n|Rank=B\n|Title=Knowing the other causes of secondary spinal pain\n|Description=Description and list of aetiologies\n|Rubric=Etiologies\n|Contributors=Bisseriex H\u00e9l\u00e8ne,Nguyen Christelle\n|Order=10}}\n\n'''Autres \u00c9TIOLOGIES ''(rang B)''' des rachialgies secondaires :''''\n\no chondrocalcinosis, apatite rheumatism (peri-odontoid or disc calcifications), rheumatoid arthritis ''[[Discovery of a bone and joint abnormality on medical imaging examination SDD-228|(discovery of a bone and joint abnormality on medical imaging examination)]''''\n\no neurological: intrarachid or posterior fossa tumour (neck pain)\n\no referred pain of ENT or anterior cervical origin (cervicalgia) ''[[Discovery of a cervico-facial anomaly on medical imaging examination SDD-225|(discovery of a cervico-facial anomaly on medical imaging examination)]]''''",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What are some other causes of secondary spinal pain?",
+        "description": "List the other aetiologies of secondary spinal pain",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Osteoporosis",
+        "description": "A condition characterized by a decrease in bone mass and density",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Chondrocalcinosis",
+        "description": "A condition characterized by the accumulation of calcium pyrophosphate dihydrate crystals in the cartilage",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Referred pain of ENT origin",
+        "description": "Pain referred from the ears, nose, and throat",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Intrarachid tumour",
+        "description": "A type of tumour that occurs within the space surrounding the brain and spinal cord",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "C",
+        "description": "The correct letter of the option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

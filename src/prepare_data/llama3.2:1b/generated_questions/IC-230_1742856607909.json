@@ -1,0 +1,19 @@
+{
+  "folder": "IC-230",
+  "content": "{{knowledge objective\n|Identifiant=OIC-230-01-A\n|Item_parent=Acute chest pain\n|Item_parent_short=Acute chest pain\n|Rank=A\n|Title=Know the definition of acute chest pain\n|Description=None\n|Rubric=Definition\n|Contributors=Vincent Roule\n|Order=1}}\n'''Know the definition of acute chest pain'''\n\n<nowiki/>= pain (or discomfort) in the region of the rib cage (between the neck and the umbilicus) occurring suddenly.\n\nVariable characteristics: intensity, location, irradiation, duration, triggering or relieving factor, frequency.",
+  "question": {
+    "question": "What is the primary characteristic of acute chest pain?",
+    "option_a": "A. The pain is usually felt in the left side of the chest.",
+    "option_b": "B. The pain is usually felt in the right side of the chest.",
+    "option_c": "C. The pain is usually felt in the front of the chest.",
+    "option_d": "D. The pain is usually felt in the back of the chest.",
+    "correct_option": "A",
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d"
+    ]
+  }
+}

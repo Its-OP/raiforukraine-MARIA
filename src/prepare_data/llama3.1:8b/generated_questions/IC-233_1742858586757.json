@@ -1,0 +1,12 @@
+{
+  "folder": "IC-233",
+  "content": "{{knowledge objective\n|Identifiant=OIC-233-12-B\n|Item_parent=Valvulopathies\n|Item_parent_short=Valvulopathies\n|Rank=B\n|Title=Knowing the medical treatment of AI\n|Description=Beta-blocker in Marfan's disease\n|Topic=Management\n|Contributors=Myriam Akodad,Florence Leclercq\n|Order=12}}\n\n*Medical treatment is indicated in cases of AI with no indication for surgery.\n*Treatment is based on :\nHygienic and dietary rules: low salt diet'' **''Pharmacological treatment'': low salt diet''\n**Pharmacological treatment'' :\n***IEC/ARA 2, +/- diuretics\n***In case of Marfan (or dilatation of the ascending aorta): beta-blockers or ARB 2 (Losartan) to slow down the dilatation of the aorta.\n**Prevention of infective endocarditis: oral hygiene/6 months, follow-up.\n**'''Family screening''' if Marfan's disease or bicuspidia<ins> (first-degree relatives)</ins> **'''Monitoring''' of aortic dilatation in aorta\n**'''Monitoring''': clinical, ECG and ETT:\n***6 months-1 year in moderate to severe asymptomatic IA.\n***Every year if Aorta >40mm\n***Every 2 years if minimal IA",
+  "question": {
+    "question": "What is the medical treatment for Aortic Insufficiency (AI) in patients with Marfan's disease?",
+    "option_a": "Beta-blockers or ARB 2 (Losartan) to slow down the dilatation of the aorta, in addition to hygienic and dietary rules",
+    "option_b": "IEC/ARA 2, +/- diuretics, in addition to hygienic and dietary rules",
+    "option_c": "Low salt diet and prevention of infective endocarditis, with no pharmacological treatment",
+    "option_d": "Family screening and monitoring of aortic dilatation, with no pharmacological treatment",
+    "correct_option": "A"
+  }
+}

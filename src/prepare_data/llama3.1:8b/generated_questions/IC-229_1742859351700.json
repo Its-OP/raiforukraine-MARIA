@@ -1,0 +1,12 @@
+{
+  "folder": "IC-229",
+  "content": "{{knowledge objective\n|Identifiant=OIC-229-03-A\n|Item_parent=Venous access monitoring and complications\n|Item_parent_short=Venous access monitoring and complications\n|Rank=A\n|Title=Knowing the technique for inserting a peripheral venous line\n|Description=Link to a video filming and explaining the insertion of a VVP\n|Topic=Management\n|Contributors= Philippe Lacroix, Simon Rickenbach\n|Order=3}}\n[https://videotheque.uness.fr/w/8kikHuJrr7kTcLQJ4QuY7y Learn how to insert a peripheral venous line]",
+  "question": {
+    "question": "What is the primary goal of inserting a peripheral venous line?",
+    "option_a": "To administer medication directly into the bloodstream",
+    "option_b": "To monitor venous pressure and prevent complications",
+    "option_c": "To obtain blood samples for laboratory analysis",
+    "option_d": "To provide a route for fluid resuscitation in emergency situations",
+    "correct_option": "A"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-024",
+  "content": "{{knowledge objective\n|Identifiant=OIC-024-13-B\n|Item_parent=Main complications of pregnancy.\n|Item_parent_short=Main complications of pregnancy.\n|Rank=B\n|Title=Knowing how to prescribe rest measures and antihypertensive treatment for pregnant women.\n|Description=To know the rules for prescribing antihypertensive treatment in cases of hypertension / to know the targets for antihypertensive treatment in pregnant women.\n|Rubric=Management\n|Contributors=Paul Berveiller,Philippe Deruelle\n|Order=13}}\n\nResting = not strict but work stoppage\n\n- +/- antihypertensive treatment\n\nObjective: avoid hypertensive spikes and limit maternal complications\n\n- indicated for severe hypertension (SAP \u2265 160 mmHg and/or DBP \u2265 110 mmHg)\n\n- Blood pressure targets: PAS= 140-155 mmHg and PAD = 90-105 mmHg.\n\n- Caution: no salt-free diet or diuretics - ACE inhibitors and ARB2s contraindicated\n\nYou can use :\n\n- 1st line: central antihypertensives (alphamethyldopa)\n\n- in the 2nd<sup> intention (and in cases of pre-eclampsia):\n\n- calcium-channel blockers (nicardipine, nifedipine),\n\n- alpha-blockers (urapidil),\n\n- alpha and beta-blockers (labetalol, which has fewer side-effects than beta-blockers and is most often combined when dual therapy is required).",
+  "question": {
+    "question": "What is the primary goal of antihypertensive treatment in pregnant women?",
+    "option_a": "To lower blood pressure as quickly as possible to prevent maternal complications",
+    "option_b": "To avoid hypertensive spikes and limit maternal complications while maintaining a blood pressure target of 140-155 mmHg systolic and 90-105 mmHg diastolic",
+    "option_c": "To manage pre-eclampsia by using diuretics and salt-free diets",
+    "option_d": "To use ACE inhibitors and ARBs as first-line treatment",
+    "correct_option": "B"
+  }
+}

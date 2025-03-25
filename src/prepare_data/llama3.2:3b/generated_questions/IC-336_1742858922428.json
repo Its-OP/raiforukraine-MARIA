@@ -1,0 +1,12 @@
+{
+  "folder": "IC-336",
+  "content": "{{knowledge objective\n|Identifiant=OIC-336-15-B\n|Item_parent=Non-traumaticoma in adults and children\n|Item_parent_short=Non-traumatic coma in adults and children\n|Rank=B\n|Title=Know the associated therapeutic measures for the main complications\n|Description=Airway protection methods, ventilatory assistance, the fight against hypothermia and the consequences of compression points.\n|Rubric=Management\n|Contributors=Nicolas Weiss\n|Order=15}}\n\n- If GCS < 8 and no rapidly reversible cause, orotracheal intubation and initiation of mechanical ventilation\n\n- Maintaining homeostasis / preventing ACSOS :\n\no Maintain normal blood sugar levels\n\no Maintain normal temperature (avoid hyperthermia but also hypothermia)\n\no Maintain normal BP (avoid hypovolaemia)\n\no Control of natraemia, PaCO2\n\no Avoid hypoxaemia\n\n- Prefer infusion of physiological saline (isotonic) to infusion of glucose (hypotonic) as a base infusion.\n\n- Mobilisation and prevention of decubitus complications",
+  "question": {
+    "question": "What is the preferred base infusion for a patient with a non-traumatic coma?",
+    "option_a": "Glucose (hypotonic) solution",
+    "option_b": "Physiological saline (isotonic) solution",
+    "option_c": "Lactated Ringer's solution",
+    "option_d": "Dextrose 5% solution with normal saline",
+    "correct_option": "B"
+  }
+}

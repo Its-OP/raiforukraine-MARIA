@@ -1,0 +1,12 @@
+{
+  "folder": "IC-024",
+  "content": "{{knowledge objective\n|Identifiant=OIC-024-22-A\n|Item_parent=Main complications of pregnancy.\n|Item_parent_short=Main complications of pregnancy.\n|Rank=A\n|Title=Knowing the measures to prevent the threat of premature birth.\n|Description=Primary and secondary prevention\n|Heading=Management\n|Contributors=Paul Berveiller,Philippe Deruelle\n|Order=22}}\n\n'''Primary prevention:'''\n\n- eliminating risk factors (tobacco, toxic substances, stopping work [[Prevention of foetal risks SD-312]]; [[Prevention of tobacco-related risks SD-314]]; [[Prevention of occupational risks SD-315|Prevention of alcohol-related risks SD-313;]]) )\n\n- if there is a history of AP or FCT (morphological assessment of the uterine cavity, bacteriological investigation and treatment of bacterial vaginosis)\n\n'''Secondary prevention:'''\n\n- If there is a history of premature delivery, the decision to perform a cerclage will depend on the type of history and the current pregnancy.\n\n- No preventive cerclage simply because of a history of conisation, uterine malformation, twin pregnancy or an isolated history of premature delivery.",
+  "question": {
+    "question": "What is the purpose of a cerclage in a pregnancy with a history of premature delivery?",
+    "option_a": "To prevent premature birth in all cases, regardless of the type of history",
+    "option_b": "To prevent premature birth only in cases where the previous delivery was premature due to cervical insufficiency",
+    "option_c": "To prevent premature birth only in cases where the current pregnancy is a twin pregnancy",
+    "option_d": "To prevent premature birth only in cases where the previous delivery was premature due to a uterine malformation",
+    "correct_option": "B"
+  }
+}

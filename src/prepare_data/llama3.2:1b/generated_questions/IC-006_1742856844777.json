@@ -1,0 +1,12 @@
+{
+  "folder": "IC-006",
+  "content": "{{knowledge objective\n|Identifiant=OIC-006-01-A\n|Item_parent=The organisation of clinical practice and the methods used to secure the patient's care pathway\n|Item_parent_short=The organisation of clinical practice and the methods used to ensure a safe patient pathway\n|Rank=A\n|Intitle=Knowing the definition of multi-professional teamwork\n|Description=Know the objectives of teamwork and the main methods used to achieve them.\n|Rubric=Definition\n|Contributors=Virginie Migeot\n|Order=1}}\n\nA ''''' multi-professional team''''' is made up of professionals with different and complementary qualifications (e.g. doctors, pharmacists, nurses, physiotherapists, midwives, social workers, occupational therapists, dieticians, etc.). Multi-professional teamwork means that these professionals work together and combine their efforts to achieve a common goal.\n\nThis multi-professional teamwork is considered to be\n\n- a safety barrier against adverse events;\n\n- a factor in the quality of patient care ;\n\n- a factor in health and well-being at work for professionals ;\n\n- a way of responding collaboratively to patient needs.",
+  "question": {
+    "question": "What is the main objective of multi-professional teamwork?",
+    "option_a": "To ensure patient safety",
+    "option_b": "To improve patient outcomes",
+    "option_c": "To enhance patient satisfaction",
+    "option_d": "To reduce healthcare costs",
+    "correct_option": "To ensure patient safety"
+  }
+}

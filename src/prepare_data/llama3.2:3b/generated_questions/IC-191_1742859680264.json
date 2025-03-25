@@ -1,0 +1,46 @@
+{
+  "folder": "IC-191",
+  "content": "{{knowledge objective\n|Identifiant=OIC-191-05-A\n|Item_parent=Fever in an immunocompromised patient\n|Item_parent_short=Fever in an immunocompromised patient\n|Rank=A\n|Intitle=Cite the three main routes of entry for fever in neutropenic patients\n|Description=Digestive tract, skin (KT), lung\n|Topic=Physiopathology\n|Contributors=Am\u00e9lie Servettaz\n|Order=5}}\n\n<big>The main infectious entry points are:</big>\n\n<big>- '''Respiratory'''</big>\n\n<big>- '''Digestive tract''' (mouth to anus)</big>\n\n<big>- '''Skin favored by venous outlets'' (peripheral and central venous catheter)</big>",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Identify the three main routes of entry for fever in neutropenic patients",
+        "description": "What are the main ways a fever can enter the body in immunocompromised patients?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Respiratory and Skin",
+        "description": "The main routes of entry for fever in neutropenic patients are the respiratory tract and skin.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Digestive tract, Skin, and Respiratory",
+        "description": "The three main routes of entry for fever in neutropenic patients are the digestive tract, skin, and respiratory tract.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Digestive tract and Skin",
+        "description": "The two main routes of entry for fever in neutropenic patients are the digestive tract and skin.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Respiratory tract, Skin, and Lymphatic",
+        "description": "The three main routes of entry for fever in neutropenic patients are the respiratory tract, skin, and lymphatic system.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The correct letter indicating the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

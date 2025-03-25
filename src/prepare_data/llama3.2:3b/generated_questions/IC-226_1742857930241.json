@@ -1,0 +1,40 @@
+{
+  "folder": "IC-226",
+  "content": "{{knowledge objective\n|Identifiant=OIC-226-06-A\n|Item_parent=Deep vein thrombosis and pulmonary embolism (see item 330)\n|Item_parent_short=Deep vein thrombosis and pulmonary embolism (see item 330)\n|Rank=A\n|Title=Know the indications for D-dimer measurement (DVT, PE) and the concept of an age-adjustment threshold in PE.\n|Description=None\n|Topic=Positive diagnosis\n|Contributors=Gilles Pernod, Virginie Dufrost, Guillaume Mah\u00e9\n|Order=6}}\nD-dimer:\n\n- fibrin degradation products.\n\n- non-specific\n\n- but high negative predictive value\n\n# If they are below the diagnostic threshold, they enable the diagnosis of DVT or PE to be ruled out if the clinical probability is not high.\n# The threshold is adjusted for age for the diagnosis of exclusion of non-severe PE: < 500 \u00b5g/L if the patient is under 50 years of age, < [age \u00d7 10] \u00b5g/L if the patient is over 50 years of age. Age adjustment does not apply to DVT diagnosis.\n- Does not apply to severe or high-probability PE.\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the correct interpretation of the D-dimer threshold for ruling out deep vein thrombosis (DVT) or pulmonary embolism (PE)?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "A D-dimer level below 500 \u00b5g/L is always used to rule out DVT or PE in all patients, regardless of age.",
+        "description": "This option is correct but does not take into account age adjustment for PE diagnosis"
+      },
+      "option_b": {
+        "title": "A D-dimer level below 500 \u00b5g/L is used to rule out DVT or PE in patients under 50 years of age, and below [age \u00d7 10] \u00b5g/L in patients over 50 years of age.",
+        "description": "This option correctly states the age-adjusted threshold for PE diagnosis"
+      },
+      "option_c": {
+        "title": "A D-dimer level below 500 \u00b5g/L is used to rule out DVT or PE in all patients, regardless of age, and is also used for the diagnosis of DVT.",
+        "description": "This option incorrectly applies the D-dimer threshold to both DVT and PE diagnosis"
+      },
+      "option_d": {
+        "title": "A D-dimer level below 500 \u00b5g/L is used to rule out DVT or PE only in patients over 50 years of age, and below [age \u00d7 10] \u00b5g/L in patients under 50 years of age.",
+        "description": "This option incorrectly reverses the age-adjusted threshold for PE diagnosis"
+      },
+      "correct_option": {
+        "title": "B"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

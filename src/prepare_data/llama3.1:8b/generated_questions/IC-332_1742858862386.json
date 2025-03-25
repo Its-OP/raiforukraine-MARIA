@@ -1,0 +1,12 @@
+{
+  "folder": "IC-332",
+  "content": "{{knowledge objective\n|Identifiant=OIC-332-08-A\n|Item_parent=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.\n|Item_parent_short=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.\n|Rank=A\n|Title=Know the elements of immediate management of a state of shock.\n|Description=Stop the causal mechanism (haemorrhage, anaphylaxis), oxygenation, appropriate vascular filling, call for help, etc.\n|Rubric=Management\n|Contributors=Julien Poissy\n|Order=8}}\n\n\n\nCall for help from colleagues and the resuscitator +++. You can't manage a state of shock on your own!''\n\nCoordination by a leader who distributes roles. There are many tasks to be carried out, and several of them need to be coordinated.\n\ncarry out simultaneously\n\nFollow procedure A (Airway: opening the airway), B (Breathing: assessing and managing ventilation) and C (Circulation: assessing and managing circulation).\n\nA distinction is made between :\n\n- Continuous monitoring of vital parameters :\n\no electrocardioscope\n\no SpO2\n\no frequent measurement of blood pressure NIBP\n\n- Initial symptomatic measures :\n\no Systematic oxygen therapy\n\no Vascular filling: 500 ml free-flow crystalloids on a good-calibre venous TK (unless left heart failure with PAO) (or 20 ml/kg in children, max 500 ml).\n\n- History-taking and clinical referral data\n\n- Initial etiological measures :\n\no tourniquet/compression on bleeding\n\no Antibiotic therapy if septic shock\n\no inotropic and/or vasoactive support depending on the aetiology\n\no refer to specific items for details\n\n- Paraclinical assessment of failure according to aetiological orientation",
+  "question": {
+    "question": "What is the initial step in managing a state of shock?",
+    "option_a": "Stop the causal mechanism (haemorrhage, anaphylaxis) and call for help",
+    "option_b": "Follow procedure A (Airway: opening the airway), B (Breathing: assessing and managing ventilation) and C (Circulation: assessing and managing circulation) simultaneously",
+    "option_c": "Carry out continuous monitoring of vital parameters, such as electrocardioscope and SpO2",
+    "option_d": "Administer initial symptomatic measures, including oxygen therapy and vascular filling",
+    "correct_option": "A"
+  }
+}

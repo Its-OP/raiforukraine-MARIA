@@ -1,0 +1,12 @@
+{
+  "folder": "IC-094",
+  "content": "{{knowledge objective\n|Identifiant=OIC-094-02-B\n|Item_parent=Rachialgia\n|Item_parent_short=Rachialgia\n|Rank=B\n|Title=Knowing the prevalence of spinal pain: neck pain, back pain, low back pain\n|Description=Spinal pain: neck pain, back pain, low back pain\n|Rubric=Epidemiology\n|Contributors=Bisseriex H\u00e9l\u00e8ne,Nguyen Christelle\n|Order=2}}\n\nCervicalgia: 2/3 of the population affected in their lifetime. Prevalence between 2 and 11%.\n\nDorsalgia: rarer, 5 to 10% of rheumatology consultations.\n\n'''Common low back pain''' ''':''''\n\n- Prevalence = 1/4 to 1/3 of the general population. Incidence: 60 to 90%.\n\n- Most frequent musculoskeletal disorder\n\n- Most disabling condition in the world (number of days in pain, disability or time off work) '''[[Disability status SDD-345|(disability status)]]''''\n\n\u2192 Major cost to society (chronic forms 10% = 80% of costs)",
+  "question": {
+    "question": "What is the prevalence of low back pain in the general population?",
+    "option_a": "1/2 to 2/3 of the population",
+    "option_b": "1/4 to 1/3 of the population",
+    "option_c": "1/5 to 1/6 of the population",
+    "option_d": "1/10 to 1/20 of the population",
+    "correct_option": "B"
+  }
+}

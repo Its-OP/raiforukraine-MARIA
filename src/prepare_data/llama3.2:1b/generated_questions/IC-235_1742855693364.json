@@ -1,0 +1,12 @@
+{
+  "folder": "IC-235",
+  "content": "{{knowledge objective\n|Identifiant=OIC-235-04-A\n|Item_parent=Acute pericarditis\n|Item_parent_short=Acute pericarditis\n|Rank=A\n|Title=Know how to interpret the ECG and initial biological work-up\n|Description=Know the ECG signs and their evolution, inflammation and necrosis markers, blood ionogram, urea, creatinine, blood cultures and IDR if necessary.\n|Section=Additional tests\n|Contributors=Jennifer Cautela\n|Order=4}}\n'''<u>Electrocardiogram</u>''':\n\n* Can be normal'', must be repeated\n* Early signs: ''PQ undershift, sinus tachycardia\n* Diffuse'' non-systematic abnormalities\n* Classic evolution in 4 stages:\n** Stage 1: ''concave upward ST elevation'', diffuse, no mirror, no Q wave, positive T waves on day 1.\n** Stage 2: flat T waves between the 24th and 48th hour.\n** Stage 3: negative T waves for the first week\n** Stage 4: ''normalisation during the 1st month''.\n* If abundant effusion :\n** Microvoltage (QRS amplitude < 5 mm and < 10 mm in peripheral and precordial leads respectively).\n** Electrical alternation (electrical equivalent of echographic swinging heart) : QRS of variable amplitude\n\n'''<u>Initial biological balance</u>:''''\n\n* Inflammatory markers: CBC, CRP (may be normal or hyperleukocytosis + inflammatory syndrome)\n* Markers of myocardial necrosis: ''troponin'' (increased if associated myocarditis, to be looked for systematically) -> ''sign of seriousness+++++''\n* Blood ionogram, creatinine (look for renal insufficiency before prescribing NSAIDs)\n\n[[File:Figure 4.png|centred|vignette|600x600px|Sub ST shift]]\n[[File:Pericarditis b.png|centered|thumbnail|900x900px|Sub ST shift during acute pericarditis]]\n<br />",
+  "question": {
+    "question": "What is the typical evolution of the ST elevation in acute pericarditis?",
+    "option_a": "PQ undershift, sinus tachycardia, diffuse non-systematic abnormalities",
+    "option_b": "PQ undershift, sinus tachycardia, diffuse non-systematic abnormalities, microvoltage (QRS amplitude < 5 mm and < 10 mm in peripheral and precordial leads respectively)",
+    "option_c": "PQ undershift, sinus tachycardia, diffuse non-systematic abnormalities, electrical alternation (electrical equivalent of echographic swinging heart) : QRS of variable amplitude",
+    "option_d": "PQ undershift, sinus tachycardia, diffuse non-systematic abnormalities, troponin (increased if associated myocarditis, to be looked for systematically) -> sign of seriousness+++++",
+    "correct_option": "option_a"
+  }
+}

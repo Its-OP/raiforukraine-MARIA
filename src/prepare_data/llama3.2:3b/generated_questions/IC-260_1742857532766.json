@@ -1,0 +1,12 @@
+{
+  "folder": "IC-260",
+  "content": "{{knowledge objective\n|Identifiant=OIC-260-06-B\n|Item_parent=Hematuria\n|Item_parent_short=Hematuria\n|Rank=B\n|Title=Typical examples of frequent causes of haematuria in imaging\n|Description=None\n|Rubric=Multimedia content\n|Contributors=Charles Dariane, Bruno Moulin\n|Order=6}}\n\n<br />\n[[File:Figure 1a RCC renal cell carcinoma.png|left|vignette|658x658px|<big>'''Figure 1.'''' Locally advanced right renal tumour (suggestive of clear cell renal cell carcinoma, with central necrotic areas '''#''' '''Fig 1a'''') responsible for invasion of the excretory tract (pyelic clotting '''*''' Fig 1b).</big>|alt=]]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[[File:Figure 1b RCC clot.png|left|vignette|658x658px|'''<big>Figure 1.</big>''' <big>Locally advanced right renal tumour (suggestive of clear cell renal cell carcinoma, with central necrotic areas '''#'''' Fig 1a) responsible for invasion of the excretory tract (pyelic clotting '''*'''' '''Fig 1b'''').</big>|alt=]]]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<br />\n[[File:Figure 2 bladder polyp.png|vignette|332x332px|<big>'''Figure 2.'''' Papillary bladder polyp ('''#)''' suggestive of urothelial tumour.</big>|alt=|left]]",
+  "question": {
+    "question": "What is the typical cause of haematuria in imaging?",
+    "option_a": "Kidney stones",
+    "option_b": "Urothelial tumour",
+    "option_c": "Renal cell carcinoma",
+    "option_d": "Bladder polyp",
+    "correct_option": "C"
+  }
+}

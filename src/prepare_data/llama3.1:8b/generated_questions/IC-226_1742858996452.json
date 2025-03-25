@@ -1,0 +1,12 @@
+{
+  "folder": "IC-226",
+  "content": "{{knowledge objective\n|Identifiant=OIC-226-03-B\n|Item_parent=Deep vein thrombosis and pulmonary embolism (see item 330)\n|Item_parent_short=Deep vein thrombosis and pulmonary embolism (see item 330)\n|Rank=B\n|Heading=Know the pathophysiology of VTE including familial forms\n|Description=None\n|Topic=Physiopathology\n|Contributors=Gilles Pernod, Virginie Dufrost, Guillaume Mah\u00e9\n|Order=3}}\nThe occurrence of DVT complicated or not by PE is based on Virchow's triad: venous stasis, damage to the venous wall and \"hypercoagulability\".\n\nVenous stasis, for example, is encouraged by surgery, immobilisation, etc.\n\nEndothelial damage is promoted by acute medical events such as sepsis.\n\nHypercoagulability is promoted by :\n\n- the [[2C-226-ET-A01|acquired thrombophilias or constitutional hereditary thrombophilias]].\n\n- [[Know the situations that favour VTE (circumstances of onset, temporary and persistent favouring factors)|thrombogenic situations such as cancer, inflammatory diseases, pregnancy, post partum....]]",
+  "question": {
+    "question": "What are the factors that promote hypercoagulability in the context of Virchow's triad?",
+    "option_a": "Only acquired thrombophilias",
+    "option_b": "Only constitutional hereditary thrombophilias",
+    "option_c": "Thrombogenic situations such as cancer, inflammatory diseases, pregnancy, post partum, and acquired thrombophilias",
+    "option_d": "Only thrombogenic situations such as cancer, inflammatory diseases, pregnancy, post partum",
+    "correct_option": "C"
+  }
+}

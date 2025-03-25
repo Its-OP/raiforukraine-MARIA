@@ -1,0 +1,12 @@
+{
+  "folder": "IC-156",
+  "content": "{{knowledge objective\n|Identifiant=OIC-156-08-B\n|Item_parent=Infections in the bones and joints (IOA) of children and adults\n|Item_parent_short=Infections osteo articulaires (IOA) de l'enfant et de l'adulte\n|Rank=B\n|Title=Knowing therapeutic measures other than antibiotics\n|Description=Immobilisation/rehabilitation/discussion of other measures\n|Rubric=Management\n|Contributors=Dr Florent Valour\n|Order=8}}\n- Multidisciplinary management\n\n- Surgery: always ask whether surgery is indicated. Almost systematic in chronic osteitis (debridement, removal of sequestration, etc.), septic arthritis in children (lavage, drainage), and complicated forms (drainage of abscesses). It is not generally necessary for uncomplicated forms of acute arthritis in adults, osteomyelitis (excluding periosteal abscesses) and spondylodiscitis.\n\n- [[Assessment and management of acute pain SD-259|Assessment and management of acute pain]], [[Assessment and management of pain in children and infants SD-261|Assessment and management of pain in children and infants]]\n\n- Initial analgesic immobilisation, as short as possible to avoid stiffening (sometimes longer, guided by bone consolidation and stabilisation)\n\n- Prevention of venous thrombo-embolic disease if necessary\n\n- Rehabilitation as soon as pain and local inflammatory signs improve",
+  "question": {
+    "question": "What is generally not necessary for uncomplicated forms of acute arthritis in adults?",
+    "option_a": "Surgery to perform a debridement",
+    "option_b": "Surgery to remove sequestration or perform drainage",
+    "option_c": "Surgery is not generally necessary, but may be considered in some cases",
+    "option_d": "Surgery to drain abscesses",
+    "correct_option": "C"
+  }
+}

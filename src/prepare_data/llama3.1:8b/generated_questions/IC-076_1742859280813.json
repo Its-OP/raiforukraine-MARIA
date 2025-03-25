@@ -1,0 +1,12 @@
+{
+  "folder": "IC-076",
+  "content": "{{knowledge objective\n|Identifiant=OIC-076-08-A\n|Item_parent=Alcohol dependence\n|Item_parent_short=Alcohol dependence\n|Rank=A\n|Title=Know how to diagnose acute alcohol intoxication with or without ethyl coma (differential diagnosis) and look for associated metabolic disorders.\n|Description=Make a clinical diagnosis, rule out differential diagnoses, look for hypoglycaemia, aciodoketosis, hyponatraemia, etc.\n|Rubric=Identify the emergency\n|Contributors=\n|Order=8}}\nHigh individual variability of effects.\n\n<nowiki>*</nowiki> in low doses, disinhibiting and euphoric effect:\n\no characteristic breath (oenolic) ;\n\no injection of the conjunctiva ;\n\no joviality or sadness, logorrhea, disinhibition, aggression;\n\no Prolonged reaction time, dysarthria, acute cerebellar syndrome. \n\n<nowiki>*</nowiki> at higher doses, depressant effect: disturbances in perception, judgement, affect, cognitive faculties and behaviour. \n\n<nowiki>*</nowiki> [[Coma and disorders of consciousness SD-028|coma]] ethylic: calm coma, with arterial hypotension, hypotonia, hypothermia, bilateral mydriasis, symmetrical, not very reactive and without signs of localization. \n\no Diagnosis based on anamnesis and characteristic breath odour\n\no check of vital signs, systematic neurological examination\n\no Biological work-up and brain imaging if there is any doubt.\n\no confirmed by blood alcohol level (by blood test or breathalyser) and signs regress within a few hours\n\no Eliminate differential diagnoses +++: hypoglycaemia, hyponatraemia, alcoholic ketoacidosis, other psychoactive substances, head trauma, cerebral haemorrhage, cerebral ischaemia.\n\n\n\n\n\n\u2028\n\nThink about it in the event of a [[Fall in the elderly SD-027|fall]] in the elderly, an accident or an attack.",
+  "question": {
+    "question": "What is a key factor in diagnosing ethyl coma?",
+    "option_a": "Elevated blood pressure",
+    "option_b": "Characteristic breath odour and low blood alcohol level",
+    "option_c": "Systemic neurological examination showing focal signs",
+    "option_d": "Prolonged reaction time and dysarthria",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-124",
+  "content": "{{knowledge objective\n|Identifiant=OIC-124-19-B\n|Item_parent=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)\n|Item_parent_short=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)\n|Rank=B\n|Title=Knowing the short, medium and long-term effects of untreated age-related androgen deficiency.\n|Description=None\n|Rubric=Physiopathology\n|Contributors=Benjamin Pradere\n|Order=19}}\n\n\n\nThe effects of DALA can be relatively unpredictable.\n\n== Nevertheless, the first short-term symptoms of ALAD are most often marked by : ==\n\n* sexual problems: erectile dysfunction, reduced libido and even reduced quality of orgasm.\n* mood disorders with irritability\n* sleep disorders\n* vasomotor disorders (hypersudation, hot flushes) usually appear concomitantly<br />.\n\n== Secondarily, in the medium term, there may be: ==\n\n* appearance or worsening of obesity (or metabolic syndrome [[Cardiovascular risk factors and prevention|222]]) with no direct link to a nutritional disorder, and more particularly gynaecological symptoms (reduced hairiness with skin atrophy, non-painful gynaecomastia) are frequent.\n* increased cardiovascular risk, particularly thromboembolic risk, especially in very severe forms.\n* neuropsychological disorders, which are rarer and usually appear secondarily: loss of memory and attention, or even mood disorders.\n\n== Finally, in the long term, the following may occur: ==\n\n* signs of osteoporosis [[Definition of ageing|123]], [[Know the definition of osteoporosis (densitometry and fractures)|128]] (recent fracture, loss of height), suggestive of the diagnosis\n* and sarcopenia (muscular atrophy, reduced muscle strength), which should suggest the diagnosis.\n\n<br />",
+  "question": {
+    "question": "What are the first short-term symptoms of ALAD (age-related androgen deficiency)?",
+    "option_a": "Mood disorders with anxiety and depression",
+    "option_b": "Sexual problems: erectile dysfunction, reduced libido, and reduced quality of orgasm",
+    "option_c": "Increased cardiovascular risk and thromboembolic risk",
+    "option_d": "Sleep disorders and vasomotor disorders (hot flushes)",
+    "correct_option": "B"
+  }
+}

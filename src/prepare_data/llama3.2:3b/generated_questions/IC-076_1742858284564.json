@@ -1,0 +1,46 @@
+{
+  "folder": "IC-076",
+  "content": "{{knowledge objective\n|Identifiant=OIC-076-09-A\n|Item_parent=Alcohol dependence\n|Item_parent_short=Alcohol dependence\n|Rank=A\n|Title=To understand the frequent association of alcohol misuse with other addictive and psychiatric pathologies, whether primary or secondary.\n|Description=Psychiatric disorders associated with alcohol misuse may be primary (existing before the onset of misuse, which may have a self-therapeutic function) or secondary (alcohol consumption leads to psychiatric symptoms or disorders, particularly anxiety or depression).\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=9}}\nMost common psychiatric comorbidities: [[Anxiety SD-116|anxiety disorders]] and depressive disorders.\n\nAssociation of alcohol misuse with schizophrenia (20-30%) and bipolar disorder (up to 40%).\n\n[Suicidal risk 2C-066-IU-A01|Risk]] of [[Suicidal ideation or behaviour/self-inflicted injury SD-125|suicide]] very strongly increased, (acute alcoholisations++)\n\n\nPrimary psychiatric disorders: preceding misuse\n\nor secondary: occur as a result of acute or chronic consumption\n\nDiagnosis based on anamnesis and evolution after withdrawal\n\n\nFrequent association with other product addictions (tobacco +++) and behavioural addictions (pathological gambling +)",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a common psychiatric comorbidity associated with alcohol misuse?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Depressive disorders",
+        "description": "A common psychiatric comorbidity associated with alcohol misuse",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Bipolar disorder",
+        "description": "A psychiatric disorder that can be associated with alcohol misuse",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Schizophrenia",
+        "description": "A psychiatric disorder that is often comorbid with alcohol misuse",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Anxiety disorders",
+        "description": "A common psychiatric comorbidity associated with alcohol misuse",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "d",
+        "description": "The correct letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

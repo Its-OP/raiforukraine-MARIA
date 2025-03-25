@@ -1,0 +1,11 @@
+{
+  "folder": "IC-187",
+  "content": "{{knowledge objective\n|Identifiant=OIC-187-17-B\n|Item_parent=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Item_parent_short=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Rank=B\n|Title=Knowing the principle, technique and interpretation of patch tests\n|Description=None\n|Rubric=Additional tests\n|Contributors=Nad\u00e8ge Cordel; Fr\u00e9d\u00e9ric B\u00e9rard\n|Order=17}}'''Patients will be tested''' with the suspected allergen deposited \"on the skin\" (\"patch test\"), under occlusion, for 48 hours (patch tests). After removal of the occlusive device, the patch test is said to be \"positive\" if there is contact eczema (erythema, vesicles) on the site to which the allergen has been applied.\n\nThe test is said to be irritant, not allergic, when there is not an eczema but a simple erythema (the occlusion favours irritation). This erythema generally disappears within a few hours, as opposed to several days in the case of contact eczema. It is therefore considered \"negative\", as is the strict absence of erythema.",
+  "question": {
+    "question": "After a 48-hour patch test, what is the term used to describe the absence of any skin reaction?",
+    "option_a": "Positive patch test",
+    "option_b": "Negative patch test",
+    "option_c": "Irritant patch test",
+    "option_d": "Allergic patch test"
+  }
+}

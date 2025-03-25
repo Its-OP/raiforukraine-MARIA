@@ -1,0 +1,46 @@
+{
+  "folder": "IC-188",
+  "content": "{{knowledge objective\n|Identifiant=OIC-188-20-A\n|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Rank=A\n|Title=Knowing how to initiate emergency treatment of an asthma attack in children and adults.\n|Description=Emergency oxygen therapy (item 359), systemic corticosteroid therapy and bronchodilators (inhaled beta-mimetics, anticholinergics) and assessing efficacy.\n|Rubric=Management\n|Contributors=\n|Order=20}}\nTreatment of exacerbations is based on\n\no The use of inhaled BDCA (metered-dose aerosol in outpatients, nebulisation in the case of hospitalisation)\n\no Systemic corticosteroid therapy (0.5 to 1mg/kg/d for 5 days, PO or IV)\n\no Use of a nebulised anticholinergic (ipratropium) in the event of severe exacerbation.\n\no Oxygen therapy and/or ventilatory assistance should be discussed in the event of severe exacerbation (in intensive care).",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Treatment of exacerbations is based on",
+        "description": "What are the appropriate treatment options for exacerbations?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Inhaled bronchodilators and systemic corticosteroids",
+        "description": "Treatment of exacerbations is based on the use of inhaled bronchodilators and systemic corticosteroids",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Nebulised anticholinergic and oxygen therapy",
+        "description": "Treatment of exacerbations is based on the use of nebulised anticholinergic and oxygen therapy",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Systemic corticosteroids and nebulised ipratropium",
+        "description": "Treatment of exacerbations is based on the use of systemic corticosteroids and nebulised ipratropium",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Inhaled BDCA and oxygen therapy",
+        "description": "Treatment of exacerbations is based on the use of inhaled BDCA and oxygen therapy",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "d",
+        "description": "The correct answer is denoted by a letter",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

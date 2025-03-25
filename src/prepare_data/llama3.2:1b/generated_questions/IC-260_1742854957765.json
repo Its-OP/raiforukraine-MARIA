@@ -1,0 +1,12 @@
+{
+  "folder": "IC-260",
+  "content": "{{knowledge objective\n|Identifiant=OIC-260-08-A\n|Item_parent=Hematuria\n|Item_parent_short=Hematuria\n|Rank=A\n|Title=Photographs of a urine dipstick\n|Description=None\n|Rubric=Multimedia content\n|Contributors=Charles Dariane, Bruno Moulin\n|Order=8}}\n\n<br />\n[[File:Fig 4 BU temoin avec boitier.jpg|gauche|vignette|573x573px|<big>'''Figure 4'''. Control urine dipstick.</big>]]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<br />\n[[File:Fig 5 BU hematuria.jpg|alt=- Figure 5. Urine dipstick demonstrating haematuria (3 crosses +++).|vignette|574x574px|<big>'''Figure 5.'''' Urine dipstick demonstrating haematuria (3 crosses +++).</big>|left]]\n<br />",
+  "question": {
+    "question": "What is the typical appearance of a urine dipstick with haematuria?",
+    "option_a": "A normal dipstick with no blood or staining",
+    "option_b": "A dipstick with a few red specks or streaks of blood",
+    "option_c": "A dipstick with a large amount of blood or staining",
+    "option_d": "A dipstick with no blood or staining",
+    "correct_option": "option_b"
+  }
+}

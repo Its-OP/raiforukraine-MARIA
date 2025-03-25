@@ -1,0 +1,12 @@
+{
+  "folder": "IC-070",
+  "content": "{{knowledge objective\n|Identifiant=OIC-070-05-A\n|Item_parent=Psychological disorders in the elderly\n|Item_parent_short=Psychological disorders in the elderly\n|Rank=A\n|Title=Knowing the specific semiological features of psychiatric disorders in the elderly\n|Description=Suicidal behaviour (item 353)Schizophrenia (item 64)Mood disorders (item 64 and item 66)Anxiety disorders (item 66)Alcohol- and drug-related disorders (item 77 and item 77)\n|Rubric=Positive diagnosis\n|Contributors=Pierre Vandel,Marie Tournier\n|Order=5}}\n\n'''Always look for non-psychiatric comorbidities'''\n\n== '''Characteristic depressive episode''' ==\nDiagnostic criteria identical to those for young people.\n\nAtypical depression has its own specific features, with general, non-psychiatric symptoms: complaints of pain, gastrointestinal and osteoarticular symptoms, sleep and appetite problems, and cognitive complaints.\n\nPsychotic symptoms are common, with delusions of melancholy, prejudice, persecution and even Cotard's syndrome.\n\nIn the presence of non-specific non-psychiatric symptoms or a change in behaviour: suspect a characterised depressive episode and look for mood sadness and suicidal ideation.\n\n== '''Anxiety disorders, bipolar disorders, aging schizophrenia, delusional disorders''' ==\nSame diagnostic criteria as for young adults\n\n== ''Specificity of late and very late schizophrenia'': ==\nMajority of women, predominance of hallucinations and delusions of persecution. Disorganisation and negative symptoms less frequent.\n\n== Alcohol use disorder ==\nAddiction criteria for young adults are not adapted to the elderly in terms of occupational repercussions or tolerance. In old age, attention should be paid to functional repercussions, bodily neglect and sleep disorders. Anxiety, depressive symptoms and cognitive impairment may occur. Be vigilant for confusional syndromes or physical signs of withdrawal during hospitalisation.\n\n== '''Medication use disorder''' ==\nMedication use disorder is not specific, but there is a greater risk of iatrogenicity.",
+  "question": {
+    "question": "What is the characteristic symptom of atypical depression?",
+    "option_a": "Pain",
+    "option_b": "Gastrointestinal symptoms",
+    "option_c": "Sleep problems",
+    "option_d": "Cognitive complaints",
+    "correct_option": "option_c"
+  }
+}

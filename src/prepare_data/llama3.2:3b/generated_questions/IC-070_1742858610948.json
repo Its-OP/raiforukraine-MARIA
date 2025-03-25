@@ -1,0 +1,46 @@
+{
+  "folder": "IC-070",
+  "content": "{{knowledge objective\n|Identifiant=OIC-070-09-A\n|Item_parent=Psychological disorders in the elderly\n|Item_parent_short=Psychological disorders in the elderly\n|Rank=A\n|Title=Knowing the specificities of handling anxiolytics and hypnotics in elderly patients\n|Description=AnxiolyticsHypnotics\n|Rubric=Management\n|Contributors=Pierre Vandel,Marie Tournier\n|Order=9}}\n\nHigh iatrogenic risk in the elderly. Age-related consequences in terms of pharmacokinetics and pharmacodynamics to be taken into account.\n\nPolymedication and risk of frequent drug interactions.\n\nAnxiolytics and hypnotics must comply with specific prescribing rules for elderly patients: prescribe low doses; limited prescription duration (4 weeks); molecules with a short or intermediate half-life; prefer discontinuous (\"on-demand\") prescriptions; end of treatment date set on initiation and noted in the file.\n\nBenzodiazepine anxiolytics should be reserved for acute anxiety symptoms. Avoid in the treatment of chronic anxiety disorders. Monitor tolerance and risk of marked adverse effects in elderly patients.\n\nBenzodiazepine-like hypnotics (Z drugs) are not indicated for chronic insomnia. Their benefit/risk ratio is low in the elderly population (risk of falls and fractures).\n\nIf taken on a long-term basis, suggest a gradual withdrawal.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "When prescribing anxiolytics and hypnotics to elderly patients, what is the recommended approach?",
+        "description": "A question about the handling of anxiolytics and hypnotics in elderly patients",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Prescribe high doses and long-term prescriptions",
+        "description": "A plausible but incorrect option that may appeal to those who are not aware of the risks",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Use benzodiazepine anxiolytics for chronic anxiety disorders",
+        "description": "A common misconception about benzodiazepine anxiolytics",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Discontinue prescriptions after 4 weeks and monitor for tolerance",
+        "description": "A plausible but incorrect option that may appeal to those who are not aware of the risks",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Prescribe low doses, limited duration (4 weeks), and prefer discontinuous ('on-demand') prescriptions",
+        "description": "The correct answer based on the provided text",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "D",
+        "description": "The letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

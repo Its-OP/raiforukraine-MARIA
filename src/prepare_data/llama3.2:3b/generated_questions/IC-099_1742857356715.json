@@ -1,0 +1,46 @@
+{
+  "folder": "IC-099",
+  "content": "{{knowledge objective\n|Identifiant=OIC-099-09-A\n|Item_parent=Migraine, trigeminal neuralgia and facial pain\n|Item_parent_short=Migraine, trigeminal neuralgia and facial pain\n|Rank=A\n|Title=Know the clinical description of dental, sinus and mouth pain.\n|Description=Know the positive clinical features which allow the diagnosis to be made.\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=9}}\n'''<u>Algies of dental origin</u>'''\n\nThe most common causes of mouth pain. Typical pain is in the mouth, on a tooth, and becomes increasingly severe, persistent and radiating, depending on the cause. A dental examination is necessary.\n\n- '''Dentin caries''': brief pain after stimulus to the tooth (cold, hot, sugar, acid).\n\n- Acute pulpitis: sharp, radiating, homolateral pain, provoked and then spontaneous.\n\n- Purulent pulpitis'': pulsating, violent, long-lasting pain radiating throughout the oral cavity.\n\n- ''Periodontitis'': stabbing, sometimes intense pain, aggravated by decubitus and heat, with a sensation of ''long tooth''; oedema and gingival inflammation opposite the causal tooth, very painful axial percussion of the tooth.\n\n- Dental abscess'': complication of previous conditions that have not been treated or have been poorly treated, sharp, stabbing, sleepless pain with general infectious signs and sometimes spectacular local signs (oedema, vestibular filling, reddening of the skin opposite the causal tooth, trismus, cervical adenopathy).\n\n- '''Alveolitis''': 2-3 days after a tooth extraction, violent pain radiating from the tooth.\n\n- ''Accidental evolution of the mandibular wisdom tooth'': locoregional pain, local inflammatory signs opposite 38 or 48, sometimes trismus.\n\n- Pain induced by orthodontic treatment: generally caused by slightly too rapid movement of the teeth, which ceases as soon as the movement is moderated. Sometimes due to mucosal injury caused by orthodontic equipment (careful examination required).\n\n\n'''<u>Algie of sinus origin</u>''''\n\nFacial pain opposite the affected sinus, increased by bending forward and pressure on the sinus. Causes: acute and chronic sinusitis (''item 148'').\n\n'''<u>Algies of non-dental oral origin</u>'''\n\nMost lesions of the oral mucosa are painful. Diagnosis is generally straightforward in the presence of oral pain, based on examination of the mucosal surface (tongue depressor, good lighting, palpation with gloves).\n\n- Traumatic ulceration'': localised sharp pain. Examination: lesion with regular borders, discreetly erythematous. Little or no induration. Removal of the causative agent leads to healing in a few days. Any lesion persisting for more than a fortnight should be biopsied.\n\n- Mouth ulcers: very common. Continuous pain, sometimes sleepless, exacerbated by eating certain foods. Examination: well-rounded ulceration, regular margins, flat fibrinous base, surrounded by a slightly red halo. Palpation: soft base. Sometimes severe pain and inability to eat orally due to large mouth ulcers in immunocompromised patients (hospitalisation for parenteral nutrition or SNG).\n\n- Cancers of the oral cavity: spontaneous pain which increases with chewing and limits eating. Examination: ulcerations with raised edges, indurated, bleeding on contact or painful, congestive inflammatory tumour. Biopsy essential.\n\n- '''Infections with ulceration of the mucous membranes'': single oral ulceration (tuberculosis) or multiple (oral herpes).\n\n- '''Lingual mycoses''': cooking pains (candidiasis).\n\n- '''Drug-induced toxicidermia''': erythema multiforme.\n\n- Radiotherapy-induced mucositis'': diffuse pain throughout the oral cavity, increased by the absence of saliva (makes eating difficult).\n\n- Any general pathology can lead to painful lesions in the oral mucosa.\n\n\n'''<u>Alges of salivary cause (item 90)</u>''''\n\n\n'''<u>Facial pain of bony causes</u>''''\n\n- Fractures of the facial bones: post-traumatic pain due to mobilisation of the fracture site (during palpation/pressure examination). Impotence of the mandible if fractured at this level.\n\n- Osteitis: throbbing, fluctuating, non-rhythmic pain\n\n- ''Post-radiation osteoradionecrosis or osteitis'': painful osteolysis, most often of dental origin, a few years after radiotherapy for a tumour of the face and neck.\n\n- Bone tumours: benign tumours are painless except in the event of inflammation or superinfection. Malignant tumours may become painful as a result of invasion of the trigeminal branches (symptomatic neuralgia with V2 or V3 dysaesthesia).\n\n\n<u>'''Facial pain of mandicatory causes:'''</u> temporomandibular joint (TMJ) pain.\n\n- '''Acute TMJ pain:'''\n\no Acute arthritis: rare, with local inflammatory signs and limited mouth opening.\n\no Fractures: post-traumatic, painful limitation of mouth opening by local muscle contracture\n\no Dislocation\n\n- '''Chronic secondary TMJ pain:''' periarticular, laterofacial, preauricular and retro-orbital pain, with temporal and masseter myalgias radiating readily to the upper and lower molar sectors. Examination: temporomandibular pain on pressure of the external auditory canal and endobuccal palpation of the masticatory muscles. A pop and a snap when opening the mouth, which is usually bayonet-shaped. Most often due to an anomaly in the dental articulation.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the typical pain associated with dental caries?",
+        "description": "A brief pain after stimulus to the tooth (cold, hot, sugar, acid).",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Radiating, homolateral pain",
+        "description": "Typical pain associated with acute pulpitis",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Pulsating, violent, long-lasting pain",
+        "description": "Typical pain associated with purulent pulpitis",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Brief pain after stimulus to the tooth",
+        "description": "Typical pain associated with dental caries",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Stabbing, sometimes intense pain",
+        "description": "Typical pain associated with periodontitis",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "The correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

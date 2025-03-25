@@ -1,0 +1,45 @@
+{
+  "folder": "IC-342",
+  "content": "{{knowledge objective\n|Identifiant=OIC-342-02-B\n|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=B\n|Title=Know the main pathophysiological mechanism of malaise\n|Description=Cerebral hypoperfusion or dysfunction of cerebral activity.\n|Rubric=Physiopathology\n|Contributors=\n|Order=2}}\ncerebral hypoperfusion (syncope/lipothymia) or cerebral activity dysfunction (epileptic seizure)",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary cause of malaise in adults?",
+        "description": "Cerebral hypoperfusion or dysfunction of cerebral activity is a key factor in malaise. What is the most likely underlying mechanism?",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Cerebral hypoperfusion",
+        "description": "Reduced blood flow to the brain, leading to insufficient oxygen and nutrient delivery.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Cerebral activity dysfunction",
+        "description": "Disruption of normal brain function, leading to impaired cognitive and motor activity.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Both cerebral hypoperfusion and activity dysfunction",
+        "description": "A combination of both factors contributing to malaise.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Other medical conditions",
+        "description": "Malaise can be caused by various underlying medical conditions, such as infections or autoimmune disorders.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A",
+        "description": "A"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

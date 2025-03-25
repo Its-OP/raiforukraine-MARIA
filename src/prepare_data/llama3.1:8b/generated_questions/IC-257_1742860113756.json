@@ -1,0 +1,12 @@
+{
+  "folder": "IC-257",
+  "content": "{{knowledge objective\n|Identifiant=OIC-257-06-A\n|Item_parent=Localised or generalised lower limb oedema\n|Item_parent_short=Localised or generalised oedema of the lower limbs\n|Rank=A\n|Title=Know the main biological signs to look for in oedema\n|Description=None\n|Rubric=Additional tests\n|Contributors=Jean-Jacques Boffa,Bruno Moulin\n|Order=6}}\n\n==B.    Biological signs==\nHemodilution often modest: '''decrease in hematocrit and [[Hypoprotidemia SD-211|protidemia]]''''\n\n*Intracellular hyperhydration (hyponatremia) may be associated if the water balance is more positive than the sodium balance, contributing to additional weight gain.\n*Serous effusions are ''transudates'' (protein concentration less than 20 g/Litre).\n*Natriuresis is collapsed, less than 20 mmol/day,\n\n\nDepending on the context, to diagnose a responsible condition :\n\n*Cardiac:\n**Increased BNP or NT-proBNP concentration;\n*Hepatic:\n**blood albumin, prothrombin level \u00b1 factor V assay, liver enzymes;\n*Renal:\n**blood creatinine and glomerular filtration rate;\n**proteinuria (urine dipstick screening, quantitative and qualitative measurement), urine sediment, protidemia, albuminemia;\n**Hypoalbuminemia:\n*anorexia, malabsorption: reduced concentrations of nutritional proteins (pre-abumin, transferrin);\n*hepatocellular insufficiency (TP and factor V);\n*exudative diarrhoea with loss of digestive proteins;\n\n<br />",
+  "question": {
+    "question": "What is a characteristic of serous effusions in oedema?",
+    "option_a": "They are exudates with a protein concentration greater than 30 g/Litre",
+    "option_b": "They are transudates with a protein concentration less than 20 g/Litre",
+    "option_c": "They are primarily composed of blood cells",
+    "option_d": "They are always associated with significant weight loss",
+    "correct_option": "B"
+  }
+}

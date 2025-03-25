@@ -1,0 +1,12 @@
+{
+  "folder": "IC-342",
+  "content": "{{knowledge objective\n|Identifiant=OIC-342-18-B\n|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=B\n|Title=Know the recommendations and organisation of the follow-up of a patient seen for malaise, syncope or reflex lipothymia.\n|Description=Benignity, patient education\n|Rubric=Management\n|Contributors=\n|Order=18}}\npatient reassurance (benignity) - education",
+  "question": {
+    "question": "What is the primary recommendation for a patient seen for malaise, syncope, or reflex lipothymia?",
+    "option_a": "Immediate hospitalization for further evaluation",
+    "option_b": "Patient reassurance and education on the benignity of the condition",
+    "option_c": "Referral to a specialist for further management",
+    "option_d": "Administration of medication to prevent future episodes",
+    "correct_option": "B"
+  }
+}

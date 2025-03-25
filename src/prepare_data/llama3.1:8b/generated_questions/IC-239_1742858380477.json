@@ -1,0 +1,12 @@
+{
+  "folder": "IC-239",
+  "content": "{{knowledge objective\n|Identifiant=OIC-239-08-B\n|Item_parent=Acrosyndromes (Raynaud's phenomenon, erythermalgia, acrocyanosis, frostbite, digital ischaemia)\n|Item_parent_short=Acrosyndromes (Raynaud's phenomenon, erythermalgia, acrocyanosis, frostbite, digital ischaemia)\n|Rank=B\n|Title=Video or photographs of Allen manoeuvre\n|Description=None\n|Rubric=Multimedia content\n|Contributors= Sophie Blaise, Luc Bressollette, Claire Le Hello\n|Order=8}}\n\n\n======[https://videotheque.uness.fr/w/nnDrKme9rHpY6Eied3ZBjW Allen's video manoeuvre]======",
+  "question": {
+    "question": "What is the purpose of the Allen manoeuvre?",
+    "option_a": "To increase blood flow to the hands",
+    "option_b": "To stop blood flow to the hands",
+    "option_c": "To diagnose Raynaud's phenomenon",
+    "option_d": "To treat frostbite",
+    "correct_option": "A"
+  }
+}

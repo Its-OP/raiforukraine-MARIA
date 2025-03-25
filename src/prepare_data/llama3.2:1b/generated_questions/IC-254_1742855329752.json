@@ -1,0 +1,30 @@
+{
+  "folder": "IC-254",
+  "content": "{{knowledge objective\n|Identifiant=OIC-254-07-A\n|Item_parent=Nutritional needs of pregnant women\n|Item_parent_short=Nutritional needs of pregnant women\n|Rank=A\n|Title=Knowing foods at risk\n|Description=phytoestrogen, phytosterol, mercury\n|Rubric=Taking charge\n|Contributors=\n|Order=7}}\n- Phyto-estrogens are likely to have undesirable effects on the foetus. It is advisable to limit yourself to 1 soy-based food per day.\n\n\n- It is advisable to refrain from consuming products enriched with phytosterols or phytostanols (enriched margarine).\n\n\n- Fish are potentially contaminated with dioxins, methyl-mercury and polychlorinated biphenyls, so it is advisable to vary fish species, origins and methods of supply (wild, farmed, fishing grounds, etc.). Consumption of highly bioaccumulative freshwater fish (eel, barbel, bream, carp and catfish) should be limited to once every two months. Consumption of wild predatory fish (monkfish, bass, bonito, eel, emperor, grenadier, halibut, pike, sea bream, skate, swordfish, tuna, etc.) should be limited and consumption of swordfish, marlin, siki, shark and lamprey should be avoided.",
+  "question": {
+    "properties": {
+      "question": "Phyto-estrogens are likely to have undesirable effects on the foetus. It is advisable to limit yourself to 1 soy-based food per day.",
+      "option_a": "Phyto-estrogens are likely to have desirable effects on the foetus. It is advisable to limit yourself to 1 soy-based food per day.",
+      "option_b": "It is advisable to refrain from consuming products enriched with phytosterols or phytostanols (enriched margarine).",
+      "option_c": "Fish are potentially contaminated with dioxins, methyl-mercury and polychlorinated biphenyls, so it is advisable to vary fish species, origins and methods of supply (wild, farmed, fishing grounds, etc.). Consumption of highly bioaccumulative freshwater fish (eel, barbel, bream, carp and catfish) should be limited to once every two months. Consumption of wild predatory fish (monkfish, bass, bonito, eel, emperor, grenadier, halibut, pike, sea bream, skate, swordfish, tuna, etc.) should be limited and consumption of swordfish, marlin, siki, shark and lamprey should be avoided.",
+      "option_d": "Phyto-estrogens are likely to have desirable effects on the foetus. It is advisable to limit yourself to 1 soy-based food per day.",
+      "correct_option": "Phyto-estrogens are likely to have undesirable effects on the foetus. It is advisable to limit yourself to 1 soy-based food per day.",
+      "required": [
+        "question",
+        "option_a",
+        "option_b",
+        "option_c",
+        "option_d",
+        "correct_option"
+      ]
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "folder": "IC-124",
+  "content": "{{knowledge objective\n|Identifiant=OIC-124-14-A\n|Item_parent=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)\n|Item_parent_short=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)\n|Rank=A\n|Title=Know that any metrorrhagia in a postmenopausal woman should be investigated to rule out endometrial cancer.\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Florence Tr\u00e9mollieres,Anna Gosset\n|Order=14}}\n\n'''Any abnormal uterine bleeding (SUA) in a post-menopausal woman should rule out endometrial cancer'''.\n\nSUA is an infrequent occurrence (less than 15%) with HRT, and is sometimes linked to overdose or to the resumption of ovarian activity at the start of treatment, but it should be ruled out as a cause of endometrial cancer.\n\nE'''n the case of recurrent abnormal uterine bleeding or when the thickness of the endometrium is greater than 4 mm, additional uterine explorations (hysteroscopy and histology) are necessary''.\n\n=== '''What to do''' ===\n- Look for '''risk factors for [[Cervical tumours, tumours of the uterine body|endometrial cancer]]''' on the questionnaire.\n\n* obesity\n* HYPERTENSION\n* Type 2 diabetes\n* taking HRT\n* tamoxifen treatment\n* family history\n\n- Clinical examination to rule out a vaginal or cervical cause\n\n'''- Carry out an endometrial biopsy using the Cornier pipelle, bearing in mind that it is only of value if it is positive'''\n\n- Pelvic ultrasound to measure the thickness of the endometrium\n\nDiagnostic hysteroscopy for histological confirmation.\n\n<br />",
+  "question": {
+    "title": "Know that any metrorrhagia in a postmenopausal woman should be investigated to rule out endometrial cancer.",
+    "description": "Any abnormal uterine bleeding (SUA) in a postmenopausal woman should rule out endometrial cancer.",
+    "correct_option": "b",
+    "question": "What is the primary purpose of investigating metrorrhagia in a postmenopausal woman?",
+    "options": [
+      "To investigate all metrorrhagia in postmenopausal women",
+      "To rule out endometrial cancer",
+      "To investigate abnormal uterine bleeding in postmenopausal women",
+      "To investigate the thickness of the endometrium in postmenopausal women"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-082",
+  "content": "{{knowledge objective\n|Identifiant=OIC-082-11-A\n|Item_parent=Acute visual impairment\n|Item_parent_short=Acute visual impairment\n|Rank=A\n|Title=Savoir \u00e9voquer le diagnostic d'aura migraineuse (Knowing how to evoke the diagnosis of migraine aura)\n|Description=AIT, partial epileptic seizure\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=11}}\nAn ophthalmic migraine or visual migraine aura is characterised by the appearance of visual stimuli which subside in about 15 to 20 minutes, usually giving way to a pulsatile headache, usually in the hemicranium and contralateral. In some cases, the scintillating scotoma is isolated, with no headache.\n\nThe stimuli most often reported are a bilateral scintillating scotoma, accompanied by coloured flashes, progressively extending to one visual hemifield. However, some patients report a wide variety of visual stimuli. The diagnosis is confirmed by repetition, a normal clinical examination and any associated headache.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a characteristic of visual migraine aura?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "A unilateral scintillating scotoma",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "A bilateral scintillating scotoma that progressively extends to one visual hemifield",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "A scintillating scotoma that is always accompanied by a pulsatile headache",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "A visual stimulus that lasts for more than 30 minutes",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

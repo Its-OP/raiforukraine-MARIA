@@ -1,0 +1,12 @@
+{
+  "folder": "IC-299",
+  "content": "{{knowledge objective\n|Identifiant=OIC-299-07-A\n|Item_parent=Intracranial tumours\n|Item_parent_short=Intra-cranial tumours\n|Rank=A\n|Title=Describe the systematic search for primary cancer in the presence of brain metastases\n|Description=Describe the systematic search for primary cancer in the presence of cerebral metastasis\n|Rubric=Positive diagnosis\n|Contributors=Dr Thi\u00e9baud PICART (Hospices Civils de Lyon),Dr Pierre ANTH\u00c9RIEU (Toulouse University Hospital),Pr Fran\u00e7ois VASSAL (Saint-Etienne University Hospital)\n|Order=7}}\n\n'''Extension work-up:''' look for primary cancer (and other extra-encephalic systemic metastases)\n\n- '''Clinical:'''\n\no Skin examination (melanoma)\n\no Pulmonary auscultation\n\no Breast palpation, adenopathy\n\n- '''Imaging:'''\n\no ''Thoracic-abdominal-pelvic scan'', with injection of contrast medium\n\no +/- fluorodeoxyglucose PET scanner (<sup>18</sup>F)\n\no Mammography in women",
+  "question": {
+    "question": "What is the recommended approach to search for primary cancer in the presence of cerebral metastasis?",
+    "option_a": "Perform a thorough physical examination focusing only on the skin and breast",
+    "option_b": "Conduct a thoracic-abdominal-pelvic scan with contrast medium, as well as mammography in women, and consider fluorodeoxyglucose PET scanner if necessary",
+    "option_c": "Limit the search to the thoracic-abdominal-pelvic region only, without considering other potential sites of primary cancer",
+    "option_d": "Skip the search for primary cancer and focus solely on treating the cerebral metastasis",
+    "correct_option": "B"
+  }
+}

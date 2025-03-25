@@ -1,0 +1,12 @@
+{
+  "folder": "IC-230",
+  "content": "{{knowledge objective\n|Identifiant=OIC-230-02-A\n|Item_parent=Acute chest pain\n|Item_parent_short=Acute chest pain\n|Rank=A\n|Title=Knowing how to look for vital distress in chest pain\n|Description=Respiratory or haemodynamic distress, disturbances of consciousness\n|Rubric=Identification of the emergency\n|Contributors=Vincent Roule\n|Order=2}}\n\n'''Entitul\u00e9 :''' '''Savoir rechercher une d\u00e9tresse vitale devant une douleur thoracique''''\n\n- '''acute respiratory distress'''\n\n- haemodynamic distress: ''signs of shock\n\n- neurological distress (coma and consciousness disorders)",
+  "question": {
+    "question": "What are the signs of vital distress to look for in a patient with acute chest pain?",
+    "option_a": "Cardiovascular distress (e.g. arrhythmias, heart failure)",
+    "option_b": "Respiratory or haemodynamic distress, disturbances of consciousness",
+    "option_c": "Gastrointestinal distress (e.g. nausea, vomiting)",
+    "option_d": "Musculoskeletal distress (e.g. muscle strain, back pain)",
+    "correct_option": "B"
+  }
+}

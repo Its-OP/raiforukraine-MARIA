@@ -1,0 +1,46 @@
+{
+  "folder": "IC-223",
+  "content": "{{knowledge objective\n|Identifiant=OIC-223-05-A\n|Item_parent=Dyslipidaemia\n|Item_parent_short=Dyslipidemia\n|Rank=A\n|Title=Knowing the positive diagnosis and classification of dyslipidemias\n|Description=Exploration of lipid anomalies, threshold values, simplified classification\n|Rubric=Positive diagnosis\n|Contributors=Laurence Duvillard, Bruno Verg\u00e8s, Benjamin Bouillet, Laurence Amar, Christian Boissier, Tristan Mirault, Claire Le Hello\n|Order=5}}\n\n\n==Diagnosis==\n\n*Diagnosis is made by means of a \"Lipid Abnormality Investigation (LAI)\" on serum after 12 hours' fasting. It includes :\n**appearance of the serum\n**quantification of total cholesterol,\n**quantification of triglycerides,\n**quantification of HDL cholesterol\n**estimation of LDL-cholesterol by calculation if triglycerides<3.8 mmol/L (i.e. 3.4 g/L), otherwise by direct measurement.\n\n==Primary hyperlipidemia and secondary hyperlipidemia=\n\n*A distinction is made between ''primary hyperlipidaemia'', characterised by a primary abnormality of lipid metabolism (see below) with\n**l''''pure hypercholesterolaemia: isolated increase in LDL cholesterol,\n**l''''purehypertriglyceridaemia'': isolated (or highly preponderant) increase in triglycerides. Hypertriglyceridaemia is defined as fasting triglyceride levels > 1.7 mmol/L (i.e. 1.50 g/L),\n**mixed hyperlipidaemia'': joint increase in LDL cholesterol and triglycerides,\n*secondary hyperlipidaemia]''[https://sides.uness.fr/lisa/Conna%C3%AEtre_les_principales_causes_d%27hyperlipid%C3%A9mies_secondaires_2C-223-ET-A01 secondary hyperlipidaemia]'' and the specific dyslipidaemia associated with type 2 diabetes and metabolic syndrome. The latter includes an increase in triglycerides and a drop in HDL-cholesterol, and is associated with a high cardiovascular risk.\n\n==Different types of pure hypercholesterolaemia=\n\n*Familial hypercholesterolaemia (classified as IIa in the Fredrickson classification)\n**Severe forms secondary to single gene mutations (LDL receptor, apoB, PCSK9), causing early cardiovascular events.\n**Rare homozygous familial hypercholesterolaemia'', characterised by extremely high LDL-cholesterol levels >10 mmol/L (i.e. 4 g/L) and the occurrence of cardiovascular events in childhood.\n**The much more common \"heterozygous familial hypercholesterolaemia\", characterised by very high LDL-cholesterol levels of between 5 and 10 mmol/L (i.e. 1.90 and 4 g/L) and the occurrence of early cardiovascular events (before the age of 50), in the absence of effective cholesterol-lowering treatment.\n*Polygenic hypercholesterolaemia'' (classified as IIa in Fredrickson's classification): frequent, onset during life, favoured by a poor lifestyle, moderately high LDL-cholesterol level often < 5.7 mmol/L (i.e. 2.20 g/L).\n\n==Different types of pure hypertriglyceridemia==\n\n*Hyperchylomicronemia (or exogenous hypertriglyceridemia) (classified as I in Fredrickson's classification) divided into familial hyperchylomicronemia and multifactorial hyperchylomicronemia. They are at high risk of acute pancreatitis.\n**Familial hyperchylomicronemias are rare and secondary to a genetic anomaly responsible for a deficiency in lipoprotein lipase activity (enzyme responsible for the breakdown of chylomicrons and VLDL).\n**Multifactorial hyperchylomicronemia is much more frequent than familial hyperchylomicronemia and is of multigenic origin associated with exposure to environmental factors.\n*Endogenous hypertriglyceridaemia (classified as IV in the Fredrickson classification), characterised by an excess of VLDL.\n*Pure hypertriglyceridaemia'' marked by a high risk of acute pancreatitis, when triglyceride values exceed 11 mmol/L (i.e. 10 g/L).\n\n==Different types of mixed hyperlipidaemia=\n\n*'''Dysbetalipoproteinemia'' (classified III in the Fredrickson classification), rare, characterized by a harmonious elevation of cholesterol and triglycerides\n*''Familial combined hyperlipidaemia'', fairly frequent, characterised by variability in lipid phenotypes (classically a joint increase in LDL-cholesterol and triglycerides [classified as IIb in Fredrickson's classification], sometimes an isolated increase in LDL-cholesterol [classified as IIa in Fredrickson's classification] or triglycerides [classified as IV in Fredrickson's classification]) within a family and in the same patient, and a high risk of cardiovascular events.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary abnormality in primary hyperlipidaemia?",
+        "description": "A question about the diagnosis and classification of dyslipidemias",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "A primary abnormality of lipid metabolism due to a genetic anomaly",
+        "description": "A plausible but incorrect answer",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Isolated increase in LDL cholesterol",
+        "description": "A correct answer, but not the primary abnormality",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Isolated increase in triglycerides",
+        "description": "A correct answer, but not the primary abnormality",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "A combination of lipid metabolism and environmental factors",
+        "description": "A plausible but incorrect answer",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A primary abnormality of lipid metabolism",
+        "description": "The correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

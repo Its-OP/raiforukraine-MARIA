@@ -1,0 +1,46 @@
+{
+  "folder": "IC-267",
+  "content": "{{knowledge objective\n|Identifiant=OIC-267-25-A\n|Item_parent=Disorders of acid-base balance and fluid-electrolyte disorders\n|Item_parent_short=Disorders of acid-base balance and fluid and electrolyte disorders\n|Rank=A\n|Title=Knowing the symptoms of severe hyponatremia\n|Description=Know the signs of moderate and severe hyponatremia.\n|Rubric=Identification of the emergency\n|Contributors=P Rieu; B Moulin; M Flamant\n|Order=25}}\n\n\n*Severe hyponatremia = < 120 mmol/L.\n*Clinical signs (Table 7):\n**non-specific and therefore not very suggestive,\n**correlated with the severity of the hyponatremia and its rapid onset.\n\nTable 7: Symptoms of hyponatraemia (ERBP classification 2014).\n{| class=\"wikitable\"\n|Hyponatremia with moderately severe symptoms\n|Hyponatremia with severe symptoms\n|-\n|- Nausea (without vomiting)\n\n- Confusion\n\n- Headache\n|- Vomiting\n\n- Cardiorespiratory distress\n\n- Sleepiness (abnormal and profound)\n\n- Comitiality\n\n- Consciousness disorders\n\n- Coma (Glasgow \u2264 8)\n|}\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a symptom of severe hyponatremia?",
+        "description": "Select the correct answer",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Vomiting",
+        "description": "One of the symptoms of hyponatremia",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Headache",
+        "description": "A symptom that can be present in hyponatremia",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Coma",
+        "description": "A severe symptom of hyponatremia",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Nausea",
+        "description": "A symptom that can be present in mild hyponatremia",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "C",
+        "description": "The correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

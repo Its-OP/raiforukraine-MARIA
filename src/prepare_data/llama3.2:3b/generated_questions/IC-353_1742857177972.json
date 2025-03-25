@@ -1,0 +1,12 @@
+{
+  "folder": "IC-353",
+  "content": "{{knowledge objective\n|Identifiant=OIC-353-11-B\n|Item_parent=Suicidal risk and behaviour in children, adolescents and adults: identification and management\n|Item_parent_short=Suicidal risk and behaviour in children, adolescents and adults: identification and management\n|Rank=B\n|Title=Acknowledging the specific features of older people\n|Description=Send item 70\n|Rubric=Management\n|Contributors=Pierre Vandel\n|Order=11}}\n\nCAT guided by the following elements:\n\n* Characteristic depressive episode to be sought systematically. Common in old age.\n* Systematic search for comorbid psychiatric disorders;\n* Think of physical pain and/or abuse in the event of any recent change in behaviour;\n* Systematic psychosocial assessment.\n\n\nIn the event of a proven suicidal crisis: research the means envisaged and available. '''Removal of access to the means.'''",
+  "question": {
+    "question": "When assessing an older adult for suicidal risk, what is the next step after identifying a characteristic depressive episode?",
+    "option_a": "To refer the individual to a specialist team for further assessment and management",
+    "option_b": "To conduct a thorough search for comorbid psychiatric disorders, including a systematic review of the individual's medical history",
+    "option_c": "To consider the possibility of physical pain or abuse as a contributing factor to the individual's behaviour",
+    "option_d": "To immediately remove access to the means that could be used for self-harm",
+    "correct_option": "b"
+  }
+}

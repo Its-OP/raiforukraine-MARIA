@@ -1,0 +1,12 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-21-A\n|Item_parent=Smoking addiction\n|Item_parent_short=Tobacco addiction\n|Rank=A\n|Title=Knowing the signs of smoking cessation\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=21}}\nThe signs of withdrawal appear rapidly after stopping :\n\n* Depressed mood\n* Irritability\n* Frustration\n* Anger\n* Insomnia\n* Anxiety\n* Difficulty concentrating\n* Increased appetite => weight gain\n\n<br />",
+  "question": {
+    "question": "When does the signs of withdrawal appear rapidly after stopping tobacco addiction?",
+    "option_a": "Depressed mood",
+    "option_b": "Irritability",
+    "option_c": "Frustration",
+    "option_d": "Anger",
+    "correct_option": "b"
+  }
+}

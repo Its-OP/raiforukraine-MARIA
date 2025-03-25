@@ -1,0 +1,46 @@
+{
+  "folder": "IC-242",
+  "content": "{{knowledge objective\n|Identifiant=OIC-242-02-B\n|Item_parent=Hyperthyroidism\n|Item_parent_short=Hyperthyroidism\n|Rank=B\n|Title=Knowing the prevalence of hyperthyroidism\n|Description=None\n|Rubric=Epidemiology\n|Contributors=Dr Camille Buffet,Dr Magalie Haissaguerre\n|Order=2}}\n\nPrevalence is high but varies from country to country (0.2 to 1.9% for all causes combined).  \n\nWomen are more affected than men, with a sex ratio of around 7.\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the prevalence of hyperthyroidism?",
+        "description": "The prevalence of hyperthyroidism varies from country to country.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Less than 1%",
+        "description": "A low prevalence of hyperthyroidism",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "0.2 to 1.9%",
+        "description": "A moderate prevalence of hyperthyroidism",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "2 to 4%",
+        "description": "A high prevalence of hyperthyroidism",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "5 to 10%",
+        "description": "A very high prevalence of hyperthyroidism",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "0.2 to 1.9%",
+        "description": "",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

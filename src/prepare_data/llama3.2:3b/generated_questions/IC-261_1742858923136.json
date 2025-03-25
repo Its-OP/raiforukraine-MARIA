@@ -1,0 +1,46 @@
+{
+  "folder": "IC-261",
+  "content": "{{knowledge objective\n|Identifiant=OIC-261-12-B\n|Item_parent=Glomerular nephropathy\n|Item_parent_short=Glomerular nephropathy\n|Rank=B\n|Title=Knowing the clinical and biological elements leading to suspicion of IgA nephropathy\n|Description=Know that the occurrence of haematuria 48 hours after an infectious epidosis (ENT or other) is suggestive of IgA nephropathy. Know that microscopic haematuria alone or associated with proteinuria may suggest NIgA in the first instance.\n|Rubric=Positive diagnosis\n|Contributors=Eric Daugas,Bruno Moulin\n|Order=12}}\n\n'''C.     IgA nephropathy''''\n\n'''Diagnosis'''\n\nAll glomerular syndromes are possible:\n\n* Recurrent macroscopic haematuria syndrome, without clots or pain, typically 48 hours after an episode of ENT infection;\n* Chronic glomerulonephritis syndrome;\n* Isolated microscopic haematuria;\n* Other possible presentations are :\n** impure nephrotic syndrome with haematuria and hypertension,\n** rapidly progressive glomerulonephritis syndrome.\n\n'''Diagnosis of NIgA is based on renal biopsy:'''\n\n* Mesangial deposits of IgA and C3.\n* mesangial cell proliferation, \u00b1 endocapillary, \u00b1 extracapillary\n\nEtiological diagnosis\n\n* Associated secondary NIgA :\n** cirrhosis,\n** chronic inflammatory bowel disease,\n** spondyloarthropathies,\n* IgA nephropathy in rheumatoid purpura:\n** Systemic vasculitis of small-calibre arteries with IgA\n** More common in children than adults.\n** Extra-renal signs: vascular purpura, arthralgia, abdominal pain, myalgia,\n** NIgA is sometimes severe with a rapidly progressive glomerulonephritis syndrome.\n** The most severe forms require high-dose corticosteroid therapy.\n\n'''In the absence of a cause:''' Primary IgA nephropathy or Berger's disease.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is a common presentation of IgA nephropathy?",
+        "description": "A question about the clinical manifestations of IgA nephropathy",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Rapidly progressive glomerulonephritis syndrome",
+        "description": "A serious and aggressive form of kidney disease",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Chronic glomerulonephritis syndrome",
+        "description": "A long-term kidney disease",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Impure nephrotic syndrome with haematuria and hypertension",
+        "description": "A condition characterized by excessive protein loss in the urine",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "IgA nephropathy in rheumatoid purpura",
+        "description": "A rare and severe form of IgA nephropathy",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "B",
+        "description": "The correct letter of the answer option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-026",
+  "content": "{{knowledge objective\n|Identifiant=OIC-026-05-B\n|Item_parent=Acute abdominal pain in a pregnant woman\n|Item_parent_short=Acute abdominal pain in pregnant women\n|Rank=B\n|Title=Knowing the particularities of imaging in pregnant women\n|Description=None\n|Rubric=Additional examinations\n|Contributors=Louis Marcellin,Philippe Deruelle\n|Order=5}}\n\n==Ultrasound==\n- Abdominal and pelvic ultrasound is not very effective in pregnancy.\n\n- Moderate pyelocalic dilation < 20 mm is frequently observed during pregnancy, particularly on the right, due to dextro-rotation of the uterus.\n\n==Radio and CT scans\n- An injected CT scan is possible at any stage of pregnancy, but contrast product injections should be avoided in the early months of pregnancy and when breast-feeding.           (Risk-benefit ratio)\n\n- No radiological diagnostic examination exceeds a dose of 100mGy.  A dose of less than 100 mGy has no harmful effect and does not justify termination of pregnancy.  \n\n- Usual examinations not reaching the value of 100 mGy: chest X-ray (max <0.01), abdomen (max: 4.2 mGy) films taken on an upper/lower limb, a thoracic angio-scanner. For the abdomino-pelvic scanner, the average dose is 8 mGy and the maximum dose is 49 mGy. The patient should be kept informed.\n\n- The risk of childhood cancer following foetal irradiation has not been demonstrated at the doses used in diagnostic imaging.\n\n==MRI==\n- MRI can be carried out on pregnant women, but it is advisable to avoid the first trimester of pregnancy and to limit injections of contrast products, including when breast-feeding. (Benefit/risk ratio)\n\n\n[Request for an SD-231 imaging examination\n\n[Writing a request for an SD-230 imaging examination\n\n[Request from a patient for an explanation of the procedure, risks and expected benefits of an SD-232 imaging examination.",
+  "question": {
+    "question": "What is a common limitation of abdominal and pelvic ultrasound in pregnant women?",
+    "option_a": "It is not effective at all during pregnancy",
+    "option_b": "It is not very effective in the first trimester",
+    "option_c": "It is not very effective due to the dextro-rotation of the uterus",
+    "option_d": "It is not effective in women with a history of abdominal surgery",
+    "correct_option": "C"
+  }
+}
