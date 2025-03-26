@@ -1,1 +1,1 @@
-computed for t=0.5
+results.txt only computed for t=0.5
