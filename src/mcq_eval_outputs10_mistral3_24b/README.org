@@ -1,1 +1,0 @@
-results.txt only computed for t=0.5
