@@ -1,0 +1,244 @@
+import pandas as pd
+import numpy as np
+
+def calculate_mcq_metrics(file_path):
+    """
+    Calculate various metrics from the MCQ evaluation CSV file.
+    
+    Parameters:
+    file_path (str): Path to the CSV file
+    
+    Returns:
+    dict: Dictionary containing calculated metrics
+    """
+    # Read the CSV file
+    df = pd.read_csv(file_path)
+    
+    # Print a sample of the boolean columns to verify the correct format
+    print("Sample of the boolean columns before conversion:")
+    print(df[['starts_with_negation', 'is_question', 'disclosure']].head())
+    
+    # Convert string boolean values to actual booleans (using string comparison)
+    df['starts_with_negation_bool'] = df['starts_with_negation'].astype(str) == 'True'
+    df['is_question_bool'] = df['is_question'].astype(str) == 'True'
+    df['disclosure_bool'] = df['disclosure'].astype(str) == 'True'
+    
+    # Print after conversion to verify
+    print("\nSample after conversion:")
+    print(df[['starts_with_negation', 'starts_with_negation_bool', 
+              'is_question', 'is_question_bool', 
+              'disclosure', 'disclosure_bool']].head())
+    
+    # Calculate metrics
+    metrics = {
+        'originality': {
+            'average': df['originality'].mean(),
+            'median': df['originality'].median(),
+            'std_dev': df['originality'].std(),
+            'min': df['originality'].min(),
+            'max': df['originality'].max(),
+            'quartiles': {
+                'q1': df['originality'].quantile(0.25),
+                'q3': df['originality'].quantile(0.75)
+            }
+        },
+        'readability': {
+            'average': df['readability'].mean(),
+            'median': df['readability'].median(),
+            'std_dev': df['readability'].std(),
+            'min': df['readability'].min(),
+            'max': df['readability'].max(),
+            'quartiles': {
+                'q1': df['readability'].quantile(0.25),
+                'q3': df['readability'].quantile(0.75)
+            }
+        },
+        'starts_with_negation': {
+            'percentage_true': df['starts_with_negation_bool'].sum() / len(df) * 100
+        },
+        'is_question': {
+            'percentage_true': df['is_question_bool'].sum() / len(df) * 100
+        },
+        'relevance': {
+            'average': df['relevance'].mean(),
+            'median': df['relevance'].median(),
+            'std_dev': df['relevance'].std(),
+            'min': df['relevance'].min(),
+            'max': df['relevance'].max(),
+            'quartiles': {
+                'q1': df['relevance'].quantile(0.25),
+                'q3': df['relevance'].quantile(0.75)
+            }
+        },
+        'ambiguity': {
+            'average': df['ambiguity'].mean(),
+            'median': df['ambiguity'].median(),
+            'std_dev': df['ambiguity'].std(),
+            'min': df['ambiguity'].min(),
+            'max': df['ambiguity'].max(),
+            'quartiles': {
+                'q1': df['ambiguity'].quantile(0.25),
+                'q3': df['ambiguity'].quantile(0.75)
+            }
+        },
+        'gpt_answer': {
+            'percentage_correct': (df['gpt_answer'].str.lower() == df['correct_option'].str.lower()).sum() / len(df) * 100
+        },
+        'disclosure': {
+            'percentage_false': (~df['disclosure_bool']).sum() / len(df) * 100
+        },
+        'difficulty': {
+            'average': df['difficulty'].mean(),
+            'median': df['difficulty'].median(),
+            'std_dev': df['difficulty'].std(),
+            'distribution': {
+                '1': (df['difficulty'] == 1).sum() / len(df) * 100,
+                '2': (df['difficulty'] == 2).sum() / len(df) * 100,
+                '3': (df['difficulty'] == 3).sum() / len(df) * 100,
+                '4': (df['difficulty'] == 4).sum() / len(df) * 100,
+                '5': (df['difficulty'] == 5).sum() / len(df) * 100
+            },
+            'cumulative_distribution': {
+                '≤1': (df['difficulty'] <= 1).sum() / len(df) * 100,
+                '≤2': (df['difficulty'] <= 2).sum() / len(df) * 100,
+                '≤3': (df['difficulty'] <= 3).sum() / len(df) * 100,
+                '≤4': (df['difficulty'] <= 4).sum() / len(df) * 100,
+                '≤5': (df['difficulty'] <= 5).sum() / len(df) * 100
+            }
+        },
+        'distractor_quality': {
+            'average': df['distractor_quality'].mean(),
+            'median': df['distractor_quality'].median(),
+            'std_dev': df['distractor_quality'].std(),
+            'distribution': {
+                '1': (df['distractor_quality'] == 1).sum() / len(df) * 100,
+                '2': (df['distractor_quality'] == 2).sum() / len(df) * 100,
+                '3': (df['distractor_quality'] == 3).sum() / len(df) * 100,
+                '4': (df['distractor_quality'] == 4).sum() / len(df) * 100,
+                '5': (df['distractor_quality'] == 5).sum() / len(df) * 100
+            },
+            'cumulative_distribution': {
+                '≤1': (df['distractor_quality'] <= 1).sum() / len(df) * 100,
+                '≤2': (df['distractor_quality'] <= 2).sum() / len(df) * 100,
+                '≤3': (df['distractor_quality'] <= 3).sum() / len(df) * 100,
+                '≤4': (df['distractor_quality'] <= 4).sum() / len(df) * 100,
+                '≤5': (df['distractor_quality'] <= 5).sum() / len(df) * 100
+            }
+        }
+    }
+    
+    return metrics
+
+def format_metrics(metrics):
+    """
+    Format the metrics dictionary into a readable string.
+    
+    Parameters:
+    metrics (dict): Dictionary containing calculated metrics
+    
+    Returns:
+    str: Formatted metrics string
+    """
+    result = "MCQ Evaluation Metrics:\n"
+    result += "=" * 50 + "\n\n"
+    
+    # Format numeric columns with detailed statistics
+    result += "1. Originality:\n"
+    result += f"   - Average: {metrics['originality']['average']:.4f}\n"
+    result += f"   - Median: {metrics['originality']['median']:.4f}\n"
+    result += f"   - Standard Deviation: {metrics['originality']['std_dev']:.4f}\n"
+    result += f"   - Range: {metrics['originality']['min']:.4f} to {metrics['originality']['max']:.4f}\n"
+    result += f"   - IQR: {metrics['originality']['quartiles']['q1']:.4f} to {metrics['originality']['quartiles']['q3']:.4f}\n"
+    
+    result += "\n2. Readability:\n"
+    result += f"   - Average: {metrics['readability']['average']:.2f}\n"
+    result += f"   - Median: {metrics['readability']['median']:.2f}\n"
+    result += f"   - Standard Deviation: {metrics['readability']['std_dev']:.2f}\n"
+    result += f"   - Range: {metrics['readability']['min']:.2f} to {metrics['readability']['max']:.2f}\n"
+    result += f"   - IQR: {metrics['readability']['quartiles']['q1']:.2f} to {metrics['readability']['quartiles']['q3']:.2f}\n"
+    
+    # Format boolean columns with percentages
+    result += f"\n3. Starts with negation: {metrics['starts_with_negation']['percentage_true']:.2f}% (percentage of true)\n"
+    
+    result += f"\n4. Is question: {metrics['is_question']['percentage_true']:.2f}% (percentage of true)\n"
+    
+    # More numeric columns with detailed statistics
+    result += "\n5. Relevance:\n"
+    result += f"   - Average: {metrics['relevance']['average']:.4f}\n"
+    result += f"   - Median: {metrics['relevance']['median']:.4f}\n"
+    result += f"   - Standard Deviation: {metrics['relevance']['std_dev']:.4f}\n"
+    result += f"   - Range: {metrics['relevance']['min']:.4f} to {metrics['relevance']['max']:.4f}\n"
+    result += f"   - IQR: {metrics['relevance']['quartiles']['q1']:.4f} to {metrics['relevance']['quartiles']['q3']:.4f}\n"
+    
+    result += "\n6. Ambiguity:\n"
+    result += f"   - Average: {metrics['ambiguity']['average']:.4f}\n"
+    result += f"   - Median: {metrics['ambiguity']['median']:.4f}\n"
+    result += f"   - Standard Deviation: {metrics['ambiguity']['std_dev']:.4f}\n"
+    result += f"   - Range: {metrics['ambiguity']['min']:.4f} to {metrics['ambiguity']['max']:.4f}\n"
+    result += f"   - IQR: {metrics['ambiguity']['quartiles']['q1']:.4f} to {metrics['ambiguity']['quartiles']['q3']:.4f}\n"
+    
+    # Other boolean columns
+    result += f"\n7. GPT answer: {metrics['gpt_answer']['percentage_correct']:.2f}% (percentage correct)\n"
+    
+    result += f"\n8. Disclosure: {metrics['disclosure']['percentage_false']:.2f}% (percentage of false)\n"
+    
+    # Difficulty with both regular and cumulative distributions
+    result += f"\n9. Difficulty:\n"
+    result += f"   - Average: {metrics['difficulty']['average']:.2f}\n"
+    result += f"   - Median: {metrics['difficulty']['median']:.2f}\n"
+    result += f"   - Standard Deviation: {metrics['difficulty']['std_dev']:.2f}\n"
+    result += f"   - Distribution:\n"
+    result += f"     * Level 1: {metrics['difficulty']['distribution']['1']:.2f}%\n"
+    result += f"     * Level 2: {metrics['difficulty']['distribution']['2']:.2f}%\n"
+    result += f"     * Level 3: {metrics['difficulty']['distribution']['3']:.2f}%\n"
+    result += f"     * Level 4: {metrics['difficulty']['distribution']['4']:.2f}%\n"
+    result += f"     * Level 5: {metrics['difficulty']['distribution']['5']:.2f}%\n"
+    result += f"   - Cumulative Distribution:\n"
+    result += f"     * Level ≤1: {metrics['difficulty']['cumulative_distribution']['≤1']:.2f}%\n"
+    result += f"     * Level ≤2: {metrics['difficulty']['cumulative_distribution']['≤2']:.2f}%\n"
+    result += f"     * Level ≤3: {metrics['difficulty']['cumulative_distribution']['≤3']:.2f}%\n"
+    result += f"     * Level ≤4: {metrics['difficulty']['cumulative_distribution']['≤4']:.2f}%\n"
+    result += f"     * Level ≤5: {metrics['difficulty']['cumulative_distribution']['≤5']:.2f}%\n"
+    
+    # Distractor Quality with both regular and cumulative distributions
+    result += f"\n10. Distractor Quality:\n"
+    result += f"   - Average: {metrics['distractor_quality']['average']:.2f}\n"
+    result += f"   - Median: {metrics['distractor_quality']['median']:.2f}\n"
+    result += f"   - Standard Deviation: {metrics['distractor_quality']['std_dev']:.2f}\n"
+    result += f"   - Distribution:\n"
+    result += f"     * Level 1: {metrics['distractor_quality']['distribution']['1']:.2f}%\n"
+    result += f"     * Level 2: {metrics['distractor_quality']['distribution']['2']:.2f}%\n"
+    result += f"     * Level 3: {metrics['distractor_quality']['distribution']['3']:.2f}%\n"
+    result += f"     * Level 4: {metrics['distractor_quality']['distribution']['4']:.2f}%\n"
+    result += f"     * Level 5: {metrics['distractor_quality']['distribution']['5']:.2f}%\n"
+    result += f"   - Cumulative Distribution:\n"
+    result += f"     * Level ≤1: {metrics['distractor_quality']['cumulative_distribution']['≤1']:.2f}%\n"
+    result += f"     * Level ≤2: {metrics['distractor_quality']['cumulative_distribution']['≤2']:.2f}%\n"
+    result += f"     * Level ≤3: {metrics['distractor_quality']['cumulative_distribution']['≤3']:.2f}%\n"
+    result += f"     * Level ≤4: {metrics['distractor_quality']['cumulative_distribution']['≤4']:.2f}%\n"
+    result += f"     * Level ≤5: {metrics['distractor_quality']['cumulative_distribution']['≤5']:.2f}%\n"
+    
+    return result
+
+if __name__ == "__main__":
+    import argparse
+    
+    # Set up command line argument parsing
+    parser = argparse.ArgumentParser(description='Calculate metrics from MCQ evaluation CSV file')
+    parser.add_argument('file_path', help='Path to the CSV file')
+    parser.add_argument('--output', '-o', help='Output file path for results (optional)')
+    
+    args = parser.parse_args()
+    
+    try:
+        metrics = calculate_mcq_metrics(args.file_path)
+        print("\n" + format_metrics(metrics))
+        
+        # Save to file if output path is provided
+        if args.output:
+            with open(args.output, "w") as f:
+                f.write(format_metrics(metrics))
+            print(f"Results have been saved to {args.output}")
+        
+    except Exception as e:
+        print(f"An error occurred: {str(e)}")
