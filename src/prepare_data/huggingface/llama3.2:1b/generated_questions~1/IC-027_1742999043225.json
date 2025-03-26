@@ -1,0 +1,19 @@
+{
+  "folder": "IC-027",
+  "content": "{{knowledge objective\n|Identifiant=OIC-027-19-B\n|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Rank=B\n|Title=Knowing the mechanisms of maternal-fetal transmission of listeriosis\n|Description=None\n|Rubric=Physiopathology\n|Contributors=Alexandre Vivanti, Philippe Deruelle\n|Order=19}}\nThe newborn is infected ''in utero'' following bacteremia of the mother with ''Listeria monocytogenes''. The first stage of infection is colonisation of the placenta. This infection is rapidly associated with an intra-uterine infection (chorioamniotitis).\n\nIt is estimated that this pathogen is responsible for around 1% of bacterial meningitis in newborns and less than 0.15% of perinatal mortality. After E. coli K1 and SGB, L. monocytogenes remains the 3rd most common cause of neonatal meningitis. The seriousness of listeriosis is therefore due to the bacterium's tropism for the placenta and the central nervous system.\n\nThe infection manifests itself from birth with cyanosis, apnoea, respiratory distress and consciousness disorders. In these severe forms, which progress over several days, the mortality rate is high (50-75%). In almost 95% of cases, the disease is purulent meningitis with acute fever in children and adults, insomnia, irritability and disturbed consciousness.",
+  "question": {
+    "properties": {
+      "question": "What is the primary mechanism of transmission of listeriosis from mother to newborn?",
+      "option_a": "Mother-to-child transmission through breastfeeding",
+      "option_b": "Mother-to-child transmission through contaminated food and water",
+      "option_c": "Mother-to-child transmission through direct contact with infected placenta",
+      "option_d": "Mother-to-child transmission through airborne transmission of Listeria monocytogenes",
+      "correct_option": "option_c"
+    },
+    "required": [
+      "question",
+      "correct_option"
+    ],
+    "type": "string"
+  }
+}

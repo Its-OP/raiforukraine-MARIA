@@ -1,0 +1,12 @@
+{
+  "folder": "IC-254",
+  "content": "{{knowledge objective\n|Identifiant=OIC-254-02-B\n|Item_parent=Nutritional needs of pregnant women\n|Item_parent_short=Nutritional needs of pregnant women\n|Rank=B\n|Title=Knowing the expected weight gain during pregnancy\n|Description=Based on BMI at conception\n|Rubric=Physiopathology\n|Contributors=\n|Order=2}}\nThe average increase in weight during pregnancy is 13 kg. A weight gain of 1 kg per month during the first two trimesters and 500 g per week during the last trimester is considered normal.\n\nHowever, the expected weight gain depends on the body type.\n<br />\n{| class=\"wikitable\"\n|BMI before pregnancy\n|Recommended weight gain during pregnancy\n|-\n|IMC < 18.5 kg/m\u00b2\u00b2)\n|12.5 - 18 kg\n|-\n|18.5 kg/m2 < BMI \u2264 25.0 kg/m2\n|11.5 - 16 kg\n|-\n| 25.0 kg/m2 < BMI \u2264 30.0 kg/m\u00b2 - | 7 - 11.5 kg/m2\n|7 - 11.5 kg\n|-\n|BMI \u2265 30.0 kg/m2\n|5 - 9 kg\n|}",
+  "question": {
+    "question": "What is the recommended weight gain during pregnancy for a woman with a pre-pregnancy BMI of 22 kg/m\u00b2?",
+    "option_a": "5 - 9 kg",
+    "option_b": "7 - 11.5 kg",
+    "option_c": "11.5 - 16 kg",
+    "option_d": "12.5 - 18 kg",
+    "correct_option": "C"
+  }
+}

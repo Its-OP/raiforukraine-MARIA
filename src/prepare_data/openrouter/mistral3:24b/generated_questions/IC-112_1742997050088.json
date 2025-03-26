@@ -1,0 +1,12 @@
+{
+  "folder": "IC-112",
+  "content": "{{knowledge objective\n|Identifiant=OIC-112-08-B\n|Item_parent=Bullous dermatosis of the skin and/or external mucous membranes\n|Item_parent_short=Bullous dermatosis affecting the skin and/or external mucous membranes\n|Rank=B\n|Title=Photograph of mucocutaneous lesions of pemphigus vulgaris\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=8}}\n\n[[File:Pemphigus.jpg|vignette|Tender or flaccid bubbles of the back and multiple erosions with jagged edges in a patient with pemphigus ]]",
+  "question": {
+    "question": "Which of the following is a characteristic feature of pemphigus vulgaris?",
+    "option_a": "Presence of tense blisters that do not rupture easily",
+    "option_b": "Blisters that are filled with thick, yellow pus",
+    "option_c": "Tender or flaccid bubbles with jagged edges",
+    "option_d": "Blisters that are localized to the palms and soles",
+    "correct_option": "C"
+  }
+}

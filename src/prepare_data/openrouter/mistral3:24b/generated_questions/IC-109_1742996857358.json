@@ -1,0 +1,12 @@
+{
+  "folder": "IC-109",
+  "content": "{{knowledge objective\n|Identifiant=OIC-109-11-B\n|Item_parent=Gait and balance disorders\n|Item_parent_short=Gait and balance disorders\n|Rank=B\n|Item_parent_short=Gait and balance disorders\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=11}}\nPlease refer to the CEN website: www.cen-neurologie.fr where videos are available.",
+  "question": {
+    "question": "Which of the following is a common cause of gait and balance disorders in older adults?",
+    "option_a": "Loss of vision",
+    "option_b": "Increased muscle strength",
+    "option_c": "Medication side effects",
+    "option_d": "Regular physical exercise",
+    "correct_option": "C"
+  }
+}

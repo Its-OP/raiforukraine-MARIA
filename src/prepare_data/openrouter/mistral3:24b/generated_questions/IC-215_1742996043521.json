@@ -1,0 +1,12 @@
+{
+  "folder": "IC-215",
+  "content": "{{knowledge objective\n|Identifiant=OIC-215-04-A\n|Item_parent=Purpuras in adults and children\n|Item_parent_short=Purpuras in adults and children\n|Rank=A\n|Title=Savoir \u00e9voquer le diagnostic de purpura fulminas\n|Description=None\n|Rubric=Identification of the emergency\n|Contributors=\n|Order=4}}\nPurpura fulminans should be suspected when:\n\n- '''Fever ([[Hyperthermia/fever SD-044|hyperthermia/fever]])'''\n\n- Signs of haemodynamic failure ('''[[Discovery of arterial hypotension SD-043|hypotension]]''', mottling, polypnoea, collapse, oligoanuria, etc.).\n\n- Neurological signs (obnubilation, coma, meningeal syndrome). Note that meningeal syndrome may be absent.\n\n- Necrotic and/or ecchymotic and/or extensive purpura (physical examination to be carried out with the patient in underwear).",
+  "question": {
+    "question": "Purpura fulminans should be suspected when a patient presents with which of the following symptoms?",
+    "option_a": "A persistent cough and wheezing",
+    "option_b": "Fever, hypotension, and extensive purpura",
+    "option_c": "Severe abdominal pain and vomiting",
+    "option_d": "Neurological signs such as seizures and paralysis",
+    "correct_option": "B"
+  }
+}

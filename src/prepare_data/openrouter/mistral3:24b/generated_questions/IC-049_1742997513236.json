@@ -1,0 +1,12 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-22-B\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=B\n|Intitle=Photographs: adrenarche\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=22}}\n",
+  "question": {
+    "question": "What is the primary characteristic of adrenarche?",
+    "option_a": "Increased production of estrogen and progesterone",
+    "option_b": "Increased production of androgens, particularly dehydroepiandrosterone (DHEA)",
+    "option_c": "Rapid growth spurt and closure of growth plates",
+    "option_d": "Development of secondary sexual characteristics such as breast development in females",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-328",
+  "content": "{{knowledge objective\n|Identifiant=OIC-328-07-B\n|Item_parent=Non-drug therapies and medical devices\n|Item_parent_short=Non-drug therapies and medical devices\n|Rank=B\n|Title=Know how to prescribe orthoses\n|Description=General information on prescribing small and large orthoses\n|Rubrique=Prise en charge\n|Contributors=Bisseriex H\u00e9l\u00e8ne,De Boissezon Xavier\n|Order=7}}\n\n- '''cf \"Small and large equipment\"''''",
+  "question": {
+    "question": "When prescribing orthoses, which of the following is a key consideration?",
+    "option_a": "Ensuring the orthosis is made from the most expensive materials available",
+    "option_b": "Focusing solely on the aesthetic appeal of the orthosis",
+    "option_c": "Considering the patient's lifestyle and specific needs",
+    "option_d": "Prescribing the same type of orthosis for all patients regardless of their condition",
+    "correct_option": "C"
+  }
+}

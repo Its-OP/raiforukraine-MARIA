@@ -1,0 +1,12 @@
+{
+  "folder": "IC-347",
+  "content": "{{knowledge objective\n|Identifiant=OIC-347-11-A\n|Item_parent=Acute urine retention\n|Item_parent_short=Acute urine retention\n|Rank=A\n|Title=Knowing the emergency management of acute urinary retention\n|Description=None\n|Rubric=Management\n|Contributors=Jonathan Olivier\n|Order=11}}\n\n<br />\n\n*Therapeutic emergency\n*Emergency bladder drainage by bladder catheter or suprapubic catheter\n*Assess endovesical volume on catheterisation\n*Prevent vacuo haemorrhage (clamping every 500ml)\n*Monitor and treat obstruction lifting syndrome: hourly monitoring of diuresis and intravenous fluid compensation.\n*Outpatient treatment if there are no complications (haematuria, infection, obstruction syndrome, renal failure).\n*In the event of complications, hospitalisation is required.\n\n<br />",
+  "question": {
+    "question": "What is the primary emergency management step for acute urinary retention?",
+    "option_a": "Administering pain medication to relieve discomfort",
+    "option_b": "Emergency bladder drainage by bladder catheter or suprapubic catheter",
+    "option_c": "Immediate surgical intervention to remove the obstruction",
+    "option_d": "Prescribing antibiotics to prevent infection",
+    "correct_option": "B"
+  }
+}

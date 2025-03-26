@@ -1,0 +1,12 @@
+{
+  "folder": "IC-176",
+  "content": "{{knowledge objective\n|Identifiant=OIC-176-01-A\n|Item_parent=Infectious diarrhoea in adults and children\n|Item_parent_short=Infectious diarrhoea in adults and children\n|Rank=A\n|Title=Know the definition of diarrhoea\n|Description=Quantitative definition; definition according to duration\n|Rubric=Definition\n|Contributors=Alexis de Rougemont,Christophe Deschamps\n|Order=1}}\n\n'''In children:''''\n\nDiarrhoea is defined as the frequent and abundant passing of soft or liquid stools. Acute diarrhoea is defined by a duration of less than or equal to 1 week. Chronic diarrhoea occurs after 3 weeks.\n\n'''In adults:'''\n\nThe definition of diarrhoea is quantitative: in adults, it means a frequency of unformed stools > 3 times per 24 hours and/or a quantity of stools > 250g/24 hours.\n\nDiarrhoea is classified as acute if it lasts less than 2 weeks, chronic if it lasts more than 4 weeks and prolonged if it lasts between 2 and 4 weeks.",
+  "question": {
+    "question": "According to the given educational content, how is acute diarrhoea defined in adults?",
+    "option_a": "A frequency of unformed stools greater than 3 times per 24 hours and/or a quantity of stools greater than 250g/24 hours lasting more than 4 weeks",
+    "option_b": "A frequency of unformed stools greater than 3 times per 24 hours and/or a quantity of stools greater than 250g/24 hours lasting less than 2 weeks",
+    "option_c": "A frequency of unformed stools greater than 3 times per 24 hours and/or a quantity of stools greater than 250g/24 hours lasting more than 1 week",
+    "option_d": "A frequency of unformed stools greater than 3 times per 24 hours and/or a quantity of stools greater than 250g/24 hours lasting between 2 and 4 weeks",
+    "correct_option": "B"
+  }
+}

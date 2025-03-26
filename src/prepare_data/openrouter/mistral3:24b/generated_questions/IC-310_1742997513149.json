@@ -1,0 +1,12 @@
+{
+  "folder": "IC-310",
+  "content": "{{knowledge objective\n|Identifiant=OIC-310-03-A\n|Item_parent=Prostate tumours\n|Item_parent_short=Prostate tumours\n|Rank=A\n|Title=Knowing the main risk factors for prostate cancer\n|Description=Know how to name the recognised risk factors (chapter headings), Know that there is no chemoprevention for prostate cancer.\n|Rubric=Etiologies\n|Contributors=Alexandra MASSON-LECOMTE,Laurent BRUREAU\n|Order=3}}\n\n\n\n<br />\n\n==The known risk factors are:==\n\n*Age: the incidence of cancer increases with age (rare before the age of 50).\n*Genetic factors: a hereditary form is suspected when there are cases in 1st or 2nd degree relatives (2 cases diagnosed before the age of 55 or 3 cases whatever the age). The inheritance may also be monogenic (approximately 5% of cases). A history of breast or ovarian cancer should also be sought to justify a possible oncogenetic consultation (BRCA mutation).\n*Ethnic origin, particularly African ancestry, increases the risk of prostate cancer. Conversely, prostate cancer is less common in the Asian population.\n*Environmental factors, such as pesticides and endocrine disruptors (e.g. chlordecone pollution in the West Indies is recognised as a possible risk factor for prostate cancer; occupational exposure to chlordecone was recognised as an occupational disease in 2021).\n*Metabolic syndrome is associated with an increased risk of prostate cancer (AFU 2022-2024 Cancer Committee recommendations).\n\n<There is no chemoprevention method for prostate cancer.",
+  "question": {
+    "question": "Which of the following is NOT a recognized risk factor for prostate cancer?",
+    "option_a": "Age, with increased incidence after 50",
+    "option_b": "Genetic factors, including a family history of breast or ovarian cancer",
+    "option_c": "Exposure to certain pesticides and endocrine disruptors",
+    "option_d": "Regular consumption of dairy products",
+    "correct_option": "D"
+  }
+}

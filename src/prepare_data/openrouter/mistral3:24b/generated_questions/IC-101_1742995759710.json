@@ -1,0 +1,12 @@
+{
+  "folder": "IC-101",
+  "content": "{{knowledge objective\n|Identifiant=OIC-101-03-A\n|Item_parent=Facial paralysis\n|Item_parent_short=Facial paralysis\n|Rank=A\n|Title=Photography/video of peripheral facial paralysis (PFP)\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=3}}\nPlease refer to the CEN website: www.cen-neurologie.fr where videos are available.",
+  "question": {
+    "question": "Which of the following is the most appropriate use of photography or video in the assessment of peripheral facial paralysis (PFP)?",
+    "option_a": "To capture the patient's facial expressions during a conversation to observe symmetry",
+    "option_b": "To document the patient's facial movements while they are at rest to compare with active movements",
+    "option_c": "To record the patient's facial reactions to different tastes to assess taste function",
+    "option_d": "To film the patient's eye movements to check for nystagmus",
+    "correct_option": "B"
+  }
+}

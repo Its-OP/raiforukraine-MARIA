@@ -1,0 +1,12 @@
+{
+  "folder": "IC-288",
+  "content": "{{knowledge objective\n|Identifiant=OIC-288-16-B\n|Item_parent=Hemorrhoidal pathology\n|Item_parent_short=Hemorrhoidal pathology\n|Rank=B\n|Title=Indicating surgical treatment\n|Description=\n|Rubric=Management\n|Contributors=\n|Order=16}}\n\n\n\n\n\ncf : ''[[Know the 4 therapeutic preamble rules 2C-288-PC-A02|2C-288-PC-A02]]''''",
+  "question": {
+    "question": "Which of the following is a key principle in the 4 therapeutic preamble rules (2C-288-PC-A02) that are crucial for managing hemorrhoidal pathology?",
+    "option_a": "Always prescribe antibiotics for all hemorrhoidal cases.",
+    "option_b": "Prioritize non-surgical treatments before considering surgery.",
+    "option_c": "Immediately perform surgery on all patients with hemorrhoids.",
+    "option_d": "Focus solely on pain management without addressing the underlying cause.",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-022",
+  "content": "{{knowledge objective\n|Identifiant=OIC-022-05-A\n|Item_parent=Rare diseases\n|Item_parent_short=Rare diseases\n|Rank=A\n|Title=Knowing the definition of diagnostic errancy and diagnostic impasse\n|Description=To understand the concept of diagnostic wandering, to know how to reduce it, to distinguish it from the concept of diagnostic impasse (in accordance with the instructions of the PNMR3).\n|Topic=Positive diagnosis\n|Contributors=Sylvie Odent\n|Order=5}}\nDiagnostic wandering: diagnostic wandering is the period between the appearance of the first symptoms and the date on which a precise diagnosis is made ('''[[Rational request/prescription and choice of a diagnostic examination SD-178|rational request/prescription and choice of a diagnostic examination]]''').\n\nDiagnostic impasse: diagnostic impasse results from the failure to define the precise cause of the disease after having implemented all the investigations available in the state of the art. It concerns patients with an atypical form of a known disease, or a disease whose genetic or other cause has not yet been recognised.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the difference between diagnostic wandering and diagnostic impasse?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Diagnostic wandering is a period of time between the appearance of the first symptoms and the date on which a precise diagnosis is made.",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Diagnostic impasse is the failure to define the precise cause of the disease after having implemented all the investigations available in the state of the art.",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Diagnostic wandering is a common phenomenon in many diseases.",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Diagnostic impasse is a more severe condition that requires immediate medical attention.",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Diagnostic impasse",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

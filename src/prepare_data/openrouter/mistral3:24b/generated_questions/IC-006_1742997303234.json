@@ -1,0 +1,12 @@
+{
+  "folder": "IC-006",
+  "content": "{{knowledge objective\n|Identifiant=OIC-006-07-A\n|Item_parent=The organisation of clinical practice and the methods used to secure the patient's care pathway\n|Item_parent_short=The organisation of clinical practice and the methods used to ensure a safe patient pathway\n|Rank=A\n|Title=Morbidity and mortality meetings (RMM): understanding the principles and objectives of a RMM\n|Description=None\n|Rubric=Definition\n|Contributors=Virginie Migeot\n|Order=7}}\n\nThe morbidity-mortality meeting (MMM) is a ''collective, retrospective and systemic analysis meeting'' (i.e. taking into account the organisational, technical and human components) of clinical situations marked by the occurrence of an undesirable event associated with care (death, complication, etc.), in order to implement ''prevention, recovery or mitigation actions''. RMMs are part of the ''feedback culture'' or how to learn collectively from mistakes. RMMs can be used to validate the continuing professional development (CPD) obligation.\n\n'''Link to item 4''' Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices",
+  "question": {
+    "question": "What is the primary purpose of morbidity-mortality meetings (MMM) in a clinical setting?",
+    "option_a": "To assign blame for medical errors and discipline the responsible healthcare providers",
+    "option_b": "To conduct prospective analysis of future clinical scenarios to prevent errors",
+    "option_c": "To collectively analyze and learn from undesirable events associated with care, implementing prevention or mitigation actions",
+    "option_d": "To evaluate the financial impact of medical errors on the healthcare institution",
+    "correct_option": "C"
+  }
+}

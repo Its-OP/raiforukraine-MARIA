@@ -1,0 +1,12 @@
+{
+  "folder": "IC-188",
+  "content": "{{knowledge objective\n|Identifiant=OIC-188-01-A\n|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Rank=A\n|Intitle=Know the definition of asthma and allergic rhinitis (in adults and children, according to age in children)\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=1}}\n'''Asthma'''\n\n*Chronic inflammatory disease leading to changes in the structure of the lower airways associating :\n**respiratory symptoms varying in time and intensity ([[Dyspnoea SD-162|dyspnoea]], [[Chest auscultation abnormalities SD-020|whistling]], chest tightness and/or [[Cough SD-167|cough]])\n**AND lower airway obstruction that varies over time and/or is totally or partially reversible with rapid-acting bronchodilators.\n\n'''Allergic rhinitis:''''\n\nChronic inflammatory disease of the upper airways defined by the presence of \"PAREO\" symptoms (Pruritus, Anosmia, Rhinorrhoea, Sneezing, Nasal obstruction). Allergic rhinitis (AR) is the clinical expression of rhinitis and an immuno-allergic finding (IgE-dependent inflammation that can be linked to allergen exposure).",
+  "question": {
+    "question": "Which of the following best defines asthma?",
+    "option_a": "A chronic inflammatory disease of the upper airways characterized by symptoms such as pruritus, anosmia, rhinorrhea, sneezing, and nasal obstruction.",
+    "option_b": "A condition that leads to changes in the structure of the lower airways, causing respiratory symptoms that vary in time and intensity, and lower airway obstruction that can be partially or totally reversible with rapid-acting bronchodilators.",
+    "option_c": "A disease that primarily affects the lungs and causes shortness of breath, chest pain, and wheezing, but does not involve inflammation.",
+    "option_d": "A condition that is solely caused by physical exertion and results in temporary breathing difficulties that do not require medical intervention.",
+    "correct_option": "B"
+  }
+}

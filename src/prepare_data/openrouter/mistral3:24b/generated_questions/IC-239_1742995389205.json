@@ -1,0 +1,12 @@
+{
+  "folder": "IC-239",
+  "content": "{{knowledge objective\n|Identifiant=OIC-239-06-A\n|Item_parent=Acrosyndromes (Raynaud's phenomenon, erythermalgia, acrocyanosis, frostbite, digital ischaemia)\n|Item_parent_short=Acrosyndromes (Raynaud's phenomenon, erythermalgia, acrocyanosis, frostbite, digital ischaemia)\n|Rank=A\n|Title=Photographs of Raynaud's phenomenon (syncopal phase)\n|Description=None\n|Rubric=Multimedia content\n|Contributors= Sophie Blaise, Luc Bressollette, Claire Le Hello\n|Order=6}}\n\n[[File:Raynaud.jpg|vignette|Raynaud's phenomenon (syncopal phase)]]",
+  "question": {
+    "question": "Which of the following is a characteristic feature of the syncopal phase of Raynaud's phenomenon?",
+    "option_a": "Warmth and redness in the affected extremities",
+    "option_b": "Persistent numbness and tingling",
+    "option_c": "Pallor and cyanosis in the affected extremities",
+    "option_d": "Increased blood flow to the fingers and toes",
+    "correct_option": "C"
+  }
+}

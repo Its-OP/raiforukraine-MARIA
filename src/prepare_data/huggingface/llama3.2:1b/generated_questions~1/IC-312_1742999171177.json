@@ -1,0 +1,27 @@
+{
+  "folder": "IC-312",
+  "content": "{{knowledge objective\n|Identifiant=OIC-312-06-A\n|Item_parent=Breast tumours\n|Item_parent_short=Breast tumours\n|Rank=A\n|Title=Knowing the clinical presentations of breast tumours\n|Description=Clinical breast signs: nodule, discharge, inflammation, skin lesions\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=6}}\nThe clinical examination includes :\n\n* An interview to look for breast pain, self-exploration of nodules, changes in general condition (''asthenia'', ''weight loss'').\n\n* An inspection to look for changes in the skin of the breast or nipple: retraction, dimpling or flattening, deviation or invagination of the nipple, \"nipple discharge\" or eczematous appearance of the nipple, orange peel skin, skin oedema, \"skin ulcer\", inflammation with breast enlargement, localised or diffuse \"erythema\" and local heat (suggestive of inflammatory breast cancer).\n* Bilateral palpation of the breasts and the axillary, supra- and sub-clavicular lymph nodes to look for a nodule in the breast, or single or multiple adenopathies (axillary or supra- or sub-clavicular lymph nodes).",
+  "question": {
+    "properties": {
+      "examination_steps": {
+        "title": "Examination Steps",
+        "description": "The steps taken during the clinical examination",
+        "type": "string"
+      },
+      "correct_answer": {
+        "title": "Correct Answer",
+        "description": "The correct answer to the clinical examination",
+        "type": "string"
+      },
+      "incorrect_answers": {
+        "title": "Incorrect Answers",
+        "description": "The incorrect answers to the clinical examination",
+        "type": "string"
+      }
+    },
+    "required": [
+      "examination_steps",
+      "correct_answer"
+    ]
+  }
+}

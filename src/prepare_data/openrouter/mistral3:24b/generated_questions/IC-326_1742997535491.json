@@ -1,0 +1,12 @@
+{
+  "folder": "IC-326",
+  "content": "{{knowledge objective\n|Identifiant=OIC-326-06-B\n|Item_parent=Regulatory framework for therapeutic prescribing and recommendations for correct use\n|Item_parent_short=Regulatory framework for therapeutic prescribing and recommendations for correct use\n|Rank=B\n|Title=Knowing the definition of continuing professional development on medicines: assessing the source and reliability of information\n|Description=Recall the principles of the DCP and its procedures concerning medicines.\n|Rubric=Definition\n|Contributors=\n|Order=6}}\nAccording to the Code of Medical Deontology - '''article R4127-11 du CSP''' - : ''every doctor maintains and perfects his knowledge in compliance with his obligation of continuous professional development''. <ref>https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025843562</ref> This '''<u>obligation</u>''' of continuing professional development [DPC] concerns '''all doctors registered''' with the Ordre des m\u00e9decins.\n\nThe objectives of this CPD are set out in Article L4021-1 of the CSP: \"Continuing professional development aims to maintain and update knowledge and skills and to improve practices. It constitutes an obligation for healthcare professionals'''. <ref>https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000020888297/#LEGISCTA000020897548</ref>\n\n===Methods of CPD===\nThe individual CPD obligation for doctors is changing regularly. At present - and for the period 2020 to 2022 - CPD can be validated following :\n\n* Completion of a \"free\" course,\n* completion of a course recommended by the national professional councils,\n* a commitment to an accreditation process. <br />\n<references />",
+  "question": {
+    "question": "According to the Code of Medical Deontology, which of the following best describes the obligation of continuing professional development (DPC) for doctors?",
+    "option_a": "It is optional and only recommended for doctors who wish to specialize.",
+    "option_b": "It is mandatory for all doctors registered with the Ordre des m\u00e9decins and aims to maintain and update knowledge and skills.",
+    "option_c": "It is a voluntary program that doctors can choose to participate in if they have the time.",
+    "option_d": "It is required only for doctors who have been practicing for more than 10 years.",
+    "correct_option": "B"
+  }
+}

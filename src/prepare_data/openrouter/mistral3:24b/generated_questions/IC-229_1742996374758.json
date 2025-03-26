@@ -1,0 +1,12 @@
+{
+  "folder": "IC-229",
+  "content": "{{knowledge objective\n|Identifiant=OIC-229-06-B\n|Item_parent=Venous access monitoring and complications\n|Item_parent_short=Venous access monitoring and complications\n|Rank=B\n|Title=Knowing the conditions for inserting a central venous line\n|Description=Link to a video filming and explaining the insertion of a CVV\n|Section=Management\n|Contributors= Philippe Lacroix, Simon Rickenbach\n|Order=6}}\n[https://videotheque.uness.fr/w/2byuuZFUNHTbN2VR81yvZa Know the conditions for inserting a central venous line]",
+  "question": {
+    "question": "Which of the following is a critical condition for inserting a central venous line?",
+    "option_a": "The patient must be lying down to ensure proper insertion.",
+    "option_b": "The insertion site must be free of infection and properly disinfected.",
+    "option_c": "The patient must be under general anesthesia to prevent movement.",
+    "option_d": "The insertion should be done in a sterile environment with proper monitoring equipment.",
+    "correct_option": "b"
+  }
+}

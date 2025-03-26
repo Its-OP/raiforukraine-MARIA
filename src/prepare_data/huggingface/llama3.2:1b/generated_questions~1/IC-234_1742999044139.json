@@ -1,0 +1,46 @@
+{
+  "folder": "IC-234",
+  "content": "{{knowledge objective\n|Identifiant=OIC-234-01-B\n|Item_parent=Adult heart failure\n|Item_parent_short=Adult heart failure\n|Rank=B\n|Title=Knowing the epidemiology of heart failure\n|Description=To understand the epidemiology of heart failure in the context of an ageing population and improved treatment of cardiovascular pathologies,\n|Rubric=Epidemiology\n|Contributors=Olivier Huttin\n|Order=1}}\n\n* Prevalence of 1 and 2%.\n* Average age: 70-80\n* Predominantly male\n* High mortality (10% at one year)\n* 50% of IC patients have preserved EF and have co-morbidities associated with cardiovascular ageing:\n** Renal failure\n** Metabolic syndrome - Type 2 diabetes - Obesity\n** Pulmonary pathology - Sleep apnoea syndrome\n** Anemia\n* The ageing of the population and better management of cardiovascular risk factors and coronary events are leading to a growing increase in the prevalence of cardiovascular disease.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the estimated prevalence of heart failure in the elderly population?",
+        "description": "To understand the epidemiology of heart failure in the context of an ageing population and improved treatment of cardiovascular pathologies",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "1%",
+        "description": "The estimated prevalence of heart failure in the elderly population is 1%.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "2%",
+        "description": "The estimated prevalence of heart failure in the elderly population is 2%.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "10%",
+        "description": "The estimated prevalence of heart failure in the elderly population is 10%.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "50%",
+        "description": "The estimated prevalence of heart failure in the elderly population is 50%.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "1%",
+        "description": "The estimated prevalence of heart failure in the elderly population is 1%.",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

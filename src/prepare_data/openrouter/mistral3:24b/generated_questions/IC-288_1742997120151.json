@@ -1,0 +1,12 @@
+{
+  "folder": "IC-288",
+  "content": "{{knowledge objective\n|Identifiant=OIC-288-15-A\n|Item_parent=Hemorrhoidal pathology\n|Item_parent_short=Hemorrhoidal pathology\n|Rank=A\n|Title=Knowing the treatment of external haemorrhoidal thrombosis\n|Description=\n|Rubric=Management\n|Contributors=\n|Order=15}}\n\ncf : ''[[Knowing the main principles of medicinal and non-medicinal management 2C-288-PC-A01|2C-288-PC-A01]]''''",
+  "question": {
+    "question": "What is the primary treatment for external hemorrhoidal thrombosis?",
+    "option_a": "Immediate surgical excision",
+    "option_b": "Application of warm compresses and stool softeners",
+    "option_c": "Antibiotic therapy to reduce inflammation",
+    "option_d": "Use of topical corticosteroids to relieve pain",
+    "correct_option": "B"
+  }
+}

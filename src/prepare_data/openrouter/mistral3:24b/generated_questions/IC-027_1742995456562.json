@@ -1,0 +1,12 @@
+{
+  "folder": "IC-027",
+  "content": "{{knowledge objective\n|Identifiant=OIC-027-01-A\n|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Rank=A\n|Title=Knowing the definition of maternal-fetal infection (MFI)\n|Description=None\n|Rubric=Definition\n|Contributors=Alexandre Vivanti, Philippe Deruelle\n|Order=1}}\nMaternal-foetal infection is the result of contamination of the foetus during pregnancy or delivery by germs of maternal origin. It is also called early bacterial neonatal infection if bacterial.\n\nDepending on the agent responsible and the stage of the pregnancy, MFIs can lead to :\n\n- Miscarriages\n\n- Embryopathies\n\n- Foetal infections = foetopathies\n\n- In utero or neonatal death\n\n- Post-natal infections which may be symptomatic from the 1st day, or at a later date",
+  "question": {
+    "question": "What is the primary cause of maternal-fetal infections (MFIs) during pregnancy or delivery?",
+    "option_a": "Contamination by germs from the environment",
+    "option_b": "Transmission of maternal antibodies to the foetus",
+    "option_c": "Contamination of the foetus by germs of maternal origin",
+    "option_d": "Inherited genetic mutations from the mother",
+    "correct_option": "C"
+  }
+}

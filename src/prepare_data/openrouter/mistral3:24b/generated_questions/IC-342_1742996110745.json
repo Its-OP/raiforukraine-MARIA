@@ -1,0 +1,12 @@
+{
+  "folder": "IC-342",
+  "content": "{{knowledge objective\n|Identifiant=OIC-342-21-A\n|Item_parent=Sickness, loss of consciousness, coma in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=A\n|Title=Know the principles of management of a comital seizure\n|Description=Know the principles of long-acting treatments to be combined with short-acting treatments.\n|Rubric=Management\n|Contributors=\n|Order=21}}\n\n{| class=\"wikitable\"\n|cf item 105\n|}",
+  "question": {
+    "question": "When managing a comital seizure, which of the following principles is most important regarding the combination of treatments?",
+    "option_a": "Administer short-acting treatments only and avoid long-acting treatments to prevent dependency.",
+    "option_b": "Use long-acting treatments exclusively to ensure continuous control of seizures.",
+    "option_c": "Combine long-acting treatments with short-acting treatments to manage both immediate and long-term seizure control.",
+    "option_d": "Focus on short-acting treatments for immediate relief and avoid long-acting treatments to minimize side effects.",
+    "correct_option": "C"
+  }
+}

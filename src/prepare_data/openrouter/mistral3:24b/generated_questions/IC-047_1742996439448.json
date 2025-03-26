@@ -1,0 +1,12 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-30-B\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=B\n|Title=Radiography of the lumbar spine for malformative scoliosis\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=30}}\n\n[[File:Scoliosis.jpg|vignette|Scoliosis malformation]]",
+  "question": {
+    "question": "Which of the following is the primary imaging technique used to diagnose malformative scoliosis in the lumbar spine?",
+    "option_a": "Ultrasound",
+    "option_b": "Magnetic Resonance Imaging (MRI)",
+    "option_c": "Computed Tomography (CT) Scan",
+    "option_d": "Radiography",
+    "correct_option": "D"
+  }
+}

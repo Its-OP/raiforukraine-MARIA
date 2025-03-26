@@ -1,0 +1,12 @@
+{
+  "folder": "IC-364",
+  "content": "{{knowledge objective\n|Identifiant=OIC-364-11-A\n|Item_parent=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Item_parent_short=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Rank=A\n|Title=Knowing how to diagnose an ankle fracture\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=11}}\n\n<There are 2 main types of ankle fracture in children: type I or II epiphyseal dislocations, which tend to occur in young children and are usually treated orthopaedically; and type III or IV epiphyseal dislocations, which tend to occur in adolescents and are usually treated surgically.",
+  "question": {
+    "question": "Which type of ankle fracture in children typically requires surgical treatment?",
+    "option_a": "Type I epiphyseal dislocations",
+    "option_b": "Type II epiphyseal dislocations",
+    "option_c": "Type III epiphyseal dislocations",
+    "option_d": "Type IV epiphyseal dislocations",
+    "correct_option": "C"
+  }
+}

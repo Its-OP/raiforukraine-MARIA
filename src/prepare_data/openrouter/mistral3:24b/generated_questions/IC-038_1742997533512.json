@@ -1,0 +1,12 @@
+{
+  "folder": "IC-038",
+  "content": "{{knowledge objective\n|Identifiant=OIC-038-09-B\n|Item_parent=Infertility of the couple: conduct of the first consultation\n|Item_parent_short=Infertility of the couple: conduct of the first consultation\n|Rank=B\n|Title=Knowing the main causes of infertility in women\n|Description=None\n|Rubric=Etiologies\n|Contributors=Charlotte Sonigo,Geoffroy Robin,Patrica Fauque,Fabrice Guerif,Pierre Emmanuel Bouet\n|Order=9}}\n'''Broadly speaking, around 30% of infertility cases are of female origin and 30% are of male origin. In 30% of cases, both members of the couple are responsible for the infertility and in 10% of cases there is no identified cause (this is known as unexplained or idiopathic infertility)'''\n{| class=\"wikitable\"\n| colspan=\"2\" |'''Causes of female infertility (30%)'''\n|-\n|[[Menstrual Cycle Disorders SD-094|Ovulatory Causes]] (40%)\n|<nowiki>- Polycystic ovary syndrome</nowiki>\n\n- Hyperprolactinemia\n\n- Premature ovarian failure\n\n- Functional hypopthalamic amenorrhoea\n\n- Other causes of ovulation disorders (congenital or acquired hypogonadotropic hypogonadism, idiopathic eugonadotropic dysovulation/anvulation...)\n|-\n|Tubo-peritoneal etiology (30%)\n|<Distal or proximal tubal obstruction</nowiki>.\n|-\n|Endometriosis (15%)\n|\n|-\n|Uterine or cervical pathology (8%)\n|<Congenital pathologies (uterine malformations, etc.)</nowiki>.\n\n- Acquired pathologies (synechiae, fibroids, conization, cervicitis, etc.)\n|-\n| Other (7%)\n|<Sexological disorders</nowiki>.\n|}",
+  "question": {
+    "question": "What is the most common cause of female infertility?",
+    "option_a": "Tubo-peritoneal etiology",
+    "option_b": "Endometriosis",
+    "option_c": "Uterine or cervical pathology",
+    "option_d": "Ovulatory Causes",
+    "correct_option": "D"
+  }
+}

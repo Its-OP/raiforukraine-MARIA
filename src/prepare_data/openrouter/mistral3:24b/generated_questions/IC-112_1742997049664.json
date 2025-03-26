@@ -1,0 +1,12 @@
+{
+  "folder": "IC-112",
+  "content": "{{knowledge objective\n|Identifiant=OIC-112-07-B\n|Item_parent=Bullous dermatosis of the skin and/or external mucous membranes\n|Item_parent_short=Bullous dermatosis affecting the skin and/or external mucous membranes\n|Rank=B\n|Title=Photograph of bullous pemphigoid\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=7}}\n\n[[File:PB.jpg|vignette|Tensive bubbles with clear or haemorrhagic content, and round crusts on urticarial skin, located on the arm, in a man with bullous pemphigoid]]",
+  "question": {
+    "question": "Which of the following is a characteristic feature of bullous pemphigoid?",
+    "option_a": "Blisters that are flaccid and easily ruptured",
+    "option_b": "Blisters that are tense and filled with clear or hemorrhagic fluid",
+    "option_c": "Blisters that primarily affect the mucous membranes",
+    "option_d": "Blisters that are accompanied by severe itching and crusting",
+    "correct_option": "B"
+  }
+}

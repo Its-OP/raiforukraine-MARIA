@@ -1,0 +1,12 @@
+{
+  "folder": "IC-261",
+  "content": "{{knowledge objective\n|Identifiant=OIC-261-09-B\n|Item_parent=Glomerular nephropathy\n|Item_parent_short=Glomerular nephropathy\n|Rank=B\n|Title=Knowing the principles of SNLGM\n|Description=To know the elements of the treatment of a SNLGM (to know the principles of corticotherapy and its follow-up).\n|Rubric=Management\n|Contributors=Eric Daugas,Bruno Moulin\n|Order=9}}\n\nTreatment of idiopathic SNLGM\n\n* Symptomatic treatment of nephrotic syndrome.\n* Prolonged high-dose oral corticosteroid therapy, with adjuvant treatments (diet, calcium, vitamin D, etc.).",
+  "question": {
+    "question": "Which of the following is a key principle in the treatment of idiopathic SNLGM (Steroid-Naive Lupus Glomerulonephritis)?",
+    "option_a": "Immediate high-dose intravenous corticosteroid therapy without adjuvant treatments",
+    "option_b": "Short-term low-dose oral corticosteroid therapy",
+    "option_c": "Prolonged high-dose oral corticosteroid therapy, with adjuvant treatments (diet, calcium, vitamin D, etc.)",
+    "option_d": "Symptomatic treatment of nephrotic syndrome only, without corticosteroid therapy",
+    "correct_option": "C"
+  }
+}

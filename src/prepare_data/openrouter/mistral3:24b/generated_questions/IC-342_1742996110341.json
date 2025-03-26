@@ -1,0 +1,12 @@
+{
+  "folder": "IC-342",
+  "content": "{{knowledge objective\n|Identifiant=OIC-342-06-A\n|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=A\n|Title=Know the characteristics of an epileptic and non-epileptic event (pseudo-seizure).\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=6}}\ncf item 105",
+  "question": {
+    "question": "Which of the following is a characteristic that distinguishes an epileptic seizure from a non-epileptic (pseudo-seizure) event?",
+    "option_a": "Presence of abnormal brain waves on an EEG during the event",
+    "option_b": "Sudden onset and loss of consciousness",
+    "option_c": "Involuntary muscle movements and convulsions",
+    "option_d": "Consistent response to anti-epileptic medications",
+    "correct_option": "A"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-132",
+  "content": "{{knowledge objective\n|Identifiant=OIC-132-09-A\n|Item_parent=Cognitive disorders in the elderly. (see item 108)\n|Item_parent_short=Cognitive disorders in the elderly. (see item 108)\n|Rank=A\n|Title=Knowing the medical management of a patient with a neuro-cognitive disorder.\n|Description=Know the broad outlines of medical management.\n|Rubric=Management\n|Contributors=\n|Order=9}}\n- '''Initial management, aetiological investigation'' (interview, clinical examination, neuropsychological assessment, biological and imaging tests)\n\n- Announcement of the diagnosis by the specialist to the patient and, with the patient's authorisation, to the patient's family, with an explanation of the treatment (care and support plan). The general practitioner is involved in a continuous announcement process (proper understanding of the diagnosis, care plan, etc.).\n\n'''Care plan''' :\n\nA. introduction of the \"ALD 15\" ;\n\nB. \"Non-drug\" interventions;\n\nC.     Cognitive remediation by a speech therapist, or in a day centre or day hospital, Alzheimer's care team (ESA)\n\nD. any ''drug treatments'' in accordance with the MA ;\n\nE. management of ''other comorbidities'' (e.g. anxiety-depression syndrome) and cardiovascular risk factors;\n\n'''F.     AVOID IATROGENY'''\n\nG. nutritional monitoring (weight +++);\n\nH. assessment and prevention of the risk of falls ;\n\nI. provision of ''aids after regular assessment of the impact of cognitive impairment on functional independence'' :\n\no referral to social services (Allocation Personnalis\u00e9e d'Autonomie - funding) ;\n\no home help if necessary (home care assistants, nurses)\n\no information on patient and family associations and respite care structures.\n\nJ. medical monitoring of the patient or elderly carer",
+  "question": {
+    "question": "Which of the following is a key component of the initial management of a patient with a neuro-cognitive disorder?",
+    "option_a": "Immediate prescription of multiple medications to manage symptoms",
+    "option_b": "Avoiding any form of cognitive remediation to prevent confusion",
+    "option_c": "Announcement of the diagnosis by the specialist to the patient and, with the patient's authorization, to the patient's family, with an explanation of the treatment (care and support plan)",
+    "option_d": "Focusing solely on nutritional monitoring without considering other aspects of care",
+    "correct_option": "C"
+  }
+}

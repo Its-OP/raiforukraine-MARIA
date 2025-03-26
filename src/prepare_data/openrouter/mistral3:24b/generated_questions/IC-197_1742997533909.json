@@ -1,0 +1,12 @@
+{
+  "folder": "IC-197",
+  "content": "{{knowledge objective\n|Identifiant=OIC-197-11-B\n|Item_parent=Spondyloarthritis\n|Item_parent_short=Spondyloarthritis\n|Rank=B\n|Title=Radiography of the pelvis\n|Description=How to recognise coxitis (De Seze clich\u00e9)\n|Rubric=Multimedia content\n|Contributors=\n|Order=11}}Coxitis corresponds to inflammatory damage to the coxofemoral joint with overall narrowing of the joint space and without osteophytosis. On the pelvic X-ray, sacroiliitis must be sought: pinching of the foot of a sacroiliac joint, irregular appearance of the margins. [[File:Radiographie du bassin de face.jpg|vignette|'''Radiographie de bassin de face, condensation et irr\u00e9gularit\u00e9s des berges sacro-iliaques, signant une sacro-iliite radiographique'']]",
+  "question": {
+    "question": "Which of the following is a characteristic feature of coxitis on a pelvic X-ray?",
+    "option_a": "Presence of osteophytosis and joint space widening",
+    "option_b": "Overall narrowing of the joint space without osteophytosis",
+    "option_c": "Regular appearance of the sacroiliac joint margins",
+    "option_d": "Increased bone density in the coxofemoral joint",
+    "correct_option": "B"
+  }
+}

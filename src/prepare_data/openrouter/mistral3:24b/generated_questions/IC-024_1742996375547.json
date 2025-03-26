@@ -1,0 +1,12 @@
+{
+  "folder": "IC-024",
+  "content": "{{knowledge objective\n|Identifiant=OIC-024-16-A\n|Item_parent=Main complications of pregnancy.\n|Item_parent_short=Main complications of pregnancy.\n|Rank=A\n|Title=Knowing prevention in subsequent pregnancies\n|Description=None\n|Rubric=Management\n|Contributors=Paul Berveiller,Philippe Deruelle\n|Order=16}}\n\nThere is a risk of recurrence if the patient has a history of pregnancy-induced hypertension in a similar or different way (vascular-placental pathologies = pre-eclampsia, IUGR, HRP, MFIU) in around 1 in 5 patients.\n\nYou will need :\n\n- any \"preconception consultation\" (to adapt antihypertensive treatment, check that there are no contraindications and organise coordinated follow-up) +/- direct follow-up in a suitable maternity unit\n\n- stop smoking'' etc... [[Prevention of tobacco-related risks SD-314]]\n\n- preventive treatment with low-dose aspirin: 75 to 160 mg/d in the evening before 16 and up to 35 weeks' gestation (only in cases of a history of severe IUGR or early and/or severe pre-eclampsia with induced preterm birth).\n\n[Prevention of foetal risks SD-312\n\n<br />",
+  "question": {
+    "question": "What is the recommended preventive treatment for patients with a history of severe IUGR or early and/or severe pre-eclampsia with induced preterm birth?",
+    "option_a": "High-dose aspirin starting from 16 weeks' gestation",
+    "option_b": "Low-dose aspirin starting from 16 weeks' gestation",
+    "option_c": "High-dose aspirin starting before 16 weeks' gestation",
+    "option_d": "Low-dose aspirin starting before 16 weeks' gestation",
+    "correct_option": "D"
+  }
+}

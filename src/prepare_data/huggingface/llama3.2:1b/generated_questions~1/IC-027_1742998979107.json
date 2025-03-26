@@ -1,0 +1,22 @@
+{
+  "folder": "IC-027",
+  "content": "{{knowledge objective\n|Identifiant=OIC-027-11-A\n|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Rank=A\n|Intitul\u00e9=Measles : Knowing the elements of foetal prevention\n|Description=Knowing vaccination / passive prevention\n|Rubric=Management\n|Contributors=Alexandre Vivanti, Philippe Deruelle\n|Order=11}}\nUnvaccinated pregnant women who have never contracted measles are among those at risk of complications. It is essential to prevent and monitor the occurrence of infection in pregnant women.\n\n'''In the event of proven contagion''', it is advisable to :\n\n- Check the patient's vaccination status (health record)\n\n- Perform an emergency [[Interpretation of a SD-236 serology result|serology]] (check for the presence of IgG)\n\n- In HIV-negative pregnant women, IV immunoglobulins can be administered within 6 days of infection (protection for one month).\n\n- Following childbirth, vaccination with a trivalent vaccine (MMR) is indicated.\n\nIn the event of a rash compatible with measles, it is advisable to :\n\n- Implement measures to prevent transmission: social distancing, wearing a mask, etc.\n\n- Search for a contact\n\n- Biological confirmation of the diagnosis: salivary RT-PCR and/or search for specific IgM in saliva/serum\n\n- If severe signs are present: hospitalisation (avoid maternity hospital)\n\n- Initiation of symptomatic treatment: antipyretics\n\nThere is no reason to try to stop a patient going into labour.\n\nThere is no reason to prescribe antibiotics routinely.",
+  "question": {
+    "properties": {
+      "question": "What is the recommended course of action for an unvaccinated pregnant woman who has been exposed to measles?",
+      "option_a": "Check the patient's vaccination status (health record) and administer IV immunoglobulins within 6 days of infection.",
+      "option_b": "Perform an emergency serology test to check for the presence of IgG.",
+      "option_c": "In HIV-negative pregnant women, administer IV immunoglobulins within 6 days of infection and follow up with a trivalent vaccine (MMR) within 6 weeks.",
+      "option_d": "Following childbirth, administer a trivalent vaccine (MMR) and initiate symptomatic treatment with antipyretics.",
+      "correct_option": "option_a"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

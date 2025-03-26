@@ -1,0 +1,22 @@
+{
+  "folder": "IC-267",
+  "content": "{{knowledge objective\n|Identifiant=OIC-267-04-A\n|Item_parent=Disorders of acid-base balance and fluid-electrolyte disorders\n|Item_parent_short=Disorders of acid-base balance and fluid and electrolyte disorders\n|Rank=A\n|Title=Knowing the serious clinical abnormalities to look for\n|Description=None\n|Rubric=Identification of the emergency\n|Contributors=P Rieu; B Moulin; M Flamant\n|Order=4}}\n\nLife-threatening if pH < 7.10 or bicarbonaemia < 8 mmol/L: reduced cardiac and tissue output, dyspnoea, catecholamine resistance, ventricular arrhythmias, inhibition of cellular metabolism and coma.",
+  "question": {
+    "properties": {
+      "question": "What is the primary indicator of severe acid-base imbalance?",
+      "option_a": "A decrease in bicarbonate levels",
+      "option_b": "A decrease in blood pH",
+      "option_c": "A decrease in serum calcium levels",
+      "option_d": "A decrease in serum potassium levels",
+      "correct_option": "A decrease in blood pH"
+    },
+    "required": [
+      "question",
+      "correct_option"
+    ],
+    "required_items": [
+      "question",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-299",
+  "content": "{{knowledge objective\n|Identifiant=OIC-299-08-A\n|Item_parent=Intracranial tumours\n|Item_parent_short=Intra-cranial tumours\n|Rank=A\n|Title=Knowing how to evoke intracranial hypertension (ICHT) and epilepsy in a patient with an intracerebral tumour.\n|Description=Know the two main emergencies (ICHT, epilepsy) revealing or complicating the evolution of a brain tumour.\n|Rubric=Identification of the emergency\n|Contributors=Dr Thi\u00e9baud PICART (Hospices Civils de Lyon),Dr Pierre ANTH\u00c9RIEU (Toulouse University Hospital),Pr Fran\u00e7ois VASSAL (Saint-Etienne University Hospital)\n|Order=8}}\n\n'''HTIC:'''\n\n- In cases of large tumours, major oedema, obstructive hydrocephalus and/or intra-tumour bleeding\n\n- Screen for possible ophthalmological complications of HTIC (damage to the II, VI)\n\n- Monitor for the onset of drowsiness, loss of alertness (Glasgow score +++), which may lead to non-traumatic coma in adults and children and death due to cerebral involvement.\n\n'''[[Childhood and adult epilepsy|Epilepsy]] with''' '''\u00e9tat de mal:''''\n\n- Prolonged seizure or repeated seizures without inter-ictal return to consciousness\n\n- Risk of cardio-tension collapse, hypoxia, rhabdomyolysis, multi-visceral failure, cerebral ischaemia, death",
+  "question": {
+    "question": "Which of the following is a primary emergency condition that can reveal or complicate the evolution of a brain tumour?",
+    "option_a": "Severe headaches and migraines",
+    "option_b": "Intracranial hypertension (ICHT) and epilepsy",
+    "option_c": "Chronic fatigue and muscle weakness",
+    "option_d": "Respiratory infections and pneumonia",
+    "correct_option": "B"
+  }
+}

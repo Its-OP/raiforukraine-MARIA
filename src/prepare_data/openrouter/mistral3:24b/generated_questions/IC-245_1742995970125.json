@@ -1,0 +1,12 @@
+{
+  "folder": "IC-245",
+  "content": "{{knowledge objective\n|Identifiant=OIC-245-11-B\n|Item_parent=Adrenal insufficiency in adults and children\n|Item_parent_short=Adrenal insufficiency in adults and children\n|Rank=B\n|Title=Knowing the pharmacological characteristics and bioequivalence of the main corticoids\n|Description=None\n|Rubric=Management\n|Contributors=Claire Briet,St\u00e9phanie Espiard\n|Order=11}}\nTable 3: Pharmacological characteristics of the main glucocorticoids.\n{| class=\"wikitable\"\n|\n|Hydrocortisone\n|Prednisone\n|Prednisolone\n|Dexamethasone\n|-\n|''Biological half-life'''\n|8 - 12 hours\n|18 - 36 hours\n|18 - 36 hours\n|36 - 54 hours\n|-\n|Bioequivalence\n|20 mg\n|5 mg\n|5 mg\n|0.75 mg\n|-\n|''Glucocorticoid activity''\n|1\n|4\n|4\n|40\n|}\n<br />",
+  "question": {
+    "question": "What is the bioequivalence of Prednisone compared to Hydrocortisone?",
+    "option_a": "1 mg",
+    "option_b": "5 mg",
+    "option_c": "20 mg",
+    "option_d": "10 mg",
+    "correct_option": "B"
+  }
+}

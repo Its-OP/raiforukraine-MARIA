@@ -1,0 +1,12 @@
+{
+  "folder": "IC-024",
+  "content": "{{knowledge objective\n|Identifiant=OIC-024-20-A\n|Item_parent=Main complications of pregnancy.\n|Item_parent_short=Main complications of pregnancy.\n|Rank=A\n|Title=Knowing the assessment of a threat of premature delivery\n|Description=Exams to be carried out\n|Heading=Positive diagnosis\n|Contributors=\n|Order=20}}\n''External Tocometry'' and recording of the ''RCF.''\n\n\nBiology :\n\n- CBC, CRP (inflammatory syndrome, chorioamniotitis)\n\n- Bacteriological test: ECBU, cervicovaginal swab\n\n- Fetal fibronectin (for some - prediction of risk of delivery)\n\n- ''group/rhesus/phenotype/RAI:'' in the event of imminent childbirth.\n\n- If there is any doubt about premature rupture of the membranes: carry out a test to confirm rupture, such as IGFBP-1 or PAMG-1.\n\n'''(Cf. [[Reasoned request/prescription and choice of a diagnostic examination SD-178|178. Reasoned request/prescription and choice of a diagnostic examination]] / [[Acute or chronic inflammatory syndrome SD-186|186. Acute or chronic inflammatory syndrome]] / [[Analysis of a urine cytobacteriological examination (ecbu) SD-189|189. Analyse d'un examen cytobact\u00e9riologique des urines (ECBU)]] / [[Anomalie leucocytes SD-216|216. Anomalie des leucocytes]] / [[Interpr\u00e9tation de l'h\u00e9mogramme SD-223|223. Interpr\u00e9tation d'un h\u00e9mogramme]])''\n\nUltrasound examination :\n\n- fetal biometrics for \"fetal weight estimation\n\n- quantity of amniotic fluid\n\n- Cervical ultrasound: measures the cervix for diagnostic (shortened cervix defined by a length < 25 mm) and prognostic purposes.",
+  "question": {
+    "question": "Which of the following is a primary diagnostic tool used to assess the risk of premature delivery?",
+    "option_a": "Ultrasound examination to measure the quantity of amniotic fluid",
+    "option_b": "Complete Blood Count (CBC) and C-Reactive Protein (CRP) to detect inflammatory syndrome",
+    "option_c": "Fetal fibronectin test to predict the risk of delivery",
+    "option_d": "Cervical ultrasound to measure the length of the cervix",
+    "correct_option": "C"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-22-A\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=A\n|Title=Congenital hip dislocation: finding out about screening procedures\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=22}}\nInspection: shortening of the thigh, symmetry of skin folds\n\nSearch for abduction limitations (norm > 60\u00b0)\n\nSearch for hip instability: Barlow manoeuvre (jerk)",
+  "question": {
+    "question": "Which of the following is a primary screening procedure for detecting congenital hip dislocation in infants?",
+    "option_a": "Checking for symmetry in the length of the legs",
+    "option_b": "Assessing the range of motion in the knee joints",
+    "option_c": "Performing the Barlow manoeuvre to check for hip instability",
+    "option_d": "Evaluating the symmetry of the ear lobes",
+    "correct_option": "C"
+  }
+}

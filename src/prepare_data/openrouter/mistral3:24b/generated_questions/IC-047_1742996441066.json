@@ -1,0 +1,12 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-25-B\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=B\n|Title=Congenital hip dislocation: knowing the complications\n|Description=None\n|Rubric=Follow-up and/or prognosis\n|Contributors=\n|Order=25}}\nDelayed diagnosis leads to more complicated management\n\nFailure to treat dislocating hip disease leads to limping from the onset of walking, chronic pain and early degenerative damage.",
+  "question": {
+    "question": "What is a common complication of delayed diagnosis of congenital hip dislocation?",
+    "option_a": "Immediate resolution of the condition without treatment",
+    "option_b": "Development of chronic pain and early degenerative damage",
+    "option_c": "Increased muscle strength in the affected leg",
+    "option_d": "No long-term effects on mobility or pain",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-037",
+  "content": "{{knowledge objective\n|Identifiant=OIC-037-06-A\n|Item_parent=Voluntary termination of pregnancy\n|Item_parent_short=Voluntary termination of pregnancy\n|Rank=A\n|Title=Knowing the structures providing abortion care\n|Description=Health establishments, health centres run by gynaecologists, general practitioners, midwives, etc.\n|Section=Management\n|Contributors=Arthur Foulon,Philippe Deruelle,Aubert Agostini\n|Order=6}}\n\nAbortions can be carried out in health establishments or in a family planning centre. They can also be carried out in private practice, but only for medical abortions up to 9 weeks' gestation. Women having an abortion may also consult a gynaecologist, general practitioner or midwife for the first consultation, even if the latter is not attached to a centre performing abortions.",
+  "question": {
+    "question": "Where can abortions be legally performed according to the provided educational content?",
+    "option_a": "Only in specialized abortion clinics",
+    "option_b": "In any private practice for any type of abortion",
+    "option_c": "In health establishments, family planning centres, and private practices for medical abortions up to 9 weeks' gestation",
+    "option_d": "Only in hospitals and by gynaecologists",
+    "correct_option": "C"
+  }
+}

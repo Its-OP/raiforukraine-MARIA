@@ -1,0 +1,12 @@
+{
+  "folder": "IC-145",
+  "content": "{{knowledge objective\n|Identifiant=OIC-145-13-A\n|Item_parent=Surveillance of communicable infectious diseases\n|Item_parent_short=Surveillance of communicable infectious diseases\n|Rank=A\n|Intitle=Know that there are diseases that should be subject to eviction measures and where to find the list.\n|Description=None\n|Rubric=Epidemiology\n|Contributors=Didier HOCQUET,Elodie COUVE,Anne-Marie ROGUES,Alexandre DUVIGNAUD\n|Order=13}}\n\n'''''Eviction'':'' temporary exclusion of a person suffering from a transmissible infectious disease. Eviction is not possible everywhere (e.g. in nursing homes) and must sometimes be replaced by isolation measures, applying additional precautions adapted to the mode of transmission of the disease in question.\n\nCertain transmissible diseases may require eviction from children's groups, cr\u00e8ches and teaching and educational establishments. The '''[https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=306 list of 52 diseases requiring eviction or isolation in groups]''' was updated in 2012 by the Haut Conseil de la Sante Publique and is available on its website '''[https://www.hcsp.fr/explore.cgi/Accueil www.hcsp.fr]'''.\n\nFor each of these communicable diseases, these recommendations specify:\n\n*Whether or not it is necessary to take eviction or isolation measures,\n*And if so, for how long after any anti-infectious treatment has been started.\n\nFor certain illnesses, such as chickenpox or viral infections of the digestive tract or upper airways, eviction is not recommended, but it is not advisable for children to attend school during the acute phase of the illness.\n\n<br />",
+  "question": {
+    "question": "Where can you find the updated list of 52 diseases that require eviction or isolation in group settings, as specified by the Haut Conseil de la Sante Publique?",
+    "option_a": "On the World Health Organization (WHO) website",
+    "option_b": "On the Centers for Disease Control and Prevention (CDC) website",
+    "option_c": "On the website of the French Ministry of Health",
+    "option_d": "On the website of the Haut Conseil de la Sante Publique (www.hcsp.fr)",
+    "correct_option": "D"
+  }
+}

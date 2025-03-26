@@ -1,0 +1,12 @@
+{
+  "folder": "IC-267",
+  "content": "{{knowledge objective\n|Identifiant=OIC-267-09-B\n|Item_parent=Disorders of acid-base balance and fluid-electrolyte disorders\n|Item_parent_short=Disorders of acid-base equilibrium and fluid-electrolyte disorders\n|Rank=B\n|Title=Knowing the management of severe acute acid-base disorders\n|Description=Know the main symptomatic treatments and know how to refer the patient to the appropriate service.\n|Rubric=Management\n|Contributors=P Rieu; B Moulin; M Flamant\n|Order=9}}\n\n\n*treatment of the cause +++ ;\n*CO2 elimination: correction of low flow, artificial ventilation;\n*alkalinisation :\n**discussed in lactic acidosis,\n**not recommended in ketoacidosis: insulin and rehydration are often sufficient,\n**essential in hyperchloremic acidosis or acidosis associated with certain intoxications: IV sodium bicarbonate to rapidly raise pH > 7.20 and bicarbonaemia > 10 mmol/L: quantity HCO3<sup>-</sup> (mmol) = \u2206 [HCO3<sup>-</sup> ] \u00d7 0.5 \u00d7 weight (kg);\n**Alkalinisation should be avoided in cases of fluid and sodium overload and/or hypokalaemia and/or hypocalcaemia.\n*extrarenal purification if associated with organic renal insufficiency (to avoid sodium bicarbonate infusion-induced sodium water overload);",
+  "question": {
+    "question": "In the management of severe acute acid-base disorders, which of the following is the correct approach for alkalinisation in hyperchloremic acidosis?",
+    "option_a": "Administer IV sodium bicarbonate to rapidly raise pH > 7.20 and bicarbonate levels > 10 mmol/L, using the formula: quantity HCO3- (mmol) = \u2206 [HCO3-] \u00d7 0.3 \u00d7 weight (kg).",
+    "option_b": "Alkalinisation is always recommended in ketoacidosis to correct the acid-base imbalance.",
+    "option_c": "Avoid alkalinisation in cases of fluid and sodium overload, hypokalaemia, and hypocalcaemia.",
+    "option_d": "Use insulin and rehydration as the primary treatment for hyperchloremic acidosis.",
+    "correct_option": "C"
+  }
+}

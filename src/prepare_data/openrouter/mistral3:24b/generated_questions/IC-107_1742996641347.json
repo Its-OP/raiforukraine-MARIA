@@ -1,0 +1,12 @@
+{
+  "folder": "IC-107",
+  "content": "{{knowledge objective\n|Identifiant=OIC-107-04-A\n|Item_parent=Anomalous movements\n|Item_parent_short=Anomalous movements\n|Rank=A\n|Title=Recognising the main abnormal movements on typical video cases\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=4}}\nPlease refer to the CEN website where videos are available:\n\nhttps://www.cen-neurologie.fr/videotheque",
+  "question": {
+    "question": "Which of the following is a common type of abnormal movement that can be observed in typical video cases?",
+    "option_a": "Tremors that occur only during sleep",
+    "option_b": "Dystonic movements that are always symmetrical",
+    "option_c": "Chorea, which involves rapid, irregular, jerky movements",
+    "option_d": "Myoclonus that is always voluntary and controlled",
+    "correct_option": "C"
+  }
+}

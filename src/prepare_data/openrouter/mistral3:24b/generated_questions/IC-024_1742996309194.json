@@ -1,0 +1,12 @@
+{
+  "folder": "IC-024",
+  "content": "{{knowledge objective\n|Identifiant=OIC-024-01-A\n|Item_parent=Main complications of pregnancy.\n|Item_parent_short=Main complications of pregnancy.\n|Rank=A\n|Title=Knowing how to manage first trimester haemorrhage.\n|Description=Know the clinical, biological and ultrasound elements guiding the diagnosis\n|Rubric=Positive diagnosis\n|Contributors=Paul Berveiller,Philippe Deruelle\n|Order=1}}\n\nAffects 25% of pregnancies and may be related to :\n\n- an ectopic pregnancy\n\n- a progressive intrauterine pregnancy with a decidual haematoma\n\n- a non-progressive intrauterine pregnancy\n\n- + rare: lysis of a twin, molar pregnancy, cervical cancer, ectropion.\n\n\nOn questioning :\n\n- favourable gynaeco-obstetrical and medical history, treatments, blood group, Rhesus, phenotype\n\n- History: DDR, date of last FCV.\n\n- sympathetic signs of pregnancy\n\n- description of bleeding '''(Cf. [[Genital bleeding during pregnancy SD-111|111. Genital bleeding during pregnancy]])''''\n\n- presence and characterisation of any pelvic pain\n\nAt the exam :\n\n- general condition, haemodynamic tolerance\n\n- speculum examination and abdominal palpation\n\n- vaginal touch\n\nAdditional tests:\n\n- Biological: quantitative plasma hCG dosage, haemogram according to amount of bleeding, Group, Rhesus, phenotype if not done, RAI (''cf.''' ''[[Anomaly of erythrocyte indices (haemoglobin level, haematocrit..) SD-214|214. abnormality of erythrocyte indices (haemoglobin level, haematocrit)]], [[Haemoglobin decrease SD-217|217. Haemoglobin decrease]], 223. [[Interpretation of haemogram SD-223|Interpretation of haemogram]])''''\n\n- Ultrasound: pelvic ultrasound (abdominal and endovaginal) ('''Cf.''' ''[[Reasoned request/prescription and choice of a diagnostic examination SD-178|178. Reasoned request/prescription and choice of a radiological examination]]).''''\n\n- uterine vacuity or gestational sac, latero-uterine mass, ovarian debris, ovarian haematoma, pelvic or intra-abdominal effusion",
+  "question": {
+    "question": "Which of the following is the most common cause of first trimester haemorrhage?",
+    "option_a": "An ectopic pregnancy",
+    "option_b": "A progressive intrauterine pregnancy with a decidual haematoma",
+    "option_c": "A non-progressive intrauterine pregnancy",
+    "option_d": "Cervical cancer",
+    "correct_option": "A"
+  }
+}

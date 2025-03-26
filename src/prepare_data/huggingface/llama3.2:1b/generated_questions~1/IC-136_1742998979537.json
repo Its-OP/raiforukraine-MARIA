@@ -1,0 +1,46 @@
+{
+  "folder": "IC-136",
+  "content": "{{knowledge objective\n|Identifiant=OIC-136-06-A\n|Item_parent=Local, locoregional and general anaesthesia\n|Item_parent_short=Local, locoregional and general anaesthesia\n|Rank=A\n|Title=Knowing the principles of general anaesthesia, indications, main complications\n|Description=Including the mechanism of action of curares\n|Rubric=Management\n|Contributors=\n|Order=6}}\n\n[[File:Figure 3. Principles, indications and main complications of general anaesthesia.jpg|vignette|'''Figure 3.'''' '''Principles, indications and main complications of general anaesthesia'''']]\nThe principles, indications and main complications of a general anaesthetic are presented in figure 3 (''''''''''''''''''''''''[[Preoperative explanation and collection of consent for an invasive diagnostic or therapeutic procedure SD-239|preoperative explanation and collection of consent for an invasive diagnostic or therapeutic procedure]]''''''').\n[[File:Figure 4. Mechanism of action of curares..jpg|thumb|'''Figure 4. Mechanism of action of curares.''']]]\nThe mechanism of action of curares is shown in Figure 4.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary indication for the use of curare?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "A. Intraoperative management of cardiac arrest",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "B. Intraoperative management of cardiac arrest",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "C. Intraoperative management of cardiac arrest",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "D. Intraoperative management of cardiac arrest",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

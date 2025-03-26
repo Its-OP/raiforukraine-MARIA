@@ -1,0 +1,12 @@
+{
+  "folder": "IC-302",
+  "content": "{{knowledge objective\n|Identifiant=OIC-302-14-B\n|Item_parent=Cutaneous, epithelial and melanoma tumours\n|Item_parent_short=Cutaneous, epithelial and melanoma tumours\n|Rank=B\n|Title=Photograph of a skin precancerous lesion\n|Description=Photography of typical actinic keratoses\n|Rubric=Multimedia content\n|Contributors=\n|Order=14}}\n\n[[File:Figure C.jpg|vignette|Multiple actinic keratoses of the scalp]]",
+  "question": {
+    "question": "Which of the following is a typical characteristic of actinic keratoses?",
+    "option_a": "They are usually found on areas of the skin that are not exposed to the sun.",
+    "option_b": "They are always malignant and require immediate surgical removal.",
+    "option_c": "They often appear as rough, scaly patches on sun-exposed areas of the skin.",
+    "option_d": "They are primarily caused by genetic factors rather than environmental exposure.",
+    "correct_option": "C"
+  }
+}

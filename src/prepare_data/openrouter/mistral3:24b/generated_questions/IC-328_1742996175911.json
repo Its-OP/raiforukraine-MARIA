@@ -1,0 +1,12 @@
+{
+  "folder": "IC-328",
+  "content": "{{knowledge objective\n|Identifiant=OIC-328-02-A\n|Item_parent=Non-drug therapies and medical devices\n|Item_parent_short=Non-drug therapies and medical devices\n|Rank=A\n|Intitle=Know the definition of a medical device\n|Description=None\n|Rubric=Definition\n|Contributors=Bisseriex H\u00e9l\u00e8ne,De Boissezon Xavier\n|Order=2}}\n\n'''Medical device:''' any instrument, apparatus, equipment, material, product (with the exception of products of human origin) including accessories and software, used alone or in combination, for medical purposes in humans, and whose principal intended action is not obtained by pharmacological, immunological or metabolic means ''(ANSM)''.\n\nA new European regulation (EU regulation 2017/745) dating from May 2021 aims to standardise the marketing and commissioning of medical devices within the European Union (without regulating prices and reimbursements by social organisations).\n\n<br />",
+  "question": {
+    "question": "According to the European regulation EU 2017/745, which of the following is a key aspect of the regulation regarding medical devices?",
+    "option_a": "It regulates the prices and reimbursements by social organizations.",
+    "option_b": "It standardizes the marketing and commissioning of medical devices within the European Union.",
+    "option_c": "It mandates the use of only human-origin products in medical devices.",
+    "option_d": "It focuses on the pharmacological actions of medical devices.",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-336",
+  "content": "{{knowledge objective\n|Identifiant=OIC-336-10-B\n|Item_parent=Non-traumaticoma in adults and children\n|Item_parent_short=Non-traumatic coma in adults and children\n|Rank=B\n|Title=Know the indications for emergency MRI in adults and children\n|Description=In particular, to know the indications for emergency MRI (neurovascular pathway)\n|Section=Additional examinations\n|Contributors=Nicolas Weiss\n|Order=10}}\n\n- Brain MRI more sensitive than CT scan\n\n- Preferred as 1st intention if available in case of :\n\no suspected ischaemic stroke (basilar trunk thrombosis, malignant sylvian stroke)\n\no suspected encephalitis\n\n- don't hesitate to call a vascular neurology service for help",
+  "question": {
+    "question": "In which of the following scenarios is an emergency MRI preferred as the first diagnostic tool, if available?",
+    "option_a": "Suspected traumatic brain injury with visible skull fracture",
+    "option_b": "Suspected ischaemic stroke involving the basilar trunk or malignant sylvian stroke",
+    "option_c": "Suspected concussion with no loss of consciousness",
+    "option_d": "Suspected mild encephalitis with no neurological deficits",
+    "correct_option": "B"
+  }
+}

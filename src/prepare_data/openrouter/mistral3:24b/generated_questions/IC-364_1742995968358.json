@@ -1,0 +1,12 @@
+{
+  "folder": "IC-364",
+  "content": "{{knowledge objective\n|Identifiant=OIC-364-01-A\n|Item_parent=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Item_parent_short=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Rank=A\n|Title=General information on fractures: understanding typical fractures in children\n|Description=Familiarising children with typical fractures\n|Rubric=Definition\n|Contributors=Bruno Dohin\n|Order=1}}\n\nKnowledge of epiphyseal fracture-decollement according to the Salter and Harris classification\n\nBe familiar with the types of fracture specific to children: subperiosteal, green wood, butterball, etc.\n\nKnowing about apophyseal avulsion fractures<br />.",
+  "question": {
+    "question": "Which type of fracture is characterized by a fracture through the growth plate (physis) and the epiphysis, according to the Salter and Harris classification?",
+    "option_a": "Type I: Fracture through the growth plate",
+    "option_b": "Type II: Fracture through the growth plate and metaphysis",
+    "option_c": "Type III: Fracture through the growth plate and epiphysis",
+    "option_d": "Type IV: Fracture through the metaphysis and epiphysis",
+    "correct_option": "C"
+  }
+}

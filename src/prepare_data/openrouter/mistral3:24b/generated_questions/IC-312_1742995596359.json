@@ -1,0 +1,12 @@
+{
+  "folder": "IC-312",
+  "content": "{{knowledge objective\n|Identifiant=OIC-312-07-B\n|Item_parent=Breast tumours\n|Item_parent_short=Breast tumours\n|Rank=B\n|Title=Photographs of breast skin lesions/anomalies\n|Description=Bloody/lactescent discharge, flat spot, inflamed breast\n|Rubric=Multimedia content\n|Contributors=\n|Order=7}}\n\n[[File:SLIDE 2.jpg|vignette|Mammary asymmetry, left breast inflamed and edematous, orange peel appearance]]\n[[File:Slide 3.jpg|vignette|Mammary retraction (\"axe-like\") opposite the 3 o'clock radius of the left breast]]",
+  "question": {
+    "question": "Which of the following is a characteristic sign of breast inflammation as shown in the provided image?",
+    "option_a": "A flat spot on the breast",
+    "option_b": "A bloody or lactescent discharge",
+    "option_c": "Mammary asymmetry with an orange peel appearance",
+    "option_d": "A lump in the breast tissue",
+    "correct_option": "C"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-086",
+  "content": "{{knowledge objective\n|Identifiant=OIC-086-02-A\n|Item_parent=Eyelid pathology\n|Item_parent_short=Eyelid pathology\n|Rank=A\n|Title=Recognising entropion and its complications\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=2}}\n'''Entropion:''' tilting of the eyelid towards the conjunctiva, caused by relaxation of the cutaneous tissues (senile entropion) or retraction of the conjunctival tissues (cicatricial entropion due, for example, to trachoma or bullous pathology).\n\n\n'''Complications:''' trichiasis (rubbing of the eyelashes on the cornea)",
+  "question": {
+    "question": "What is the primary cause of senile entropion?",
+    "option_a": "Inflammation of the conjunctiva",
+    "option_b": "Infection of the eyelid margins",
+    "option_c": "Relaxation of the cutaneous tissues",
+    "option_d": "Scarring of the conjunctival tissues",
+    "correct_option": "C"
+  }
+}

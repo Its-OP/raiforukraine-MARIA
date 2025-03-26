@@ -1,0 +1,12 @@
+{
+  "folder": "IC-342",
+  "content": "{{knowledge objective\n|Identifiant=OIC-342-12-B\n|Item_parent=Sickness, loss of consciousness, coma in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=B\n|Title=Know the indications for an electroencephalogram in the event of malaise or loss of consciousness presumed to be of epileptic origin.\n|Description=None\n|Rubric=Additional examinations\n|Contributors=\n|Order=12}}\ncf item 105",
+  "question": {
+    "question": "An electroencephalogram (EEG) is indicated in the event of malaise or loss of consciousness presumed to be of epileptic origin. Which of the following is a primary indication for performing an EEG in such cases?",
+    "option_a": "To assess the patient's blood sugar levels",
+    "option_b": "To measure the electrical activity of the brain",
+    "option_c": "To evaluate the patient's heart rate and rhythm",
+    "option_d": "To check for signs of infection in the brain",
+    "correct_option": "B"
+  }
+}

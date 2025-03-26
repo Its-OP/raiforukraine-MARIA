@@ -1,0 +1,46 @@
+{
+  "folder": "IC-026",
+  "content": "{{knowledge objective\n|Identifiant=OIC-026-04-B\n|Item_parent=Acute abdominal pain in a pregnant woman\n|Item_parent_short=Acute abdominal pain in pregnant women\n|Rank=B\n|Title=Knowing how to manage acute abdominal pain in pregnant women\n|Description=Know how to guide the clinical examination and suggest appropriate paraclinical tests during management.\n|Rubric=Multimedia content\n|Contributors=Louis Marcellin,Philippe Deruelle\n|Order=4}}\n\n[[File:Douleurs abdominales de la femme enceinte.jpg|vignette|'''Douleurs abdominales de la femme enceinte'']]",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the most common cause of acute abdominal pain in pregnant women?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Gastrointestinal obstruction",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Hemorrhage",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Uterine rupture",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Appendicitis",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Gastrointestinal obstruction",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

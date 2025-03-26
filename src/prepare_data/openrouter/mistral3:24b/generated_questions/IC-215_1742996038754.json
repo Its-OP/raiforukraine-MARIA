@@ -1,0 +1,12 @@
+{
+  "folder": "IC-215",
+  "content": "{{knowledge objective\n|Identifiant=OIC-215-07-B\n|Item_parent=Purpuras in adults and children\n|Item_parent_short=Purpuras in adults and children\n|Rank=B\n|Title=Know how to prescribe first-line biological tests according to the diagnostic orientation of purpura.\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=7}}\nIn non-emergency cases of vascular purpura, the following tests are prescribed\n\n- Anti-neutrophil cytoplasmic antibodies (ANCA) (which can be obtained in less than 24 hours) (see chapters [[Autoimmune diseases: epidemiological and diagnostic aspects and principles of treatment|autoimmune diseases]] and [[Understanding the main types of systemic vasculitis, target organs, diagnostic tools and treatment methods|vasculitis]]).\n\n- Cryoglobulinemia",
+  "question": {
+    "question": "In non-emergency cases of vascular purpura, which of the following tests is typically prescribed first?",
+    "option_a": "Complete blood count (CBC)",
+    "option_b": "Lupus anticoagulant test",
+    "option_c": "Anti-neutrophil cytoplasmic antibodies (ANCA)",
+    "option_d": "Erythrocyte sedimentation rate (ESR)",
+    "correct_option": "C"
+  }
+}

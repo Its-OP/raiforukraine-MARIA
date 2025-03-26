@@ -1,0 +1,12 @@
+{
+  "folder": "IC-006",
+  "content": "{{knowledge objective\n|Identifiant=OIC-006-03-A\n|Item_parent=The organisation of clinical practice and the methods that make it possible to secure the patient pathway\n|Item_parent_short=The organisation of clinical practice and the methods which make it possible to secure the patient pathway\n|Rank=A\n|Title=Knowing the definition of the care pathway\n|Description=None\n|Rubric=Definition\n|Contributors=Virginie Migeot\n|Order=3}}\n\n[[File:Item 6 Fig1.png|thumb]]\n[[File:Item 6 Fig1.png|centric|vignette]]\nThe ''care pathway'' consists of organising and coordinating the right sequence of professional skills at the right time throughout a patient's care.",
+  "question": {
+    "question": "What is the primary focus of the 'care pathway' in clinical practice?",
+    "option_a": "Ensuring that patients receive the correct medication at the right time",
+    "option_b": "Organising and coordinating the right sequence of professional skills at the right time throughout a patient's care",
+    "option_c": "Managing the administrative tasks related to patient billing and insurance",
+    "option_d": "Providing emotional support to patients and their families during treatment",
+    "correct_option": "B"
+  }
+}

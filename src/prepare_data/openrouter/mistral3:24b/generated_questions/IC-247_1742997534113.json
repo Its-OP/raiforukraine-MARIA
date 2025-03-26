@@ -1,0 +1,12 @@
+{
+  "folder": "IC-247",
+  "content": "{{knowledge objective\n|Identifiant=OIC-247-04-A\n|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Rank=A\n|Title=Knowing the target populations and methods of screening for type 2 diabetes mellitus (T2DM).\n|Description=None\n|Section=Definition\n|Contributors=Gaetan Pr\u00e9vost,H\u00e9l\u00e8ne Bihan,Claire Briet,Eva Feigerlova,Etienne Larger\n|Order=4}}\n\n'''Methods of screening for T2D:'''\n\nmainly fasting venous glycaemia, diabetes if >1.26g/l on 2 occasions.\n\nFor some (not consensual), an HbA1c >6.5% is also diagnostic of diabetes.\n\n\n'''Target populations for T2D screening:'''\n\n1/ patients with symptoms\n\n2/ asymptomatic patients and\n\nover 45 years of age, every 3 years if no FDR\n\npatients with FDR every year\n\nFDR for T2DM: metabolic syndrome, vascular or renal disease, family history of diabetes in the 1st<sup>degree, history of gestational diabetes or child with macrosomia, history of temporarily induced diabetes, geographical origin, sedentary lifestyle, history of delivery of a low-birth-weight child or pregnancy with IUGR.\n\n<br />",
+  "question": {
+    "question": "Which of the following is a primary method of screening for Type 2 Diabetes Mellitus (T2DM)?",
+    "option_a": "Random blood glucose measurement",
+    "option_b": "Fasting venous glycaemia greater than 1.26 g/l on two occasions",
+    "option_c": "Oral glucose tolerance test (OGTT) only",
+    "option_d": "HbA1c greater than 6.5% on a single occasion",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-026",
+  "content": "{{knowledge objective\n|Identifiant=OIC-026-04-B\n|Item_parent=Acute abdominal pain in a pregnant woman\n|Item_parent_short=Acute abdominal pain in pregnant women\n|Rank=B\n|Title=Knowing how to manage acute abdominal pain in pregnant women\n|Description=Know how to guide the clinical examination and suggest appropriate paraclinical tests during management.\n|Rubric=Multimedia content\n|Contributors=Louis Marcellin,Philippe Deruelle\n|Order=4}}\n\n[[File:Douleurs abdominales de la femme enceinte.jpg|vignette|'''Douleurs abdominales de la femme enceinte'']]",
+  "question": {
+    "question": "When managing acute abdominal pain in a pregnant woman, which of the following is the most appropriate initial step?",
+    "option_a": "Immediately perform an ultrasound to rule out ectopic pregnancy",
+    "option_b": "Administer pain medication to alleviate discomfort before further examination",
+    "option_c": "Conduct a detailed medical history and physical examination",
+    "option_d": "Order a full blood count and liver function tests",
+    "correct_option": "C"
+  }
+}

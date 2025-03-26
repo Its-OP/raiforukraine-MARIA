@@ -1,0 +1,12 @@
+{
+  "folder": "IC-024",
+  "content": "{{knowledge objective\n|Identifiant=OIC-024-18-A\n|Item_parent=Main complications of pregnancy.\n|Item_parent_short=Main complications of pregnancy.\n|Rank=A\n|Title=Defining and diagnosing the threat of preterm birth.\n|Description=None\n|Rubric=Epidemiology\n|Contributors=Paul Berveiller,Philippe Deruelle\n|Order=18}}\n\nMenace d'accouchement pr\u00e9matur\u00e9 (MAP) = association de '''modifications cervicales''' et de '''contractions ut\u00e9rines''' (CU) r\u00e9guli\u00e8res et douloureux '''avant 37 SA,''' soit entre '''22 SA et 36 SA + 6 jours.''' ''(Cf. [[Uterine contraction in a pregnant woman SD-098|09. Uterine contractions in a pregnant woman]] / [[Pelvic pain SD-099|99. Pelvic pain]])''''\n\nRegarding changes to the cervix: assessed by TV and/or ultrasound of the cervix (more objective and reproducible vs TV. A shortened cervix is defined by a length < 25 mm.\n\nIf the birth occurs before 22 weeks' gestation, it is known as a \"late miscarriage\".",
+  "question": {
+    "question": "What is the definition of a threat of preterm birth (MAP) in terms of gestational age?",
+    "option_a": "Between 22 weeks and 37 weeks",
+    "option_b": "Between 22 weeks and 36 weeks and 6 days",
+    "option_c": "Between 22 weeks and 35 weeks",
+    "option_d": "Between 24 weeks and 36 weeks and 6 days",
+    "correct_option": "B"
+  }
+}

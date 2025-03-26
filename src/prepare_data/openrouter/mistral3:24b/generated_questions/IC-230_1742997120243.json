@@ -1,0 +1,12 @@
+{
+  "folder": "IC-230",
+  "content": "{{knowledge objective\n|Identifiant=OIC-230-02-A\n|Item_parent=Acute chest pain\n|Item_parent_short=Acute chest pain\n|Rank=A\n|Title=Knowing how to look for vital distress in chest pain\n|Description=Respiratory or haemodynamic distress, disturbances of consciousness\n|Rubric=Identification of the emergency\n|Contributors=Vincent Roule\n|Order=2}}\n\n'''Entitul\u00e9 :''' '''Savoir rechercher une d\u00e9tresse vitale devant une douleur thoracique''''\n\n- '''acute respiratory distress'''\n\n- haemodynamic distress: ''signs of shock\n\n- neurological distress (coma and consciousness disorders)",
+  "question": {
+    "question": "When assessing a patient with acute chest pain, which of the following is a critical sign of haemodynamic distress?",
+    "option_a": "Elevated blood pressure",
+    "option_b": "Presence of a cough",
+    "option_c": "Signs of shock",
+    "option_d": "Increased heart rate",
+    "correct_option": "C"
+  }
+}

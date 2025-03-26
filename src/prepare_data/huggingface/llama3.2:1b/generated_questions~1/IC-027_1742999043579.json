@@ -1,0 +1,46 @@
+{
+  "folder": "IC-027",
+  "content": "{{knowledge objective\n|Identifiant=OIC-027-41-A\n|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Rank=A\n|Title=Detection of addictive behaviours and associated risk factors during pregnancy\n|Description=None\n|Rubric=Diagnosis\n|Contributors=Alexandre Vivanti, Philippe Deruelle\n|Order=41}}\nAddictive behaviours must be identified during the various interviews carried out during pregnancy: the question of the use of medication, tobacco, alcohol and illicit products must be asked, but it is also important to identify the risk factors and lifestyle aspects that will lead to the discussion of addictive behaviours, to an understanding of how women who use drugs function and to avoid, on the part of both carers and patients, the negative representations and fears that paralyse human relationships and encounters.\n\n\nElements of understanding can be found in :\n\n- the mother's life story\n\n- the history of the parental couple\n\n- maternal lifestyle\n\n- maternal health\n\n- maternal fears\n\nGreater attention to spotting certain less visible situations.\n\nIn women who are often well integrated into society and belong to high socio-professional backgrounds, addictive behaviours insidiously take hold: 'social' consumption of alcohol, cannabis, cocaine, opioid drugs, benzodiazepines, etc. on festive evenings, or even professional evenings and, little by little, to cope with stress, combat fatigue, improve performance at work, etc. When pregnancy occurs, these women, who have never identified themselves as drug addicts and do not frequent specialised services, become aware of their addiction. When they become pregnant, these women, who have never identified themselves as drug addicts and do not use specialist services, become aware of their addiction, find themselves at a loss and experience their pregnancy alone and with guilt.\n\nIt is essential to identify them so that multidisciplinary care can be provided, and this is most often the responsibility of perinatal professionals.\n\n'''293. [[Addictology follow-up consultation SD-293|Addictology follow-up consultation]]''''\n\n'''312. [[Prevention of foetal risks SD-312|Prevention of foetal risks]]''''",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary goal of identifying addictive behaviours during pregnancy?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To identify the mother's lifestyle factors that may contribute to addictive behaviours",
+        "description": "The mother's life story",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "To detect the use of illicit substances during pregnancy",
+        "description": "The history of the parental couple",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "To assess the mother's health and well-being during pregnancy",
+        "description": "Maternal health",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "To identify the risk factors associated with addictive behaviours during pregnancy",
+        "description": "Maternal fears",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "To identify the mother's lifestyle factors that may contribute to addictive behaviours",
+        "description": "The mother's life story",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

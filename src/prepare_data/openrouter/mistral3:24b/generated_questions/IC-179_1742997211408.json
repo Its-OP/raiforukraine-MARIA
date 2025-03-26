@@ -1,0 +1,12 @@
+{
+  "folder": "IC-179",
+  "content": "{{knowledge objective\n|Identifiant=OIC-179-06-A\n|Item_parent=Health risks linked to water and food. Food poisoning\n|Item_parent_short=Sanitary risks related to water and food. Food poisoning\n|Rank=A\n|Item_parent_short=Health risks associated with food and water.\n|Description=None\n|Rubric=Definition\n|Contributors=Pr Christophe DE CHAMPS DE SAINT LEGER, Dr Johann CAILHOL\n|Order=6}}\n1.     Gastrointestinal disorders (infectious agents, fungi (macromycetes), histamine syndrome)\n\n2.     Skin rash (allergy, macromycetes). There are many food allergens: chicken eggs, gluten, peanuts, etc., not to be confused with histamine syndrome linked to the consumption of poorly preserved fish.\n\n3.     Neurological damage (microbial, toxic (heavy metals, hydrargyrism or mercury-related Minamata disease), macromycetes)\n\n4.     Liver disease (viruses, parasites, macromycetes)\n\n5.     Renal failure (enterohaemorrhagic E.coli, Shigella, toxins, macromycetes)\n\n6.     Haemolytic uraemic syndrome (HUS) (enterohaemorrhagic E.coli, Shigella, macromycetes)\n\n7.     Thrombotic thrombocytopenic purpura (''Enterohaemorrhagic E.coli'', ''Shigella'')\n\n8.     Dyspnoea (allergy)\n\n9.     Shock (toxins, anaphylaxis, histamine syndrome)\n\n10.   Rhabdomyolysis (macromycetes)\n\n11.   Endocrine disruption (soy (not recommended for children under 3), plant protection products, pesticides, phthalates, bisphenol A in food plastics)\n\n12.   Cancer: chlordecone-type pesticides and prostate cancer, aflatoxin and liver cancer",
+  "question": {
+    "question": "Which of the following health risks is specifically linked to the consumption of poorly preserved fish?",
+    "option_a": "Gastrointestinal disorders",
+    "option_b": "Skin rash",
+    "option_c": "Neurological damage",
+    "option_d": "Shock",
+    "correct_option": "D"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-06-A\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=A\n|Intitle=To know the age of onset, the percentage of addicts and tobacco-related mortality worldwide and in France, and the risks.\n|Description=Know\n|Rubric=Epidemiology\n|Contributors=\n|Order=6}}\n\n\n*The average age at which the first cigarette is smoked is stable at 14, with daily smoking at 15.\n*30.4% of people (aged 18 to 75) say they smoke tobacco.\n**men 34.6%\n**women 26.5%\n*Tobacco intoxication is responsible for one in ten deaths worldwide.\n*In France: 1<sup>rst</sup> cause of avoidable death = 75,000 deaths/year\n*The <u>duration of intoxication</u> is the <u>most important risk factor</u>.\n**doubling the dose => risk of cancer x 2\n**doubling the duration => cancer risk x 23)\n*''49% of regular smokers show signs of dependence (rank B)''",
+  "question": {
+    "question": "What is the most significant risk factor for developing cancer due to tobacco use?",
+    "option_a": "The age at which the first cigarette is smoked",
+    "option_b": "The frequency of smoking per day",
+    "option_c": "The duration of tobacco intoxication",
+    "option_d": "The percentage of people who smoke tobacco",
+    "correct_option": "C"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-082",
+  "content": "{{knowledge objective\n|Identifiant=OIC-082-13-B\n|Item_parent=Acute visual impairment\n|Item_parent_short=Acute visual impairment\n|Rank=B\n|Title=Photograph of Papilledema\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=13}}\n\n[[File:OP.jpg|left|vignette|Papillary edema of the right eye. In this photo, the papilla appears blurred, in relief, and it is not possible to draw its border. When we say that the papilla is \"sharp-edged\", it is to express the absence of papilloedema.|434x434px]]",
+  "question": {
+    "question": "What is the characteristic appearance of the optic disc in a patient with papilledema?",
+    "option_a": "The optic disc appears sharply defined with clear borders.",
+    "option_b": "The optic disc appears blurred with indistinct borders.",
+    "option_c": "The optic disc appears pale and atrophic.",
+    "option_d": "The optic disc appears with a central cup that is larger than normal.",
+    "correct_option": "B"
+  }
+}

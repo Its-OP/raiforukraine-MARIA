@@ -1,0 +1,12 @@
+{
+  "folder": "IC-235",
+  "content": "{{knowledge objective\n|Identifiant=OIC-235-03-A\n|Item_parent=Acute pericarditis\n|Item_parent_short=Acute pericarditis\n|Rank=A\n|Title=Know the signs of serious acute pericarditis and know how to call for emergency drainage of the effusion.\n|Description=Identify the possible emergency in the presence of signs of right heart failure, arterial hypotension and a marked drop in pulse rate on inspiration.\n|Rubric=Identify the emergency\n|Contributors=Jennifer Cautela\n|Order=3}}\nThese are signs suggestive of associated tamponade or myocarditis.\n\n* '''Clinical''' :\n** '''Signs of acute right heart failure:''' Jugular turgidity, Jugular hepato reflux\n** '''Signs of shock''': tachycardia and PAS<90mmHg, mottling, cold extremities\n** '''Paradoxical pulse =''' \u00eede la PAS de 10 mmHg \u00e0 l'inspiration\n** '''Fever > 38\u00b0'''\n* Biological: Troponin elevation (associated myocarditis)\n* ECG: microvoltage and electrical alternation (tamponade), ventricular rhythm disorders (myocarditis)\n* Ultrasound:\n** Effusion > 20 mm\n** Compression of the right cavities",
+  "question": {
+    "question": "Which of the following is a key sign of cardiac tamponade that would necessitate emergency drainage of the effusion?",
+    "option_a": "Jugular turgidity and jugular hepato reflux",
+    "option_b": "A drop in pulse rate on inspiration greater than 10 mmHg",
+    "option_c": "A fever greater than 38\u00b0C",
+    "option_d": "Troponin elevation",
+    "correct_option": "B"
+  }
+}

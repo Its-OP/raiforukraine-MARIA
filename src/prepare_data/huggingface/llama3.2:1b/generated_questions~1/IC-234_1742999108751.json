@@ -1,0 +1,22 @@
+{
+  "folder": "IC-234",
+  "content": "{{knowledge objective\n|Identifiant=OIC-234-18-A\n|Item_parent=Adult heart failure\n|Item_parent_short=Adult heart failure\n|Rank=A\n|Title=Knowing the emergency treatment of cardiogenic OAP\n|Description=Know how to prescribe symptomatic treatment: loop diuretics, nitrate derivatives, oxygen therapy, etc.\n|Rubric=Management\n|Contributors=Olivier Huttin\n|Order=18}}\nTherapeutic emergency\n\n- Hospitalisation in a continuous care unit\n\n- seated position\n\n- placement of a venous supply line\n\n- monitoring (heart rate, blood pressure, saturation, scope)\n\n- oxygen therapy by nasal tube or mask, target Sa02 > 90%,\n\n- Prescription of diuretics: injection of furosemide (Lasilix 1 mg/kg), then adjusted according to diuresis;\n\n- injection of nitrate derivatives (trinitrine 1 mg/h to be adapted according to blood pressure) if systolic blood pressure > 100 mmHg;\n\n- in the event of severe uncontrolled anxiety or chest pain, offer i.v. morphine;\n\n- treatment of a triggering factor: i.v. digoxin and effective anticoagulation if rapid atrial fibrillation, treatment of a hypertensive attack;\n\n- systematic preventive anticoagulation.\n\n- If there is no reply,\n\no CPAP ventilation (continuous positive airway pressure).\n\no If signs of acute respiratory failure and respiratory exhaustion persist: nasotracheal intubation and invasive ventilation.\n\n\n- With regard to disease-modifying treatments\n\no Beta-blocker treatment to be introduced at a distance from the episode of PAO (weaning from oxygen)\n\no ACE inhibitors can be started rapidly, particularly if hypertension co-exists.",
+  "question": {
+    "properties": {
+      "question": "What is the recommended initial treatment for a patient with acute pulmonary oedema (PAO) who is a hypertensive patient?",
+      "option_a": "Oxygen therapy by nasal tube or mask, target Sa02 > 90%",
+      "option_b": "Beta-blocker treatment to be introduced at a distance from the episode of PAO",
+      "option_c": "ACE inhibitors can be started rapidly, particularly if hypertension co-exists",
+      "option_d": "Invasive ventilation and nasotracheal intubation",
+      "correct_option": "option_a"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

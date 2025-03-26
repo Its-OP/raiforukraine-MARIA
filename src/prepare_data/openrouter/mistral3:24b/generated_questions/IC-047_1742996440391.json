@@ -1,0 +1,12 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-04-A\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic anomalies, visual, hearing and dental disorders. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=A\n|Title=Knowing systematic screening for visual disorders\n|Description=Recommended ophthalmological examinations in children.\n|Rubric=Definition\n|Contributors=Elise Launay\n|Order=4}}\n\nSystematic eye check at birth, 2 months, 4 months, between 9 and 24 months, 2-3 years, 5 years (6th<sup>year</sup>)\n\nVery frequent anomalies: 1 in 5 children under 6 years of age",
+  "question": {
+    "question": "At what ages are systematic eye checks recommended for children, according to standard guidelines?",
+    "option_a": "At birth, 3 months, 6 months, 1 year, 2 years, and 5 years",
+    "option_b": "At birth, 2 months, 4 months, 9 months, 2 years, and 5 years",
+    "option_c": "At birth, 2 months, 4 months, between 9 and 24 months, 2-3 years, and 5 years",
+    "option_d": "At birth, 1 month, 3 months, 6 months, 1 year, and 4 years",
+    "correct_option": "C"
+  }
+}

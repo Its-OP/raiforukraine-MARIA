@@ -1,0 +1,12 @@
+{
+  "folder": "IC-353",
+  "content": "{{knowledge objective\n|Identifiant=OIC-353-07-B\n|Item_parent=Suicidal risk and behaviour in children, adolescents and adults: identification and management\n|Item_parent_short=Suicidal risk and behaviour in children, adolescents and adults: identification and management\n|Rank=B\n|Intitul\u00e9=Aborder le patient suicidaire, conna\u00eetre les principes de l'entretien\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=7}}\nThe interview should take place in a quiet, face-to-face setting. Confidentiality must be guaranteed.\n\nSystematic suicide risk assessment.\n\n*address suicidal thoughts directly, for example: \"Are you suffering to the point of having suicidal thoughts?\n*identify possible support from family and friends. Contact with the family/significant others, while respecting medical confidentiality, regardless of the treatment proposed.\n\nSuicidal behaviour = psychiatric emergency. '''Do not trivialise'''\n\nPatients should feel free to express their experiences and ideas.",
+  "question": {
+    "question": "When conducting an interview with a suicidal patient, which of the following principles should be followed?",
+    "option_a": "The interview should be conducted over the phone to ensure convenience and accessibility.",
+    "option_b": "The interview should be conducted in a noisy environment to keep the patient alert.",
+    "option_c": "The interview should take place in a quiet, face-to-face setting, and confidentiality must be guaranteed.",
+    "option_d": "The patient should be encouraged to avoid discussing their suicidal thoughts to prevent them from becoming more distressed.",
+    "correct_option": "C"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-201",
+  "content": "{{knowledge objective\n|Identifiant=OIC-201-09-B\n|Item_parent=Organ transplants: epidemiological and immunological aspects; principles of treatment and monitoring; complications and prognosis; ethical and legal aspects. Organ procurement and legislation\n|Item_parent_short=Organ transplants: epidemiological and immunological aspects; principles of treatment and monitoring; complications and prognosis; ethical and legal aspects. Organ procurement and legislation\n|Rank=B\n|Title=Knowing the diagnostic particularities of encephalic death; The donor with a stopped heart.\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Dany Anglicheau\n|Order=9}}\n\n===A.    Diagnostic features of encephalic death are based on:===\n\n*clinical criteria:\n**Total absence of consciousness and spontaneous motor activity;\n**Abolition of all brainstem reflexes;\n**Total absence of spontaneous ventilation verified by a hypercapnia test.\n*and paraclinical criteria:\n**2 null and reactive electroencephalograms for 30 minutes performed 4 hours apart;\n**or cerebral angiography showing cessation of encephalic circulation.\n\n<br />\n\n===B.    The donor with a stopped heart===\nFrench law authorises donation \"from a deceased person in persistent cardiac and respiratory arrest\". These are known as deceased donors after circulatory arrest (DDAC).\n\nA distinction is made between :\n\n*donors who have suffered an \"uncontrolled\" out-of-hospital cardiac arrest;\n*donors who have suffered circulatory arrest in intensive care following a decision to stop active treatment.\n\n\nOnce proof of death has been obtained by recording an electrocardiogram lasting 5 minutes without QRS complexes or with agonic complexes < 5 per minute, a death report is drawn up, enabling the National Refusal Register (RNR) to be queried immediately, which is compulsory before any organ retrieval procedure can begin.",
+  "question": {
+    "question": "Which of the following is a key diagnostic criterion for encephalic death?",
+    "option_a": "The presence of spontaneous motor activity and brainstem reflexes.",
+    "option_b": "A single reactive electroencephalogram performed within 24 hours.",
+    "option_c": "Total absence of consciousness, spontaneous motor activity, and brainstem reflexes, along with two null and reactive electroencephalograms performed 4 hours apart.",
+    "option_d": "A cerebral angiography showing active encephalic circulation.",
+    "correct_option": "C"
+  }
+}

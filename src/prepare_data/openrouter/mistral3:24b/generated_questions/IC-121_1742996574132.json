@@ -1,0 +1,12 @@
+{
+  "folder": "IC-121",
+  "content": "{{knowledge objective\n|Identifiant=OIC-121-04-B\n|Item_parent=Psychological disability (see items 56 and 118)\n|Item_parent_short=Psychological disability (see item 56 and 118)\n|Rank=B\n|Title=Knowing the principles of psychosocial rehabilitation\n|Description=Notion of recovery Professionals and structures involved\n|Rubric=Taking charge\n|Contributors=Fabrice Berna,Pierre Vandel\n|Order=4}}\nPsychosocial rehabilitation covers interventions that enable people to guarantee or improve access to a social and civic life.\n\nVarious social measures exist to facilitate access to housing, work, financial aid and social life.\n\n'''Housing'''\n\nDepending on the patient's level of autonomy and the availability of existing aids, they may be able to live independently in their own home (or even with their family) without needing any assistance.\n\nHousing assistance can take the form of\n\n- therapeutic or community flats,\n\n- social support services (SAVS) or medical-social support services for disabled adults (SAMSAH),\n\n- home visits and/or household help\n\n- collective accommodation establishments (foyers de vie, foyers d'accueil sp\u00e9cialis\u00e9s, foyers d'accueil m\u00e9dicalis\u00e9) when independent housing is not possible\n\n'''Work'''\n\nIf work in an ordinary environment is possible, recognition as a disabled worker (RQTH) may be offered.\n\nIf it is not possible to work in an ordinary environment, sheltered employment may be offered: establishment and service d'aide par le travail, adapted company.\n\nIf employment is not possible, an allowance for disabled adults (AAH) or an invalidity pension (if the patient has already worked) may be claimed.\n\n'''Social life'''\n\nMutual aid groups (GEMs) aim to combat the isolation of people with psychiatric disorders. They are self-managed and funded by the ARS.\n\nThe participation of users in various commissions and public bodies is increasingly encouraged.\n\nThe aim of peer support is to enable people with personal experience of psychiatric disorders to support the recovery process of other people with psychiatric disorders, including in hospital settings.",
+  "question": {
+    "question": "Which of the following is NOT a form of housing assistance in psychosocial rehabilitation?",
+    "option_a": "Therapeutic or community flats",
+    "option_b": "Home visits and/or household help",
+    "option_c": "Sheltered employment",
+    "option_d": "Collective accommodation establishments",
+    "correct_option": "C"
+  }
+}

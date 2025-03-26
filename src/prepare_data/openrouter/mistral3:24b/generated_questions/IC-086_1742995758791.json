@@ -1,0 +1,12 @@
+{
+  "folder": "IC-086",
+  "content": "{{knowledge objective\n|Identifiant=OIC-086-05-A\n|Item_parent=Eyelid pathology\n|Item_parent_short=Eyelid pathology\n|Rank=A\n|Title=Recognising a chalazion\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=5}}\n'''Chalazion='''' inflammatory granuloma developed on an engorged meibomian gland within the tarsus, by occlusion of the gland orifice at the posterior part of the free edge.\n\nMost of the time, there is no infection and the secretions contained in the chalazion are purely sebaceous. It may present clinically as a painful swelling of the eyelid, with no communication with the free margin.\n\nDepending on the case, the swelling is more visible on the conjunctival or cutaneous side of the eyelid. It may last longer than a stye, up to several weeks.",
+  "question": {
+    "question": "What is a chalazion?",
+    "option_a": "An infection of the eyelash follicle",
+    "option_b": "A granuloma formed by the occlusion of a meibomian gland",
+    "option_c": "A viral infection of the eyelid",
+    "option_d": "A bacterial infection of the sebaceous glands in the eyelid",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-032",
+  "content": "{{knowledge objective\n|Identifiant=OIC-032-03-B\n|Item_parent=Assessment and care of the newborn at term\n|Item_parent_short=Assessment and care of the newborn at term\n|Rank=B\n|Title=Knowing how to care for the newborn in the delivery room\n|Description=Initial care of the newborn in the delivery room\n|Rubric=Positive diagnosis\n|Contributors=Guillaume Mortamet\n|Order=3}}\n\n# Systematic care''' - clamping and cutting the cord; - prevention of hypothermia (drying, cap); - skin-to-skin contact with the mother if the condition of the newborn and the mother allow it; - breastfeeding during the first hour if breastfeeding is desired''(Management of normal and difficult breastfeeding)''' ;  - assessment of the Apgar score; - clinical examination with weight, height and head circumference '''(Abnormalities of growth in height and weight)'''; - cord care (check for the presence of two umbilical arteries and a vein); - administration of vitamin K1 '';'' - fitting of identification bracelets.\n# '''Care depending on the context'''\n\n- resuscitation manoeuvres in the event of poor adaptation to extra-uterine life (ineffective or absent respiratory movements, bradycardia) ('''[[Acute Respiratory Distress SD-160|Respiratory Distress]] acute)'''.\n\n- eye disinfection with antibiotic eye drops if parents have a history of or risk factor for sexually transmitted infection;\n\n- search for choanal atresia in case of inspiratory dyspnoea ('''[[Acute respiratory distress SD-160|Respiratory distress]]] acute)''' ;\n\n- carry out a syringe test to rule out oesophageal atresia if there are antenatal signs (hydramnios, congenital malformation) or postnatal signs (hypersialorrhoea associated with difficulty breathing).\n\n<br />",
+  "question": {
+    "question": "Which of the following is the primary purpose of administering vitamin K1 to a newborn in the delivery room?",
+    "option_a": "To prevent hypothermia",
+    "option_b": "To stimulate early breastfeeding",
+    "option_c": "To prevent bleeding disorders",
+    "option_d": "To assess the Apgar score",
+    "correct_option": "C"
+  }
+}

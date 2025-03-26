@@ -1,0 +1,22 @@
+{
+  "folder": "IC-136",
+  "content": "{{knowledge objective\n|Identifiant=OIC-136-12-B\n|Item_parent=Local, locoregional and general anaesthesia\n|Item_parent_short=Local, locoregional and general anaesthesia\n|Rank=B\n|Title=Early rehabilitation after surgery (RAC) and ambulatory surgery\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=12}}\nAmbulatory surgery is defined as all surgical or medical, diagnostic or therapeutic procedures carried out under the technical safety conditions of an operating theatre, under variable anaesthesia and with no increased risk for the patient, enabling patients to be discharged on the same day as their admission, without overnight accommodation. In order to ensure the safety of this care, the selection criteria used to validate outpatient care must be assessed prior to surgery (\"''[[Information and monitoring of a patient undergoing outpatient surgery SD-356|information and monitoring of a patient undergoing outpatient surgery]'').\n\nAmbulatory surgery is part of the more global concept of early rehabilitation after surgery (RAC), which is a comprehensive approach to patient care that ''promotes early recovery of the patient's abilities after surgery''. The key points of an EPR are :\n\n* informing patients and training them in the process\n* anticipate the organisation of care and the patient's discharge\n* reduce the consequences of surgical stress\n* controlling pain in all situations\n* encouraging and stimulating patient autonomy",
+  "question": {
+    "properties": {
+      "question": "What is the primary goal of early rehabilitation after surgery (RAC)?",
+      "option_a": "To reduce the risk of complications in the operating theatre",
+      "option_b": "To ensure the patient's safety and comfort during the recovery process",
+      "option_c": "To increase the patient's risk of complications and discomfort",
+      "option_d": "To provide additional medical treatment for the patient's condition",
+      "correct_option": "option_b"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d"
+    ],
+    "type": "string"
+  }
+}

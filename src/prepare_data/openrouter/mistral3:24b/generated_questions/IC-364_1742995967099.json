@@ -1,0 +1,12 @@
+{
+  "folder": "IC-364",
+  "content": "{{knowledge objective\n|Identifiant=OIC-364-07-A\n|Item_parent=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Item_parent_short=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Rank=A\n|Title=Knowing the indication for imaging examinations for fractures in children\n|Description=None\n|Rubric=Additional examinations\n|Contributors=\n|Order=7}}\nKnow how to request a frontal and lateral X-ray adapted to the anatomical region where the lesion has been located. There is no indication to carry out a comparative radiography except in exceptional cases of persistent doubt and after specialist advice on a bone lesion on the initial film homolateral to the lesion. Be aware that epiphyses are cartilaginous in children, and that ultrasound or MRI can be used to help diagnose the lesion.",
+  "question": {
+    "question": "When evaluating a suspected fracture in a child, which of the following imaging techniques is typically NOT indicated as a first-line examination?",
+    "option_a": "Frontal and lateral X-ray adapted to the anatomical region",
+    "option_b": "Comparative radiography of the homolateral bone",
+    "option_c": "Ultrasound",
+    "option_d": "MRI",
+    "correct_option": "B"
+  }
+}

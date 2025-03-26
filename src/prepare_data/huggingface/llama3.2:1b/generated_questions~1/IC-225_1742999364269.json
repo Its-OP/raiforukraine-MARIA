@@ -1,0 +1,22 @@
+{
+  "folder": "IC-225",
+  "content": "{{knowledge objective\n|Identifiant=OIC-225-13-A\n|Item_parent=Arteriopathy of the aorta, visceral arteries and lower limbs; aneurysms\n|Item_parent_short=Arteriopathy of the aorta, visceral arteries and lower limbs; aneurysms\n|Rank=A\n|Title=How to diagnose abdominal aortic aneurysms\n|Description=None\n|How to diagnose abdominal aortic aneurysms\n|Contributors=Christian Boissier, Anne Long, Lucie Salomon Du Mon\n|Order=13}}\n\nThe diagnosis may be suspected clinically on abdominal palpation showing a ''flapping and expansive para-umbilical mass'' ''(''SD-008: [[Abdominal Mass SD-008|abdominal mass]]''''') in lean subjects or if the AAA is bulky.\n\nExaminations are carried out according to the clinical context ('''''[[A patient's request for explanations about the procedure, risks and expected benefits of an imaging examination]]''''').\n\n*'''' Abdominal ultrasound is used to screen and monitor asymptomatic AAA. It gives the value of the maximum diameter and enables the growth of the AAA to be monitored;\n*Thoracic-abdominal-pelvic CT with injection of iodinated contrast is the reference pre-therapeutic examination (in the absence of contraindication: renal insufficiency, allergy to contrast products). It determines the diameter of the aneurysm and its extent in relation to the renal and iliac arteries. The length of the aneurysm and the presence of endoluminal thrombus do not affect its management. It diagnoses associated iliac and thoracic aneurysms. '''A CT scan must be performed as a matter of urgency in the event of a painful aneurysm or suspected rupture; (''[[A patient's request for an explanation of the procedure, risks and expected benefits of an imaging examination]]'')'''\n*l''''IRM''' can replace CT angiography in the event of contraindication;\n*arteriography is no longer indicated for diagnosis.",
+  "question": {
+    "properties": {
+      "question": "What is the recommended imaging modality for diagnosing abdominal aortic aneurysms?",
+      "option_a": "Abdominal ultrasound",
+      "option_b": "Thoracic-abdominal-pelvic CT with iodinated contrast",
+      "option_c": "MRI",
+      "option_d": "Arteriography",
+      "correct_option": "option_b"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

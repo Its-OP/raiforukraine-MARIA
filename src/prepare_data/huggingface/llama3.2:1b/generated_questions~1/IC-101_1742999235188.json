@@ -1,0 +1,46 @@
+{
+  "folder": "IC-101",
+  "content": "{{knowledge objective\n|Identifiant=OIC-101-13-B\n|Item_parent=Facial paralysis\n|Item_parent_short=Facial paralysis\n|Rank=B\n|Intitle=Clinical iconography of a typical example of a parotid tumour complicated by PFP\n|Description=Visualisation of parotid tumour invasion suggesting tumour-induced PFP\n|Rubric=Multimedia content\n|Contributors=\n|Order=13}}\nPlease refer to the CEN website: www.cen-neurologie.fr where videos are available.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the typical presentation of a parotid tumour complicated by Parotid Fluid Pressure (PFP)?",
+        "description": "Visualisation of parotid tumour invasion suggesting tumour-induced PFP",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "A large, firm mass in the parotid gland",
+        "description": "A large, firm mass in the parotid gland, often with a well-defined border",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "A painless, slowly enlarging mass",
+        "description": "A painless, slowly enlarging mass, often with a fluctuant texture",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "A fluctuant mass with a well-defined border",
+        "description": "A fluctuant mass with a well-defined border, often with a soft texture",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "A firm, movable mass",
+        "description": "A firm, movable mass, often with a well-defined border",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A large, firm mass in the parotid gland",
+        "description": "A large, firm mass in the parotid gland, often with a well-defined border",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

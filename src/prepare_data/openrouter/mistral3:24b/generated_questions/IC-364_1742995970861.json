@@ -1,0 +1,12 @@
+{
+  "folder": "IC-364",
+  "content": "{{knowledge objective\n|Identifiant=OIC-364-08-B\n|Item_parent=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Item_parent_short=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Rank=B\n|Title=Know the principles of management of fractures in children\n|Description=Know the risks of cast immobilisation\n|Rubric=Management\n|Contributors=\n|Order=8}}\nTo know the therapeutic principles of fractures in children: orthopaedic treatment and its monitoring, surgical treatment and its monitoring. Know that osteosynthesis in children differs from that in adults. Know that the growth plate must be rigorously preserved during osteosynthesis in children. Know that plaster cast immobilisation is well tolerated in children and that it is also used after osteosynthesis. Know that there is no indication for physiotherapy after plaster cast immobilisation for fractures in children.",
+  "question": {
+    "question": "Which of the following is a correct principle regarding the management of fractures in children?",
+    "option_a": "Physiotherapy is always indicated after plaster cast immobilisation for fractures in children.",
+    "option_b": "The growth plate must be rigorously preserved during osteosynthesis in children.",
+    "option_c": "Plaster cast immobilisation is poorly tolerated in children.",
+    "option_d": "Osteosynthesis in children is identical to that in adults.",
+    "correct_option": "B"
+  }
+}

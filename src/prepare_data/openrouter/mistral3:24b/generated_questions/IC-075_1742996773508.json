@@ -1,0 +1,12 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-11-A\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=A\n|Title=Knowing how tobacco is used\n|Description=Know\n|Rubric=Epidemiology\n|Contributors=\n|Order=11}}\n\n\n* '''Slight decrease in overall smoking (2017: 31.8% / 2018: 32%)''''\n** decrease in daily smoking (2017: 26.9% / 2018: 25.4%)\n** increase in occasional smoking (2017: 4.9% / 2018: 6.6%)",
+  "question": {
+    "question": "According to the data provided, what trend is observed in smoking habits between 2017 and 2018?",
+    "option_a": "There was a significant increase in overall smoking.",
+    "option_b": "There was a slight decrease in overall smoking and a decrease in daily smoking.",
+    "option_c": "There was a significant increase in daily smoking.",
+    "option_d": "There was a decrease in both daily and occasional smoking.",
+    "correct_option": "B"
+  }
+}

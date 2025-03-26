@@ -1,0 +1,12 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-11-A\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=A\n|Title=Knowing how to interpret a growth curve\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=11}}\n \n\n\nCalculate annual growth rate, measure BMI\n\n<br />",
+  "question": {
+    "question": "What is the primary purpose of interpreting a growth curve in pediatric medicine?",
+    "option_a": "To predict the child's final adult height",
+    "option_b": "To diagnose and monitor growth disorders",
+    "option_c": "To determine the child's nutritional status",
+    "option_d": "To assess the child's cognitive development",
+    "correct_option": "B"
+  }
+}

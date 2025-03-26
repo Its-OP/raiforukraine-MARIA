@@ -1,0 +1,12 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-25-B\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=B\n|Title=Know the different clinical presentations of secondary syphilis (neurological forms in particular).\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=25}}\nLinked to systemic dissemination of treponema. A \"blooming\" rash that progresses in flare-ups.\n\n\n- Syphilitic roseola: 1st secondary syphilis rash, 6 weeks after the chancroid, pinkish macules on the trunk, no other functional symptoms\n\n\n- Syphilis :\n\n- Papular: monomorphic, copper-coloured papules, variable number and location\n\n- Palmoplantar: very suggestive ++, copper-coloured erythematous papules on palms and soles, inconstant\n\n- Genital and perineal: painless, non-itchy, multiple, soft, papular/erosive, contagious +++.\n\n\n- Other cutaneous symptoms: false perlchea, acneiform papules on the chin, mown patches on the tongue, depilation of the eyebrows, etc.\n\n\n- General and extra-cutaneous-mucosal signs: fever, headaches, poly-ADP, poly-arthralgias, neurosyphilis (ophthalmological manifestations, hypoacusis, tinnitus, facial paralysis, meningitis, etc.).",
+  "question": {
+    "question": "Which of the following is a characteristic of the papular form of secondary syphilis?",
+    "option_a": "Pinkish macules on the trunk with no other functional symptoms",
+    "option_b": "Copper-coloured papules that are monomorphic and variable in number and location",
+    "option_c": "Painful, itchy, and multiple papules on the genital and perineal areas",
+    "option_d": "Erythematous papules specifically on the palms and soles",
+    "correct_option": "B"
+  }
+}

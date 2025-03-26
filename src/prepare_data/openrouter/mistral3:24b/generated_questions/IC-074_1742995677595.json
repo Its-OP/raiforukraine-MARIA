@@ -1,0 +1,12 @@
+{
+  "folder": "IC-074",
+  "content": "{{knowledge objective\n|Identifiant=OIC-074-11-A\n|Item_parent=Prescription and monitoring of psychotropic drugs (see item 330)\n|Item_parent_short=Prescription and monitoring of psychotropic drugs (see item 330)\n|Rank=A\n|Intitle=Antidepressants: knowing the frequent or serious adverse effects, main drug interactions\n|Description=None\n|Heading=Management\n|Contributors=Louise Carton,Florian Naudet,Marie Tournier\n|Order=11}}\n\n==Undesirable effects==\nThe ''most frequent'' side effects (digestive effects, tremors, etc.) are, for the most part :\n\n*early onset (at the start of treatment or after an increase in dosage),\n*dose-dependent,\n*and \"transient\".\n\nSexual disorders are possible and potentially persistent.\nIn the \"elderly\": monitoring of natraemia and balance.\n\nPsychiatric adverse reactions:\n\n*Manic mood swings (manic or mixed symptoms);\n*Suicidal ideation (in patients under 24).\n*Lifting of inhibition: an improvement in psychomotor inhibition may occur before a thymic improvement at the start of treatment.\n\n==Serotonin syndrome: a rare but serious effect==\n\n*Digestive symptoms: nausea, diarrhoea;\n*Neurological symptoms: confusion, agitation, tremors, myoclonus, muscular rigidity, hyperreflexia, motor incoordination, mydriasis, akathisia, hallucinations;\n*Neurovegetative symptoms: tachycardia, polypnoea, dyspnoea, hyperthermia, sweating, high or low blood pressure;\n\nTreatment: transfer to intensive care, discontinuation of medication, fluid and electrolyte balance, fever control.\n\n==Drug interactions==\nThe main drug interactions are :\n\n*Risk of serotonin syndrome (particularly with MAOIs) if several antidepressants are combined, or if antidepressants are combined with lithium, or if antidepressants are combined with lithium;\n*Risk of serotonin syndrome (particularly with MAOIs) in the case of a combination of several antidepressants or antidepressants and lithium or antidepressants and triptans.",
+  "question": {
+    "question": "Which of the following is a rare but serious adverse effect associated with antidepressants?",
+    "option_a": "Digestive effects such as nausea and diarrhea",
+    "option_b": "Persistent sexual disorders",
+    "option_c": "Serotonin syndrome",
+    "option_d": "Manic mood swings",
+    "correct_option": "C"
+  }
+}

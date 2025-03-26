@@ -1,0 +1,12 @@
+{
+  "folder": "IC-109",
+  "content": "{{knowledge objective\n|Identifiant=OIC-109-10-B\n|Item_parent=Gait and balance disorders\n|Item_parent_short=Gait and balance disorders\n|Rank=B\n|Title=Knowing how to evoke a somato-functional aetiology when faced with a gait and/or balance disorder.\n|Description=Knowing the gait of depressive and conversive patients\n|Rubric=Etiologies\n|Contributors=\n|Order=10}}\nThe depressive may present a psychomotor slowdown with slowness in walking.\n\nSubjects with a gait disorder of conversive (psychogenic) origin sometimes have a very characteristic presentation with a \"bouncing\" or robotic-looking gait. Diagnosis is usually difficult and requires a thorough knowledge of the clinical expression of the different types of gait disorder. Clues in favour of a psychogenic disorder are :\n\n- sudden onset, spontaneous remission or paroxysmal onset\n\n- time inconsistency\n\n- inconsistency of clinical expression with the characteristics of a disorder\n\nof neurological origin\n\n- spontaneous modification of the disorder, incompatible with the anomaly initially observed\n\n- disappearance of the disorder by distraction manoeuvres. Conversely, the disorder increases when the subject's attention is focused on walking.\n\n- response to placebo, suggestion or psychotherapy\n\nThe incongruities that may be noted during the clinical examination and the course of the disease allow the diagnosis to be evoked, while avoiding considering as psychogenic a somatic disorder whose origin is considered to be \"organic\".",
+  "question": {
+    "question": "Which of the following is a key indicator of a psychogenic (conversive) gait disorder?",
+    "option_a": "Consistent gait pattern that matches known neurological disorders",
+    "option_b": "Gradual onset of symptoms over several months",
+    "option_c": "Disappearance of the disorder when the subject's attention is focused on walking",
+    "option_d": "Disappearance of the disorder by distraction maneuvers",
+    "correct_option": "D"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-247",
+  "content": "{{knowledge objective\n|Identifiant=OIC-247-30-B\n|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Rank=B\n|Title=Know the principles of prevention and treatment of hyperosmolar coma.\n|Description=redundant with question coma ?\n|Rubric=Management\n|Contributors=Claire Briet\n|Order=30}}\n'''<u>TREATMENT</u>'''\n\n* Rehydration 0.9% saline (10% of body weight), slow and careful to avoid centropontic myelinosis and heart failure, then oral rehydration.\n\n* Insulin therapy 0.5 to 1 IU/kg/h but not more than 7 IU/h to achieve blood sugar levels >2.5 g/l\n\n* Potassium supplements as soon as kalemia is < 5 mmol/l :\n\n* Clinical monitoring pulse, BP, temperature, diuresis, consciousness\n\n* Prevention of decubitus complications (caution renal insufficiency: LMWH contraindicated).\n\n'''<u>PREVENTION</u>'''\n\nResumption of the oral hypoglycaemic agent or simplified insulin therapy in the elderly (basal insulin) to allow nursing care at home with glycaemic control and avoid recurrence.",
+  "question": {
+    "question": "Which of the following is a key principle in the prevention of hyperosmolar coma in patients with diabetes?",
+    "option_a": "Administering rapid-acting insulin to achieve blood sugar levels below 1.5 g/l",
+    "option_b": "Using oral hypoglycaemic agents or simplified insulin therapy to allow nursing care at home with glycaemic control",
+    "option_c": "Avoiding rehydration to prevent heart failure and centropontic myelinosis",
+    "option_d": "Monitoring only blood sugar levels and ignoring other clinical parameters",
+    "correct_option": "B"
+  }
+}

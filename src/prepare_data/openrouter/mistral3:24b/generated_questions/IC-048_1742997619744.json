@@ -1,0 +1,12 @@
+{
+  "folder": "IC-048",
+  "content": "{{knowledge objective\n|Identifiant=OIC-048-03-A\n|Item_parent=Food and nutritional requirements of infants and children\n|Item_parent_short=Food and nutritional requirements of infants and children\n|Rank=A\n|Intitle=Exclusive milk-based nutrition: knowing how\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=3}}\nBreastfeeding must be \"on demand\". It should be exclusive until the baby is 4-6 months old. It should be promoted by all healthcare professionals.\n\nMilk formulas are reconstituted by adding 1 measuring spoon of powder to 30 ml of low mineral content or tap water. As with breastfeeding, the volumes prescribed should always be given as a guide, making it clear that they will be adapted to the child's appetite, which varies from day to day and from child to child.\n\nThe bottle can be fed at room temperature. It does not need to be sterilised between feeds.",
+  "question": {
+    "question": "How long should exclusive milk-based nutrition, whether breast milk or formula, be continued for an infant?",
+    "option_a": "Until the baby is 2 months old",
+    "option_b": "Until the baby is 4-6 months old",
+    "option_c": "Until the baby is 1 year old",
+    "option_d": "Until the baby is 9 months old",
+    "correct_option": "B"
+  }
+}

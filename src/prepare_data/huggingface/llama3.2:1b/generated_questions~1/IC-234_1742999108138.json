@@ -1,0 +1,46 @@
+{
+  "folder": "IC-234",
+  "content": "{{knowledge objective\n|Identifiant=OIC-234-15-A\n|Item_parent=Adult heart failure\n|Item_parent_short=Adult heart failure\n|Rank=A\n|Title=Chest radiography of PAO of haemodynamic origin\n|Description=None\n|Rubric=Multimedia content\n|Contributors=Olivier Huttin\n|Order=15}}\n\n[[File:Example of chest film of acute lung oedema.png|vignette|538x538px|Example of chest film of acute lung oedema]]",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary indication for chest radiography in adult heart failure?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Acute pulmonary embolism",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Acute respiratory distress syndrome",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Acute coronary syndrome",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Pulmonary hypertension",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Acute pulmonary embolism",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "folder": "IC-239",
+  "content": "{{knowledge objective\n|Identifiant=OIC-239-03-A\n|Item_parent=Acrosyndromes (Raynaud's phenomenon, erythermalgia, acrocyanosis, frostbite, digital ischaemia)\n|Item_parent_short=Acrosyndromes (Raynaud's phenomenon, erythermalgia, acrocyanosis, frostbite, digital ischaemia)\n|Rank=A\n|Heading=Know the clinical features that enable a distinction to be made between primary and secondary Raynaud's phenomenon.\n|Description=terrain, evolution, triggering factors, topography, phases, associated trophic disorders, Allen manoeuvre, other clinical signs of call.\n|Rubric=Positive diagnosis\n|Contributors= Sophie Blaise, Luc Bressollette, Claire Le Hello\n|Order=3}}\n\nThe diagnostic strategy focuses on differentiating between Raynaud's disease (primary RA) and secondary RA. Primary RA is the most common (4 out of 5 cases).\n\nClinical examination, in search of arguments to cast doubt on the primary origin of the RA. The clinical features that raise the suspicion of secondary RA are :\n\n*male sex;\n* onset after the age of 40\n* absence of summer remission;\n* no family history of RA;\n* Involvement of the thumbs;\n* unilateral;\n*digital ulcers (or retractile scars ('''''[[Abnormal scar SD-083|abnormal scar]]''''') of digital ulcers ('''''[[Skin ulcer SD-092|skin ulcer]])''''' ;\n* abolition of a pulse ;\n*a pathological Allen manoeuvre.\n\nAs well as:\n\n- clinical features suggestive of scleroderma: telangiectasia, sclerodactyly, subcutaneous calcinosis, pyrosis, etc.\n\n- occupational exposure to vibrating machinery or repetitive hand trauma '''''([[Pr\u00e9vention des risques professionnels SD-315|prevention of occupational risks]]'')'',\n\n- iatrogenic effects of a drug or toxic treatment (e.g. tryptans, \u03b2-blockers, clonidine....) ( '''''[[Voluntary or involuntary intake of a toxic or potentially toxic drug SD-340|voluntary or involuntary intake of a toxic or potentially toxic drug]]; [[Suspicion of an adverse drug reaction or care SD-348|suspicion of an adverse drug reaction or care]]'').'''''",
+  "question": {
+    "properties": {
+      "question": "What is the primary difference between Raynaud's disease (primary RA) and secondary Raynaud's phenomenon?",
+      "option_a": "Primary Raynaud's disease is more common than secondary Raynaud's phenomenon.",
+      "option_b": "Primary Raynaud's disease is characterized by the presence of digital ulcers, while secondary Raynaud's phenomenon is not.",
+      "option_c": "Primary Raynaud's disease is more likely to occur in males, while secondary Raynaud's phenomenon is more common in females.",
+      "option_d": "Primary Raynaud's disease is typically associated with occupational exposure to vibrating machinery, while secondary Raynaud's phenomenon is not.",
+      "correct_option": "option_b"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

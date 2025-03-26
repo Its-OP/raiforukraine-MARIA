@@ -1,0 +1,12 @@
+{
+  "folder": "IC-260",
+  "content": "{{knowledge objective\n|Identifiant=OIC-260-08-A\n|Item_parent=Hematuria\n|Item_parent_short=Hematuria\n|Rank=A\n|Title=Photographs of a urine dipstick\n|Description=None\n|Rubric=Multimedia content\n|Contributors=Charles Dariane, Bruno Moulin\n|Order=8}}\n\n<br />\n[[File:Fig 4 BU temoin avec boitier.jpg|gauche|vignette|573x573px|<big>'''Figure 4'''. Control urine dipstick.</big>]]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<br />\n[[File:Fig 5 BU hematuria.jpg|alt=- Figure 5. Urine dipstick demonstrating haematuria (3 crosses +++).|vignette|574x574px|<big>'''Figure 5.'''' Urine dipstick demonstrating haematuria (3 crosses +++).</big>|left]]\n<br />",
+  "question": {
+    "question": "What does a urine dipstick with three crosses (+++) indicate?",
+    "option_a": "The presence of protein in the urine",
+    "option_b": "The presence of glucose in the urine",
+    "option_c": "The presence of nitrites in the urine",
+    "option_d": "The presence of blood in the urine",
+    "correct_option": "D"
+  }
+}

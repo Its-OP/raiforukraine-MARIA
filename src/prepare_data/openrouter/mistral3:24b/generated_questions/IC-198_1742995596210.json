@@ -1,0 +1,12 @@
+{
+  "folder": "IC-198",
+  "content": "{{knowledge objective\n|Identifiant=OIC-198-14-A\n|Item_parent=Microcrystalline arthropathies\n|Item_parent_short=Microcrystalline arthropathies\n|Rank=A\n|Intitle=Photograph of a clinically detectable tophus (typical)\n|Description=helix, finger pad, toe or foot.\n|Rubric=Multimedia content\n|Contributors=\n|Order=14}}\n<gallery widths=\"400\" heights=\"400\" perrow=\"3\">\nFile:Tophus clinically detectable (typical) .PNG\nFile:Tophus clinically detectable (typical)03.PNG\nFile:Tophus clinically detectable (typical) 02.PNG\n</gallery>",
+  "question": {
+    "question": "Where is a clinically detectable tophus typically found?",
+    "option_a": "On the elbow",
+    "option_b": "On the helix, finger pad, toe, or foot",
+    "option_c": "On the knee",
+    "option_d": "On the wrist",
+    "correct_option": "B"
+  }
+}

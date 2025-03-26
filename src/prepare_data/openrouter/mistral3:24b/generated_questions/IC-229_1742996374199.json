@@ -1,0 +1,12 @@
+{
+  "folder": "IC-229",
+  "content": "{{knowledge objective\n|Identifiant=OIC-229-03-A\n|Item_parent=Venous access monitoring and complications\n|Item_parent_short=Venous access monitoring and complications\n|Rank=A\n|Title=Knowing the technique for inserting a peripheral venous line\n|Description=Link to a video filming and explaining the insertion of a VVP\n|Topic=Management\n|Contributors= Philippe Lacroix, Simon Rickenbach\n|Order=3}}\n[https://videotheque.uness.fr/w/8kikHuJrr7kTcLQJ4QuY7y Learn how to insert a peripheral venous line]",
+  "question": {
+    "question": "What is the first step in inserting a peripheral venous line?",
+    "option_a": "Clean the insertion site with an antiseptic solution",
+    "option_b": "Apply a tourniquet to the arm",
+    "option_c": "Insert the needle at a 45-degree angle",
+    "option_d": "Check the patient's pulse",
+    "correct_option": "a"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-134",
+  "content": "{{knowledge objective\n|Identifiant=OIC-134-01-A\n|Item_parent=Neurophysiological bases, physiopathological mechanisms of acute and chronic pain\n|Item_parent_short=Neurophysiological bases, pathophysiological mechanisms of acute and chronic pain\n|Rank=A\n|Title=Knowing the WHO definition of pain\n|Description=None\n|Rubric=Definition\n|Contributors=Bouhassira Didier\n|Order=1}}\n\n\n- Pain is currently defined (International Association for the Study of Pain) as: '''a sensory and emotional experience associated with, or resembling that associated with, actual or potential tissue damage'''.\n\n- This definition is accompanied by the following comments (Table):\n{| class=\"wikitable\"\n|- Pain is always a personal experience ''influenced to varying degrees by biological, psychological, social and environmental factors.''\n\n- '''Pain and nociception are two distinct phenomena.''' The presence of pain cannot be deduced solely from the activity of sensory neurons.\n\n- Over the course of their lives, individuals learn the concept of pain*.\n\n- Although pain can play an adaptive role, it can also have deleterious effects on social and psychological function and well-being.\n\n- '''The verbal description of pain is only one of the ways in which pain is expressed; the inability to communicate does not exclude the possibility that a human or an animal may feel pain'''\n|}\n''* Refers to the notion of pain as a \"learned\" or conditioned concept''\n\n- Chronic pain is generally defined as ''persistent or recurrent pain for at least 3 months and 2 months for chronic post-operative pain''.\n\n<br />",
+  "question": {
+    "question": "According to the International Association for the Study of Pain, what is the definition of pain?",
+    "option_a": "A purely physical sensation resulting from actual tissue damage",
+    "option_b": "A sensory and emotional experience associated with, or resembling that associated with, actual or potential tissue damage",
+    "option_c": "A condition that can only be diagnosed through neurological tests",
+    "option_d": "An exclusively psychological response to perceived threats",
+    "correct_option": "B"
+  }
+}

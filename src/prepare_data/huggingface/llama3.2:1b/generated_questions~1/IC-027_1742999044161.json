@@ -1,0 +1,46 @@
+{
+  "folder": "IC-027",
+  "content": "{{knowledge objective\n|Identifiant=OIC-027-33-A\n|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Rank=A\n|Title=Vaccines and pregnancy\n|Description=Vaccines authorised or not during pregnancy\n|Rubric=Management\n|Contributors=Alexandre Vivanti, Philippe Deruelle\n|Ordre=33}}\nThe flu vaccine is recommended for pregnant women, particularly those at risk (diabetics, obese women).\n\nVaccines available at any stage of pregnancy\n\n- Inactivated vaccines: tetanus, diphtheria (reduced valency), hepatitis A and B, meningococcus, pneumococcus\n\n- Live attenuated vaccines: yellow fever if travel to an endemic area cannot be postponed\n\nVaccines that are theoretically contraindicated during pregnancy are derived from live attenuated agents: measles, mumps, rubella (MMR), varicella, BCG, rotavirus.\n\nVaccines whose safety during pregnancy has not been proven: cholera, typhoid (except if you are staying in a high-risk area).\n\nThe mRNA vaccines (COVID-19) are currently being evaluated in pregnant women.\n\nSpecial case of whooping cough (inactivated vaccine) authorised in certain European countries but not yet in France: In the event of vaccination during pregnancy: reassure the patient.\n\n'''312. [[Prevention of foetal risks SD-312|Prevention of foetal risks]]''''\n\n'''340 [[Voluntary or involuntary intake of a toxic or potentially toxic drug SD-340|Voluntary or involuntary intake of a toxic or potentially toxic drug]]''''\n\n'''348. [Suspicion of an adverse drug reaction or an adverse drug treatment SD-348|Suspicion of an adverse drug reaction or an adverse drug treatment]'''''\n\n'''352. [[Explaining treatment to the patient (adult/child/adolescent) SD-352|Explaining treatment to the patient (adult/child/adolescent)]]'''''",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the recommended vaccination schedule for pregnant women?",
+        "description": "Vaccines authorised or not during pregnancy",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Pregnant women should receive all available vaccines",
+        "description": "Vaccines that are theoretically contraindicated during pregnancy",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Pregnant women should receive only inactivated vaccines",
+        "description": "Vaccines whose safety during pregnancy has not been proven",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Pregnant women should receive all available vaccines, including live attenuated vaccines",
+        "description": "Vaccines that are derived from live attenuated agents",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Pregnant women should receive only live attenuated vaccines",
+        "description": "Vaccines whose safety during pregnancy has not been proven",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Inactivated vaccines",
+        "description": "Vaccines that are theoretically contraindicated during pregnancy",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

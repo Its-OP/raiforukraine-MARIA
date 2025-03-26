@@ -1,0 +1,12 @@
+{
+  "folder": "IC-263",
+  "content": "{{knowledge objective\n|Identifiant=OIC-263-02-A\n|Item_parent=Vascular nephropathy\n|Item_parent_short=Vascular nephropathy\n|Rank=A\n|Title=Know the definition of thrombotic microangiopathy syndrome\n|Description=None\n|Rubric=Definition\n|Contributors=Jean-Jacques Boffa\n|Order=2}}\n\nThe MAT syndrome meets a biological definition combining :\n\n* haemolytic anaemia (collapsed haptoglobin, elevated LDH), mechanical type (presence of schizocytes);\n* consumption thrombocytopenia;\n* associated with one or more organ dysfunctions.\n\n\nHistologically, it corresponds to the thrombotic microangiopathy lesion.",
+  "question": {
+    "question": "Which of the following is a key biological definition of thrombotic microangiopathy syndrome (TMA)?",
+    "option_a": "Presence of elevated haptoglobin and reduced LDH levels with organ dysfunction",
+    "option_b": "Haemolytic anaemia with collapsed haptoglobin, elevated LDH, and consumption thrombocytopenia associated with organ dysfunction",
+    "option_c": "Elevated platelet count and reduced LDH levels with mechanical haemolysis",
+    "option_d": "Presence of schizocytes and elevated haptoglobin with normal organ function",
+    "correct_option": "B"
+  }
+}

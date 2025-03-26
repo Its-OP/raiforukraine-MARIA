@@ -1,0 +1,12 @@
+{
+  "folder": "IC-109",
+  "content": "{{knowledge objective\n|Identifiant=OIC-109-05-A\n|Item_parent=Gait and balance disorders\n|Item_parent_short=Gait and balance disorders\n|Rank=A\n|Title=Know how to diagnose lameness (clinical examination, diagnostic approach)\n|Description=Clinical and video evidence in favour of a lameness in dodging, saluting and Trendelebourg.\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=5}}\nClinical and video evidence in favour of eschewing, saluting and Trendelebourg lameness",
+  "question": {
+    "question": "Which of the following is a clinical sign that can indicate lameness in a patient?",
+    "option_a": "Eschewing",
+    "option_b": "Saluting",
+    "option_c": "Trendelebourg",
+    "option_d": "Hyperflexion",
+    "correct_option": "C"
+  }
+}

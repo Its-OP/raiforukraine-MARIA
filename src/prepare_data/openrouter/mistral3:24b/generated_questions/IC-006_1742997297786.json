@@ -1,0 +1,12 @@
+{
+  "folder": "IC-006",
+  "content": "{{knowledge objective\n|Identifiant=OIC-006-06-A\n|Item_parent=The organisation of clinical practice and the methods that make it possible to secure the patient pathway\n|Item_parent_short=The organisation of clinical practice and the methods which make it possible to secure the patient pathway\n|Rank=A\n|Title=Checklists: understanding the principles and objectives of checklists\n|Description=None\n|Rubric=Definition\n|Contributors=Virginie Migeot\n|Order=6}}\n\nThe '''''check-list \"patient safety in the operating theatre\" helps to \"make safe\" the performance of a surgical operation, by reviewing the situation between professionals at \"key moments\" in the operation. As in aviation, it encourages the \"sharing of information\" by \"cross-checking\", in particular the identity of the patient, the type of operation and the surgical site, the equipment and the risks involved. Other checklists exist in the medical world for so-called \"interventional\" activities (endoscopy, interventional radiology, central venous catheters, chemotherapy, etc.).                              \n\nFigure 3 : Checklist for patient safety in the operating theatre - 2018 version Source HAS\n[[File:Item6 Fig3.png|centric|thumb|812x812px]]\n<br />",
+  "question": {
+    "question": "What is the primary purpose of the 'patient safety in the operating theatre' checklist?",
+    "option_a": "To ensure the availability of all necessary surgical tools",
+    "option_b": "To verify the qualifications of the surgical team",
+    "option_c": "To make safe the performance of a surgical operation by reviewing the situation between professionals at key moments",
+    "option_d": "To schedule the surgical operations for the day",
+    "correct_option": "C"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-027",
+  "content": "{{knowledge objective\n|Identifiant=OIC-027-24-B\n|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Rank=B\n|Title=Knowing the risk of bacterial vaginosis during pregnancy\n|Description=Risk of threatened premature delivery\n|Section=Follow-up and/or prognosis\n|Contributors=Alexandre Vivanti, Philippe Deruelle\n|Order=24}}\nBacterial vaginosis has been suspected of favouring premature delivery. This risk is currently being called into question.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Question",
+        "description": "Risk of premature delivery due to bacterial vaginosis",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Option A: Bacterial vaginosis is a known risk factor for premature delivery",
+        "description": "This statement is supported by scientific evidence",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Option B: Bacterial vaginosis is not a known risk factor for premature delivery",
+        "description": "This statement is not supported by scientific evidence",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Option C: The risk of premature delivery due to bacterial vaginosis is still being studied and debated",
+        "description": "This statement is ambiguous and may be misleading",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Option D: There is no conclusive evidence linking bacterial vaginosis to premature delivery",
+        "description": "This statement is not supported by scientific evidence",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

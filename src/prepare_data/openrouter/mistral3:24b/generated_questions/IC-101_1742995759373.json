@@ -1,0 +1,12 @@
+{
+  "folder": "IC-101",
+  "content": "{{knowledge objective\n|Identifiant=OIC-101-14-B\n|Item_parent=Facial paralysis\n|Item_parent_short=Facial paralysis\n|Rank=B\n|Title=Illustration of the functional anatomy of the facial nerve\n|Description=Visualise the motor, sensitive and secretory innervation of the facial nerve\n|Rubric=Multimedia content\n|Contributors=\n|Order=14}}\nPlease refer to the CEN website: www.cen-neurologie.fr where videos are available.",
+  "question": {
+    "question": "Which of the following best describes the primary function of the facial nerve?",
+    "option_a": "Motor innervation of the muscles of facial expression",
+    "option_b": "Sensory innervation of the anterior two-thirds of the tongue",
+    "option_c": "Secretory innervation of the lacrimal and salivary glands",
+    "option_d": "Motor innervation of the muscles involved in chewing",
+    "correct_option": "A"
+  }
+}

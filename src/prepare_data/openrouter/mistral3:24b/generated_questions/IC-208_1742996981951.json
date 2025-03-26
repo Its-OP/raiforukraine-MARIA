@@ -1,0 +1,12 @@
+{
+  "folder": "IC-208",
+  "content": "{{knowledge objective\n|Identifiant=OIC-208-03-A\n|Item_parent=Chronic respiratory failure\n|Item_parent_short=Chronic respiratory failure\n|Rank=A\n|Title=Knowing the definition of pulmonary hypertension (PH) in adults\n|Description=None\n|Topic=Definition\n|Contributors=\n|Order=3}}\nPulmonary hypertension (PH) is defined as mean pulmonary arterial pressure >20 mmHg and resistance >3 UW measured during right heart catheterisation. When it is secondary to CKD, it is classified in group 3 of PH. It is suspected on cardiac ultrasound by assessment of systolic blood pressure (SBP >35mmHg). Confirmation by right heart catheterisation is rarely indicated in cases of documented CKD.",
+  "question": {
+    "question": "What is the primary diagnostic criterion for pulmonary hypertension (PH) in adults?",
+    "option_a": "Mean pulmonary arterial pressure >25 mmHg and resistance >3 UW measured during right heart catheterisation",
+    "option_b": "Mean pulmonary arterial pressure >20 mmHg and resistance >3 UW measured during right heart catheterisation",
+    "option_c": "Systolic blood pressure (SBP) >35 mmHg assessed by cardiac ultrasound",
+    "option_d": "Mean pulmonary arterial pressure >20 mmHg and resistance >2 UW measured during right heart catheterisation",
+    "correct_option": "B"
+  }
+}

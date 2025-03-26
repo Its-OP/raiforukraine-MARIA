@@ -1,0 +1,12 @@
+{
+  "folder": "IC-086",
+  "content": "{{knowledge objective\n|Identifiant=OIC-086-08-A\n|Item_parent=Eyelid pathology\n|Item_parent_short=Eyelid pathology\n|Rank=A\n|Title=Photography of a stye\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=8}}\n\n[[File:Stye.jpg|vignette|532x532px|Lower eyelid stye]]",
+  "question": {
+    "question": "Which of the following is the most accurate description of a stye?",
+    "option_a": "A stye is a type of cancerous growth on the eyelid.",
+    "option_b": "A stye is a viral infection that affects the cornea.",
+    "option_c": "A stye is a bacterial infection of the sebaceous glands of the eyelid.",
+    "option_d": "A stye is a chronic condition caused by allergies.",
+    "correct_option": "C"
+  }
+}

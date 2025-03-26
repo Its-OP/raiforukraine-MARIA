@@ -1,0 +1,46 @@
+{
+  "folder": "IC-198",
+  "content": "{{knowledge objective\n|Identifiant=OIC-198-04-B\n|Item_parent=Microcrystalline arthropathies\n|Item_parent_short=Microcrystalline arthropathies\n|Rank=B\n|Intitle=Radiography of the wrist: calcification of the triangular ligament of the carpus\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=4}}\n\n\n<gallery widths=\"400\" heights=\"400\">\nFile:X-rays of wrists calcification of the triangular ligament of the carpus.PNG\n</gallery>[https://videotheque.uness.fr/w/bEMzk6YJWVC9Z9EV7RoEkZ 4mn video Imaging Microcrystalline Rheumatism CERF]",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the typical age range for the calcification of the triangular ligament of the carpus in microcrystalline arthropathy?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Young adults",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Middle-aged adults",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Older adults",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Children",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Young adults",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

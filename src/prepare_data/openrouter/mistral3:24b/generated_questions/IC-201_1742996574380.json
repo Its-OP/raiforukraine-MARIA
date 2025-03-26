@@ -1,0 +1,12 @@
+{
+  "folder": "IC-201",
+  "content": "{{knowledge objective\n|Identifiant=OIC-201-02-A\n|Item_parent=Organ transplants: epidemiological and immunological aspects; principles of treatment and monitoring; complications and prognosis; ethical and legal aspects. Organ procurement and legislation\n|Item_parent_short=Organ transplants: epidemiological and immunological aspects; principles of treatment and monitoring; complications and prognosis; ethical and legal aspects. Organ procurement and legislation\n|Rank=A\n|Title=Know the definition of transplanted tissues and organs\n|Description=None\n|Rubric=Definition\n|Contributors=Dany Anglicheau\n|Order=2}}\n\nThe different organs transplanted are :\n\n*Rein\n*Liver\n*Heart\n*Pancreas\n*Lungs\n*Intestines\n\n\nCell and tissue transplants can involve :\n\n*Haematopoietic stem cells\n*Cornea\n*Amniotic membranes\n*bones, tendons, ligaments, menisci\n*Skin\n*Heart valves, arteries and veins",
+  "question": {
+    "question": "Which of the following is NOT typically considered a transplanted organ?",
+    "option_a": "Liver",
+    "option_b": "Cornea",
+    "option_c": "Heart",
+    "option_d": "Pancreas",
+    "correct_option": "B"
+  }
+}

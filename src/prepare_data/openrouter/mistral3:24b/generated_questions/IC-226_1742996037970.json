@@ -1,0 +1,12 @@
+{
+  "folder": "IC-226",
+  "content": "{{knowledge objective\n|Identifiant=OIC-226-07-A\n|Item_parent=Deep vein thrombosis and pulmonary embolism (see item 330)\n|Item_parent_short=Deep vein thrombosis and pulmonary embolism (see item 330)\n|Rank=A\n|Title=Knowing the place and limits of venous echodoppler (DVT, PE)\n|Description=None\n|Section=Additional examinations\n|Contributors=Gilles Pernod, Virginie Dufrost, Guillaume Mah\u00e9\n|Order=7}}\n\n=== '''Venous Doppler ultrasound:''' ===\n\n====== '''If DVT is diagnosed:''' ======\n[[File:Thrombus Echo.jpg|vignette]]\n- [[Reasoned request/prescription and choice of a diagnostic examination SD-178|first-line examination]] to confirm the diagnosis of DVT.\n\n- no contraindication to its use.\n\n- diagnostic criterion: inability to compress the vein.\n\n- Limitations: difficulties in accessing the venous network, for example: obesity, digestive interpositions, external fixator, plaster, wound, pain.\n\n\n\n'''If PE is diagnosed:''''\n\n- allows a diagnosis of PE to be made when there is a proximal, popliteal or suprapopliteal DVT and a clinical suspicion of PE.\n\n- performed as a first-line treatment in cases of suspected PE in pregnant women or subjects with severe renal insufficiency",
+  "question": {
+    "question": "What is the primary diagnostic criterion used in venous Doppler ultrasound to confirm the presence of a deep vein thrombosis (DVT)?",
+    "option_a": "The presence of a visible thrombus in the vein",
+    "option_b": "The ability to compress the vein",
+    "option_c": "The inability to compress the vein",
+    "option_d": "The presence of abnormal blood flow patterns",
+    "correct_option": "C"
+  }
+}

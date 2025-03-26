@@ -1,0 +1,12 @@
+{
+  "folder": "IC-020",
+  "content": "{{knowledge objective\n|Identifiant=OIC-020-04-B\n|Item_parent=Health research methodology\n|Item_parent_short=Health research methodology\n|Rank=B\n|Title=Justification and research problems\n|Description=Defining the arguments useful for justifying a research problem\n|Rubric=Definition\n|Contributors=Julie Berbis (CUESP),Alexandra Rouquette (CIMES),David Hajage (CIMES)\n|Order=4}}\n\nJustifying the usefulness and relevance of a study is based on an analysis of the literature. Useful arguments for defining a research problem:\n\n- '''epidemiological''' (frequency, severity of the health problem studied, risk factors, costs, etc.).\n\n- current state of knowledge'' (plausible pathophysiological hypothesis, low level of evidence from previous studies, contradictory results from studies available in the literature, etc.).\n\nIt is all of these elements which justify the hypothesis put forward \"a priori\" by the researcher (cf. [[Research Hypotheses 2C-020-DE-B02]]) and which he wishes to verify via this study. They are described in the rationale of a clinical study protocol (cf. [[Health research methodology]]), or in the introduction to a scientific article.",
+  "question": {
+    "question": "Which of the following is a key element used to justify the usefulness and relevance of a research problem?",
+    "option_a": "The researcher's personal beliefs and assumptions",
+    "option_b": "The current state of knowledge, including plausible pathophysiological hypotheses and contradictory study results",
+    "option_c": "The funding available for the research",
+    "option_d": "The researcher's previous successful studies in unrelated fields",
+    "correct_option": "B"
+  }
+}

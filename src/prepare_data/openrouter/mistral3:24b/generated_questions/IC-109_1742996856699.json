@@ -1,0 +1,12 @@
+{
+  "folder": "IC-109",
+  "content": "{{knowledge objective\n|Identifiant=OIC-109-09-A\n|Item_parent=Gait and balance disorders\n|Item_parent_short=Gait and balance disorders\n|Rank=A\n|Title=Knowing post-fall syndrome\n|Description=Knowing post-fall syndrome\n|Rubric=Etiologies\n|Contributors=\n|Order=9}}\nPost-fall syndrome includes:\n\n- a ''motor component'' :\n\n- in the armchair, the patient tends to retropelate and is unable to move into antepulsion;\n\n- Standing, the gait is heeling, with a widening of the support polygon and bending of the knees;\n\n- a ''psychological component'': this takes the form of major anxiety; the patient is afraid of the previous emptiness; at its most severe, the condition is known as astasia-abasia;\n\n- psychomotor regression syndrome'': this can complicate the post-fall syndrome with the appearance of a search for dependence (clinophilia, incontinence, help with meals);\n\n- depressive syndrome",
+  "question": {
+    "question": "Which of the following is NOT a component of post-fall syndrome?",
+    "option_a": "A motor component involving difficulty in moving into antepulsion while seated",
+    "option_b": "A psychological component characterized by major anxiety and fear of falling",
+    "option_c": "A psychomotor regression syndrome involving a search for dependence",
+    "option_d": "A depressive syndrome characterized by a loss of appetite and insomnia",
+    "correct_option": "D"
+  }
+}

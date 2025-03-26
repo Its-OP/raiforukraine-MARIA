@@ -1,0 +1,12 @@
+{
+  "folder": "IC-050",
+  "content": "{{knowledge objective\n|Identifiant=OIC-050-05-B\n|Item_parent=Genito-scrotal pathology in boys and men\n|Item_parent_short=Genito-scrotal pathology in boys and men\n|Rank=B\n|Title=Knowing the additional examinations to be carried out in the case of orchi-epidydimitis\n|Description=None\n|Rubric=Complementary examinations\n|Contributors=C\u00e9dric Leb\u00e2cle, Alice Faure\n|Order=5}}\n\n\n* <big>The diagnosis is primarily clinical</big>.\n\n== Bacteriological test for aetiology: ==\n\n*ECBU with antibiotic susceptibility test (which may be sterile)\n*PCR of Chlamydia trachomatis and gonococcus on the 1st urine stream in young men.\n*Sampling of any urethral discharge (for C. trachomatis and gonococcus)\n*Blood cultures, rarely positive (mainly in cases of BGN infection).\n\n*If there is any doubt about the diagnosis and the spermatic cord has been twisted for more than 24 hours, a scrotal ultrasound scan may be useful.\n\n\nThe disease can progress to abscess and purulent melting of the testicle, necrotising fasciitis, testicular atrophy, etc.",
+  "question": {
+    "question": "Which of the following is NOT a recommended additional examination for diagnosing orchi-epidydimitis?",
+    "option_a": "ECBU with antibiotic susceptibility test",
+    "option_b": "Scrotal ultrasound scan if the spermatic cord has been twisted for more than 24 hours",
+    "option_c": "Blood cultures to identify bacterial infection",
+    "option_d": "CT scan of the abdomen to check for testicular torsion",
+    "correct_option": "D"
+  }
+}

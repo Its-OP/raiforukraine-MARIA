@@ -1,0 +1,12 @@
+{
+  "folder": "IC-342",
+  "content": "{{knowledge objective\n|Identifiant=OIC-342-10-A\n|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=A\n|Heading=Know the severity of malaise according to its cause and the monitoring to be undertaken.\n|Description=None\n|Item=Identification of the emergency\n|Contributors=\n|Order=10}}\nSeverity linked to the aetiology, particularly cardiac causes - hospitalisation with continuous monitoring of cardiac rhythm\n\n<br />",
+  "question": {
+    "question": "What is the appropriate course of action for a patient experiencing severe malaise due to a cardiac cause?",
+    "option_a": "Administer over-the-counter pain relievers and monitor at home.",
+    "option_b": "Refer the patient to a general practitioner for a routine check-up.",
+    "option_c": "Hospitalize the patient with continuous monitoring of cardiac rhythm.",
+    "option_d": "Provide the patient with a list of lifestyle changes and follow up in a week.",
+    "correct_option": "C"
+  }
+}

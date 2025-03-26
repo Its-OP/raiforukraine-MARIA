@@ -1,0 +1,22 @@
+{
+  "folder": "IC-260",
+  "content": "{{knowledge objective\n|Identifiant=OIC-260-12-A\n|Item_parent=Hematuria\n|Item_parent_short=Hematuria\n|Rank=A\n|Title=Knowing how to identify macroscopic clotting haematuria and its signs of severity\n|Description=None\n|Rubric=Identification of the emergency\n|Contributors=Charles Dariane,Bruno Moulin\n|Order=12}}\n\n<br />\n\n*Macroscopic haematuria is a \"major warning sign\", but the aetiological assessment can be carried out on an outpatient basis. Hospitalisation if clinical or biological repercussions: bladder or ureteral clotting, deglobulation, sepsis, renal failure. Persistent haematuria can lead to chronic anaemia.\n\n<br />\n\n*Significant haemorrhage may cause clotting (fresh blood in the urinary tract) in the bladder and/or ureter. The appearance of ''visible clots and/or recent dysuria'' raises fears of progression to [[Acute Urine Retention|Vesical Urine Retention 347]] (haematuria + bladder globe = bladder clotting) and lower back pain suggests renal colic due to ureteral clotting.\n\n<br />\n\n*Clinically, a \"bladder globe\" and/or \"renal colic\" must be ruled out, and the \"clinical\" (tachycardia, arterial hypotension, mottling leading to fears of hypovolaemia requiring blood replenishment, additional sepsis due to urine stasis) and \"biological\" (anaemia, additional haemostasis problems, renal failure, etc.) repercussions must be assessed.",
+  "question": {
+    "properties": {
+      "question": "What is the primary sign of macroscopic clotting haematuria?",
+      "option_a": "Visible clots in the urinary tract",
+      "option_b": "Recent dysuria",
+      "option_c": "Bladder globe",
+      "option_d": "Renal colic",
+      "correct_option": "option_a"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

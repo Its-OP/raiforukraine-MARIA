@@ -1,0 +1,12 @@
+{
+  "folder": "IC-051",
+  "content": "{{knowledge objective\n|Identifiant=OIC-051-06-A\n|Item_parent=Micturition disorders in children\n|Item_parent_short=Micturition disorders in children\n|Rank=A\n|Title=Knowing how to diagnose primary enuresis\n|Description=Positive diagnosis\n|Rubric=Positive diagnosis\n|Contributors=Alice FAURE\n|Order=6}}\n\n==Distinguish between:==\n\n*Enuresis is primary: if the child has never had a period of continence during sleep of at least six months.\n*Enuresis is secondary: if enuresis appears after 6 months of mictional control.\n*Primary enuresis is isolated or mono-symptomatic if there are no other symptoms, particularly diurnal (urgency, pollakiuria, dysuria, etc.), affecting the lower urinary tract.\n*Isolated primary enuresis may be polyuric due to inversion of the ADH cycle. In this case, nocturnal urine volume is greater than daytime volume, with lower urine osmolarity at night.\n*Isolated primary enuresis may have low bladder capacity, defined as a functional bladder capacity, assessed on a 48-hour voiding schedule, of less than 70% of theoretical bladder capacity.\n\n<br />\n\n*The positive diagnosis of primary enuresis is above all clinical. It is based on questioning and physical examination.\n*No imaging test is necessary as a first-line diagnosis.\n*The degree of severity of enuresis must be assessed (one night per month, more than one night per week, every night).\n*A family history exists in 30 to 60% of cases.\n*20% of children suffering from ADHD have associated primary enuresis and 10% of enuretics suffer from ADHD. This comorbidity should be investigated.\n\n<br />",
+  "question": {
+    "question": "What is the primary method for diagnosing primary enuresis in children?",
+    "option_a": "Conducting a series of imaging tests to assess bladder function",
+    "option_b": "Evaluating the child's family history and performing a physical examination",
+    "option_c": "Measuring the child's urine osmolarity during the day",
+    "option_d": "Assessing the child's daytime urinary symptoms and bladder capacity",
+    "correct_option": "B"
+  }
+}

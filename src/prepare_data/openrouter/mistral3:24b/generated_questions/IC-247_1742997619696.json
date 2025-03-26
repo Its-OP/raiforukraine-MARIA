@@ -1,0 +1,12 @@
+{
+  "folder": "IC-247",
+  "content": "{{knowledge objective\n|Identifiant=OIC-247-09-B\n|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Rank=B\n|Title=Knowing the major pathophysiological mechanisms (insulin resistance and insulin secretion abnormalities) of T2DM.\n|Description=None\n|Topic=Physiopathology\n|Contributors=Eva Feigerlova\n|Order=9}}\nType 2 diabetes is characterised by poor use of insulin by the body's cells. It is linked to impaired insulin secretion capacity (relative insulinopenia) and insulin resistance.  \n\nHyperglycaemia itself (glucotoxicity), lipotoxicity and the presence of chronic low-grade inflammation all contribute to impaired insulin secretion.\n\nSeveral factors are involved in the impairment of insulin secretion capacity, including genetic predisposition.\n\nInsulin resistance is favoured by environmental factors, including a sedentary lifestyle and overeating.\n\nThe presence of metabolic syndrome and android obesity increases the cardiovascular risk of people with type 2 diabetes.",
+  "question": {
+    "question": "Which of the following is the primary mechanism that contributes to impaired insulin secretion in Type 2 Diabetes Mellitus (T2DM)?",
+    "option_a": "Excessive physical activity",
+    "option_b": "Genetic predisposition",
+    "option_c": "Chronic high-grade inflammation",
+    "option_d": "Low blood sugar levels",
+    "correct_option": "B"
+  }
+}

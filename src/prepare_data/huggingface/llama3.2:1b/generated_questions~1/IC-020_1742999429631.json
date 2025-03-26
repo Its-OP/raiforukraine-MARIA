@@ -1,0 +1,47 @@
+{
+  "folder": "IC-020",
+  "content": "{{knowledge objective\n|Identifiant=OIC-020-17-A\n|Item_parent=Health research methodology\n|Item_parent_short=Health research methodology\n|Rank=A\n|Title=Target population and source, sample\n|Description=Knowing how to define/recognise\n|Rubric=Definition\n|Contributors=Julie Berbis (CUESP),David Hajage (CIMES)\n|Order=17}}\n\n''Target population'': the population about which we have questions and about which we want to obtain information so that we can get to know them better and adapt the way they are managed in real life. This is the population to which we wish to extrapolate the results of the study.\n\nSource population'': the population from which the study will actually be carried out and from which the individuals to be included in the study will be identified. It should be chosen to be as representative as possible of the target population.\n\n'''Sample''': subset of a source population. It must be constituted in such a way as to be as representative as possible of the population from which it is drawn, using an appropriate sampling method (cf. [[Sampling methods 2C-020-DE-B04]]).\n[[File:FigurePopEch.jpg|thumb]]\nThe quality of the choice of target/source populations and the way in which the sample is constituted determines the external validity of a study (cf. [[Transposability of results (external validity or extrapolation) 2C-323-PE-A04]]).\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Target population and source, sample",
+        "description": "Knowing how to define/recognise",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Option A",
+        "description": "The population about which we have questions and about which we want to obtain information so that we can get to know them better and adapt the way they are managed in real life.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Option B",
+        "description": "The population from which the study will actually be carried out and from which the individuals to be included in the study will be identified.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Option C",
+        "description": "The population from which the study will be carried out and from which the individuals to be included in the study will be identified.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Option D",
+        "description": "The population about which we have questions and about which we want to obtain information so that we can get to know them better and adapt the way they are managed in real life.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "The population about which we have questions and about which we want to obtain information so that we can get to know them better and adapt the way they are managed in real life.",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ],
+    "correct_option": "option_a"
+  }
+}

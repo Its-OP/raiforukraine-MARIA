@@ -1,0 +1,12 @@
+{
+  "folder": "IC-312",
+  "content": "*knowledge objective\n|Identifiant=OIC-312-02-B\n|Item_parent=Breast tumours\n|Item_parent_short=Breast tumours\n|Rank=B\n|Title=Knowing the risk factors for breast tumours\n|Description=To list the main intrinsic and extrinsic risk factors for breast cancer\n|Topic=Epidemiology\n|Contributors=\n|Order=2}}\nThe risk factors for breast cancer are :\n\n* age\n* gynaeco-obstetrical history (factors of exposure to oestrogens):\n** early menarche (< 12 years),\n** late menopause (> 55 years),\n** late age at 1st pregnancy (> 30 years) or nulliparity,\n** absence of breast-feeding, ,\n** exposure to hormonal treatments (oestroprogestogenic contraception and hormonal menopause treatment),\n** personal history of breast cancer or mastopathy at risk (e.g. fibrocystic mastopathy with the presence of atypia - atypical hyperplasia, carcinoma in situ).\n\n* a family history of breast or ovarian cancer, with possible knowledge of a genetic predisposition (germline mutation ''BRCA1, BRCA2'')\n* High body mass index (BMI) or an increase in BMI during the menopause.\n* Sedentary lifestyle (after the menopause)\n* Alcohol and tobacco consumption\n* Thoracic irradiation\n* High socio-economic status",
+  "question": {
+    "question": "Which of the following is a recognized intrinsic risk factor for breast cancer?",
+    "option_a": "High socio-economic status",
+    "option_b": "Late age at first pregnancy (> 30 years) or nulliparity",
+    "option_c": "Thoracic irradiation",
+    "option_d": "Sedentary lifestyle (after the menopause)",
+    "correct_option": "B"
+  }
+}

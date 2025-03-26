@@ -1,0 +1,12 @@
+{
+  "folder": "IC-234",
+  "content": "{{knowledge objective\n|Identifiant=OIC-234-08-B\n|Item_parent=Adult heart failure\n|Item_parent_short=Adult heart failure\n|Rank=B\n|Title=Differentiating between heart failure with reduced EF and heart failure with preserved EF\n|Description=Knowing the threshold values for LVEF\n|Topic=Positive diagnosis\n|Contributors=Olivier Huttin\n|Order=8}}\n- The ejection fraction (EF) is the fraction of blood ejected during each systole as a percentage of the end-diastolic volume (EDV).\n\n- Left ventricular EF is the parameter most commonly used to characterise left ventricular systolic function.\n\n- It is measured by echocardiography (Figure 1).\n\n\n- LVEF measurements can be used to classify 3 main types of heart failure:\n\no CI with reduced LVEF if LVEF \u2264 40%.\n\no CI with preserved LVEF if LVEF \u2265 50%.\n\no CI with moderately impaired LVEF if between 41% and 49%.\n\n\n- The difference between these two mechanisms has therapeutic implications, as the majority of mortality-reducing treatments for heart failure currently target heart failure with reduced LVEF.",
+  "question": {
+    "question": "What is the threshold value for Left Ventricular Ejection Fraction (LVEF) to classify heart failure with reduced ejection fraction?",
+    "option_a": "LVEF \u2264 35%",
+    "option_b": "LVEF \u2264 40%",
+    "option_c": "LVEF \u2264 45%",
+    "option_d": "LVEF \u2264 50%",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-217",
+  "content": "{{knowledge objective\n|Identifiant=OIC-217-02-B\n|Item_parent=Mononucleosis syndrome\n|Item_parent_short=Mononucleosis syndrome\n|Rank=B\n|Title=Know the characteristics of the blood smear\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=2}}\n\n\n== Blood smear ==\n=> Activated mononuclear cells, characterised by a ''large size and hyperbasophilic cytoplasm = polymorphic cells, sometimes'' described as ''atypical'' = activated T lymphocytes.\n\n=> Absence of blast cells\n\n=> Other haematopoietic lineages are normal.",
+  "question": {
+    "question": "Which of the following is a characteristic of a blood smear in mononucleosis syndrome?",
+    "option_a": "Presence of blast cells",
+    "option_b": "Abnormalities in other haematopoietic lineages",
+    "option_c": "Activated mononuclear cells with large size and hyperbasophilic cytoplasm",
+    "option_d": "Increased number of red blood cells",
+    "correct_option": "C"
+  }
+}

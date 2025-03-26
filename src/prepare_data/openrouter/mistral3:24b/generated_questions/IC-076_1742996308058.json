@@ -1,0 +1,12 @@
+{
+  "folder": "IC-076",
+  "content": "{{knowledge objective\n|Identifiant=OIC-076-04-A\n|Item_parent=Alcohol dependence\n|Item_parent_short=Alcohol dependence\n|Rank=A\n|Title=Familiarise yourself with the low-risk drinking guidelines\n|Description=Sant\u00e9 Publique France benchmarks defined in 2017 and communicated in 2019\n|Topic=Positive diagnosis\n|Contributors=\n|Order=4}}\nConsumption levels still below the benchmarks proposed by Sant\u00e9 Publique France in 2017\n\n- If you drink alcohol\n\n* no more than 10 standard drinks a week\n* no more than 2 standard drinks per day\n* have days in the week when you don't drink.\n\n- For occasional alcohol consumption\n\n* reduce the total amount of alcohol you drink at any one time\n* drink slowly, with food and alternating with water\n* avoid high-risk places and activities\n* make sure you have people you know close to you and that you can get home safely\n\n- do not drink alcohol in the following situations:\n\n* women who are contemplating pregnancy, who are pregnant or who are breast-feeding;\n* young people and adolescents;\n* driving a car, handling tools or machinery (DIY, etc.);\n* practising high-risk sports\n* taking certain medicines or suffering from certain medical conditions. ",
+  "question": {
+    "question": "According to the low-risk drinking guidelines proposed by Sant\u00e9 Publique France in 2017, what is the recommended maximum number of standard drinks per week?",
+    "option_a": "No more than 5 standard drinks a week",
+    "option_b": "No more than 10 standard drinks a week",
+    "option_c": "No more than 15 standard drinks a week",
+    "option_d": "No more than 20 standard drinks a week",
+    "correct_option": "B"
+  }
+}

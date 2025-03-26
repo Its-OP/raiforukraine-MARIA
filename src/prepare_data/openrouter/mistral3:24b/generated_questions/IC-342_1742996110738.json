@@ -1,0 +1,12 @@
+{
+  "folder": "IC-342",
+  "content": "{{knowledge objective\n|Identifiant=OIC-342-19-B\n|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=B\n|Title=Know the recommendations and organisation of the follow-up of a patient seen for malaise, orthostatic arterial hypotension.\n|Description=Medication safety, elderly patients\n|Topic=Management\n|Contributors=\n|Order=19}}\nreview of patient treatment - education - vigilance in elderly subjects",
+  "question": {
+    "question": "What is a key recommendation for the follow-up of an elderly patient experiencing malaise and orthostatic arterial hypotension?",
+    "option_a": "Administer high doses of diuretics to reduce blood pressure quickly.",
+    "option_b": "Encourage the patient to avoid standing up suddenly to prevent dizziness.",
+    "option_c": "Prescribe strong painkillers to manage any discomfort associated with the condition.",
+    "option_d": "Recommend a high-sodium diet to increase blood pressure.",
+    "correct_option": "B"
+  }
+}

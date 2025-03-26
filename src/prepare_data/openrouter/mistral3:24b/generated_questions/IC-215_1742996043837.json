@@ -1,0 +1,12 @@
+{
+  "folder": "IC-215",
+  "content": "{{knowledge objective\n|Identifiant=OIC-215-08-A\n|Item_parent=Purpuras in adults and children\n|Item_parent_short=Purpuras in adults and children\n|Rank=A\n|Title=Know the main etiologies of purpura including infectious causes\n|Description=None\n|Rubric=Etiologies\n|Contributors=\n|Order=8}}\n\n\n==Main causes of vascular purpura===\n\n===Infectious causes===\n- Purpura fulminans\n\n- Infective endocarditis<br />.\n\n===Vascularity===\n\n==== Small-calibre vasculitides====\n- ANCA-associated vasculitides (granulomatosis with polyangiitis, eosinophilic granulomatosis with polyangiitis, microscopic polyangiitis) [[Know the main types of systemic vasculitides 2C-193-DE-B01|(systemic vasculitides)])\n\n- Immune complex vasculitis (cryoglobulinemia vasculitis, IgA vasculitis (formerly rheumatoid purpura), post-infectious vasculitis)\n\n- Cutaneous vasculitis (often drug-induced)<br />.\n\n==== Medium-calibre vasculitis====\nPeriarteritis nodosa\n\n\nNB: Purpura is never present in large-vessel vasculitis.\n\n===Capillary fragility===\n- Bateman's purpura senile (purpura secondary to capillary fragility in the elderly)\n\n- Endogenous or iatrogenic hypercorticism\n\n- Scurvy (vitamin C deficiency) (undernutrition/malnutrition)<br />.\n\n==Main causes of thrombocytopenic purpura==\nThe main causes are :\n\n- Defect in platelet production in the bone marrow: central thrombocytopenia\n\n- Immunological: immunological thrombocytopenic purpura (ITP) ([[Thrombocytopenia in adults and children|Thrombocytopenia in adults and children]])\n\n- Platelet consumption: associated haemostasis disorder (DIC) or thrombotic microangiopathy (haemolytic uraemic syndrome, thrombotic thrombocytopenic purpura). These 2 causes constitute an emergency.\n\n- Platelet dysfunction (thrombopathy) without thrombocytopenia (e.g. secondary to antiplatelet medication).",
+  "question": {
+    "question": "Which of the following is a primary infectious cause of purpura?",
+    "option_a": "Granulomatosis with polyangiitis",
+    "option_b": "Infective endocarditis",
+    "option_c": "Immune complex vasculitis",
+    "option_d": "Bateman's purpura senile",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-239",
+  "content": "{{knowledge objective\n|Identifiant=OIC-239-08-B\n|Item_parent=Acrosyndromes (Raynaud's phenomenon, erythermalgia, acrocyanosis, frostbite, digital ischaemia)\n|Item_parent_short=Acrosyndromes (Raynaud's phenomenon, erythermalgia, acrocyanosis, frostbite, digital ischaemia)\n|Rank=B\n|Title=Video or photographs of Allen manoeuvre\n|Description=None\n|Rubric=Multimedia content\n|Contributors= Sophie Blaise, Luc Bressollette, Claire Le Hello\n|Order=8}}\n\n\n======[https://videotheque.uness.fr/w/nnDrKme9rHpY6Eied3ZBjW Allen's video manoeuvre]======",
+  "question": {
+    "question": "What is the primary purpose of the Allen manoeuvre?",
+    "option_a": "To assess the patency of the coronary arteries",
+    "option_b": "To evaluate the function of the carotid arteries",
+    "option_c": "To check the blood flow in the radial and ulnar arteries",
+    "option_d": "To measure the blood pressure in the femoral artery",
+    "correct_option": "C"
+  }
+}

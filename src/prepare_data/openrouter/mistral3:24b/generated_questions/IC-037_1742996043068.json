@@ -1,0 +1,12 @@
+{
+  "folder": "IC-037",
+  "content": "{{knowledge objective\n|Identifiant=OIC-037-01-A\n|Item_parent=Voluntary termination of pregnancy\n|Item_parent_short=Voluntary termination of pregnancy\n|Rank=A\n|Title=Knowing the political and social history that led to the law on voluntary interruption of pregnancy (IVG) in 1975\n|Description=None\n|Rubric=Definition\n|Contributors=Arthur Foulon,Philippe Deruelle,Aubert Agostini\n|Order=1}}\n\n<Prior to the 1975 Veil law, abortion was a punishable act punishable by law and imprisonment, and clandestine abortion was responsible for the deaths of around 250 women each year. Penalising abortion was intended to protect the country's demography. In 1972, Marie-Claire, a young woman of 17, went on trial for having had an abortion following a rape. This was the Bobigny trial. The young woman was defended by Gis\u00e8le Halimi, who won the case. The \"offence of abortion\" no longer existed. It was only 3 years later that Simone Veil, then Minister for Health, had the law decriminalising abortion passed on 17 January 1975. In 1975, abortion was authorised up to the twelfth week of amenorrhoea and parental authorisation was required for minors. The first abortion centres were opened in 1979. It was not until 2001 that abortion was authorised up to 14 weeks of amenorrhoea. Since March 2022, abortion has been authorised up to 16 weeks' amenorrhoea.",
+  "question": {
+    "question": "What significant event in 1972 led to the eventual decriminalization of abortion in France?",
+    "option_a": "The passing of the Veil law which legalized abortion",
+    "option_b": "The establishment of the first abortion centers",
+    "option_c": "The Bobigny trial where Gis\u00e8le Halimi defended Marie-Claire",
+    "option_d": "The authorization of abortion up to 14 weeks of amenorrhoea",
+    "correct_option": "C"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-347",
+  "content": "{{knowledge objective\n|Identifiant=OIC-347-05-B\n|Item_parent=Acute urine retention\n|Item_parent_short=Acute urine retention\n|Rank=B\n|Title=Atypical clinical presentations of acute urinary retention\n|Description=Elderly, diabetic, spinal cord injured, sedated patient\n|Topic=Positive diagnosis\n|Contributors=Jonathan Olivier\n|Order=5}}\n\n\n*Acute retention of urine should be ruled out in elderly patients hospitalised with [[2C-132|confusional syndrome 132]] of undetermined origin.\n\n*In patients with diabetes or spinal cord injury, acute urine retention may be painless due to bladder hyposensitivity secondary to vegetative neuropathy.\n\n*Autonomic hyper-reflexia may be the only symptom of acute urine retention in patients with spinal cord injury (lesion above T6).\n\n*In sedated patients, acute urine retention may be painless because of [[2C-136|anesthesia 136]] .",
+  "question": {
+    "question": "Which of the following is a potential atypical clinical presentation of acute urinary retention in patients with spinal cord injuries?",
+    "option_a": "Painful urination due to bladder hypersensitivity",
+    "option_b": "Autonomic hyper-reflexia as the only symptom",
+    "option_c": "Severe abdominal pain and fever",
+    "option_d": "Frequent urination with small volumes",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-188",
+  "content": "{{knowledge objective\n|Identifiant=OIC-188-16-A\n|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Rank=A\n|Title=Knowing the therapeutic principles of allergic rhinitis\n|Description=To understand the role of anti-histamines and corticosteroids in allergic rhinitis.\n|Rubric=Management\n|Contributors=\n|Order=16}}\n\n\n* Avoidance of the allergen\n* Nasal cleansing with saline solution\n* Medication (alone or in combination, depending on severity):\nOral and/or topical anti-histamines ** Rhinocorticoids\n** Rhinocorticoids",
+  "question": {
+    "question": "Which of the following is the primary role of corticosteroids in the management of allergic rhinitis?",
+    "option_a": "To reduce the production of histamine in the body",
+    "option_b": "To eliminate the allergen from the nasal passages",
+    "option_c": "To reduce inflammation and swelling in the nasal passages",
+    "option_d": "To cleanse the nasal passages of mucus and allergens",
+    "correct_option": "C"
+  }
+}

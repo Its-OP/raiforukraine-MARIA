@@ -1,0 +1,54 @@
+{
+  "folder": "IC-027",
+  "content": "{{knowledge objective\n|Identifiant=OIC-027-39-A\n|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Rank=A\n|Title=Alcohol and pregnancy: screening\n|Description=Methods of questioning - detection\n|Section=Follow-up and/or prognosis\n|Contributors=Alexandre Vivanti, Philippe Deruelle\n|Order=39}}\nQuestioning is the key to screening. It should be intensified in the following clinical situations:\n\n- history of FAS/malformative syndrome in the offspring (very high risk of recurrence);\n\n- drug addiction (30-50% of patients on drug substitutes drink alcohol);\n\n- context of domestic violence, sexual abuse ;\n\n- psychiatric disorders, depression ;\n\n- heavy smoking ;\n\n- ultrasound findings of growth retardation or malformations.\n\nIt is important to adopt an empathetic attitude and a non-judgemental framework, preferring indirect and/or open-ended questions: \"Before pregnancy, how many drinks did you have a day? And now?\" or \"Is it difficult for you not to drink alcohol now? A good method is to use validated self-questionnaires such as the T-ACE, which even seem to be more sensitive than questioning in detecting maternal alcohol consumption.\n{| class=\"wikitable\"\n|T\n|How many drinks do you have to have before you feel the first effects of alcohol?\n|2 points if \u2265 3 drinks\n|-\n|A\n|Have you ever been bothered by people criticising you for your drinking?\n|1 point if yes\n|-\n|C\n|Do you sometimes feel the need to reduce your consumption?\n|1 point if yes\n|-\n|E\n|Do you sometimes have a drink as soon as you get out of bed in the morning to calm down or get rid of a hangover?\n|1 point if yes\n|}\n''High score = 2 points or more''\n\n'''293. [[Addictology follow-up consultation SD-293|Addictology follow-up consultation]]''''\n\n'''312. [[Prevention of foetal risks SD-312|Prevention of foetal risks]]''''\n\n'''313. [[Prevention of alcohol-related risks SD-313|Prevention of alcohol-related risks]]''''",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Question",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Option A",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Option B",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Option C",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Option D",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ],
+    "example": {
+      "question": "How many drinks do you have to have before you feel the first effects of alcohol?",
+      "option_a": "2",
+      "option_b": "3",
+      "option_c": "4",
+      "option_d": "5",
+      "correct_option": "2"
+    }
+  }
+}

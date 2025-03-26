@@ -1,0 +1,12 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-15-B\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=B\n|Title=Knowing the biological test to prescribe in the case of proven precocious puberty\n|Description=None\n|Rubric=Etiologies\n|Contributors=\n|Order=15}}\nSex steroids: testosterone in boys, oestradiol of little contribution in girls.\n\n\nInhibin B: increased during puberty in boys.\n\n\nGonadotropins: basal FSH and LH and after stimulation (LH-RH/GnRH test). Used to diagnose and distinguish between central (detectable LH, peak LH) and peripheral (undetectable LH) precocious puberty.\n\n\nBone age: assessment of bone maturation (onset of puberty=sesamoid at 11 years in girls and 13 years in boys). It is most often advanced in early puberty.\n\n<br />",
+  "question": {
+    "question": "Which biological test is primarily used to diagnose and distinguish between central and peripheral precocious puberty?",
+    "option_a": "Measurement of sex steroids like testosterone in boys and oestradiol in girls",
+    "option_b": "Assessment of Inhibin B levels during puberty in boys",
+    "option_c": "Evaluation of bone age to determine the onset of puberty",
+    "option_d": "Basal and stimulated levels of gonadotropins (FSH and LH)",
+    "correct_option": "D"
+  }
+}

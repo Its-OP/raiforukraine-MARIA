@@ -1,0 +1,12 @@
+{
+  "folder": "IC-027",
+  "content": "{{knowledge objective\n|Identifiant=OIC-027-09-A\n|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Rank=A\n|Title=Knowing the definition of maternal-fetal measles\n|Description=None\n|Rubric=Definition\n|Contributors=Alexandre Vivanti, Philippe Deruelle\n|Order=9}}\nThe risk of transmission is possible at the end of pregnancy and may result in neonatal congenital measles, but this is exceptional (given vaccination coverage).",
+  "question": {
+    "question": "What is the primary risk associated with maternal-fetal measles transmission?",
+    "option_a": "It primarily occurs in the first trimester and causes severe birth defects.",
+    "option_b": "It is highly common and results in neonatal congenital measles in most cases.",
+    "option_c": "It is possible at the end of pregnancy and may result in neonatal congenital measles, but this is exceptional.",
+    "option_d": "It only affects the mother and has no impact on the fetus.",
+    "correct_option": "C"
+  }
+}

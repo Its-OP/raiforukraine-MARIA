@@ -1,0 +1,12 @@
+{
+  "folder": "IC-233",
+  "content": "{{knowledge objective\n|Identifiant=OIC-233-07-B\n|Item_parent=Valvulopathies\n|Item_parent_short=Valvulopathies\n|Rank=B\n|Title=Knowing the evolution and complications of MI, RA, IA, MR\n|Description=None\n|Topic=Monitoring and/or prognosis\n|Contributors=Myriam Akodad and Florence Leclercq\n|Order=7}}\n\n\n* Mitral insufficiency: The course depends on severity, aetiology, chronicity, LVEF, associated lesions:\n** Acute: rapid progression to ''''OAP, cardiogenic shock and death in the absence of intervention.\n** Chronic: ''left heart failure'', ''AF, endocarditis, thromboembolic complications''.\n\n* ''Aortic stenosis:'' usually slow progression with reduction in aortic surface area of 0.1 cm<sup>2</sup>/year on average\n** Good prognosis in cases of asymptomatic narrow aortic stenosis (risk of sudden death < 1%/year).\n** Poor prognosis from the onset of symptoms in the absence of intervention.\n** Complications :\n*** '''heart failure,'''\n*** Conduction disorder\n*** Rhythm disorders'' (AF),\n*** '''sudden death''',\n*** more rarely: '''infective endocarditis'', '''calcareous embolism'', '''anaemia (Heyde syndrome:''' coagulopathy induced by AR by acquired Willebrand syndrome leading to digestive bleeding by angiodysplasia'')'''\n\n[[File:RA Prognosis.png|centric|thumb|900x900px]]\n<br />\n\n* Aortic insufficiency:''''\n** Acute: very rapid progression to cardiogenic shock and death in the absence of intervention.\n** Chronic: ''cardiac insufficiency, rhythm disorders,'' mortality 10-20%/year if symptoms, '''endocarditis, aortic dissection'' if associated aortic dilatation.\n\n* Mitral narrowing:''''\n** Prognostic factors: age, symptoms, fixed or unfixed PAH, feasibility of percutaneous commissurotomy.\n** Complications: ''AF, heart failure, PAH'', ''thromboembolic'', cardiac decompensation in the event of pregnancy.",
+  "question": {
+    "question": "Which of the following is a common complication of chronic mitral insufficiency?",
+    "option_a": "Rapid progression to cardiogenic shock",
+    "option_b": "Infective endocarditis",
+    "option_c": "Sudden death",
+    "option_d": "Calcareous embolism",
+    "correct_option": "B"
+  }
+}

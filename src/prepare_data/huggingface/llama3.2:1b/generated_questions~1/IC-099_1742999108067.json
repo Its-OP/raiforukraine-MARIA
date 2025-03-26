@@ -1,0 +1,22 @@
+{
+  "folder": "IC-099",
+  "content": "{{knowledge objective\n|Identifiant=OIC-099-16-A\n|Item_parent=Migraine, trigeminal neuralgia and facial pain\n|Item_parent_short=Migraine, trigeminal neuralgia and facial pain\n|Rank=A\n|Intitle=How to advise a migraine patient\n|Description=Advice to reduce associated vascular risk factors\n|Heading=Management\n|Contributors=\n|Order=16}}\nMigraine with aura is an independent risk factor for cerebral infarction. The risk is doubled in a person suffering from migraine with aura and increases in the case of cofactors (female sex, age under 45, smoking and oestroprogestogenic contraception).\n\n'''In practice: Before prescribing oral contraception, systematically look for a migraine, and determine whether it is without aura or with aura'''.\n\n''Then, look for all arterial risk factors''\n\no Age> 35\n\no Smoking\n\no Family history of stroke or myocardial infarction\n\no [[Hypertension SD-042|Hypertension]]\n\no Dyslipidaemia\n\no Obesity\n\n'''Then choose contraception according to vascular risk factors and type of migraine'''\n\nMigraine without aura\n\no ''Absence of any arterial risk factor'': all types of contraception are possible, including oestroprogestins\n\no ''If one or more arterial risk factors are present'': oestroprogestogenic oral contraceptives are contraindicated; pure progestogens are possible, as are other methods of contraception.\n\n'''Migraine with aura:''' oestroprogestogenic oral contraceptives are contraindicated; pure progestogens are possible, as are other methods of contraception.",
+  "question": {
+    "properties": {
+      "question": "What is the recommended approach for advising a migraine patient with vascular risk factors?",
+      "option_a": "Look for a migraine without aura and determine if it is without aura or with aura.",
+      "option_b": "Look for all arterial risk factors and then choose contraception according to vascular risk factors and type of migraine.",
+      "option_c": "Look for a migraine without aura and then determine if it is without aura or with aura.",
+      "option_d": "Look for a migraine with aura and then determine if it is without aura or with aura.",
+      "correct_option": "option_b"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

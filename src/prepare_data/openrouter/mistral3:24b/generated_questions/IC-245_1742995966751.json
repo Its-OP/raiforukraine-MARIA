@@ -1,0 +1,12 @@
+{
+  "folder": "IC-245",
+  "content": "{{knowledge objective\n|Identifiant=OIC-245-05-A\n|Item_parent=Adrenal insufficiency in adults and children\n|Item_parent_short=Adrenal insufficiency in adults and children\n|Rank=A\n|Title=Know how to prescribe an 8-hour cortisol test\n|Description=Know the indications for the 08h cortisolaemia test\n|Section=Additional tests\n|Contributors=Claire Briet,St\u00e9phanie Espiard\n|Order=5}}\nThe definitive diagnosis of adrenal insufficiency is based on the measurement of cortisol at 8 o'clock, the time when cortisol is highest:\n\n*low cortisol levels (indicatively < 50 ng/ml or 138 nmol/l) = adrenal insufficiency.\n\n*cortisol > 180 ng/ml (500 nmol/l) = normal cortisol = adrenal insufficiency eliminated.\n\n<br />\n\n*Between these two values a stimulation test is performed, for example the synACTHene test:\n\nIf cortisol 60 minutes after injection is < 180 ng/ml (500 mmol/l) = adrenal insufficiency\n\nIf cortisol 60 minutes after injection is > 180 ng/ml (500 mmol/l) = no adrenal insufficiency\n\n<br />",
+  "question": {
+    "question": "What is the appropriate course of action if an 8-hour cortisol test result is between 50 ng/ml and 180 ng/ml?",
+    "option_a": "Immediately diagnose adrenal insufficiency.",
+    "option_b": "Conclude that the patient has normal cortisol levels and no adrenal insufficiency.",
+    "option_c": "Perform a stimulation test, such as the synACTHene test.",
+    "option_d": "Repeat the 8-hour cortisol test after 24 hours.",
+    "correct_option": "C"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-342",
+  "content": "{{knowledge objective\n|Identifiant=OIC-342-17-B\n|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=B\n|Title=Know the recommendations and organisation of the follow-up of a patient seen for malaise, syncope or lipothymia of rhythmic cause.\n|Description=Preventing the risk of sudden death\n|Section=Management\n|Contributors=\n|Order=17}}\ncardiological monitoring - prevention of the risk of sudden death",
+  "question": {
+    "question": "What is the primary goal of cardiological monitoring in patients who have experienced malaise, syncope, or lipothymia of rhythmic cause?",
+    "option_a": "To ensure the patient's comfort during the monitoring period",
+    "option_b": "To identify and treat underlying arrhythmias that could lead to sudden death",
+    "option_c": "To monitor the patient's blood pressure and heart rate for general health",
+    "option_d": "To assess the patient's response to medication for non-cardiac conditions",
+    "correct_option": "B"
+  }
+}

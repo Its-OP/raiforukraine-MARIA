@@ -1,0 +1,12 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-23-B\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=B\n|Title=Photographs: precocious puberty in girls\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=23}}\n<gallery>\nFile:Multimedia puberty.jpg|Mammary development and accelerated growth rate at age 7, patient P2S2R0 Suspi\u00e7ion of precocious puberty.\n</gallery>",
+  "question": {
+    "question": "At what age is the development of mammary glands and an accelerated growth rate typically considered precocious puberty in girls?",
+    "option_a": "Age 8",
+    "option_b": "Age 9",
+    "option_c": "Age 10",
+    "option_d": "Age 7",
+    "correct_option": "D"
+  }
+}

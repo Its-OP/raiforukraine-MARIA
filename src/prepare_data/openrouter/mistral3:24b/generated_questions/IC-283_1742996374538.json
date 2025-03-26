@@ -1,0 +1,12 @@
+{
+  "folder": "IC-283",
+  "content": "{{knowledge objective\n|Identifiant=OIC-283-03-B\n|Item_parent=Constipation in children and adults\n|Item_parent_short=Constipation in children and adults\n|Rank=B\n|Title=Distinguishing the functional origin from the organic and especially congenital origin of constipation in children\n|Description=Distinguish functional from organic and especially congenital causes of constipation in children\n|Rubric=Physiopathology\n|Contributors=\n|Order=3}}\nConstipation in children is most often functional, requiring symptomatic treatment (hygienic and dietary measures, often combined with medication).\n\nAn organic cause should be considered in the presence of certain warning signs or in the event of a poor response to well-managed first-line treatment.\n\nThe functional origin is multi-factorial and develops after 6 months. Before 6 months, the mechanism is essentially reflex.\n\nRepeated retention of stool in the rectal ampulla leads to constipation. This is terminal retention.\n\nOther mechanisms may contribute to functional constipation:\n\n- Lack of water or fibre intake\n\n- Exclusive lacto-meal diet\n\nThe organic origin is explained by different mechanisms, depending on the cause:\n\n- Absence of colonic contraction\n\n- Ionic disorders\n\n- Medicines\n\n- Insufficient thrust\n\n- Hypertonia of the sphincter\n\n- Anal obstruction",
+  "question": {
+    "question": "What is the most common cause of constipation in children?",
+    "option_a": "Organic causes due to absence of colonic contraction",
+    "option_b": "Functional causes due to lack of water or fiber intake",
+    "option_c": "Congenital abnormalities leading to anal obstruction",
+    "option_d": "Medication side effects causing insufficient thrust",
+    "correct_option": "B"
+  }
+}

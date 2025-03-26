@@ -1,0 +1,12 @@
+{
+  "folder": "IC-190",
+  "content": "{{knowledge objective\n|Identifiant=OIC-190-04-A\n|Item_parent=Prolonged fever\n|Item_parent_short=Prolonged fever\n|Rank=A\n|Title=Cite the main infections responsible for prolonged fever\n|Description=None\n|Rubric=Etiologies\n|Contributors=\n|Order=4}}\n\n\n'''Frequent infections'''\n\n- viral infections (Epstein Barr virus (EBV), Cytomegalovirus (CMV), dengue fever)\n\n- tuberculosis\n\n- endocarditis (particularly if foreign material++)\n\n- malaria\n\n\n'''Rarer infections'''\n\n- bartonellosis\n\n- brucellosis\n\n- typhoid fever\n\n- deep abscess\n\n- urinary tract infection\n\n- HIV infection\n\n- osteoarticular infection\n\n- rickettsiosis\n\n- leptospirosis\n\n- viral hepatitis A, B, E\n\n- Whipple's disease\n\n- mycobacterial infections excluding tuberculosis\n\n\n'''In children'''\n\n'''Frequent infections'''\n\n/A distinction must be made between prolonged fever and repeated fevers, the latter being by far the most frequent and may correspond to a series of viral infections. Careful attention must therefore be paid to the notion of a free interval and to associated respiratory signs suggestive of viral infection\n\nViral: EBV, CMV\n\nParasites: toxoplasmosis, malaria (recurrence)\n\nBacterial: tuberculosis, urinary tract infections, Bartonellosis (systemic form more common than in adults)\n\n\n'''Rarer infections'''\n\nViral infections: HIV\n\nBacterial infections: osteoarticular infections, deep abscesses, endocarditis (rarer than in adults)\n\nMuch rarer: Rickettsial disease, coxiellosis, chlamydiosis, Mycoplasma pneumoniae infections (extra pulmonary form), typhoid fever, leptospirosis, viral hepatitis A, B and E, Whipple's disease, etc.\n\n<br />",
+  "question": {
+    "question": "Which of the following infections is most commonly associated with prolonged fever in adults?",
+    "option_a": "Urinary tract infection",
+    "option_b": "Typhoid fever",
+    "option_c": "Tuberculosis",
+    "option_d": "HIV infection",
+    "correct_option": "C"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-336",
+  "content": "{{knowledge objective\n|Identifiant=OIC-336-09-A\n|Item_parent=Non-traumaticoma in adults and children\n|Item_parent_short=Non-traumatic coma in adults and children\n|Rank=A\n|Title=Know how to prescribe complementary examinations to be carried out in an emergency in adults and children.\n|Description=Capillary glycaemia, knowing how to order a simple biological check-up (glycaemia, natremia, blood gases), a brain scan, knowing how to perform a lumbar puncture. Know how to prescribe them in the appropriate order.\n|Rubrique= Complementary examinations\n|Contributors=Nicolas Weiss\n|Order=9}}\n\n- Capillary glycaemia verified by plasma glycaemia\n\n- Standard ionogram with natraemia, calcaemia, urea, creatinine\n\n- Blood gases\n\n- Liver check-up\n\n- Discuss blood/urine toxicology analysis depending on the anamnestic context (plan to take samples for secondary analysis depending on the forensic context).\n\n- Emergency brain scan if :\n\n- location sign\n\n- possibly traumatic coma\n\no strong suspicion of meningeal haemorrhage\n\no suspected ischaemic stroke, but brain MRI is preferable\n\no coma with no obvious cause or no improvement after appropriate treatment\n\n- Lumbar puncture if :\n\no Context of meningitis\n\no Context of meningoencephalitis or encephalitis\n\no Febrile coma",
+  "question": {
+    "question": "In an emergency situation involving a non-traumatic coma in adults and children, which of the following examinations should be performed first?",
+    "option_a": "A brain scan to check for meningeal haemorrhage or ischaemic stroke",
+    "option_b": "A lumbar puncture to rule out meningitis or encephalitis",
+    "option_c": "A standard ionogram to check natraemia, calcaemia, urea, and creatinine levels",
+    "option_d": "Capillary glycaemia verified by plasma glycaemia",
+    "correct_option": "D"
+  }
+}

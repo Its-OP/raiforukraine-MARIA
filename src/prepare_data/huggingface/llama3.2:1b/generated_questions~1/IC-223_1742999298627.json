@@ -1,0 +1,46 @@
+{
+  "folder": "IC-223",
+  "content": "{{knowledge objective\n|Identifiant=OIC-223-02-A\n|Item_parent=Dyslipidaemia\n|Item_parent_short=Dyslipidemia\n|Rank=A\n|Title=Knowing the three main types of dyslipidemia\n|Description=Pure hypercholesterolaemia, pure hypertriglyceridaemia, mixed hyperlipidaemia\n|Rubric=Definition\n|Contributors=Laurence Duvillard, Bruno Verg\u00e8s, Benjamin Bouillet, Laurence Amar, Christian Boissier, Tristan Mirault, Claire Le Hello\n|Order=2}}\n\n* 3 main types of dyslipidemia:\n** pure hypercholesterolaemia\n** pure hypertriglyceridemia\n** mixed hyperlipidaemia\n\n* Hyperlipidaemia is distinguished according to its cause into primary hyperlipidaemia, secondary hyperlipidaemia (due to disease or medication) and dyslipidaemia associated with type 2 diabetes and metabolic syndrome.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the main difference between pure hypercholesterolaemia and mixed hyperlipidaemia?",
+        "description": "The main difference between pure hypercholesterolaemia and mixed hyperlipidaemia is the presence of high triglycerides in the blood.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Pure hypercholesterolaemia is caused by a genetic disorder.",
+        "description": "Pure hypercholesterolaemia is caused by a genetic disorder.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Pure hypertriglyceridemia is a type of mixed hyperlipidaemia.",
+        "description": "Pure hypertriglyceridemia is a type of mixed hyperlipidaemia.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Pure hypercholesterolaemia is often associated with high levels of LDL cholesterol.",
+        "description": "Pure hypercholesterolaemia is often associated with high levels of LDL cholesterol.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Mixed hyperlipidaemia is often associated with high levels of triglycerides.",
+        "description": "Mixed hyperlipidaemia is often associated with high levels of triglycerides.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Pure hypercholesterolaemia",
+        "description": "This consists only a letter of the correct option.",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

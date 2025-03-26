@@ -1,0 +1,12 @@
+{
+  "folder": "IC-267",
+  "content": "{{knowledge objective\n|Identifiant=OIC-267-35-B\n|Item_parent=Disorders of acid-base equilibrium and hydro-electrolytic disorders\n|Item_parent_short=Disorders of acid-base equilibrium and fluid-electrolyte disorders\n|Rank=B\n|Title=Understanding the mechanisms of hypocalcaemia\n|Description=None\n|Rubric=Physiopathology\n|Contributors=P. Rieu,B. Moulin,M. Flamant\n|Order=35}}\n\n*The concentration of ionised calcium is regulated by two circulating factors: parathyroid hormone (PTH) and active vitamin D (calcitriol). The secretion of PTH by the parathyroid glands depends on whether or not the calcium-sensitive receptor expressed on the membrane of their cells is stimulated: stimulation of the receptor slows down the secretion of PTH. PTH acts by mobilising calcium from the bone mineral phase and increasing tubular reabsorption of calcium (loop of Henle and distal convoluted tubule). PTH inhibits phosphate reabsorption and stimulates calcitriol synthesis in the proximal tubule. Calcitriol (an active metabolite of vitamin D) increases the digestive absorption of calcium and phosphorus.\n*Hypocalcaemia occurs when the net loss of calcium from the extracellular compartment exceeds the calcium intake from the intestine or bone.\n*Hypocalcaemia therefore results :\n**either an increase in calcium losses (deposits in tissues, bone transfer, urinary losses, intravascular chelation),\n**or a reduction in calcium entering the circulation (intestinal malabsorption, reduced bone resorption).",
+  "question": {
+    "question": "Which of the following is a primary mechanism by which parathyroid hormone (PTH) regulates calcium levels in the body?",
+    "option_a": "PTH increases the reabsorption of phosphate in the proximal tubule.",
+    "option_b": "PTH stimulates the synthesis of calcitriol in the proximal tubule.",
+    "option_c": "PTH decreases the reabsorption of calcium in the loop of Henle and distal convoluted tubule.",
+    "option_d": "PTH inhibits the absorption of calcium in the digestive system.",
+    "correct_option": "B"
+  }
+}

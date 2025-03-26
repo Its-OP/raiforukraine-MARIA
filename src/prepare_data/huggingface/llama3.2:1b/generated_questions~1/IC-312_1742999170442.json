@@ -1,0 +1,22 @@
+{
+  "folder": "IC-312",
+  "content": "{{knowledge objective\n|Identifiant=OIC-312-05-A\n|Item_parent=Breast tumours\n|Item_parent_short=Breast tumours\n|Rank=A\n|Title=Knowing the different screening methods\n|Description=Palpation, mammography ...\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=5}}\n\n\n*For all women: a clinical breast examination by a health professional is recommended every year from the age of 25.\n\n*For women aged 50 to 74 with no risk factors''''': an organised breast cancer screening programme is based on systematically inviting these women to have a clinical breast examination and screening mammogram by an accredited radiologist every 2 years.  Mammograms are performed at two angles (axillary oblique and frontal), are reimbursed at 100% by the health insurance scheme and are double-read. Screening is legal in the absence of any clinical sign already identified (in which case the diagnosis is already being made).\n\n*For women at high or very high risk: individual screening tailored to their level of risk based on a clinical examination combined with imaging (mammography, ultrasound, breast MRI) is offered.",
+  "question": {
+    "properties": {
+      "question": "What is the recommended age for a clinical breast examination by a health professional for all women?",
+      "option_a": "25 years",
+      "option_b": "30 years",
+      "option_c": "35 years",
+      "option_d": "40 years",
+      "correct_option": "25 years"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

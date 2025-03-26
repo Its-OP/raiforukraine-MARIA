@@ -1,0 +1,12 @@
+{
+  "folder": "IC-136",
+  "content": "{{knowledge objective\n|Identifiant=OIC-136-10-B\n|Item_parent=Local, locoregional and general anaesthesia\n|Item_parent_short=Local, locoregional and general anaesthesia\n|Rank=B\n|Title=Knowing the mechanism of pain during labour and delivery\n|Description=None\n|Rubric=Physiopathology\n|Contributors=\n|Order=10}}\nThere are two types of pain during labour: visceral and somatic. During the first phase of labour, uterine contractions lead to the cervix collapsing and dilating, and the visceral pain impulse is carried by non-myelinated C fibres. Pain specific to contractions is handled by A\u03b4 fibres. These two types of fibre relay to the posterior horn of the spinal cord from T10 to L1. At the end of the first phase and during the second phase of labour, pain of somatic origin appears secondary to distension of the pelvic floor, vagina and perineum and is transmitted by the pudendal nerves originating from the sacral roots S2-S4.",
+  "question": {
+    "question": "Which type of nerve fibres are primarily responsible for transmitting the pain specific to uterine contractions during the first phase of labour?",
+    "option_a": "A\u03b2 fibres",
+    "option_b": "B fibres",
+    "option_c": "A\u03b4 fibres",
+    "option_d": "Myelinated C fibres",
+    "correct_option": "C"
+  }
+}

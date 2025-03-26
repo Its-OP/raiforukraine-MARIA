@@ -1,0 +1,22 @@
+{
+  "folder": "IC-233",
+  "content": "{{knowledge objective\n|Identifiant=OIC-233-05-B\n|Item_parent=Valvulopathies\n|Item_parent_short=Valvulopathies\n|Rank=B\n|Title=Knowing the value of the electrocardiogram (ECG), thoracic radiography and stress testing in valvulopathy.\n|Description=\n|Rubric=Additional tests\n|Contributors=Myriam Akodad,Florence Leclercq\n|Order=5}}\n\nThese tests are not very specific and are of limited value in early diagnosis (ECG and chest X-ray are often normal).\n\n* '''ECG:''''\n** rarely normal in severe chronic valvulopathy\n** systolic LVH (RA) diastolic LVH (IM, IA)\n** OG hypertrophy (MI, RA, IA, MR),\n** atrial fibrillation (frequent, particularly in mitral valve disease),\n** BAV'' (rare, especially in RA),\n** right ventricular hypertrophy (RM)\n\n* Chest X-ray:\n** pulmonary overload (MI, RA, MR)\n** cardiomegaly (IM, IA, MR),\n** dilatation of the ascending aorta (RA, IA)\n\n* Stress test:\n** Contraindicated in symptomatic valve disease.\n** Severe asymptomatic MI: not very well codified with study of VO<sub>2</sub> or stress ultrasound (regurgitant volume, pulmonary pressures on exertion in search of criteria that could prompt intervention)\n** AR: value of a sub-maximal test in the case of a tight but asymptomatic AR</u> (search for: symptoms, ECG changes, unsuitable blood pressure profile, ventricular arrhythmia in favour of surgical management).\n** IA: not indicated\n** MR: stress ultrasound to measure pulmonary gradients and pressures if there is a discrepancy between clinical and ultrasound findings.",
+  "question": {
+    "properties": {
+      "question": "What is the primary indication for a stress test in patients with severe chronic valvulopathy?",
+      "option_a": "Atrial fibrillation",
+      "option_b": "Right ventricular hypertrophy",
+      "option_c": "Mitral valve disease",
+      "option_d": "Pulmonary overload",
+      "correct_option": "option_c"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-102",
+  "content": "{{knowledge objective\n|Identifiant=OIC-102-05-B\n|Item_parent=Diplopia\n|Item_parent_short=Diplopia\n|Rank=B\n|Title=Know the definition of tropies\n|Description=exotropy, esotropy, hypertropy\n|Topic=Positive diagnosis\n|Contributors=\n|Order=5}}\nTropia (or strabismus): deviation of the visual axes.\n\n'''- Esotropia:''' inward deviation of the eye\n\n'''- Exotropia''': outward deviation of the eye\n\n'''- Hypertropia:''' upward deviation of the eye\n\n'''- Hypotropia:''' downward deviation of the eye",
+  "question": {
+    "question": "Which type of tropia refers to an outward deviation of the eye?",
+    "option_a": "Esotropia",
+    "option_b": "Exotropia",
+    "option_c": "Hypertropia",
+    "option_d": "Hypotropia",
+    "correct_option": "B"
+  }
+}

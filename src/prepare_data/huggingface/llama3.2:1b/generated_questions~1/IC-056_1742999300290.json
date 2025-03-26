@@ -1,0 +1,22 @@
+{
+  "folder": "IC-056",
+  "content": "{{knowledge objective\n|Identifiant=OIC-056-08-B\n|Item_parent=The disabled child: orientation and care (see items 118, 121)\n|Item_parent_short=The disabled child: orientation and care (see items 118, 121)\n|Rank=B\n|Title=Knowing the aetiological approach to disability\n|Description=Know how to search for a cause of disability\n|Rubric=Etiologies\n|Contributors=\n|Order=8}}\nAn aetiological approach to be carried out in parallel with the implementation of treatment.\n\nAetiological orientation is based on the systems affected (central or peripheral motor impairment, sensory impairment, cognitive impairment), the age of onset of the disorders (antenatal/neonatal/post-natal), and their course (stability, improvement, regression).\n\nA distinction must be made between genetic causes (malformations, chromosomal or gene abnormalities, etc.) and accidental causes (perinatal anoxia, cranial trauma, meningitis, etc.).\n\nDepending on the diagnostic hypotheses, brain imaging (MRI), genetic tests and electroencephalograms may be carried out.",
+  "question": {
+    "properties": {
+      "question": "What is the primary approach to understanding the aetiological cause of disability?",
+      "option_a": "Aetiological orientation based on the systems affected (central or peripheral motor impairment, sensory impairment, cognitive impairment)",
+      "option_b": "Aetiological orientation based on the age of onset of the disorders (antenatal/neonatal/post-natal)",
+      "option_c": "Aetiological orientation based on the diagnostic hypotheses (brain imaging, genetic tests, electroencephalograms)",
+      "option_d": "Aetiological orientation based on the systems affected (central or peripheral motor impairment, sensory impairment, cognitive impairment)",
+      "correct_option": "option_a"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d"
+    ],
+    "type": "string"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-342",
+  "content": "{{knowledge objective\n|Identifiant=OIC-342-13-B\n|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=B\n|Title=Knowing second-line tests for syncope and lipothymia\n|Description=Implantable ECG monitoring, tilt test, endocavitary electrophysiological study\n|Rubric=Additional tests\n|Contributors=\n|Order=13}}\nBlood ionogram and creatininemia, tilt test, ECG monitoring, endocavitary electrophysiological study",
+  "question": {
+    "question": "Which of the following is considered a second-line test for syncope and lipothymia?",
+    "option_a": "Blood ionogram and creatininemia",
+    "option_b": "Tilt test",
+    "option_c": "ECG monitoring",
+    "option_d": "Endocavitary electrophysiological study",
+    "correct_option": "D"
+  }
+}

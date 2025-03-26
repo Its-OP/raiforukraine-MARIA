@@ -1,0 +1,12 @@
+{
+  "folder": "IC-101",
+  "content": "{{knowledge objective\n|Identifiant=OIC-101-13-B\n|Item_parent=Facial paralysis\n|Item_parent_short=Facial paralysis\n|Rank=B\n|Intitle=Clinical iconography of a typical example of a parotid tumour complicated by PFP\n|Description=Visualisation of parotid tumour invasion suggesting tumour-induced PFP\n|Rubric=Multimedia content\n|Contributors=\n|Order=13}}\nPlease refer to the CEN website: www.cen-neurologie.fr where videos are available.",
+  "question": {
+    "question": "Which of the following best describes the clinical iconography of a typical example of a parotid tumour complicated by PFP (Peripheral Facial Paralysis)?",
+    "option_a": "A video showing the surgical removal of the parotid tumour without any facial paralysis symptoms.",
+    "option_b": "A visual representation of the tumour invading facial nerves, causing facial paralysis.",
+    "option_c": "A series of images depicting the tumour's growth over time without any facial nerve involvement.",
+    "option_d": "A diagram illustrating the anatomical location of the parotid tumour without any mention of facial paralysis.",
+    "correct_option": "B"
+  }
+}

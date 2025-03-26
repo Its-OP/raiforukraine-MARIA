@@ -1,0 +1,46 @@
+{
+  "folder": "IC-086",
+  "content": "{{knowledge objective\n|Identifiant=OIC-086-07-A\n|Item_parent=Eyelid pathology\n|Item_parent_short=Eyelid pathology\n|Rank=A\n|Title=Photograph of a chalazion\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=7}}\n\n[[File:Chalazion interne.jpg|left|vignette|Chalazion with internal extension to the eyelid (tarsal surface)]]\n\n[[File:Chalazion externe.jpg|gauche|vignette|Chalazion with extension to the outer surface of the eyelid (cutaneous surface)]]",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary characteristic of a chalazion?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "A chalazion is a type of eyelid condition that typically affects the tarsal surface.",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "A chalazion is usually caused by a blockage of the meibomian gland.",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "A chalazion is a type of eyelid condition that typically affects the cutaneous surface.",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "A chalazion is a type of eyelid condition that typically affects the tarsal surface and is often associated with meibomian gland dysfunction.",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A chalazion is a type of eyelid condition that typically affects the tarsal surface.",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

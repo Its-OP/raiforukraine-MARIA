@@ -1,0 +1,12 @@
+{
+  "folder": "IC-336",
+  "content": "{{knowledge objective\n|Identifiant=OIC-336-04-A\n|Item_parent=Non-traumaticoma in adults and children\n|Item_parent_short=Non-traumatic coma in adults and children\n|Rank=A\n|Title=Know how to carry out a neurological examination of a patient in coma.\n|Description=Be able to interpret the examination of the pupils, a threatening blink; be able to describe the position and movement of the eyeballs.\n|Rubric=Positive diagnosis\n|Contributors=Nicolas Weiss\n|Order=4}}\n\n- Better motor response to nociceptive stimuli\n\n- State of the pupils (photomotor reflex) :\n\no Myosis >> opioid toxidrome\n\no Unilateral mydriasis >> temporal engagement until proven otherwise\n\no Bilateral mydriasis >> tricyclic antidepressant toxidrome or severe neurological impairment\n\n- Eye movements :\n\no The axis of the 2 eyes is parallel overall (slight exophoria in reality). If this parallelism is lost, suggest a lesion of the brain stem (basilar trunk thrombosis +++, brain stem haematoma).\n\no Pendular movements of the eyeballs (slow, regular movements from left to right and right to left) are not localising, often associated with coma of intermediate depth.\n\no Unilateral or bilateral VI paralysis is not localising (length of nerve pathway) >> HTIC",
+  "question": {
+    "question": "During a neurological examination of a patient in a coma, what does bilateral mydriasis typically indicate?",
+    "option_a": "An opioid overdose",
+    "option_b": "A temporal lobe lesion",
+    "option_c": "A tricyclic antidepressant overdose or severe neurological impairment",
+    "option_d": "A brain stem lesion",
+    "correct_option": "C"
+  }
+}

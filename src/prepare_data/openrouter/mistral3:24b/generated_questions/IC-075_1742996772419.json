@@ -1,0 +1,12 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-27-A\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=A\n|Title=Knowing the institutional tools (tabac info service)\n|Description=None\n|Rubric=Taking charge\n|Contributors=\n|Order=27}}\nTelephone support: Tabac Info Service line (3989)\n\n* Do not hesitate to refer patients to the <nowiki>http://www.tabac-info-service.fr</nowiki> websites and the 3989 free telephone line, which offer personalised coaching.",
+  "question": {
+    "question": "Which of the following is the correct telephone number for the Tabac Info Service line in France?",
+    "option_a": "3988",
+    "option_b": "3989",
+    "option_c": "3990",
+    "option_d": "3987",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-351",
+  "content": "{{knowledge objective\n|Identifiant=OIC-351-12-A\n|Item_parent=Agitation and acute delirium\n|Item_parent_short=Agitation and acute delirium\n|Rank=A\n|Title=Knowing the indications and conditions of free hospitalisation and hospitalisation without consent according to age\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=12}}\nCf item 2C-015",
+  "question": {
+    "question": "Under what conditions can a minor be hospitalized without consent in France?",
+    "option_a": "When the minor is over 16 years old and has a mental health condition.",
+    "option_b": "When the minor is under 16 years old and poses a danger to themselves or others.",
+    "option_c": "When the minor is over 13 years old and has a physical health condition.",
+    "option_d": "When the minor is under 13 years old and has a chronic illness.",
+    "correct_option": "B"
+  }
+}

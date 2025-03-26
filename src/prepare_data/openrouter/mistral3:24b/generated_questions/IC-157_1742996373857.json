@@ -1,0 +1,12 @@
+{
+  "folder": "IC-157",
+  "content": "{{knowledge objective\n|Identifiant=OIC-157-05-B\n|Item_parent=Bacteremia/Fungemia in adults and children\n|Item_parent_short=Bacteremia/Fungemia in adults and children\n|Rank=B\n|Title=Know the infectious agents that cause fungal infections, as well as their route of entry and the associated terrain.\n|Description=None\n|Rubric=Etiologies\n|Contributors=Jean-Pierre Gangneux,Florence Robert-Gangneux\n|Order=5}}\n\n- Fungemia = candidemia in 90% of cases\n\n- Serious infection: 30-40% mortality rate\n\n- Candidemia: C. albicans (50-60%), C. glabrata (15-20%), C. parapsilosis (10-15%), C. tropicalis, C. krusei\n\n- Candida is part of the commensal flora (oral cavity and digestive tract) and can colonise several anatomical sites before translocating to the blood compartment.\n\n- Candidaemia is almost always associated with health care and favoured by :\n\n* Cancer and immunodepression (chemotherapy, neutropenia, corticosteroid therapy, organ transplantation),\n* Central venous lines,\n* Abdominal surgery, stay in intensive care unit.\n* Prior antibiotic therapy, malnutrition.\n\n- The most common routes of entry for candidiasis are :\n\n*Vascular catheter\n*Abdominal surgery\n*Digestive mucosal lesions (mucositis during chemotherapy)\n*IV drug addiction\n\n<big>-</big> Other fungal agents: ''Cryptococcus'' sp., ''Malassezia'' (paediatrics) (NB. ''Aspergillus'' does not grow in blood cultures)",
+  "question": {
+    "question": "Which of the following is the most common route of entry for candidiasis in patients?",
+    "option_a": "Respiratory tract infections",
+    "option_b": "Vascular catheter",
+    "option_c": "Skin lesions from minor cuts",
+    "option_d": "Urinary tract infections",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-247",
+  "content": "{{knowledge objective\n|Identifiant=OIC-247-06-A\n|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications\n|Rank=A\n|Title=Knowing the risk factors for the onset of microangiopathic disorders\n|Description=None\n|Section=Follow-up and/or prognosis\n|Contributors=H BIHAN,C BRIET,E FEIGERLOVA,E LARGER,G PREVOST\n|Order=6}}\n\nHyperglycaemia: level (HbA1c) and duration of exposure\n\nDyslipidemia\n\nAssociated smoking or alcoholism\n\nSpecific DRFs for certain diseases: genetic factors, ethnic origins (e.g. for nephropathy), for neuropathy: tall stature, nutritional and vitamin deficiencies, smoking and alcoholism, renal insufficiency, etc.",
+  "question": {
+    "question": "Which of the following is a specific risk factor for the development of diabetic neuropathy?",
+    "option_a": "High blood pressure",
+    "option_b": "Tall stature",
+    "option_c": "Obesity",
+    "option_d": "Physical inactivity",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "folder": "IC-027",
+  "content": "{{knowledge objective\n|Identifiant=OIC-027-04-A\n|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Rank=A\n|Title=Toxoplasmosis: knowing the consequences of IMF\n|Description=Knowing the risks according to the term of the pregnancy\n|Rubric=Definition\n|Contributors=Alexandre Vivanti, Philippe Deruelle\n|Order=4}}\nMaternal-foetal transmission depends on the gestational age at infection. It increases as pregnancy progresses. It is very low in the periconceptional period (1% between 0 and 7 weeks' gestation; 6 to 10% up to 13 weeks' gestation), while in the 2nd trimester, maternal-foetal transmission is around 40%. In the 3rd trimester, it is 72%.\n\nThe severity of lesions decreases with gestational age:\n\n- Severe embryopathy and foetopathy more frequent in the 1st trimester (61%);\n\n- Foetopathies or sub-clinical forms (serological) in the 2nd trimester (25%) ;\n\n- Pure serological forms (no foetal repercussions) in the 3rd trimester\n\nIn all, 70% of children infected \"in utero\" have a sub-clinical condition; 25% have a mild form, mainly ocular (chorioretinitis); less than 5% have a severe form with neurological manifestations (ventricular dilatation, hydrocephalus, etc.).",
+  "question": {
+    "properties": {
+      "question": "What is the primary factor that increases the risk of maternal-foetal transmission of toxoplasmosis during pregnancy?",
+      "option_a": "The type of toxoplasmosis infection",
+      "option_b": "The gestational age at infection",
+      "option_c": "The type of drug used during pregnancy",
+      "option_d": "The type of irradiation used during pregnancy",
+      "correct_option": "option_b"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

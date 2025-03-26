@@ -1,0 +1,12 @@
+{
+  "folder": "IC-288",
+  "content": "{{knowledge objective\n|Identifiant=OIC-288-07-B\n|Item_parent=Hemorrhoidal pathology\n|Item_parent_short=Hemorrhoidal pathology\n|Rank=B\n|Title=Knowing the differential diagnosis of internal haemorrhoids\n|Description=\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=7}}\n\nCf: ''[[Differential diagnosis of external haemorrhoidal thrombosis 2C-288-DP-B02|2C-288-DP-B02]]''''\n\n\nThe main diagnostic difficulty lies in the \"haemorrhoid offence\": sufferers and the practitioners concerned attribute any proctological complaint a priori to haemorrhoids, whereas these non-specific complaints may be related to suppuration, an anal fissure or cancer. This highlights the need for a detailed semiological approach and a good clinical examination.\n\nIn order to avoid being confused by a different symptomatology, the following summary table provides points of orientation in the event of acute pain.\n\n'''Table 1: etiological orientation according to anal pain'''\n{| class=\"wikitable\"\n|What type?\n|What rhythm?\n|How long does it last?\n|But also ....\n|So I mention\n|-\n|Cooking\n|The saddle\n|One to two days\n|Prostatic edema and bleeding\n|Haemorrhoidal crisis\n|-\n|Intense pain\n|Touching/support\n|A few hours to a few days\n|Painful anal tumefaction, well-limited\n|External haemorrhoidal thrombosis\n|-\n|Burning\n|Bowel movement and long afterwards (hours)\n|Periods of several weeks\n|Bleeding\n|Anal fissure\n|-\n|Tension\n|Touch/support\n|Several hours and continuous, inflammatory\n|Painful swelling, poorly limited; dysuria\n|Abscess\n|-\n|Fingerprints\n|Before bowel movements\n|Several days\n|Seizures\n|Fecalome/\n\ncancer\n|}\n<br />",
+  "question": {
+    "question": "Which of the following is the most likely cause of intense pain that occurs upon touching or supporting the anal area and lasts from a few hours to a few days?",
+    "option_a": "Haemorrhoidal crisis",
+    "option_b": "Anal fissure",
+    "option_c": "External haemorrhoidal thrombosis",
+    "option_d": "Abscess",
+    "correct_option": "C"
+  }
+}

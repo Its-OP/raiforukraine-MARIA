@@ -1,0 +1,12 @@
+{
+  "folder": "IC-187",
+  "content": "{{knowledge objective\n|Identifiant=OIC-187-02-B\n|Item_parent=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Item_parent_short=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Rank=B\n|Title=Knowing the pathophysiological basis of urticaria\n|Description=None\n|Rubric=Pathophysiological elements\n|Contributors=\n|Order=2}}\n\n\nUrticaria results from dermal oedema (superficial urticaria) or dermo-hypodermal oedema (deep urticaria or angioedema) due to tissue vasodilatation with increased capillary permeability secondary to the release by mast cells of various mediators, the main one being histamine.\n\nMast cell activation can occur by 2 mechanisms:\n- Immunological: via IgE or IgG-type autoantibodies\n- Non-immunological: by direct activation of mast cells via different receptors on their surface or by the direct pharmacological action of certain drugs (e.g. NSAIDs).",
+  "question": {
+    "question": "What is the primary mediator released by mast cells that causes vasodilatation and increased capillary permeability in urticaria?",
+    "option_a": "Serotonin",
+    "option_b": "Bradykinin",
+    "option_c": "Histamine",
+    "option_d": "Prostaglandins",
+    "correct_option": "C"
+  }
+}

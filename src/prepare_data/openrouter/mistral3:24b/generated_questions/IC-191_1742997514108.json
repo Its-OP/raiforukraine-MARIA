@@ -1,0 +1,12 @@
+{
+  "folder": "IC-191",
+  "content": "{{knowledge objective\n|Identifiant=OIC-191-04-B\n|Item_parent=Fever in an immunocompromised patient\n|Item_parent_short=Fever in an immunocompromised patient\n|Rank=B\n|Title=Know the main pathogens responsible for infections according to the type of immune deficiency.\n|Description=None\n|Rubric=Physiopathology\n|Contributors=Am\u00e9lie Servettaz\n|Order=4}}\n\n'''<big>With regard to neutropenia:</big>''''\n\n<big>- '''<7 days:''' Enterobacteriaceae, Gram + cocci (Staphylococcus, Streptococcus)</big>\n\n<big>- '''\u22657 days:''' Pseudomonas aeruginosa, invasive candidiasis, aspergillus...</big>\n\n\n<big>Summary table by type of immune deficiency</big>\n{| class=\"wikitable\"\n|+\nType of deficiency\n!Bacteria\n!Viruses\nFungi\nOther\n|-\nPhagocyte deficiency (PNN, macrophages)\n|Extracellular bacteria\n|HSV (mucositis)\n|Aspergillus\n|\n|-\nCellular immunity deficiency\n|Intracellular bacteria\n\nMycobacteria\n\nListeria, Salmonella\n|CMV, EBV, HPV\n|Candida (invasive candidiasis) Aspergillus\n\nCryptococcus neoformans\n\nPneumocystis jirovecii\n|Toxoplasma gondii\n|-\nHumoral immunity deficiency\n|Extracellular bacteria\n\nEncapsulated bacteria (meningococcus, pneumococcus, Haemophilus influenzae)\n|Enteroviruses\n|\n|Giardia intestinalis\n|-\nComplement deficiency\n|Encapsulated bacteria\n|\n|\n|\n|-\nAsplenia\n|Encapsulated bacteria\n|\n|\n|Intraerythrocytic germs: (''Plasmodium, Babesia'')\n|}",
+  "question": {
+    "question": "Which pathogens are primarily responsible for infections in patients with neutropenia lasting less than 7 days?",
+    "option_a": "Pseudomonas aeruginosa and invasive candidiasis",
+    "option_b": "Enterobacteriaceae and Gram-positive cocci (Staphylococcus, Streptococcus)",
+    "option_c": "Mycobacteria and Listeria",
+    "option_d": "Aspergillus and Cryptococcus neoformans",
+    "correct_option": "B"
+  }
+}

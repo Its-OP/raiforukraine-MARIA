@@ -1,0 +1,12 @@
+{
+  "folder": "IC-239",
+  "content": "{{knowledge objective\n|Identifiant=OIC-239-07-B\n|Item_parent=Acrosyndromes (Raynaud's phenomenon, erythermalgia, acrocyanosis, frostbite, digital ischaemia)\n|Item_parent_short=Acrosyndromes (Raynaud's phenomenon, erythermalgia, acrocyanosis, frostbite, digital ischaemia)\n|Rank=B\n|Title=Photography of frostbite\n|Description=None\n|Rubric=Multimedia content\n|Contributors= Sophie Blaise, Luc Bressollette, Claire Le Hello\n|Order=7}}\n[[File:Engelures.jpg|vignette|Engelures d'orteils]]",
+  "question": {
+    "question": "Which of the following conditions is primarily characterized by the image showing frostbite?",
+    "option_a": "Erythermalgia",
+    "option_b": "Raynaud's phenomenon",
+    "option_c": "Acrocyanosis",
+    "option_d": "Frostbite",
+    "correct_option": "D"
+  }
+}

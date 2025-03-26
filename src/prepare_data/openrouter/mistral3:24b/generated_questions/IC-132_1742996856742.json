@@ -1,0 +1,12 @@
+{
+  "folder": "IC-132",
+  "content": "{{knowledge objective\n|Identifiant=OIC-132-15-B\n|Item_parent=Cognitive disorders in the elderly. (see item 108)\n|Item_parent_short=Cognitive disorders in the elderly. (see item 108)\n|Rank=B\n|Title=Know the broad outlines of the results expected from MRI in neurocognitive disorders.\n|Description=Application of HAS 2011 criteria\n|Section=Additional examinations\n|Contributors=\n|Order=15}}\nCerebral imaging (MRI at best if no contraindication) should be performed for any neurocognitive disorder of recent discovery (initial diagnosis).\n\nTwo objectives\n\n1.     Rule out a curable cause of cognitive impairment (subdural haematoma, normal pressure hydrocephalus, tumour, etc.).\n\n2.     To obtain morphological elements that may point to the aetiology of cognitive disorders\n\na.     Localised atrophy (T1, hippocampal coronal sections, etc.)\n\nb.     Vascular lesions (FLAIR) Microbleeds (T2*) Recent ischaemia (diffusion)",
+  "question": {
+    "question": "What is the primary purpose of performing an MRI in the initial diagnosis of a neurocognitive disorder in the elderly?",
+    "option_a": "To identify the exact cause of cognitive impairment, such as Alzheimer's disease.",
+    "option_b": "To rule out a curable cause of cognitive impairment, such as a subdural hematoma or normal pressure hydrocephalus.",
+    "option_c": "To assess the severity of cognitive decline and predict future cognitive decline.",
+    "option_d": "To monitor the progression of cognitive impairment over time.",
+    "correct_option": "B"
+  }
+}

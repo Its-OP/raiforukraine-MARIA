@@ -1,0 +1,12 @@
+{
+  "folder": "IC-235",
+  "content": "{{knowledge objective\n|Identifiant=OIC-235-14-B\n|Item_parent=Acute pericarditis\n|Item_parent_short=Acute pericarditis\n|Rank=B\n|Title=Savoir \u00e9voquer les principales \u00e9tiologies devant une tamponade\n|Description=Evoke the main aetiologies of tamponade (haemopericardium, traumatic, neoplastic, viral, post-IDM, aortic dissection).\n|Rubric=Etiologies\n|Contributors=Jennifer Cautela\n|Order=14}}\n\n\n* '''The most common causes of tamponade are:''''\n** Purulent\n** Neoplastic\n** Tuberculosis\n** Traumatic (because of sudden onset)\n\n* However, viral pericarditis may progress to tamponade (diagnosis of exclusion).",
+  "question": {
+    "question": "Which of the following is NOT a common cause of tamponade?",
+    "option_a": "Haemopericardium",
+    "option_b": "Neoplastic",
+    "option_c": "Viral pericarditis",
+    "option_d": "Traumatic",
+    "correct_option": "C"
+  }
+}

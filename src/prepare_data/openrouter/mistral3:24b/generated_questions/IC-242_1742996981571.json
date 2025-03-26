@@ -1,0 +1,12 @@
+{
+  "folder": "IC-242",
+  "content": "{{knowledge objective\n|Identifiant=OIC-242-12-B\n|Item_parent=Hyperthyroidism\n|Item_parent_short=Hyperthyroidism\n|Rank=B\n|Title=Knowing the diagnostic criteria for iatrogenic hyperthyroidism\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Magalie Haissaguerre,Camille Buffet\n|Order=12}}\n\nAmiodarone-based drugs, iodinated contrast products and certain other drugs (anti-cancer drugs including interferon and immunotherapy; thyroid hormones) can cause thyrotoxicosis by various mechanisms.\n\nAmiodarone induces very prolonged saturation (9 to 12 months) of the thyroid with iodine, with dysthyroidism in 10% of patients treated, by 2 different mechanisms:\n\n- Type I hyperthyroidism or functional form (previously pathological thyroid) (excess synthesis, pre-existing nodular thyroid pathology)\n\n- Type II hyperthyroidism or lesional form (thyroiditis with release of preformed thyroid hormones, no pre-existing thyroid pathology, )\n\nIn the absence of TSH receptor antibodies, the differential diagnosis between these 2 forms depends on ultrasound and thyroid scintigraphy.\n\nPatients treated with amiodarone have a non-pathological biological characteristic: a slightly elevated T4L concentration (due to inhibition of T4 deiodase) which contrasts with normal TSH and T3L concentrations.\n\n[Thyroid workup analysis SD-194\n\nA single injection of iodinated contrast product can saturate the thyroid with iodine for 4 to 6 weeks, sometimes inducing a transient hyperthyroidism that is generally not very symptomatic.\n\nAnti-cancer immunotherapy frequently leads to thyroiditis, with a transient phase of hyperthyroidism, often followed by a phase of hypothyroidism, sometimes permanent.",
+  "question": {
+    "question": "Which of the following is a characteristic biological feature in patients treated with amiodarone?",
+    "option_a": "Elevated TSH levels with normal T4L and T3L concentrations",
+    "option_b": "Elevated T4L levels with normal TSH and T3L concentrations",
+    "option_c": "Elevated T3L levels with normal TSH and T4L concentrations",
+    "option_d": "Elevated TSH and T4L levels with normal T3L concentrations",
+    "correct_option": "B"
+  }
+}

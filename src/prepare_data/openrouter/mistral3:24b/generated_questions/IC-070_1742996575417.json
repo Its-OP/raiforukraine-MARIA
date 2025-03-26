@@ -1,0 +1,12 @@
+{
+  "folder": "IC-070",
+  "content": "{{knowledge objective\n|Identifiant=OIC-070-04-B\n|Item_parent=Psychological disorders in the elderly\n|Item_parent_short=Psychological disorders in the elderly\n|Rank=B\n|Title=Knowing the specific risk factors, prognosis and course of psychiatric disorders in the elderly.\n|Description=Suicidal behaviour (item 353)Schizophrenia (item 64)Mood disorders (item 64 and item 66)Anxiety disorders (item 66)Alcohol- and drug-related disorders (item 77 and item 77)\n|Rubric=Epidemiology\n|Contributors=Pierre Vandel,Marie Tournier\n|Order=4}}\n\nElderly patients should be aware of the risk of iatrogenic side-effects, particularly from psychotropic drugs.\n\nPolymedication exposes patients to the risk of drug interactions.\n\nFor mood disorders, risk factors are more marked in the elderly: non-psychiatric co-morbidities, loss of autonomy, stressful psycho-social events. Progress depends in part on the therapeutic strategy. The risk of suicide is high, and the number of completed suicides is higher than in younger patients.\n\nFrequent association with non-psychiatric pathologies, either by increasing the risk of developing a depressive episode characterised by certain pathologies (dementia, cardiovascular pathologies, sensory impairment, cancer) or by the fact that a depressive episode increases the risk of occurrence or aggravation of certain non-psychiatric pathologies (cognitive impairment, or even progression to Alzheimer's disease or related illnesses, diabetes, coronary artery disease).\n\nSerotonergic antidepressants are the first-line treatment. For bipolar disorder, thymoregulators are the mainstay of treatment.\n\nFor psychotic disorders, second-generation antipsychotics should be used as first-line treatment. Treatment is identical to that for adults.\n\nFor BPSD, management must be comprehensive, with priority given to non-drug approaches. A non-psychiatric, iatrogenic or psychiatric cause must be ruled out. Drug strategies are reserved for severe BPSD. The benefit/risk ratio should be assessed regularly.",
+  "question": {
+    "question": "Which of the following is the first-line treatment for mood disorders in the elderly?",
+    "option_a": "First-generation antipsychotics",
+    "option_b": "Serotonergic antidepressants",
+    "option_c": "Thymoregulators",
+    "option_d": "Benzodiazepines",
+    "correct_option": "B"
+  }
+}

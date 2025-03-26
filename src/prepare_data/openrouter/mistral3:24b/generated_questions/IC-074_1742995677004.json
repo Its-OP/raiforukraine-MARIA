@@ -1,0 +1,12 @@
+{
+  "folder": "IC-074",
+  "content": "{{knowledge objective\n|Identifiant=OIC-074-07-A\n|Item_parent=Prescription and monitoring of psychotropic drugs (see item 330)\n|Item_parent_short=Prescription and monitoring of psychotropic drugs (see item 330)\n|Rank=A\n|Title=Antipsychotics: knowing how to prescribe in emergency situations\n|Description=Preferred molecules, pre-therapeutic assessment, route of administration\n|Rubric=Emergency identification\n|Contributors=Louise Carton,Florian Naudet,Marie Tournier\n|Order=7}}\n\nAntipsychotics may be prescribed in \"emergency\" cases of agitation or suicidal crisis. Route of administration :\n\n*per os whenever possible\n*or intramuscularly.\n\nRecommended treatments for agitation: in psychotic and bipolar disorders, a \"per os\" antipsychotic treatment if possible (\"olanzapine\", \"aripiprazole\", \"levomepromazine\") or intramuscular (\"olanzapine\", \"aripiprazole\" and \"levomepromazine\").\n\nCyamemazine carries a risk of arterial hypotension.\n\nThe \"pre-therapeutic assessment\" is based on the ECG whenever possible. In the case of major states of agitation, the ECG should be taken after administration, and the reasons for this should be recorded in the medical record.",
+  "question": {
+    "question": "In emergency situations requiring the administration of antipsychotics, which route of administration is preferred?",
+    "option_a": "Intravenous administration to ensure rapid absorption",
+    "option_b": "Intramuscular administration only if oral administration is not possible",
+    "option_c": "Subcutaneous administration for sustained release",
+    "option_d": "Oral administration whenever possible",
+    "correct_option": "D"
+  }
+}

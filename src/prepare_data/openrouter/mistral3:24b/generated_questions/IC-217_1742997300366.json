@@ -1,0 +1,12 @@
+{
+  "folder": "IC-217",
+  "content": "{{knowledge objective\n|Identifiant=OIC-217-03-B\n|Item_parent=Mononucleosis syndrome\n|Item_parent_short=Mononucleosis syndrome\n|Rank=B\n|Title=Photo of blood smear\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=3}}\nBlood smear of mononucleosis syndrome. Presence of activated lymphocytes (hyperbasophilic lymphocytes). (Illustration provided by Dr Karim MALOUM, Haematology Department, Piti\u00e9-Salp\u00eatri\u00e8re Hospital)\n[[File:Sd Mononucleosique.jpg|vignette|Blood smear of a mononucleosis syndrome. Presence of activated lymphocytes (hyperbasophilic lymphocytes). ]]\n<br />",
+  "question": {
+    "question": "In a blood smear of mononucleosis syndrome, which type of cells are typically observed as being activated?",
+    "option_a": "Eosinophils",
+    "option_b": "Neutrophils",
+    "option_c": "Hyperbasophilic lymphocytes",
+    "option_d": "Platelets",
+    "correct_option": "C"
+  }
+}

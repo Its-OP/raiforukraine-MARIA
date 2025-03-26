@@ -13,7 +13,7 @@ from src.eval.distractor_quality import compute_distractor_quality_for_df
 
 from concurrent.futures import ProcessPoolExecutor
 from tqdm import tqdm
-import logging
+import logging 
 import math
 
 def eval_dataframe(df_merged: pd.DataFrame,

@@ -1,0 +1,43 @@
+{
+  "folder": "IC-027",
+  "content": "{{knowledge objective\n|Identifiant=OIC-027-44-B\n|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Rank=B\n|Title=Addiction and pregnancy: long-term consequences\n|Description=None\n|Rubric=Diagnosis\n|Contributors=Alexandre Vivanti, Philippe Deruelle\n|Ordre=44}}\nThe long-term consequences of addictive behaviour during pregnancy are linked to :\n\n- the environment: the mother-child and parent-child bond, family lifestyle, maternal psychological disorders, etc;\n\n- in utero\" exposure to alcohol: malformations, psychomotor developmental abnormalities SD-115|mental retardation, learning difficulties, social behaviour disorders;\n\n- possible after-effects of prematurity or foetal suffering \"in utero\".\n\nThis chapter concludes with two key points:\n\n- the importance of an environment of caring professionals ;\n\n- the need for multidisciplinary work.\n\nThese are essential guarantees of support for expectant mothers and their newborn babies.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary consequence of addictive behavior during pregnancy?",
+        "description": "The long-term consequences of addictive behaviour during pregnancy are linked to",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Environmental factors",
+        "description": "The mother-child and parent-child bond, family lifestyle, maternal psychological disorders, etc.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "In utero exposure to alcohol",
+        "description": "Malformations, psychomotor developmental abnormalities, mental retardation, learning difficulties, social behaviour disorders",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Premature birth or foetal suffering",
+        "description": "In utero",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Maternal psychological disorders",
+        "description": "The environment, family lifestyle, maternal psychological disorders, etc.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Environmental factors",
+        "description": "The mother-child and parent-child bond, family lifestyle, maternal psychological disorders, etc.",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "correct_option"
+    ],
+    "type": "object"
+  }
+}

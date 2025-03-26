@@ -1,0 +1,22 @@
+{
+  "folder": "IC-233",
+  "content": "{{knowledge objective\n|Identifiant=OIC-233-01-A\n|Item_parent=Valvulopathies\n|Item_parent_short=Valvulopathies\n|Rank=A\n|Title=Know the definition of mitral insufficiency (MI), aortic stenosis (AS), aortic insufficiency (AI), mitral stenosis (MS).\n|Description=None\n|Rubric=Definition\n|Contributors=Myriam Akodad,Florence Leclercq\n|Order=1}}\n\n* Mitral insufficiency'' (MI): Dysfunction of the mitral valve with systolic closure defect resulting in regurgitation of blood from the left ventricle (LV) into the left atrium (LA) during systole.\n* Aortic stenosis'' (AS): Dysfunction of the aortic valve with limited opening, resulting in an obstacle to systolic ejection from the LV.\n* Aortic insufficiency'' (AI): Dysfunction of the aortic valve with closure defect in diastole resulting in regurgitation of blood from the aorta into the LV in diastole.\n* Mitral narrowing'' (MR): Dysfunction of the mitral valve with limited opening in diastole, resulting in an obstacle to the flow of blood from the OG to the LV at the time of cardiac filling.",
+  "question": {
+    "properties": {
+      "question": "What is the primary difference between mitral insufficiency (MI) and aortic stenosis (AS)?",
+      "option_a": "Mitral insufficiency (MI) is characterized by a systolic closure defect, while aortic stenosis (AS) is characterized by a limited opening.",
+      "option_b": "Mitral insufficiency (MI) is typically associated with a regurgitant volume of 100 mL/min, while aortic stenosis (AS) is typically associated with a regurgitant volume of 50 mL/min.",
+      "option_c": "Mitral insufficiency (MI) is often associated with a left ventricular volume overload, while aortic stenosis (AS) is often associated with a left ventricular volume deficit.",
+      "option_d": "Mitral insufficiency (MI) is typically diagnosed in adults, while aortic stenosis (AS) is typically diagnosed in children.",
+      "correct_option": "option_a"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

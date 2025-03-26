@@ -1,0 +1,46 @@
+{
+  "folder": "IC-136",
+  "content": "{{knowledge objective\n|Identifiant=OIC-136-02-A\n|Item_parent=Local, locoregional and general anaesthesia\n|Item_parent_short=Local, locoregional and general anaesthesia\n|Rank=A\n|Title=Knowing mortality attributable to anaesthesia\n|Description=None\n|Rubric=Epidemiology\n|Contributors=\n|Order=2}}\nDue to the very rigorous safety procedures surrounding the anaesthetic process in France, including its legal framework, mortality directly attributable to anaesthesia has been considerably reduced since the 1990s. It has fallen from 1 death attributable to anaesthesia for every 10,000 anaesthesias (in the early 1980s), to one death for every 150,000 (1999), and is currently around 1/200,000.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the current mortality rate of anaesthesia in France?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "1/100,000",
+        "description": "The current mortality rate of anaesthesia in France (as of 2020)",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "1/200,000",
+        "description": "The current mortality rate of anaesthesia in France (as of 2020)",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "1/10,000",
+        "description": "The mortality rate of anaesthesia in France (in the early 1980s)",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "1/100,000 (as of 1999)",
+        "description": "The mortality rate of anaesthesia in France (in the early 1990s)",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "1/200,000",
+        "description": "The current mortality rate of anaesthesia in France (as of 2020)",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

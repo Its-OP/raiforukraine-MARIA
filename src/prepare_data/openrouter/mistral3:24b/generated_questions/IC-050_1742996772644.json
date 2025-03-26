@@ -1,0 +1,12 @@
+{
+  "folder": "IC-050",
+  "content": "{{knowledge objective\n|Identifiant=OIC-050-08-A\n|Item_parent=Genito-scrotal pathology in boys and men\n|Item_parent_short=Genito-scrotal pathology in boys and men\n|Rank=A\n|Title=Know how to diagnose hydrocele and cord cysts\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=C\u00e9dric Leb\u00e2cle, Alice Faure\n|Order=8}}\n\n \n*The clinical presentation of a hydrocele is that of an enlarged, non-painful, non-inflammatory bursa.  In adults, the increase in volume is progressive.\n*The testicle is often not perceived because of the volume of fluid surrounding it. The hernial orifices are free.\n*Positive transillumination helps in the diagnosis of a hydrocele since the application of a light source behind the scrotum allows light to pass through, unlike an inguinal hernia or a [[Testicular tumours|tumour (313)]].\n*In children, the hydrocele is due either to the persistence of the peritoneovaginal canal, in which case it is known as a communicating hydrocele, or, as in adults, to a reaction to an inflammatory, tumoral or traumatic phenomenon. In this case, it reflects a failure to resorb the liquid secreted by the vagina (known as a non-communicating hydrocele). The increase in volume is progressive.\n*In children, the communicating nature is suggested by the variations in volume during the day, the increase in symptoms when standing and the possibility of expelling the fluid by squeezing the bursa.\n*Sudden tension (often coinciding with a viral infection in children) may be painful, and the skin may be bluish. In this situation, the differential diagnosis of strangulated hernia or torsion of the spermatic cord may be raised.\n*In adults, it is common and is due to a defect in the resorption of fluid secreted by the vagina (non-communicating).\n*The clinical presentation of a cord cyst is that of a non-painful swelling suspended above and independent of the testicle.\n*Hydrocele or cord cyst are not emergencies.\n\n<br />",
+  "question": {
+    "question": "Which of the following is a key diagnostic feature of a hydrocele in adults?",
+    "option_a": "The testicle is easily palpable due to the minimal fluid surrounding it.",
+    "option_b": "The presence of pain and inflammation in the scrotum.",
+    "option_c": "Positive transillumination, where light passes through the scrotum.",
+    "option_d": "The sudden onset of symptoms with a bluish skin color, indicating a strangulated hernia.",
+    "correct_option": "C"
+  }
+}

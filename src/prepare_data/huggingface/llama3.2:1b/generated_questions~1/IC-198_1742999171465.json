@@ -1,0 +1,46 @@
+{
+  "folder": "IC-198",
+  "content": "{{knowledge objective\n|Identifiant=OIC-198-05-B\n|Item_parent=Microcrystalline arthropathies\n|Item_parent_short=Microcrystalline arthropathies\n|Rank=B\n|Title=Radiography of the knee: meniscal calcification, cartilage calcification\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=5}}\n<gallery widths=\"400\" heights=\"400\">\nFile:Knee X-ray meniscal calcification, cartilage calcification .PNG\n</gallery>",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary purpose of radiography in knee X-ray",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To diagnose meniscal tears",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "To assess cartilage damage",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "To evaluate meniscal calcification",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "To identify cartilage calcification",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "To evaluate meniscal calcification",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

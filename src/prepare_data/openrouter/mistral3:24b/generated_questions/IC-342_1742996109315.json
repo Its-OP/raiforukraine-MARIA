@@ -1,0 +1,12 @@
+{
+  "folder": "IC-342",
+  "content": "{{knowledge objective\n|Identifiant=OIC-342-20-A\n|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=A\n|Title=Know the indications for and methods of prescribing anticonvulsant treatment.\n|Description=Know how to administer short-acting antiepileptic treatment (benzodiazepines).\n|Rubric=Management\n|Contributors=\n|Order=20}}\n\n{| class=\"wikitable\"\n|cf item 105\n|}",
+  "question": {
+    "question": "Which of the following is the primary short-acting antiepileptic treatment commonly prescribed for acute seizures?",
+    "option_a": "Carbamazepine",
+    "option_b": "Phenytoin",
+    "option_c": "Valproic acid",
+    "option_d": "Benzodiazepines",
+    "correct_option": "D"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-132",
+  "content": "{{knowledge objective\n|Identifiant=OIC-132-08-A\n|Item_parent=Cognitive disorders in the elderly. (see item 108)\n|Item_parent_short=Cognitive disorders in the elderly. (see item 108)\n|Rank=A\n|Title=Knowing the biological tests to be carried out for neurocognitive disorders.\n|Description=Application of HAS 2011 criteria\n|Rubrique=Complementary examinations\n|Contributors=\n|Order=8}}\nThe main purpose of ''biological tests'' is to look for factors that could aggravate cognitive disorders. They are also guided by associated comorbidities.\n\nFirst intention\n\n- Blood count (anaemia?)\n\n- CRP\n\n- TSH\n\n- Blood ionogram with blood calcium, fasting blood sugar\n\n- Albumin levels\n\nDepending on the context\n\n- SGOT/SGPT, \u03b3GT\n\n- TPHA-VDRL, HIV serology\n\n- Vitamins B12, B9\n\n\nWhen neurocognitive problems develop rapidly or the clinical picture is atypical, a lumbar puncture may be performed (biomarkers of Alzheimer's disease, anti-neuronal antibodies, 14 3 3 protein, microbiology or virology depending on the context, etc.).",
+  "question": {
+    "question": "Which of the following is a first intention biological test for neurocognitive disorders according to the HAS 2011 criteria?",
+    "option_a": "Blood count (to check for anemia)",
+    "option_b": "Cholesterol levels",
+    "option_c": "Liver function tests (SGOT/SGPT, \u03b3GT)",
+    "option_d": "Vitamin D levels",
+    "correct_option": "A"
+  }
+}

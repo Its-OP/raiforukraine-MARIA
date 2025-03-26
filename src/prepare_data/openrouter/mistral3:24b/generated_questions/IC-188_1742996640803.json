@@ -1,0 +1,12 @@
+{
+  "folder": "IC-188",
+  "content": "{{knowledge objective\n|Identifiant=OIC-188-11-B\n|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Rank=B\n|Title=Knowing the PR semiology of thoracic distension\n|Description=Hyperclarity of the lung fields with flattening of the diaphragmatic cupolas and horizontalization of the ribs.\n|Rubric=Multimedia content\n|Contributors=\n|Order=11}}\ncf identical chapter in item COPD",
+  "question": {
+    "question": "Which of the following is a characteristic sign of thoracic distension in the context of hypersensitivity and respiratory allergies?",
+    "option_a": "Increased opacity of the lung fields with elevated diaphragmatic cupolas",
+    "option_b": "Hyperclarity of the lung fields with flattening of the diaphragmatic cupolas and horizontalization of the ribs",
+    "option_c": "Narrowing of the lung fields with elevated diaphragmatic cupolas",
+    "option_d": "Increased opacity of the lung fields with horizontalization of the ribs",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-109",
+  "content": "{{knowledge objective\n|Identifiant=OIC-109-08-B\n|Item_parent=Gait and balance disorders\n|Item_parent_short=Gait and balance disorders\n|Rank=B\n|Title=Knowing the etiology of waddling gaits\n|Description=None\n|Rubric=Etiologies\n|Contributors=\n|Order=8}}\nThe waddling gait results from a motor deficit in the muscles of the roots of the lower limbs and the pelvic girdle, and may be associated with hyperlordosis with the pelvis tilted forward and the trunk and head thrown backwards. It is characteristic of myopathic approaches. It may be preceded or associated with myalgias and muscle cramps when the myopathy is metabolic or inflammatory.",
+  "question": {
+    "question": "What is the primary cause of a waddling gait?",
+    "option_a": "Muscle weakness in the lower limbs and pelvic girdle due to myopathy",
+    "option_b": "Neurological damage affecting the spinal cord",
+    "option_c": "Joint inflammation leading to restricted movement",
+    "option_d": "Vascular issues reducing blood flow to the legs",
+    "correct_option": "A"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-39-B\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=B\n|Title=Knowing the particularities of the follow-up examination of adolescents\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=39}}\nA period of physical, psychological and social transformation, but also one of greater vulnerability\n\nTeenagers at the heart of the consultation: time alone but also with parents\n\nConsultation outline to cover all the important aspects ADOLESCENTS: Eating ([[Eating disorders (anorexia or bulimia) SD-132]]), Physical and pubertal development ([[Early or delayed puberty SD-113]]), Dare to explore sexuality, Leisure activities and High school, Family and friends, Blurred symptoms, Compliance, Traumatic events, Black or suicidal thoughts ([[Behavioural disorders in children and adolescents]], [[Behavioural disorders in children and adolescents SD-133]]), Toxics, Follow-ups<ref>[https://jirp.info/wp-content/uploads/sites/3/2017/06/QUESTIONSFLASH_ADO_Tournemire.pdf How to Conduct an Adolescent Consultation (R de Tournemire)]</ref>.\n\nPhysical examination: weight and height (prevention of eating disorders (''item 71''), skin (acne ''item 111''), sexual characteristics (depending on the adolescent's questions) (''[[Normal and pathological puberty]]'')\n\nChecking and explaining vaccinations\n\nDiscussion on contraception (''[[Contraception]]'')<references />",
+  "question": {
+    "question": "During an adolescent consultation, which of the following is a crucial aspect to cover?",
+    "option_a": "Discussing the importance of academic performance and future career choices",
+    "option_b": "Evaluating the teenager's compliance with school attendance policies",
+    "option_c": "Assessing the teenager's eating habits and potential eating disorders",
+    "option_d": "Reviewing the teenager's participation in extracurricular sports activities",
+    "correct_option": "C"
+  }
+}

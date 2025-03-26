@@ -1,0 +1,12 @@
+{
+  "folder": "IC-037",
+  "content": "{{knowledge objective\n|Identifiant=OIC-037-05-A\n|Item_parent=Voluntary termination of pregnancy\n|Item_parent_short=Voluntary termination of pregnancy\n|Rank=A\n|Title=Knowing the conditions under which abortions are carried out in France\n|Description=Knowing the legal time limits for abortion in France; the right to anonymity, the steps to follow; the terms of social cover for abortion.\n|Rubrique=Definition\n|Contributors=Arthur Foulon,Philippe Deruelle,Aubert Agostini\n|Order=5}}\n\nToday, abortion is possible in France up to 16 weeks' amenorrhoea (SA). Medical abortion is possible up to 9 weeks' gestation.\n\n'''Application for voluntary termination of pregnancy'''\n\nBefore the abortion :\n\n- two compulsory consultations\n\n- A psycho-social interview is compulsory for all patients. This interview is compulsory for minors.\n\nAbortion is one of the exceptions to the coordinated care pathway, which means that patients can consult a doctor other than their GP. It is therefore not necessary to go and see your GP before a consultation. Access to a gynaecologist or midwife is unrestricted. Abortions can also be carried out by GPs in private practices up to 9 weeks' gestation.\n\nAnonymity is guaranteed for all women, including those who do not have medical cover in France, regardless of where the abortion is carried out. When the abortion is carried out in a health establishment, the advance payment is waived. When the abortion is carried out in a doctor's surgery, a family planning centre or another health centre, the treatment forms and reimbursement statements are arranged in such a way as to preserve confidentiality. Abortion is covered at 100% by social security. There are no extra charges for an abortion.",
+  "question": {
+    "question": "In France, up to what point in the pregnancy is abortion legally permitted?",
+    "option_a": "Up to 12 weeks' amenorrhoea (SA)",
+    "option_b": "Up to 14 weeks' amenorrhoea (SA)",
+    "option_c": "Up to 16 weeks' amenorrhoea (SA)",
+    "option_d": "Up to 20 weeks' amenorrhoea (SA)",
+    "correct_option": "C"
+  }
+}

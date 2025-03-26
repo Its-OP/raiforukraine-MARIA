@@ -1,0 +1,12 @@
+{
+  "folder": "IC-024",
+  "content": "{{knowledge objective\n|Identifiant=OIC-024-25-A\n|Item_parent=Main complications of pregnancy.\n|Item_parent_short=Main complications of pregnancy.\n|Rank=A\n|Title=Knowing how to manage a fever during pregnancy.\n|Description=Initial treatment of fever, then according to aetiology\n|Rubric=Management\n|Contributors=Paul Berveiller,Philippe Deruelle\n|Order=25}}\n\n'''Apart from specific guidance:'''\n\n- Preventive antibiotic therapy against Listeria: amoxicillin 3 g/d (or erythromycin if allergic)\n\n'''''Any fever during pregnancy is listeriosis until proven otherwise (natural resistance to C2G and C3G).'''''\n\n- Antipyretic (paracetamol type) ;\n\n- ''Close monitoring:'' temperature, EC + /- cervix, FPR\n\n'''Specific treatment'''\n\n- Pyelonephritis : cf [[Learn about the particularities of urinary tract infection during pregnancy]]\n\n- Chorioamniotitis; parenteral antibiotic therapy is started immediately, combining C3G and aminoglycosides. Tocolysis is contraindicated. Preparing to receive a premature newborn.\n\n- Listeriosis: '''''On confirmation of infection with Listeria ''monocytogenes: amoxicillin 6 g/d IV, if allergic: erythromycin per os or vancomycin IV'''''\n\n<br />",
+  "question": {
+    "question": "What is the recommended initial treatment for a fever during pregnancy until the cause is identified?",
+    "option_a": "Administering amoxicillin 6 g/d IV immediately",
+    "option_b": "Starting parenteral antibiotic therapy with C3G and aminoglycosides",
+    "option_c": "Using antipyretics such as paracetamol",
+    "option_d": "Administering tocolytics to prevent preterm labor",
+    "correct_option": "C"
+  }
+}

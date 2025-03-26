@@ -1,0 +1,19 @@
+{
+  "folder": "IC-027",
+  "content": "{{knowledge objective\n|Identifiant=OIC-027-03-B\n|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Rank=B\n|Title=Knowing the main mechanisms of MFIs\n|Description=None\n|Rubric=Physiopathology\n|Contributors=Alexandre Vivanti, Philippe Deruelle\n|Order=3}}\nThere are two main routes of contamination of the foetus during pregnancy:\n\n- Vaginal, ascending route, with contamination during passage through the maternal genital tract during childbirth or prolonged rupture of foetal membranes (streptococcus B, hepatitis B, herpes simplex virus)\n\n- Haematogenous route, with transmission via transplacental antenatal passage and risk of foetal damage (cytomegalovirus, rubella, listeria).\n\n\nContamination during pregnancy is suspected on the basis of clinical signs in the mother (fever, etc.) ''[[Hyperthermia/fever SD-044|44. Hyperthermia/fever]]''', the foetus (ultrasound scan, altered well-being) and/or by serological screening [[Interpretation of a serology result SD-236|'''236. Interpretation of a serology result''''.]]\n\n\nDepending on the infectious agent and the time of onset, contamination can lead to the threat of premature delivery, intrauterine infection, late miscarriage, malformative syndrome, intrauterine growth retardation and/or foetal death \"in utero\".",
+  "question": {
+    "properties": {
+      "question": "What is the primary route of contamination of the fetus during pregnancy?",
+      "option_a": "Vaginal, ascending route",
+      "option_b": "Haematogenous route",
+      "option_c": "Transplacental route",
+      "option_d": "In utero route",
+      "correct_option": "option_a"
+    },
+    "required": [
+      "question",
+      "correct_option"
+    ],
+    "type": "string"
+  }
+}

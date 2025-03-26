@@ -1,0 +1,12 @@
+{
+  "folder": "IC-245",
+  "content": "{{knowledge objective\n|Identifiant=OIC-245-23-A\n|Item_parent=Adrenal insufficiency in adults and children\n|Item_parent_short=Adrenal insufficiency in adults and children\n|Rank=A\n|Title=Knowing the clinical pictures of primary adrenal insufficiency in children\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Claire Briet,St\u00e9phanie Espiard\n|Order=23}}\nIn complete forms (called classic forms: no enzyme activity): the clinical diagnosis in little girls is an abnormality of the external genitalia (from clitoral hypertrophy to a male appearance without testicles). The boy's genitals are normal.\n\nIn boys and girls, hypoglycaemia can cause hypotonia or even convulsions, persistent cholestatic jaundice and arterial hypotension. Mineralocorticoid deficiency leads to poor weight gain, failure to regain birth weight, difficulty suckling, vomiting, dehydration and even cardiovascular collapse. [Dehydration in children SD-032 [Icterus in newborns SD-048]]\n\nNeonatal screening for classic forms has been systematic in France since 1995 (measurement of 17-hydroxyprogesterone on blotting paper on the third day of life). [Systematic newborn screening SD-308\n\nIn older children and adolescents, the symptoms will be the same as those described for adults (see above).\n\n\nAdrenoleukodystrophy combines adrenal insufficiency with neurological disorders that progressively worsen, but vary in intensity and date of onset. Adrenal insufficiency may initially appear isolated.",
+  "question": {
+    "question": "Which of the following is a characteristic symptom of primary adrenal insufficiency in newborn girls?",
+    "option_a": "Normal appearance of the external genitalia",
+    "option_b": "Hyperactivity and excessive energy",
+    "option_c": "Abnormality of the external genitalia ranging from clitoral hypertrophy to a male appearance without testicles",
+    "option_d": "Excessive weight gain and obesity",
+    "correct_option": "C"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-086",
+  "content": "{{knowledge objective\n|Identifiant=OIC-086-11-A\n|Item_parent=Eyelid pathology\n|Item_parent_short=Eyelid pathology\n|Rank=A\n|Title=Stye treatment\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=11}}\nTreatment consists of an antibiotic eye drop or ointment for 8 days. In cases resistant to treatment or in encysted forms, incision at the free edge may be necessary. This is carried out under local anaesthetic on an outpatient basis.",
+  "question": {
+    "question": "What is the primary treatment for a stye?",
+    "option_a": "Applying a warm compress for 10 days",
+    "option_b": "Using an antibiotic eye drop or ointment for 8 days",
+    "option_c": "Performing an incision at the free edge under general anaesthetic",
+    "option_d": "Administering oral antibiotics for 14 days",
+    "correct_option": "B"
+  }
+}

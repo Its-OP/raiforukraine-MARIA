@@ -1,0 +1,12 @@
+{
+  "folder": "IC-102",
+  "content": "{{knowledge objective\n|Identifiant=OIC-102-08-A\n|Item_parent=Diplopia\n|Item_parent_short=Diplopia\n|Rank=A\n|Title=Photograph/video of extrinsic/intrinsic III paralysis\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=8}}\n\n[[File:III-bis.jpg|thumbnail]]\n[[File:III.jpg|left|thumbnail]]",
+  "question": {
+    "question": "Which type of paralysis is depicted in the provided images of a patient's eye condition?",
+    "option_a": "Intrinsic III paralysis",
+    "option_b": "Extrinsic IV paralysis",
+    "option_c": "Extrinsic III paralysis",
+    "option_d": "Intrinsic VI paralysis",
+    "correct_option": "C"
+  }
+}

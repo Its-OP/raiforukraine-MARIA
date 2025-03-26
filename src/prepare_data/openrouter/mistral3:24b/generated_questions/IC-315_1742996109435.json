@@ -1,0 +1,12 @@
+{
+  "folder": "IC-315",
+  "content": "{{knowledge objective\n|Identifiant=OIC-315-03-B\n|Item_parent=Acute leukaemia\n|Item_parent_short=Acute leukaemia\n|Rank=B\n|Title=Knowing the aetiologies of LA\n|Description=None\n|Rubric=Etiologies\n|Contributors=\n|Order=3}}\nThe aetiological factors are unknown in the majority of cases.\n\nCertain factors increase the risk of AML:\n\n- history of exposure to toxic substances: cancer chemotherapy, benzene hydrocarbons, etc.\n\n- previous exposure to ionising radiation: radiotherapy, occupational exposure, etc.\n\n- genetic anomalies: trisomy 21, mutations in genes giving rise to constitutional family predispositions\n\n- evolution of a chronic myeloproliferative syndrome or a myelodysplastic syndrome\n\nIn a similar way, certain factors expose patients to an increased risk of ALL: toxic substances (pesticides and solvents), constitutional genetic abnormalities, progression of chronic myeloid leukaemia, and finally viral agents (EBV, HTLV1 and HIV) which expose patients to rare subtypes of ALL.",
+  "question": {
+    "question": "Which of the following is NOT a known risk factor for Acute Myeloid Leukaemia (AML)?",
+    "option_a": "Previous exposure to ionising radiation",
+    "option_b": "History of exposure to toxic substances such as benzene hydrocarbons",
+    "option_c": "Infection with the Epstein-Barr virus (EBV)",
+    "option_d": "Genetic anomalies such as trisomy 21",
+    "correct_option": "C"
+  }
+}

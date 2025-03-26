@@ -1,0 +1,22 @@
+{
+  "folder": "IC-332",
+  "content": "{{knowledge objective\n|Identifiant=OIC-332-06-B\n|Item_parent=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.\n|Item_parent_short=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.\n|Rank=B\n|Title=Know how to characterise the type of shock.\n|Description=Know how to use additional tests to characterise the aetiology of shock (echocardiography, computer tomography, biology).\n|Rubric=Additional tests\n|Contributors=Julien Poissy\n|Order=6}}\n\nA distinction is made between :\n\n- Examinations to assess severity\n\no Venous arterial lactates\n\no Arterial blood gases: hypoxaemia/acidosis\n\no Liver function tests: liver shock\n\no CBC-coagulation: intensity of polynucleosis and lymphopenia, also of orientation value/CIVD\n\no Blood ionogram and creatinine\n\n- Diagnostic or pre-therapeutic examinations\n\no ECG\n\no Chest X-ray and other imaging according to clinical findings\n\no CBC\n\no Pair of blood cultures and other microbiological samples according to clinical signs, unless there is an obvious alternative diagnosis\n\no ABO-Rhesus group\n\n- Examinations to characterise the haemodynamic profile\n\no Specialist assessment in the intensive care sector, including cardiac echography",
+  "question": {
+    "properties": {
+      "question": "What is the primary difference between a cardiogenic shock and a hypovolemic shock?",
+      "option_a": "Cardiogenic shock is characterized by a high cardiac output, while hypovolemic shock is characterized by a low cardiac output.",
+      "option_b": "Cardiogenic shock is caused by a myocardial infarction, while hypovolemic shock is caused by a severe blood loss.",
+      "option_c": "Cardiogenic shock is typically associated with a high blood pressure, while hypovolemic shock is typically associated with a low blood pressure.",
+      "option_d": "Cardiogenic shock is often diagnosed using a CBC, while hypovolemic shock is often diagnosed using a chest X-ray.",
+      "correct_option": "option_b"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

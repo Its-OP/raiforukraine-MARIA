@@ -1,0 +1,12 @@
+{
+  "folder": "IC-024",
+  "content": "{{knowledge objective\n|Identifiant=OIC-024-08-A\n|Item_parent=Main complications of pregnancy.\n|Item_parent_short=Main complications of pregnancy.\n|Rank=A\n|Title=Knowing the definition of gestational arterial hypertension (GAAH)\n|Description=Know the blood pressure and proteinuria thresholds\n|Rubric=Definition\n|Contributors=Paul Berveiller,Philippe Deruelle\n|Order=8}}\n\n'''Hypertension during pregnancy = systolic blood pressure (SBP) \u2265 140 mmHg and/or diastolic blood pressure (DBP) \u2265 90 mmHg on at least two occasions. (Cf. [[Hypertension during pregnancy SD-053|53. Hypertension during pregnancy]])''''\n\nWe define :\n\n- Pregnancy-induced hypertension: hypertension appearing after 20 weeks' gestation, without associated proteinuria and disappearing before the end of the 6th week postpartum.\n\n- Preeclampsia: association of gestational hypertension with proteinuria (300 mg/24 h). It is said to be \"added\" when it occurs in a patient with chronic hypertension (Cf. [[Urine dipstick analysis SD-182|182. Urine dipstick analysis]] / [[Proteinuria SD-212|212. Proteinuria]])''''\n\n- Chronic hypertension: hypertension prior to pregnancy but sometimes unrecognised. It should be considered if the hypertension is discovered before 20 weeks' gestation or if it persists for more than 6 weeks post-partum.\n\nA distinction is made between :\n\n- Moderate hypertension: SBP: 140-159 mmHg and DBP: 90-109 mmHg\n\n- Severe hypertension: SBP \u2265 160 mmHg and/or DBP \u2265 110 mmHg.",
+  "question": {
+    "question": "What is the definition of gestational arterial hypertension (GAAH)?",
+    "option_a": "SBP \u2265 130 mmHg and/or DBP \u2265 80 mmHg on at least two occasions",
+    "option_b": "SBP \u2265 140 mmHg and/or DBP \u2265 90 mmHg on at least two occasions",
+    "option_c": "SBP \u2265 150 mmHg and/or DBP \u2265 100 mmHg on at least two occasions",
+    "option_d": "SBP \u2265 160 mmHg and/or DBP \u2265 110 mmHg on at least two occasions",
+    "correct_option": "B"
+  }
+}

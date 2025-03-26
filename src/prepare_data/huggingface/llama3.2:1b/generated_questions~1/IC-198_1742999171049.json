@@ -1,0 +1,22 @@
+{
+  "folder": "IC-198",
+  "content": "{{knowledge objective\n|Identifiant=OIC-198-22-A\n|Item_parent=Microcrystalline arthropathies\n|Item_parent_short=Microcrystalline arthropathies\n|Rank=A\n|Title=Know the principles of treatment of an acute attack of calcium pyrophosphate crystals\n|Description=Same treatment as for gouty attacks; dosage adapted to older patients.\n|Section=Management\n|Contributors=\n|Order=22}}\nAcute attacks of PPC crystals can be treated in the same way as gouty attacks.\n\nHowever, the older age of patients, the greater number and severity of their co-morbidities, the number of associated drugs and the risk of interactions mean that NSAIDs and colchicine should be used with even greater caution. Dosage must be adapted to age.\n\nIntra-articular infiltration of a cortisone derivative, provided that an associated infection has been ruled out by examination of the synovial fluid, is a simple solution in cases of monoarthritis.",
+  "question": {
+    "properties": {
+      "question": "What is the recommended treatment for acute attacks of calcium pyrophosphate crystals?",
+      "option_a": "NSAIDs and colchicine should be used with caution in older patients.",
+      "option_b": "Intra-articular cortisone injections are a simple solution for monoarthritis.",
+      "option_c": "The dosage of NSAIDs and colchicine should be adapted to the patient's age and co-morbidities.",
+      "option_d": "Intra-articular cortisone injections are a simple solution for all types of arthritis.",
+      "correct_option": "option_c"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d"
+    ],
+    "type": "string"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-045",
+  "content": "{{knowledge objective\n|Identifiant=OIC-045-10-A\n|Item_parent=Specificities of genetic diseases. (see item 9)\n|Item_parent_short=Specificities of genetic diseases. (see item 9)\n|Rank=A\n|Title=Savoir \u00e9voquer le diagnostic clinique de trisomie 21 en postnatal.\n|Description=Epidemiology and main postnatal clinical signs of trisomy 21.\n|Rubric=Positive diagnosis\n|Contributors=Elise Launay,Damien Sanlaville,Marie-B\u00e9reng\u00e8re Troadec\n|Order=10}}\n\nThe diagnosis is currently made most often (80-90%) in the ante-natal period. If this is not the case, the diagnosis is made in the neonatal period on the basis of the triad:\n\n- Axial hypotonia\n\n- Heart murmur on auscultation ([[Discovery of abnormalities on cardiac auscultation SD-018|discovery of abnormalities on cardiac auscultation]])\n\n- Facial dysmorphia\n\nVery rarely, the diagnosis may be made later (mosaic trisomy 21) based on the following factors\n\n- Psychomotor retardation ([[Psychomotor development abnormality SD-115|psychomotor development abnormality]])\n\n- Learning difficulties associated with immaturity",
+  "question": {
+    "question": "Which of the following is the most common triad of clinical signs used to diagnose trisomy 21 in the neonatal period?",
+    "option_a": "Axial hypotonia, heart murmur on auscultation, and facial dysmorphia",
+    "option_b": "Axial hypotonia, respiratory distress, and facial dysmorphia",
+    "option_c": "Axial hypotonia, heart murmur on auscultation, and psychomotor retardation",
+    "option_d": "Axial hypotonia, learning difficulties, and facial dysmorphia",
+    "correct_option": "A"
+  }
+}

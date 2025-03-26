@@ -1,0 +1,12 @@
+{
+  "folder": "IC-188",
+  "content": "{{knowledge objective\n|Identifiant=OIC-188-12-B\n|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Rank=B\n|Title=Know the main characteristics of the obstructive syndrome in functional respiratory examinations (EFR) and how to interpret a peak expiratory flow (PEF).\n|Description=None\n|Section=Additional tests\n|Contributors=\n|Order=12}}\no Obstructive ventilatory disorder: FEV1/CV<0.7\n\no Reversibility: increase in post-bronchodilator FEV1 of more than 200mL ''AND'' \u226512% of the pre-bronchodilator value. Complete reversibility is defined as FEV1/CV\u22650.7 and FEV1 >80% post-bronchodilator.",
+  "question": {
+    "question": "Which of the following best describes the criteria for complete reversibility in an obstructive ventilatory disorder?",
+    "option_a": "An increase in post-bronchodilator FEV1 of more than 200mL and \u226512% of the pre-bronchodilator value, with FEV1/CV \u22650.7 and FEV1 >80% post-bronchodilator.",
+    "option_b": "An increase in post-bronchodilator FEV1 of more than 200mL and \u226512% of the pre-bronchodilator value, with FEV1/CV \u22650.7 and FEV1 >90% post-bronchodilator.",
+    "option_c": "An increase in post-bronchodilator FEV1 of more than 150mL and \u226510% of the pre-bronchodilator value, with FEV1/CV \u22650.7 and FEV1 >80% post-bronchodilator.",
+    "option_d": "An increase in post-bronchodilator FEV1 of more than 200mL and \u226512% of the pre-bronchodilator value, with FEV1/CV \u22650.8 and FEV1 >80% post-bronchodilator.",
+    "correct_option": "A"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-109",
+  "content": "{{knowledge objective\n|Identifiant=OIC-109-06-A\n|Item_parent=Gait and balance disorders\n|Item_parent_short=Gait and balance disorders\n|Rank=A\n|Item_parent=Gait and balance disorders\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=6}}\nABASIA ASTASIA: panic fear of walking; if the patient is pushed to take a few steps, he clings to the examiner or to furniture or walls, at the cost of risky postures with a high risk of falling. Any attempt to let go of the subject is accompanied by major anxiety reactions.",
+  "question": {
+    "question": "What is the primary characteristic of Abasia-Astasia?",
+    "option_a": "A fear of heights that causes the patient to avoid walking on elevated surfaces.",
+    "option_b": "A panic fear of walking, where the patient clings to objects to avoid falling.",
+    "option_c": "A condition where the patient experiences severe dizziness when standing up.",
+    "option_d": "A neurological disorder that affects the patient's ability to balance while sitting.",
+    "correct_option": "B"
+  }
+}

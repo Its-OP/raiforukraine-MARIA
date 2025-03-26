@@ -1,0 +1,12 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-27-A\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=A\n|Title=Scoliosis in children: knowing the risk factors\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=27}}\nIdiopathic in 80% of cases = systematic screening\n\nIn 20% of cases: underlying diseases (neuromuscular diseases or polymalformative syndrome, for example)\n\nWorsens with growth, vigilance +++ around puberty",
+  "question": {
+    "question": "Which of the following statements about scoliosis in children is correct?",
+    "option_a": "Scoliosis is always caused by an underlying disease.",
+    "option_b": "Scoliosis is idiopathic in 50% of cases and worsens with age.",
+    "option_c": "Scoliosis is idiopathic in 80% of cases and systematic screening is recommended.",
+    "option_d": "Scoliosis is primarily a result of poor posture and can be corrected with exercise alone.",
+    "correct_option": "C"
+  }
+}

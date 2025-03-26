@@ -1,0 +1,12 @@
+{
+  "folder": "IC-045",
+  "content": "{{knowledge objective\n|Identifiant=OIC-045-20-A\n|Item_parent=Specificities of genetic diseases. (see item 9)\n|Item_parent_short=Specificities of genetic diseases. (see item 9)\n|Rank=A\n|Title=Knowing how to think about fragile X syndrome\n|Description=Know the usual clinical signs of Fragile X syndrome and its familial transmission.\n|Section=Positive diagnosis\n|Contributors=Ga\u00e9tan Lesca,Elise Launay\n|Order=20}}\n\nFragile X syndrome is :\n\n* the leading cause of familial intellectual disability ([[Psychomotor Developmental Anomaly SD-115|Psychomotor Developmental Anomaly]])\n* the second most common cause of genetic intellectual disability (after trisomy 21)\n* the leading genetic cause of autism spectrum disorder ([[Child and Adolescent Behaviour Disorder SD-133|Child and Adolescent Behaviour Disorder]])\n\nPrevalence is estimated at around 1/5,000 in men and 1/8,000 in women (2% of intellectual disabilities in boys and 1% in girls).\n\nThe estimated frequency of premutations in the general population is 1/250 in women and 1/500 in men.\n\nIn the case of small premutations (< 100 CGG), genetic investigations should be continued to look for another cause of the neurodevelopmental disorder. However, it is important to offer genetic counselling to the patient's family, as there is a high risk of genetic instability that could lead to the appearance of a complete mutation in other children ([[Announcement of a diagnosis of serious illness to the patient and/or family SD-327|announcement of a diagnosis of serious illness to the patient and/or family]], [[Disability situation SD-345|disability situation]]).\n\nA family history of ovarian failure (reproductive difficulty SD-033|productive difficulty), menstrual cycle disorder SD-094|menstrual cycle disorder) or adult neurodegenerative syndrome is an argument in favour of fragile X syndrome.",
+  "question": {
+    "question": "Which of the following is the most accurate description of Fragile X syndrome?",
+    "option_a": "It is the second most common cause of genetic intellectual disability after trisomy 21.",
+    "option_b": "It is the leading cause of familial intellectual disability and is always accompanied by autism.",
+    "option_c": "It is the leading genetic cause of autism spectrum disorder and has a prevalence of 1/500 in both men and women.",
+    "option_d": "It is characterized by a prevalence of 1/5,000 in men and 1/8,000 in women, and is always associated with ovarian failure.",
+    "correct_option": "a"
+  }
+}

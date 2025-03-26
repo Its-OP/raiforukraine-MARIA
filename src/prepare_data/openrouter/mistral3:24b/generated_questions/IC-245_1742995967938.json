@@ -1,0 +1,12 @@
+{
+  "folder": "IC-245",
+  "content": "{{knowledge objective\n|Identifiant=OIC-245-03-A\n|Item_parent=Adrenal insufficiency in adults and children\n|Item_parent_short=Adrenal insufficiency in adults and children\n|Rank=A\n|Title=Knowing the clinical and biological signs of primary adrenal insufficiency\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Claire Briet,St\u00e9phanie Espiard\n|Order=3}}\n'''1. clinical signs'''\n\nGeneral signs are more marked in primary adrenal insufficiency (=peripheral adrenal insufficiency=affects both adrenal glands), particularly hypotension and digestive signs.\n\n<u>Glucocorticoid (Cortisol) and mineralocorticoid (Aldosterone) deficiency</u>.\n\nThe 3 A's always present:\n\n*Asthenia [[Asthenia SD-021]]\n*Weight loss, [[Weight loss SD-017]]\n*Anorexia, but retained an appetite for salt\n\nOther signs :\n\n*Initially orthostatic arterial hypotension with tachycardia (due to extracellular dehydration).\n*Nausea. The appearance of vomiting, diarrhoea and abdominal pain should raise fears of acute adrenal insufficiency ;\n*'''<u>Melanoderma</u>''' and slate patches on the oral mucosa.\n*Symptoms of possible depression\n\n\n'''2.       Biological signs (see table in the semiology chapter)'''\n\nNB: apart from decompensations, hypoglycaemia is rare and the ionogram is normal or with a tendency to <u>hyponatraemia and hyperkalaemia.</u>",
+  "question": {
+    "question": "Which of the following is a common clinical sign of primary adrenal insufficiency?",
+    "option_a": "Hypertension and increased appetite",
+    "option_b": "Hypotension and weight gain",
+    "option_c": "Orthostatic hypotension with tachycardia and melanoderma",
+    "option_d": "Hyperglycemia and hypernatremia",
+    "correct_option": "C"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-190",
+  "content": "{{knowledge objective\n|Identifiant=OIC-190-07-B\n|Item_parent=Prolonged fever\n|Item_parent_short=Prolonged fever\n|Rank=B\n|Title=Knowing the diagnostic approach and the strategy for prioritising complementary examinations\n|Description=None\n|Rubric=Complementary examinations\n|Contributors=\n|Order=7}}\n\n\n\n\n==Biological tests\no CBC, with blood smear analysis\n\no C-reactive protein (acute or chronic inflammatory syndrome, elevated C-reactive protein (CRP))''''\n\no Serum protein electrophoresis\n\no Blood ionogram, creatinine, calcium levels\n\no Transaminases, gammaGT, alkaline phosphatases, bilirubin\n\no Creatine kinase (CK), lactic dehydrogenase (LDH)\n\no TSHus (thyroid-stimulating hormone ultra-sensitive)\n\no Activated partial thromboplastin time, prothrombin time, fibrinogen\n\no Ferritin\n\no Anti-nuclear antibodies, rheumatoid factor, anti-neutrophil cytoplasm antibodies\n\no Proteinuria (ratio of proteinuria to creatininuria, based on a urine sample)\n<br />\n\n==Microbiological tests\no Blood cultures (x 3), before any antibiotic treatment\n\no Urine cytobacteriological examination\n\no Epstein Barr virus (EBV), cytomegalovirus (CMV), human immunodeficiency virus (HIV) serologies (and others depending on epidemiology).  \n\n==''In second line or according to clinical context'''==\no Digestive endoscopy\n\no Temporal artery biopsy if > 50 years old\n\n\n'''In children as first-line treatment at D7'''\n\nBiological and microbiological tests\n\n- CBC, CRP, fibrinogen, VS, HAA, iono ASAT ALAT ALAT, ferritin\n\n- Blood cultures\n\n- EBV, CMV, parvovirus serology\n\n- BU (with leucocytes and proteinuria) + ECBU\n\n'''- Morphological examinations:'''' Chest X-ray, abdominal ultrasound, cardiac ultrasound\n\nIf the fever persists beyond this point without any obvious explanation, a paediatric specialist opinion is required (= for the 3rd cycle).\n\nto find out more about children: https://pap-pediatrie.fr/files/fievre_prolongee.pdf",
+  "question": {
+    "question": "Which of the following is a primary biological test recommended for diagnosing prolonged fever in children at the first line of treatment?",
+    "option_a": "Blood cultures after antibiotic treatment",
+    "option_b": "Serum protein electrophoresis",
+    "option_c": "C-reactive protein (CRP)",
+    "option_d": "Digestive endoscopy",
+    "correct_option": "C"
+  }
+}

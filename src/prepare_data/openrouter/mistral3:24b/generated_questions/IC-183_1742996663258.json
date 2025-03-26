@@ -1,0 +1,12 @@
+{
+  "folder": "IC-183",
+  "content": "{{knowledge objective\n|Identifiant=OIC-183-08-A\n|Item_parent=Organisation of occupational medicine. Prevention of occupational risks\n|Item_parent_short=Organisation of occupational medicine. Occupational risk prevention\n|Rank=A\n|Title=Knowing the risk management approach\n|Description=Hierarchy and methods of a risk management approach\n|Rubric=Definition\n|Contributors=\n|Order=8}}\n\n\n=== '''Important: the proposed measures must always be in the following order:'' ===\n\n* '''step 1,'''\n* '''then if impossible step 2'''\n* '''then ...'''\n\n=== 1. '''Eliminate hazards''', ===\neliminating the use of hazardous chemicals, redesigning premises to avoid the risk of falls, etc. changing work processes\n\nSometimes it is impossible to eliminate the danger: for example, wood dust is a carcinogen, but we cannot suggest to a woodworker that he stop using wood ....=> step 2\n<br />\n\n=== 2. '''Limit emissions at source''' and thus limit their dispersion in the workplace by means of collective protective equipment: ===\nExamples: working in an enclosed space, extraction of emissions, installation of an extractor hood when using solvents, enclosure of a noisy machine, organisation of work to reduce the number of people in the room, ....\n\nIn the case of wood dust: dust extraction at source\n\nIf you have to do a lot of dusty jobs and the suction is inadequate => step 3\n<br />\n\n=== 3. '''Limit employee exposure''' by wearing appropriate personal protective equipment (gloves, breathing masks, goggles, ear muffs, etc.). ===\nExample in the case of wood dust: wear a respiratory protection mask that has been chosen to be suitable (not all masks are equally useful or effective...) and sufficiently comfortable to wear.\n\n\n=== 4. '''Evaluate the effectiveness of preventive measures'': ===\nmonitoring exposure levels by environmental metrology (atmospheric for chemicals, noise for noise, etc.) and biological exposure monitoring (urinary solvents, blood lead, etc.).",
+  "question": {
+    "question": "In the hierarchy of risk management approaches, what is the first step to take when dealing with occupational hazards?",
+    "option_a": "Limit employee exposure by wearing appropriate personal protective equipment",
+    "option_b": "Evaluate the effectiveness of preventive measures",
+    "option_c": "Eliminate hazards by redesigning premises or changing work processes",
+    "option_d": "Limit emissions at source by using collective protective equipment",
+    "correct_option": "C"
+  }
+}

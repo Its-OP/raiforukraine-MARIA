@@ -1,0 +1,12 @@
+{
+  "folder": "IC-315",
+  "content": "{{knowledge objective\n|Identifiant=OIC-315-02-A\n|Item_parent=Acute leukaemia\n|Item_parent_short=Acute leukaemia\n|Rank=A\n|Title=Knowing the categories of LA (out of classification)\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=2}}\nThere are two main categories of acute leukaemia:\n\n- Acute myeloblastic or myeloid leukaemia (AML), the frequency of which increases with age (median age at diagnosis 70), accounting for around 3,500 cases a year in France.\n\n- acute lymphoblastic or lymphoid leukaemia (ALL), with two peaks in incidence: in children under the age of 15; then in adults over the age of 50 (median age at diagnosis 18); ALL accounts for a third of childhood cancers and around 1,000 cases per year in France. B-lymphocytic ALL (B-ALL) and T-lymphocytic ALL (T-ALL) have been described.",
+  "question": {
+    "question": "Which of the following is the most common type of acute leukaemia in children under the age of 15?",
+    "option_a": "Acute myeloblastic or myeloid leukaemia (AML)",
+    "option_b": "Acute lymphoblastic or lymphoid leukaemia (ALL)",
+    "option_c": "B-lymphocytic ALL (B-ALL)",
+    "option_d": "T-lymphocytic ALL (T-ALL)",
+    "correct_option": "B"
+  }
+}

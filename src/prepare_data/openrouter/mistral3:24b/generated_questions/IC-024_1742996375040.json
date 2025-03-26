@@ -1,0 +1,12 @@
+{
+  "folder": "IC-024",
+  "content": "{{knowledge objective\n|Identifiant=OIC-024-13-B\n|Item_parent=Main complications of pregnancy.\n|Item_parent_short=Main complications of pregnancy.\n|Rank=B\n|Title=Knowing how to prescribe rest measures and antihypertensive treatment for pregnant women.\n|Description=To know the rules for prescribing antihypertensive treatment in cases of hypertension / to know the targets for antihypertensive treatment in pregnant women.\n|Rubric=Management\n|Contributors=Paul Berveiller,Philippe Deruelle\n|Order=13}}\n\nResting = not strict but work stoppage\n\n- +/- antihypertensive treatment\n\nObjective: avoid hypertensive spikes and limit maternal complications\n\n- indicated for severe hypertension (SAP \u2265 160 mmHg and/or DBP \u2265 110 mmHg)\n\n- Blood pressure targets: PAS= 140-155 mmHg and PAD = 90-105 mmHg.\n\n- Caution: no salt-free diet or diuretics - ACE inhibitors and ARB2s contraindicated\n\nYou can use :\n\n- 1st line: central antihypertensives (alphamethyldopa)\n\n- in the 2nd<sup> intention (and in cases of pre-eclampsia):\n\n- calcium-channel blockers (nicardipine, nifedipine),\n\n- alpha-blockers (urapidil),\n\n- alpha and beta-blockers (labetalol, which has fewer side-effects than beta-blockers and is most often combined when dual therapy is required).",
+  "question": {
+    "question": "Which of the following is the primary target for systolic blood pressure in the antihypertensive treatment of pregnant women with severe hypertension?",
+    "option_a": "Systolic blood pressure should be reduced to below 120 mmHg",
+    "option_b": "Systolic blood pressure should be maintained between 140-155 mmHg",
+    "option_c": "Systolic blood pressure should be reduced to below 100 mmHg",
+    "option_d": "Systolic blood pressure should be maintained between 130-140 mmHg",
+    "correct_option": "B"
+  }
+}

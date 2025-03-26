@@ -1,0 +1,12 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-26-B\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=B\n|Title=Knowing the elements for interpreting bone age on a wrist X-ray\n|Description=None\n|Rubric=Additional examinations\n|Contributors=\n|Order=26}}\nBone age: assessment of bone maturation (onset of puberty=sesamoid at 11 years in girls and 13 years in boys). It is most often advanced in early puberty. The standard deviation of this radiographic assessment is plus or minus two years.\n\n<br />",
+  "question": {
+    "question": "At what age does the sesamoid bone typically appear on a wrist X-ray, indicating the onset of puberty?",
+    "option_a": "10 years in girls and 12 years in boys",
+    "option_b": "11 years in girls and 13 years in boys",
+    "option_c": "12 years in girls and 14 years in boys",
+    "option_d": "11 years in girls and 12 years in boys",
+    "correct_option": "B"
+  }
+}

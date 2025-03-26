@@ -1,0 +1,12 @@
+{
+  "folder": "IC-235",
+  "content": "{{knowledge objective\n|Identifiant=OIC-235-07-A\n|Item_parent=Acute pericarditis\n|Item_parent_short=Acute pericarditis\n|Rank=A\n|Title=Electrocardiogram (ECG) of acute pericarditis\n|Description=None\n|Rubric=Multimedia content\n|Contributors=Jennifer Cautela\n|Order=7}}\n\n[[File:Ecg typique.jpg|centr\u00e9|vignette|900x900px|Sus d\u00e9calage de ST, diffuse, non-systematis\u00e9, concave vers le haut, sans miroir ni onde Q ET sous d\u00e9calage PQ]]",
+  "question": {
+    "question": "Which of the following is a characteristic ECG finding in acute pericarditis?",
+    "option_a": "Presence of a Q wave and ST elevation in a specific coronary artery distribution",
+    "option_b": "Diffuse ST elevation that is concave upwards and not confined to a single coronary artery territory",
+    "option_c": "Inverted T waves and prolonged QT interval",
+    "option_d": "Prominent U waves and ST depression",
+    "correct_option": "B"
+  }
+}

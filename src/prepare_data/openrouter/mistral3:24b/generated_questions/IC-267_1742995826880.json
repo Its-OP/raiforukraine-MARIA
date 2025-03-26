@@ -1,0 +1,12 @@
+{
+  "folder": "IC-267",
+  "content": "{{knowledge objective\n|Identifiant=OIC-267-15-A\n|Item_parent=Disorders of acid-base balance and fluid-electrolyte disorders\n|Item_parent_short=Disorders of acid-base balance and fluid and electrolyte disorders\n|Rank=A\n|Title=Know the principle of emergency treatment of severe hyperkalaemia\n|Description=In the event of hyperkalaemia showing signs of severity (ECG changes/level of hyperkalaemia), know how to administer Ca salts and an Insulin-Glucose regimen, know how to seek specialist advice on the indication for an ERA.\n|Rubric=Management\n|Contributors=P Rieu; B Moulin; M Flamant\n|Order=15}}\n\n\n*If hyperkalaemia is suspected, an ECG should be performed immediately. It is essential to assess the degree of severity in order to decide on symptomatic treatment. If there are conduction problems or neuromuscular signs, treatment must be given as a matter of extreme urgency.\n*Severe hyperkalaemia (kalaemia > 7 mmol/L) or an electrocardiographic threat is an absolute emergency:\n**Hyperkalaemic drugs must be stopped.\n**Membrane antagonist limiting hypoexcitability induced by hyperkalaemia:\n***IV calcium salts (10 to 30 ml), except if digitalis is present (in which case use a magnesium salt).\n**Transfer of K to the intracellular compartment:\n***insulin-glucose (e.g. 500 ml G10% + 10-15 U rapid insulin over 30 minutes)",
+  "question": {
+    "question": "In the emergency treatment of severe hyperkalaemia, which of the following is the correct immediate action to limit hypoexcitability induced by hyperkalaemia?",
+    "option_a": "Administer IV magnesium salts regardless of the presence of digitalis",
+    "option_b": "Administer IV calcium salts unless digitalis is present, in which case use magnesium salts",
+    "option_c": "Administer IV potassium salts to balance the electrolyte levels",
+    "option_d": "Administer IV sodium salts to counteract the effects of hyperkalaemia",
+    "correct_option": "B"
+  }
+}

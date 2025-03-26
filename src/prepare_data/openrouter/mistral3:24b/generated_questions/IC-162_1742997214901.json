@@ -1,0 +1,12 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-30-A\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=A\n|Title=Knowing the clinical manifestations of HPV\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=30}}\nVarious locations, single or multiple\n\n- Condylomata acuminata: \"cocksucker's ridges\n\n- Flat condyloma: pinkish maculo-papules\n\n- Intraepithelial neoplasia (IEN): pre-cancerous lesions (LSIL or HSIL)",
+  "question": {
+    "question": "Which of the following is a common clinical manifestation of Human Papillomavirus (HPV) infection?",
+    "option_a": "Condylomata lata, which are flat, moist lesions",
+    "option_b": "Condylomata acuminata, also known as 'cocksucker's ridges'",
+    "option_c": "Flat condyloma, which appear as pinkish maculo-papules",
+    "option_d": "Intraepithelial neoplasia (IEN), which are always cancerous lesions",
+    "correct_option": "B"
+  }
+}

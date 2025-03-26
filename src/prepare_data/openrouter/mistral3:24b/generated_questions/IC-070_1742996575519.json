@@ -1,0 +1,12 @@
+{
+  "folder": "IC-070",
+  "content": "{{knowledge objective\n|Identifiant=OIC-070-10-B\n|Item_parent=Psychological disorders in the elderly\n|Item_parent_short=Psychological disorders in the elderly\n|Rank=B\n|Title=Knowing the specificities of the handling of psychotropic drugs in elderly patients\n|Description=AntipsychoticsAntidepressantsThymoregulators\n|Rubric=Management\n|Contributors=Pierre Vandel,Marie Tournier\n|Order=10}}\n\n'''General prescription rules to favour tolerance and avoid iatrogenicity:''''\n\n* Start at half the dose of a young adult;\n* increase gradually when necessary (the \"start low, go slow\" rule);\n* Only one psychotropic drug per class,\n* avoid combining psychotropic drugs\n* assess tolerance and efficacy\n\n'''Antidepressants:'''\n\ngive preference to SSRI and SNRI antidepressants, mirtazapine and mianserin because they are well tolerated.\n\nAvoid tricyclics.\n\n'''Thymoregulators''' :\n\nsame prescribing rules as for adults, but risk of more serious side effects.\n\n'''Antipsychotics''' :\n\nextrapyramidal tolerance to be monitored. Cardiovascular and cognitive risks.\n\nIn neurodegenerative diseases, risk of adverse cerebrovascular effects.",
+  "question": {
+    "question": "When prescribing psychotropic drugs to elderly patients, which of the following is a recommended practice to favor tolerance and avoid iatrogenicity?",
+    "option_a": "Start at the full dose of a young adult and increase rapidly if necessary.",
+    "option_b": "Prescribe multiple psychotropic drugs from the same class to enhance efficacy.",
+    "option_c": "Start at half the dose of a young adult and increase gradually when necessary.",
+    "option_d": "Combine psychotropic drugs from different classes to achieve better results.",
+    "correct_option": "C"
+  }
+}

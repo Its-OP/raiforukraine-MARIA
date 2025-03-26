@@ -1,0 +1,19 @@
+{
+  "folder": "IC-332",
+  "content": "{{knowledge objective\n|Identifiant=OIC-332-02-A\n|Item_parent=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.\n|Item_parent_short=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.\n|Rank=A\n|Title=Know the main causes of shock\n|Description=Cardiogenic, obstructive, septic, haemorrhagic and anaphylactic shock.\n|Rubric=Etiologies\n|Contributors=Julien Poissy\n|Order=2}}\n\nWe distinguish 4 nosological frameworks according to the haemodynamic profile, linked to a variable physiopathology:\n<br />\n{| class=\"wikitable\"\n|Type of shock\n|Cardiogenic :\n\nheart pump failure\n|Hypovolemic :\n\ndecrease in intravascular volume\n|Distributive :\n\nCirculatory, inflammatory and metabolic failure\n|Obstructive :\n\nCirculatory obstruction\n|-\n|Main etiologies\n|<Myocardial infarction\n\n-Myocarditis\n\n-Heart failure on chronic heart disease: hypertensive, dilated\n|<haemorrhage</nowiki>\n\n-Profuse diarrhoea/vomiting\n|<Infections: septic shock</nowiki>.\n\n-Anaphylactic shock\n|<Pulmonary embolism\n|}\n<br />",
+  "question": {
+    "properties": {
+      "question": "What is the primary cause of shock?",
+      "option_a": "Cardiogenic shock is typically caused by a heart attack.",
+      "option_b": "Cardiogenic shock is usually the result of a heart failure on chronic heart disease.",
+      "option_c": "Cardiogenic shock is often caused by a sudden increase in blood pressure.",
+      "option_d": "Cardiogenic shock is typically the result of a heart attack.",
+      "correct_option": "option_c"
+    },
+    "required": [
+      "question",
+      "correct_option"
+    ],
+    "type": "string"
+  }
+}

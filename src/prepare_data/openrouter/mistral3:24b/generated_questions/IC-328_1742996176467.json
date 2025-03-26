@@ -1,0 +1,12 @@
+{
+  "folder": "IC-328",
+  "content": "{{knowledge objective\n|Identifiant=OIC-328-09-A\n|Item_parent=Non-drug therapies and medical devices\n|Item_parent_short=Non-drug therapies and medical devices\n|Rank=A\n|Intitle=Know the definition of orthopaedic footwear\n|Description=Definition of orthopaedic footwear and associated components (foot orthoses, etc.)\n|Rubric=Definition\n|Contributors=Bisseriex H\u00e9l\u00e8ne,De Boissezon Xavier\n|Order=9}}\n\nOrthopaedic footwear :\n\n*custom-made orthopaedic shoes = major orthopaedic appliances\n**reimbursed from 60 to 100%, first pair prescribed by a specialist\n**indicated if: neurological pathology, volumetric disorder, instability, inequality of length, limping... '''([[Sensory and/or motor neurological deficit SDD-121|sensory and/or motor neurological deficit]], [[Fall in the elderly SDD-027|fall in the elderly]]),''''\n**carried out by a chiropodist or ortho-prosthetist\n*''standard therapeutic footwear:'''\n**CHUT (temporary use) or CHUP (permanent use)\n**reimbursed at 60%, prescribed by any doctor\n**indicated if: trophic disorders, oedema\n*foot orthoses\n**reimbursed at 60%,\n**performed by a chiropodist, chiropodist or ortho-prosthetist.\n*'''orthoplasty''': protects the toes[[File:Shoe.png|centre|vignette|Chaussure de d\u00e9charge de s\u00e9rie]]",
+  "question": {
+    "question": "Which of the following statements correctly describes orthopaedic footwear?",
+    "option_a": "Orthopaedic footwear includes standard therapeutic footwear that is reimbursed at 100% and prescribed by any doctor.",
+    "option_b": "Custom-made orthopaedic shoes are major orthopaedic appliances reimbursed from 60 to 100% and are indicated for sensory and/or motor neurological deficits.",
+    "option_c": "Foot orthoses are reimbursed at 100% and are always prescribed by a neurologist.",
+    "option_d": "Orthoplasty is primarily used to correct foot deformities and is reimbursed at 80%.",
+    "correct_option": "B"
+  }
+}

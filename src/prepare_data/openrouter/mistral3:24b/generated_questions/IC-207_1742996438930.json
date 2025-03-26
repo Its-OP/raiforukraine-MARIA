@@ -1,0 +1,12 @@
+{
+  "folder": "IC-207",
+  "content": "{{knowledge objective\n|Identifiant=OIC-207-12-B\n|Item_parent=Intra-thoracic lumps and masses in children and adults\n|Item_parent_short=Opacities and intra-thoracic masses in children and adults\n|Rank=B\n|Title=Know the main diagnostic hypotheses for mediastinal anomalies according to topography in children\n|Description=None\n|Rubric=Etiologies\n|Contributors=St\u00e9phanie Luzi,Mathieu Lederlin\n|Order=12}}\n\nThe main causes of mediastinal mass in children are listed according to their topography in the following table:\n\n<br />\n{| class=\"wikitable\"\n| colspan=\"2\" |'''Anterior mediastinal lesions''''\n|-\n| rowspan=\"2\" |\n|Thymic tumours (benign hyperplasia, lymphoma, thymoma)\n|-\n|Germ cell tumours (mature teratomas, dermoid cysts, malignant germ cell tumours)\n|-\n| colspan=\"2\" |'''Medium mediastinal lesions''''\n|-\n| rowspan=\"4\" |\n|Adenopathies (lymphomas, tuberculosis...)\n|-\n|Bronchogenic cysts\n|-\n|Oesophageal duplication\n|-\n|Vascular tumours\n|-\n| colspan=\"2\" |'''Posterior mediastinal lesions''''\n|-\n| rowspan=\"2\" |\n|Neurogenic tumours (neuroblastomas, ganglioneurobastomas, neurofibromas)\n|-\n|Meningoceles\n|}\n \n\u00a0",
+  "question": {
+    "question": "Which type of tumour is most commonly associated with anterior mediastinal lesions in children?",
+    "option_a": "Neurogenic tumours",
+    "option_b": "Vascular tumours",
+    "option_c": "Thymic tumours",
+    "option_d": "Meningoceles",
+    "correct_option": "C"
+  }
+}

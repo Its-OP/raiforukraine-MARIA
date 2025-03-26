@@ -1,0 +1,12 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-36-B\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=B\n|Title=Know how compulsory systematic monitoring of infants and children is organised and compensated.\n|Description=None\n|Rubric=Support\n|Contributors=\n|Ordre=36}}\n100% health insurance cover for compulsory follow-up consultations\n\nBy the child's GP, paediatrician or general practitioner, or by the PMI (up to the age of 6).<br /><references />.",
+  "question": {
+    "question": "Which healthcare professionals are responsible for conducting compulsory follow-up consultations for children up to the age of 6?",
+    "option_a": "Only paediatricians",
+    "option_b": "Only general practitioners",
+    "option_c": "The child's GP, paediatrician, general practitioner, or the PMI",
+    "option_d": "Only specialists in child psychology",
+    "correct_option": "C"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-267",
+  "content": "{{knowledge objective\n|Identifiant=OIC-267-37-B\n|Item_parent=Disorders of acid-base equilibrium and hydro-electrolytic disorders\n|Item_parent_short=Disorders of acid-base equilibrium and fluid and electrolyte disorders\n|Rank=B\n|Title=Know the main ECG abnormalities associated with hypocalcaemia\n|Description=QT interval and risk of rhythm disorders\n|Section=Additional tests\n|Contributors=P. Rieu,B. Moulin,M. Flamant\n|Order=37}}\n\n[[File:Capture hypoCa.jpg|vignette|ECG in hypocalcaemic situation]]\n\n*Cardiac electrical disturbances in hypocalcaemia:\n**QT interval prolongation\n**May be complicated by atrioventricular block\nCan be complicated by atrioventricular block **Ventricular fibrillation\n\n\n'''Figure''' QT space widening (500 mS/heart rate at 64/min)",
+  "question": {
+    "question": "Which of the following is the primary ECG abnormality associated with hypocalcaemia?",
+    "option_a": "Prolongation of the PR interval",
+    "option_b": "Shortening of the QT interval",
+    "option_c": "Prolongation of the QT interval",
+    "option_d": "Increased amplitude of the T wave",
+    "correct_option": "C"
+  }
+}

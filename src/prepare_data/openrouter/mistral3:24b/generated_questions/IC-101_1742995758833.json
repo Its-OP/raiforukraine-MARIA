@@ -1,0 +1,12 @@
+{
+  "folder": "IC-101",
+  "content": "{{knowledge objective\n|Identifiant=OIC-101-09-B\n|Item_parent=Facial paralysis\n|Item_parent_short=Facial paralysis\n|Rank=B\n|Title=Photograph/video of post-paralytic facial hemispasm\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=9}}\nPlease refer to the CEN website: www.cen-neurologie.fr where videos are available.",
+  "question": {
+    "question": "Which of the following is a common symptom associated with post-paralytic facial hemispasm?",
+    "option_a": "Complete paralysis of the facial muscles on one side",
+    "option_b": "Involuntary twitching or spasm of the facial muscles on one side",
+    "option_c": "Loss of sensation in the facial area",
+    "option_d": "Chronic pain in the jaw and ear",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "IC-020",
+  "content": "{{knowledge objective\n|Identifiant=OIC-020-20-A\n|Item_parent=Health research methodology\n|Item_parent_short=Health research methodology\n|Rank=A\n|Intitle=Frequency measurement, Prevalence, Incidence (rate), Risk\n|Description=Knowing how to define/recognise/interpret the measure and its confidence interval\n|Rubric=Definition\n|Contributors=Julie Berbis (CUESP),David Hajage (CIMES),Alexandra Rouquette (CIMES)\n|Order=20}}\n\n'''Risk''': probability of an event (e.g. a disease) occurring in a population over a given period. It is expressed as a unitless percentage.\n\n'''Prevalence''': proportion of the number of cases of a disease (however old it may be) in a population at a given time, or rather generally over a given period (e.g. over the course of a year).\n\n'''Incidence rate''': number of new cases during a given period, within a population, divided by the sum of person-time (follow-up time for each individual in the population likely to fall ill during the period observed, with follow-up being counted until the onset of the disease, the end of the observation period, death or loss of sight).\n\nEstimates of these parameters from a sample must be accompanied by their ''confidence interval''.",
+  "question": {
+    "properties": {
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d"
+    ]
+  }
+}

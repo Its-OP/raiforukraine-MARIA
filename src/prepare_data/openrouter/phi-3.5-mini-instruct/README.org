@@ -1,0 +1,8 @@
+# Basic usage
+python merge_json_files_pydantic.py
+
+# With invalid file logging
+python merge_json_files_pydantic.py --log-invalid
+
+# Custom paths
+python merge_json_files_pydantic.py --input-dir your/json/directory --output-file merged_output.jsonl

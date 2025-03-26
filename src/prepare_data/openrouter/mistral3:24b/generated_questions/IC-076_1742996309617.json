@@ -1,0 +1,12 @@
+{
+  "folder": "IC-076",
+  "content": "{{knowledge objective\n|Identifiant=OIC-076-18-B\n|Item_parent=Alcohol dependence\n|Item_parent_short=Alcohol dependence\n|Rank=B\n|Title=How to manage a withdrawal accident (convulsive seizure or delirium tremens)\n|Description=A withdrawal accident requires hospitalisation and must be treated with high-dose half-life benzodiazepines, tapered over one to two weeks, parenteral vitamin B1 and appropriate hydration.\n|Rubric=Management\n|Contributors=\n|Order=18}}\nAny disturbance of consciousness, any symptom suggestive of Gayet Wernicke encephalopathy, any need for hydration in a patient with high-risk alcohol consumption => as a matter of urgency, intravenous vitamin B1 supplementation before any glucose infusion ++++. \n\n\n'''Delirium tremens: '''\n\n- hospitalisation in intensive or continuing care;\n\n- quiet, well-lit room, regular visits from carers for reassurance and supervision;\n\n- restraint is sometimes necessary in cases of severe behavioural problems;\n\n- treatment with high-dose parenteral vitamin B1 before any infusion of serum glucose and polyvitamins ;\n\n- intravenous rehydration and correction of hydroelectrolytic disorders ;\n\n- long-lasting benzodiazepines (diazepam) in high intravenous doses until sedation is achieved;\n\n- monitoring of vitals, hydration, blood ionogram, creatinine and phosphorus levels.\n\n\n'''Convulsive seizure:'''\n\n- treatment identical to that for withdrawal;\n\n- systematic high-dose diazepam, tapering off over 7 to 10 days;\n\n- no systematic initiation of long-term anti-comital treatment. ",
+  "question": {
+    "question": "What is the primary treatment for managing a withdrawal accident such as delirium tremens or convulsive seizures in a patient with high-risk alcohol consumption?",
+    "option_a": "Administering high-dose benzodiazepines for a short period and initiating long-term anti-comital treatment",
+    "option_b": "Providing oral vitamin B1 supplements and monitoring hydration levels",
+    "option_c": "Hospitalizing the patient and treating with high-dose, long-acting benzodiazepines, parenteral vitamin B1, and appropriate hydration",
+    "option_d": "Administering intravenous glucose before any vitamin B1 supplementation and using short-acting benzodiazepines",
+    "correct_option": "C"
+  }
+}

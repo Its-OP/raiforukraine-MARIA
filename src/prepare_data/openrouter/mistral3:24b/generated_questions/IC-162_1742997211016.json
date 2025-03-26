@@ -1,0 +1,12 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-26-B\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=B\n|Title=Photograph of a rash at the secondary syphilis stage\n|Description=PUE6-158-3\n|Rubric=Multimedia content\n|Contributors=\n|Order=26}}\n<gallery>\nFile:Secondary syphilis LISA.jpg|Palmar syphilis\n</gallery>",
+  "question": {
+    "question": "Which of the following is a characteristic symptom of the secondary stage of syphilis?",
+    "option_a": "A painless ulcer at the site of infection",
+    "option_b": "A rash that appears on the palms of the hands and soles of the feet",
+    "option_c": "Severe joint pain and swelling",
+    "option_d": "White patches in the mouth and throat",
+    "correct_option": "B"
+  }
+}

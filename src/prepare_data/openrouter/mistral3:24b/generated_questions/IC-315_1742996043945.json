@@ -1,0 +1,12 @@
+{
+  "folder": "IC-315",
+  "content": "{{knowledge objective\n|Identifiant=OIC-315-05-A\n|Item_parent=Acute leukaemia\n|Item_parent_short=Acute leukaemia\n|Rank=A\n|Title=Knowing the clinical and biological signs of severity\n|Description=None\n|Rubric=Identification of the emergency\n|Contributors=\n|Order=5}}\nThere may be multiple clinical signs of severity, related to the different clinical pictures of the disease. To summarise :\n\nThe bone marrow failure syndrome may give rise to complications linked to the depth of anaemia (myocardial damage), thrombocytopenia (haemorrhagic shock, cerebral bleeding), neutropenia (septic shock); the tumour syndrome may be complicated by hyperleukocytosis (leukostasis), compressive forms (superior cava syndrome), neurological damage (meningeal damage), lysis syndrome (acute renal failure, hyperkalaemia); AML, and particularly AML3, frequently leads to haemostasis disorders (DIC with risk of multivisceral dysfunction syndrome due to microthrombotic damage and risk of haemorrhage).\n\n<br />",
+  "question": {
+    "question": "Which of the following is a common complication of hyperleukocytosis in acute leukaemia?",
+    "option_a": "Myocardial damage due to anaemia",
+    "option_b": "Septic shock due to neutropenia",
+    "option_c": "Leukostasis",
+    "option_d": "Hyperkalaemia due to lysis syndrome",
+    "correct_option": "C"
+  }
+}

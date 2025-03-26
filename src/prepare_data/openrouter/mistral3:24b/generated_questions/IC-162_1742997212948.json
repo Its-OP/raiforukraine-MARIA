@@ -1,0 +1,12 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-03-A\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=A\n|Title=Know the preventive measures for STIs\n|Description=Conservative, vaccination\n|Section=Management\n|Contributors=\n|Order=3}}\n- Protecting sexual relations by using condoms\n\n- Preventive vaccination for HPV and hepatitis B (and hepatitis A in men who have sex with men)\n\n- Identify the contaminated or contaminating partner(s) and propose screening, diagnosis and/or probabilistic treatment;\n\n- Systematically offer :\n\n- HIV serology,\n\n- treponemal test,\n\n- hepatitis B serology\n\n- Urinary or genital PCR for Neisseria gonorrhoeae and Chlamydia trachomatis\n\n- Pharyngeal and anal PCR according to sexual practices\n\n- Emphasise the risks of recontamination (education)\n\n- Consider PrEP (Pre-Exposure Prophylaxis) type treatment against HIV if you take risks too regularly",
+  "question": {
+    "question": "Which of the following is NOT a recommended preventive measure for sexually transmitted infections (STIs)?",
+    "option_a": "Using condoms during sexual relations",
+    "option_b": "Vaccination for influenza",
+    "option_c": "Offering HIV serology and treponemal tests",
+    "option_d": "Encouraging regular screening for Neisseria gonorrhoeae and Chlamydia trachomatis",
+    "correct_option": "B"
+  }
+}

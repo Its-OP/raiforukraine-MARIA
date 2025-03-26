@@ -1,0 +1,12 @@
+{
+  "folder": "IC-050",
+  "content": "{{knowledge objective\n|Identifiant=OIC-050-07-B\n|Item_parent=Genito-scrotal pathology in boys and men\n|Item_parent_short=Genito-scrotal pathology in boys and men\n|Rank=B\n|Title=Know the general principles of management of testicular torsion, necrotizing fasciitis of the external genitalia, phymosis, paraphymosis.\n|Description=None\n|Rubric=Management\n|Contributors=C\u00e9dric Leb\u00e2cle, Alice Faure\n|Order=7}}\n\n\n==''Torsion of the spermatic cord:'''==\n\n*Spermatic cord torsion is a diagnostic and therapeutic emergency requiring immediate surgical scrotal exploration to confirm the diagnosis, remove the ischaemia by untwisting the spermatic cord and perform an orchidopexy if the testicle appears viable. Contralateral orchidopexy may be performed at the same time or at a later date. If the testicle is not viable, orchiectomy is necessary.\n\n*No further investigations should delay surgical management.\n*The patient and his family must be warned of the risk of orchiectomy and sequelae of testicular atrophy if the testicle has been preserved.\n\n==''Necrotizing fasciitis:'''==\n\n*The treatment of necrotising fasciitis of the external genitalia is multidisciplinary, based on the following management options:\n**medical: in an intensive care unit with antibiotic therapy combining C3G and an aminoglycoside combined with an anti-anaerobic antibiotic.\n**Surgical: under general anaesthetic as an emergency measure, with surgical debridement of necrotic tissue without any closure A urinary or digestive diversion may be necessary.\n**hyperbaric oxygen therapy.",
+  "question": {
+    "question": "What is the immediate management step for a patient diagnosed with testicular torsion?",
+    "option_a": "Performing a series of diagnostic tests to confirm the diagnosis before surgery",
+    "option_b": "Administering antibiotics and waiting for the symptoms to subside",
+    "option_c": "Immediate surgical scrotal exploration to untwist the spermatic cord and perform an orchidopexy if the testicle is viable",
+    "option_d": "Applying a cold compress to reduce swelling and pain before considering surgery",
+    "correct_option": "C"
+  }
+}

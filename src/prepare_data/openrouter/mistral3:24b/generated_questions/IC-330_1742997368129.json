@@ -1,0 +1,12 @@
+{
+  "folder": "IC-330",
+  "content": "{{knowledge objective\n|Identifiant=OIC-330-11-A\n|Item_parent=Prescription and monitoring of the most common classes of medicines in adults and children, excluding anti-infectives (see item 177). Knowing the correct use of the main therapeutic classes.\n|Item_parent_short=Prescribing and monitoring the most common classes of medicines for adults and children, excluding anti-infectives (see item 177). Knowing the correct use of the main therapeutic classes.\n|Rank=A\n|Heading=Antipsychotics:: mechanisms of action, indications, side-effects, drug interactions, monitoring procedures and main causes of failure.\n|Description=Knowing the mechanisms of action\n|Rubric=Management\n|Contributors=\n|Order=11}}\nSee ITEM 74",
+  "question": {
+    "question": "Which of the following is a primary mechanism of action for typical antipsychotics?",
+    "option_a": "Blocking serotonin receptors",
+    "option_b": "Inhibiting monoamine oxidase",
+    "option_c": "Blocking dopamine receptors",
+    "option_d": "Stimulating beta-adrenergic receptors",
+    "correct_option": "C"
+  }
+}

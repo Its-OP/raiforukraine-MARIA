@@ -1,0 +1,12 @@
+{
+  "folder": "IC-201",
+  "content": "{{knowledge objective\n|Identifiant=OIC-201-06-A\n|Item_parent=Organ transplants: epidemiological and immunological aspects; principles of treatment and monitoring; complications and prognosis; ethical and legal aspects. Organ procurement and legislation\n|Item_parent_short=Organ transplants: epidemiological and immunological aspects; principles of treatment and monitoring; complications and prognosis; ethical and legal aspects. Organ procurement and legislation\n|Rank=A\n|Title=Know the definition of encephalic death\n|Description=None\n|Rubric=Definition\n|Contributors=Dany Anglicheau\n|Order=6}}\n\nEncephalic death is the definitive and irreversible destruction of the brain.\n\nIt corresponds to a deep, reactive coma, with disappearance of all brain stem reflexes and absence of spontaneous breathing.",
+  "question": {
+    "question": "What is the primary characteristic of encephalic death?",
+    "option_a": "Presence of brain stem reflexes and spontaneous breathing",
+    "option_b": "Reversible destruction of the brain",
+    "option_c": "Deep, reactive coma with disappearance of all brain stem reflexes and absence of spontaneous breathing",
+    "option_d": "Temporary loss of consciousness with some brain activity",
+    "correct_option": "C"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-186",
+  "content": "{{knowledge objective\n|Identifiant=OIC-186-06-A\n|Item_parent=Hypersensitivities and allergies in children and adults: physiopathological, epidemiological and diagnostic aspects and principles of treatment\n|Item_parent_short=Hypersensitivity and allergy in children and adults: pathophysiological, epidemiological and diagnostic aspects and principles of treatment\n|Rank=A\n|Title=Knowing and prioritising the different stages in the diagnosis of respiratory allergies\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=6}}\nRespiratory allergies manifest themselves as asthma and/or rhinitis (see Lisa sheet item 188). The ''diagnosis of respiratory allergy'' is based on the demonstration of a strong association between exposure to an allergen and the onset of symptoms.\n\nThis association is evaluated :\n\n1- by the \"unity of place, time and action\".\n\no \"Per-annual pneumallergens\" (responsible for per-annual symptoms) are most often \"indoor allergens\":\n\n\u00a7 dust mites and cockroaches, animal dander: dogs, cats, rodents; mould.\n\n\u00a7 Certain outdoor moulds such as Alternaria are also involved in allergic phenomena.\n\no \"Seasonal pneumallergens\" are most often \"outdoor allergens\":\n\n\u00a7 pollens from trees, grasses (the most ubiquitous), herbaceous plants,...\n\n\n2- and by \"evidence of sensitisation\" to the allergen (positive skin test/presence of specific IgE antibodies).",
+  "question": {
+    "question": "Which of the following is a key factor in the diagnosis of respiratory allergies?",
+    "option_a": "The presence of a family history of allergies",
+    "option_b": "The unity of place, time, and action between exposure to an allergen and the onset of symptoms",
+    "option_c": "The patient's age and gender",
+    "option_d": "The frequency of respiratory infections",
+    "correct_option": "B"
+  }
+}

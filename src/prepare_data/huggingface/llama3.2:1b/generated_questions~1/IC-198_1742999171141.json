@@ -1,0 +1,46 @@
+{
+  "folder": "IC-198",
+  "content": "{{knowledge objective\n|Identifiant=OIC-198-14-A\n|Item_parent=Microcrystalline arthropathies\n|Item_parent_short=Microcrystalline arthropathies\n|Rank=A\n|Intitle=Photograph of a clinically detectable tophus (typical)\n|Description=helix, finger pad, toe or foot.\n|Rubric=Multimedia content\n|Contributors=\n|Order=14}}\n<gallery widths=\"400\" heights=\"400\" perrow=\"3\">\nFile:Tophus clinically detectable (typical) .PNG\nFile:Tophus clinically detectable (typical)03.PNG\nFile:Tophus clinically detectable (typical) 02.PNG\n</gallery>",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the typical location of a tophus?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Option A: Finger pad",
+        "description": "A tophus is typically located on the finger pad.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Option B: Toe or foot",
+        "description": "A tophus is typically located on the toe or foot.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Option C: Helix",
+        "description": "A tophus is typically located on the helix.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Option D: Base of the toe",
+        "description": "A tophus is typically located at the base of the toe.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Correct Option: Option C",
+        "description": "This consists only a letter of the correct option.",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

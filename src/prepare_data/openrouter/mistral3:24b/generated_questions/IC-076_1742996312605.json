@@ -1,0 +1,12 @@
+{
+  "folder": "IC-076",
+  "content": "{{knowledge objective\n|Identifiant=OIC-076-09-A\n|Item_parent=Alcohol dependence\n|Item_parent_short=Alcohol dependence\n|Rank=A\n|Title=To understand the frequent association of alcohol misuse with other addictive and psychiatric pathologies, whether primary or secondary.\n|Description=Psychiatric disorders associated with alcohol misuse may be primary (existing before the onset of misuse, which may have a self-therapeutic function) or secondary (alcohol consumption leads to psychiatric symptoms or disorders, particularly anxiety or depression).\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=9}}\nMost common psychiatric comorbidities: [[Anxiety SD-116|anxiety disorders]] and depressive disorders.\n\nAssociation of alcohol misuse with schizophrenia (20-30%) and bipolar disorder (up to 40%).\n\n[Suicidal risk 2C-066-IU-A01|Risk]] of [[Suicidal ideation or behaviour/self-inflicted injury SD-125|suicide]] very strongly increased, (acute alcoholisations++)\n\n\nPrimary psychiatric disorders: preceding misuse\n\nor secondary: occur as a result of acute or chronic consumption\n\nDiagnosis based on anamnesis and evolution after withdrawal\n\n\nFrequent association with other product addictions (tobacco +++) and behavioural addictions (pathological gambling +)",
+  "question": {
+    "question": "Which of the following statements best describes the relationship between alcohol misuse and psychiatric disorders?",
+    "option_a": "Alcohol misuse only leads to psychiatric disorders and never co-occurs with pre-existing conditions.",
+    "option_b": "Psychiatric disorders associated with alcohol misuse are always secondary and develop only after prolonged alcohol consumption.",
+    "option_c": "Psychiatric disorders associated with alcohol misuse can be either primary, existing before the onset of misuse, or secondary, developing as a result of alcohol consumption.",
+    "option_d": "Alcohol misuse is never associated with other addictive behaviors or psychiatric pathologies.",
+    "correct_option": "C"
+  }
+}

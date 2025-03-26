@@ -1,0 +1,12 @@
+{
+  "folder": "IC-157",
+  "content": "{{knowledge objective\n|Identifiant=OIC-157-11-A\n|Item_parent=Bacteremia/Fungemia in adults and children\n|Item_parent_short=Bacteremia/Fungemia in adults and children\n|Rank=A\n|Title=Knowing how to interpret bio-inflammatory markers during bacteremia/fungemia\n|Description=None\n|Rubric=Additional tests\n|Contributors=David Lebeaux\n|Order=11}}\n'''[[Elevated c-reactive protein (cr) SD-203|Inflammatory biomarkers]] (CRP, procalcitonin)'''''\n\n- Non-specific, orientation value only\n\n- Procalcitonin < 0.25 ng/ml makes bacteremia/fungemia unlikely\n\n- No reason to measure them systematically",
+  "question": {
+    "question": "What is the significance of a procalcitonin level less than 0.25 ng/ml in the context of suspected bacteremia/fungemia?",
+    "option_a": "It confirms the presence of bacteremia/fungemia.",
+    "option_b": "It indicates that bacteremia/fungemia is likely.",
+    "option_c": "It makes bacteremia/fungemia unlikely.",
+    "option_d": "It suggests that additional inflammatory biomarkers should be measured systematically.",
+    "correct_option": "C"
+  }
+}

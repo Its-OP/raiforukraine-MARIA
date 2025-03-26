@@ -1,0 +1,12 @@
+{
+  "folder": "IC-082",
+  "content": "{{knowledge objective\n|Identifiant=OIC-082-14-B\n|Item_parent=Acute visual impairment\n|Item_parent_short=Acute visual impairment\n|Rank=B\n|Intitle=Photograph of a visual field of both eyes with homonymous lateral hemianopia (quadranopsia) (or bitemporal)\n|Description=including relative afferent pupillary deficit\n|Rubric=Multimedia content\n|Contributors=\n|Order=14}}\n\n[[File:Hemianopsia.jpg|left|vignette|Goldman visual field showing left lateral homonymous hemianopia (top), and right lateral homonymous hemianopia (bottom). The diagrams represent what the patient sees (visual field of the right eye on the right, visual field of the left eye on the left)].",
+  "question": {
+    "question": "What does the term 'homonymous lateral hemianopia' refer to in the context of visual field defects?",
+    "option_a": "Loss of vision in the same half of the visual field in both eyes",
+    "option_b": "Loss of vision in the upper half of the visual field in one eye",
+    "option_c": "Loss of vision in the outer half of the visual field in one eye",
+    "option_d": "Loss of vision in the inner half of the visual field in both eyes",
+    "correct_option": "A"
+  }
+}

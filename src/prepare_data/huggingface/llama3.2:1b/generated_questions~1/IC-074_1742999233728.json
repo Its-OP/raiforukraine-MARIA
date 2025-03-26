@@ -1,0 +1,46 @@
+{
+  "folder": "IC-074",
+  "content": "{{knowledge objective\n|Identifiant=OIC-074-20-A\n|Item_parent=Prescription and monitoring of psychotropic drugs (see item 330)\n|Item_parent_short=Prescription and monitoring of psychotropic drugs (see item 330)\n|Rank=A\n|Heading=Hypnotics: knowledge of frequent or serious adverse effects, main drug interactions at all stages of life, particularly in elderly patients.\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=20}}\nZopiclone and zolpidem have the same potential adverse effects as benzodiazepines, particularly in the elderly.\n\nLike benzodiazepines, they can both lead to \"pharmacological tolerance\", \"use disorders\" and \"rebound anxiety\" when stopped.\n\nFor other treatments, please refer to the relevant sections.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the main difference between zopiclone and zolpidem?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Zopiclone and zolpidem are both used to treat insomnia.",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Zopiclone and zolpidem have the same potential adverse effects as benzodiazepines.",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Zopiclone and zolpidem are both used to treat anxiety disorders.",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Zopiclone and zolpidem are both used to treat narcolepsy.",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Zopiclone and zolpidem have different potential adverse effects.",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

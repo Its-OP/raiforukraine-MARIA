@@ -1,0 +1,46 @@
+{
+  "folder": "IC-101",
+  "content": "{{knowledge objective\n|Identifiant=OIC-101-11-A\n|Item_parent=Facial paralysis\n|Item_parent_short=Facial paralysis\n|Rank=A\n|Intitle=Clinical iconography of a typical example of unilateral PFP\n|Description=Visualise facial asymmetry to mimicry with immobility of superior and inferior territory\n|Rubric=Multimedia content\n|Contributors=\n|Order=11}}\nPlease refer to the CEN website: www.cen-neurologie.fr where videos are available.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary function of the facial nerve?",
+        "description": "The facial nerve is responsible for controlling facial expressions, transmitting taste sensations from the anterior two-thirds of the tongue, and providing motor control to the muscles of facial expression.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Control of facial expressions",
+        "description": "The facial nerve is primarily responsible for controlling facial expressions, including smiling, frowning, and raising the eyebrows.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Transmission of taste sensations",
+        "description": "The facial nerve transmits taste sensations from the anterior two-thirds of the tongue, which is responsible for the sensation of sweet, sour, salty, and bitter tastes.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Motor control of facial muscles",
+        "description": "The facial nerve provides motor control to the muscles of facial expression, including the orbicularis oculi, zygomaticus major, and orbicularis oculi muscles.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Regulation of salivation",
+        "description": "The facial nerve is not primarily responsible for regulating salivation. This function is typically controlled by the glossopharyngeal nerve.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Control of facial expressions",
+        "description": "The facial nerve is primarily responsible for controlling facial expressions, including smiling, frowning, and raising the eyebrows.",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

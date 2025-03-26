@@ -1,0 +1,12 @@
+{
+  "folder": "IC-342",
+  "content": "{{knowledge objective\n|Identifiant=OIC-342-16-A\n|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=A\n|Title=Know the symptomatic treatment of malaise\n|Description=None\n|Heading=Management\n|Contributors=\n|Order=16}}\nFirst aid treatment - Safety position - Lateral safety position if unconscious - Leg elevation if blood pressure low",
+  "question": {
+    "question": "What is the recommended first aid treatment for an unconscious adult with low blood pressure?",
+    "option_a": "Administer CPR immediately",
+    "option_b": "Place the person in the lateral safety position and elevate their legs",
+    "option_c": "Provide oxygen therapy and monitor vital signs",
+    "option_d": "Give the person water to drink and keep them warm",
+    "correct_option": "B"
+  }
+}

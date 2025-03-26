@@ -1,0 +1,12 @@
+{
+  "folder": "IC-198",
+  "content": "{{knowledge objective\n|Identifiant=OIC-198-21-B\n|Item_parent=Microcrystalline arthropathies\n|Item_parent_short=Microcrystalline arthropathies\n|Rank=B\n|Title=Know the two main conditions associated with PPCa deposits\n|Description=haemochromatosis and primary hyperparthyroidism\n|Rubric=Etiologies\n|Contributors=\n|Order=21}}\nHaemochromatosis\n\nPrimary hyperparathyroidism\n\n<br />",
+  "question": {
+    "question": "Which two main conditions are associated with pyrophosphate calcium (PPCa) deposits?",
+    "option_a": "Diabetes and hyperthyroidism",
+    "option_b": "Haemochromatosis and primary hyperparathyroidism",
+    "option_c": "Osteoporosis and gout",
+    "option_d": "Rheumatoid arthritis and psoriatic arthritis",
+    "correct_option": "B"
+  }
+}

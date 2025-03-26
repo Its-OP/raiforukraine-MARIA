@@ -1,0 +1,46 @@
+{
+  "folder": "IC-260",
+  "content": "{{knowledge objective\n|Identifiant=OIC-260-03-A\n|Item_parent=Hematuria\n|Item_parent_short=Hematuria\n|Rank=A\n|Title=Diagnosing microscopic haematuria and macroscopic haematuria\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Charles Dariane, Bruno Moulin\n|Order=3}}\n\n<br />\n\n*Microscopic haematuria: diagnosis by urine dipstick only (Sn 90%, from \u2265 5 red blood cells/mm<sup>3</sup>), to be confirmed by ECBU.\n\n*Macroscopic haematuria: presence of blood visible to the naked eye (pinkish, red or brownish colouration of the urine, generally from \u2265 500 red blood cells/mm<sup>3</sup>). Clots or urological symptoms (lower urinary tract symptoms, lumbar or pelvic pain): point to a urological origin.\n\n*There is no correlation between the type of haematuria or the amount of bleeding and the severity of the causative disease. '''Microscopic haematuria has the same diagnostic value as macroscopic haematuria.'''",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the diagnostic value of microscopic haematuria?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Microscopic haematuria has the same diagnostic value as macroscopic haematuria.",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Microscopic haematuria is only diagnosed by urine dipstick tests.",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Microscopic haematuria is only visible to the naked eye.",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Microscopic haematuria is only diagnosed by a urinalysis.",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Microscopic haematuria has the same diagnostic value as macroscopic haematuria.",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

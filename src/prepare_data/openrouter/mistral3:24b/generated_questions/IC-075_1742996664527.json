@@ -1,0 +1,12 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-10-A\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=A\n|Title=Knowing the epidemiology of smoking among pregnant women\n|Description=Knowledge\n|Rubric=Epidemiology\n|Contributors=\n|Order=10}}\n\n\n* Pregnancy\n** half of pregnant women continue to smoke during pregnancy\n** more frequently among the youngest and least educated women",
+  "question": {
+    "question": "According to the epidemiology of smoking among pregnant women, which of the following statements is true?",
+    "option_a": "Most pregnant women quit smoking during pregnancy.",
+    "option_b": "Smoking during pregnancy is equally prevalent across all age groups.",
+    "option_c": "Half of pregnant women continue to smoke during pregnancy.",
+    "option_d": "Smoking during pregnancy is more common among older and highly educated women.",
+    "correct_option": "C"
+  }
+}

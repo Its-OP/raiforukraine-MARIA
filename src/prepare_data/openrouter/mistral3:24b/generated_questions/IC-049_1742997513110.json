@@ -1,0 +1,12 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-14-B\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=B\n|Title=Knowing the precise etiologies of early puberty\n|Description=None\n|Rubric=Etiologies\n|Contributors=\n|Order=14}}\n\n{| class=\"wikitable\"\n| '''early central PP''''\n|\n|-\n| Intracranial process\n| Tumour: chiasma glioma (NF1 or not), hamartoma\n\n                        Non-tumoral: hydrocephalus, arachnoid cyst\n|-\n| Sequelae\n| Meningitis or encephalitis\n\n                        Cranial irradiation\n|-\n|Idiopathic\n|Diagnosis of elimination\n|-\n| '''Peripheral PP'''\n|\n|-\n| Ovarian/testicular\n| McCune-Albright, ovarian cyst, granulosa tumour\n\n                        Testotoxicosis\n|-\n| Adrenal\n| Hyperandrogenism without gonadotropic activation\n\n                        Adrenal cortex\n|-\n|Exogenous\n\n'''Environmental'''\n\n'''Genetics'''\n|\n|}\n<br />",
+  "question": {
+    "question": "What is a common cause of early central precocious puberty (PP) due to an intracranial process?",
+    "option_a": "Ovarian cyst",
+    "option_b": "Hydrocephalus",
+    "option_c": "Testotoxicosis",
+    "option_d": "Hyperandrogenism",
+    "correct_option": "B"
+  }
+}

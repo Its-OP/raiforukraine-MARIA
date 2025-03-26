@@ -1,0 +1,12 @@
+{
+  "folder": "IC-186",
+  "content": "{{knowledge objective\n|Identifiant=OIC-186-10-B\n|Item_parent=Hypersensitivities and allergies in children and adults: physiopathological, epidemiological and diagnostic aspects and principles of treatment\n|Item_parent_short=Hypersensitivity and allergy in children and adults: pathophysiological, epidemiological and diagnostic aspects and principles of treatment\n|Rank=B\n|Title=Knowing and prioritising the different stages in the diagnosis of allergies to hymenoptera venoms\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=10}}\nThe diagnosis of a reaction following a hymenoptera sting is based on :\n\n- history\n\no identification of the insect by the subject, whether or not there is still a stinger in place\n\no type of reaction and chronology of symptoms.\n\n- skin tests: intradermal tests (IDR) (''no prick'')\n\n- biological tests: venom-specific IgE assay",
+  "question": {
+    "question": "The diagnosis of a reaction following a hymenoptera sting primarily relies on which of the following?",
+    "option_a": "Skin prick tests and general IgE assay",
+    "option_b": "History and identification of the insect by the subject",
+    "option_c": "Blood tests for general allergens",
+    "option_d": "Intradermal tests (IDR) and venom-specific IgE assay",
+    "correct_option": "D"
+  }
+}

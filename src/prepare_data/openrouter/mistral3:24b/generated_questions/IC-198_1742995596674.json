@@ -1,0 +1,12 @@
+{
+  "folder": "IC-198",
+  "content": "{{knowledge objective\n|Identifiant=OIC-198-02-A\n|Item_parent=Microcrystalline arthropathies\n|Item_parent_short=Microcrystalline arthropathies\n|Rank=A\n|Title=Knowing the threshold value for hyperuricemia\n|Description=360 \u00b5mol/l or 60 mg/l\n|Rubric=Definition\n|Contributors=\n|Order=2}}\nThe solubility threshold for urates is 360 \u00b5mol/l or 60 mg/l.\n\n<br />",
+  "question": {
+    "question": "What is the threshold value for hyperuricemia?",
+    "option_a": "260 \u00b5mol/l or 40 mg/l",
+    "option_b": "360 \u00b5mol/l or 60 mg/l",
+    "option_c": "460 \u00b5mol/l or 80 mg/l",
+    "option_d": "560 \u00b5mol/l or 100 mg/l",
+    "correct_option": "B"
+  }
+}

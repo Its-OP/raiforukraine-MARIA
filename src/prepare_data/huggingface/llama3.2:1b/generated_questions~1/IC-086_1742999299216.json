@@ -1,0 +1,22 @@
+{
+  "folder": "IC-086",
+  "content": "{{knowledge objective\n|Identifiant=OIC-086-06-A\n|Item_parent=Eyelid pathology\n|Item_parent_short=Eyelid pathology\n|Rank=A\n|Title=Recognising a stye\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=6}}\n'''Stye=''''' furuncle of the free edge of the eyelid centred on a pilosebaceous follicle of the eyelash.\n\nIt corresponds to a bacterial infection, most often with Staphylococcus aureus, of the pilosebaceous follicle. It develops over a few days and can cause severe pain. Clinically, it appears as a red swelling centred by a white dot at the free edge. Secretions are not always present at first.",
+  "question": {
+    "properties": {
+      "question": "What is the primary characteristic of a stye?",
+      "option_a": "A bacterial infection of the eyelid follicle, often caused by Staphylococcus aureus.",
+      "option_b": "A benign growth on the eyelid, usually appearing as a small, red bump.",
+      "option_c": "A type of conjunctivitis, characterized by excessive tearing and redness.",
+      "option_d": "A condition where the eyelid is excessively flaccid and prone to tearing.",
+      "correct_option": "option_a"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

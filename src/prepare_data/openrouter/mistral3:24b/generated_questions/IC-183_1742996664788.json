@@ -1,0 +1,12 @@
+{
+  "folder": "IC-183",
+  "content": "{{knowledge objective\n|Item_parent=Organisation of occupational medicine. Prevention of occupational risks\n|Rank=B\n|Title=Knowing the organisation of occupational health services\n|Description=General missions and organisation of occupational health services\n|Contributors=Isabelle Thaon,Jean Fran\u00e7ois Gehanno,Ir\u00e8ne Sari Minodier\n|Order=1\n|Identifiant=OIC-183-01-B\n|Item_parent_short=Organisation of occupational medicine. Occupational risk prevention\n}}\n'''Every employer''' (public or private) with at least one employee must organise or join an occupational health and prevention service (SPST).\n\n2 modes of organisation for STPS:\n\n*Either a department shared by several companies = an inter-company OHS department\n*Or an internal department within the company in the case of a large company = autonomous OHS.\n\n\nSTPSs are organised into ''multidisciplinary teams'' comprising :\n\n*nurses\n*occupational risk specialists such as ergonomists, engineers and psychologists,\n*and led by the occupational physician.\n\nThe two main missions of the STPS are :\n\n*advice to employees and employers on the assessment and management of occupational risks, and\n*and employee health monitoring.\n\nThey also have a \"health promotion\" role.",
+  "question": {
+    "question": "What is the primary role of an occupational health and prevention service (STPS) in a company?",
+    "option_a": "To provide medical treatment to employees who get sick at work",
+    "option_b": "To assess and manage occupational risks and monitor employee health",
+    "option_c": "To handle all legal and administrative tasks related to employee contracts",
+    "option_d": "To conduct regular audits of the company's financial records",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-230",
+  "content": "{{knowledge objective\n|Identifiant=OIC-230-05-A\n|Item_parent=Acute chest pain\n|Item_parent_short=Acute chest pain\n|Rank=A\n|Title=Knowing the clinical functional and physical semiology of aortic dissection\n|Description=Redundant with items 226, 234, 235\n|Topic=Positive diagnosis\n|Contributors=Vincent Roule\n|Order=5}}\n\n'''Clinical, functional and physical semiology of aortic dissection'''\n\n- functional clinical signs: sudden, intense chest pain (like tearing or stabbing), typically migratory (transfixing in the back, towards the lumbar region).\n\nSometimes: faintness/loss of consciousness (syncope), neurological disorders (obnubilation, aphasia, sensory-motor disorders)\n\n- physical symptoms: asymmetric blood pressure (difference >20 mmHg)++, abolition of one or more pulses (radial, femoral, popliteal), murmur of aortic insufficiency, neurological deficit",
+  "question": {
+    "question": "Which of the following is a characteristic physical symptom of aortic dissection?",
+    "option_a": "Sudden, intense chest pain that is migratory",
+    "option_b": "Symmetric blood pressure readings",
+    "option_c": "Asymmetric blood pressure with a difference greater than 20 mmHg",
+    "option_d": "Consistent and strong pulses in all extremities",
+    "correct_option": "C"
+  }
+}

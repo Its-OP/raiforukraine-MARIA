@@ -1,0 +1,46 @@
+{
+  "folder": "IC-099",
+  "content": "{{knowledge objective\n|Identifiant=OIC-099-17-B\n|Item_parent=Migraine, trigeminal neuralgia and facial pain\n|Item_parent_short=Migraine, trigeminal neuralgia and facial pain\n|Rank=B\n|Title=From a video interview, evoke the diagnosis of migraine, facial vascular pain, trigeminal neuralgia.\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=17}}\nPlease refer to the CEN website: www.cen-neurologie.fr where videos are available.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary characteristic of facial vascular pain?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Facial pain that worsens with movement",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Facial pain that worsens with temperature changes",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Facial pain that worsens with pressure",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Facial pain that worsens with movement and temperature changes",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Option D",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

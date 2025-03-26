@@ -1,0 +1,22 @@
+{
+  "folder": "IC-267",
+  "content": "{{knowledge objective\n|Identifiant=OIC-267-29-A\n|Item_parent=Disorders of acid-base equilibrium and hydro-electrolytic disorders\n|Item_parent_short=Disorders of acid-base balance and fluid and electrolyte disorders\n|Rank=A\n|Title=Know how to diagnose hypernatremia\n|Description=The concepts of hyperosmolality and cellular dehydration\n|Rubric=Definition\n|Contributors=P Rieu; B Moulin; M Flamant\n|Order=29}}\n\n\n*''Hypernatremia: [Na+] > 145 mmol/L'''\n*The diagnosis of intracellular dehydration (ICD) is biological: hypernatremia associated with plasma hyperosmolality (> 300 mOsm/Kg H20).\n*Associated clinical signs:\n**Thirst, sometimes intense.\n**Neurological symptoms (= ''signs of seriousness''): non-specific and not very suggestive; correlated with the degree of hypernatremia and the speed of onset:\n**Dryness of the mucous membranes, particularly on the inside of the cheeks.\n**Polyuro-polydipsic syndrome if renal cause.\n**Weight loss.",
+  "question": {
+    "properties": {
+      "question": "What is the primary characteristic of hypernatremia?",
+      "option_a": "A decrease in plasma osmolality.",
+      "option_b": "An increase in plasma osmolality.",
+      "option_c": "A decrease in plasma osmolality and an increase in plasma osmolality.",
+      "option_d": "A decrease in plasma osmolality and a decrease in plasma osmolality.",
+      "correct_option": "option_b"
+    },
+    "required": [
+      "question",
+      "correct_option"
+    ],
+    "required_items": [
+      "question",
+      "correct_option"
+    ]
+  }
+}

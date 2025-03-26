@@ -1,0 +1,12 @@
+{
+  "folder": "IC-121",
+  "content": "{{knowledge objective\n|Identifiant=OIC-121-02-B\n|Item_parent=Psychological disability (see items 56 and 118)\n|Item_parent_short=Psychological disability (see item 56 and 118)\n|Rank=B\n|Title=Knowing the general principles of care.\n|Description=Psychoeducation (therapeutic education) for patients and their familiesSchooling, work, income, housing, social life\n|School, work, income, housing, social life\n|Contributors=Fabrice Berna,Pierre Vandel\n|Order=2}}\n\nThe aim of mental health care is to help people recover.\n\nIt is based on psychosocial rehabilitation techniques.\n\nRecovery includes the development of skills that enable people to learn to live with or cope with the three levels of disability mentioned above.",
+  "question": {
+    "question": "Which of the following is a key component of psychosocial rehabilitation in mental health care?",
+    "option_a": "Medication management only",
+    "option_b": "Focus on eliminating all symptoms immediately",
+    "option_c": "Development of skills to cope with disability in school, work, income, housing, and social life",
+    "option_d": "Complete isolation from social activities",
+    "correct_option": "C"
+  }
+}

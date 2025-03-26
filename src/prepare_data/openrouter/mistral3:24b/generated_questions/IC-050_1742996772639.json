@@ -1,0 +1,12 @@
+{
+  "folder": "IC-050",
+  "content": "{{knowledge objective\n|Identifiant=OIC-050-17-A\n|Item_parent=Genito-scrotal pathology in boys and men\n|Item_parent_short=Genito-scrotal pathology in boys and men\n|Rank=A\n|Title=Photographs of phimosis and paraphimosis\n|Description=None\n|Rubric=Multimedia content\n|Contributors=C\u00e9dric Leb\u00e2cle, Alice Faure\n|Order=17}}\n\n[[File:Phimo.png|left|thumb|399x399px|'''Photo of a phimosis''']]\n\n\n\n\n\n\n\n\n[[File:Para.png|left|thumb|'''Photo of a paraphimosis''']]",
+  "question": {
+    "question": "Which of the following conditions is characterized by the foreskin being unable to be retracted over the glans of the penis?",
+    "option_a": "Paraphimosis",
+    "option_b": "Balanitis",
+    "option_c": "Epididymitis",
+    "option_d": "Phimosis",
+    "correct_option": "D"
+  }
+}

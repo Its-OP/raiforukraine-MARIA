@@ -1,0 +1,12 @@
+{
+  "folder": "IC-226",
+  "content": "{{knowledge objective\n|Identifiant=OIC-226-09-A\n|Item_parent=Deep vein thrombosis and pulmonary embolism (see item 330)\n|Item_parent_short=Deep vein thrombosis and pulmonary embolism (see item 330)\n|Rank=A\n|Title=Knowing the signs of PE severity and recognising patients who can be managed as outpatients for PE\n|Description=None\n|Topic=Management\n|Contributors=Gilles Pernod, Virginie Dufrost, Guillaume Mah\u00e9\n|Order=9}}\n\n\n=== '''High-risk PE (severe PE)''' ===\n- PE associated with haemodynamic failure defined by a systolic blood pressure (SBP) < 90 mmHg or a fall in SBP \u2265 40 mmHg for more than 15 minutes in the absence of another cause such as sepsis, arrhythmia or hypovolaemia.\n\n- Absolute life-threatening emergency with a mortality risk of > 30%.\n\n=== ''Non-high risk PE'' ===\nStratification of intermediate or high risk is based on a combination of the sPESI or HESTIA score and markers (imaging or biomarkers) of cardiac dysfunction.\n[File:EP severity stratification.jpg|thumbnail]]\nOutpatient\" management (in practice short hospitalisation or care pathway) may be proposed in cases of PE with a low risk of mortality (sPESI score = 0 and no cardiac repercussions).  \n\nPatients with high intermediate severity PE should initially be monitored closely, ideally in intensive care units.",
+  "question": {
+    "question": "Which of the following is a characteristic of high-risk (severe) pulmonary embolism (PE)?",
+    "option_a": "A systolic blood pressure (SBP) of 100 mmHg or higher",
+    "option_b": "A fall in SBP of 30 mmHg for more than 15 minutes",
+    "option_c": "A systolic blood pressure (SBP) < 90 mmHg or a fall in SBP \u2265 40 mmHg for more than 15 minutes in the absence of another cause",
+    "option_d": "A mortality risk of less than 10%",
+    "correct_option": "C"
+  }
+}

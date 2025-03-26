@@ -1,0 +1,12 @@
+{
+  "folder": "IC-215",
+  "content": "{{knowledge objective\n|Identifiant=OIC-215-02-A\n|Item_parent=Purpuras in adults and children\n|Item_parent_short=Purpuras in adults and children\n|Rank=A\n|Title=Knowing how to differentiate vascular purpura from thrombocytopenic purpura\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=2}}\nTwo main mechanisms:\n\n- '''Vascular purpura = pathology of the vascular wall'' = most often infiltrated\n\no by inflammation of the wall (vasculitis)\n\no by fragility of the capillary vascular wall\n\n- '''Thrombocytopenic purpura''' = '''primary haemostasis disorder''' (especially thrombocytopenia ('''[[Platelet abnormality SD-215|platelet abnormality]]'''), possibly thrombopathy) = usually non-infiltrated and non-confluent\n<br />\n{| class=\"wikitable\"\n|\n|Vascular purpura of vasculitis\n|'''Vascular purpura due to capillary fragility*'''''\n|'''Thrombocytopenic purpura'''\n|-\n|Mechanism\n|Inflammation of the vascular wall\n|Fragility of the vascular wall\n|Thrombocytopenia (platelet abnormality) (more rarely thrombopathy)\n|-\n|Usual clinical appearance\n|infiltrated, sometimes necrotic\n|Non-infiltrated, non-necrotic\n|Non-infiltrated, non-necrotic\n|-\n|Distribution\n|Declive, predominantly in the lower limbs\n\nAggravated by orthostatism\n\nNo mucosal involvement\n|No elevation, areas of friction (perifollicular in scurvy)\n\nMucosal involvement possible (gingivorrhagia)\n|May affect all areas but predominates in declining areas\n\nMucosal damage possible\n|-\n|''Other bleeding sites'''\n|No\n|Yes (gingivorrhagia possible in scurvy)\n|Yes\n\n(haematomas, ecchymoses, epistaxis, gingivorrhages, intra-oral haemorrhagic bullae or visceral haemorrhages)\n|}\n<nowiki>*</nowiki> Vascular purpura due to non-vascular capillary fragility (hypercorticism, scurvy, Bateman purpura ...)",
+  "question": {
+    "question": "Which of the following is a key characteristic that differentiates vascular purpura from thrombocytopenic purpura?",
+    "option_a": "Vascular purpura is usually infiltrated and necrotic due to inflammation of the vascular wall.",
+    "option_b": "Thrombocytopenic purpura is often infiltrated and necrotic due to fragility of the vascular wall.",
+    "option_c": "Vascular purpura is non-infiltrated and non-necrotic, primarily due to thrombocytopenia.",
+    "option_d": "Thrombocytopenic purpura is non-infiltrated and non-necrotic, primarily due to inflammation of the vascular wall.",
+    "correct_option": "A"
+  }
+}

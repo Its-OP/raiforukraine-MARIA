@@ -1,0 +1,12 @@
+{
+  "folder": "IC-263",
+  "content": "{{knowledge objective\n|Identifiant=OIC-263-07-B\n|Item_parent=Vascular nephropathy\n|Item_parent_short=Vascular nephropathy\n|Rank=B\n|Title=Know the two main causes of renal artery stenosis\n|Description=Atheromatous and fibrodysplastic\n|Rubric=Positive diagnosis\n|Contributors=Jean-Jacques Boffa\n|Order=7}}\n\n'''Atheromatous renal artery stenosis:'''\n\n* Elderly subjects with several cardiovascular risk factors, including pre-existing hypertension. This develops into :\n** hypertension resistant to triple therapy including a diuretic;\n** causing flash PAO\n** deterioration in renal function on ACE inhibitors or ARBs2 ;\n** chronic renal failure in cases of bilateral stenosis (ischaemic nephropathy).\n\n\n'''Fibrodysplasia of the renal artery:'''\n\n* Newly discovered hypertension, sometimes severe and symptomatic;\n* sometimes associated with hypokalaemia and metabolic alkalosis (secondary hyperaldosteronism).",
+  "question": {
+    "question": "Which of the following is a characteristic of fibrodysplasia of the renal artery?",
+    "option_a": "Hypertension resistant to triple therapy including a diuretic",
+    "option_b": "Chronic renal failure in cases of bilateral stenosis",
+    "option_c": "Newly discovered hypertension, sometimes severe and symptomatic",
+    "option_d": "Deterioration in renal function on ACE inhibitors or ARBs",
+    "correct_option": "C"
+  }
+}

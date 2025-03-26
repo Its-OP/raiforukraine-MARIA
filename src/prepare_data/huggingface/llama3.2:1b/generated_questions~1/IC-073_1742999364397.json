@@ -1,0 +1,46 @@
+{
+  "folder": "IC-073",
+  "content": "{{knowledge objective\n|Identifiant=OIC-073-02-A\n|Item_parent=Different types of psychotherapeutic techniques\n|Item_parent_short=Different types of psychotherapeutic techniques\n|Rank=A\n|Intitle=Knowing what is psychotherapy; What is psychotherapy; What is not psychotherapy\n|Description=The main principles that distinguish psychotherapy from mere conversation or from the many approaches that have not been validated.\n|Rubric=Definition\n|Contributors=Amaury MENGIN\n|Order=2}}\n\n===== What falls within the scope of psychotherapy=====\n- The majority of psychiatric disorders & certain non-psychiatric disorders (e.g. chronic pain, functional neurological disorders, etc.)\n\n- Alone or in conjunction with pharmacotherapy and social therapy\n\nFavourable factors :\n\n- Patient commitment/request\n\n- Quality therapeutic alliance\n\n- Therapist empathy\n\n- Specific, validated psychotherapeutic tools\n\n- Setting: therapeutic objective, duration\n{| class=\"wikitable\"\n|What is psychotherapy\n|What is close to psychotherapy\n|What is not psychotherapy\n|-\n|Definition above\n|Empathic helping relationship:\n|Other types of support :\n|-\n| + Necessary conditions :\n- Recognised scientific theory\n\n- Clearly established indications\n\n- Codified technique\n\n- Trained and competent staff\n\n- Evaluable effects\n| Caregiver-patient relationship\n- Based on respect & empathy\n\n- Without specific training in psychotherapy\n| Coaching\n- Practice outside the regulated framework\n\n- Support from family and friends\n|}",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is psychotherapy?",
+        "description": "The main principles that distinguish psychotherapy from mere conversation or from the many approaches that have not been validated.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Psychotherapy is a type of therapy that focuses on the patient's mental health.",
+        "description": "The majority of psychiatric disorders & certain non-psychiatric disorders (e.g. chronic pain, functional neurological disorders, etc.).",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Psychotherapy is a type of therapy that focuses on the patient's physical health.",
+        "description": "Alone or in conjunction with pharmacotherapy and social therapy.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Psychotherapy is a type of therapy that focuses on the patient's emotional well-being.",
+        "description": "Favourable factors : Patient commitment/request, Quality therapeutic alliance, Therapist empathy, Specific, validated psychotherapeutic tools, Setting: therapeutic objective, duration.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Psychotherapy is a type of therapy that focuses on the patient's spiritual well-being.",
+        "description": "Caregiver-patient relationship: Based on respect & empathy, Without specific training in psychotherapy.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Psychotherapy is a type of therapy that focuses on the patient's mental health.",
+        "description": "The main principles that distinguish psychotherapy from mere conversation or from the many approaches that have not been validated.",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

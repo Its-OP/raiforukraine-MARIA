@@ -1,0 +1,46 @@
+{
+  "folder": "IC-332",
+  "content": "{{knowledge objective\n|Identifiant=OIC-332-10-B\n|Item_parent=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.\n|Item_parent_short=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.\n|Rank=B\n|Title=Know the principles of management of septic shock\n|Description=Cf item created\n|Rubric=Management\n|Contributors=Pierre Asfar\n|Order=10}}\n\n<gallery widths=\"300\" heights=\"300\">\nFile:Septic shock algorithm.pdf\n</gallery>",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary goal of fluid resuscitation in septic shock?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Stabilize the patient's vital signs",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Reduce the metabolic rate of the patient",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Increase the patient's blood pressure",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Eliminate the source of infection",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Stabilize the patient's vital signs",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-082",
+  "content": "{{knowledge objective\n|Identifiant=OIC-082-01-A\n|Item_parent=Acute visual impairment\n|Item_parent_short=Acute visual impairment\n|Rank=A\n|Title=Knowing how to determine whether a visual disorder is monocular or binocular\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=1}}\n'''Anamnesis:''' assess the subjective sensation of mono- or binocularity of the disorder, and its laterality if monocular\n\n'''On examination:''' when assessing visual acuity without and then with optical correction, a well-performed occultation of one eye and then the other enables the mono- or binocular nature of the visual disorder to be determined.\n\nA visual problem is binocular if it disappears when either eye is occluded, and is only perceived when both eyes are open.\n\nA visual disturbance is monocular when it persists after occlusion of the healthy eye.",
+  "question": {
+    "question": "How can a healthcare professional determine whether a visual disorder is monocular or binocular?",
+    "option_a": "By assessing the patient's subjective sensation of the disorder and its laterality if monocular, and then using optical correction to confirm the diagnosis.",
+    "option_b": "By occluding one eye and then the other to see if the visual problem disappears, indicating a binocular disorder.",
+    "option_c": "By measuring visual acuity with both eyes open and then with one eye closed to determine the nature of the visual disturbance.",
+    "option_d": "By performing a series of eye movement tests to see if the visual problem is present in both eyes or just one.",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-245",
+  "content": "{{knowledge objective\n|Identifiant=OIC-245-14-B\n|Item_parent=Adrenal insufficiency in adults and children\n|Item_parent_short=Adrenal insufficiency in adults and children\n|Rank=B\n|Title=Knowing that monitoring the treatment of adrenal insufficiency is essentially clinical\n|Description=None\n|Section=Management\n|Contributors=Claire Briet,St\u00e9phanie Espiard\n|Order=14}}\nMonitoring is mainly clinical (+++): fatigue, weight, blood pressure (lying and standing).\n\n'''Signs of underdosing:'''\n\n* fatigue (but non-specific),\n* orthostatic hypotension,\n* fatigue\n* nausea, etc\n\nSigns of hydrocortisone and/or fludrocortisone overdose\n\n* Swelling and redness of the face,\n* oedema of the lower limbs\n* weight gain\n* HIGH BLOOD PRESSURE\n\nThere is no need to measure cortisol or ACTH to adjust the dose of hydrocortisone +++.\n\nIf necessary, the dose of fludrocortisone can be adjusted with the aid of a renin assay (high renin = underdose, low renin = overdose) and a blood ionogram.\n\n\nIn the long term, consider a bone, metabolic and cardiovascular assessment in the event of hydrocortisone overdose.\n\n\n[Chronic disease follow-up consultation SD-279\n\n[Explaining a treatment to a patient (adult/child/adolescent) SD-352]]",
+  "question": {
+    "question": "Which of the following is the primary method for monitoring the treatment of adrenal insufficiency in adults and children?",
+    "option_a": "Regular measurement of cortisol levels",
+    "option_b": "Frequent blood tests to check ACTH levels",
+    "option_c": "Clinical assessment of symptoms such as fatigue, weight, and blood pressure",
+    "option_d": "Adjusting the dose based on renin assay results alone",
+    "correct_option": "C"
+  }
+}

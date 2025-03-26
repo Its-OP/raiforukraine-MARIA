@@ -1,0 +1,12 @@
+{
+  "folder": "IC-336",
+  "content": "{{knowledge objective\n|Identifiant=OIC-336-11-B\n|Item_parent=Non-traumaticoma in adults and children\n|Item_parent_short=Non-traumatic coma in adults and children\n|Rank=B\n|Title=Modensitometry of intracranial haemorrhage\n|Description=To recognise spontaneous intraparenchymal and subarachnoid hyperdensity (to be homogenised with item 341).\n|Rubric=Multimedia content\n|Contributors=Nicolas Weiss\n|Order=11}}\n'''Haemorrhagic stroke, intracerebral haematoma :'''<gallery widths=\"300\" heights=\"300\">\nFile:Haemorrhagic stroke 1.png\nFile:Haemorrhagic stroke 2.png\n</gallery>- '''Spontaneous hyperdensity within the cerebral parenchyma'''\n\n- Ventricular flooding possible\n\n- Possible mass effect\n\n\n'''H\u00e9morragie m\u00e9ning\u00e9e'''<gallery widths=\"300\" perrow=\"300\">\nFile:Meningeal haemorrhage.jpg\n</gallery>- '''Spontaneous hyperdensity in the subarachnoid spaces'' (cisterns of the base, sulci, ...)\n\n- Aneurysms are rarely visible without the injection of iodinated contrast (if calcified or large).",
+  "question": {
+    "question": "Which of the following is a characteristic of a spontaneous hyperdensity in the subarachnoid spaces?",
+    "option_a": "Visible aneurysms without the injection of iodinated contrast",
+    "option_b": "Always accompanied by ventricular flooding",
+    "option_c": "Spontaneous hyperdensity in the subarachnoid spaces (cisterns of the base, sulci, ...)",
+    "option_d": "Typically seen in the cerebral parenchyma",
+    "correct_option": "C"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "folder": "IC-267",
+  "content": "{{knowledge objective\n|Identifiant=OIC-267-08-B\n|Item_parent=Disorders of acid-base equilibrium and hydro-electrolytic disorders\n|Item_parent_short=Disorders of acid-base balance and fluid and electrolyte disorders\n|Rank=B\n|Title=Know how to correct chronic metabolic acidosis\n|Description=Know how to prescribe alkalinisation in the context of chronic kidney disease.\n|Rubric=Management\n|Contributors=P Rieu; B Moulin; M Flamant\n|Order=8}}\n\n\n*Treatment is necessary to prevent muscle wasting, bone demineralisation and, in children, stunted growth.\n*Maintain plasma bicarbonate levels > 22 mmol/L by taking sodium bicarbonate orally (1 to 6 capsules a day, for example in cases of chronic renal failure).",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary goal of treatment in chronic metabolic acidosis?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Maintain plasma bicarbonate levels < 22 mmol/L",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Prescribe alkalinisation to increase plasma bicarbonate levels",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Maintain plasma pH < 7.25",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Prescribe potassium supplements to increase plasma bicarbonate levels",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Maintain plasma bicarbonate levels > 22 mmol/L",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ],
+    "required_items": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ],
+    "correct": true
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-024",
+  "content": "{{knowledge objective\n|Identifiant=OIC-024-14-B\n|Item_parent=Main complications of pregnancy.\n|Item_parent_short=Main complications of pregnancy.\n|Rank=B\n|Title=Savoir surveiller une HTAg\n|Description=None\n|Topic=Monitoring and/or prognosis\n|Contributors=Paul Berveiller,Philippe Deruelle\n|Order=14}}\n\n- enhanced monitoring: self-monitoring of blood pressure, consultation every 10 days or so, regular biological check-up, monthly ultrasound scan\n\n- a \"Pregnancy and hypertension\" follow-up booklet to optimise the care pathway between the various healthcare professionals involved in follow-up\n\n- at 9 months, the possibility of artificially inducing labour depending on obstetric conditions.",
+  "question": {
+    "question": "Which of the following is a recommended practice for monitoring a pregnant woman with gestational hypertension (HTAg)?",
+    "option_a": "Daily self-monitoring of blood pressure and consultation every 5 days",
+    "option_b": "Monthly self-monitoring of blood pressure and consultation every 30 days",
+    "option_c": "Self-monitoring of blood pressure, consultation every 10 days, regular biological check-up, and monthly ultrasound scan",
+    "option_d": "Weekly self-monitoring of blood pressure and consultation every 7 days",
+    "correct_option": "C"
+  }
+}

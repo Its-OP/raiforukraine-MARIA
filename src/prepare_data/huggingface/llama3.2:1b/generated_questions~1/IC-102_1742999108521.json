@@ -1,0 +1,19 @@
+{
+  "folder": "IC-102",
+  "content": "{{knowledge objective\n|Identifiant=OIC-102-11-A\n|Item_parent=Diplopia\n|Item_parent_short=Diplopia\n|Rank=A\n|Title=Knowing that acute III paralysis is a vital emergency\n|Description=AVC\n|Rubric=Identification of the emergency\n|Contributors=\n|Order=11}}\nIn the case of recent diplopia, a neurological examination and cerebral imaging should be performed as a priority.\n\nIll's paralysis associated with pupillary signs and pain requires an urgent search for an intracranial aneurysm.\n\nIntracranial aneurysms, in particular [[Arachnoid and subarachnoid spaces|posterior communicating aneurysms and supraclinoid carotid aneurysms]], are responsible for III paralysis often associated with headaches.\n\nIn particular, an intracranial aneurysm should be suspected:\n\n- in the event of partial oculomotor damage but with pupillary signs of intrinsic III damage;\n\n- in young people;\n\n- in the absence of vascular risk factors ;\n\n- in the presence of headaches.\n\nIn these cases, urgent neuroradiological exploration using angioscan or MRI is essential; if the results are negative or doubtful, a cerebral arteriography should be considered if there is a strong clinical suspicion.",
+  "question": {
+    "properties": {
+      "question": "What is the primary indication for urgent neuroradiological exploration in cases of acute III paralysis?",
+      "option_a": "Intracranial aneurysms with symptoms of III paralysis and pupillary signs of intrinsic III damage.",
+      "option_b": "Intracranial aneurysms without symptoms of III paralysis and pupillary signs of intrinsic III damage.",
+      "option_c": "Intracranial aneurysms with symptoms of III paralysis and headaches.",
+      "option_d": "Intracranial aneurysms without symptoms of III paralysis and headaches.",
+      "correct_option": "option_a"
+    },
+    "required": [
+      "question",
+      "correct_option"
+    ],
+    "type": "string"
+  }
+}

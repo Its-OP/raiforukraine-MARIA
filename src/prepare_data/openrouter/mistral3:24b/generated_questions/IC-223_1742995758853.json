@@ -1,0 +1,12 @@
+{
+  "folder": "IC-223",
+  "content": "{{knowledge objective\n|Identifiant=OIC-223-03-B\n|Item_parent=Dyslipidemia\n|Item_parent_short=Dyslipidemia\n|Rank=B\n|Title=Knowing the relationship between dyslipidemia and atherosclerosis\n|Description=None\n|Rubric=Physiopathology\n|Contributors=Laurence Duvillard, Bruno Verg\u00e8s, Benjamin Bouillet, Laurence Amar, Christian Boissier, Tristan Mirault, Claire Le Hello\n|Order=3}}\n\n\n* Cholesterol, and more specifically LDL-cholesterol, is directly involved in the development of atherosclerotic plaque formed from macrophages that are progressively enriched in LDL-cholesterol, with oxidation and inflammation making a significant contribution.\n\n* The link between LDL-cholesterol and cardiovascular risk is very strong. It has been clearly demonstrated that lowering LDL-cholesterol levels leads to a significant reduction in the risk of cardiovascular accidents.\n\n* The link between hypertriglyceridemia and atherosclerosis appears likely, particularly if associated with low HDL-cholesterol (in the context of metabolic syndrome). However, the level of evidence is not as high as for LDL-cholesterol.",
+  "question": {
+    "question": "Which type of cholesterol is most strongly linked to the development of atherosclerotic plaque and cardiovascular risk?",
+    "option_a": "HDL-cholesterol",
+    "option_b": "Total cholesterol",
+    "option_c": "LDL-cholesterol",
+    "option_d": "Triglycerides",
+    "correct_option": "C"
+  }
+}

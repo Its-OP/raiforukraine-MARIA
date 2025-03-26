@@ -1,0 +1,12 @@
+{
+  "folder": "IC-032",
+  "content": "{{knowledge objective\n|Identifiant=OIC-032-08-B\n|Item_parent=Assessment and care of the newborn at term\n|Item_parent_short=Assessment and care of the newborn at term\n|Rank=B\n|Title=Knowing how to recognise a cleft palate and how often it occurs\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Guillaume Mortamet\n|Order=8}}\n\nCleft lip and palate is an embryopathy that affects approximately 1/2000 births. It may be isolated (70%) or syndromic (30%).\n\nDiagnosis can be made on antenatal ultrasound scans or after birth on clinical examination by inspection of the lips and palate and palpation of the palate to check its integrity.\n\nThere are several types of cleft:\n\n* Primary cleft palate (lateralized): more or less complete damage to the opening of the nostril, upper lip and alveolar arch as far as the nasopalatine canal. Unilateral (most frequent) or bilateral.\n* Secondary cleft palate (medial): involvement of the nasopalatine canal as far as the uvula, resulting in communication between the oral cavity and the nasal cavities. Partial forms: cleft palate (bifid uvula).\n* Total cleft: combines the 2 previous forms.\n\nThe morphological (facial deformities) and functional (problems with breathing, phonation, swallowing, hearing and dentition) consequences vary according to the clinical form. Treatment is multidisciplinary.",
+  "question": {
+    "question": "What is the most common type of cleft palate in newborns?",
+    "option_a": "A total cleft that affects both the primary and secondary palate",
+    "option_b": "A secondary cleft palate that involves the nasopalatine canal and uvula",
+    "option_c": "A primary cleft palate that is bilateral and affects the nostril, upper lip, and alveolar arch",
+    "option_d": "A partial cleft palate that only affects the uvula",
+    "correct_option": "C"
+  }
+}

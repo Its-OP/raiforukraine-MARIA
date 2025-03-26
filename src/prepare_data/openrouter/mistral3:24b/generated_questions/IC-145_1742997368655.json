@@ -1,0 +1,12 @@
+{
+  "folder": "IC-145",
+  "content": "{{knowledge objective\n|Identifiant=OIC-145-11-B\n|Item_parent=Surveillance of communicable infectious diseases\n|Item_parent_short=Surveillance of communicable infectious diseases\n|Rank=B\n|Intitle=Know the definition of national centres of reference\n|Description=None\n|Rubric=Definition\n|Contributors=Didier HOCQUET,Elodie COUVE,Anne-Marie ROGUES,Alexandre DUVIGNAUD\n|Order=11}}\n\nThe [[Knowing the main structures and organisations responsible for monitoring communicable infectious diseases in France 2C-145-DE-B02|National Centres of Reference (NCR)]] for the control of communicable diseases are laboratories and clinical departments located in public or private health, teaching or research establishments. They are appointed for 5 years by the Minister of Health on the recommendation of Sant\u00e9 publique France.\n\nThe CNRs are responsible for :\n\n*Expertise'' in the microbiology and pathology of infectious agents; the development, optimisation, validation and distribution of medical biology tests; the identification of pathogenic agents (first-line tests or confirmation of identification at the request of another laboratory);\n*Scientific or technical advice in response to any request from the Minister for Health, Sant\u00e9 publique France or health professionals;\n*Contribution to epidemiological surveillance:\n**By leading a ''network'' of laboratories which may be asked to carry out tests and then forward the results to the relevant CNR;\n**By carrying out the analyses required to monitor pathogens;\n*Immediately alerting Sant\u00e9 Publique France, the Ministry of Health and, where appropriate, the Agence R\u00e9gionale de Sant\u00e9 of any findings likely to present a risk or threat to the health of the population.",
+  "question": {
+    "question": "What is the primary role of the National Centres of Reference (NCR) in France regarding communicable infectious diseases?",
+    "option_a": "To provide primary healthcare services to patients with infectious diseases.",
+    "option_b": "To develop and distribute medical biology tests and identify pathogenic agents.",
+    "option_c": "To conduct clinical trials for new pharmaceutical drugs.",
+    "option_d": "To manage the financial aspects of public health initiatives.",
+    "correct_option": "B"
+  }
+}

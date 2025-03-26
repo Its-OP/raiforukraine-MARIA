@@ -1,0 +1,12 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-07-B\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=B\n|Title=Knowing the epidemiological trends in smoking over time\n|Description=Knowledge\n|Rubric=Epidemiology\n|Contributors=\n|Order=7}}\n\n\n*'''Smoking trends:''''\n**After several years of stability, the proportion of smokers fell by 12% between 2016 and 2018 (i.e. 1.6 million fewer smokers).\n**the factors behind the reduction: sharp rise in prices/neutral pack/\"Month Without Smoking\" operation.\n*'''Slight decrease in overall smoking (2017: 31.8% / 2018: 32%)''''\n**Decrease in daily smoking (2017: 26.9% / 2018: 25.4%)\n**increase in occasional smoking (2017: 4.9% / 2018: 6.6%)\n*'''By age group''''\n**decrease among men in all age groups\n**decrease among women aged under 55 / increase among women aged 55-75",
+  "question": {
+    "question": "Between 2017 and 2018, what was the trend in smoking behavior among women?",
+    "option_a": "There was a decrease in smoking among women in all age groups.",
+    "option_b": "There was an increase in smoking among women aged 55-75 and a decrease among those under 55.",
+    "option_c": "There was a consistent decrease in smoking across all age groups for women.",
+    "option_d": "There was an overall increase in smoking among women due to a rise in occasional smoking.",
+    "correct_option": "B"
+  }
+}

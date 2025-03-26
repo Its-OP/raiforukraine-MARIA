@@ -1,0 +1,12 @@
+{
+  "folder": "IC-347",
+  "content": "{{knowledge objective\n|Identifiant=OIC-347-04-A\n|Item_parent=Acute urine retention\n|Item_parent_short=Acute urine retention\n|Rank=A\n|Title=Knowing the clinical features of acute urinary retention\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Jonathan Olivier\n|Order=4}}\n\n\n*Typically, the patient presents to emergency with [[2C-269|suprapubic pain 269]] and an inability to urinate despite bladder repletion, sometimes with agitation.\n\n*<Interview: urological history, associated symptoms (fever, haematuria, transit disorders), symptoms preceding retention (dysuria, sensation of poor bladder emptying), usual treatments.\n\n*<Clinical examination: presence of a bladder globe characterised by a hypogastric curve and suprapubic dullness. A rectal examination in men is necessary to make an aetiological diagnosis (faecal impaction, BPH, prostatitis, prostate cancer) and pelvic examinations in women (prolapse, pelvic tumour, faecal impaction).\n\n*False [[2C-125|urinary incontinence 125]] must be ruled out; in this case, it is overflow incontinence.",
+  "question": {
+    "question": "A patient presenting with suprapubic pain and an inability to urinate despite a full bladder is likely experiencing which condition?",
+    "option_a": "Urinary incontinence",
+    "option_b": "Overflow incontinence",
+    "option_c": "Acute urinary retention",
+    "option_d": "Bladder infection",
+    "correct_option": "C"
+  }
+}

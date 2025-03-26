@@ -1,0 +1,12 @@
+{
+  "folder": "IC-074",
+  "content": "{{knowledge objective\n|Identifiant=OIC-074-01-A\n|Item_parent=Prescription and monitoring of psychotropic drugs (see item 330)\n|Item_parent_short=Prescription and monitoring of psychotropic drugs (see item 330)\n|Rank=A\n|Title=Know the definition and main classes of psychotropic drugs\n|Description=Antipsychotics; Antidepressants; Anxiolytics; Hypnotics; Thymoregulators; Psychostimulants\n|Rubric=Definition\n|Contributors=Louise Carton,Florian Naudet,Marie Tournier\n|Order=1}}\n\n'''Psychotropic drugs''': all chemical substances of natural or artificial origin which have a '''psychological''' effect, i.e. are capable of modifying mental activity.\n\n'''Main classes''' :\n\n* antipsychotics\n* antidepressants\n* anxiolytics\n* hypnotics\n* thymoregulators\n* psychostimulants.",
+  "question": {
+    "question": "Which of the following is NOT a main class of psychotropic drugs?",
+    "option_a": "Antipsychotics",
+    "option_b": "Antihistamines",
+    "option_c": "Anxiolytics",
+    "option_d": "Thymoregulators",
+    "correct_option": "B"
+  }
+}

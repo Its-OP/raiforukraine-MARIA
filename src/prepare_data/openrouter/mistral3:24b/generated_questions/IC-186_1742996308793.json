@@ -1,0 +1,12 @@
+{
+  "folder": "IC-186",
+  "content": "{{knowledge objective\n|Identifiant=OIC-186-16-A\n|Item_parent=Hypersensitivities and allergies in children and adults: physiopathological, epidemiological and diagnostic aspects and principles of treatment\n|Item_parent_short=Hypersensitivity and allergy in children and adults: pathophysiological, epidemiological and diagnostic aspects and principles of treatment\n|Rank=A\n|Title=Knowing the principles of treating allergic conjunctivitis\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=16}}\nIn addition to the ''eviction of the allergen'' and systemic treatment with 2nd generation anti-H1 medication, the treatment of allergic conjunctivitis includes a ''local treatment'':\n\n- frequent eye washing and application of cold wet compresses.\n\n- H1 antihistamines in eye drops.\n\n- mast cell degranulation inhibitors in eye drops (sodium cromoglicate).",
+  "question": {
+    "question": "Which of the following is a recommended local treatment for allergic conjunctivitis?",
+    "option_a": "Frequent eye washing and application of cold wet compresses.",
+    "option_b": "Systemic administration of 2nd generation anti-H1 medication.",
+    "option_c": "H1 antihistamines in oral tablets.",
+    "option_d": "Mast cell degranulation inhibitors in eye drops (sodium cromoglicate).",
+    "correct_option": "D"
+  }
+}

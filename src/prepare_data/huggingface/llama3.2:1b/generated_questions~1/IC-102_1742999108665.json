@@ -1,0 +1,17 @@
+{
+  "folder": "IC-102",
+  "content": "{{knowledge objective\n|Identifiant=OIC-102-08-A\n|Item_parent=Diplopia\n|Item_parent_short=Diplopia\n|Rank=A\n|Title=Photograph/video of extrinsic/intrinsic III paralysis\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=8}}\n\n[[File:III-bis.jpg|thumbnail]]\n[[File:III.jpg|left|thumbnail]]",
+  "question": {
+    "properties": {
+      "correct_option": {
+        "title": "Correct Option",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "correct_option"
+    ]
+  }
+}

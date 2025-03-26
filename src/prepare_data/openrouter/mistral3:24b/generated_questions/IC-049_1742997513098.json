@@ -1,0 +1,12 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-17-A\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=A\n|Title=Knowing the interrogation and clinical examination data in favour of delayed puberty\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=17}}\n'''Questioning data:''' pubertal ages of parents and siblings, age at menarche of mother, parental heights with calculation of genetic target height, family history of infertility, smell disorder (anosmia), personal history of chronic illness, cryptorchidism or micropenis (reflection of congenital expression), visual signs or signs of HTIC, statural slowing/cracking (curve), anosmia, digestive signs.\n\n'''Clinical examination''': pubertal stage (Tanner, note penis size, cryptorchidism), dysmorphia, skin spots, growth rate and BMI (curve), complete examination\n\n<br />",
+  "question": {
+    "question": "Which of the following is a key indicator of delayed puberty that should be assessed during the clinical examination?",
+    "option_a": "Assessing the patient's dietary habits and food allergies",
+    "option_b": "Evaluating the patient's pubertal stage using the Tanner scale and noting penis size and cryptorchidism",
+    "option_c": "Checking for signs of recent infections and vaccinations",
+    "option_d": "Analyzing the patient's sleep patterns and quality of sleep",
+    "correct_option": "B"
+  }
+}

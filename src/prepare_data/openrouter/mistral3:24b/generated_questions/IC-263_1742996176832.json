@@ -1,0 +1,12 @@
+{
+  "folder": "IC-263",
+  "content": "{{knowledge objective\n|Identifiant=OIC-263-03-B\n|Item_parent=Vascular nephropathy\n|Item_parent_short=Vascular nephropathy\n|Rank=B\n|Title=Knowing the causes of thrombotic microangiopathy\n|Description=None\n|Rubric=Etiologies\n|Contributors=Jean-Jacques Boffa\n|Order=3}}\n\nCauses of MAT syndrome\n{| class=\"wikitable\"\n|Typical (post-diarrhoeal) enterobacteria producing \"Shiga-like toxins\" (SLT): E.Coli O157:H7, Salmonella, Shigella...\n|-\n|Atypical HUS: mutation of genes coding for complement proteins (complement C3, factor H, factor I, CD46), or anti-factor H antibodies, mutation of the thrombomodulin gene, etc.\n|-\n|Infections: septicaemia, HIV virus, H1N1 influenza\n|-\n|Medications: mitomycin C, gemcitabine, cyclosporine, tacrolimus, anti-VEGF\n|-\n|Malignant hypertension\n|-\n|Eclampsia\n|-\n|Dysimmune disease: scleroderma, systemic lupus erythematosus,\n\nanti-phospholipid syndrome\n|-\n|Cancer\n|-\n|Thrombotic thrombocytopenic purpura: anti-ADAMTS13 (von Willebrand factor protease) autoantibodies or ADAMTS13 genetic deficiency\n|}\n<br />",
+  "question": {
+    "question": "Which of the following is NOT a known cause of thrombotic microangiopathy (TMA) syndrome?",
+    "option_a": "Infection with E. coli O157:H7",
+    "option_b": "Mutation of the thrombomodulin gene",
+    "option_c": "Use of anti-hypertensive medications",
+    "option_d": "Anti-ADAMTS13 autoantibodies",
+    "correct_option": "C"
+  }
+}

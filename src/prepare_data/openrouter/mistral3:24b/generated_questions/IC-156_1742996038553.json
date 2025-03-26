@@ -1,0 +1,12 @@
+{
+  "folder": "IC-156",
+  "content": "{{knowledge objective\n|Identifiant=OIC-156-01-A\n|Item_parent=Infections in the bones and joints (IOA) of children and adults\n|Item_parent_short=Infections osteo articulaires (IOA) de l'enfant et de l'adulte\n|Rank=A\n|Title=Know the definition of the different clinical entities of osteoarticular infections (OAI)\n|Description=None\n|Rubric=Definition\n|Contributors=Dr Florent Valour\n|Order=1}}\n'''General definition of IOA:''' multiplication of an infectious agent, most often bacterial, within bone and/or joint tissue. They include a wide variety of clinical entities depending on the anatomical location, the mode of onset and the [[Prostheses and osteosyntheses|presence of material]].\n\nMost frequent ''Clinical entities'' (excluding AOIs on equipment):\n\n- septic arthritis: infection of the synovial tissues and then the periarticular structures\n\n- chronic osteitis: infection of bone tissue\n\n- spondylodiscitis: infection of an intervertebral disc (discitis) and adjacent vertebral bodies (spondylitis)\n\n- acute osteomyelitis: acute haematogenous form of osteitis, most common in children\n\n'''Progression time:''' time between inoculation and treatment\n\n- Acute HAI: evolution < 4 weeks\n\n- Chronic HAIs: evolution \u2265 4 weeks",
+  "question": {
+    "question": "Which of the following is the correct definition of acute osteomyelitis?",
+    "option_a": "An infection of the synovial tissues and then the periarticular structures",
+    "option_b": "An infection of bone tissue that has been present for more than 4 weeks",
+    "option_c": "An acute haematogenous form of osteitis, most common in children",
+    "option_d": "An infection of an intervertebral disc and adjacent vertebral bodies",
+    "correct_option": "C"
+  }
+}

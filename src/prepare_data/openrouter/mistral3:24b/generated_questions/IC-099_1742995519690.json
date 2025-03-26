@@ -1,0 +1,12 @@
+{
+  "folder": "IC-099",
+  "content": "{{knowledge objective\n|Identifiant=OIC-099-17-B\n|Item_parent=Migraine, trigeminal neuralgia and facial pain\n|Item_parent_short=Migraine, trigeminal neuralgia and facial pain\n|Rank=B\n|Title=From a video interview, evoke the diagnosis of migraine, facial vascular pain, trigeminal neuralgia.\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=17}}\nPlease refer to the CEN website: www.cen-neurologie.fr where videos are available.",
+  "question": {
+    "question": "Based on a video interview, which of the following conditions is characterized by severe, stabbing pain in the face, often triggered by touching specific areas?",
+    "option_a": "Migraine",
+    "option_b": "Facial vascular pain",
+    "option_c": "Trigeminal neuralgia",
+    "option_d": "Cluster headache",
+    "correct_option": "C"
+  }
+}

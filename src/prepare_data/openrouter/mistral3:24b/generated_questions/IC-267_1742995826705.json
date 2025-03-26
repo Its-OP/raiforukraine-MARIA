@@ -1,0 +1,12 @@
+{
+  "folder": "IC-267",
+  "content": "{{knowledge objective\n|Identifiant=OIC-267-16-B\n|Item_parent=Disorders of acid-base equilibrium and hydro-electrolytic disorders\n|Item_parent_short=Disorders of acid-base equilibrium and fluid-electrolyte disorders\n|Rank=B\n|Title=To know the other possibilities of emergency treatment of severe hyperkalaemia\n|Description=Know how to use B mimetics and the principles of using sodium bicarbonate.\n|Rubric=Management\n|Contributors=P Rieu; B Moulin; M Flamant\n|Order=16}}\n\n\n*Transfer of K to the intracellular compartment (2) :\n**\u03b2-adrenergic agents (salbutamol): 20/mg nebulised.\n**Moderate alkalinisation in metabolic acidosis at normal BP (Na bicarbonate, 14 g \u2030, 42 g \u2030 or 84 g \u2030). PAO is a contraindication to this treatment.\n*Elimination of potassium overload:\n**Extrarenal purification by haemodialysis is the treatment of choice in cases of severe renal failure.\n**loop diuretics (furosemide, bumetanide): if pulmonary oedema and associated organic renal failure.",
+  "question": {
+    "question": "Which of the following is a recommended treatment for moderate alkalinisation in metabolic acidosis at normal blood pressure in the context of severe hyperkalaemia?",
+    "option_a": "Administration of potassium chloride",
+    "option_b": "Use of loop diuretics such as furosemide",
+    "option_c": "Extrarenal purification by haemodialysis",
+    "option_d": "Administration of sodium bicarbonate at concentrations of 14 g/L, 42 g/L, or 84 g/L",
+    "correct_option": "D"
+  }
+}

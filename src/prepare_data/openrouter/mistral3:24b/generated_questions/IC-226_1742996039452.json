@@ -1,0 +1,12 @@
+{
+  "folder": "IC-226",
+  "content": "{{knowledge objective\n|Identifiant=OIC-226-15-B\n|Item_parent=Deep vein thrombosis and pulmonary embolism (see item 330)\n|Item_parent_short=Deep vein thrombosis and pulmonary embolism (see item 330)\n|Rank=B\n|Title=Savoir porter l'indication d'une recherche de cancer en cas de MTEV (TVP, EP)\n|Description=None\n|Rubric=Etiologies\n|Contributors=Gilles Pernod, Virginie Dufrost, Guillaume Mah\u00e9\n|Order=15}}\n\nQuestioning, a thorough clinical examination of the patient and the results of routine biological tests (haemogram, liver function tests, etc.) are the first essential step in this assessment.\n\nIn addition to this check-up, men should have a PSA test and women should have a gynaecological check-up.\n\nIn the absence of clinical evidence, no further investigations are recommended, except in cases of recurrent VTE.\n\nPatients must be up to date with the cancer screening procedures offered by the ODLC.",
+  "question": {
+    "question": "Which of the following is the most appropriate next step in the assessment of a patient with a first episode of venous thromboembolism (VTE) if there is no clinical evidence of cancer?",
+    "option_a": "Order a full-body PET scan immediately.",
+    "option_b": "Refer the patient for a PSA test if the patient is male and a gynaecological check-up if the patient is female.",
+    "option_c": "Conduct a thorough clinical examination and routine biological tests only.",
+    "option_d": "Recommend genetic testing for thrombophilia.",
+    "correct_option": "B"
+  }
+}

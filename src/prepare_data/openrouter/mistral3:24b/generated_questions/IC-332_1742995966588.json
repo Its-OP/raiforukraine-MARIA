@@ -1,0 +1,12 @@
+{
+  "folder": "IC-332",
+  "content": "{{knowledge objective\n|Identifiant=OIC-332-12-B\n|Item_parent=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.\n|Item_parent_short=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.\n|Rank=B\n|Title=Know the principles of management of obstructive shock\n|Description=see dedicated items (EP item 226, PNO item 360)\n|Heading=Management\n|Contributors=Julien Poissy\n|Order=12}}\n\nStep 1: Condition monitoring and venous lines (see elements for immediate management of a state of shock)\n\nThen :\n\n3 causes: pulmonary embolism, pneumothorax, pericardial tamponade.\n\n1- Pulmonary embolism (see item 226)\n\na/ Shock and non-transportable patients\n\no ETT\n\n- Acute right heart: anticoagulant treatment. Discuss thrombolysis.\n\n- No acute right heart: no thrombolysis and look for another diagnosis\n\nb/ Stabilised and transportable patient: angioscanner\n\nIn the event of thrombolysis, curative anticoagulation is also necessary.\n\n\n2- Pneumothorax :\n\nExsufflation if in shock. See item 360.\n\n\n3- Pericardial tamponade :\n\nIdentified by transthoracic echocardiography. Pericardial drainage (excluding aortic dissection).",
+  "question": {
+    "question": "Which of the following is the recommended initial management for a patient in obstructive shock due to a pulmonary embolism who is not transportable?",
+    "option_a": "Administer thrombolysis immediately regardless of the presence of acute right heart failure.",
+    "option_b": "Perform an angioscanner to confirm the diagnosis before any treatment.",
+    "option_c": "Administer anticoagulant treatment and consider thrombolysis if there is acute right heart failure.",
+    "option_d": "Perform a pericardial drainage to relieve the obstruction.",
+    "correct_option": "C"
+  }
+}

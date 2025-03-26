@@ -1,0 +1,12 @@
+{
+  "folder": "IC-136",
+  "content": "{{knowledge objective\n|Identifiant=OIC-136-12-B\n|Item_parent=Local, locoregional and general anaesthesia\n|Item_parent_short=Local, locoregional and general anaesthesia\n|Rank=B\n|Title=Early rehabilitation after surgery (RAC) and ambulatory surgery\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=12}}\nAmbulatory surgery is defined as all surgical or medical, diagnostic or therapeutic procedures carried out under the technical safety conditions of an operating theatre, under variable anaesthesia and with no increased risk for the patient, enabling patients to be discharged on the same day as their admission, without overnight accommodation. In order to ensure the safety of this care, the selection criteria used to validate outpatient care must be assessed prior to surgery (\"''[[Information and monitoring of a patient undergoing outpatient surgery SD-356|information and monitoring of a patient undergoing outpatient surgery]'').\n\nAmbulatory surgery is part of the more global concept of early rehabilitation after surgery (RAC), which is a comprehensive approach to patient care that ''promotes early recovery of the patient's abilities after surgery''. The key points of an EPR are :\n\n* informing patients and training them in the process\n* anticipate the organisation of care and the patient's discharge\n* reduce the consequences of surgical stress\n* controlling pain in all situations\n* encouraging and stimulating patient autonomy",
+  "question": {
+    "question": "What is the primary goal of early rehabilitation after surgery (RAC) in the context of ambulatory surgery?",
+    "option_a": "To ensure patients stay in the hospital for at least 24 hours post-surgery",
+    "option_b": "To promote early recovery of the patient's abilities after surgery",
+    "option_c": "To minimize the use of anaesthesia during surgical procedures",
+    "option_d": "To reduce the cost of surgical procedures by limiting medical supplies",
+    "correct_option": "B"
+  }
+}

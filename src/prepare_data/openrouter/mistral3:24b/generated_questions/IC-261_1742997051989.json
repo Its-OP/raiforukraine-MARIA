@@ -1,0 +1,12 @@
+{
+  "folder": "IC-261",
+  "content": "{{knowledge objective\n|Identifiant=OIC-261-13-B\n|Item_parent=Glomerular nephropathy\n|Item_parent_short=Glomerular nephropathy\n|Rank=B\n|Title=Know the main prognostic factors in IgA nephropathy\n|Description=Know that hypertension, the extent of proteinuria, creatinine levels at diagnosis and the severity of renal fibrosis have an impact on prognosis.\n|Rubric=Monitoring and/or prognosis\n|Contributors=Eric Daugas,Bruno Moulin\n|Order=13}}\n\nPrognosis of primary IgA nephropathy\n\n* Very variable. As a rule, the disease progresses very slowly''' '''''\n* 20-30% of patients develop end-stage renal disease within 20 years of diagnosis.\n* Poor prognostic factors are :\n** clinical ''':''''\n*** presence of renal failure at diagnosis,\n*** severity of hypertension,\n*** significance of proteinuria,\n*** male sex;\n** histological ''':''''\n*** severity of proliferation,\n*** glomerular sclerosis and interstitial fibrosis,",
+  "question": {
+    "question": "Which of the following is NOT considered a main prognostic factor in IgA nephropathy?",
+    "option_a": "Hypertension severity",
+    "option_b": "Creatinine levels at diagnosis",
+    "option_c": "Age at diagnosis",
+    "option_d": "Severity of renal fibrosis",
+    "correct_option": "C"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "folder": "IC-102",
+  "content": "{{knowledge objective\n|Identifiant=OIC-102-04-B\n|Item_parent=Diplopia\n|Item_parent_short=Diplopia\n|Rank=B\n|Title=Knowing the definition of ductions and vergences\n|Description=abduction, adduction, convergence, divergence\n|Topic=Positive diagnosis\n|Contributors=\n|Order=4}}\n'''Ductions''': monocular movements. Examination of the ductions enables ocular motility to be explored in the different gaze positions of each eye separately.\n\n           - '''Abduction''': movement of the eye outwards (away from the eye)\n\n           - '''Adduction''': inward movement of the eye\n\n'''Versions''': bilateral, combined eye movements of both eyes. Examination of the versions enables us to explore ocular motility in the different gaze positions, with the eyes moving in the same direction together.\n\n'''Vergences:''' term designating eye movements of the two eyes in opposite directions. This is essentially the '''convergence''' for near vision (inward movement of the two eyes). In contrast, ''divergence'' refers to the outward movement of the two eyes.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the term for eye movements that occur when the eyes move in opposite directions?",
+        "description": "This term designates eye movements of the two eyes in opposite directions. This is essentially the convergence for near vision (inward movement of the two eyes). In contrast, divergence refers to the outward movement of the two eyes.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Convergence",
+        "description": "The term for eye movements that occur when the eyes move in the same direction together.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Divergence",
+        "description": "The term for eye movements that occur when the eyes move in opposite directions.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Adduction",
+        "description": "The term for inward movement of the eye.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Abduction",
+        "description": "The term for outward movement of the eye.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Convergence",
+        "description": "The term for eye movements that occur when the eyes move in opposite directions.",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

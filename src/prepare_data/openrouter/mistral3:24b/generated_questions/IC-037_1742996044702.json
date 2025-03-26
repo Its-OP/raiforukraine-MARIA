@@ -1,0 +1,12 @@
+{
+  "folder": "IC-037",
+  "content": "{{knowledge objective\n|Identifiant=OIC-037-02-A\n|Item_parent=Voluntary termination of pregnancy\n|Item_parent_short=Voluntary termination of pregnancy\n|Rank=A\n|Title=Knowing the causes of unwanted pregnancies\n|Description=Absence of contraception, change of method, unsuitable method. Know that two thirds of women who have had a termination were using a contraceptive method. Unwanted pregnancy does not always lead to abortion\n|Rubric=Etiologies\n|Contributors=Arthur Foulon,Philippe Deruelle,Aubert Agostini\n|Order=2}}\n\nThere are a number of factors that can lead to an abortion:\n\n- lack of contraception\n\n- a lack of information on what to do if you forget to take a pill or if you have a condom 'accident'.\n\n- a recent change of method with a failure to comply with the changeover rules\n\n- an unsuitable / ineffective method\n\nIt should be borne in mind that 2/3 of women who undergo a termination have contraception. An unwanted pregnancy does not systematically lead to a termination.",
+  "question": {
+    "question": "Which of the following statements is true regarding the causes of unwanted pregnancies that may lead to abortion?",
+    "option_a": "Most women who have abortions were not using any form of contraception.",
+    "option_b": "Unwanted pregnancies always result in abortion.",
+    "option_c": "Two-thirds of women who have abortions were using a contraceptive method.",
+    "option_d": "The primary cause of unwanted pregnancies is a lack of information on contraceptive methods.",
+    "correct_option": "C"
+  }
+}

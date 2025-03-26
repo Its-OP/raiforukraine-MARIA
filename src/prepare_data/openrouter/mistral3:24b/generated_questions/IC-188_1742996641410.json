@@ -1,0 +1,12 @@
+{
+  "folder": "IC-188",
+  "content": "{{knowledge objective\n|Identifiant=OIC-188-05-A\n|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Rank=A\n|Title=Know how to make a positive diagnosis and differential diagnosis of asthma in children and adults.\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=5}}\nThe diagnosis of asthma is based on the existence of characteristic symptoms '''AND''' the demonstration of reversible airway obstruction (and therefore requires the [[Reasoned request/prescription and choice of a diagnostic test SD-178|performing EFR]]) :\n\n*Symptoms (respiratory discomfort, dyspnoea, wheezing, cough, chest tightness) usually occurring at the same time, of variable intensity over time (paroxysmal), triggered by infections, exercise or exposure to allergens and which may worsen at night (deep night).\n*EFR: obstructive ventilatory disorder (FEV1/FVC < 0.7) reversible with bronchodilators (gain of more than 200mL and >12% compared with the initial FEV1 value). A search for bronchial hyper-responsiveness may be discussed if spirometry is normal (with metacholine).",
+  "question": {
+    "question": "Which of the following is a key component in making a positive diagnosis of asthma in children and adults?",
+    "option_a": "The presence of chronic cough without any other symptoms",
+    "option_b": "The demonstration of irreversible airway obstruction",
+    "option_c": "The demonstration of reversible airway obstruction and characteristic symptoms",
+    "option_d": "The presence of symptoms only during the day without any nighttime worsening",
+    "correct_option": "C"
+  }
+}

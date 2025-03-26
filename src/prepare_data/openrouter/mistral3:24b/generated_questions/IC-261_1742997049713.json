@@ -1,0 +1,12 @@
+{
+  "folder": "IC-261",
+  "content": "{{knowledge objective\n|Identifiant=OIC-261-17-B\n|Item_parent=Glomerular nephropathy\n|Item_parent_short=Glomerular nephropathy\n|Rank=B\n|Title=Knowing the paraclinical elements leading to the suspicion of acute post-infectious glomerulonephritis (GNA)\n|Description=Know how to request a urine sediment, proteinuria and renal function. Investigate for bacterial infection; request a complement assay; discuss the value of renal biopsy in adults.\n|Rubric=Additional tests\n|Contributors=Eric Daugas,Bruno Moulin\n|Order=17}}\n\n*\n* Acute nephritic syndrome, sometimes very poorly tolerated,\n* Complement consumption with a drop in C3 and C4,\n* Renal biopsy is performed if there is any doubt about the diagnosis. It shows diffuse endocapillary proliferation with an influx of inflammatory cells. In severe forms, extracapillary proliferation is associated. Immunofluorescence shows deposits of C3 in the mesangium and in the wall of the glomerular capillaries (so-called starry sky deposits). Sometimes \"humps\" (large extramembranous deposits) are seen under the light microscope.",
+  "question": {
+    "question": "Which of the following is a key paraclinical element that leads to the suspicion of acute post-infectious glomerulonephritis (GNA)?",
+    "option_a": "Requesting a complete blood count (CBC) to check for anemia",
+    "option_b": "Investigating for bacterial infection and requesting a complement assay",
+    "option_c": "Performing a renal biopsy to confirm the diagnosis of chronic kidney disease",
+    "option_d": "Measuring serum electrolytes to assess renal function",
+    "correct_option": "B"
+  }
+}

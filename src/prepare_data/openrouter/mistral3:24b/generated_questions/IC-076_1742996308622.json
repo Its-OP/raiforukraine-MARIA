@@ -1,0 +1,12 @@
+{
+  "folder": "IC-076",
+  "content": "{{knowledge objective\n|Identifiant=OIC-076-16-A\n|Item_parent=Alcohol dependence\n|Item_parent_short=Alcohol dependence\n|Rank=A\n|Title=Knowing the principles of motivational interviewing\n|Description=Send item 1\n|Rubric=Management\n|Contributors=\n|Order=16}}\n[Motivational interviewing (see item 1) is an essential tool in addictology.",
+  "question": {
+    "question": "Which of the following is a core principle of motivational interviewing?",
+    "option_a": "Directly confronting the patient's denial about their addiction",
+    "option_b": "Providing detailed lectures on the dangers of addiction",
+    "option_c": "Encouraging the patient to explore and resolve ambivalence about change",
+    "option_d": "Imposing external motivation to encourage behavior change",
+    "correct_option": "C"
+  }
+}

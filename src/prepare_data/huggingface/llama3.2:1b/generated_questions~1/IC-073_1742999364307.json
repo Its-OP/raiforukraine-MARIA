@@ -1,0 +1,22 @@
+{
+  "folder": "IC-073",
+  "content": "{{knowledge objective\n|Identifiant=OIC-073-07-B\n|Item_parent=Different types of psychotherapeutic techniques\n|Item_parent_short=Different types of psychotherapeutic techniques\n|Rank=B\n|Title=Knowing cognitive-behavioural therapies\n|Description=Theoretical and practical principles\n|Rubric=Management\n|Contributors=Amaury MENGIN\n|Order=7}}\n\n==== Cognitive behavioural therapies ====\nTheoretical principles :\n\n- 3 \"waves\n\no Behavioural (1<sup>rst</sup> half 20th century) - classical and operant conditioning: inappropriate learned behaviour\n\no Cognitive (>1960): dysfunctional cognitive patterns give rise to behaviours\n\no \"Emotional\" (>2000): emotional regulation enables cognition to be understood and behaviour to be modified - based on acceptance and mindfulness.\n\n- Practical details\n\no Functional analysis (study of the problem)\n\no Therapeutic objective\n\no Assessment of effectiveness\n\no Therapeutic contract\n\no Behavioural method\n\n* Desensitisation: \"in sensu\" exposure (in the imagination)\n\n* Graduated ''in vivo'' exposure to the anxiogenic stimulus (in reality)\n\n* Immersion (''flooding''): direct, ungraded exposure\n\no Cognitive method\n\n* Study and modify erroneous thought patterns\n\n* Self-affirmation\n\n* Social skills\n\no Emotional method\n\n* Emotional regulation techniques (mindfulness, etc.)\n\n* Observation and acceptance of emotions\n\n* Commitment in line with its values\n\n- Numerous validated therapies: ACT (''Acceptance and Commitment Therapy''), DBT (''Dialectical and Behavioral Therapy)'', MBCT (''Mindfulness Based Cognitive Therapy'')",
+  "question": {
+    "properties": {
+      "question": "What is the primary theoretical principle of cognitive-behavioural therapies?",
+      "option_a": "3rd wave of psychotherapy",
+      "option_b": "3rd wave of psychotherapy",
+      "option_c": "3rd wave of psychotherapy",
+      "option_d": "3rd wave of psychotherapy",
+      "correct_option": "3rd wave of psychotherapy"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

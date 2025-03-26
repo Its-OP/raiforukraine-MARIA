@@ -1,0 +1,12 @@
+{
+  "folder": "IC-261",
+  "content": "{{knowledge objective\n|Identifiant=OIC-261-07-B\n|Item_parent=Glomerular nephropathy\n|Item_parent_short=Glomerular nephropathy\n|Rank=B\n|Title=Know the main histological features of the most common glomerular nephropathies\n|Description=Know the absence of abnormalities in MO for SNLGM, the presence of EM deposits for GEM, mesangial location of IgA (N IgA) and extracapillary proliferation (with or without deposits) for GNRP.\n|Rubric=Definition\n|Contributors=Eric Daugas,Bruno Moulin\n|Order=7}}\n\n3.        Main histological features of the most common glomerular nephropathies\n\nHistological diagnosis of glomerular nephropathy can be made by analysing the elementary lesions (table 5).\n\n\nTable 5: Main histological features of the most common glomerular nephropathies\n{| class=\"wikitable\"\n|Disease or syndrome\n|Proliferation\n|Deposits\n|-\n|Minimal glomerular lesions\n|No\n|No\n|-\n|Extra-membranous glomerulopathy\n|No\n|IgG and C3 on the lateral side of the MBG, granular appearance (extramembranous)\n|-\n|IgA nephropathy\n|Mesangial\n\n\u00b1 endocapillary\n\n\u00b1 extracapillary\n|IgA and C3 mesangial \u00b1 endocapillary\n|-\n|Systemic lupus\n|\u00b1 mesangial \u00b1 endocapillary\n\n\u00b1 endocapillary\n\n\u00b1 extracapillary\n|Deposits of IgG, IgA or even IgM, C3 and C1q +++.\n\nMesangial \u00b1 capillary \u00b1 extramembranous according to class of lupus nephropathy\n|-\n|Glomerulonephritis of ANCA-associated vasculitides\n|Extracapillary\n|No\n|-\n|Goodpasture's disease\n|Extracapillary\n|Linear IgG deposits along the MBG\n|-\n|Acute post-infectious glomerulonephritis\n|Endocapillary\n\n\u00b1 extracapillary\n|C3 in \"starry sky\", +/- Ig, humps\n|}\n<br />",
+  "question": {
+    "question": "Which of the following is a main histological feature of IgA nephropathy?",
+    "option_a": "Presence of IgG and C3 deposits on the lateral side of the basement membrane",
+    "option_b": "Absence of any deposits in the glomeruli",
+    "option_c": "Mesangial location of IgA deposits",
+    "option_d": "Linear IgG deposits along the basement membrane",
+    "correct_option": "C"
+  }
+}

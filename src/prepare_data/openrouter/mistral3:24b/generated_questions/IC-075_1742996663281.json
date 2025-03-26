@@ -1,0 +1,12 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-25-A\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=A\n|Title=Knowing primary and secondary prevention methods\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=25}}\n'''Primary prevention'''\n\nIn France, the Veil law of 1976, the Evin law of 1991 and the Bertrand decree of 2006 have curbed the expansion of smoking.\n\n* The main measures recommended are :\n* A ban on all direct and indirect advertising.\n* Repeated and dissuasive price increases for all tobacco products.\n* Protection against exposure to passive smoking (public places and workplaces).\n* Education and information: health warnings in the form of images on packets.\n\nThe 2014-2019 National Tobacco Reduction Programme (PNRT) included 3 major measures:\n\n# Introduction of plain packaging\n# Reimbursement of nicotine substitutes or varenicline by the French health insurance system\n# Introduction of a \"No Smoking Month\" every November.\n\nThe 2018-2022 National Programme for Tobacco Control includes regional variations:\n\n# Protecting our children and preventing them from taking up smoking\n# Encouraging and supporting smokers to quit\n# Act on the tobacco economy to protect public health\n# Monitor, evaluate, research and disseminate knowledge about tobacco\n\nIts ambition is that, by 2032, children born since 2014 will become the first generation of non-smoking adults (<5% smokers).\n\nSecondary prevention\n\nAll healthcare professionals should be involved in smoking prevention (from school age) and helping people to stop smoking.\n\nThe factors most predictive of smoking cessation are\n\n* Good socio-economic level,\n* Low tobacco consumption,\n* No one around them smokes,\n* Low alcohol consumption,\n* Late onset of intoxication,\n* Short duration of intoxication,\n* Long delay between awakening and first cigarette,\n* Strong motivation to quit\n\n.",
+  "question": {
+    "question": "Which of the following is a primary prevention measure introduced by the 2014-2019 National Tobacco Reduction Programme (PNRT) in France?",
+    "option_a": "Introduction of plain packaging",
+    "option_b": "Mandatory health check-ups for smokers",
+    "option_c": "Subsidizing tobacco products for low-income individuals",
+    "option_d": "Implementing stricter penalties for smoking in public places",
+    "correct_option": "A"
+  }
+}

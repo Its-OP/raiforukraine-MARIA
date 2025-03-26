@@ -1,0 +1,12 @@
+{
+  "folder": "IC-325",
+  "content": "{{knowledge objective\n|Identifiant=OIC-325-09-B\n|Item_parent=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medicinal errors (see items 4 and 5)\n|Item_parent_short=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medication errors (see items 4 and 5)\n|Rank=B\n|Title=Knowing the principle of imputability\n|Description=Identify the limitations of quantifying drug-related harm.\n|Rubric=Definition\n|Contributors=Marie Briet\n|Order=9}}\n\n\n== Principle of imputability\nImputability is the estimation of the causal link between the drug and the observed effect.\n\nImputability is assessed by the regional pharmacovigilance centre during the pharmaco-medical evaluation of the report of an adverse drug reaction.\n\nThe French imputability method is based on chronological criteria (time of onset, evolution after discontinuation of the drug, re-administration), semiological criteria (existence of favourable factors, absence of differential diagnosis, pharmacological properties of the drug, etc.) and bibliographical criteria.",
+  "question": {
+    "question": "Which of the following best describes the principle of imputability in pharmacovigilance?",
+    "option_a": "The process of determining the financial cost associated with a drug's development.",
+    "option_b": "The estimation of the causal link between a drug and the observed effect.",
+    "option_c": "The evaluation of the drug's market potential based on consumer demand.",
+    "option_d": "The assessment of the drug's long-term storage stability.",
+    "correct_option": "B"
+  }
+}

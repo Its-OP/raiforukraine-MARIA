@@ -1,0 +1,12 @@
+{
+  "folder": "IC-024",
+  "content": "{{knowledge objective\n|Identifiant=OIC-024-21-B\n|Item_parent=Main complications of pregnancy.\n|Item_parent_short=Main complications of pregnancy.\n|Rank=B\n|Title=Knowing the principles of managing a threatened premature birth.\n|Description=Treatment guidelines\n|Topic=Management\n|Contributors=Paul Berveiller,Philippe Deruelle\n|Order=21}}\n\nEtiological treatment\n\n- antibiotic therapy only if infection diagnosed\n\n- In the event of rupture of the membranes: systematic short course of antibiotic prophylaxis\n\n'''Symptomatic treatment'''\n\n- Tocolysis for 48 hours with calcium channel blockers (nifedipine) or oxytocin antagonists (atosiban)\n\nBeware of the ICs of tocolysis: maternal-foetal infection (chorioamniotitis), heavy metrorrhagia; abnormalities in the fetal heart rate.\n\nSymptomatic measures\" may also include :\n\n- antipyretics, antispasmodics, rest without strict bed rest++.\n\n- paediatric interview +/- psychological support\n\nDon't forget +++ :\n\n- hospitalisation and/or transfer'' to a maternity hospital of a suitable type at term\n\n- antenatal corticosteroid therapy with betamethasone: a single course of treatment given before 34 days' gestation by 2 IM injections 24 hours apart of 12 mg of Celestene Chronodose<sup>\u00ae</sup>.\n\n- Magnesium sulphate, before 32 weeks' gestation and in the event of imminent delivery, spontaneous or planned: administration of a loading dose of 4 g, followed by a maintenance dose of 1 g/h until delivery.\n\n- clinical monitoring (no further cervical ultrasound required)\n\n- No prolonged hospitalisation but follow-up at home possible (private hospital or HAD)",
+  "question": {
+    "question": "Which of the following is a recommended treatment for managing a threatened premature birth?",
+    "option_a": "Administration of a prolonged course of antibiotics regardless of infection status",
+    "option_b": "Tocolysis for 48 hours with calcium channel blockers or oxytocin antagonists",
+    "option_c": "Strict bed rest and no hospitalisation",
+    "option_d": "Antenatal corticosteroid therapy with betamethasone after 34 weeks' gestation",
+    "correct_option": "B"
+  }
+}

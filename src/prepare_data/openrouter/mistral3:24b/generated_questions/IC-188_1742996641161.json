@@ -1,0 +1,12 @@
+{
+  "folder": "IC-188",
+  "content": "{{knowledge objective\n|Identifiant=OIC-188-07-B\n|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Rank=B\n|Title=Knowing the main occupations at risk of occupational asthma\n|Description=None\n|Rubric=Etiologies\n|Contributors=\n|Order=7}}\no Baker, pastry cook (allergen = wheat, flour mite)\n\no Healthcare professionals (latex, aldehydes, ammoniums)\n\no Hairdressers (persulfates)\n\no Painters (isocyanates)\n\no Maintenance agents (ammoniums, etc.)\n\no Woodworkers",
+  "question": {
+    "question": "Which of the following occupations is NOT typically associated with an increased risk of occupational asthma?",
+    "option_a": "Baker, pastry cook",
+    "option_b": "Healthcare professionals",
+    "option_c": "Maintenance agents",
+    "option_d": "Woodworkers",
+    "correct_option": "D"
+  }
+}

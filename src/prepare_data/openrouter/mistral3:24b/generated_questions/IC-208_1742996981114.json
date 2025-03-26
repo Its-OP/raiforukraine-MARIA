@@ -1,0 +1,12 @@
+{
+  "folder": "IC-208",
+  "content": "{{knowledge objective\n|Identifiant=OIC-208-06-B\n|Item_parent=Chronic respiratory failure\n|Item_parent_short=Chronic respiratory failure\n|Rank=B\n|Title=To know the methods of interpretation of functional explorations allowing to orientate towards an obstructive CKD and towards a restrictive CKD.\n|Description=FRI, interpretation\n|Section=Additional tests\n|Contributors=\n|Order=6}}\nsee above",
+  "question": {
+    "question": "Which of the following methods is used to interpret functional explorations to differentiate between obstructive and restrictive chronic kidney disease (CKD)?",
+    "option_a": "Using serum creatinine levels to assess kidney function",
+    "option_b": "Measuring glomerular filtration rate (GFR) to determine the stage of CKD",
+    "option_c": "Analyzing spirometry results to distinguish between obstructive and restrictive patterns",
+    "option_d": "Evaluating blood pressure and heart rate to monitor cardiovascular health",
+    "correct_option": "C"
+  }
+}

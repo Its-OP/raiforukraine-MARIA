@@ -1,0 +1,22 @@
+{
+  "folder": "IC-127",
+  "content": "{{knowledge objective\n|Identifiant=OIC-127-05-A\n|Item_parent=Benign prostatic hyperpertrophy\n|Item_parent_short=Benign prostatic hypertrophy\n|Rank=A\n|Title=Know the clinical investigations for diagnosing BPH\n|Description=Evaluate the symptoms of the lower urinary tract, sexuality, perform a digital rectal examination (DRE).\n|Rubric=Positive diagnosis\n|Contributors=Alexandre Ingels, Jonathan Olivier\n|Order=5}}\n\n\n==Questioning is the key to diagnosis ==\n\n*The clinical signs sought are [[Urinary incontinence and voiding disorders in adults and the elderly|lower urinary tract symptoms 125]]\n**<u>Storage symptoms</u>: daytime and nocturnal pollakiuria, urgency.\n**<Emptying symptoms: dysuria, micturition in several stages, sensation of incomplete bladder emptying, delayed drops.\n**These symptoms are grouped together in the IPSS/35 score (0-8: not very symptomatic - 8-19: moderately symptomatic - 20-35: severe symptoms).\n\n*The frequent association of sexual symptoms with BPH or its treatment requires an assessment of sexuality in patients consulting for LUTS.\n**Urination disorders and urinary incontinence in adults and the elderly|Erectile dysfunction 125]], [[Menopause, premature ovarian failure, andropause, age-related androgen deficiency|Libido disorder 124]].\n**IEEF score 5/15\n\n=='''Clinical examination:'''==\n\n*Abdominal palpation to look for [[Acute retention of urine|globe 347]]\n*Examination of the [[Genito-scrotal pathology in boys and men|external genital organs 50]] to look for urethral meatus stenosis, phimosis, etc.].\n*A digital rectal examination to look for cancer, pain (prostatitis) and to assess the volume of the prostate.",
+  "question": {
+    "properties": {
+      "question": "What is the primary purpose of questioning in the diagnosis of Benign Prostatic Hyperplasia (BPH)?",
+      "option_a": "To confirm the diagnosis through direct observation",
+      "option_b": "To gather information about the patient's symptoms and medical history",
+      "option_c": "To assess the patient's sexual function and libido",
+      "option_d": "To evaluate the patient's prostate size and volume",
+      "correct_option": "option_b"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-198",
+  "content": "{{knowledge objective\n|Identifiant=OIC-198-08-A\n|Item_parent=Microcrystalline arthropathies\n|Item_parent_short=Microcrystalline arthropathies\n|Rank=A\n|Item_parent_short=Microcrystalline arthropathies\n|Description=Stereotyped: foot and base of big toe, onset nocturnal, sudden, rapid pain >7/10, onset < 24 h, redness, impotence, and spontaneous resolution in 7-10 days.\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=8}}\nThe semiological characteristics of typical articular or periarticular microcrystalline attacks are as follows:\n\n- abrupt onset ;\n\n- intense pain and local inflammation (redness, localised oedema in particular);\n\n- EVA or EN pain \u2265 7/10 ;\n\n- maximum symptoms in less than 24 hours;\n\n- Local redness, sometimes very intense (typically peony red);\n\n- spontaneous resolution in a few days to a few weeks, with (initial) restoration of the joint \"ad integrum\" at the start of the disease.\n\n\nIt is rarely a large acute red leg. Some prodromal symptoms such as burning may be found.\n\n<br />",
+  "question": {
+    "question": "Which of the following is a characteristic of typical articular or periarticular microcrystalline attacks?",
+    "option_a": "Gradual onset with mild pain and swelling",
+    "option_b": "Pain and inflammation that peak over several days",
+    "option_c": "Intense pain and local inflammation with maximum symptoms in less than 24 hours",
+    "option_d": "Symptoms that persist for several months without resolution",
+    "correct_option": "C"
+  }
+}

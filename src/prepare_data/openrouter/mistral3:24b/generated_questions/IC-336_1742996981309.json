@@ -1,0 +1,12 @@
+{
+  "folder": "IC-336",
+  "content": "{{knowledge objective\n|Identifiant=OIC-336-12-B\n|Item_parent=Non-traumaticoma in adults and children\n|Item_parent_short=Non-traumatic coma in adults and children\n|Rank=B\n|Title=Mass Effect and Cerebral Involvement Computed Tomography\n|Description=None\n|Rubric=Multimedia content\n|Contributors=Nicolas Weiss\n|Order=12}}\n\n<gallery widths=\"300\" heights=\"300\">\nFile:Mass effect engagement.jpg\n</gallery>'''Engagement sous-falcoriel''' '''Engagement temporal'''\n\n- Deviation of the median line\n\n- Disappearance of the ventricles\n\n- Disappearance of the space between the temporal lobe and the brain stem",
+  "question": {
+    "question": "Which of the following is a characteristic sign of mass effect and cerebral involvement in a computed tomography (CT) scan?",
+    "option_a": "Appearance of the ventricles",
+    "option_b": "Deviation of the median line",
+    "option_c": "Increased space between the temporal lobe and the brain stem",
+    "option_d": "Appearance of the subarachnoid space",
+    "correct_option": "B"
+  }
+}

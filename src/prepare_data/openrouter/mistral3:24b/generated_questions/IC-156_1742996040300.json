@@ -1,0 +1,12 @@
+{
+  "folder": "IC-156",
+  "content": "{{knowledge objective\n|Identifiant=OIC-156-05-A\n|Item_parent=Infections in the bones and joints (IOA) of children and adults\n|Item_parent_short=Infections osteo articulaires (IOA) de l'enfant et de l'adulte\n|Rank=A\n|Title=Identify the clinical signs of OAIs (according to their most frequent location in children and adults).\n|Description=None\n|Topic=Positive diagnosis\n|Contributors=Dr Florent Valour\n|Order=5}}\n\n{| class=\"wikitable\"\n|\n|'''IOA acute''''\n|'''IOA chronic''''\n|-\n|'''General signs'''\n|Hyperthermia/fever SD-044|Fever/hyperthermia]] inconstant\n|Fever usually absent\n|-\n|'''Local signs'''\n|. Pain ([[Joint pain SD-067|joint]], [[Limb pain (upper or lower) SD-071|limb]], [[Spinal pain (cervical, dorsal or lumbar) SD-072|spine]])\n\n. Partial or total functional impotence, limping\n\n. Redness, heat, oedema, joint effusion\n\n. Post-operatively: [[Abnormal scar SD-083|abnormal scar]] (discharge, disunion, necrosis), [[Post-operative acute pain SD-034|post-operative acute pain]]\n| [[Chronic pain SD-035|Chronic pain]]\n\nPartial or total functional impotence, [[Lameness SD-068|lameness]]\n\nFistulisation\n|-\n|Biological inflammatory syndrome\n|[[c-reactive protein (cr) elevation SD-203|C-reactive protein elevation]] (CRP) most often\n|sometimes absent\n|}",
+  "question": {
+    "question": "Which of the following is a common local sign of acute osteoarticular infections (OAIs) in children and adults?",
+    "option_a": "Chronic pain",
+    "option_b": "Fistulisation",
+    "option_c": "Partial or total functional impotence, limping",
+    "option_d": "Abnormal scar post-operatively",
+    "correct_option": "C"
+  }
+}

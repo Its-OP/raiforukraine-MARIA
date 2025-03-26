@@ -1,0 +1,12 @@
+{
+  "folder": "IC-156",
+  "content": "{{knowledge objective\n|Identifiant=OIC-156-02-B\n|Item_parent=Infections in the bones and joints (IOA) of children and adults\n|Item_parent_short=Infections osteo articulaires (IOA) de l'enfant et de l'adulte\n|Rank=B\n|Title=Knowing the epidemiology of OAIs\n|Description=Prevalence, terrain, contributing factors, morbidity\n|Rubric=Epidemiology\n|Contributors=Dr Florent Valour\n|Order=2}}\n'''Prevalence :'''\n\n- overall (community-acquired HAIs and HAIs on equipment): 70 / 100,000 inhabitants / year in France\n\n- children (community-acquired HAI): 22/100,000 / year (80/100,000 in children under 1 year of age)\n\n'''Terrain and contributing factors:''''\n\n- age\n\n- male sex\n\n- diabetes\n\n- obesity\n\n- active smoking\n\n- underlying joint pathology: osteoarthritis, rheumatoid arthritis, etc. ...\n\nIn children, HAI usually occurs in the absence of risk factors.\n\nOverall mortality: 5%.\n\n'''Morbidity:''' 40% functional sequelae",
+  "question": {
+    "question": "What is the overall prevalence of osteoarticular infections (OAIs) in France per year?",
+    "option_a": "22 per 100,000 inhabitants",
+    "option_b": "70 per 100,000 inhabitants",
+    "option_c": "80 per 100,000 inhabitants",
+    "option_d": "5 per 100,000 inhabitants",
+    "correct_option": "B"
+  }
+}

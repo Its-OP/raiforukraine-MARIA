@@ -1,0 +1,46 @@
+{
+  "folder": "IC-100",
+  "content": "{{knowledge objective\n|Identifiant=OIC-100-09-A\n|Item_parent=Unusual acute and chronic headache in adults and children\n|Item_parent_short=Unusual acute and chronic headache in adults and children\n|Rank=A\n|Title=Knowing the principles of treatment and management of primary headaches outside the emergency context.\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=9}}\n- Primary headaches are managed in consultation ('''<u>item 99</u>''').\n\n- Seizure treatments are prescribed to relieve each seizure, and must be as specific as possible for each type of primary headache.\n\n- They are sometimes supplemented by background treatment to reduce the number of attacks.\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary goal of treatment for primary headaches?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Reduce the frequency of attacks",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Eliminate the headache completely",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Provide general pain relief",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Prescribe a specific medication for each type of primary headache",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Reduce the frequency of attacks",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

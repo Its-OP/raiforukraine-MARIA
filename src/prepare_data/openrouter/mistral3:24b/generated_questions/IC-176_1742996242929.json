@@ -1,0 +1,12 @@
+{
+  "folder": "IC-176",
+  "content": "{{knowledge objective\n|Identifiant=OIC-176-17-A\n|Item_parent=Infectious diarrhoea in adults and children\n|Item_parent_short=Infectious diarrhoea in adults and children\n|Rank=A\n|Title=Know how to prescribe oral and intravenous rehydration; Know the symptomatic treatments for acute diarrhoea.\n|Description=None\n|Topic=Identification of the emergency\n|Contributors=\n|Order=17}}\nSee [[Know the principles of prescribing oral and intravenous rehydration. Knowledge of symptomatic treatments for acute diarrhoea 2C-176-PC-A01]]",
+  "question": {
+    "question": "Which of the following is the primary goal of oral rehydration therapy (ORT) in the treatment of acute diarrhoea?",
+    "option_a": "To eliminate the cause of the diarrhoea immediately",
+    "option_b": "To provide antibiotics to stop the diarrhoea",
+    "option_c": "To replace lost fluids and electrolytes",
+    "option_d": "To reduce the frequency of bowel movements",
+    "correct_option": "C"
+  }
+}

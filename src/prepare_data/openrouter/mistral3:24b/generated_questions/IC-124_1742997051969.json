@@ -1,0 +1,12 @@
+{
+  "folder": "IC-124",
+  "content": "{{knowledge objective\n|Identifiant=OIC-124-01-A\n|Item_parent=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)\n|Item_parent_short=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)\n|Rank=A\n|Title=Know the definition of perimenopause and menopause\n|Description=None\n|Rubric=Definition\n|Contributors=Florence Tr\u00e9mollieres,Anna Gosset\n|Order=1}}\n\n== Menopause ==\nThe menopause is defined as ''a permanent cessation of menstruation resulting from a loss of ovarian follicular activity'' (WHO 1996 definition).\n\nThe definition of the menopause is above all a retrospective one, since it is based on ''a period of consecutive amenorrhoea of 12 months with no obvious physiological or pathological cause in a woman over the age of 45,'' associated with suggestive clinical signs (hot flushes, vaginal dryness, night sweats, etc.).\n\n== Peri-menopause ==\n'''Peri-menopause includes the period before the onset of the menopause,'' before the period of one year of amenorrhoea. During this period, the main symptoms are disorders of the cycle as well as flushing, which may be present.\n\n'''Biological assays are of no use in diagnosing the menopause or peri-menopause except in special cases (FSH and plasma estradiol assays)'''.",
+  "question": {
+    "question": "What is the primary diagnostic criterion for menopause?",
+    "option_a": "A period of consecutive amenorrhoea of 6 months with no obvious cause in a woman over the age of 45.",
+    "option_b": "A period of consecutive amenorrhoea of 12 months with no obvious cause in a woman over the age of 40.",
+    "option_c": "A period of consecutive amenorrhoea of 12 months with no obvious cause in a woman over the age of 45.",
+    "option_d": "A period of consecutive amenorrhoea of 18 months with no obvious cause in a woman over the age of 50.",
+    "correct_option": "C"
+  }
+}

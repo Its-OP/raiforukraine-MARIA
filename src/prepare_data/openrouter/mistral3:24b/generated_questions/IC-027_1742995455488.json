@@ -1,0 +1,12 @@
+{
+  "folder": "IC-027",
+  "content": "{{knowledge objective\n|Identifiant=OIC-027-33-A\n|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Rank=A\n|Title=Vaccines and pregnancy\n|Description=Vaccines authorised or not during pregnancy\n|Rubric=Management\n|Contributors=Alexandre Vivanti, Philippe Deruelle\n|Ordre=33}}\nThe flu vaccine is recommended for pregnant women, particularly those at risk (diabetics, obese women).\n\nVaccines available at any stage of pregnancy\n\n- Inactivated vaccines: tetanus, diphtheria (reduced valency), hepatitis A and B, meningococcus, pneumococcus\n\n- Live attenuated vaccines: yellow fever if travel to an endemic area cannot be postponed\n\nVaccines that are theoretically contraindicated during pregnancy are derived from live attenuated agents: measles, mumps, rubella (MMR), varicella, BCG, rotavirus.\n\nVaccines whose safety during pregnancy has not been proven: cholera, typhoid (except if you are staying in a high-risk area).\n\nThe mRNA vaccines (COVID-19) are currently being evaluated in pregnant women.\n\nSpecial case of whooping cough (inactivated vaccine) authorised in certain European countries but not yet in France: In the event of vaccination during pregnancy: reassure the patient.\n\n'''312. [[Prevention of foetal risks SD-312|Prevention of foetal risks]]''''\n\n'''340 [[Voluntary or involuntary intake of a toxic or potentially toxic drug SD-340|Voluntary or involuntary intake of a toxic or potentially toxic drug]]''''\n\n'''348. [Suspicion of an adverse drug reaction or an adverse drug treatment SD-348|Suspicion of an adverse drug reaction or an adverse drug treatment]'''''\n\n'''352. [[Explaining treatment to the patient (adult/child/adolescent) SD-352|Explaining treatment to the patient (adult/child/adolescent)]]'''''",
+  "question": {
+    "question": "Which of the following vaccines is recommended for pregnant women, particularly those at risk?",
+    "option_a": "Measles, mumps, and rubella (MMR) vaccine",
+    "option_b": "Cholera vaccine",
+    "option_c": "Influenza vaccine",
+    "option_d": "Varicella vaccine",
+    "correct_option": "C"
+  }
+}

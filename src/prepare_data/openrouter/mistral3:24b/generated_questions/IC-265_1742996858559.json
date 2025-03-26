@@ -1,0 +1,12 @@
+{
+  "folder": "IC-265",
+  "content": "{{knowledge objective\n|Identifiant=OIC-265-07-A\n|Item_parent=Urinary lithiasis\n|Item_parent_short=Urinary lithiasis\n|Rank=A\n|Title=Knowing the clinical aspects of simple renal colic\n|Description=Pain, radiation, nausea...\n|Rubric=Positive diagnosis\n|Contributors=Romain Boissier\n|Order=7}}\n\nRenal colic is said to be \"simple\" when it occurs :\n\n* without fever or chills,\n* no biological renal failure or oligo-anuria\n* and that it subsides with analgesic treatment with NSAIDs.\n\n<br />",
+  "question": {
+    "question": "Renal colic is considered 'simple' when it occurs under which of the following conditions?",
+    "option_a": "With fever and chills, but no biological renal failure",
+    "option_b": "Without fever or chills, no biological renal failure, and subsides with NSAIDs",
+    "option_c": "With biological renal failure and oligo-anuria, but no fever",
+    "option_d": "With fever and chills, and subsides with NSAIDs",
+    "correct_option": "B"
+  }
+}

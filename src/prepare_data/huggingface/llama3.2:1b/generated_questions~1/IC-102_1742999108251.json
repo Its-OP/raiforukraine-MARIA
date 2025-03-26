@@ -1,0 +1,46 @@
+{
+  "folder": "IC-102",
+  "content": "{{knowledge objective\n|Identifiant=OIC-102-07-A\n|Item_parent=Diplopia\n|Item_parent_short=Diplopia\n|Rank=A\n|Title=Photography/video of VI paralysis\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=7}}\n\n[[File:VI.jpg|left|vignette|666x666px|Paralysis of the right VI: abolition of abduction of the right eye]]",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary function of the abducens nerve?",
+        "description": "The abducens nerve is responsible for controlling the lateral rectus muscle, which is involved in the abduction of the eye.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Control of the superior oblique muscle",
+        "description": "The superior oblique muscle is controlled by the trochlear nerve, not the abducens nerve.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Abduction of the eye",
+        "description": "The abducens nerve is responsible for controlling the lateral rectus muscle, which is involved in the abduction of the eye.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Adduction of the eye",
+        "description": "The abducens nerve is not responsible for controlling the medial rectus muscle, which is involved in the adduction of the eye.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Control of the medial rectus muscle",
+        "description": "The medial rectus muscle is controlled by the oculomotor nerve, not the abducens nerve.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Abduction of the eye",
+        "description": "The abducens nerve is responsible for controlling the lateral rectus muscle, which is involved in the abduction of the eye.",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-235",
+  "content": "{{knowledge objective\n|Identifiant=OIC-235-01-A\n|Item_parent=Acute pericarditis\n|Item_parent_short=Acute pericarditis\n|Rank=A\n|Title=Know the definition of acute pericarditis\n|Description=None\n|Rubric=Definition\n|Contributors=Jennifer Cautela\n|Order=1}}\n\n\n* Acute inflammation of the leaflets of the pericardium\n* Accompanied by pericardial effusion or not (\"dry pericarditis\")\n* If associated with elevated troponin = myopericarditis",
+  "question": {
+    "question": "What is the definition of acute pericarditis?",
+    "option_a": "An inflammation of the heart muscle itself, often caused by viral infections",
+    "option_b": "An inflammation of the outer layer of the heart, which can be accompanied by fluid accumulation",
+    "option_c": "A condition characterized by the thickening of the pericardium due to chronic inflammation",
+    "option_d": "An inflammation of the inner lining of the heart chambers, leading to blood clots",
+    "correct_option": "B"
+  }
+}

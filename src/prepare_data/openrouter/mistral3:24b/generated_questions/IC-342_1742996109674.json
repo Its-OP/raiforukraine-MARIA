@@ -1,0 +1,12 @@
+{
+  "folder": "IC-342",
+  "content": "{{knowledge objective\n|Identifiant=OIC-342-09-A\n|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=A\n|Title=Know the non-cardiac and non-neurological causes of malaise\n|Description=including somatomorphic malaise, panic attack\n|Rubric=Etiologies\n|Contributors=\n|Order=9}}\nHAS\n\n\"Malaise without loss of consciousness\": falls, catalepsy, drops attacks, psychogenic pseudo syncope\n\n\"Malaise with partial or total loss of consciousness: metabolic disorders including hypoglycaemia, hypoxia, intoxication, etc.",
+  "question": {
+    "question": "Which of the following is a non-cardiac and non-neurological cause of malaise without loss of consciousness?",
+    "option_a": "Hypoglycemia",
+    "option_b": "Catalepsy",
+    "option_c": "Hypoxia",
+    "option_d": "Intoxication",
+    "correct_option": "B"
+  }
+}

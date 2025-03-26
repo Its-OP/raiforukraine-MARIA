@@ -1,0 +1,12 @@
+{
+  "folder": "IC-235",
+  "content": "{{knowledge objective\n|Identifiant=OIC-235-10-B\n|Item_parent=Acute pericarditis\n|Item_parent_short=Acute pericarditis\n|Rank=B\n|Title=Knowing the aetiologies of pericarditis during myocardial infarction\n|Description=Early pericarditis, Dressler syndrome\n|Rubric=Etiologies\n|Contributors=Jennifer Cautela\n|Order=10}}\n\n\n* Early pericarditis (D3 - D5):''''\n** following transmural -> haemopericardial infarction, due to effusion.\n** Most often a favourable outcome if minimal,\n** Emergency surgery in case of myocardial rupture.\n* Late pericarditis (2-16 weeks) = Dressler syndrome.\n** Classically associated with fever, pleurisy, arthralgia, AEG, significant inflammatory syndrome, prolongation of the QT interval on ECG.\n** Rare nowadays.",
+  "question": {
+    "question": "Which of the following is a characteristic of Dressler syndrome?",
+    "option_a": "It occurs within the first 3-5 days after myocardial infarction.",
+    "option_b": "It is characterized by fever, pleurisy, and arthralgia.",
+    "option_c": "It is always treated with emergency surgery.",
+    "option_d": "It is commonly associated with a prolonged PR interval on ECG.",
+    "correct_option": "B"
+  }
+}

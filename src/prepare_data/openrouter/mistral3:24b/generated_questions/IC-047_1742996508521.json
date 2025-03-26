@@ -1,0 +1,12 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-41-A\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=A\n|Intitul\u00e9=Accidents chez l'enfant : conna\u00eetre les moyens de pr\u00e9vention\n|Description=None\n|Rubric=Taking charge\n|Contributors=\n|Order=41}}\n[[Preventing unexplained infant death SD-318]]\n\n10-15% of children are victims of accidents in everyday life every year\n\nAccident patterns vary according to age (asphyxia < 1 year, domestic accidents 1-4 years, accidents and dangerous play after 5 years)\n\nRisk factors linked to the child and his or her human and material environment\n\nPrevention: regulations (toy standards, for example), health education (sleeping position of newborns, for example), adapting the environment to children (locked medicine cabinet, for example), etc.\n\nto illustrate: [https://solidarites-sante.gouv.fr/IMG/pdf/brochurepdf-1b23.pdf brochure aimed at the general public to prevent accidents in the home among 0-6 year olds]",
+  "question": {
+    "question": "What is one of the primary age-specific accident patterns in children?",
+    "option_a": "Asphyxia is most common in children aged 5-10 years.",
+    "option_b": "Domestic accidents are most common in children aged 1-4 years.",
+    "option_c": "Accidents and dangerous play are most common in children under 1 year.",
+    "option_d": "Falls are most common in children aged 10-15 years.",
+    "correct_option": "B"
+  }
+}

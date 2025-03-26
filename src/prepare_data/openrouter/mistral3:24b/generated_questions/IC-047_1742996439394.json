@@ -1,0 +1,12 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-21-A\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=A\n|Intitul\u00e9=Congenital hip dislocation: knowing the indication for screening\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=21}}\nExamination of the hips at each follow-up visit from maternity until walking age\n\nEarly diagnosis facilitates subsequent care\n\n[http://www.sup-numerique.gouv.fr/pid33288/moteur-des-ressources-pedagogiques.html/_fr?ressourceUrl=http%3A%2F%2Fwww.sup-numerique.gouv.fr%2Fressources-pedagogiques%2Fnotice%2Fview%2Foai%25253Acanal-u.fr%25253A3425 example of hip examination of a newborn]",
+  "question": {
+    "question": "At what age should the screening for congenital hip dislocation typically be conducted?",
+    "option_a": "At birth only",
+    "option_b": "From birth until the child starts walking",
+    "option_c": "Only during the first year of life",
+    "option_d": "Between 1 and 2 years of age",
+    "correct_option": "B"
+  }
+}

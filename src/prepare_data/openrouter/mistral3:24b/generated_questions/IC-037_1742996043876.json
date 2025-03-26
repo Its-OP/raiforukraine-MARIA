@@ -1,0 +1,12 @@
+{
+  "folder": "IC-037",
+  "content": "{{knowledge objective\n|Identifiant=OIC-037-11-B\n|Item_parent=Voluntary termination of pregnancy\n|Item_parent_short=Voluntary termination of pregnancy\n|Rank=B\n|Title=Knowing the determinants of contraceptive choice after abortion\n|Description=None\n|Rubric=Management\n|Contributors=Arthur Foulon,Philippe Deruelle,Aubert Agostini\n|Order=11}}\n\nThe choice of contraception must take into account :\n\n- efficiency\n\n- side effects, contraindications\n\n- constraints on use (lifestyle, family and cultural context)\n\n- of the cost\n\n- the patient's wishes\n\n- failure of the previous contraception\n\nContraception must be systematically offered to all patients. The choice is made after receiving informed, objective and personalised information.\n\nThe methods used after an abortion can be :\n\n- Oral oestroprogestogenic contraception (or patch) and progestin-only contraception to be started on the day misoprostol is taken and on the day of the instrumental abortion.\n\n- the vaginal ring to be started within 5 days of the instrumental abortion and within one week of taking mifepristone\n\n- the implant can be inserted on the day of the instrumental abortion and as soon as the mifepristone is taken\n\n- IUDs can be inserted immediately after instrumental abortion and on the day of the post-medical abortion check-up.\n\n- information on definitive tubal sterilisation may be given depending on the patient's age",
+  "question": {
+    "question": "Which of the following is a correct statement regarding the timing of contraceptive methods after an abortion?",
+    "option_a": "The vaginal ring should be started within 5 days of the instrumental abortion and within one week of taking mifepristone.",
+    "option_b": "Oral oestroprogestogenic contraception should be started the day after the instrumental abortion.",
+    "option_c": "The implant can be inserted only after a week of the instrumental abortion.",
+    "option_d": "IUDs can be inserted immediately after the instrumental abortion and on the day of the post-medical abortion check-up.",
+    "correct_option": "D"
+  }
+}

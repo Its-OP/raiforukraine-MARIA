@@ -1,0 +1,12 @@
+{
+  "folder": "IC-086",
+  "content": "{{knowledge objective\n|Identifiant=OIC-086-01-A\n|Item_parent=Eyelid pathology\n|Item_parent_short=Eyelid pathology\n|Rank=A\n|Title=Recognising an ectropion and its complications\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=1}}\n'''Ectropion:''' outward slackening of the eyelid, due to relaxation of the cutaneous tissues, retraction of the tissues or muscular relaxation.\n\n'''Complications:''' corneal exposure, lacrimation (tilting of the lower lacrimal point), inadequate palpebral occlusion.\n\n<br />",
+  "question": {
+    "question": "What is a primary complication of ectropion?",
+    "option_a": "Increased risk of conjunctivitis",
+    "option_b": "Dry eye syndrome due to inadequate tear distribution",
+    "option_c": "Increased risk of glaucoma",
+    "option_d": "Corneal exposure and lacrimation",
+    "correct_option": "D"
+  }
+}

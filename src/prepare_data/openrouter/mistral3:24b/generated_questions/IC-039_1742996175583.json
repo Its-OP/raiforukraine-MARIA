@@ -1,0 +1,12 @@
+{
+  "folder": "IC-039",
+  "content": "{{knowledge objective\n|Identifiant=OIC-039-06-A\n|Item_parent=Medical assistance for procreation: the main biological, medical and ethical aspects\n|Item_parent_short=Medical assistance in procreation: the main biological, medical and ethical aspects\n|Rank=A\n|Title=Knowing the main causes of female and male infertility requiring recourse to MAP\n|Description=None\n|Rubric=Etiologies\n|Contributors=Patricia Fauque,Fabrice Guerif,Charlotte Sonigo,Geoffroy Robin,Pierre-Emmanuel Bouet,St\u00e9phanie Huberlant,Nathalie Rives\n|Order=6}}\n\nThe main indications for recourse to MAP include :\n\n*reproductive pathologies (see LISA 38) ''It should be noted that infertility may turn out to be unexplained (idiopathic) at the time of the work-up, and will nevertheless be managed by MAP''.\n*the risk of ''transmission of a particularly serious genetic pathology'' (recourse to pre-implantation diagnosis will then be proposed)\n*the risk of \"transmitting a viral pathology\" (to avoid transmitting a viral disease to the other member of the couple, mainly HIV)\n*the fulfilment of a ''parental project'' of a female couple or an unmarried woman\n*fertility preservation (medical or non-medical indications)\".\n\n<br />",
+  "question": {
+    "question": "Which of the following is a primary indication for recourse to Medical Assistance in Procreation (MAP)?",
+    "option_a": "The desire to have a child without a medical necessity",
+    "option_b": "The risk of transmitting a particularly serious genetic pathology",
+    "option_c": "The risk of transmitting a bacterial infection",
+    "option_d": "The need for fertility preservation due to advanced age",
+    "correct_option": "B"
+  }
+}

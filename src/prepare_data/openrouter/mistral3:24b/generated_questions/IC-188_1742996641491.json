@@ -1,0 +1,12 @@
+{
+  "folder": "IC-188",
+  "content": "{{knowledge objective\n|Identifiant=OIC-188-21-B\n|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Rank=B\n|Title=Knowing the principles of therapeutic asthma education and action plans to improve compliance in asthma.\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=21}}\nThe aim of therapeutic education is to enable patients to understand their disease and treatment. It helps to improve compliance and control of asthma and reduce the occurrence of severe exacerbations.\n\n\nThe aim is for patients to acquire the following skills:\n\n- Understanding the mechanisms of your illness\n\n- Knowing the signs of loss of control and exacerbation\n\n- Measuring and interpreting your EPD\n\n- Understanding the mechanisms of action and indications for treatment\n\n- Mastering the use of inhalation devices\n\n- Implementing the action plan\n\n- Controlling the environment by avoiding factors that encourage it",
+  "question": {
+    "question": "Which of the following is a primary aim of therapeutic asthma education?",
+    "option_a": "To prescribe the correct medication for asthma patients",
+    "option_b": "To teach patients how to measure and interpret their blood pressure",
+    "option_c": "To enable patients to understand their disease and treatment, improving compliance and control of asthma",
+    "option_d": "To provide patients with a list of emergency contact numbers",
+    "correct_option": "C"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-109",
+  "content": "{{knowledge objective\n|Identifiant=OIC-109-01-A\n|Item_parent=Gait and balance disorders\n|Item_parent_short=Gait and balance disorders\n|Rank=A\n|Title=Knowing the elements of the interview in the presence of a gait disorder\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=1}}\n- The date of onset of the problems, how they started, the type of main complaint: pain and its relationship to effort, weakness, instability (to be distinguished from vertigo), small steps, stiffness. A third party's opinion is sometimes necessary, as some complaints are better perceived by those around the patient than by the patient (slowing down, loss of arm swing).\n\n- The severity of the disorder must be assessed in everyday life: ''falls or near-falls'', their consequences in terms of morbidity'' (trauma, fractures, hospitalisation) or in terms of independence (unaccompanied outings from home with or without using public transport, accompanied outings, no outings from home).\n\n- Subjects' ability to climb (strength) or descend stairs (balance), their walking perimeter, their independence for activities (housework, cooking) and daily activities (dressing and grooming in particular), the use of a cane, wheelchair or walker, the need for human assistance, etc.\n\n- The full list of medications taken, which should also be known (''the leading risk factor for falls in the elderly'').\n\n- '''Cognitive abilities''' of the subject",
+  "question": {
+    "question": "When assessing a patient with a gait disorder, which of the following is a crucial element to evaluate during the interview?",
+    "option_a": "The patient's dietary habits and their impact on gait",
+    "option_b": "The patient's cognitive abilities",
+    "option_c": "The patient's ability to perform complex mathematical calculations",
+    "option_d": "The patient's favorite recreational activities",
+    "correct_option": "B"
+  }
+}

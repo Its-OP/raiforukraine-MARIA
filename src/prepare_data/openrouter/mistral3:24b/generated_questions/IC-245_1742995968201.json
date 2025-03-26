@@ -1,0 +1,12 @@
+{
+  "folder": "IC-245",
+  "content": "{{knowledge objective\n|Identifiant=OIC-245-17-B\n|Item_parent=Adrenal insufficiency in adults and children\n|Item_parent_short=Adrenal insufficiency in adults and children\n|Rank=B\n|Title=Knowing how to confirm the diagnosis\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Claire Briet,St\u00e9phanie Espiard\n|Order=17}}\nSHOULD NOT DELAY TREATMENT\n\n*If the diagnosis of adrenal insufficiency is unknown: blood cortisol and ACTH (and renin assay in children''') whatever the'''<nowiki/>'''it the'''<nowiki/>'''' hour, without waiting for the results''' to start treatment.\n*If the diagnosis of adrenal insufficiency is known: None\n\nResults :\n\n*Positive diagnosis: low or collapsed cortisol levels,\n*Etiological diagnosis:\n**elevated ACTH: primary adrenal insufficiency,\n**normal or low ACTH: corticotropic insufficiency.",
+  "question": {
+    "question": "When diagnosing adrenal insufficiency, what should be done if the diagnosis is unknown?",
+    "option_a": "Wait for the results of the blood cortisol and ACTH tests before starting treatment.",
+    "option_b": "Start treatment immediately without waiting for the results of blood cortisol and ACTH tests.",
+    "option_c": "Perform only the ACTH test and wait for the results before starting treatment.",
+    "option_d": "Start treatment only if the cortisol levels are confirmed to be low.",
+    "correct_option": "B"
+  }
+}

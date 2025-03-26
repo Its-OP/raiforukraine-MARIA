@@ -1,0 +1,12 @@
+{
+  "folder": "IC-328",
+  "content": "{{knowledge objective\n|Identifiant=OIC-328-05-A\n|Item_parent=Non-drug therapies and medical devices\n|Item_parent_short=Non-drug therapies and medical devices\n|Rank=A\n|Heading=General knowledge of orthoses\n|Description=Different types and indications\n|Rubric=Definition\n|Contributors=Bisseriex H\u00e9l\u00e8ne,De Boissezon Xavier\n|Order=5}}\n\n'''Orthosis''': a device that supplements a limb or segment of limb that is deficient or the spine.\n\nIt can be small or large equipment.\n\n\n'''Objectives of orthotic treatment''' ''(different from orthopaedic treatment after trauma or surgery)'''\n\n- downtime\n\n- rest\n\n- stabilisation\n\n- correction\n\n- substitution",
+  "question": {
+    "question": "What is the primary purpose of an orthosis?",
+    "option_a": "To provide medication to the affected limb",
+    "option_b": "To correct or substitute a deficient limb or segment of limb",
+    "option_c": "To perform surgical procedures on the spine",
+    "option_d": "To provide immediate pain relief through electrical stimulation",
+    "correct_option": "B"
+  }
+}

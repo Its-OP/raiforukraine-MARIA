@@ -1,0 +1,12 @@
+{
+  "folder": "IC-082",
+  "content": "{{knowledge objective\n|Identifiant=OIC-082-11-A\n|Item_parent=Acute visual impairment\n|Item_parent_short=Acute visual impairment\n|Rank=A\n|Title=Savoir \u00e9voquer le diagnostic d'aura migraineuse (Knowing how to evoke the diagnosis of migraine aura)\n|Description=AIT, partial epileptic seizure\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=11}}\nAn ophthalmic migraine or visual migraine aura is characterised by the appearance of visual stimuli which subside in about 15 to 20 minutes, usually giving way to a pulsatile headache, usually in the hemicranium and contralateral. In some cases, the scintillating scotoma is isolated, with no headache.\n\nThe stimuli most often reported are a bilateral scintillating scotoma, accompanied by coloured flashes, progressively extending to one visual hemifield. However, some patients report a wide variety of visual stimuli. The diagnosis is confirmed by repetition, a normal clinical examination and any associated headache.",
+  "question": {
+    "question": "Which of the following is a characteristic symptom of a migraine aura?",
+    "option_a": "A bilateral scintillating scotoma that lasts for several hours",
+    "option_b": "A sudden loss of vision in one eye",
+    "option_c": "A bilateral scintillating scotoma accompanied by coloured flashes, progressively extending to one visual hemifield",
+    "option_d": "A constant, dull headache that affects both sides of the head",
+    "correct_option": "C"
+  }
+}

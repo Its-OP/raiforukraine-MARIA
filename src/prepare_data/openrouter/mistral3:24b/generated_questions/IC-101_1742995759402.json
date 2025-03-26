@@ -1,0 +1,12 @@
+{
+  "folder": "IC-101",
+  "content": "{{knowledge objective\n|Identifiant=OIC-101-08-B\n|Item_parent=Facial paralysis\n|Item_parent_short=Facial paralysis\n|Rank=B\n|Title=Knowing the possible evolutions of facial paralysis a frigore\n|Description=Recuperation, signs of aberrant reinnervation, hemispasm\n|Section=Follow-up and/or prognosis\n|Contributors=\n|Order=8}}\n \n\n1) Favourable outcome: by far the most common, particularly when paralysis is initially incomplete. Recovery begins 8 to 15 days after onset, and is generally cured in less than 2 months.\n\n2) Unfavourable trend :\n\n* 5 to 10% of cases. Possible sequelae are :\n\n- Residual synkinetic movements\n\n- Post-paralytic facial hemi-spasm, resulting in a brief (often repeated) contracture of the eyelids and cheek of the hemi-face (treatment with botulinum toxin injections) ([[Localised or generalised muscle contracture SD-029|localised or generalised muscle contracture]]; [[Abnormal movements SDD-126|abnormal movements]]; [[Palpebral anomalies SD-139|palpebral anomalies]]).\n\n- Crocodile tears\" syndrome (watering during meals), rare and secondary to aberrant reinnervation.\n\n* Severe persistent deficit, with disabling deformity of the face and absence of reinnervation on ENMG (discussion of cosmetic surgery) ([[Muscular weakness SDD-074|Muscular weakness]]; [[Motor and/or sensory deficit of the limbs|Sensory and/or motor deficit]]).",
+  "question": {
+    "question": "What is a possible unfavourable outcome of facial paralysis a frigore?",
+    "option_a": "Complete recovery within 2 months",
+    "option_b": "Residual synkinetic movements and post-paralytic facial hemi-spasm",
+    "option_c": "Severe persistent deficit with disabling facial deformity",
+    "option_d": "Immediate and full reinnervation without any complications",
+    "correct_option": "B"
+  }
+}

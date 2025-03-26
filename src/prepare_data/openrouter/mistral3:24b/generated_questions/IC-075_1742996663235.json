@@ -1,0 +1,12 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-17-A\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=A\n|Title=Knowing the epidemiology of passive smoking, the main concepts of excess risk\n|Description=None\n|Rubric=Epidemiology\n|Contributors=\n|Order=17}}\nNon-psychiatric medical complications related to <nowiki/>'''passive intoxication''''\n\n* Ischaemic heart disease\n* Bronchopulmonary cancer\n* Coronary artery disease\n* Otitis and asthma in children\n* Bronchitis\n\n<br />",
+  "question": {
+    "question": "Which of the following is NOT a non-psychiatric medical complication related to passive smoking?",
+    "option_a": "Ischaemic heart disease",
+    "option_b": "Bronchopulmonary cancer",
+    "option_c": "Otitis and asthma in children",
+    "option_d": "Coronary artery disease",
+    "correct_option": "D"
+  }
+}

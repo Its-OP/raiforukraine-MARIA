@@ -1,0 +1,18 @@
+{
+  "folder": "IC-027",
+  "content": "{{knowledge objective\n|Identifiant=OIC-027-08-A\n|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation\n|Rank=A\n|Intitul\u00e9=Rub\u00e9ole : conna\u00eetre les \u00e9l\u00e9ments de la pr\u00e9vention f\u0153tale\n|Description=Knowing vaccination / serological surveillance\n|Rubric=Management\n|Contributors=Alexandre Vivanti, Philippe Deruelle\n|Order=8}}\n'''[[Prevention of foetal risks SDD-312|Prevention]] primary''''\n\nThis is the [[Vaccinations for Adults and Children SDD-322|vaccination]] antirubella vaccine. Live vaccine not indicated during pregnancy.\n\nIts use has virtually eliminated congenital rubella in France.\n\nAll women of child-bearing age should have been vaccinated, and the effectiveness of the vaccination should be checked by serology.\n\nCongenital rubella has become a completely preventable disease. However, almost 5% of pregnant women are still not immunised.\n\n'''[[Prevention of fetal risks SDD-312|Prevention]] secondary''''\n\nAn [[Interpretation of an SDD-236 serology result|serology]] is compulsory when declaring a pregnancy, with a test for IgG alone, except in cases of documented previous immunity (positive previous serology result or proof of injection of 2 doses of vaccine).\n\nIf the initial serology is negative, the serology will be checked at 20SA.\n\nBeyond that point, the foetal risk is so low that it no longer warrants monitoring,\n\nIf serology is positive in early pregnancy, this is usually due to immunity linked to a previous infection or vaccination.\n\nIn the absence of any rash, contagion or travel to a high-risk country, no further investigation is warranted. Conversely, if since the start of the pregnancy the patient reports :\n\nA rash, contact with a person who has shown symptoms compatible with rubella (rash, arthralgias) or a trip to a high-risk country (Africa/Asia), biological tests in a reference laboratory are essential (IgM tests, as routine serology only includes IgG tests, and measurement of the IgG avidity index).\n\nIf infection is confirmed before the 20<sup>th</sup> SA, the patient must be referred to a CPDPN for further management.",
+  "question": {
+    "properties": {
+      "question": "What is the recommended serology test for pregnant women in France?",
+      "option_a": "IgG alone",
+      "option_b": "IgM alone",
+      "option_c": "IgG and IgM together",
+      "option_d": "IgA alone",
+      "correct_option": "option_c"
+    },
+    "required": [
+      "question"
+    ],
+    "type": "string"
+  }
+}

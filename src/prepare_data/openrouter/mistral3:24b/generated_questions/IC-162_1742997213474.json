@@ -1,0 +1,12 @@
+{
+  "folder": "IC-162",
+  "content": "{{knowledge objective\n|Identifiant=OIC-162-24-B\n|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis\n|Rank=B\n|Title=Knowing the clinical signs of late syphilis\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=24}}\nLate latent syphilis is defined by the absence of clinical signs and the discovery of a positive serology test with a presumed contact date of more than one year.\n\nThe clinical forms of tertiary syphilis are :\n\no Gummy syphilis\n\no Bone syphilis\n\no Cardiovascular syphilis (aortitis, coronary stenosis, etc.)\n\no Tertiary neurosyphilis\n\no Tobacco",
+  "question": {
+    "question": "Which of the following is NOT a clinical form of tertiary syphilis?",
+    "option_a": "Gummy syphilis",
+    "option_b": "Bone syphilis",
+    "option_c": "Tobacco",
+    "option_d": "Cardiovascular syphilis",
+    "correct_option": "C"
+  }
+}

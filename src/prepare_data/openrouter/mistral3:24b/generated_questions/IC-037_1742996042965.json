@@ -1,0 +1,12 @@
+{
+  "folder": "IC-037",
+  "content": "{{knowledge objective\n|Identifiant=OIC-037-09-B\n|Item_parent=Voluntary termination of pregnancy\n|Item_parent_short=Voluntary termination of pregnancy\n|Rank=B\n|Title=Knowing the contraindications of different methods\n|Description=None\n|Rubric=Taking charge\n|Contributors=Arthur Foulon,Philippe Deruelle,Aubert Agostini\n|Order=9}}\n\nThere are contraindications to mifepristone and misoprostol (see table).\n\nThere are also contraindications to the medicated technique:\n\n- coagulation disorders, anticoagulant treatment (no control of haemorrhage)\n\n- profound anaemia (Hb < 9-10 g/dL)\n\n- IUD in place\n\n- patient isolated, did not understand the information, control visit impossible, travel after the procedure \"in a risky health zone\".\n\nThere are no absolute contraindications to the instrumental method.\n{| class=\"wikitable\"\n|Mifepristone\n|'''Misoprostol''''\n|-\n|chronic adrenal insufficiency\n|hypersensitivity to misoprostol\n|-\n|severe asthma not controlled by treatment\n|history of allergy to prostaglandins\n|-\n|hereditary porphyria\n|asthma / spasmodic bronchitis\n|-\n|hypersensitivity to the active substance\n|Cardiovascular history: angina pectoris,\n|-\n|\n|rhythm disorders, Raynaud's disease,\n|-\n|Special precautions:\n|heart failure\n|-\n|malnutrition\n|and severe unbalanced hypertension\n|-\n|liver failure\n|\n|-\n|renal insufficiency\n|\n|}\nTable: contraindications for drugs used for abortions",
+  "question": {
+    "question": "Which of the following is a contraindication specific to the use of misoprostol in the context of voluntary termination of pregnancy?",
+    "option_a": "Chronic adrenal insufficiency",
+    "option_b": "History of allergy to prostaglandins",
+    "option_c": "Severe asthma not controlled by treatment",
+    "option_d": "Hereditary porphyria",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-28-A\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=A\n|Title=Scoliosis in children: knowing the clinical examination\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=28}}\nSpinal deformity in all 3 planes\n\n'''PAINLESS'''\n\nHighlighting of a '''GIBBOSITE'''",
+  "question": {
+    "question": "What is a key characteristic of scoliosis in children during a clinical examination?",
+    "option_a": "The presence of severe back pain",
+    "option_b": "The absence of any visible deformity",
+    "option_c": "The highlighting of a gibbous deformity",
+    "option_d": "The presence of a noticeable limp",
+    "correct_option": "C"
+  }
+}

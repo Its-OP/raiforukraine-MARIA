@@ -1,0 +1,46 @@
+{
+  "folder": "IC-020",
+  "content": "{{knowledge objective\n|Identifiant=OIC-020-15-B\n|Item_parent=Health research methodology\n|Item_parent_short=Health research methodology\n|Rank=B\n|Title=Implementing good practice in the use of health informatics to support clinical research and in particular clinical trials\n|Description=Health informatics and clinical research\n|Section=Support\n|Contributors=Julie Berbis (CUESP),Rosy Tsopras (CIMES),Pascal Staccini (CIMES)\n|Order=15}}\n\nHealth data is personal data and is considered sensitive. It is subject to special protection under the law (European regulation on the protection of personal data - RGPD, Loi Informatique et Libert\u00e9s, Code de la sant\u00e9 publique, etc.) in order to guarantee respect for the privacy of individuals.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary purpose of health data protection?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To improve the efficiency of clinical trials",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "To enhance the accuracy of health research",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "To protect the privacy of individuals",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "To reduce the administrative burden on healthcare providers",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "To protect the privacy of individuals",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

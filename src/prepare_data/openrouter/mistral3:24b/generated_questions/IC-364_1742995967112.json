@@ -1,0 +1,12 @@
+{
+  "folder": "IC-364",
+  "content": "{{knowledge objective\n|Identifiant=OIC-364-04-B\n|Item_parent=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Item_parent_short=Fractures in children: epidemiological, diagnostic and therapeutic features\n|Rank=B\n|Title=Knowing the epidemiology of fractures in children\n|Description=None\n|Rubric=Epidemiology\n|Contributors=\n|Order=4}}\nKnow that fractures in children predominate in the upper limbs and that fractures of the lower limbs increase in prevalence from pre-adolescence onwards.\n\nKnow that the kinetics of trauma increase with age and with the use of wheeled or rolling devices.\n\nKnowing that sport becomes the dominant aetiology from pre-adolescence onwards.",
+  "question": {
+    "question": "Which of the following is the primary cause of fractures in children from pre-adolescence onwards?",
+    "option_a": "Falls from playground equipment",
+    "option_b": "Motor vehicle accidents",
+    "option_c": "Sports-related injuries",
+    "option_d": "Domestic accidents",
+    "correct_option": "C"
+  }
+}

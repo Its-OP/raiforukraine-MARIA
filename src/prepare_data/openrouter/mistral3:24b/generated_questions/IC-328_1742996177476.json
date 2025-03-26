@@ -1,0 +1,12 @@
+{
+  "folder": "IC-328",
+  "content": "{{knowledge objective\n|Identifiant=OIC-328-11-A\n|Item_parent=Non-drug therapies and medical devices\n|Item_parent_short=Non-drug therapies and medical devices\n|Rank=A\n|Title=Knowing how to prescribe a wheelchair\n|Description=General rules for prescribing manual and electric wheelchairs\n|Rubric=Definition\n|Contributors=Bisseriex H\u00e9l\u00e8ne,De Boissezon Xavier\n|Order=11}}\n\n'''([[Progressive loss of autonomy SDD-031|progressive loss of autonomy]])''''\n\n'''Manual wheelchair:''''\n\n- on prescription by any doctor\n\n- purchase or rental, paid for by the health insurance scheme\n\n- whether or not combined with the prescription of an anti-bedsore cushion\n\n\n'''Electric wheelchair'''\n\n- requires a trial to validate that the wheelchair is suitable for the disability and is not dangerous, by a PRM doctor + a physiotherapist or occupational therapist\n\n- on simple prescription + trial certificate\n\n- purchase only\n\n- subject to prior agreement with the health insurance, additional financing possible by the MDPH '''([[Situation of disability SDD-345|situation of disability]])''''\n\n- whether or not combined with the prescription of an anti-bedsore cushion",
+  "question": {
+    "question": "Which of the following is a requirement for prescribing an electric wheelchair?",
+    "option_a": "A simple prescription from any doctor is sufficient.",
+    "option_b": "A trial must be conducted by a PRM doctor and a physiotherapist or occupational therapist to ensure suitability and safety.",
+    "option_c": "The wheelchair can only be rented, not purchased.",
+    "option_d": "The prescription must be combined with the prescription of an anti-bedsore cushion.",
+    "correct_option": "B"
+  }
+}

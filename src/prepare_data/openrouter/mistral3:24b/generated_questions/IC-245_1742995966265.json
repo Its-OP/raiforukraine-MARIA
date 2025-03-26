@@ -1,0 +1,12 @@
+{
+  "folder": "IC-245",
+  "content": "{{knowledge objective\n|Identifiant=OIC-245-16-A\n|Item_parent=Adrenal insufficiency in adults and children\n|Item_parent_short=Adrenal insufficiency in adults and children\n|Rank=A\n|Title=Knowing the main clinical and biological signs\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=Claire Briet,St\u00e9phanie Espiard\n|Order=16}}\n'''Clinical :'''\n\n* extracellular dehydration with skin wrinkling, hypotension ''([[Discovery of arterial hypotension SD-043]]),'' up to and including collapse ;\n* confusion, convulsive seizures secondary to hyponatraemia and hypoglycaemia ''([[Hypoglycaemia SD-209]]])'', even coma;\n* Digestive disorders: anorexia, nausea, vomiting, abdominal pain, diarrhoea;\n* diffuse pain,\n* fever, which may be caused by an infection that precipitated the decompensation.\n\n\n'''Biology:'''\n\n* haemoconcentration*, functional renal failure* (+++);\n* hyponatremia ([[Dysnatremia SD-202]])'', hyperkalaemia* ([[Dyskalaemia SD-201]])'' (aldosterone deficiency) (+++);\n* hypoglycaemia ''([[Hypoglycaemia SD-209]]]'')''\n* metabolic acidosis ;\n* anaemia, hyperlymphocytosis, hypereosinophilia;\n* preserved natriuresis;",
+  "question": {
+    "question": "Which of the following is a primary clinical sign of adrenal insufficiency in adults and children?",
+    "option_a": "Hyperglycemia",
+    "option_b": "Hypernatremia",
+    "option_c": "Extracellular dehydration with skin wrinkling",
+    "option_d": "Hyperkalemia",
+    "correct_option": "C"
+  }
+}

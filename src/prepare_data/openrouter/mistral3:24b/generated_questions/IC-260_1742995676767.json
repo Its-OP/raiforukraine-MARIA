@@ -1,0 +1,12 @@
+{
+  "folder": "IC-260",
+  "content": "{{knowledge objective\n|Identifiant=OIC-260-11-A\n|Item_parent=Hematuria\n|Item_parent_short=Hematuria\n|Rank=A\n|Title=Knowing the diagnostic tree for haematuria\n|Description=Figure\n|Rubric=Positive diagnosis\n|Contributors=Charles Dariane, Bruno Moulin\n|Order=11}}\n\n[[File:Figure 6 diagnostic tree.png|thumbnail|1050x1050px|\n<big>'''Figure 6. Diagnostic tree for haematuria'''</big>|alt=|neant]]\n\n\n\n\n\n<br />",
+  "question": {
+    "question": "According to the diagnostic tree for haematuria, what is the first step in evaluating a patient presenting with haematuria?",
+    "option_a": "Order a renal biopsy to determine the cause",
+    "option_b": "Perform a urine culture to check for infection",
+    "option_c": "Conduct a detailed medical history and physical examination",
+    "option_d": "Immediately refer the patient to a urologist",
+    "correct_option": "C"
+  }
+}

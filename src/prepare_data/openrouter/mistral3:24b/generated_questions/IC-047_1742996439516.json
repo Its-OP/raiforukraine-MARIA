@@ -1,0 +1,12 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-33-A\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=A\n|Title=Know the definition of school medicine\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=33}}\nPart of the Ministry of Education\n\nIndividual and collective prevention and health promotion for all schoolchildren\n\nWelcoming and supporting each pupil according to their specific needs, particularly in terms of their physical or mental health: individualised reception plans (PAI) and personalised care plans (PPS)",
+  "question": {
+    "question": "What is the primary focus of school medicine?",
+    "option_a": "Providing specialized medical treatments for all students",
+    "option_b": "Conducting research on educational methods and curricula",
+    "option_c": "Individual and collective prevention and health promotion for all schoolchildren",
+    "option_d": "Managing the administrative tasks of the school system",
+    "correct_option": "C"
+  }
+}

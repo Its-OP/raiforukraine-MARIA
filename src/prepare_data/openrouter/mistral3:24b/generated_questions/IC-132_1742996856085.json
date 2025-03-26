@@ -1,0 +1,12 @@
+{
+  "folder": "IC-132",
+  "content": "{{knowledge objective\n|Identifiant=OIC-132-07-A\n|Item_parent=Cognitive disorders in the elderly. (see item 108)\n|Item_parent_short=Cognitive disorders in the elderly. (see item 108)\n|Rank=A\n|Title=Knowing the tools for identifying neuro-cognitive disorders.\n|Description=Application in general medicine\n|Section=Supplementary tests\n|Contributors=\n|Order=7}}\nThere are several tools for identifying neurocognitive disorders. They are not sufficient on their own to make a diagnosis. They can be used to assess the severity of cognitive impairment.\n\n* Mini Mental State Evaluation: global cognitive assessment\n*Dubois 5-word test: memory and encoding assessment\n*BREF: assessment of executive functions\n*Clock: assessment of executive and visuospatial functions",
+  "question": {
+    "question": "Which of the following tools is primarily used to assess memory and encoding in the context of neurocognitive disorders?",
+    "option_a": "Mini Mental State Evaluation",
+    "option_b": "Dubois 5-word test",
+    "option_c": "BREF",
+    "option_d": "Clock",
+    "correct_option": "B"
+  }
+}

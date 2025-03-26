@@ -1,0 +1,41 @@
+{
+  "folder": "IC-099",
+  "content": "{{knowledge objective\n|Identifiant=OIC-099-07-A\n|Item_parent=Migraine, trigeminal neuralgia and facial pain\n|Item_parent_short=Migraine, trigeminal neuralgia and facial pain\n|Rank=A\n|Title=Knowing the migraine, tension headache interrelationship\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=7}}\nA patient may have two types of primary [[Headache SD-118|headache]] intertwined, most commonly a migraine without aura and an episodic tension headache.\n\nIn the case of CCQ (> 15 days per month of headaches), if the patient has migraines and tension headaches, the diagnosis of migraine takes precedence, and a chronic migraine must be diagnosed as soon as there are 8 days per month (2 days per week) of headache of a migrainous nature.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "When to prioritize migraines over tension headaches",
+        "description": "A patient may have two types of primary headache disorders intertwined, most commonly a migraine without aura and an episodic tension headache. In the case of chronic headaches (CCQ > 15 days per month of headaches), if the patient has migraines and tension headaches, the diagnosis of migraine takes precedence, and a chronic migraine must be diagnosed as soon as there are 8 days per month (2 days per week) of headache of a migrainous nature."
+      },
+      "option_a": {
+        "title": "A patient with migraines and tension headaches should be diagnosed with tension headaches first.",
+        "description": "This is because tension headaches are more common and have a higher prevalence than migraines."
+      },
+      "option_b": {
+        "title": "A patient with migraines and tension headaches should be diagnosed with migraines first.",
+        "description": "This is because migraines are more severe and have a higher impact on quality of life than tension headaches."
+      },
+      "option_c": {
+        "title": "The diagnosis of migraines takes precedence over tension headaches in cases of chronic headaches.",
+        "description": "This is because migraines are more likely to be chronic and require long-term management."
+      },
+      "option_d": {
+        "title": "A patient with migraines and tension headaches should be diagnosed with tension headaches first.",
+        "description": "This is because tension headaches are more common and have a higher prevalence than migraines."
+      },
+      "correct_option": {
+        "title": "A patient with migraines and tension headaches should be diagnosed with migraines first.",
+        "description": "This is because migraines are more severe and have a higher impact on quality of life than tension headaches."
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ],
+    "type": "string"
+  }
+}

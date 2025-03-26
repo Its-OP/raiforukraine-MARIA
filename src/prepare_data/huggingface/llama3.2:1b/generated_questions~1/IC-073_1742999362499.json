@@ -1,0 +1,47 @@
+{
+  "folder": "IC-073",
+  "content": "{{knowledge objective\n|Identifiant=OIC-073-01-A\n|Item_parent=Different types of psychotherapeutic techniques\n|Item_parent_short=Different types of psychotherapeutic techniques\n|Rank=A\n|Intitle=Know the definition of psychotherapy\n|Description=None\n|Rubric=Definition\n|Contributors=Amaury MENGIN\n|Order=1}}\n\n==== Definition of psychotherapy ====\nAny use of psychological means to treat a psychiatric disorder or for [[Know the definition of psychotherapy OIC-073-01-A#%20msocom%201|[FB1]]] any other non-psychiatric problem causing psychological suffering or distress\n----[[Know the definition of the term psychotherapy OIC-073-01-A#%20msoanchor%201|[FB1]]]<nowiki/>for too much?",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary purpose of psychotherapy?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "To treat only psychiatric disorders",
+        "description": "The first answer option labeled 'A'",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "To treat only non-psychiatric problems",
+        "description": "The second answer option labeled 'B'",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "To alleviate psychological suffering or distress",
+        "description": "The third answer option labeled 'C'",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "To cure the patient",
+        "description": "The fourth answer option labeled 'D'",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "To treat only psychiatric disorders",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ],
+    "correct_answer": "option_a"
+  }
+}

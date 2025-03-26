@@ -1,0 +1,12 @@
+{
+  "folder": "IC-234",
+  "content": "{{knowledge objective\n|Identifiant=OIC-234-15-A\n|Item_parent=Adult heart failure\n|Item_parent_short=Adult heart failure\n|Rank=A\n|Title=Chest radiography of PAO of haemodynamic origin\n|Description=None\n|Rubric=Multimedia content\n|Contributors=Olivier Huttin\n|Order=15}}\n\n[[File:Example of chest film of acute lung oedema.png|vignette|538x538px|Example of chest film of acute lung oedema]]",
+  "question": {
+    "question": "What is a common finding on a chest radiograph of a patient with acute pulmonary edema of hemodynamic origin?",
+    "option_a": "Increased lung volumes with hyperinflation",
+    "option_b": "Prominent pulmonary vasculature with perihilar haziness",
+    "option_c": "Clear lung fields with no signs of fluid accumulation",
+    "option_d": "Localized consolidation in the lower lobes",
+    "correct_option": "B"
+  }
+}

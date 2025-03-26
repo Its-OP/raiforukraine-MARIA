@@ -1,0 +1,46 @@
+{
+  "folder": "IC-239",
+  "content": "{{knowledge objective\n|Identifiant=OIC-239-01-A\n|Item_parent=Acrosyndromes (Raynaud's phenomenon, erythermalgia, acrocyanosis, frostbite, digital ischaemia)\n|Item_parent_short=Acrosyndromes (Raynaud's phenomenon, erythermalgia, acrocyanosis, frostbite, digital ischaemia)\n|Rank=A\n|Title=Know the definition of Raynaud's phenomenon, acrocyanosis, erythermalgia, digital ischaemia and frostbite.\n|Description=None\n|Rubric=Definition\n|Contributors= Sophie Blaise, Luc Bressollette, Claire Le Hello\n|Order=1}}\n\nRaynaud's phenomenon (RP): paroxysmal vascular acrosyndrome with vasoconstriction, triggered by exposure to cold.\n\nErythermalgia: paroxysmal vascular acrosyndrome with vasodilatation, triggered by heat, exercise or orthostatism.\n\nAcrocyanosis: permanent vascular acrosyndrome with a pronounced cold, cyanotic appearance of the extremities.\n\nFrostbite: trophic acrosyndrome in the toes, more rarely in the fingers.\n\nDigital ischaemia: ischaemia localised to the fingers or toes.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary characteristic of Raynaud's phenomenon?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Cold-induced",
+        "description": "Raynaud's phenomenon is triggered by exposure to cold.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Heat-induced",
+        "description": "Erythermalgia is triggered by heat, exercise or orthostatism.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Vasodilatation",
+        "description": "Acrocyanosis is characterized by a pronounced cold, cyanotic appearance of the extremities.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Trophic acrosyndrome",
+        "description": "Frostbite is a trophic acrosyndrome in the toes, more rarely in the fingers.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Cold-induced",
+        "description": "Raynaud's phenomenon is triggered by exposure to cold.",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

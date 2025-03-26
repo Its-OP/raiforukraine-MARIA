@@ -1,0 +1,12 @@
+{
+  "folder": "IC-176",
+  "content": "{{knowledge objective\n|Identifiant=OIC-176-09-A\n|Item_parent=Infectious diarrhoea in adults and children\n|Item_parent_short=Infectious diarrhoea in adults and children\n|Rank=A\n|Title=Know the main additional tests to assess the impact of infectious diarrhoea on the health of adults and children.\n|Description=None\n|Section=Complementary examinations\n|Contributors=Alexis de Rougemont,Christophe Deschamps, Johann Cailhol\n|Order=9}}\n\nThe impact assessment concerns situations of\n\n* dehydration: blood ionogram, creatininaemia, CBC\n* sepsis: blood gas with lactates, assessment of organ dysfunction ([[Acute diarrhoea and dehydration in infants, children and adults|cf item 286]])",
+  "question": {
+    "question": "Which of the following tests is primarily used to assess dehydration in patients with infectious diarrhoea?",
+    "option_a": "Blood gas with lactates",
+    "option_b": "Blood ionogram",
+    "option_c": "Assessment of organ dysfunction",
+    "option_d": "Complete blood count (CBC)",
+    "correct_option": "B"
+  }
+}

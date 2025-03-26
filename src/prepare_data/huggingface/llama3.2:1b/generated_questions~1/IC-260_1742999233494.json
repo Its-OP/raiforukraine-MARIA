@@ -1,0 +1,46 @@
+{
+  "folder": "IC-260",
+  "content": "{{knowledge objective\n|Identifiant=OIC-260-11-A\n|Item_parent=Hematuria\n|Item_parent_short=Hematuria\n|Rank=A\n|Title=Knowing the diagnostic tree for haematuria\n|Description=Figure\n|Rubric=Positive diagnosis\n|Contributors=Charles Dariane, Bruno Moulin\n|Order=11}}\n\n[[File:Figure 6 diagnostic tree.png|thumbnail|1050x1050px|\n<big>'''Figure 6. Diagnostic tree for haematuria'''</big>|alt=|neant]]\n\n\n\n\n\n<br />",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary cause of hematuria?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Urothelial carcinoma",
+        "description": "A type of cancer that affects the lining of the urinary system",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Kidney stones",
+        "description": "Hard, mineralized deposits that form in the kidneys or urinary tract",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Bladder cancer",
+        "description": "A type of cancer that affects the bladder lining",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Urinary tract infection",
+        "description": "An infection that affects the urinary system",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "option_a",
+        "description": "This is the correct answer",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

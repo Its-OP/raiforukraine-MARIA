@@ -1,0 +1,12 @@
+{
+  "folder": "IC-050",
+  "content": "{{knowledge objective\n|Identifiant=OIC-050-03-B\n|Item_parent=Genito-scrotal pathology in boys and men\n|Item_parent_short=Genito-scrotal pathology in boys and men\n|Rank=B\n|Title=Photographs: transilluminated bursa, non-transilluminated bursa\n|Description=None\n|Rubric=Multimedia content\n|Contributors=C\u00e9dric Leb\u00e2cle, Alice Faure\n|Order=3}}\n      \n\n'''Transilluminable stock exchange:'''\n\n[[File:Bouse transilluminable1.png|vignette|Bourse transilluminable |alt=|n\u00e9ant]]\n\n\n<br /><br />",
+  "question": {
+    "question": "Which of the following is a characteristic of a transilluminated bursa in the context of genito-scrotal pathology?",
+    "option_a": "It appears opaque and does not allow light to pass through.",
+    "option_b": "It is typically indicative of a normal, healthy bursa.",
+    "option_c": "It is often associated with the presence of fluid or infection.",
+    "option_d": "It is always a sign of a benign condition.",
+    "correct_option": "C"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-16-A\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=A\n|Title=Knowing international dental numbering\n|Description=None\n|Rubric=Definition\n|Contributors=\n|Order=16}}\n\n[[File:Child teeth.png|neant|vignette|Child teeth]]\n[[File:Adult teeth.png|neant|thumbnail]]",
+  "question": {
+    "question": "What is the primary purpose of the international dental numbering system?",
+    "option_a": "To identify the sequence in which teeth erupt in children",
+    "option_b": "To standardize the naming of dental procedures across different countries",
+    "option_c": "To track the growth and development of teeth in adolescents",
+    "option_d": "To provide a universal system for identifying and recording the location of teeth",
+    "correct_option": "D"
+  }
+}

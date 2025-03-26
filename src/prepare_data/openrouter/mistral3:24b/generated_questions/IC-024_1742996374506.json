@@ -1,0 +1,12 @@
+{
+  "folder": "IC-024",
+  "content": "{{knowledge objective\n|Identifiant=OIC-024-23-A\n|Item_parent=Main complications of pregnancy.\n|Item_parent_short=Main complications of pregnancy.\n|Rank=A\n|Title=Knowing the signs of diagnostic orientation and severity in the case of fever during pregnancy.\n|Description=Clinical examination and aetiological investigation\n|Rubric=Positive diagnosis\n|Contributors=Paul Berveiller,Philippe Deruelle\n|Order=23}}\n\nThe examination has two objectives:\n\n- look for \"warning signs\" of a specific aetiology: upper urinary tract infection (+++), listeriosis, chorioamniotitis, ENT infection (strep throat), influenza, signs of appendicitis or cholecystitis;\n\n- assess the obstetrical impact: PAD, premature rupture of membranes.\n\nQuestioning\n\n- predisposing antecedents (recurrent UTIs or uropathies, chronic illnesses, immunodepression, smoking, etc.);\n\n- ongoing ''treatments'' ;\n\n- special context'': epidemic, travel ;\n\n- ''accompanying signs'', in particular :\n\n- general: chills, ENT, pulmonary, digestive, flu-like symptoms\n\n- urinary: lower back pain, burning while urinating '''(Cf. [[Burning while urinating SD-096|96. Burning while urinating]])''''\n\n- obstetrical: EC, discharge of LA, leucorrhoea, bleeding '''(Cf. [[Uterine contraction in a pregnant woman SD-098|98. Uterine contractions in a pregnant woman]] / [[Pelvic pain SD-099|99. Pelvic pain]])'''''\n\n- the existence of active foetal movements ;\n\n- serology results (toxoplasmosis, rubella)\n\nExamination\n\n- ''temperature'', and other ''constants'' '''(Cf. [[Hyperthermia/fever SD-044|44. Hyperthermia / fever]])''''\n\n- General examination: ENT, cardiorespiratory, lymph node areas, skin, meningeal syndrome, abdomen and lumbar fossa;\n\n- urinary examination: appearance of urine, urine dipstick\n\n- obstetrical examination :\n\n- uterine height, heart sounds\n\n- vulva: herpetic vesicles or ulcers,\n\n- speculum: rupture of membranes, leucorrhoea, herpetic vesicles\n\n- vaginal examination if necessary: cervical changes.",
+  "question": {
+    "question": "During the examination of a pregnant woman with fever, which of the following is a key sign to look for in assessing the obstetrical impact?",
+    "option_a": "Chills and flu-like symptoms",
+    "option_b": "Burning while urinating",
+    "option_c": "Premature rupture of membranes",
+    "option_d": "Upper urinary tract infection",
+    "correct_option": "C"
+  }
+}

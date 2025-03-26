@@ -1,0 +1,12 @@
+{
+  "folder": "IC-325",
+  "content": "{{knowledge objective\n|Identifiant=OIC-325-12-A\n|Item_parent=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medicinal errors (see items 4 and 5)\n|Item_parent_short=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medication errors (see items 4 and 5)\n|Rank=A\n|Title=Know the mechanism for reporting abuse, dependence and misuse associated with the consumption of all substances or plants with a psychoactive effect, as well as all medicines or other products containing them.\n|Description=Be able to report abuse, dependence and misuse of all substances or plants with a psychoactive effect, as well as all medicines or other products containing them (What to report, to whom, by whom, how?).\n|Rubric=Definition\n|Contributors=Caroline Victorri-Vigneau\n|Order=12}}\n\n== '''Who declares?''' ==\nMandatory declaration: doctor, dental surgeon, midwife, pharmacist\n\nPossibility of declaring: other healthcare professional, other person\n\n== '''What?''' ==\nCases of serious drug dependence or serious abuse of a substance, plant, medicine or other product mentioned in article R. 5132-98, excluding alcohol and tobacco.\n\n== '''To whom?''' ==\nTo the Drug Dependence Assessment and Information Centre [CEIP] in the area where the case was reported.\n\n== '''How?                                                              ''' ==\nDirectly to the CEIP concerned (reporting form on the ANSM website) or via the adverse health event reporting portal (<nowiki>https://signalement.social-sante.gouv.fr</nowiki>).",
+  "question": {
+    "question": "Who is mandated to report cases of serious drug dependence or serious abuse of a substance, plant, medicine, or other product (excluding alcohol and tobacco)?",
+    "option_a": "Only pharmacists and doctors",
+    "option_b": "Only doctors and dental surgeons",
+    "option_c": "Doctors, dental surgeons, midwives, and pharmacists",
+    "option_d": "Only healthcare professionals and patients",
+    "correct_option": "C"
+  }
+}

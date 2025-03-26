@@ -1,0 +1,12 @@
+{
+  "folder": "IC-047",
+  "content": "{{knowledge objective\n|Identifiant=OIC-047-07-A\n|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity\n|Rank=A\n|Title=Know the indications for referring a child to an ophthalmologist.\n|Description=None\n|Rubric=Management\n|Contributors=Elise Launay\n|Order=7}}\n\nRefer to ophthalmologist if\n\n* personal or family history: risk factors = ophthalmological examination between 3 and 12 months, even in the absence of warning signs.\n* abnormality or doubt on inspection\n* abnormality or doubt on screening test\n* warning signs\n* inability to measure visual acuity (verbal age)\n\n'''IN EMERGENCY if'''\n\no leukocoria,\n\no cloudy cornea (glaucoma)\n\no sudden onset of strabismus\n\no recent onset of nystagmus",
+  "question": {
+    "question": "When should a child be referred to an ophthalmologist?",
+    "option_a": "If the child has a personal or family history of risk factors, even without warning signs, between 3 and 12 months.",
+    "option_b": "If the child has a personal or family history of risk factors, even without warning signs, between 1 and 2 years.",
+    "option_c": "If the child has a personal or family history of risk factors, only if there are warning signs, between 3 and 12 months.",
+    "option_d": "If the child has a personal or family history of risk factors, only if there are warning signs, between 1 and 2 years.",
+    "correct_option": "A"
+  }
+}

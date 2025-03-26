@@ -1,0 +1,46 @@
+{
+  "folder": "IC-136",
+  "content": "{{knowledge objective\n|Identifiant=OIC-136-09-B\n|Item_parent=Local, locoregional and general anaesthesia\n|Item_parent_short=Local, locoregional and general anaesthesia\n|Rank=B\n|Title=Knowing the main local anaesthetics\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=9}}\nThe main local anaesthetics used are :\n\n           -lidocaine\n\n           -mepivacaine\n\n           -bupivacaine\n\n           -ropivacaine",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "Which of the following local anaesthetics is NOT used in the treatment of epidural anaesthesia?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Lidocaine",
+        "description": "A commonly used local anaesthetic",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Mepivacaine",
+        "description": "Used in epidural anaesthesia",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Bupivacaine",
+        "description": "Used in epidural anaesthesia",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Ropivacaine",
+        "description": "Used in epidural anaesthesia",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Lidocaine",
+        "description": "A commonly used local anaesthetic",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-284",
+  "content": "{{knowledge objective\n|Identifiant=OIC-284-01-A\n|Item_parent=Functional colorectal disease\n|Item_parent_short=Functional colopathy\n|Rank=A\n|Title=Know the definition of irritable bowel syndrome (IBS) and the different subtypes.\n|Description=with predominant diarrhoea (IBS-D)<br>\nwith predominant constipation (IBS-C) <br>\nwith alternating diarrhoea and constipation (mixed forms, IBS-M) <br>\nunclassified forms\n|Rubric=Definition\n|Contributors=\n|Order=1}}\nIrritable bowel syndrome (IBS) (formerly functional colopathy) is a clinical diagnosis defined by the presence of abdominal pain associated with transit disorders in the absence of any organic digestive disease. By definition, all complementary tests are normal. It is a benign but chronic pathology with a significant deterioration in quality of life.\n\n\nThere are 4 subtypes of IBS, depending on the predominant transit.\n\n           - IBS with predominant diarrhoea (IBS-D),\n\n           - IBS with predominant constipation (IBS-C)\n\n           - IBS with alternating diarrhoea and constipation (IBS-A)\n\n           - IBS indeterminate (IBS-I), for patients who do not fall into any of the 3 subgroups",
+  "question": {
+    "question": "Which of the following is NOT a recognized subtype of Irritable Bowel Syndrome (IBS)?",
+    "option_a": "IBS with predominant diarrhoea (IBS-D)",
+    "option_b": "IBS with predominant constipation (IBS-C)",
+    "option_c": "IBS with alternating diarrhoea and constipation (IBS-A)",
+    "option_d": "IBS with predominant bloating (IBS-B)",
+    "correct_option": "D"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-075",
+  "content": "{{knowledge objective\n|Identifiant=OIC-075-15-A\n|Item_parent=Smoking addiction\n|Item_parent_short=Smoking addiction\n|Rank=A\n|Title=Knowing the impact on cardiovascular mortality\n|Description=None\n|Rubric=Epidemiology\n|Contributors=\n|Order=15}}\nImpact on cardiovascular mortality\n\n* Carbon monoxide (CO) is known to be responsible for cardiovascular disorders\n* Stopping smoking reduces mortality from cardiovascular disease\n* Smoking is the leading cause of avoidable cardiovascular death and the leading cardiovascular risk factor in post-menopausal women.\n* It is responsible for\n** Coronary heart disease\n** Obliterative arterial disease of the lower limbs\n** Hypertension\n** Hypertensive heart disease\n** Abdominal Aortic Aneurysm\n** Cerebrovascular accident\n* Passive intoxication is also known to cause ischaemic heart disease.",
+  "question": {
+    "question": "Which of the following is the primary cardiovascular risk factor in post-menopausal women?",
+    "option_a": "High cholesterol levels",
+    "option_b": "Obesity",
+    "option_c": "Smoking",
+    "option_d": "Diabetes",
+    "correct_option": "C"
+  }
+}

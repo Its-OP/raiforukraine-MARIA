@@ -1,0 +1,12 @@
+{
+  "folder": "IC-086",
+  "content": "{{knowledge objective\n|Identifiant=OIC-086-07-A\n|Item_parent=Eyelid pathology\n|Item_parent_short=Eyelid pathology\n|Rank=A\n|Title=Photograph of a chalazion\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=7}}\n\n[[File:Chalazion interne.jpg|left|vignette|Chalazion with internal extension to the eyelid (tarsal surface)]]\n\n[[File:Chalazion externe.jpg|gauche|vignette|Chalazion with extension to the outer surface of the eyelid (cutaneous surface)]]",
+  "question": {
+    "question": "Which of the following is a characteristic feature of a chalazion?",
+    "option_a": "It is typically painful and tender to touch.",
+    "option_b": "It is usually caused by a bacterial infection.",
+    "option_c": "It is a chronic, painless lump on the eyelid.",
+    "option_d": "It is primarily found in the inner canthus of the eye.",
+    "correct_option": "C"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-347",
+  "content": "{{knowledge objective\n|Identifiant=OIC-347-06-A\n|Item_parent=Acute urine retention\n|Item_parent_short=Acute urine retention\n|Rank=A\n|Title=Know the clinical signs distinguishing acute retention of urine from anuria\n|Description=Know the clinical features that enable the differential diagnosis of acute urinary retention to be identified.\n|Rubric=Positive diagnosis\n|Contributors=Jonathan Olivier\n|Order=6}}\n\nAcute urine retention should not be confused with anuria, which is the absence of urine production by the kidneys. In the case of anuria, the patient will have neither pain nor the desire to urinate, nor a bladder globe.",
+  "question": {
+    "question": "Which of the following is a clinical sign that distinguishes acute urinary retention from anuria?",
+    "option_a": "The presence of a bladder globe",
+    "option_b": "The presence of pain and the desire to urinate",
+    "option_c": "The absence of urine production by the kidneys",
+    "option_d": "The presence of frequent urination",
+    "correct_option": "B"
+  }
+}

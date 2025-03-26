@@ -1,0 +1,46 @@
+{
+  "folder": "IC-020",
+  "content": "{{knowledge objective\n|Identifiant=OIC-020-23-A\n|Item_parent=Health research methodology\n|Item_parent_short=Health research methodology\n|Rank=A\n|Title=Odds ratio, relative risk: estimation\n|Description=Knowing how to choose and calculate\n|Rubric=Definition\n|Contributors=Julie Berbis (CUESP),J\u00e9r\u00f4me Lambert (CIMES),David Hajage (CIMES),Alexandra Rouquette (CIMES)\n|Order=23}}\n\nThe Relative Risk (RR) and the Odds Ratio (OR) measure the strength of the link between an exposure factor and a health phenomenon (cf. [[Crude or adjusted measures of association, difference of means, Absolute Risk Reduction (ARR), Relative Risk Reduction (RRR), Number needed to treat (NNT) and Crude incidence rate ratio 2C-020-DE-A08]]).\n\nRR: ratio of the probability of being ill if exposed to the probability of being ill if not exposed. An RR can be estimated from a randomised controlled trial or an exposed/unexposed cohort study. <u>It cannot be estimated from a case-control study.</u>\n\nOR: Odds ratio of being sick or not sick according to the existence or absence of exposure. It can be interpreted as a relative risk when the endpoint studied is rare in the target population.  An OR can be estimated whatever the study design, <u>including case-control studies</u>.\n\nAs always, estimates of these parameters from a sample must be accompanied by their ''confidence interval''.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the correct term for the Odds Ratio (OR) in the context of relative risk?",
+        "description": "The relative risk (RR) and the Odds Ratio (OR) measure the strength of the link between an exposure factor and a health phenomenon.",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Odds Ratio",
+        "description": "The Odds Ratio (OR) is a measure of association between an exposure factor and a health phenomenon.",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Relative Risk",
+        "description": "The Relative Risk (RR) is a measure of association between an exposure factor and a health phenomenon.",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Odds Ratio",
+        "description": "The Odds Ratio (OR) is a measure of association between an exposure factor and a health phenomenon, and can be estimated from a randomised controlled trial or an exposed/unexposed cohort study.",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Relative Risk",
+        "description": "The Relative Risk (RR) is a measure of association between an exposure factor and a health phenomenon, and cannot be estimated from a case-control study.",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "Odds Ratio",
+        "description": "The Odds Ratio (OR) is a measure of association between an exposure factor and a health phenomenon, and can be estimated from a randomised controlled trial or an exposed/unexposed cohort study.",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "correct_option"
+    ],
+    "required_items": [
+      "question",
+      "correct_option"
+    ]
+  }
+}

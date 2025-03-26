@@ -1,0 +1,12 @@
+{
+  "folder": "IC-342",
+  "content": "{{knowledge objective\n|Identifiant=OIC-342-15-A\n|Item_parent=Sickness, loss of consciousness, coma in adults (see item 105)\n|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)\n|Rank=A\n|Title=Know the emergency procedures to be carried out in the presence of a generalised convulsive seizure.\n|Description=None\n|Rubric=Management\n|Contributors=\n|Order=15}}\n\n{| class=\"wikitable\"\n|cf item 105\n|}",
+  "question": {
+    "question": "What is the first step in managing a generalised convulsive seizure?",
+    "option_a": "Administer CPR immediately to maintain breathing.",
+    "option_b": "Place the person in a recovery position and call emergency services.",
+    "option_c": "Provide the person with water to drink to calm them down.",
+    "option_d": "Try to restrain the person to prevent them from hurting themselves.",
+    "correct_option": "B"
+  }
+}

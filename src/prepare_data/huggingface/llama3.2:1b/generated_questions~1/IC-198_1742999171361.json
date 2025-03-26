@@ -1,0 +1,46 @@
+{
+  "folder": "IC-198",
+  "content": "{{knowledge objective\n|Identifiant=OIC-198-11-A\n|Item_parent=Microcrystalline arthropathies\n|Item_parent_short=Microcrystalline arthropathies\n|Rank=A\n|Title=Knowing how to exclude septic arthritis\n|Description=Indication of joint fluid puncture\n|Rubric=Identification of the emergency\n|Contributors=\n|Order=11}}\nThe acute inflammation caused by the crystals may give rise to general signs (fever, even chills) and an acute biological inflammatory syndrome (elevated CRP, even VS, hyperleucocytosis).\n\nIf these signs are present, a joint infection must be ruled out.\n\nHowever, they may also correspond to an associated infection, the classic trigger for a gout attack. This clinical picture explains the number of emergency visits and hospitalisations.",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary indication for ruling out a joint infection in the context of acute inflammation caused by microcrystalline arthropathies?",
+        "description": "Indication of joint fluid puncture",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "A fever and chills",
+        "description": "General signs of acute inflammation",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "A joint infection",
+        "description": "Associated infection that triggers a gout attack",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "A classic trigger for a gout attack",
+        "description": "The primary indication for ruling out a joint infection",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "A general sign of acute inflammation",
+        "description": "The primary indication for ruling out a joint infection",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "A fever and chills",
+        "description": "General signs of acute inflammation",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

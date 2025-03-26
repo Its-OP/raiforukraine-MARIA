@@ -1,0 +1,12 @@
+{
+  "folder": "IC-161",
+  "content": "{{knowledge objective\n|Identifiant=OIC-161-06-A\n|Item_parent=Urinary infections in children and adults\n|Item_parent_short=Urinary infections in children and adults\n|Rank=A\n|Title=Knowing the principles of performing and interpreting the urine cytobacteriological examination (UCE)\n|Description=Interpretation of results, including significant bacteriuria thresholds, indications and when not to carry out a systematic ECBU, Knowledge of the causes of aseptic leucocyturia.\n|Rubric=Additional tests\n|Contributors=Maxime Vall\u00e9e, Alice Faure\n|Order=6}}\n\n\n*Second urine stream\n\n*The thresholds for leucocyturia are only of value in cases other than those listed below. In fact, all these elements can be a source of leucocyturia outside of any infectious process:\n**Recent urinary tract manipulation\n**Presence of endo-urinary material\n**Presence of a foreign body (stone, tumour)\n\n*The accepted threshold for significant leucocyturia is \u2265 10<sup>4</sup> /mL.\n*The threshold for significant bacteriuria in men is set at 10<sup>3</sup> CFU/mL\n*The threshold for significant bacteriuria in women is set at 10<sup>4</sup> CFU/mL except for E. coli and S. saprophyticus, for which the threshold is set at 10<sup>3</sup> CFU/mL.\n\n*Whatever the case, the clinical situation always takes precedence over these different thresholds and the diagnosis of UTI should not be ruled out<s>e</s> if the clinical situation is obvious.\n*Genuine UTIs have negative leucocyturia (immunodepression, etc).\n\n*On the other hand, bacteriuria with leucocyturia in the absence of symptoms should not lead to treatment because it is a case of urinary colonisation.\n*Finally, remember that the ECBU is not an infallible test and that in 10 to 15% of cases, it proves negative even though the infection is clinically proven (bacteria \"decapitated\" by antibiotic therapy, ECBU performed incorrectly, etc.).",
+  "question": {
+    "question": "What is the accepted threshold for significant bacteriuria in women for organisms other than E. coli and S. saprophyticus?",
+    "option_a": "10^3 CFU/mL",
+    "option_b": "10^4 CFU/mL",
+    "option_c": "10^5 CFU/mL",
+    "option_d": "10^2 CFU/mL",
+    "correct_option": "B"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "IC-030",
+  "content": "{{knowledge objective\n|Identifiant=OIC-030-02-B\n|Item_parent=Prematurity and intrauterine growth retardation: risk factors and prevention\n|Item_parent_short=Prematurity and intrauterine growth retardation: risk factors and prevention\n|Rank=B\n|Title=Knowing the signs of respiratory distress\n|Description=Diagnostic criteria and management\n|Rubric=Diagnosis\n|Contributors=\n|Order=2}}\n'''Clinical diagnosis'''' '''([[Acute respiratory distress SD-160|Acute respiratory distress]], [[Term newborn examination SD-039|Term newborn examination]])''': presence of one or more symptoms from among\n\n- polypnoea: FR > 60/min\n\n- signs of respiratory struggle: flapping of the wings of the nose, thoraco-abdominal rocking, intercostal traction, xyphoid funneling, expiratory whimpering\n\n- cyanosis and/or low oxygen saturation (colour abnormalities of the extremities)\n\n'''Signs of seriousness''' :\n\n- intensity of respiratory distress: Silverman score\n\n- pauses in breathing\n\n- associated haemodynamic disorders\n\nThe aetiological diagnosis is guided by the context of birth (risk factors for early bacterial neonatal infection, term of birth, clear or meconium-rich amniotic fluid, diabetes during pregnancy, etc), the time of onset of symptoms and their evolution.), the time to onset of symptoms and their evolution''([[Discovery of abnormalities on cardiac auscultation SD-018|Discovery of abnormalities on cardiac auscultation]], [[SDD-020|Discovery of abnormalities on pulmonary auscultation]]''', paraclinical examinations (chest X-ray) '''([[Request for an imaging examination SD-231|Request for an imaging examination]])'''.\n\nMain causes of respiratory distress: early bacterial neonatal infection, delayed resorption of pulmonary fluid, inhalation of meconium fluid, pneumothorax, hyaline membrane disease (premature babies).\n\nDifferential diagnosis: cyanogenic heart disease should be suspected in the presence of cyanosis without signs of a struggle, which is unresponsive or only partially responsive to oxygen therapy.\n\n<br />",
+  "question": {
+    "question": "Which of the following is NOT a sign of respiratory distress in newborns?",
+    "option_a": "Polypnoea with a respiratory rate greater than 60/min",
+    "option_b": "Cyanosis or low oxygen saturation",
+    "option_c": "Thoraco-abdominal rocking",
+    "option_d": "Pauses in breathing",
+    "correct_option": "D"
+  }
+}

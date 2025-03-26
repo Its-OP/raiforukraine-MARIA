@@ -1,0 +1,12 @@
+{
+  "folder": "IC-049",
+  "content": "{{knowledge objective\n|Identifiant=OIC-049-20-B\n|Item_parent=Normal and pathological puberty\n|Item_parent_short=Normal and pathological puberty\n|Rank=B\n|Title=Pubertal precocity growth curve\n|Description=None\n|Rubric=Multimedia content\n|Contributors=\n|Order=20}}\n<gallery>\nFile:Multimedia puberty.jpg|Mammary development and accelerated growth rate at age 7, patient P2S2R0 Suspi\u00e7ion of precocious puberty.\n</gallery>",
+  "question": {
+    "question": "At what age does the onset of mammary development and accelerated growth rate typically indicate a suspicion of precocious puberty in girls?",
+    "option_a": "Age 5",
+    "option_b": "Age 8",
+    "option_c": "Age 10",
+    "option_d": "Age 12",
+    "correct_option": "A"
+  }
+}

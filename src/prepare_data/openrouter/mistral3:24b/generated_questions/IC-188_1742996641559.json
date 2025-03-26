@@ -1,0 +1,12 @@
+{
+  "folder": "IC-188",
+  "content": "{{knowledge objective\n|Identifiant=OIC-188-09-A\n|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis\n|Rank=A\n|Title=Knowing how to diagnose asthma exacerbations in children and adults.\n|Description=None\n|Rubric=Positive diagnosis\n|Contributors=\n|Order=9}}\nThe diagnosis is clinical:\n\no progressive increase in symptoms lasting at least two days and requiring a change in treatment\n\no not soothed by rapid-acting bronchodilators used frequently and in large quantities\n\no without returning to the usual state",
+  "question": {
+    "question": "Which of the following is a key indicator of an asthma exacerbation in children and adults?",
+    "option_a": "A sudden decrease in symptoms that resolves quickly with minimal treatment",
+    "option_b": "A progressive increase in symptoms lasting at least two days and requiring a change in treatment",
+    "option_c": "Symptoms that are easily managed with rapid-acting bronchodilators used infrequently",
+    "option_d": "A return to the usual state without any changes in treatment",
+    "correct_option": "B"
+  }
+}

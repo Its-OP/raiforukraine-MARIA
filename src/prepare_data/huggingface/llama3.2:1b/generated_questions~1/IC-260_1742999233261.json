@@ -1,0 +1,46 @@
+{
+  "folder": "IC-260",
+  "content": "{{knowledge objective\n|Identifiant=OIC-260-07-A\n|Item_parent=Hematuria\n|Item_parent_short=Hematuria\n|Rank=A\n|Title=Photographs of a typical example of macroscopic haematuria\n|Description=None\n|Rubric=Multimedia content\n|Contributors=Charles Dariane,Bruno Moulin\n|Order=7}}\n\n<br /><big>'''Figure 3.''' Urine collecting bag reflecting macroscopic haematuria</big>\n[[File:Figure 3 urine collection bag HUbis.jpg|neant|vignette|<big>'''Figure 3.''' Urine collecting bag reflecting macroscopic haematuria</big>]]",
+  "question": {
+    "properties": {
+      "question": {
+        "title": "What is the primary cause of macroscopic haematuria?",
+        "description": "The multiple-choice question",
+        "type": "string"
+      },
+      "option_a": {
+        "title": "Infection",
+        "description": "A bacterial or viral infection can cause haematuria",
+        "type": "string"
+      },
+      "option_b": {
+        "title": "Kidney stones",
+        "description": "Kidney stones can cause haematuria due to their size and location",
+        "type": "string"
+      },
+      "option_c": {
+        "title": "Blood loss",
+        "description": "Blood loss from a trauma or surgery can cause haematuria",
+        "type": "string"
+      },
+      "option_d": {
+        "title": "Genetic disorders",
+        "description": "Genetic disorders can cause haematuria due to underlying conditions",
+        "type": "string"
+      },
+      "correct_option": {
+        "title": "option_a",
+        "description": "This consists only a letter of the correct option",
+        "type": "string"
+      }
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option"
+    ]
+  }
+}

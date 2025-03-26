@@ -1,0 +1,12 @@
+{
+  "folder": "IC-283",
+  "content": "{{knowledge objective\n|Identifiant=OIC-283-02-A\n|Item_parent=Constipation in children and adults\n|Item_parent_short=Constipation in children and adults\n|Rank=A\n|Title=Knowing the definition of chronic constipation\n|Description=How to define the chronicity of symptoms\n|Rubric=Definition\n|Contributors=\n|Order=2}}\n'''Adult'''\n\nConstipation can be defined as :\n\n- Either by reducing the number of bowel movements per week (< 3 bowel movements/week)\n\n- Or by exaggerated efforts to push to exonerate, which defines dyschezia\n\n- Or a combination of the two\n\nIn all cases, constipation can be defined as a patient's complaint about bowel movements (quality and number of stools, feeling of incomplete evacuation, etc.). Constipation is chronic if it has been present for at least 6 months.\n\n\nOccasional constipation is a separate entity. The patient complains of constipation that appears quite suddenly in particular circumstances such as the last months of pregnancy, bed rest or travelling.\n\n\nPassing liquid stools does not rule out constipation, especially if these liquid stools precede or follow a period without evacuation and/or are associated with the initial elimination of a block of hard stools (false diarrhoea).\n\nConstipation is one of the most common symptoms in gastroenterology, with a prevalence of 15-20%. It mainly affects women (hormonal role, childbirth).",
+  "question": {
+    "question": "What is the minimum duration required to define chronic constipation?",
+    "option_a": "At least 3 months",
+    "option_b": "At least 6 months",
+    "option_c": "At least 12 months",
+    "option_d": "At least 1 month",
+    "correct_option": "B"
+  }
+}

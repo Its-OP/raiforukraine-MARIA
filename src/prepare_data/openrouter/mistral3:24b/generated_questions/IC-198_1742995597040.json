@@ -1,0 +1,12 @@
+{
+  "folder": "IC-198",
+  "content": "{{knowledge objective\n|Identifiant=OIC-198-19-A\n|Item_parent=Microcrystalline arthropathies\n|Item_parent_short=Microcrystalline arthropathies\n|Rank=A\n|Title=Knowing the rules of hygiene and diet and the principles of hypouricemic treatments\n|Description=low initial dose, gradual monthly increase, treat-to-target, target uricemia <60 mg/l (50 mg/l if tophus)\n|Section=Management\n|Contributors=\n|Order=19}}\n'''Hygienodietary rules:'''\n\n- Progressive weight loss in cases of obesity or overweight (prevention of overweight and obesity).\n\n- Reducing alcoholic beverages (prevention of alcohol-related risks)\n\n- Ban on spirits and beer (very high in purines, even when alcohol-free)\n\n- Stop drinking sugary soft drinks\n\n- Decrease in fruit juices rich in fructose\n\n- Consumption of skimmed milk should be encouraged (uricosuric effect).\n\n- Moderate consumption of meat and seafood products\n\n'''Principles to be taken into account by the doctor (and the patient):'''\n\n- patient information and education, which are essential to the success of the basic treatment of gout;\n\n- The gout patient should be aware that gout attacks are the expression of chronic deposits of urate crystals (Announcement of a chronic disease). The aim of treatment is the permanent lowering of uricemia in order to obtain the dissolution of these deposits, the disappearance of clinical signs and the prevention of chronic gout complications.\n\n- the doctor must take the time to inform the patient about :\n\n- the importance of obtaining a target value for uricemia that allows the dissolution of\n\ncrystals;\n\n- the importance of long-term compliance with hypouricemic treatments;\n\n- the risk of a gout attack when taking hypouricemic drugs;\n\n- the cardiovascular, metabolic and renal risk associated with gout ;\n\n- the necessary adjustments to lifestyle, including compliance with dietary and hygiene rules\n\n- screening for and treatment of co-morbidities (cardiovascular, renal, metabolic syndrome)",
+  "question": {
+    "question": "Which of the following is a key principle of hypouricemic treatments for managing gout?",
+    "option_a": "Avoiding all dairy products to reduce uric acid levels",
+    "option_b": "Maintaining a high-protein diet to support muscle health",
+    "option_c": "Achieving and maintaining a target uricemia level below 60 mg/l (50 mg/l if tophus)",
+    "option_d": "Increasing the intake of sugary soft drinks to boost energy levels",
+    "correct_option": "C"
+  }
+}

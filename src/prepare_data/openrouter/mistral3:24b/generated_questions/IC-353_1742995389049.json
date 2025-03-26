@@ -1,0 +1,12 @@
+{
+  "folder": "IC-353",
+  "content": "{{knowledge objective\n|Identifiant=OIC-353-10-B\n|Item_parent=Suicidal risk and behaviour in children, adolescents and adults: identification and management\n|Item_parent_short=Suicidal risk and behaviour in children, adolescents and adults: identification and management\n|Rank=B\n|Title=Knowing the specific characteristics of children and adolescents\n|Description=None\n|Rubric=Management\n|Contributors=Pierre Vandel\n|Order=10}}\n\nA psychosocial assessment is systematically carried out alongside the medical assessment.\n\nA personalised safety plan is drawn up with the patient and their parents. This safety plan is a list of resources (resource persons, emergency telephone number, calming activities, reassurance techniques, etc.) that the patient can use before and during a suicidal crisis.\n\nInvolving parents in the care process is essential; they need to be made aware of the need for a safe environment (limiting access to lethal means).",
+  "question": {
+    "question": "When managing suicidal risk in children and adolescents, which of the following is a key component of the safety plan?",
+    "option_a": "Administering medication to prevent suicidal thoughts",
+    "option_b": "Providing a list of resources and techniques to use during a suicidal crisis",
+    "option_c": "Isolating the patient from their family to reduce stress",
+    "option_d": "Encouraging the patient to avoid discussing their feelings with anyone",
+    "correct_option": "B"
+  }
+}

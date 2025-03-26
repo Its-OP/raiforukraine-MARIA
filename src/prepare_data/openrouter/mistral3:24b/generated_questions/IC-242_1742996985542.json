@@ -1,0 +1,12 @@
+{
+  "folder": "IC-242",
+  "content": "{{knowledge objective\n|Identifiant=OIC-242-02-B\n|Item_parent=Hyperthyroidism\n|Item_parent_short=Hyperthyroidism\n|Rank=B\n|Title=Knowing the prevalence of hyperthyroidism\n|Description=None\n|Rubric=Epidemiology\n|Contributors=Dr Camille Buffet,Dr Magalie Haissaguerre\n|Order=2}}\n\nPrevalence is high but varies from country to country (0.2 to 1.9% for all causes combined).  \n\nWomen are more affected than men, with a sex ratio of around 7.\n\n<br />",
+  "question": {
+    "question": "What is the approximate prevalence of hyperthyroidism in the general population?",
+    "option_a": "0.1% to 0.5%",
+    "option_b": "0.2% to 1.9%",
+    "option_c": "2% to 3%",
+    "option_d": "5% to 10%",
+    "correct_option": "B"
+  }
+}

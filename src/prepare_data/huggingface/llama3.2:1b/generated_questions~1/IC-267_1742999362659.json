@@ -1,0 +1,19 @@
+{
+  "folder": "IC-267",
+  "content": "{{knowledge objective\n|Identifiant=OIC-267-18-A\n|Item_parent=Disorders of acid-base equilibrium and hydro-electrolytic disorders\n|Item_parent_short=Disorders of acid-base equilibrium and fluid-electrolyte disorders\n|Rank=A\n|Title=Knowing the indications for prescribing kalaemia and the definition of hypokalaemia\n|Description=None\n|Rubric=Definition\n|Contributors=P Rieu; B Moulin; M Flamant\n|Order=18}}\n'''1- Definition of hypokalaemia'''\n\n*Hypokalaemia is defined as a plasma potassium concentration of less than 3.5 mmol/L.\n*False hypokalaemia due to the passage of potassium from the extracellular compartment to the intracellular compartment has been described in highly hyperleukocytic leukaemic patients, if the blood sample is kept at room temperature for a prolonged period.\n\n'''2-Determination of kalaemia in search of hypokalaemia:'''\n\n*Acute or chronic diarrhoea\n*Initial assessment of hypertension\n*Prescription and monitoring of drugs that alter potassium metabolism (hypokalaemic diuretics)\n*Acute or chronic muscular disorders (cramps, myalgia)\n*Polyuro-polydipsic syndrome\n*Heart rhythm disorders\n*Loss of consciousness",
+  "question": {
+    "properties": {
+      "question": "What is the primary indication for prescribing potassium supplements in patients with hypokalaemia?",
+      "option_a": "Acute or chronic diarrhoea",
+      "option_b": "Initial assessment of hypertension",
+      "option_c": "Prescription and monitoring of drugs that alter potassium metabolism (hypokalaemic diuretics)",
+      "option_d": "Acute or chronic muscular disorders (cramps, myalgia)",
+      "correct_option": "option_a"
+    },
+    "required": [
+      "question",
+      "correct_option"
+    ],
+    "type": "string"
+  }
+}

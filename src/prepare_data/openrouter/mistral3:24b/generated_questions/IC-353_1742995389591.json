@@ -1,0 +1,12 @@
+{
+  "folder": "IC-353",
+  "content": "{{knowledge objective\n|Identifiant=OIC-353-01-A\n|Item_parent=Suicidal risk and behaviour in children, adolescents and adults: identification and management\n|Item_parent_short=Suicidal risk and behaviour in children, adolescents and adults: identification and management\n|Rank=A\n|Title=Knowing the definition of suicide, the suicidal, the suicidant, the suicidal person\n|Description=None\n|Rubric=Definition\n|Contributors=Pierre Vandel\n|Order=1}}\n\n* Suicide is a deliberate act to end one's own life.\n* Attempted suicide (AS) is a self-inflicted behaviour that puts life at risk in a real or symbolic way, but with no fatal outcome.  \n* Suicidal ideation (SDI) refers to thoughts about wanting to die. They can include passive suicidal ideas (for example, the wish not to wake up or to have an accident) or active suicidal ideas (the person thinks about actions).\n\n* Suicidal: an individual who survives a suicide attempt.\n* Suicidal: an individual with suicidal thoughts, expressed or otherwise.\n* Suicidal: an individual who has voluntarily taken his own life.",
+  "question": {
+    "question": "Which term refers to an individual who has voluntarily taken their own life?",
+    "option_a": "Suicidal ideation",
+    "option_b": "Suicidal",
+    "option_c": "Suicidant",
+    "option_d": "Attempted suicide",
+    "correct_option": "C"
+  }
+}

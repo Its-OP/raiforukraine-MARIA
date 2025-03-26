@@ -1,0 +1,22 @@
+{
+  "folder": "IC-234",
+  "content": "{{knowledge objective\n|Identifiant=OIC-234-14-A\n|Item_parent=Adult heart failure\n|Item_parent_short=Adult heart failure\n|Rank=A\n|Title=Knowing the radiographic semiology in PAO of haemodynamic origin\n|Description=Gravito-dependent alveolar interstitial syndrome: confluent flaky opacities of the bases, horizontal subpleural Kerley lines, vascular redistribution from the bases to the apices, pleural effusions after a few hours; alveolar opacities of perihilar distribution when the onset is sudden.\n|Rubric=Additional examinations\n|Contributors=Olivier Huttin\n|Order=14}}\nRadiological signs of pulmonary stasis with '''Alveolo-interstitial syndrome:''''\n\n- vascular redistribution from the base to the apices;\n\n- interstitial oedema with Kerley's B lines, blurred appearance of the large hilar vessels and reticulo-nodular images predominating at the bases;\n\n- alveolar oedema resulting in flaky opacities with blurred outlines extending from the hilum towards the periphery (a so-called \"butterfly wing\" appearance). These opacities are usually bilateral, but misleading unilateral forms may be seen (directional mitral insufficiency).\n\n- uni- or bi-lateral pleural effusions.\n\n- cardiothoracic ratio (CTR) may be increased (> 0.5 cardiomegaly)",
+  "question": {
+    "properties": {
+      "question": "What is the characteristic feature of pulmonary stasis in adult heart failure?",
+      "option_a": "Vascular redistribution from the base to the apices of the lungs",
+      "option_b": "Interstitial edema with Kerley's B lines and reticulo-nodular images predominating at the bases",
+      "option_c": "Alveolar edema resulting in flaky opacities with blurred outlines extending from the hilum towards the periphery",
+      "option_d": "Uni- or bilateral pleural effusions",
+      "correct_option": "option_a"
+    },
+    "required": [
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d"
+    ],
+    "type": "string"
+  }
+}

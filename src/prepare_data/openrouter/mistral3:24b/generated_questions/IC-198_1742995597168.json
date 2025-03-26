@@ -1,0 +1,12 @@
+{
+  "folder": "IC-198",
+  "content": "{{knowledge objective\n|Identifiant=OIC-198-11-A\n|Item_parent=Microcrystalline arthropathies\n|Item_parent_short=Microcrystalline arthropathies\n|Rank=A\n|Title=Knowing how to exclude septic arthritis\n|Description=Indication of joint fluid puncture\n|Rubric=Identification of the emergency\n|Contributors=\n|Order=11}}\nThe acute inflammation caused by the crystals may give rise to general signs (fever, even chills) and an acute biological inflammatory syndrome (elevated CRP, even VS, hyperleucocytosis).\n\nIf these signs are present, a joint infection must be ruled out.\n\nHowever, they may also correspond to an associated infection, the classic trigger for a gout attack. This clinical picture explains the number of emergency visits and hospitalisations.",
+  "question": {
+    "question": "Which of the following is the primary reason for performing a joint fluid puncture in cases of acute inflammation caused by crystals?",
+    "option_a": "To confirm the presence of crystals in the joint",
+    "option_b": "To rule out a joint infection",
+    "option_c": "To measure the level of inflammation markers in the joint fluid",
+    "option_d": "To determine the type of crystals present in the joint",
+    "correct_option": "B"
+  }
+}

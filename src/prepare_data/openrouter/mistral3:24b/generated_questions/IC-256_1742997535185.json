@@ -1,0 +1,12 @@
+{
+  "folder": "IC-256",
+  "content": "{{knowledge objective\n|Identifiant=OIC-256-02-B\n|Item_parent=Sport skills in adults and children; nutritional requirements of athletes (see item 80)\n|Item_parent_short=Sport skills in adults and children; nutritional requirements in sportspeople (see item 80)\n|Rank=B\n|Title=Knowing the contraindications to practising sport in schools\n|Description=Specificities of contraindications to sport in the school environment\n|Section=Definition\n|Contributors=\n|Order=2}}\nPhysical and sports education (PSE) is compulsory. In the absence of a specific certificate of inaptitude, all children and adolescents are considered fit for PSE.\n\nPartial or total, temporary or permanent contraindications (inaptitude) to practising sport in the school environment are linked to either\n\n- chronic illnesses in decompensation, permanent disabilities preventing certain activities or situations of severe malnutrition (anorexia nervosa)\n\n- acute illnesses that contraindicate effort or the use of a limb (fracture while it heals)\n\nA medical certificate is required for full or partial exemption. They are valid for no longer than the current school year. Total or permanent disqualifications are exceptional.<ref>Medical supervision of disqualifications from physical education and sport in educational establishments[https://www.legifrance.gouv.fr/download/pdf/circ?id=43765]</ref>\n\nexample of a certificate of unfitness: http://www.lycee-international.ac-versailles.fr/IMG/pdf/certificat_medical_acad._versailles.pdf",
+  "question": {
+    "question": "Which of the following conditions would typically require a medical certificate for a student to be exempted from physical and sports education (PSE) in a school setting?",
+    "option_a": "A minor cold that resolves within a few days",
+    "option_b": "A chronic illness that is currently well-managed and stable",
+    "option_c": "A severe fracture that is still in the process of healing",
+    "option_d": "A temporary bout of mild fatigue due to lack of sleep",
+    "correct_option": "C"
+  }
+}

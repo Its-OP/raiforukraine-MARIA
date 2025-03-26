@@ -1,0 +1,12 @@
+{
+  "folder": "IC-187",
+  "content": "{{knowledge objective\n|Identifiant=OIC-187-04-A\n|Item_parent=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Item_parent_short=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis\n|Rank=A\n|Intitle=Photography of a urticaria\n|Description=Photo of edematous patches of urticaria\n|Rubric=Multimedia content\n|Contributors=\n|Order=4}}\n\n[[File:Figure 7 .png|centre|thumb|''edematous papules of urticaria'']]\nSee also Figure 5.",
+  "question": {
+    "question": "What is the primary characteristic of the skin condition shown in the photograph of urticaria?",
+    "option_a": "The presence of dry, scaly patches",
+    "option_b": "The appearance of blisters filled with fluid",
+    "option_c": "The formation of edematous papules",
+    "option_d": "The development of thick, leathery skin",
+    "correct_option": "C"
+  }
+}
