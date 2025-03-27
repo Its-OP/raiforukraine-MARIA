@@ -1,0 +1,9 @@
+Model,total,Generated json structure,Valid json structure,Valid json structure (%),Generated json structure
+Llama3.2:1b,1591,1092,706,"44,4","68,6"
+Llama3.2:3b,1591,1490,276,"17,3","93,7"
+Phi-3.5-mini:3.8b,1591,1497,859,"54,0","94,1"
+Llama3.1:8b,1591,1570,1574,"98,9","98,7"
+Mistral3:24b,1591,1569,1570,"98,7","98,6"
+Llama3.3:70b,1591,1585,1577,"99,1","99,6"
+
+
